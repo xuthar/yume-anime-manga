@@ -1,0 +1,21 @@
+# Cronologia — Anime e Manga
+
+## 17 ottobre 2026 — Cast e sigle
+
+Copertura verificata: **752/752 anime**, **7.076 associazioni personaggio/interprete** e **2.392 sigle**. La fonte fornisce **624 collegamenti YouTube diretti**; le altre sigle hanno una ricerca YouTube per titolo e artista. Per 9 anime non sono disponibili associazioni di doppiaggio nella fonte e per 26 non sono indicate sigle: le schede mostrano messaggi espliciti. Il secondo controllo delle 9 schede senza cast non ha prodotto ulteriori crediti.
+
+Controlli superati: importazione con identità MAL verificata, regressioni del parser, schema dell'intero catalogo, escaping dei contenuti, URL YouTube e conservazione dei 1.027 titoli e 1.341 record di volumi. Controllo visivo sulla copia Sites pubblicata: cast e sigle caricati correttamente, collegamenti coerenti, nessun errore JavaScript e nessuno scorrimento orizzontale a 390 px. Aggiornamento trasferito nel repository GitHub esistente, mantenendo la pubblicazione dalla radice del ramo main.
+
+- Ripresa la richiesta di completare le schede di tutti i 752 anime con doppiatori e opening/ending.
+- Aggiunte sezioni dedicate nelle schede, con personaggi, interpreti, lingua, titolo delle sigle, artista ed episodi di utilizzo disponibili.
+- Aggiunti collegamenti YouTube diretti quando forniti dalla fonte e ricerche del brano chiaramente etichettate negli altri casi.
+- Aggiunta tracciabilità della fonte MAL e della data di verifica, con controllo dell'identità della stagione durante l'importazione.
+- Conservati catalogo personale, voti, progressi, preferiti locali e dati delle edizioni manga.
+- Aggiunti importatore riprendibile e controlli dei dati e del rendering.
+- Creato il registro `PROGETTO_ANIME_E_MANGA.md` per mantenere le decisioni e riprendere il lavoro con continuità.
+
+## Stato precedente — versione pubblicata 3, 16 ottobre 2026
+
+- Catalogo di 752 anime e 275 manga/novel, con 1.341 volumi in collezione.
+- Copertine, ricerca per titoli alternativi, filtri, paginazione, voti, progressi e preferiti del browser.
+- Nell'istantanea del sorgente recuperata il 17 ottobre non erano presenti sezioni di cast e sigle.
