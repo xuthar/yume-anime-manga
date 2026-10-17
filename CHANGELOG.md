@@ -1,5 +1,15 @@
 # Cronologia — Anime e Manga
 
+## 17 ottobre 2026 — Seasons su GitHub Pages
+
+- Aggiunti menu Seasons, richiamo nella homepage e pagina stagionale dedicata.
+- Summer 2026: 262 presenze; Autumn 2026: 169; Winter 2026: 229. Totale: 560 anime distinti. Winter 2026 indica gennaio–marzo 2026.
+- Schede con immagini, titoli disponibili, trama breve, studio, formato, episodi, durata, adattamento e voto MAL.
+- Ricerca e filtri per formato, piattaforma italiana e nuove uscite/prosecuzioni.
+- Streaming italiano indicato per 153 titoli; assenze e dati non confermati restano espliciti. Fonti e data di controllo nelle schede; acquisti/noleggi distinti dagli abbonamenti.
+- Verificate 560 pagine individuali MAL. Titoli italiani documentati dal catalogo italiano. Trame come sintesi editoriali, brevi estratti attribuiti o note sul progetto.
+- Pubblicazione nel repository xuthar/yume-anime-manga e nella sua GitHub Pages.
+
 ## 17 ottobre 2026 — Cast e sigle
 
 Copertura verificata: **752/752 anime**, **7.076 associazioni personaggio/interprete** e **2.392 sigle**. La fonte fornisce **624 collegamenti YouTube diretti**; le altre sigle hanno una ricerca YouTube per titolo e artista. Per 9 anime non sono disponibili associazioni di doppiaggio nella fonte e per 26 non sono indicate sigle: le schede mostrano messaggi espliciti. Il secondo controllo delle 9 schede senza cast non ha prodotto ulteriori crediti.

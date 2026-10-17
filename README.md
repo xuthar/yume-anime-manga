@@ -26,3 +26,10 @@ Le schede dei 752 anime includono i crediti disponibili: personaggi e doppiatori
 Registro delle modifiche: `CHANGELOG.md`. Contesto per riprendere il progetto: `PROGETTO_ANIME_E_MANGA.md`.
 
 Importazione riprendibile: `python import-anime-details.py` (richiede `lxml`). Verifiche: `python test-anime-import.py`, `node verify-anime-credits.cjs`, `node --check app.js`, `node --check anime-credits.js`.
+
+## Seasons 2026
+La pagina `seasons.html` raccoglie Summer (262 presenze), Autumn (169) e Winter (229) del 2026: 560 titoli distinti. Winter indica gennaio–marzo. TV, ONA, OVA, film e special sono ricercabili e filtrabili per formato, streaming italiano e nuove uscite/prosecuzioni. Schede con copertina, titoli disponibili, trama breve, studio, episodi, durata, adattamento e voto MAL.
+
+`seasons.json` conserva il catalogo; `data/season-summaries-it.json` le sintesi editoriali e `data/season-italian-metadata.json` le denominazioni italiane documentate. Le informazioni assenti sono esplicite. Acquisti e noleggi sono distinti dagli abbonamenti. Le copertine aggiuntive sono caricate direttamente da MAL senza referrer; quelle per adulti non vengono mostrate.
+
+Aggiornamento manuale: `python import-seasons.py`, `python enrich-seasons-it.py`, `python finalize-seasons.py`, `node verify-seasons.cjs`. Gli importatori usano pagine pubbliche e cache temporanee; i testi editoriali rimangono versionati. Il calendario segue MAL, distinto dalle date italiane di disponibilità.

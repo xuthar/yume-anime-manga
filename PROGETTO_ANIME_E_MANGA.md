@@ -46,3 +46,11 @@ L'utente vuole mantenere la cronologia nel progetto **Anime e Manga**. Questo re
 752 anime verificati; 7.076 associazioni di cast e 2.392 sigle. Collegamenti musicali diretti forniti dalla fonte: 624. Nove opere non hanno crediti di doppiaggio disponibili su MAL; ventisei non hanno sigle elencate. Queste assenze sono segnalate nelle schede, senza trasferire informazioni da altri adattamenti.
 
 Leggere questo registro e `CHANGELOG.md`, controllare la versione pubblicata e il repository corrente prima di apportare modifiche. Per ulteriori dati musicali mantenere la distinzione fra collegamenti diretti e ricerca YouTube. Il catalogo non si sincronizza automaticamente con MAL.
+
+## Seasons — richiesta del 17 ottobre 2026
+
+Pagina: https://xuthar.github.io/yume-anime-manga/seasons.html. Stagioni richieste: Summer, Autumn e Winter 2026. Winter 2026 indica gennaio–marzo, non Winter 2027. Spring è prevista nella struttura, senza catalogo in questa prima versione.
+
+Catalogo stagionale separato dalla lista personale: 660 presenze, 560 titoli. Schede con immagini, dati principali, titoli originali/inglesi/italiani disponibili, trama breve e streaming in Italia. Nuove uscite e prosecuzioni hanno filtri distinti. Fonti: MAL e denominazioni/indicazioni regionali JustWatch. Non dedurre licenze italiane da altri paesi e non inventare titoli italiani traducendo liberamente.
+
+File: `seasons.html`, `seasons.css`, `seasons.js`, `seasons.json`, cartella `data/`. Controllo: `node verify-seasons.cjs`. Pubblicare gli aggiornamenti su **GitHub Pages**, repository **xuthar/yume-anime-manga**.
