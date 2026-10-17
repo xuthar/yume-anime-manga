@@ -17,3 +17,18 @@ assert(!context.titleField('INGLESE','<img onerror=x>').includes('<img'));
 assert(context.titleField('INGLESE','').includes('Non indicato'));
 const parsed=fs.readFileSync('index.html','utf8');assert(parsed.includes('href="seasons.html"'));
 console.log(`PASS: 3 seasons, 660 entries, 560 verified titles, ${plots} synopses/project notes, ${offers} Italian streaming offers; original titles, adult cover handling and safe rendering.`);
+const storage=new Map();context.localStorage={getItem:key=>storage.get(key)||null,setItem:(key,value)=>storage.set(key,value)};
+assert.equal(vm.runInContext('Object.keys(readChoices()).length',context),0);
+storage.set('yume-season-choices','{"anime-1":"watch","anime-2":"skip","anime-3":"invalid","bad":"watch"}');
+assert.equal(vm.runInContext('JSON.stringify(readChoices())',context),'{"anime-1":"watch","anime-2":"skip"}');
+storage.set('yume-season-choices','broken');assert.equal(vm.runInContext('Object.keys(readChoices()).length',context),0);
+function element(){return {dataset:{},children:[],attributes:{},append(x){this.children.push(x)},setAttribute(k,v){this.attributes[k]=v},querySelectorAll(){return this.children}}}
+context.document.createElement=element;
+context.renderSeasons=()=>{};
+const choice=context.choiceControls({id:'anime-1',title:'Test'});
+choice.children[0].onclick();assert.equal(JSON.parse(storage.get('yume-season-choices'))['anime-1'],'watch');
+choice.children[1].onclick();assert.equal(JSON.parse(storage.get('yume-season-choices'))['anime-1'],'skip');
+choice.children[1].onclick();assert.equal(JSON.parse(storage.get('yume-season-choices'))['anime-1'],undefined);
+choice.children[0].onclick();assert.equal(vm.runInContext('readChoices()["anime-1"]',context),'watch');
+context.localStorage.setItem=()=>{throw Error('Storage blocked')};choice.children[1].onclick();assert.equal(vm.runInContext('seasonChoices["anime-1"]',context),'skip');
+console.log('PASS: choice validation, watch/skip exclusivity, undo, persistence and blocked-storage fallback.');

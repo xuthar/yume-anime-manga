@@ -54,3 +54,6 @@ Pagina: https://xuthar.github.io/yume-anime-manga/seasons.html. Stagioni richies
 Catalogo stagionale separato dalla lista personale: 660 presenze, 560 titoli. Schede con immagini, dati principali, titoli originali/inglesi/italiani disponibili, trama breve e streaming in Italia. Nuove uscite e prosecuzioni hanno filtri distinti. Fonti: MAL e denominazioni/indicazioni regionali JustWatch. Non dedurre licenze italiane da altri paesi e non inventare titoli italiani traducendo liberamente.
 
 File: `seasons.html`, `seasons.css`, `seasons.js`, `seasons.json`, cartella `data/`. Controllo: `node verify-seasons.cjs`. Pubblicare gli aggiornamenti su **GitHub Pages**, repository **xuthar/yume-anime-manga**.
+
+### 17 ottobre 2026 — Scelte personali Seasons
+Ogni anime stagionale dispone di «Voglio vederlo» e «Lo salto», sia nella card sia nella scheda. Ripremere annulla la scelta. Filtro «La mia scelta» con stati da vedere, saltato, da decidere. Chiave locale `yume-season-choices`, indicizzata per ID anime MAL, indipendente dai cuori dei preferiti. Salvataggio nel browser/dispositivo, senza sincronizzazione account. Test in `verify-seasons.cjs`.

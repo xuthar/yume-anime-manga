@@ -30,3 +30,9 @@ Controlli superati: importazione con identità MAL verificata, regressioni del p
 - Catalogo di 752 anime e 275 manga/novel, con 1.341 volumi in collezione.
 - Copertine, ricerca per titoli alternativi, filtri, paginazione, voti, progressi e preferiti del browser.
 - Nell'istantanea del sorgente recuperata il 17 ottobre non erano presenti sezioni di cast e sigle.
+
+## 2026-10-17 — Scelte personali nelle Seasons
+- Pulsanti «Voglio vederlo» e «Lo salto» nelle card e nelle schede complete, con scelta esclusiva e annullamento premendo di nuovo.
+- Filtro per anime da vedere, saltati e ancora da decidere; scelte condivise tra stagioni tramite ID MAL.
+- Salvataggio locale come i preferiti, sincronizzazione fra schede del browser e avviso se il salvataggio non è disponibile.
+- Verificati catalogo, persistenza, cambio scelta, annullamento e fallback senza localStorage.
