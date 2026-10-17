@@ -10842,7 +10842,7 @@
       "title": "Kusuriya no Hitorigoto 3rd Season",
       "japanese": "薬屋のひとりごと 第3期",
       "english": "The Apothecary Diaries Season 3",
-      "italian": "Il monologo della speziale",
+      "italian": "Il monologo della Speziale stagione 3",
       "url": "https://myanimelist.net/anime/61987/Kusuriya_no_Hitorigoto_3rd_Season",
       "format": "TV",
       "genres": [
@@ -10858,13 +10858,21 @@
       "image": "https://cdn.myanimelist.net/images/anime/1028/160277.jpg",
       "adult": false,
       "synopsisIt": "Tornata al lavoro da farmacista, Maomao nota un’anomalia che avvia nuove indagini, mentre Jinshi affronta le responsabilità della propria identità.",
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries",
+          "country": "IT",
+          "access": "Subscription"
+        }
+      ],
       "streamingSource": "https://www.justwatch.com/it/serie-tv/i-diari-della-speziale/stagione-3",
       "checkedAt": "2026-10-17T11:53:03.833785+00:00",
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/61987/Kusuriya_no_Hitorigoto_3rd_Season",
       "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/i-diari-della-speziale"
+      "titleItSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-61967": {
       "id": "anime-61967",
@@ -10888,13 +10896,21 @@
       "image": "https://cdn.myanimelist.net/images/anime/1857/160133.jpg",
       "adult": false,
       "synopsisIt": "In un mondo permeato di magia, due neonati, Asta e Yuno, vengono abbandonati sugli scalini di una chiesa.…",
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/watch/GRP512WDR/the-all-magic-knights-thanksgiving-festa",
+          "country": "IT",
+          "access": "Subscription"
+        }
+      ],
       "streamingSource": "https://www.justwatch.com/it/serie-tv/black-clover/stagione-5",
       "checkedAt": "2026-10-17T11:53:03.833785+00:00",
       "detailsChecked": true,
       "synopsisSource": "https://www.justwatch.com/it/serie-tv/black-clover",
       "synopsisNote": "Breve estratto della premessa generale della serie nel catalogo italiano.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/black-clover"
+      "titleItSource": "https://www.justwatch.com/it/serie-tv/black-clover",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-53913": {
       "id": "anime-53913",
@@ -11014,12 +11030,20 @@
       "image": "https://cdn.myanimelist.net/images/anime/1172/159893.jpg",
       "adult": false,
       "synopsisIt": "Rapita da alcuni mercenari, Satoko cerca una possibilità di salvezza mentre il suo destino si intreccia con quello di Shinpei.",
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/",
+          "country": "IT",
+          "access": "Subscription"
+        }
+      ],
       "streamingSource": "",
       "checkedAt": "2026-10-17T11:53:03.833785+00:00",
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/63293/Hotaru_no_Yomeiri",
-      "synopsisNote": "Sintesi editoriale dalla fonte MAL."
+      "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-52480": {
       "id": "anime-52480",
@@ -11190,7 +11214,8 @@
       "detailsChecked": true,
       "synopsisSource": "https://www.justwatch.com/it/serie-tv/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world",
       "synopsisNote": "Breve estratto della premessa generale della serie nel catalogo italiano.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world"
+      "titleItSource": "https://www.justwatch.com/it/serie-tv/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-64340": {
       "id": "anime-64340",
@@ -11227,7 +11252,8 @@
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/64340/Tempal__Item_no_Chikara",
       "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/overgeared/stagione-1"
+      "titleItSource": "https://www.justwatch.com/it/serie-tv/overgeared/stagione-1",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-61603": {
       "id": "anime-61603",
@@ -11263,7 +11289,8 @@
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/61603/Ao_Ashi_Season_2",
       "synopsisNote": "La fonte riporta soltanto una nota sul progetto o sulla stagione.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/aoashi/stagione-2"
+      "titleItSource": "https://www.justwatch.com/it/serie-tv/aoashi/stagione-2",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-63409": {
       "id": "anime-63409",
@@ -11503,6 +11530,12 @@
           "url": "https://www.netflix.com/title/81969861",
           "country": "IT",
           "access": "Subscription"
+        },
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/watch/GE00390546JAJP/let-the-training-begin",
+          "country": "IT",
+          "access": "Subscription"
         }
       ],
       "streamingSource": "https://www.justwatch.com/it/serie-tv/memorizzazione-di-togen/stagione-2",
@@ -11510,7 +11543,8 @@
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/63181/Tougen_Anki__Nikko_Kegon_no_Taki-hen",
       "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/memorizzazione-di-togen/stagione-2"
+      "titleItSource": "https://www.justwatch.com/it/serie-tv/memorizzazione-di-togen/stagione-2",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-58518": {
       "id": "anime-58518",
@@ -11758,7 +11792,8 @@
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/56733/Magical★Explorer",
       "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/magical-explorer/stagione-1"
+      "titleItSource": "https://www.justwatch.com/it/serie-tv/magical-explorer/stagione-1",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-63754": {
       "id": "anime-63754",
@@ -11933,7 +11968,8 @@
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/61014/Toaru_Anbu_no_Item",
       "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
-      "titleItSource": "https://www.justwatch.com/it/serie-tv/a-certain-dark-item/stagione-1"
+      "titleItSource": "https://www.justwatch.com/it/serie-tv/a-certain-dark-item/stagione-1",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-63712": {
       "id": "anime-63712",
@@ -12058,12 +12094,20 @@
       "image": "https://cdn.myanimelist.net/images/anime/1478/160268.jpg",
       "adult": false,
       "synopsisIt": "Tre studentesse vengono trasportate a Cephiro e scoprono di essere le guerriere magiche chiamate a salvare quel mondo.",
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00383994/magic-knight-rayearth-2026",
+          "country": "IT",
+          "access": "Subscription"
+        }
+      ],
       "streamingSource": "https://www.justwatch.com",
       "checkedAt": "2026-10-17T11:53:03.833785+00:00",
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/59204/Magic_Knight_Rayearth_2026",
-      "synopsisNote": "Sintesi editoriale dalla fonte MAL."
+      "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-64084": {
       "id": "anime-64084",
@@ -12694,12 +12738,20 @@
       "image": "https://cdn.myanimelist.net/images/anime/1496/160013.jpg",
       "adult": false,
       "synopsisIt": "La pace ha messo in difficoltà un’azienda cresciuta sul successo del robot Dandivine, preparando una nuova e insolita crisi.",
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GT00385792/dandivine",
+          "country": "IT",
+          "access": "Subscription"
+        }
+      ],
       "streamingSource": "",
       "checkedAt": "2026-10-17T11:53:03.833785+00:00",
       "detailsChecked": true,
       "synopsisSource": "https://myanimelist.net/anime/64344/Juuou_Mujin_Dandivine",
-      "synopsisNote": "Sintesi editoriale dalla fonte MAL."
+      "synopsisNote": "Sintesi editoriale dalla fonte MAL.",
+      "streamingOfficialSource": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
     "anime-64718": {
       "id": "anime-64718",

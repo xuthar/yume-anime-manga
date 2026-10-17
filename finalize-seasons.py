@@ -48,6 +48,14 @@ for season in x['seasons']:
    try:
     if datetime.date.fromisoformat(z['releaseDate'])<cutoff:entry['continuing']=True
    except ValueError:pass
+overrides_path=ROOT/'data/season-streaming-overrides.json'
+if overrides_path.exists():
+ for key,entry in json.loads(overrides_path.read_text())['items'].items():
+  if key not in x['items']:continue
+  item=x['items'][key]
+  if not any(v['name']==entry['service'] for v in item['streaming']):item['streaming'].append({'name':entry['service'],'url':entry['url'],'country':'IT','access':'Subscription'})
+  item['streamingOfficialSource']=entry['sourceUrl']
+  if entry.get('italian'):item['italian']=entry['italian'];item['titleItSource']=entry['sourceUrl']
 x['updatedAt']=datetime.datetime.now(datetime.timezone.utc).isoformat();p.write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n')
 print('Titles',len(x['items']),'IT titles',sum(bool(z['italian']) for z in x['items'].values()),'synopsis',sum(bool(z['synopsisIt']) for z in x['items'].values()),'IT streaming',sum(bool(z['streaming']) for z in x['items'].values()))
 missing=[z for z in x['items'].values() if not z['synopsisIt'] and 'non ha ancora' not in z['synopsisNote']];print('Untranslated',[(z['malId'],z['title']) for z in missing])

@@ -6,7 +6,8 @@
 - Summer 2026: 262 presenze; Autumn 2026: 169; Winter 2026: 229. Totale: 560 anime distinti. Winter 2026 indica gennaio–marzo 2026.
 - Schede con immagini, titoli disponibili, trama breve, studio, formato, episodi, durata, adattamento e voto MAL.
 - Ricerca e filtri per formato, piattaforma italiana e nuove uscite/prosecuzioni.
-- Streaming italiano indicato per 153 titoli; assenze e dati non confermati restano espliciti. Fonti e data di controllo nelle schede; acquisti/noleggi distinti dagli abbonamenti.
+- Streaming italiano indicato per 158 titoli; assenze e dati non confermati restano espliciti. Fonti e data di controllo nelle schede; acquisti/noleggi distinti dagli abbonamenti.
+- Integrate 11 conferme dal palinsesto ufficiale italiano di Crunchyroll, con fonte nelle schede.
 - Verificate 560 pagine individuali MAL. Titoli italiani documentati dal catalogo italiano. Trame come sintesi editoriali, brevi estratti attribuiti o note sul progetto.
 - Pubblicazione nel repository xuthar/yume-anime-manga e nella sua GitHub Pages.
 
