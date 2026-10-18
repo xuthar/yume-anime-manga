@@ -36,3 +36,11 @@ Controlli superati: importazione con identità MAL verificata, regressioni del p
 - Filtro per anime da vedere, saltati e ancora da decidere; scelte condivise tra stagioni tramite ID MAL.
 - Salvataggio locale come i preferiti, sincronizzazione fra schede del browser e avviso se il salvataggio non è disponibile.
 - Verificati catalogo, persistenza, cambio scelta, annullamento e fallback senza localStorage.
+
+## 2026-10-18 — Catalogo completo e schede franchise
+- Controllati i 794 anime iniziali e chiuse ricorsivamente le relazioni MAL: 1.933 opere, 580 franchise, 1.139 aggiunte senza progressi o voti assegnati.
+- Identificati i 42 record provvisori mantenendo gli ID locali usati dai preferiti; corrette le copertine prese in prestito da altre stagioni.
+- Cast e musica: 15.334 associazioni di doppiaggio, 4.080 sigle, 910 link YouTube da MAL; 24 video associati da fonti ufficiali.
+- Confronto AnimeClick: 794 titoli cercati, alias e pagine approfondite; corrispondenze ambigue esplicitamente non verificate.
+- Aggiornati Anime, Da vedere e Serie e stagioni; 11.598 campi personali verificati. Archiviati i 41 duplicati manuali che bloccavano la vista Da vedere; la formula ora restituisce 1.227 titoli.
+- Salvati resoconto completo, audit e CSV per opera. Tutti i manga e i campi personali già presenti restano preservati.

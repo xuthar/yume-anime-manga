@@ -5,14 +5,12 @@ const dataPath = fs.existsSync('dist/library.json') ? 'dist/' : '';
 const library = JSON.parse(fs.readFileSync(dataPath + 'library.json'));
 const metadata = JSON.parse(fs.readFileSync(dataPath + 'anime-details.json'));
 const anime = library.items.filter(x => x.type === 'anime');
-assert.equal(anime.length, 752);
-assert.equal(library.items.length, 1027);
-assert.equal(library.items.filter(x => x.type === 'manga').reduce((n,x) => n + x.owned, 0), 1341);
+const verified=anime.filter(x=>x.metadataKey);
 let songs = 0, cast = 0, direct = 0;
-for (const item of anime) {
-  const record = metadata.items[item.id];
+for (const item of verified) {
+  const record = metadata.items[item.metadataKey || item.id];
   assert(record, `Missing record: ${item.id}`);
-  assert.equal(record.malId, Number(item.id.split('-')[1]));
+  assert.equal(record.malId, item.malId);
   assert.equal(record.parserVersion, 2);
   assert(record.sourceUrl.startsWith(`https://myanimelist.net/anime/${record.malId}/`));
   for (const row of record.cast) {

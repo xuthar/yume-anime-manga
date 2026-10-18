@@ -57,3 +57,17 @@ File: `seasons.html`, `seasons.css`, `seasons.js`, `seasons.json`, cartella `dat
 
 ### 17 ottobre 2026 — Scelte personali Seasons
 Ogni anime stagionale dispone di «Voglio vederlo» e «Lo salto», sia nella card sia nella scheda. Ripremere annulla la scelta. Filtro «La mia scelta» con stati da vedere, saltato, da decidere. Chiave locale `yume-season-choices`, indicizzata per ID anime MAL, indipendente dai cuori dei preferiti. Salvataggio nel browser/dispositivo, senza sincronizzazione account. Test in `verify-seasons.cjs`.
+
+## Stato del 18 ottobre 2026 — verifica estesa
+
+Il catalogo contiene 1.933 anime in 580 franchise, ottenuti dai 794 record iniziali e dalle loro relazioni MAL. I dati personali dei record preesistenti e i 275 manga sono conservati. Le nuove opere hanno stato Da vedere, zero episodi visti, nessun voto e nessun preferito assegnato.
+
+Identità: `malId` e `metadataKey` sono distinti dall'ID locale; non rinominare gli ID locali, usati da `yume-favorites`. Il raggruppamento usa `franchiseId` documentato dalle relazioni, non la rimozione di numeri dai titoli. Film, OVA, special, video musicali, spin-off e crossover restano distinti. I collegamenti generici Other/Character e gli adattamenti manga non espandono il catalogo.
+
+Metadati: `catalog-metadata.json`; crediti: `anime-details.json`; lista e preferenze: `library.json`. `complete-catalog.py` recupera pagine pubbliche con cache locale ignorata da Git. `finalize-catalog.py` arricchisce la lista corrente mantenendone i campi personali e riusa i crediti salvati anche senza cache. Prima di un nuovo passaggio conservare sempre una fotografia della lista corrente; il commit 79a0e1f è il riferimento storico di questa verifica, non una lista da ripristinare.
+
+Google Sheets: Anime contiene i metadati aggiuntivi in AA:AR; gli episodi dichiarati dalla fonte sono separati dal totale personale. Da vedere è una vista FILTER da Anime fino alla riga 2185. Non scrivere righe manuali nell'area di espansione. Le 41 righe duplicate preesistenti sono conservate in Archivio Da vedere 18-10. Serie e stagioni conserva stati, voti e progressi preesistenti. Tabelle native, convalide e colori sono mantenuti; i tipi testuali FALSE/0 dei vecchi record provvisori sono stati normalizzati dalla tabella senza cambiarne i valori.
+
+Limiti: un link diretto MAL non prova l'ufficialità del canale YouTube; soltanto i video con fonte ufficiale sono etichettati così. Una pagina AnimeClick può aggregare più stagioni e non prova la licenza italiana di ogni singolo capitolo. Disponibilità mancanti significano non verificate. I dati di opere future non ancora pubblicati restano vuoti; nessuna data viene indovinata.
+
+Controlli: `node verify-complete-catalog.cjs`, `node verify-anime-credits.cjs`, `node verify-seasons.cjs`, `python test-anime-import.py`. Resoconto: `RESOCONTO_CATALOGO_2026-10-18.md`; dettaglio per opera: `data/catalog-verification.csv`; prova di sincronizzazione: `data/sheets-verification.json`.

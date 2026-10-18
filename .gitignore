@@ -1,2 +1,5 @@
 __pycache__/
 anime-import-errors.json
+data/catalog-cache/
+data/sheets-update-plan.json
+data/official-music-checks.json
