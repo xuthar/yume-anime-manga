@@ -20,7 +20,7 @@ function franchiseKey(x){
  if(/^magic knight rayearth ii$/.test(t))return 'magic knight rayearth';
  if(/^tokyo ghoul:re/.test(t))return 'tokyo ghoul:re';
  if(/(?:movie|recap|special|ova|ona|spin.off)/i.test(t))return t;
- return t.replace(/(?:\s+|:\s*)(?:[2-9](?:st|nd|rd|th)?\s+season|season\s*[2-9]|part\s*[2-9]|[2-9](?:nd|rd|th)\s+season|[2-9]nd\s+attack)$/i,'').replace(/\s+(?:ii|iii|iv|v|vi|vii|viii|ix|[2-9])$/i,'').trim()
+ return t.replace(/(?:\s+|:\s*)(?:part\s*[2-9])$/i,'').replace(/(?:\s+|:\s*)(?:[2-9](?:st|nd|rd|th)?\s+season|season\s*[2-9]|[2-9]nd\s+attack)$/i,'').replace(/\s+(?:ii|iii|iv|v|vi|vii|viii|ix|[2-9])$/i,'').trim()
 }
 function seasonLabel(x){
  const t=x.title;
