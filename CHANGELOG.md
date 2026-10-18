@@ -1,5 +1,9 @@
 # Cronologia — Anime e Manga
 
+## 18 ottobre 2026 — Collezione Manga
+
+Confrontate 130 righe dei due fogli omonimi: 13 opere mancanti aggiunte, 117 già rappresentate. Catalogo manga/novel/libri a 288 schede; conservati tutti i dati precedenti. Nuove informazioni su autore, lingua, formato e fonti, 10 identità MAL verificate e 9 copertine locali. Aggiornata la scheda Google Sheets Manga e novel. Conteggi storici separati da letture e numeri di volume non documentati. Dettagli in [resoconto](RESOCONTO_MANGA_2026-10-18.md).
+
 ## 17 ottobre 2026 — Seasons su GitHub Pages
 
 - Aggiunti menu Seasons, richiamo nella homepage e pagina stagionale dedicata.
