@@ -45,8 +45,8 @@ Le schede mostrano autori, formato, lingua, anno documentato, ISBN ove disponibi
 
 ## Fonti e tracciabilità
 
-- Fonte personale: [Collezione Manga](https://docs.google.com/spreadsheets/d/1cceMULAkjZExxF0nkBTRSe2Uf9LjdijPNFl5o14clT4/edit).
-- Copia confrontata: [Collezione Manga, precedente](https://docs.google.com/spreadsheets/d/1iEYKyrxGkVZJXFNuwdKMFp48ZETkGYQh_FcC3Gu1-dA/edit).
+- Fonte personale: Collezione Manga (archivio privato; collegamento non pubblicato).
+- Copia confrontata: Collezione Manga, precedente (archivio privato; collegamento non pubblicato).
 - [Riconciliazione di tutte le 130 righe](data/manga-collection-reconciliation.csv).
 - [Metadati e fonti per ogni nuova opera](data/manga-collection-import.json).
 - [Verifiche MAL](data/manga-collection-mal-checks.json).

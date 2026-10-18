@@ -25,7 +25,6 @@ def main():
         entry = dict(spec['metadata'], id=spec['id'], type='manga',
                      status='Da verificare', rating=None, favorite=False,
                      progress=None, owned=int(row[6]), numbers='', volumes=[])
-        entry['collectionSource'] = plan['sourceUrl']+'#gid=1273881170&range=A'+str(spec['sourceRow'])+':J'+str(spec['sourceRow'])
         entry['collectionSourceTitle'] = row[0]
         entry['collectionSourceModifiedAt'] = '2025-07-25'
         entry['collectionNote'] = 'Conteggio storico da Collezione Manga (25/07/2025). Numeri dei singoli volumi, stato di lettura e prezzi non indicati. Non sostituisce i dati più recenti delle opere già presenti.'
