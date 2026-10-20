@@ -1,0 +1,22 @@
+'use strict';
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const context={window:{}};vm.createContext(context);vm.runInContext(fs.readFileSync('tonight.js','utf8'),context);
+const {eligible,choose}=context.window.YumeTonight;
+const base={id:'anime-1',malId:1,type:'anime',status:'Da vedere',releaseStatus:'Finished Airing',seasonCategory:'Stagioni e serie',mediaFormat:'TV',genres:['Fantasy']};
+const cases=[base,{...base,id:'anime-2',malId:2,releaseStatus:'Not yet aired'},{...base,id:'anime-3',malId:3,status:'Completato'},{...base,id:'anime-4',malId:4,releaseStatus:'Currently Airing'},{...base,id:'anime-5',malId:5,seasonCategory:'Film',mediaFormat:'Movie'},{...base,id:'anime-provisional',malId:6}];
+const filters={format:'series',genre:'all',finished:true,minutes:30};
+assert.deepEqual(Array.from(eligible(cases,filters,{'anime-1':24,'anime-provisional':24},{'anime-6':'skip'}),x=>x.id),['anime-1']);
+assert.equal(eligible([base],{...filters,minutes:15},{'anime-1':24}).length,0);
+assert.equal(eligible([base],filters,{}).length,0,'Unknown duration must not satisfy a time limit');
+assert.equal(eligible([base],{...filters,minutes:0},{}).length,1);
+assert.equal(eligible([base],{...filters,genre:'Horror',minutes:0},{}).length,0);
+assert.equal(eligible(cases,{format:'film',genre:'all'},{}).length,1);
+assert.equal(choose([],new Set()),null);
+const pool=[base,{...base,id:'anime-7'},{...base,id:'anime-8'}],seen=new Set(),picks=[];
+for(let i=0;i<7;i++)picks.push(choose(pool,seen,()=>0).id);
+assert.equal(new Set(picks.slice(0,3)).size,3);for(let i=1;i<picks.length;i++)assert.notEqual(picks[i],picks[i-1]);
+assert.equal(choose([base],new Set([base.id]),()=>0).id,base.id);
+const lib=JSON.parse(fs.readFileSync('library.json')),durations=JSON.parse(fs.readFileSync('data/tonight-durations.json'));
+const actual=eligible(lib.items,{format:'series',genre:'all',finished:true,minutes:30},durations);
+assert(actual.length>0);for(const x of actual){assert.equal(x.status,'Da vedere');assert.equal(x.releaseStatus,'Finished Airing');assert(durations[x.id]<=30);}
+console.log(`PASS: ${actual.length} available finished series within 30 min; unreleased/completed/skipped titles excluded, unknown duration handled, format/genre filters and random cycles verified.`);

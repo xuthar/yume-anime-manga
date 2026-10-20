@@ -48,3 +48,7 @@ Controlli superati: importazione con identità MAL verificata, regressioni del p
 - Confronto AnimeClick: 794 titoli cercati, alias e pagine approfondite; corrispondenze ambigue esplicitamente non verificate.
 - Aggiornati Anime, Da vedere e Serie e stagioni; 11.598 campi personali verificati. Archiviati i 41 duplicati manuali che bloccavano la vista Da vedere; la formula ora restituisce 1.227 titoli.
 - Salvati resoconto completo, audit e CSV per opera. Tutti i manga e i campi personali già presenti restano preservati.
+
+## 20 ottobre 2026 — Cosa guardo stasera?
+
+Aggiunta una selezione casuale dalla lista Da vedere, con filtri per genere, formato, durata e conclusione della stagione. Esclusi gli annunci non ancora trasmessi e le scelte locali Lo salto; estrazioni senza ripetizioni fino a esaurimento dei candidati e apertura della scheda completa. Nessuna modifica a preferiti, progressi o fogli privati.
