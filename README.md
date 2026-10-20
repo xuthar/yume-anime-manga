@@ -42,3 +42,14 @@ Il calendario sulla home usa `data/episode-calendar.json`, aggiornato ogni giorn
 `seasonal.js` usa la data Europe/Rome: Halloween dal 1 al 31 ottobre, Natale dall’8 dicembre al 6 gennaio. Il cambio avviene automaticamente anche nelle schede aperte; il pulsante decorazioni memorizza solo una preferenza locale.
 
 Verifica: `node verify-calendar-seasonal.cjs` e `node verify-tonight.cjs`. Lo script Python richiede `lxml`; gli altri componenti funzionano senza dipendenze aggiuntive.
+
+
+### Uscite manga e novel IT / EN
+
+`uscite-manga.html` legge `data/book-calendar.json`: filtri per lingua, formato, editore e titolo, navigazione per settimana, passaggio automatico alla settimana attuale e rilettura dei dati nelle schede aperte. Il workflow **Aggiorna calendario manga e novel** aggiorna ogni lunedì alle 05:37 UTC e pubblica esplicitamente Pages. Condivide il gruppo di concorrenza del calendario anime per evitare aggiornamenti simultanei.
+
+Fonti: AnimeClick manga e novel per l’Italia; Seven Seas (cartaceo), Yen Press (edizioni EN del calendario, compresa distribuzione) e J-Novel Club (ebook completi) per l’inglese. Il parser JNC legge il JSON pubblico renderizzato dal server senza eseguire script esterni e scarta le prepubblicazioni. La finestra JNC dipende dagli eventi forniti dalla pagina. Non viene dichiarata una copertura completa di tutti gli editori inglesi. Le date EN non indicano l’arrivo nei negozi italiani.
+
+Ogni fonte mantiene il suo ultimo controllo; un errore conserva i dati precedenti segnalando il problema. Se falliscono tutte, lo script non sovrascrive il calendario valido. Le pagine esplicitamente vuote sono accettate, quelle non riconosciute sono errori. Non si ricavano date per ricorrenza. Gli ISBN identificano le edizioni, altrimenti viene usata la scheda di origine. Il catalogo personale e i fogli restano separati.
+
+Verifiche: `python verify-book-calendar.py`, `node verify-book-calendar.cjs`, `node verify-calendar-seasonal.cjs`, `node verify-tonight.cjs`.

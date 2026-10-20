@@ -1,0 +1,6 @@
+const assert=require('node:assert/strict'),vm=require('vm'),fs=require('fs');
+const ctx={window:{},document:{readyState:'loading',addEventListener(){}},Intl,Date,URL};vm.createContext(ctx);vm.runInContext(fs.readFileSync('book-calendar.js','utf8'),ctx);
+const b=ctx.window.YumeBooks,items=[{date:'2026-10-20',language:'IT',kind:'manga',publisher:'Star',title:'A Book',series:'A'},{date:'2026-10-25',language:'EN',kind:'novel',publisher:'J-Novel Club',title:'Novel 2',series:'Novel'},{date:'2026-10-26',language:'EN',kind:'manga',publisher:'Other',title:'Next week',series:'Next'}],base={week:'2026-10-19',language:'all',kind:'all',publisher:'all',search:''};
+assert.equal(b.select(items,base).length,2);assert.equal(b.select(items,{...base,language:'EN',kind:'novel',publisher:'J-Novel Club',search:'NOVEL'}).length,1);assert.equal(b.select(items,{...base,week:'2026-10-26'}).length,1);assert.equal(b.select(items,{...base,search:'missing'}).length,0);
+assert.equal(b.monday('2027-01-03'),'2026-12-28');assert.equal(b.add('2026-10-25',1),'2026-10-26');assert.equal(b.safe('https://j-novel.club/calendar'),'https://j-novel.club/calendar');assert.equal(b.safe('https://docs.google.com/spreadsheets/secret'),'');assert.equal(b.safe('javascript:alert(1)'),'');
+console.log('OK: week boundaries, language/format/publisher/search filters, JNC links and blocked private/unsafe URLs');
