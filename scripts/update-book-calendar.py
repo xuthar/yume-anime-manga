@@ -53,7 +53,7 @@ def parse_yen(doc):
  result=[]
  for box in doc.xpath('//*[contains(concat(" ",normalize-space(@class)," ")," released-box ")]'):
   kind=text(box,'.//*[contains(@class,"white-label")]');title=text(box,'.//h3')
-  if kind not in ['Manga','Novels'] or re.search(r'\bchapter\b',title,re.I):continue
+  if kind not in ['Manga','Novels'] or re.search(r'\b(?:chapter|episode)\b',title,re.I):continue
   day=text(box,'.//p[contains(@class,"label-date")]/text()');month=text(box,'.//span[contains(@class,"month")]').lower()[:3]
   links=box.xpath('ancestor::a[1]/@href')
   if not links or month not in EN_MONTHS:continue

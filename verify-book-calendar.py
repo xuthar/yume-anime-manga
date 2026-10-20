@@ -13,6 +13,9 @@ else:raise AssertionError('Blocked source should not count as a successful empty
 # JNC partial prepublications must never appear as completed book releases.
 events={'events':[{'details':'Prepub Publishing','name':'Wrong part'},{'details':'Ebook Publishing','name':'A Book Volume 2','serie':{'type':1,'title':'A Book'},'legacyLink':'/series/a-book#volume-2','launch':{'seconds':'1792472400'}}]}
 flight='7:'+json.dumps(['$',{'events':events}]);page=html.fromstring('<html><script>self.__next_f.push('+json.dumps([1,flight])+')</script></html>');e=m.parse_jnc(page);assert len(e)==1 and e[0]['title']=='A Book Volume 2' and e[0]['kind']=='novel'
+# Yen Press extras released as individual episodes are not complete volumes.
+yen=html.fromstring('<html><select id="year"><option selected value="2026">2026</option></select><a href="/titles/one"><div class="released-box"><span class="white-label">Manga</span><h3>A Manga Vol. 2</h3><p class="label-date">27<span class="month">Oct</span></p></div></a><a href="/titles/extra"><div class="released-box"><span class="white-label">Manga</span><h3>A Manga Extra Episode 1</h3><p class="label-date">27<span class="month">Oct</span></p></div></a></html>')
+assert len(m.parse_yen(yen))==1
 d=json.loads(Path('data/book-calendar.json').read_text());assert len(d['sources'])==5
 assert any(x['language']=='IT' for x in d['releases']);assert any(x['publisher']=='J-Novel Club' and x['kind']=='novel' for x in d['releases'])
 keys=[]
