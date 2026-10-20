@@ -37,7 +37,7 @@ def parse(text, today):
             events.append({'date':current,'time':match[1],'start':start.isoformat(),'title':title,
                 'episode':re.match(r'[\dx]+',episode)[0] if re.match(r'[\dx]+',episode) else '',
                 'platform':re.sub(r'\s+',' ',match[2]).strip(),'sourceUrl':'https://www.animeclick.it'+links[0]})
-    if not events: raise ValueError('No valid Italian episode listings: refusing to replace the last good calendar')
+    if not events or max(e['date'] for e in events)<today.isoformat(): raise ValueError('No valid Italian episode listings: refusing to replace the last good calendar')
     return events
 
 def main():
@@ -47,7 +47,7 @@ def main():
     events=parse(text,now.date())
     items=json.loads((ROOT/'library.json').read_text())['items']; lookup={}
     for x in items:
-        if x['type']!='anime':continue
+        if x['type']!='anime' or x.get('releaseStatus')!='Currently Airing':continue
         for key in ('title','english','italian','original'):
             k=norm(x.get(key,''))
             if k:lookup.setdefault(k,set()).add(x['id'])
@@ -57,7 +57,7 @@ def main():
     # Retain dated history for the current week, but replace all newly covered dates
     # so cancelled or moved episodes disappear, rather than surviving as duplicates.
     path=ROOT/'data/episode-calendar.json'; old=json.loads(path.read_text()) if path.exists() else {}
-    first=min(e['date'] for e in events)
+    first=now.date().isoformat()
     prior=[e for e in old.get('events',[]) if e['date']<first and (now.date()-date.fromisoformat(e['date'])).days<=14]
     unique={ (e['date'],e['time'],e['sourceUrl'],e['platform']):e for e in prior+events }
     payload={'updatedAt':now.isoformat(),'timezone':'Europe/Rome','source':SOURCE,
