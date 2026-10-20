@@ -33,3 +33,12 @@ La pagina `seasons.html` raccoglie Summer (262 presenze), Autumn (169) e Winter 
 `seasons.json` conserva il catalogo; `data/season-summaries-it.json` le sintesi editoriali e `data/season-italian-metadata.json` le denominazioni italiane documentate. Le informazioni assenti sono esplicite. Acquisti e noleggi sono distinti dagli abbonamenti. Le copertine aggiuntive sono caricate direttamente da MAL senza referrer; quelle per adulti non vengono mostrate.
 
 Aggiornamento manuale: `python import-seasons.py`, `python enrich-seasons-it.py`, `python finalize-seasons.py`, `node verify-seasons.cjs`. Gli importatori usano pagine pubbliche e cache temporanee; i testi editoriali rimangono versionati. Il calendario segue MAL, distinto dalle date italiane di disponibilità.
+
+
+### Calendario episodi e atmosfera stagionale
+
+Il calendario sulla home usa `data/episode-calendar.json`, aggiornato ogni giorno alle 04:17 UTC dal workflow **Aggiorna calendario episodi** (avviabile anche manualmente). Il workflow interroga le uscite italiane datate di AnimeClick, associa al catalogo solo titoli univoci, conserva lo storico recente e pubblica esplicitamente il sito con Pages. Non genera ricorrenze, non cambia stati personali e non scrive nei fogli Google. Un errore della fonte interrompe il workflow conservando l’ultimo calendario valido; il sito segnala dati più vecchi di 48 ore. Le esecuzioni programmate GitHub possono subire ritardi; controllare Actions in caso di aggiornamento in ritardo.
+
+`seasonal.js` usa la data Europe/Rome: Halloween dal 1 al 31 ottobre, Natale dall’8 dicembre al 6 gennaio. Il cambio avviene automaticamente anche nelle schede aperte; il pulsante decorazioni memorizza solo una preferenza locale.
+
+Verifica: `node verify-calendar-seasonal.cjs` e `node verify-tonight.cjs`. Lo script Python richiede `lxml`; gli altri componenti funzionano senza dipendenze aggiuntive.
