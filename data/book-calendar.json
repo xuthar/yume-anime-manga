@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:02:56.556841+02:00",
+  "updatedAt": "2026-10-20T20:04:59.048005+02:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
+      "checkedAt": "2026-10-20T20:04:59.048005+02:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
+      "checkedAt": "2026-10-20T20:04:59.048005+02:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
+      "checkedAt": "2026-10-20T20:04:59.048005+02:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
+      "checkedAt": "2026-10-20T20:04:59.048005+02:00",
       "status": "ok"
     }
   ],
@@ -870,17 +870,6 @@
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112098/the-world-after-the-fall",
       "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "ELDEN RING: Distant Tales Between, Extra Episode 1",
-      "series": "ELDEN RING: Distant Tales Between, Extra Episode 1",
-      "publisher": "Yen Press / distribuzione Yen Press",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Edizione EN · formato nella scheda editore",
-      "url": "https://yenpress.com/titles/9798855455267-elden-ring-distant-tales-between-extra-episode-1",
-      "sourceId": "yen-press"
     },
     {
       "date": "2026-10-27",
@@ -2547,17 +2536,6 @@
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112084/w.i.t.c.h.-il-manga-complete-edition",
       "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "ELDEN RING: Distant Tales Between, Extra Episode 2",
-      "series": "ELDEN RING: Distant Tales Between, Extra Episode 2",
-      "publisher": "Yen Press / distribuzione Yen Press",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Edizione EN · formato nella scheda editore",
-      "url": "https://yenpress.com/titles/9798855455274-elden-ring-distant-tales-between-extra-episode-2",
-      "sourceId": "yen-press"
     },
     {
       "date": "2026-10-30",
