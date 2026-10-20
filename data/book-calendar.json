@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:00:48.575980+02:00",
+  "updatedAt": "2026-10-20T20:02:56.556841+02:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-10-20T20:00:48.575980+02:00",
+      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-10-20T20:00:48.575980+02:00",
+      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
       "status": "ok"
     },
     {
@@ -24,14 +24,14 @@
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
       "checkedAt": "2026-10-20T20:00:48.575980+02:00",
-      "status": "ok"
+      "status": "error"
     },
     {
       "id": "yen-press",
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-10-20T20:00:48.575980+02:00",
+      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-10-20T20:00:48.575980+02:00",
+      "checkedAt": "2026-10-20T20:02:56.556841+02:00",
       "status": "ok"
     }
   ],
