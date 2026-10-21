@@ -55,3 +55,10 @@ Ogni fonte mantiene il suo ultimo controllo; un errore conserva i dati precedent
 Verifiche: `python verify-book-calendar.py`, `node verify-book-calendar.cjs`, `node verify-calendar-seasonal.cjs`, `node verify-tonight.cjs`.
 
 Le schede dei titoli del calendario anime aprono la stagione corrispondente nella libreria tramite `index.html?anime=ID#catalogo`. I dati e il workflow di aggiornamento restano condivisi con il calendario precedente.
+
+
+### Sezione J-pop · BiSH
+
+`jpop.html` è un archivio musicale indipendente dal catalogo anime/manga e dai suoi dati personali. La prima artista/gruppo è BiSH, con introduzione, sei componenti della formazione finale, quattro video ufficiali e la discografia audio in `data/jpop-bish.json`. Sono presenti i sette album in studio, i tre EP/mini-album, tre raccolte (incluso il vinile commemorativo 2026) e sette pubblicazioni con edizioni audio live. Le differenti scalette delle confezioni sono selezionabili e non vengono mescolate. Per REBOOT BiSH e FROM DUSK TiLL DAWN il CD è documentato ma la fonte non dettaglia separatamente le tracce: le lacune sono esplicite.
+
+Titoli, date, fotografie e copertine provengono dall’archivio ufficiale BiSH/avex; profili e fonti sono collegati in pagina. I video diretti sono stati verificati tramite gli embed dell’archivio ufficiale e i relativi metadati YouTube. I link di ricerca sono etichettati come tali; i collegamenti Spotify dei singoli brani sono ricerche, mentre il profilo artista è quello collegato dal sito ufficiale. Nessun URL di traccia Spotify viene inventato. Progetti individuali e pubblicazioni collettive non sono classificati come album in studio BiSH. Aggiornamento editoriale verificato il 21 ottobre 2026.

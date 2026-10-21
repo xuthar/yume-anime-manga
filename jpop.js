@@ -1,0 +1,35 @@
+/* Music archive is independent of the personal anime and manga collection. */
+(() => {
+ 'use strict';
+ const $=s=>document.querySelector(s),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const hosts=['www.bish.tokyo','bish.tokyo','www.youtube.com','youtube.com','open.spotify.com','img.imageimg.net','img.youtube.com','ainatheend.jp','momokogumicompany.tokyo','centplanet.jp','www.pedro.tokyo','en.wikipedia.org'];
+ function safe(url){try{const u=new URL(url);return u.protocol==='https:'&&hosts.includes(u.hostname)?u.href:''}catch{return ''}}
+ const date=s=>new Date(s+'T12:00Z').toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'});
+ const kinds={studio:'Album in studio',ep:'EP / mini-album',compilation:'Raccolta',live:'Edizione audio live'};
+ const selected=new Map();let data;
+ function filter(albums,kind,search,year){const q=search.trim().toLocaleLowerCase('it');return albums.filter(a=>(kind==='all'||a.kind===kind)&&(year==='all'||a.date.slice(0,4)===year)&&(!q||(a.title+' '+a.editions.flatMap(e=>e.discs.flatMap(d=>d.tracks.map(t=>t.title))).join(' ')).toLocaleLowerCase('it').includes(q)))}
+ function links(t){return `<a class="music-youtube" href="${esc(safe(t.youtube))}" target="_blank" rel="noopener noreferrer">${t.youtubeType==='official'?'▶ YouTube ufficiale':'⌕ Cerca su YouTube'} ↗</a><a class="music-spotify" href="${esc(safe(t.spotify))}" target="_blank" rel="noopener noreferrer">⌕ Cerca su Spotify ↗</a>`}
+ function contents(a,index){const e=a.editions[index];return `<div class="album-inner"><p class="album-note">${esc(a.note)}</p>${a.editions.length>1?`<label class="edition-picker">Edizione audio<select data-edition="${esc(a.id)}" aria-label="Edizione di ${esc(a.title)}">${a.editions.map((v,i)=>`<option value="${i}" ${i===index?'selected':''}>${esc(v.label)}</option>`).join('')}</select></label>`:`<p class="edition-label">${esc(e.label)}</p>`}${a.kind==='live'?'<p class="music-small">Per i brani live i collegamenti di ricerca non garantiscono la stessa registrazione del CD. Le scalette non dettagliate nella fonte sono indicate qui sotto.</p>':''}${e.discs.map(d=>`<section class="track-disc"><h4>${esc(d.label)}</h4>${d.tracks.length?`<ol>${d.tracks.map(t=>`<li><span class="track-name">${esc(t.title)}</span><span class="track-links">${links(t)}</span></li>`).join('')}</ol>`:'<p class="music-small">Il CD è indicato nella confezione ufficiale, ma la fonte non ne elenca separatamente i brani. Scaletta audio da verificare; non viene sostituita con quella del DVD.</p>'}</section>`).join('')}<a class="album-source" href="${esc(safe(a.source))}" target="_blank" rel="noopener noreferrer">Scheda ufficiale, confezioni e scalette ↗</a></div>`}
+ function render(){
+  const albums=filter(data.albums,$('#music-kind').value,$('#music-search').value,$('#music-year').value);
+  if($('#music-order').value==='new')albums.sort((a,b)=>b.date.localeCompare(a.date));
+  $('#music-count').textContent=albums.length+' pubblicazioni · apri una copertina per leggere la scaletta';
+  $('#music-albums').innerHTML=albums.map(a=>{const index=selected.get(a.id)??a.defaultEdition,e=a.editions[index],count=e.discs.reduce((s,d)=>s+d.tracks.length,0),cover=e.cover||a.editions.find(e=>e.cover)?.cover;
+   return `<article class="music-album"><details data-album="${esc(a.id)}"><summary><div class="album-cover">${cover?`<img src="${esc(safe(cover))}" loading="lazy" alt="Copertina di ${esc(a.title)}">`:'<span aria-hidden="true">♫</span>'}</div><div><span class="music-badge">${esc(kinds[a.kind])}</span><h3>${esc(a.title)}</h3><time datetime="${a.date}">${esc(date(a.date))}</time><p>${count?count+' brani nell’edizione selezionata':'Scaletta audio da verificare'}${a.editions.length>1?' · '+a.editions.length+' edizioni audio':''}</p><span class="album-expand">Scaletta e ascolto <span aria-hidden="true">＋</span></span></div></summary>${contents(a,index)}</details></article>`;
+  }).join('')||'<p class="music-empty">Nessuna pubblicazione corrisponde ai filtri. Prova un altro titolo o seleziona tutte le categorie.</p>';
+ }
+ async function init(){
+  try{const r=await fetch('data/jpop-bish.json');if(!r.ok)throw Error();data=await r.json();
+   $('#bish-group-image').src=safe(data.groupImage);
+   $('#music-members').innerHTML=data.members.map(m=>`<article class="music-member"><img src="${esc(safe(m.image))}" alt="${esc(m.name)}" loading="lazy"><div><h3>${esc(m.name)}</h3><p lang="ja">${esc(m.japanese)}</p><p>${esc(m.bio)}</p><a href="${esc(safe(m.link))}" target="_blank" rel="noopener noreferrer">Profilo / sito ufficiale ↗</a></div></article>`).join('');
+   $('#music-spotlight').innerHTML=data.spotlight.map(v=>`<a class="music-video" href="${esc(safe(v.url))}" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/${esc(v.id)}/hqdefault.jpg" alt="Video ufficiale: ${esc(v.title)}" loading="lazy"><div><span>▶ VIDEO UFFICIALE</span><h3>${esc(v.title)}</h3><small>Guarda su YouTube ↗</small></div></a>`).join('');
+   $('#music-sources').innerHTML=data.sources.map(s=>`<li><a href="${esc(safe(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.label)} ↗</a></li>`).join('');
+   $('#music-videos-archive').innerHTML=data.videoEditions.map(s=>`<li><a href="${esc(safe(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a></li>`).join('');
+   [...new Set(data.albums.map(a=>a.date.slice(0,4)))].sort().forEach(year=>{const o=document.createElement('option');o.value=year;o.textContent=year;$('#music-year').append(o)});
+   ['music-kind','music-year','music-order'].forEach(id=>$('#'+id).addEventListener('change',render));$('#music-search').addEventListener('input',render);
+   $('#music-albums').addEventListener('change',event=>{if(!event.target.matches('[data-edition]'))return;const id=event.target.dataset.edition,index=Number(event.target.value),a=data.albums.find(a=>a.id===id);if(!a?.editions[index])return;selected.set(id,index);const details=event.target.closest('details'),e=a.editions[index];details.querySelector('.album-inner').outerHTML=contents(a,index);const count=e.discs.reduce((s,d)=>s+d.tracks.length,0);details.querySelector('summary p').textContent=(count?count+' brani nell’edizione selezionata':'Scaletta audio da verificare')+' · '+a.editions.length+' edizioni audio';const cover=details.querySelector('.album-cover img');if(cover&&e.cover)cover.src=safe(e.cover)});
+   render();
+  }catch{$('#music-count').textContent='Archivio musicale non disponibile. Ricarica la pagina per riprovare.'}
+ }
+ window.YumeMusic={filter,safe};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
+})();
