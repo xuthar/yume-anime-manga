@@ -6,3 +6,5 @@
 .music-aimer{--music-accent:#92d9f2}.music-aimer .music-hero>img{object-position:32% bottom}.music-aimer .music-spotlight{grid-template-columns:repeat(3,minmax(0,1fr))}.music-anime-links{display:grid;grid-template-columns:1fr 1fr;gap:20px}.music-anime-links article{padding:25px;border:1px solid #ffffff20;border-radius:14px;background:#202236}.music-anime-links h3{font:500 23px Outfit,sans-serif}.music-anime-links p{color:#b5b5c9;font-size:14px;line-height:1.8}.music-anime-links a{color:#91ddd0;font-size:12px}@media(max-width:650px){.music-anime-links{grid-template-columns:1fr}.music-aimer .music-spotlight{grid-template-columns:1fr}}
 
 .music-member>.member-portrait{padding:0;position:relative;height:300px;background:linear-gradient(135deg,#34304d,#1b2139);overflow:hidden}.member-photo-fallback{position:absolute;inset:0;display:grid;place-items:center;font:500 48px Outfit,sans-serif;color:#b2a9dd}.member-portrait img{position:relative;width:100%;height:100%;object-fit:cover;object-position:top;opacity:0}.member-portrait img.photo-loaded{opacity:1}@media(max-width:550px){.member-portrait{height:190px}}
+
+.music-niji .member-portrait{height:auto;aspect-ratio:4/5}
