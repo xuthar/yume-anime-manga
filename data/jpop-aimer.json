@@ -1,0 +1,1764 @@
+{
+  "artist": "Aimer",
+  "checkedAt": "2026-10-21",
+  "groupImage": "https://15th-noraneko.aimer-official.com/assets/images/kv/kv-01.webp",
+  "members": [],
+  "spotlight": [
+    {
+      "title": "残響散歌 · Zankyosanka",
+      "id": "tLQLa6lM3Us",
+      "url": "https://www.youtube.com/watch?v=tLQLa6lM3Us"
+    },
+    {
+      "title": "Brave Shine",
+      "id": "XeI8E20ZUE4",
+      "url": "https://www.youtube.com/watch?v=XeI8E20ZUE4"
+    },
+    {
+      "title": "カタオモイ · Kataomoi",
+      "id": "kxs9Su_mbpU",
+      "url": "https://www.youtube.com/watch?v=kxs9Su_mbpU"
+    }
+  ],
+  "officialVideos": [
+    {
+      "title": "残響散歌 · Zankyosanka",
+      "id": "tLQLa6lM3Us",
+      "source": "https://www.sonymusic.co.jp/artist/aimer/info/536013"
+    },
+    {
+      "title": "Brave Shine",
+      "id": "XeI8E20ZUE4",
+      "source": "https://www.youtube.com/watch?v=XeI8E20ZUE4"
+    },
+    {
+      "title": "カタオモイ · Kataomoi",
+      "id": "kxs9Su_mbpU",
+      "source": "https://www.youtube.com/watch?v=kxs9Su_mbpU"
+    }
+  ],
+  "albums": [
+    {
+      "id": "aimer-1536143514",
+      "title": "Sleepless Nights",
+      "date": "2012-10-03",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/sleepless-nights/1536143514?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sleepless-nights/1536143514?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/ea/e8/6beae830-4aa8-2751-9f29-7ad4b0907470/4560429721932.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "TWINKLE TWINKLE LITTLE STAR -prologue-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20TWINKLE%20TWINKLE%20LITTLE%20STAR%20-prologue-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20TWINKLE%20TWINKLE%20LITTLE%20STAR%20-prologue-"
+                },
+                {
+                  "title": "夜行列車〜nothing to lose〜",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%A4%9C%E8%A1%8C%E5%88%97%E8%BB%8A%E3%80%9Cnothing%20to%20lose%E3%80%9C",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%A4%9C%E8%A1%8C%E5%88%97%E8%BB%8A%E3%80%9Cnothing%20to%20lose%E3%80%9C"
+                },
+                {
+                  "title": "あなたに出会わなければ〜夏雪冬花〜",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C"
+                },
+                {
+                  "title": "笑顔",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%AC%91%E9%A1%94",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%AC%91%E9%A1%94"
+                },
+                {
+                  "title": "Re:pray",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Re%3Apray",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Re%3Apray"
+                },
+                {
+                  "title": "悲しみはオーロラに(Restarred by Takagi Masakatsu)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%81%AB%28Restarred%20by%20Takagi%20Masakatsu%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%81%AB%28Restarred%20by%20Takagi%20Masakatsu%29"
+                },
+                {
+                  "title": "寂しくて眠れない夜は",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%AF%82%E3%81%97%E3%81%8F%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%81%AF",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%AF%82%E3%81%97%E3%81%8F%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%81%AF"
+                },
+                {
+                  "title": "AM02:00",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20AM02%3A00",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20AM02%3A00"
+                },
+                {
+                  "title": "星屑ビーナス",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9"
+                },
+                {
+                  "title": "雪の降る街",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E9%9B%AA%E3%81%AE%E9%99%8D%E3%82%8B%E8%A1%97",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E9%9B%AA%E3%81%AE%E9%99%8D%E3%82%8B%E8%A1%97"
+                },
+                {
+                  "title": "冬のダイヤモンド(Re-echoed by Genki Rockets)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%86%AC%E3%81%AE%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%28Re-echoed%20by%20Genki%20Rockets%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%86%AC%E3%81%AE%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%28Re-echoed%20by%20Genki%20Rockets%29"
+                },
+                {
+                  "title": "六等星の夜",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C"
+                },
+                {
+                  "title": "TWINKLE TWINKLE LITTLE STAR",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20TWINKLE%20TWINKLE%20LITTLE%20STAR",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20TWINKLE%20TWINKLE%20LITTLE%20STAR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1536143804",
+      "title": "Bitter & Sweet",
+      "date": "2012-12-12",
+      "kind": "compilation",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire. Raccolta di cover, distinta dagli album originali.",
+      "source": "https://music.apple.com/jp/album/bitter-sweet/1536143804?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/bitter-sweet/1536143804?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/3f/ac/fa3facb2-4a4e-02c7-4071-d9af5ed7a90e/4560429721949.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "リフレインが叫んでる",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%E3%81%8C%E5%8F%AB%E3%82%93%E3%81%A7%E3%82%8B",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%E3%81%8C%E5%8F%AB%E3%82%93%E3%81%A7%E3%82%8B"
+                },
+                {
+                  "title": "L-O-V-E",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20L-O-V-E",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20L-O-V-E"
+                },
+                {
+                  "title": "Poker Face",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Poker%20Face",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Poker%20Face"
+                },
+                {
+                  "title": "三日月",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E4%B8%89%E6%97%A5%E6%9C%88",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E4%B8%89%E6%97%A5%E6%9C%88"
+                },
+                {
+                  "title": "Viva La Vida",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Viva%20La%20Vida",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Viva%20La%20Vida"
+                },
+                {
+                  "title": "また君に恋してる",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%81%BE%E3%81%9F%E5%90%9B%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%81%BE%E3%81%9F%E5%90%9B%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B"
+                },
+                {
+                  "title": "強く儚い者たち",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%BC%B7%E3%81%8F%E5%84%9A%E3%81%84%E8%80%85%E3%81%9F%E3%81%A1",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%BC%B7%E3%81%8F%E5%84%9A%E3%81%84%E8%80%85%E3%81%9F%E3%81%A1"
+                },
+                {
+                  "title": "Calendar Girl",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Calendar%20Girl",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Calendar%20Girl"
+                },
+                {
+                  "title": "今宵の月のように",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E4%BB%8A%E5%AE%B5%E3%81%AE%E6%9C%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E4%BB%8A%E5%AE%B5%E3%81%AE%E6%9C%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB"
+                },
+                {
+                  "title": "Baby Love",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Baby%20Love",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Baby%20Love"
+                },
+                {
+                  "title": "Crazy In Love",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Crazy%20In%20Love",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Crazy%20In%20Love"
+                },
+                {
+                  "title": "Precious",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Precious",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Precious"
+                },
+                {
+                  "title": "Breaking Up Is Hard To Do",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Breaking%20Up%20Is%20Hard%20To%20Do",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Breaking%20Up%20Is%20Hard%20To%20Do"
+                },
+                {
+                  "title": "I WILL ALWAYS LOVE YOU",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20I%20WILL%20ALWAYS%20LOVE%20YOU",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20I%20WILL%20ALWAYS%20LOVE%20YOU"
+                },
+                {
+                  "title": "CHANGE THE WORLD",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20CHANGE%20THE%20WORLD",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20CHANGE%20THE%20WORLD"
+                },
+                {
+                  "title": "ORION",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ORION",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ORION"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1536151527",
+      "title": "After Dark",
+      "date": "2013-11-20",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire. Mini-album con brani in studio e registrazioni live, mantenuti nella sequenza della pubblicazione.",
+      "source": "https://music.apple.com/jp/album/after-dark/1536151527?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/after-dark/1536151527?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/ad/17/2ead1736-2f1b-bd98-5507-030eff37eb99/4560429725930.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "After Dark -prologue-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20After%20Dark%20-prologue-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20After%20Dark%20-prologue-"
+                },
+                {
+                  "title": "ポラリス",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9"
+                },
+                {
+                  "title": "words",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20words",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20words"
+                },
+                {
+                  "title": "AM02:00 (haruka nakamura  La Nuit remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20AM02%3A00%20%28haruka%20nakamura%20%20La%20Nuit%20remix%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20AM02%3A00%20%28haruka%20nakamura%20%20La%20Nuit%20remix%29"
+                },
+                {
+                  "title": "After Rain",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20After%20Rain",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20After%20Rain"
+                },
+                {
+                  "title": "Amazing Grace (Live in church ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Amazing%20Grace%20%28Live%20in%20church%20ver.%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Amazing%20Grace%20%28Live%20in%20church%20ver.%29"
+                },
+                {
+                  "title": "あなたに出会わなければ〜夏雪冬花〜 (Live in church ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C%20%28Live%20in%20church%20ver.%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C%20%28Live%20in%20church%20ver.%29"
+                },
+                {
+                  "title": "今日から思い出 (Live in church ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E6%80%9D%E3%81%84%E5%87%BA%20%28Live%20in%20church%20ver.%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E6%80%9D%E3%81%84%E5%87%BA%20%28Live%20in%20church%20ver.%29"
+                },
+                {
+                  "title": "星屑ビーナス(Live in church ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9%28Live%20in%20church%20ver.%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9%28Live%20in%20church%20ver.%29"
+                },
+                {
+                  "title": "寂しくて眠れない夜は (Live in church ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%AF%82%E3%81%97%E3%81%8F%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%81%AF%20%28Live%20in%20church%20ver.%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%AF%82%E3%81%97%E3%81%8F%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%E5%A4%9C%E3%81%AF%20%28Live%20in%20church%20ver.%29"
+                },
+                {
+                  "title": "RE:I AM (Live in church ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20RE%3AI%20AM%20%28Live%20in%20church%20ver.%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20RE%3AI%20AM%20%28Live%20in%20church%20ver.%29"
+                },
+                {
+                  "title": "六等星の夜 (from Live at anywhere)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C%20%28from%20Live%20at%20anywhere%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C%20%28from%20Live%20at%20anywhere%29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1538127357",
+      "title": "Midnight Sun",
+      "date": "2014-06-25",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/midnight-sun/1538127357?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/midnight-sun/1538127357?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/4d/09/cf4d09ff-c6e8-0964-d493-cf0841a9216a/4560429727163.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "WHEN YOU WISH UPON A STAR -prologue-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20WHEN%20YOU%20WISH%20UPON%20A%20STAR%20-prologue-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20WHEN%20YOU%20WISH%20UPON%20A%20STAR%20-prologue-"
+                },
+                {
+                  "title": "眠りの森",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%9C%A0%E3%82%8A%E3%81%AE%E6%A3%AE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%9C%A0%E3%82%8A%E3%81%AE%E6%A3%AE"
+                },
+                {
+                  "title": "7月の翼",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%207%E6%9C%88%E3%81%AE%E7%BF%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%207%E6%9C%88%E3%81%AE%E7%BF%BC"
+                },
+                {
+                  "title": "words",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20words",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20words"
+                },
+                {
+                  "title": "Cold Sun",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Cold%20Sun",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Cold%20Sun"
+                },
+                {
+                  "title": "AM03:00",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20AM03%3A00",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20AM03%3A00"
+                },
+                {
+                  "title": "小さな星のメロディー",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%B0%8F%E3%81%95%E3%81%AA%E6%98%9F%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%B0%8F%E3%81%95%E3%81%AA%E6%98%9F%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC"
+                },
+                {
+                  "title": "VOICE",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20VOICE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20VOICE"
+                },
+                {
+                  "title": "RE:I AM",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20RE%3AI%20AM",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20RE%3AI%20AM"
+                },
+                {
+                  "title": "StarRingChild",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20StarRingChild",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20StarRingChild"
+                },
+                {
+                  "title": "星の消えた夜に (Re-echoed by Genki Rockets × give me wallets)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20%28Re-echoed%20by%20Genki%20Rockets%20%C3%97%20give%20me%20wallets%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20%28Re-echoed%20by%20Genki%20Rockets%20%C3%97%20give%20me%20wallets%29"
+                },
+                {
+                  "title": "Iris",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Iris",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Iris"
+                },
+                {
+                  "title": "WHEN YOU WISH UPON A STAR",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20WHEN%20YOU%20WISH%20UPON%20A%20STAR",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20WHEN%20YOU%20WISH%20UPON%20A%20STAR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1536128856",
+      "title": "誰か、海を。 EP",
+      "date": "2014-09-03",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/%E8%AA%B0%E3%81%8B-%E6%B5%B7%E3%82%92-ep/1536128856?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%AA%B0%E3%81%8B-%E6%B5%B7%E3%82%92-ep/1536128856?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/d6/cc/95d6ccc2-b2fa-982a-527b-446c6b745bec/4560429727644.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "誰か、海を。",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82"
+                },
+                {
+                  "title": "白昼夢",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%99%BD%E6%98%BC%E5%A4%A2",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%99%BD%E6%98%BC%E5%A4%A2"
+                },
+                {
+                  "title": "for ロンリー (with 阿部真央)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20for%20%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%BC%20%28with%20%E9%98%BF%E9%83%A8%E7%9C%9F%E5%A4%AE%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20for%20%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%BC%20%28with%20%E9%98%BF%E9%83%A8%E7%9C%9F%E5%A4%AE%29"
+                },
+                {
+                  "title": "眠りの森 (Kazuki Remix) [with Yuuki Ozaki]",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%9C%A0%E3%82%8A%E3%81%AE%E6%A3%AE%20%28Kazuki%20Remix%29%20%5Bwith%20Yuuki%20Ozaki%5D",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%9C%A0%E3%82%8A%E3%81%AE%E6%A3%AE%20%28Kazuki%20Remix%29%20%5Bwith%20Yuuki%20Ozaki%5D"
+                },
+                {
+                  "title": "Cold Sun (Ryo Nagano Remix) [with RYO NAGANO]",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Cold%20Sun%20%28Ryo%20Nagano%20Remix%29%20%5Bwith%20RYO%20NAGANO%5D",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Cold%20Sun%20%28Ryo%20Nagano%20Remix%29%20%5Bwith%20RYO%20NAGANO%5D"
+                },
+                {
+                  "title": "誰か、海を。(TV size)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82%28TV%20size%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82%28TV%20size%29"
+                },
+                {
+                  "title": "白昼夢 (TV edit)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%99%BD%E6%98%BC%E5%A4%A2%20%28TV%20edit%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%99%BD%E6%98%BC%E5%A4%A2%20%28TV%20edit%29"
+                },
+                {
+                  "title": "誰か、海を。(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82%28instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82%28instrumental%29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1536130464",
+      "title": "DAWN",
+      "date": "2015-07-29",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/dawn/1536130464?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/dawn/1536130464?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/e4/91/a7e4914b-3e96-d119-0ce7-d9e7d5ab113a/4560429730019.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "MOON RIVER -prologue-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20MOON%20RIVER%20-prologue-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20MOON%20RIVER%20-prologue-"
+                },
+                {
+                  "title": "Believe Be:leave",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Believe%20Be%3Aleave",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Believe%20Be%3Aleave"
+                },
+                {
+                  "title": "君を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%90%9B%E3%82%92%E5%BE%85%E3%81%A4",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%90%9B%E3%82%92%E5%BE%85%E3%81%A4"
+                },
+                {
+                  "title": "broKen NIGHT",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20broKen%20NIGHT",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20broKen%20NIGHT"
+                },
+                {
+                  "title": "Noir! Noir!",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Noir%21%20Noir%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Noir%21%20Noir%21"
+                },
+                {
+                  "title": "Re:far",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Re%3Afar",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Re%3Afar"
+                },
+                {
+                  "title": "AM04:00",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20AM04%3A00",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20AM04%3A00"
+                },
+                {
+                  "title": "誰か、海を。",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82"
+                },
+                {
+                  "title": "LAST STARDUST",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20LAST%20STARDUST",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20LAST%20STARDUST"
+                },
+                {
+                  "title": "Brave Shine",
+                  "youtube": "https://www.youtube.com/watch?v=XeI8E20ZUE4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Brave%20Shine"
+                },
+                {
+                  "title": "キズナ",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%AD%E3%82%BA%E3%83%8A",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%AD%E3%82%BA%E3%83%8A"
+                },
+                {
+                  "title": "DAWN",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20DAWN",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20DAWN"
+                },
+                {
+                  "title": "MOON RIVER",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20MOON%20RIVER",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20MOON%20RIVER"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1538258997",
+      "title": "daydream",
+      "date": "2016-09-21",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/daydream/1538258997?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/daydream/1538258997?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/4a/84/464a843d-14cc-e5e2-a9d6-763eb558e104/4547366270358.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "insane dream",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20insane%20dream",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20insane%20dream"
+                },
+                {
+                  "title": "ninelie (with chelly)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ninelie%20%28with%20chelly%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ninelie%20%28with%20chelly%29"
+                },
+                {
+                  "title": "twoface",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20twoface",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20twoface"
+                },
+                {
+                  "title": "Higher Ground",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Higher%20Ground",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Higher%20Ground"
+                },
+                {
+                  "title": "for ロンリー (with 阿部真央)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20for%20%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%BC%20%28with%20%E9%98%BF%E9%83%A8%E7%9C%9F%E5%A4%AE%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20for%20%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%BC%20%28with%20%E9%98%BF%E9%83%A8%E7%9C%9F%E5%A4%AE%29"
+                },
+                {
+                  "title": "蝶々結び",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%9D%B6%E3%80%85%E7%B5%90%E3%81%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%9D%B6%E3%80%85%E7%B5%90%E3%81%B3"
+                },
+                {
+                  "title": "カタオモイ",
+                  "youtube": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4"
+                },
+                {
+                  "title": "Hz(ヘルツ)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Hz%28%E3%83%98%E3%83%AB%E3%83%84%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Hz%28%E3%83%98%E3%83%AB%E3%83%84%29"
+                },
+                {
+                  "title": "声色",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%A3%B0%E8%89%B2",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%A3%B0%E8%89%B2"
+                },
+                {
+                  "title": "closer",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20closer",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20closer"
+                },
+                {
+                  "title": "Falling Alone",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Falling%20Alone",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Falling%20Alone"
+                },
+                {
+                  "title": "us",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20us",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20us"
+                },
+                {
+                  "title": "Stars in the rain",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Stars%20in%20the%20rain",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Stars%20in%20the%20rain"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1538259424",
+      "title": "BEST SELECTION \"blanc\"",
+      "date": "2017-05-03",
+      "kind": "compilation",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/best-selection-blanc/1538259424?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/best-selection-blanc/1538259424?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/ab/9b/abab9b3b-41cd-a0c0-29c0-6a1464501c0b/4547366306514.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "六等星の夜",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C"
+                },
+                {
+                  "title": "蝶々結び",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%9D%B6%E3%80%85%E7%B5%90%E3%81%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%9D%B6%E3%80%85%E7%B5%90%E3%81%B3"
+                },
+                {
+                  "title": "あなたに出会わなければ〜夏雪冬花〜",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C"
+                },
+                {
+                  "title": "ポラリス",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9"
+                },
+                {
+                  "title": "Re:pray",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Re%3Apray",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Re%3Apray"
+                },
+                {
+                  "title": "星屑ビーナス",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9"
+                },
+                {
+                  "title": "broKen NIGHT",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20broKen%20NIGHT",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20broKen%20NIGHT"
+                },
+                {
+                  "title": "カタオモイ",
+                  "youtube": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4"
+                },
+                {
+                  "title": "君を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%90%9B%E3%82%92%E5%BE%85%E3%81%A4",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%90%9B%E3%82%92%E5%BE%85%E3%81%A4"
+                },
+                {
+                  "title": "茜さす",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%8C%9C%E3%81%95%E3%81%99",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%8C%9C%E3%81%95%E3%81%99"
+                },
+                {
+                  "title": "雪の降る街",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E9%9B%AA%E3%81%AE%E9%99%8D%E3%82%8B%E8%A1%97",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E9%9B%AA%E3%81%AE%E9%99%8D%E3%82%8B%E8%A1%97"
+                },
+                {
+                  "title": "everlasting snow",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20everlasting%20snow",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20everlasting%20snow"
+                },
+                {
+                  "title": "March of Time",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20March%20of%20Time",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20March%20of%20Time"
+                },
+                {
+                  "title": "歌鳥風月",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%AD%8C%E9%B3%A5%E9%A2%A8%E6%9C%88",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%AD%8C%E9%B3%A5%E9%A2%A8%E6%9C%88"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1538259694",
+      "title": "BEST SELECTION \"noir\"",
+      "date": "2017-05-03",
+      "kind": "compilation",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/best-selection-noir/1538259694?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/best-selection-noir/1538259694?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/0a/14/e80a1445-3b78-aafc-c171-71f5521a2c36/4547366306668.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "StarRingChild",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20StarRingChild",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20StarRingChild"
+                },
+                {
+                  "title": "Brave Shine",
+                  "youtube": "https://www.youtube.com/watch?v=XeI8E20ZUE4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Brave%20Shine"
+                },
+                {
+                  "title": "insane dream",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20insane%20dream",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20insane%20dream"
+                },
+                {
+                  "title": "Stars in the rain",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Stars%20in%20the%20rain",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Stars%20in%20the%20rain"
+                },
+                {
+                  "title": "眠りの森",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%9C%A0%E3%82%8A%E3%81%AE%E6%A3%AE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%9C%A0%E3%82%8A%E3%81%AE%E6%A3%AE"
+                },
+                {
+                  "title": "LAST STARDUST",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20LAST%20STARDUST",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20LAST%20STARDUST"
+                },
+                {
+                  "title": "凍えそうな季節から -extended ver.-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%87%8D%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E5%AD%A3%E7%AF%80%E3%81%8B%E3%82%89%20-extended%20ver.-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%87%8D%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E5%AD%A3%E7%AF%80%E3%81%8B%E3%82%89%20-extended%20ver.-"
+                },
+                {
+                  "title": "誰か、海を。",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82"
+                },
+                {
+                  "title": "ninelie (with chelly)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ninelie%20%28with%20chelly%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ninelie%20%28with%20chelly%29"
+                },
+                {
+                  "title": "holLow wORlD",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20holLow%20wORlD",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20holLow%20wORlD"
+                },
+                {
+                  "title": "us",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20us",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20us"
+                },
+                {
+                  "title": "s-AVE (feat. Aimer)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20s-AVE%20%28feat.%20Aimer%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20s-AVE%20%28feat.%20Aimer%29"
+                },
+                {
+                  "title": "RE:I AM",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20RE%3AI%20AM",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20RE%3AI%20AM"
+                },
+                {
+                  "title": "zero",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20zero",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20zero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1538261074",
+      "title": "Penny Rain",
+      "date": "2019-04-10",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/penny-rain/1538261074?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/penny-rain/1538261074?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/cc/b3/77ccb311-f62e-76d6-18df-7ac92b5b888f/4547366402346.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "pluie",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20pluie",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20pluie"
+                },
+                {
+                  "title": "I beg you",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20I%20beg%20you",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20I%20beg%20you"
+                },
+                {
+                  "title": "Black Bird",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Black%20Bird",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Black%20Bird"
+                },
+                {
+                  "title": "Sailing",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Sailing",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Sailing"
+                },
+                {
+                  "title": "眩いばかり",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%9C%A9%E3%81%84%E3%81%B0%E3%81%8B%E3%82%8A",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%9C%A9%E3%81%84%E3%81%B0%E3%81%8B%E3%82%8A"
+                },
+                {
+                  "title": "Stand By You",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Stand%20By%20You",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Stand%20By%20You"
+                },
+                {
+                  "title": "Ref:rain",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Ref%3Arain",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Ref%3Arain"
+                },
+                {
+                  "title": "i-mage <in/AR>",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20i-mage%20%3Cin/AR%3E",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20i-mage%20%3Cin/AR%3E"
+                },
+                {
+                  "title": "花の唄",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%8A%B1%E3%81%AE%E5%94%84",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%8A%B1%E3%81%AE%E5%94%84"
+                },
+                {
+                  "title": "April Showers",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20April%20Showers",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20April%20Showers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1538260864",
+      "title": "Sun Dance",
+      "date": "2019-04-10",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/sun-dance/1538260864?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sun-dance/1538260864?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/28/78/992878dc-3339-da1f-bfd2-3ccac5cc2cc7/4547366402339.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "soleil",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20soleil",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20soleil"
+                },
+                {
+                  "title": "ONE",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ONE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ONE"
+                },
+                {
+                  "title": "We Two",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20We%20Two",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20We%20Two"
+                },
+                {
+                  "title": "3min",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%203min",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%203min"
+                },
+                {
+                  "title": "コイワズライ",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%BA%E3%83%A9%E3%82%A4",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%BA%E3%83%A9%E3%82%A4"
+                },
+                {
+                  "title": "花びらたちのマーチ",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%81",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%81"
+                },
+                {
+                  "title": "思い出は奇麗で",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AF%E5%A5%87%E9%BA%97%E3%81%A7",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AF%E5%A5%87%E9%BA%97%E3%81%A7"
+                },
+                {
+                  "title": "Monochrome Syndrome",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Monochrome%20Syndrome",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Monochrome%20Syndrome"
+                },
+                {
+                  "title": "SUN DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20SUN%20DANCE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20SUN%20DANCE"
+                },
+                {
+                  "title": "One -epilogue-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20One%20-epilogue-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20One%20-epilogue-"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1546316228",
+      "title": "Walpurgis",
+      "date": "2021-04-14",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/walpurgis/1546316228?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/walpurgis/1546316228?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/af/b2/54afb286-3614-f2c8-e633-2831bd2fd76b/4547366491647.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "Walpurgis -prologue-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Walpurgis%20-prologue-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Walpurgis%20-prologue-"
+                },
+                {
+                  "title": "STAND-ALONE",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20STAND-ALONE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20STAND-ALONE"
+                },
+                {
+                  "title": "cold rain",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20cold%20rain",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20cold%20rain"
+                },
+                {
+                  "title": "トリル",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%83%88%E3%83%AA%E3%83%AB",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%83%88%E3%83%AA%E3%83%AB"
+                },
+                {
+                  "title": "地球儀 (with Vaundy)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%9C%B0%E7%90%83%E5%84%80%20%28with%20Vaundy%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%9C%B0%E7%90%83%E5%84%80%20%28with%20Vaundy%29"
+                },
+                {
+                  "title": "SPARK-AGAIN",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20SPARK-AGAIN",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20SPARK-AGAIN"
+                },
+                {
+                  "title": "wonderland",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20wonderland",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20wonderland"
+                },
+                {
+                  "title": "Torches",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Torches",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Torches"
+                },
+                {
+                  "title": "marie",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20marie",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20marie"
+                },
+                {
+                  "title": "ever after",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ever%20after",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ever%20after"
+                },
+                {
+                  "title": "hollow-mas",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20hollow-mas",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20hollow-mas"
+                },
+                {
+                  "title": "季路",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%AD%A3%E8%B7%AF",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%AD%A3%E8%B7%AF"
+                },
+                {
+                  "title": "春はゆく",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%A5%E3%81%AF%E3%82%86%E3%81%8F",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%A5%E3%81%AF%E3%82%86%E3%81%8F"
+                },
+                {
+                  "title": "Walpurgis",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Walpurgis",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Walpurgis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1597687739",
+      "title": "星の消えた夜に",
+      "date": "2022-01-26",
+      "kind": "compilation",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB/1597687739?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB/1597687739?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/3e/2b/c13e2b74-a875-b20f-d37f-5603eb0d2031/4547366543063.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "Run Riot (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Run%20Riot%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Run%20Riot%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "Work it out (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Work%20it%20out%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Work%20it%20out%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "Mine (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Mine%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Mine%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "Ophelia (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Ophelia%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Ophelia%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "スピカ (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%B9%E3%83%94%E3%82%AB%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%B9%E3%83%94%E3%82%AB%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "夏草に君を想う (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%A4%8F%E8%8D%89%E3%81%AB%E5%90%9B%E3%82%92%E6%83%B3%E3%81%86%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%A4%8F%E8%8D%89%E3%81%AB%E5%90%9B%E3%82%92%E6%83%B3%E3%81%86%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "tone (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20tone%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20tone%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "悲しみの向こう側 (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "Blind to you (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Blind%20to%20you%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Blind%20to%20you%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "my sweetest one (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20my%20sweetest%20one%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20my%20sweetest%20one%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "今日から思い出 (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E6%80%9D%E3%81%84%E5%87%BA%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E6%80%9D%E3%81%84%E5%87%BA%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "Ash flame (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Ash%20flame%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Ash%20flame%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "Daisy (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Daisy%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Daisy%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "Even Heaven (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Even%20Heaven%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Even%20Heaven%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "星の消えた夜に (Remaster for 星の消えた夜に 2022)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20%28Remaster%20for%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%202022%29"
+                },
+                {
+                  "title": "ONE AND LAST",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ONE%20AND%20LAST",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ONE%20AND%20LAST"
+                },
+                {
+                  "title": "トリル -starless night ver.-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%83%88%E3%83%AA%E3%83%AB%20-starless%20night%20ver.-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%83%88%E3%83%AA%E3%83%AB%20-starless%20night%20ver.-"
+                },
+                {
+                  "title": "グレースノート",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88"
+                },
+                {
+                  "title": "星の消えた夜に -rit. ver.-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20-rit.%20ver.-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20-rit.%20ver.-"
+                },
+                {
+                  "title": "セプテンバーさん",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC%E3%81%95%E3%82%93",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC%E3%81%95%E3%82%93"
+                },
+                {
+                  "title": "Raining",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Raining",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Raining"
+                },
+                {
+                  "title": "糸",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%B3%B8",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%B3%B8"
+                },
+                {
+                  "title": "花束のかわりにメロディーを",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%8A%B1%E6%9D%9F%E3%81%AE%E3%81%8B%E3%82%8F%E3%82%8A%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC%E3%82%92",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%8A%B1%E6%9D%9F%E3%81%AE%E3%81%8B%E3%82%8F%E3%82%8A%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC%E3%82%92"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1708218366",
+      "title": "Aimer Hall Tour 2022 \"Walpurgisnacht\" Live at TOKYO GARDEN THEATER",
+      "date": "2022-09-07",
+      "kind": "live",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire. Edizione audio live: le ricerche non garantiscono la stessa registrazione del concerto.",
+      "source": "https://music.apple.com/jp/album/aimer-hall-tour-2022-walpurgisnacht-live-at-tokyo-garden/1708218366?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/aimer-hall-tour-2022-walpurgisnacht-live-at-tokyo-garden/1708218366?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/40/6e/66406e80-9d34-927f-028d-07b171fca46c/4547366583571.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "STAND-ALONE (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20STAND-ALONE%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20STAND-ALONE%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "cold rain (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20cold%20rain%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20cold%20rain%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "ever after (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ever%20after%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ever%20after%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "トリル (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%83%88%E3%83%AA%E3%83%AB%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%83%88%E3%83%AA%E3%83%AB%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "地球儀 (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%9C%B0%E7%90%83%E5%84%80%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%9C%B0%E7%90%83%E5%84%80%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "wonderland (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20wonderland%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20wonderland%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "Walpurgisnacht (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Walpurgisnacht%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Walpurgisnacht%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "残響散歌 (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "Run Riot (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Run%20Riot%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Run%20Riot%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "カタオモイ (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "hollow-mas (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20hollow-mas%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20hollow-mas%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "花の唄 (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E8%8A%B1%E3%81%AE%E5%94%84%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E8%8A%B1%E3%81%AE%E5%94%84%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "朝が来る (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "SPARK-AGAIN (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20SPARK-AGAIN%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20SPARK-AGAIN%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "ONE (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20ONE%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20ONE%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "季路 (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E5%AD%A3%E8%B7%AF%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E5%AD%A3%E8%B7%AF%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "星の消えた夜に -rit. ver.- (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20-rit.%20ver.-%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB%20-rit.%20ver.-%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                },
+                {
+                  "title": "Brave Shine (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Brave%20Shine%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Brave%20Shine%20%28%22Walpurgisnacht%22%20Live%20at%20TOKYO%20GARDEN%20THEATER%29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1652643090",
+      "title": "Deep down",
+      "date": "2022-12-14",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/deep-down/1652643090?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/deep-down/1652643090?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/d5/15/b8d51548-be43-ff39-8bdb-3c4db928a4af/4547366593532.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "Deep down",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Deep%20down",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Deep%20down"
+                },
+                {
+                  "title": "オアイコ",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%AA%E3%82%A2%E3%82%A4%E3%82%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%AA%E3%82%A2%E3%82%A4%E3%82%B3"
+                },
+                {
+                  "title": "Ivy Ivy Ivy",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Ivy%20Ivy%20Ivy",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Ivy%20Ivy%20Ivy"
+                },
+                {
+                  "title": "wavy flow",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20wavy%20flow",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20wavy%20flow"
+                },
+                {
+                  "title": "rubble pile",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20rubble%20pile",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20rubble%20pile"
+                },
+                {
+                  "title": "カタオモイ - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%20-%20From%20THE%20FIRST%20TAKE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%20-%20From%20THE%20FIRST%20TAKE"
+                },
+                {
+                  "title": "残響散歌 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C%20-%20From%20THE%20FIRST%20TAKE",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C%20-%20From%20THE%20FIRST%20TAKE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1694666652",
+      "title": "Open α Door",
+      "date": "2023-07-26",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/open-%CE%B1-door/1694666652?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/open-%CE%B1-door/1694666652?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/c7/be/48c7be0b-590f-2382-aa50-eef67330ee30/4547366631425.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "Open α Door",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Open%20%CE%B1%20Door",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Open%20%CE%B1%20Door"
+                },
+                {
+                  "title": "残響散歌",
+                  "youtube": "https://www.youtube.com/watch?v=tLQLa6lM3Us",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C"
+                },
+                {
+                  "title": "Resonantia",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Resonantia",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Resonantia"
+                },
+                {
+                  "title": "Deep down",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Deep%20down",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Deep%20down"
+                },
+                {
+                  "title": "朝が来る",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B"
+                },
+                {
+                  "title": "オアイコ",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%82%AA%E3%82%A2%E3%82%A4%E3%82%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%82%AA%E3%82%A2%E3%82%A4%E3%82%B3"
+                },
+                {
+                  "title": "群青色の空",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E7%BE%A4%E9%9D%92%E8%89%B2%E3%81%AE%E7%A9%BA",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E7%BE%A4%E9%9D%92%E8%89%B2%E3%81%AE%E7%A9%BA"
+                },
+                {
+                  "title": "I know U know",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20I%20know%20U%20know",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20I%20know%20U%20know"
+                },
+                {
+                  "title": "escalate",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20escalate",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20escalate"
+                },
+                {
+                  "title": "spiral dance",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20spiral%20dance",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20spiral%20dance"
+                },
+                {
+                  "title": "あてもなく",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E3%81%82%E3%81%A6%E3%82%82%E3%81%AA%E3%81%8F",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E3%81%82%E3%81%A6%E3%82%82%E3%81%AA%E3%81%8F"
+                },
+                {
+                  "title": "SKYLIGHT",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20SKYLIGHT",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20SKYLIGHT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aimer-1748490798",
+      "title": "遥か / 800 / End of All / Ref:rain -3 nuits ver.-",
+      "date": "2024-06-05",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese Apple Music; le confezioni fisiche e le edizioni regionali possono differire.",
+      "source": "https://music.apple.com/jp/album/%E9%81%A5%E3%81%8B-800-end-of-all-ref-rain-3-nuits-ver/1748490798?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%81%A5%E3%81%8B-800-end-of-all-ref-rain-3-nuits-ver/1748490798?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/3a/37/ff3a37b3-6ed7-c179-b7d3-959d0f004b1c/4547366688375.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "遥か",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E9%81%A5%E3%81%8B",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E9%81%A5%E3%81%8B"
+                },
+                {
+                  "title": "800",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20800",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20800"
+                },
+                {
+                  "title": "End of All",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20End%20of%20All",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20End%20of%20All"
+                },
+                {
+                  "title": "Ref:rain -3 nuits ver.-",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Ref%3Arain%20-3%20nuits%20ver.-",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Ref%3Arain%20-3%20nuits%20ver.-"
+                },
+                {
+                  "title": "遥か (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20%E9%81%A5%E3%81%8B%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20%E9%81%A5%E3%81%8B%20%28Instrumental%29"
+                },
+                {
+                  "title": "800 (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20800%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20800%20%28Instrumental%29"
+                },
+                {
+                  "title": "End of All (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20End%20of%20All%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20End%20of%20All%20%28Instrumental%29"
+                },
+                {
+                  "title": "Ref:rain -3 nuits ver.- (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Aimer%20Ref%3Arain%20-3%20nuits%20ver.-%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Aimer%20Ref%3Arain%20-3%20nuits%20ver.-%20%28Instrumental%29"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Biografia ufficiale Sony / Aimer",
+      "url": "https://www.aimer-web.jp/sp/biography/"
+    },
+    {
+      "label": "Discografia ufficiale Sony Music",
+      "url": "https://www.sonymusic.co.jp/artist/aimer/discography/"
+    },
+    {
+      "label": "NORANEKO · progetto ufficiale del quindicesimo anniversario",
+      "url": "https://15th-noraneko.aimer-official.com/"
+    },
+    {
+      "label": "Brave Shine · tema di Fate/stay night",
+      "url": "https://www.sonymusic.co.jp/artist/aimer/discography/buy/DFCL-2127"
+    },
+    {
+      "label": "Zankyosanka · video e collegamento a Demon Slayer",
+      "url": "https://www.sonymusic.co.jp/artist/aimer/info/536013"
+    }
+  ],
+  "videoEditions": []
+}

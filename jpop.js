@@ -2,7 +2,7 @@
 (() => {
  'use strict';
  const $=s=>document.querySelector(s),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- const hosts=['www.bish.tokyo','bish.tokyo','www.youtube.com','youtube.com','open.spotify.com','img.imageimg.net','img.youtube.com','ainatheend.jp','momokogumicompany.tokyo','centplanet.jp','www.pedro.tokyo','en.wikipedia.org','2zicon.tokyo','jpurecords.com','music.apple.com','itunes.apple.com','ameblo.jp'];
+ const hosts=['www.bish.tokyo','bish.tokyo','www.youtube.com','youtube.com','open.spotify.com','img.imageimg.net','img.youtube.com','ainatheend.jp','momokogumicompany.tokyo','centplanet.jp','www.pedro.tokyo','en.wikipedia.org','2zicon.tokyo','jpurecords.com','music.apple.com','itunes.apple.com','ameblo.jp','www.aimer-web.jp','www.sonymusic.co.jp','15th-noraneko.aimer-official.com'];
  function safe(url){try{const u=new URL(url);return u.protocol==='https:'&&(hosts.includes(u.hostname)||u.hostname.endsWith('.mzstatic.com'))?u.href:''}catch{return ''}}
  const date=s=>new Date(s+'T12:00Z').toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'});
  const kinds={studio:'Album in studio',ep:'EP / mini-album',compilation:'Raccolta',live:'Edizione audio live'};
@@ -21,7 +21,7 @@
  async function init(){
   try{const r=await fetch(document.body.dataset.musicSource||'data/jpop-bish.json');if(!r.ok)throw Error();data=await r.json();
    $('#bish-group-image').src=safe(data.groupImage);
-   const memberCard=m=>`<article class="music-member"><img src="${esc(safe(m.image))}" alt="${esc(m.name)}" loading="lazy"><div><h3>${esc(m.name)}</h3><p lang="ja">${esc(m.japanese)}</p><p>${esc(m.bio)}</p><a href="${esc(safe(m.link))}" target="_blank" rel="noopener noreferrer">Profilo / sito ufficiale ↗</a></div></article>`;$('#music-members').innerHTML=data.members.map(memberCard).join('');if($('#music-trainees'))$('#music-trainees').innerHTML=(data.trainees||[]).map(memberCard).join('');
+   const memberCard=m=>`<article class="music-member"><img src="${esc(safe(m.image))}" alt="${esc(m.name)}" loading="lazy"><div><h3>${esc(m.name)}</h3><p lang="ja">${esc(m.japanese)}</p><p>${esc(m.bio)}</p><a href="${esc(safe(m.link))}" target="_blank" rel="noopener noreferrer">Profilo / sito ufficiale ↗</a></div></article>`;if($('#music-members'))$('#music-members').innerHTML=data.members.map(memberCard).join('');if($('#music-trainees'))$('#music-trainees').innerHTML=(data.trainees||[]).map(memberCard).join('');
    $('#music-spotlight').innerHTML=data.spotlight.map(v=>`<a class="music-video" href="${esc(safe(v.url))}" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/${esc(v.id)}/hqdefault.jpg" alt="Video ufficiale: ${esc(v.title)}" loading="lazy"><div><span>▶ VIDEO UFFICIALE</span><h3>${esc(v.title)}</h3><small>Guarda su YouTube ↗</small></div></a>`).join('');
    $('#music-sources').innerHTML=data.sources.map(s=>`<li><a href="${esc(safe(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.label)} ↗</a></li>`).join('');
    if($('#music-videos-archive'))$('#music-videos-archive').innerHTML=data.videoEditions.map(s=>`<li><a href="${esc(safe(s.url))}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a></li>`).join('');
