@@ -6,7 +6,7 @@ Sito personale in italiano, con grafica originale e catalogo navigabile.
 - 752 anime e 275 manga/novel.
 - 1.341 volumi posseduti, con dettagli delle edizioni.
 - 928 copertine ottimizzate salvate localmente.
-- Ricerca, filtri, voti di Xuthar e preferiti salvati nel browser del visitatore.
+- Ricerca, filtri e voti di Xuthar; liste personali del visitatore in `mie-liste.html`.
 
 ## Pubblicazione
 Sito statico senza dipendenze di compilazione. GitHub Pages pubblica dal ramo `main`, cartella radice `/`.
@@ -71,3 +71,11 @@ Titoli, date, fotografie e copertine provengono dall’archivio ufficiale BiSH/a
 Sono presenti 14 pubblicazioni audio con 167 tracce: 13 edizioni digitali del catalogo Apple Music (esclusi i singoli) e il cofanetto fisico Over the RAINBOW con 47 brani in tre CD, come nella fonte ufficiale. Le differenze di data/scaletta fra digitale e fisico sono esplicite. I sette brani di Rainbow Pulse e RAINBOW SUMMER SHOWER sono raccolti fra i mini-album per la navigazione. I video diretti provengono dall’archivio ufficiale, dal blog del gruppo o da JPU Records; Spotify offre ricerche per artista e brano, chiaramente etichettate. La scheda non dichiara di includere ogni confezione speciale o ogni pubblicazione video.
 
 Verifiche: `node verify-niji.cjs` e `node verify-jpop.cjs`.
+
+## Liste personali dei visitatori
+
+- `visitor-lists.js` conserva le scelte anime nella chiave preesistente `yume-season-choices` (watch/skip), le informazioni di riserva in `yume-watch-snapshots` e gli acquisti in `yume-shopping-list`. Nessun account, invio al server o modifica ai dati della collezione.
+- Seasons permette di scegliere gli anime; il calendario libri aggiunge singoli volumi/edizioni. Le selezioni restano disponibili dopo il cambio di settimana. ISBN e lingua, oppure URL della scheda e lingua, distinguono i volumi senza usare la data come identità.
+- `mie-liste.html` raccoglie tutti gli anime selezionati e i volumi da comprare, con stato acquistato, filtri e stampa. Il cambio di browser/dispositivo e la cancellazione dei dati locali non preservano le liste.
+- L’interfaccia Preferiti è rimossa; la vecchia chiave `yume-favorites` viene lasciata intatta e non è convertita automaticamente in una lista da vedere.
+- Verifica: `node verify-visitor-lists.cjs`, `node verify-seasons.cjs`, `node verify-book-calendar.cjs`.

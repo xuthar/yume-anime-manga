@@ -11,17 +11,18 @@ for(const [id,x] of Object.entries(data.items)){
  if(x.synopsisIt)plots++;else assert(x.synopsisNote.includes('non ha ancora'),'Unexpected missing synopsis: '+id);
 }
 const stub={addEventListener(){},querySelector(){return stub}};
-const context={URL,Date,document:{querySelector:()=>stub,querySelectorAll:()=>[]},window:{addEventListener(){}},fetch:()=>new Promise(()=>{})};vm.createContext(context);vm.runInContext(fs.readFileSync('seasons.js','utf8'),context);
+const storage=new Map();
+const context={localStorage:{getItem:key=>storage.get(key)||null,setItem:(key,value)=>storage.set(key,value)},URL,Date,document:{querySelector:()=>stub,querySelectorAll:()=>[]},window:{addEventListener(){}},fetch:()=>new Promise(()=>{})};vm.createContext(context);function loadLists(){vm.runInContext(fs.readFileSync('visitor-lists.js','utf8'),context);context.YumeLists=context.window.YumeLists}loadLists();vm.runInContext(fs.readFileSync('seasons.js','utf8'),context);
 assert.equal(vm.runInContext("safeUrl('javascript:alert(1)')",context),'');assert(!context.link('https://example.com','<script>').includes('<script>'));assert(!context.cover({image:'https://example.com/a.png',title:'Test',adult:true}).includes('<img'));
 assert(!context.titleField('INGLESE','<img onerror=x>').includes('<img'));
 assert(context.titleField('INGLESE','').includes('Non indicato'));
 const parsed=fs.readFileSync('index.html','utf8');assert(parsed.includes('href="seasons.html"'));
 console.log(`PASS: 3 seasons, 660 entries, 560 verified titles, ${plots} synopses/project notes, ${offers} Italian streaming offers; original titles, adult cover handling and safe rendering.`);
-const storage=new Map();context.localStorage={getItem:key=>storage.get(key)||null,setItem:(key,value)=>storage.set(key,value)};
+context.localStorage={getItem:key=>storage.get(key)||null,setItem:(key,value)=>storage.set(key,value)};
 assert.equal(vm.runInContext('Object.keys(readChoices()).length',context),0);
 storage.set('yume-season-choices','{"anime-1":"watch","anime-2":"skip","anime-3":"invalid","bad":"watch"}');
-assert.equal(vm.runInContext('JSON.stringify(readChoices())',context),'{"anime-1":"watch","anime-2":"skip"}');
-storage.set('yume-season-choices','broken');assert.equal(vm.runInContext('Object.keys(readChoices()).length',context),0);
+loadLists();assert.equal(vm.runInContext('JSON.stringify(readChoices())',context),'{"anime-1":"watch","anime-2":"skip"}');
+storage.set('yume-season-choices','broken');loadLists();assert.equal(vm.runInContext('Object.keys(readChoices()).length',context),0);
 function element(){return {dataset:{},children:[],attributes:{},append(x){this.children.push(x)},setAttribute(k,v){this.attributes[k]=v},querySelectorAll(){return this.children}}}
 context.document.createElement=element;
 context.renderSeasons=()=>{};
