@@ -59,6 +59,15 @@ Le schede dei titoli del calendario anime aprono la stagione corrispondente nell
 
 ### Sezione J-pop · BiSH
 
-`jpop.html` è un archivio musicale indipendente dal catalogo anime/manga e dai suoi dati personali. La prima artista/gruppo è BiSH, con introduzione, sei componenti della formazione finale, quattro video ufficiali e la discografia audio in `data/jpop-bish.json`. Sono presenti i sette album in studio, i tre EP/mini-album, tre raccolte (incluso il vinile commemorativo 2026) e sette pubblicazioni con edizioni audio live. Le differenti scalette delle confezioni sono selezionabili e non vengono mescolate. Per REBOOT BiSH e FROM DUSK TiLL DAWN il CD è documentato ma la fonte non dettaglia separatamente le tracce: le lacune sono esplicite.
+`jpop.html` è l’indice degli artisti; `bish.html` contiene un archivio musicale indipendente dal catalogo anime/manga e dai suoi dati personali. La prima artista/gruppo è BiSH, con introduzione, sei componenti della formazione finale, quattro video ufficiali e la discografia audio in `data/jpop-bish.json`. Sono presenti i sette album in studio, i tre EP/mini-album, tre raccolte (incluso il vinile commemorativo 2026) e sette pubblicazioni con edizioni audio live. Le differenti scalette delle confezioni sono selezionabili e non vengono mescolate. Per REBOOT BiSH e FROM DUSK TiLL DAWN il CD è documentato ma la fonte non dettaglia separatamente le tracce: le lacune sono esplicite.
 
 Titoli, date, fotografie e copertine provengono dall’archivio ufficiale BiSH/avex; profili e fonti sono collegati in pagina. I video diretti sono stati verificati tramite gli embed dell’archivio ufficiale e i relativi metadati YouTube. I link di ricerca sono etichettati come tali; i collegamenti Spotify dei singoli brani sono ricerche, mentre il profilo artista è quello collegato dal sito ufficiale. Nessun URL di traccia Spotify viene inventato. Progetti individuali e pubblicazioni collettive non sono classificati come album in studio BiSH. Aggiornamento editoriale verificato il 21 ottobre 2026.
+
+
+### Niji no Conquistador
+
+`niji-no-conquistador.html` usa lo stesso lettore discografico di BiSH ma carica `data/jpop-niji.json` tramite un attributo della pagina, senza dipendere da parametri dell’URL. Dieci componenti e due yokasei sono separate come nel profilo ufficiale verificato il 21 ottobre 2026; le foto delle formazioni storiche non vengono attribuite alla formazione attuale. I nomi sono trascritti dalle letture giapponesi ufficiali, comprese Yuika Obayashi e Ano Maejima.
+
+Sono presenti 14 pubblicazioni audio con 167 tracce: 13 edizioni digitali del catalogo Apple Music (esclusi i singoli) e il cofanetto fisico Over the RAINBOW con 47 brani in tre CD, come nella fonte ufficiale. Le differenze di data/scaletta fra digitale e fisico sono esplicite. I sette brani di Rainbow Pulse e RAINBOW SUMMER SHOWER sono raccolti fra i mini-album per la navigazione. I video diretti provengono dall’archivio ufficiale, dal blog del gruppo o da JPU Records; Spotify offre ricerche per artista e brano, chiaramente etichettate. La scheda non dichiara di includere ogni confezione speciale o ogni pubblicazione video.
+
+Verifiche: `node verify-niji.cjs` e `node verify-jpop.cjs`.

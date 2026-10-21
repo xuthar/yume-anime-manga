@@ -1,0 +1,1706 @@
+{
+  "artist": "Niji no Conquistador",
+  "checkedAt": "2026-10-21",
+  "groupImage": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_2zicon_1-scaled.jpg",
+  "spotifyArtist": "https://open.spotify.com/artist/3ZdRpXbuyNbMM6MQFJMErr",
+  "youtubeChannel": "https://www.youtube.com/channel/UCmo55h1NKPRnxiU21b4AHFg",
+  "members": [
+    {
+      "name": "Marina Kumamoto",
+      "japanese": "隈本茉莉奈",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_kumamoto-scaled.jpg",
+      "bio": "Pianoforte e danza fra le specialità dichiarate nel profilo ufficiale. Il suo soprannome è Ma-rin.",
+      "link": "https://2zicon.tokyo/profile/kumamoto/",
+      "status": "member"
+    },
+    {
+      "name": "Karin Matoba",
+      "japanese": "的場華鈴",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_matoba-scaled.jpg",
+      "bio": "Nel profilo ufficiale indica la scrittura fra gli interessi e la jazz dance fra le specialità.",
+      "link": "https://2zicon.tokyo/profile/matoba/",
+      "status": "member"
+    },
+    {
+      "name": "Mei Ishihama",
+      "japanese": "石浜芽衣",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_ishihama-scaled.jpg",
+      "bio": "Soprannome Meme. Fra i suoi interessi dichiara gli spettacoli comici e il mondo idol; fra le specialità, il bowling.",
+      "link": "https://2zicon.tokyo/profile/ishihama/",
+      "status": "member"
+    },
+    {
+      "name": "Yuika Obayashi",
+      "japanese": "尾林結花",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_obayashi-scaled.jpg",
+      "bio": "Appassionata delle novità dolciarie e dei konbini. Nel profilo ufficiale indica la danza come specialità.",
+      "link": "https://2zicon.tokyo/profile/obayashi/",
+      "status": "member"
+    },
+    {
+      "name": "Mayu Kurihara",
+      "japanese": "栗原舞優",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_kurihara-scaled.jpg",
+      "bio": "Moda, idol e anime fra gli interessi dichiarati. Il suo soprannome è Mayu-chan.",
+      "link": "https://2zicon.tokyo/profile/kurihara/",
+      "status": "member"
+    },
+    {
+      "name": "Yu Kawabata",
+      "japanese": "川端優",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_kawabata-scaled.jpg",
+      "bio": "Anime e idol fra le passioni dichiarate. Suona il clarinetto; il suo soprannome è Yu-chan.",
+      "link": "https://2zicon.tokyo/profile/kawabata/",
+      "status": "member"
+    },
+    {
+      "name": "Yui Ichimiya",
+      "japanese": "一宮ゆい",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_ichimiya-scaled.jpg",
+      "bio": "Fra gli interessi del profilo ufficiale compaiono cinema, shopping, trucco e curiosità. Soprannome Yuichi.",
+      "link": "https://2zicon.tokyo/profile/ichimiyayui/",
+      "status": "member"
+    },
+    {
+      "name": "Uta Aoyama",
+      "japanese": "青山詩",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_aoyama-scaled.jpg",
+      "bio": "Musica e serie televisive fra gli interessi dichiarati. Il suo soprannome è Uta-chan.",
+      "link": "https://2zicon.tokyo/profile/aoyama/",
+      "status": "member"
+    },
+    {
+      "name": "Haruka Yagi",
+      "japanese": "八木遥叶",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_yagi-scaled.jpg",
+      "bio": "Passeggiate e torii fra gli interessi del profilo ufficiale. La sua specialità dichiarata è il taiko.",
+      "link": "https://2zicon.tokyo/profile/yagi/",
+      "status": "member"
+    },
+    {
+      "name": "Mai Ito",
+      "japanese": "伊藤舞依",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_ito-scaled.jpg",
+      "bio": "Teatro fra gli interessi e koto fra le specialità dichiarate nel profilo ufficiale. Soprannome Maimai.",
+      "link": "https://2zicon.tokyo/profile/ito/",
+      "status": "member"
+    }
+  ],
+  "trainees": [
+    {
+      "name": "Shiori Tsuzuki",
+      "japanese": "都月しより",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_tsuduki-scaled.jpg",
+      "bio": "Indicata nella sezione yokasei del sito ufficiale. Fra i suoi interessi figurano passeggiate e lettura.",
+      "link": "https://2zicon.tokyo/profile/tsuduki/",
+      "status": "trainee"
+    },
+    {
+      "name": "Ano Maejima",
+      "japanese": "前嶋杏乃",
+      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_maejima-scaled.jpg",
+      "bio": "Indicata nella sezione yokasei del sito ufficiale. Ama gli anime e collezionare giocattoli; indica l’illustrazione come specialità.",
+      "link": "https://2zicon.tokyo/profile/maejima/",
+      "status": "trainee"
+    }
+  ],
+  "albums": [
+    {
+      "id": "niji-1053349925",
+      "title": "レインボウスペクトラム · Rainbow Spectrum",
+      "kind": "studio",
+      "date": "2015-11-03",
+      "source": "https://2zicon.tokyo/discography/rainbowspectrum/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A6%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%83%A9%E3%83%A0/1053349925?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 12 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c4/37/a1/c437a1d6-b733-ab0d-1ded-c7b1e885f5c0/mzm.ewlvfmsw.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "女の子むてき宣言!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A5%B3%E3%81%AE%E5%AD%90%E3%82%80%E3%81%A6%E3%81%8D%E5%AE%A3%E8%A8%80%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A5%B3%E3%81%AE%E5%AD%90%E3%82%80%E3%81%A6%E3%81%8D%E5%AE%A3%E8%A8%80%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "THE☆有頂天サマー!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー",
+                  "youtube": "https://www.youtube.com/watch?v=mzEZFGOiR58",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ドキドキ乙女の通信簿",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E4%B9%99%E5%A5%B3%E3%81%AE%E9%80%9A%E4%BF%A1%E7%B0%BF+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD%E4%B9%99%E5%A5%B3%E3%81%AE%E9%80%9A%E4%BF%A1%E7%B0%BF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love makes me run",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Love+makes+me+run+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Love%20makes%20me%20run",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "電撃タクティクス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%9B%BB%E6%92%83%E3%82%BF%E3%82%AF%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%9B%BB%E6%92%83%E3%82%BF%E3%82%AF%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛だけ叫んで",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%84%9B%E3%81%A0%E3%81%91%E5%8F%AB%E3%82%93%E3%81%A7+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%84%9B%E3%81%A0%E3%81%91%E5%8F%AB%E3%82%93%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "きみの気持ち教えて",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%8D%E3%81%BF%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E6%95%99%E3%81%88%E3%81%A6+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%8D%E3%81%BF%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E6%95%99%E3%81%88%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "にじいろフィロソフィー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%AB%E3%81%98%E3%81%84%E3%82%8D%E3%83%95%E3%82%A3%E3%83%AD%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%AB%E3%81%98%E3%81%84%E3%82%8D%E3%83%95%E3%82%A3%E3%83%AD%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ブランニューハッピーデイズ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%96%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "初めて虹を見つけた日のことを今でも覚えてますか",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%88%9D%E3%82%81%E3%81%A6%E8%99%B9%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%9F%E6%97%A5%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E4%BB%8A%E3%81%A7%E3%82%82%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%88%9D%E3%82%81%E3%81%A6%E8%99%B9%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%9F%E6%97%A5%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E4%BB%8A%E3%81%A7%E3%82%82%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "やるっきゃない!2015",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%84%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%212015+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%84%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%212015",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1180863478",
+      "title": "レインボウエクリプス · Rainbow Eclipse",
+      "kind": "studio",
+      "date": "2016-12-13",
+      "source": "https://2zicon.tokyo/discography/rainboweclipse/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A6%E3%82%A8%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B9/1180863478?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 12 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/79/1c/0e/791c0e64-7b90-307c-a881-d98c394a27f2/FPJ-20021.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "戦場の聖バレンタイン",
+                  "youtube": "https://www.youtube.com/watch?v=CotBcAoooLA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%88%A6%E5%A0%B4%E3%81%AE%E8%81%96%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "限りなく冒険に近いサマー",
+                  "youtube": "https://www.youtube.com/watch?v=-8GyB1Y2PYE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8F%E5%86%92%E9%99%BA%E3%81%AB%E8%BF%91%E3%81%84%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パラドキシカル・コンプレックス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%91%E3%83%A9%E3%83%89%E3%82%AD%E3%82%B7%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%91%E3%83%A9%E3%83%89%E3%82%AD%E3%82%B7%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "わたし時々、魔法少女",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%8F%E3%81%9F%E3%81%97%E6%99%82%E3%80%85%E3%80%81%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%8F%E3%81%9F%E3%81%97%E6%99%82%E3%80%85%E3%80%81%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "↓エイリアンガール・イン・ニューヨーク↑",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E2%86%93%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E2%86%91+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E2%86%93%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E2%86%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大キライでした。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%A7%E3%82%AD%E3%83%A9%E3%82%A4%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A7%E3%82%AD%E3%83%A9%E3%82%A4%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コスメティック☆スター",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E2%98%86%E3%82%B9%E3%82%BF%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E2%98%86%E3%82%B9%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Magic The Labyrinth",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Magic+The+Labyrinth+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Magic%20The%20Labyrinth",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "電光石火、夏花火。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%9B%BB%E5%85%89%E7%9F%B3%E7%81%AB%E3%80%81%E5%A4%8F%E8%8A%B1%E7%81%AB%E3%80%82+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%9B%BB%E5%85%89%E7%9F%B3%E7%81%AB%E3%80%81%E5%A4%8F%E8%8A%B1%E7%81%AB%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パラダイスな片思い",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%E3%81%AA%E7%89%87%E6%80%9D%E3%81%84+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%E3%81%AA%E7%89%87%E6%80%9D%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇跡100%",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A5%87%E8%B7%A1100%25+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A5%87%E8%B7%A1100%25",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミライ上々!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%9F%E3%83%A9%E3%82%A4%E4%B8%8A%E3%80%85%21%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%A9%E3%82%A4%E4%B8%8A%E3%80%85%21%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1324423065",
+      "title": "レインボウフェノメノン · Rainbow Phenomenon",
+      "kind": "studio",
+      "date": "2018-01-10",
+      "source": "https://2zicon.tokyo/discography/magor_1st_album/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A6%E3%83%95%E3%82%A7%E3%83%8E%E3%83%A1%E3%83%8E%E3%83%B3/1324423065?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 12 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/00/6c/de006c36-6b9f-418d-bf4f-d166c28ed75d/KICS-3664.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "overture",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+overture+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20overture",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キミは無邪気な夏の女王~This Summer Girl Is an Innocent Mistress~",
+                  "youtube": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%AD%E3%83%9F%E3%81%AF%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%A4%8F%E3%81%AE%E5%A5%B3%E7%8E%8B~This%20Summer%20Girl%20Is%20an%20Innocent%20Mistress~",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "†ノーライフベイビー・オブ・ジ・エンド†",
+                  "youtube": "https://www.youtube.com/watch?v=6iapjio-jdw",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E2%80%A0%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "chaos and creation",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+chaos+and+creation+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20chaos%20and%20creation",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レトルト~華麗なる愛~",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%88%E3%83%AB%E3%83%88~%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E6%84%9B~+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%AC%E3%83%88%E3%83%AB%E3%83%88~%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E6%84%9B~",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOVE麺 恋味 やわめ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+LOVE%E9%BA%BA+%E6%81%8B%E5%91%B3+%E3%82%84%E3%82%8F%E3%82%81+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20LOVE%E9%BA%BA%20%E6%81%8B%E5%91%B3%20%E3%82%84%E3%82%8F%E3%82%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夏の夜は短すぎるけど・・・",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AF%E7%9F%AD%E3%81%99%E3%81%8E%E3%82%8B%E3%81%91%E3%81%A9%E3%83%BB%E3%83%BB%E3%83%BB+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AF%E7%9F%AD%E3%81%99%E3%81%8E%E3%82%8B%E3%81%91%E3%81%A9%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真夜中のテレフォン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋のプレリュード",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%81%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%81%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ふたりのシュプール",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E3%82%B7%E3%83%A5%E3%83%97%E3%83%BC%E3%83%AB+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E3%82%B7%E3%83%A5%E3%83%97%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "じゃんぷ!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%98%E3%82%83%E3%82%93%E3%81%B7%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%98%E3%82%83%E3%82%93%E3%81%B7%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "†ノ―ライフベイビー・オブ・ジ・エンド† (desperate ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E2%80%A0%E3%83%8E%E2%80%95%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0+%28desperate+ver.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E2%80%A0%E3%83%8E%E2%80%95%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0%20%28desperate%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1443710013",
+      "title": "THE BEST OF RAINBOW",
+      "kind": "compilation",
+      "date": "2018-12-12",
+      "source": "https://2zicon.tokyo/discography/thebest-live/",
+      "trackSource": "https://music.apple.com/jp/album/the-best-of-rainbow/1443710013?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche. La sequenza digitale di 25 tracce può differire dalle selezioni dei CD fisici: qui non vengono accorpate.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 25 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/8c/53/a68c5393-e95e-2bc8-3a75-439afa8bdd89/KICS-93760.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "やるっきゃない!2018",
+                  "youtube": "https://www.youtube.com/watch?v=BsU4EY03ukY",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%84%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%212018",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "戦場の聖バレンタイン",
+                  "youtube": "https://www.youtube.com/watch?v=CotBcAoooLA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%88%A6%E5%A0%B4%E3%81%AE%E8%81%96%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "THE☆有頂天サマー!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "↓エイリアンガール・イン・ニューヨーク↑",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E2%86%93%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E2%86%91+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E2%86%93%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E2%86%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真夜中のテレフォン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パラダイスな片思い",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%E3%81%AA%E7%89%87%E6%80%9D%E3%81%84+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9%E3%81%AA%E7%89%87%E6%80%9D%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キミは無邪気な夏の女王~This Summer Girl Is an Innocent Mistress~",
+                  "youtube": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%AD%E3%83%9F%E3%81%AF%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%A4%8F%E3%81%AE%E5%A5%B3%E7%8E%8B~This%20Summer%20Girl%20Is%20an%20Innocent%20Mistress~",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "きみの気持ち教えて",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%8D%E3%81%BF%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E6%95%99%E3%81%88%E3%81%A6+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%8D%E3%81%BF%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E6%95%99%E3%81%88%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇跡100%",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A5%87%E8%B7%A1100%25+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A5%87%E8%B7%A1100%25",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ずっとサマーで恋してる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "限りなく冒険に近いサマー",
+                  "youtube": "https://www.youtube.com/watch?v=-8GyB1Y2PYE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8F%E5%86%92%E9%99%BA%E3%81%AB%E8%BF%91%E3%81%84%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー",
+                  "youtube": "https://www.youtube.com/watch?v=mzEZFGOiR58",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パウダースノーランデブー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "Disco 2 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "心臓にメロディー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "†ノーライフベイビー・オブ・ジ・エンド†",
+                  "youtube": "https://www.youtube.com/watch?v=6iapjio-jdw",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E2%80%A0%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "chaos and creation",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+chaos+and+creation+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20chaos%20and%20creation",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミライ上々!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%9F%E3%83%A9%E3%82%A4%E4%B8%8A%E3%80%85%21%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%9F%E3%83%A9%E3%82%A4%E4%B8%8A%E3%80%85%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レトルト~華麗なる愛~",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%88%E3%83%AB%E3%83%88~%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E6%84%9B~+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%AC%E3%83%88%E3%83%AB%E3%83%88~%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E6%84%9B~",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOVE麺 恋味 やわめ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+LOVE%E9%BA%BA+%E6%81%8B%E5%91%B3+%E3%82%84%E3%82%8F%E3%82%81+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20LOVE%E9%BA%BA%20%E6%81%8B%E5%91%B3%20%E3%82%84%E3%82%8F%E3%82%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "わたし時々、魔法少女",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%8F%E3%81%9F%E3%81%97%E6%99%82%E3%80%85%E3%80%81%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%8F%E3%81%9F%E3%81%97%E6%99%82%E3%80%85%E3%80%81%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ふたりのシュプール",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E3%82%B7%E3%83%A5%E3%83%97%E3%83%BC%E3%83%AB+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E3%82%B7%E3%83%A5%E3%83%97%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "電光石火、夏花火。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%9B%BB%E5%85%89%E7%9F%B3%E7%81%AB%E3%80%81%E5%A4%8F%E8%8A%B1%E7%81%AB%E3%80%82+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%9B%BB%E5%85%89%E7%9F%B3%E7%81%AB%E3%80%81%E5%A4%8F%E8%8A%B1%E7%81%AB%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大キライでした。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%A7%E3%82%AD%E3%83%A9%E3%82%A4%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A7%E3%82%AD%E3%83%A9%E3%82%A4%E3%81%A7%E3%81%97%E3%81%9F%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パラドキシカル・コンプレックス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%91%E3%83%A9%E3%83%89%E3%82%AD%E3%82%B7%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%91%E3%83%A9%E3%83%89%E3%82%AD%E3%82%B7%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ブランニューハッピーデイズ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%96%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1514325728",
+      "title": "レインボウグラビティ · Rainbow Gravity",
+      "kind": "studio",
+      "date": "2020-06-17",
+      "source": "https://2zicon.tokyo/discography/rainbowgentei/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A6%E3%82%B0%E3%83%A9%E3%83%93%E3%83%86%E3%82%A3/1514325728?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche. Il sito ufficiale indica il 17 giugno 2020 per il disco fisico; Apple Music data la pubblicazione digitale al 3 giugno. Si mantiene qui la data fisica del catalogo ufficiale.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 17 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/32/03/09320329-93e4-ba9b-4f05-5f6ca4b38f41/KICS-3918.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "響け!ファンファーレ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%9F%BF%E3%81%91%21%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%9F%BF%E3%81%91%21%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ずっとサマーで恋してる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛をこころにサマーと数えよ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ジャポニジフェス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B8%E3%83%A3%E3%83%9D%E3%83%8B%E3%82%B8%E3%83%95%E3%82%A7%E3%82%B9+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%83%9D%E3%83%8B%E3%82%B8%E3%83%95%E3%82%A7%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バスルームマジック",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "天文学的ノンフィクション",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%A9%E6%96%87%E5%AD%A6%E7%9A%84%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A9%E6%96%87%E5%AD%A6%E7%9A%84%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Genie!Genius!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Genie%21Genius%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Genie%21Genius%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Waiting Wedding",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Waiting+Wedding+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Waiting%20Wedding",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー",
+                  "youtube": "https://www.youtube.com/watch?v=mzEZFGOiR58",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "Disco 2 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "in(door) the Summer",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+in%28door%29+the+Summer+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20in%28door%29%20the%20Summer",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Snowing Love",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Snowing+Love+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Snowing%20Love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ワンルームマジック",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "本命ショコラティエ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぼくらのターン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "心臓にメロディー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夕暮れグラデーション",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%95%E6%9A%AE%E3%82%8C%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%95%E6%9A%AE%E3%82%8C%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたと見る青空に明日も虹が架かりますように",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1574621572",
+      "title": "RAINBOW SUMMER SHOWER",
+      "kind": "ep",
+      "date": "2021-07-14",
+      "source": "https://2zicon.tokyo/discography/rainbowsummershower/",
+      "trackSource": "https://music.apple.com/jp/album/rainbow-summer-shower/1574621572?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche. Il catalogo ufficiale classifica la confezione con video sotto BD/DVD; qui è riportato soltanto il mini-album audio di sette brani.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 7 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/4f/68/f84f688b-724d-86b1-5dfb-65334d20fdf8/KICS-4003.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "世界の中心で虹を叫んだサマー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "美味いものファンクラブ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E7%BE%8E%E5%91%B3%E3%81%84%E3%82%82%E3%81%AE%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E7%BE%8E%E5%91%B3%E3%81%84%E3%82%82%E3%81%AE%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ココロPRISM",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B3%E3%82%B3%E3%83%ADPRISM+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B3%E3%82%B3%E3%83%ADPRISM",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ジャスナウ!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%8A%E3%82%A6%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%8A%E3%82%A6%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君色ラテアート",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%90%9B%E8%89%B2%E3%83%A9%E3%83%86%E3%82%A2%E3%83%BC%E3%83%88+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%90%9B%E8%89%B2%E3%83%A9%E3%83%86%E3%82%A2%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨上がり、虹はかかる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%80%81%E8%99%B9%E3%81%AF%E3%81%8B%E3%81%8B%E3%82%8B+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%80%81%E8%99%B9%E3%81%AF%E3%81%8B%E3%81%8B%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢の輪郭",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%A2%E3%81%AE%E8%BC%AA%E9%83%AD+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A2%E3%81%AE%E8%BC%AA%E9%83%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-over-rainbow",
+      "title": "Over the RAINBOW～虹の上にも7年!～",
+      "kind": "compilation",
+      "date": "2022-04-13",
+      "source": "https://2zicon.tokyo/discography/completeteboxjk/",
+      "note": "Raccolta fisica in tre CD: 47 brani. Viene riportata la sequenza audio pubblicata sul sito ufficiale; il Blu-ray allegato è escluso.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "3 CD · sequenza ufficiale",
+          "cover": "https://2zicon.tokyo/wp-content/uploads/2023/12/asset-1-43-scaled.jpeg",
+          "discs": [
+            {
+              "label": "DISC-1 夏至・冬至Disc",
+              "tracks": [
+                {
+                  "title": "キミは無邪気な夏の女王～This Summer Girl Is an Innocent Mistress～",
+                  "youtube": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%AD%E3%83%9F%E3%81%AF%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%A4%8F%E3%81%AE%E5%A5%B3%E7%8E%8B%EF%BD%9EThis%20Summer%20Girl%20Is%20an%20Innocent%20Mistress%EF%BD%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ずっとサマーで恋してる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "in(door)the Summer",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+in%28door%29the+Summer+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20in%28door%29the%20Summer",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛をこころにサマーと数えよ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サマーとはキミと私なりっ!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A8%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%A3%21%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A8%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%A3%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界の中心で虹を叫んだサマー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "THE☆有頂天サマー!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夏の夜は短すぎるけど…",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AF%E7%9F%AD%E3%81%99%E3%81%8E%E3%82%8B%E3%81%91%E3%81%A9%E2%80%A6+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AF%E7%9F%AD%E3%81%99%E3%81%8E%E3%82%8B%E3%81%91%E3%81%A9%E2%80%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ジャポニジフェス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B8%E3%83%A3%E3%83%9D%E3%83%8B%E3%82%B8%E3%83%95%E3%82%A7%E3%82%B9+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%83%9D%E3%83%8B%E3%82%B8%E3%83%95%E3%82%A7%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "じゃんぷ！",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%98%E3%82%83%E3%82%93%E3%81%B7%EF%BC%81+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%98%E3%82%83%E3%82%93%E3%81%B7%EF%BC%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ふたりのシュプール",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E3%82%B7%E3%83%A5%E3%83%97%E3%83%BC%E3%83%AB+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E3%82%B7%E3%83%A5%E3%83%97%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パウダースノーランデブー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Snowing Love",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Snowing+Love+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Snowing%20Love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋・ホワイトアウト",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%81%8B%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%81%8B%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナミダ、あわ雪",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%8A%E3%83%9F%E3%83%80%E3%80%81%E3%81%82%E3%82%8F%E9%9B%AA+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%8A%E3%83%9F%E3%83%80%E3%80%81%E3%81%82%E3%82%8F%E9%9B%AA",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "DISC-2 雷雨、時々晴天Disc",
+              "tracks": [
+                {
+                  "title": "✝ノーライフベイビー・オブ・ジ・エンド✝",
+                  "youtube": "https://www.youtube.com/watch?v=6iapjio-jdw",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E2%9C%9D%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%9C%9D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぼくらのターン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "心臓にメロディー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "戦場の聖バレンタイン",
+                  "youtube": "https://www.youtube.com/watch?v=CotBcAoooLA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%88%A6%E5%A0%B4%E3%81%AE%E8%81%96%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "本命ショコラティエ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Luv♡ Unbalance",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Luv%E2%99%A1+Unbalance+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Luv%E2%99%A1%20Unbalance",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "週刊少年少女アイドル",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%80%B1%E5%88%8A%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%80%B1%E5%88%8A%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ジャスナウ！",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%8A%E3%82%A6%EF%BC%81+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%8A%E3%82%A6%EF%BC%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BE MYSELF",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+BE+MYSELF+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20BE%20MYSELF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レトルト～華麗なる愛～",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%88%E3%83%AB%E3%83%88%EF%BD%9E%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E6%84%9B%EF%BD%9E+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%AC%E3%83%88%E3%83%AB%E3%83%88%EF%BD%9E%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E6%84%9B%EF%BD%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "chaos and creation",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+chaos+and+creation+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20chaos%20and%20creation",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢の輪郭",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%A2%E3%81%AE%E8%BC%AA%E9%83%AD+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A2%E3%81%AE%E8%BC%AA%E9%83%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "響け！ファンファーレ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%9F%BF%E3%81%91%EF%BC%81%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%9F%BF%E3%81%91%EF%BC%81%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ココロPRISM",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B3%E3%82%B3%E3%83%ADPRISM+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B3%E3%82%B3%E3%83%ADPRISM",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたと見る青空に明日も虹が架かりますように",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "DISC-3 天気雨、所により虹Disc",
+              "tracks": [
+                {
+                  "title": "やるっきゃない！2018",
+                  "youtube": "https://www.youtube.com/watch?v=BsU4EY03ukY",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%84%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%EF%BC%812018",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOVE麺恋味やわめ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+LOVE%E9%BA%BA%E6%81%8B%E5%91%B3%E3%82%84%E3%82%8F%E3%82%81+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20LOVE%E9%BA%BA%E6%81%8B%E5%91%B3%E3%82%84%E3%82%8F%E3%82%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "美味いものファンクラブ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E7%BE%8E%E5%91%B3%E3%81%84%E3%82%82%E3%81%AE%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E7%BE%8E%E5%91%B3%E3%81%84%E3%82%82%E3%81%AE%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "天文学的ノンフィクション",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%A9%E6%96%87%E5%AD%A6%E7%9A%84%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A9%E6%96%87%E5%AD%A6%E7%9A%84%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真夜中のテレフォン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Genie!Genius!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Genie%21Genius%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Genie%21Genius%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋のプレリュード",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%81%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%81%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バスルームマジック",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Waiting Wedding",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Waiting+Wedding+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Waiting%20Wedding",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ワンルームマジック",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fancy Friday Night",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+Fancy+Friday+Night+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20Fancy%20Friday%20Night",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君色ラテアート",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%90%9B%E8%89%B2%E3%83%A9%E3%83%86%E3%82%A2%E3%83%BC%E3%83%88+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%90%9B%E8%89%B2%E3%83%A9%E3%83%86%E3%82%A2%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨上がり、虹はかかる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%80%81%E8%99%B9%E3%81%AF%E3%81%8B%E3%81%8B%E3%82%8B+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%80%81%E8%99%B9%E3%81%AF%E3%81%8B%E3%81%8B%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "終末でーと部！",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E7%B5%82%E6%9C%AB%E3%81%A7%E3%83%BC%E3%81%A8%E9%83%A8%EF%BC%81+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E7%B5%82%E6%9C%AB%E3%81%A7%E3%83%BC%E3%81%A8%E9%83%A8%EF%BC%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夕暮れグラデーション",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%A4%95%E6%9A%AE%E3%82%8C%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%95%E6%9A%AE%E3%82%8C%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さくら色シャワー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%95%E3%81%8F%E3%82%89%E8%89%B2%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%95%E3%81%8F%E3%82%89%E8%89%B2%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー",
+                  "youtube": "https://www.youtube.com/watch?v=mzEZFGOiR58",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1635008743",
+      "title": "キミは夏のレインボー!",
+      "kind": "ep",
+      "date": "2022-07-23",
+      "source": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%AF%E5%A4%8F%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC-ep/1635008743?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%AF%E5%A4%8F%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC-ep/1635008743?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 4 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/4e/18/854e18d8-af0e-e967-3f5a-1ec4d0675bfe/859758483791_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "キミは夏のレインボー!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%AD%E3%83%9F%E3%81%AF%E5%A4%8F%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%AD%E3%83%9F%E3%81%AF%E5%A4%8F%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さよならタイガー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キミは夏のレインボー! (Inst)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%AD%E3%83%9F%E3%81%AF%E5%A4%8F%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%21+%28Inst%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%AD%E3%83%9F%E3%81%AF%E5%A4%8F%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%21%20%28Inst%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さよならタイガー (Inst)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC+%28Inst%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%20%28Inst%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1650315244",
+      "title": "I'm a Ghost Only for You",
+      "kind": "ep",
+      "date": "2022-10-20",
+      "source": "https://music.apple.com/jp/album/im-a-ghost-only-for-you-ep/1650315244?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/im-a-ghost-only-for-you-ep/1650315244?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 5 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/af/41/3caf41b4-ece4-be21-b142-ed3ba89c0cc8/859758863203_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "僕はキミだけのおばけちゃん♡",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%91%E3%81%A1%E3%82%83%E3%82%93%E2%99%A1+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%91%E3%81%A1%E3%82%83%E3%82%93%E2%99%A1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕はキミだけのおばけちゃん♡ (予科生Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%91%E3%81%A1%E3%82%83%E3%82%93%E2%99%A1+%28%E4%BA%88%E7%A7%91%E7%94%9FVer.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%91%E3%81%A1%E3%82%83%E3%82%93%E2%99%A1%20%28%E4%BA%88%E7%A7%91%E7%94%9FVer.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サイコダイブ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%80%E3%82%A4%E3%83%96+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%80%E3%82%A4%E3%83%96",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕はキミだけのおばけちゃん♡ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%91%E3%81%A1%E3%82%83%E3%82%93%E2%99%A1+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%91%E3%81%A1%E3%82%83%E3%82%93%E2%99%A1%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サイコダイブ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%80%E3%82%A4%E3%83%96+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%80%E3%82%A4%E3%83%96%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1655521012",
+      "title": "Katteni Saiko! Destiny",
+      "kind": "ep",
+      "date": "2022-11-30",
+      "source": "https://music.apple.com/jp/album/katteni-saiko-destiny-ep/1655521012?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/katteni-saiko-destiny-ep/1655521012?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 5 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/12/b9/3f/12b93f31-10e9-10c1-8f99-a87cc1049c78/859758981266_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "勝手に最高!ディスティニー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%8B%9D%E6%89%8B%E3%81%AB%E6%9C%80%E9%AB%98%21%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%8B%9D%E6%89%8B%E3%81%AB%E6%9C%80%E9%AB%98%21%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勝手に最高!ディスティニー (予科生Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%8B%9D%E6%89%8B%E3%81%AB%E6%9C%80%E9%AB%98%21%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC+%28%E4%BA%88%E7%A7%91%E7%94%9FVer.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%8B%9D%E6%89%8B%E3%81%AB%E6%9C%80%E9%AB%98%21%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%20%28%E4%BA%88%E7%A7%91%E7%94%9FVer.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "運命線上のButterfly",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%81%8B%E5%91%BD%E7%B7%9A%E4%B8%8A%E3%81%AEButterfly+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%81%8B%E5%91%BD%E7%B7%9A%E4%B8%8A%E3%81%AEButterfly",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勝手に最高!ディスティニー (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%8B%9D%E6%89%8B%E3%81%AB%E6%9C%80%E9%AB%98%21%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%8B%9D%E6%89%8B%E3%81%AB%E6%9C%80%E9%AB%98%21%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "運命線上のButterfly (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E9%81%8B%E5%91%BD%E7%B7%9A%E4%B8%8A%E3%81%AEButterfly+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E9%81%8B%E5%91%BD%E7%B7%9A%E4%B8%8A%E3%81%AEButterfly%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1659241161",
+      "title": "Omoi Ga Tsumoru, Gozen Niji.",
+      "kind": "ep",
+      "date": "2022-12-18",
+      "source": "https://music.apple.com/jp/album/omoi-ga-tsumoru-gozen-niji-ep/1659241161?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/omoi-ga-tsumoru-gozen-niji-ep/1659241161?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 4 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/51/71/f2/5171f2fe-a840-9ab7-e44f-05fbd576332e/859759064586_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "想いが積もる、午前2時。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%83%B3%E3%81%84%E3%81%8C%E7%A9%8D%E3%82%82%E3%82%8B%E3%80%81%E5%8D%88%E5%89%8D2%E6%99%82%E3%80%82+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%83%B3%E3%81%84%E3%81%8C%E7%A9%8D%E3%82%82%E3%82%8B%E3%80%81%E5%8D%88%E5%89%8D2%E6%99%82%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "クリスマス大作戦",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%A4%A7%E4%BD%9C%E6%88%A6+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%A4%A7%E4%BD%9C%E6%88%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "想いが積もる、午前2時。 (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%83%B3%E3%81%84%E3%81%8C%E7%A9%8D%E3%82%82%E3%82%8B%E3%80%81%E5%8D%88%E5%89%8D2%E6%99%82%E3%80%82+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%83%B3%E3%81%84%E3%81%8C%E7%A9%8D%E3%82%82%E3%82%8B%E3%80%81%E5%8D%88%E5%89%8D2%E6%99%82%E3%80%82%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "クリスマス大作戦 (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%A4%A7%E4%BD%9C%E6%88%A6+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%A4%A7%E4%BD%9C%E6%88%A6%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1706003736",
+      "title": "Kimi Ga Ite Yokatta! Ryokai Desu.",
+      "kind": "ep",
+      "date": "2023-09-20",
+      "source": "https://music.apple.com/jp/album/kimi-ga-ite-yokatta-ryokai-desu-ep/1706003736?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kimi-ga-ite-yokatta-ryokai-desu-ep/1706003736?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 4 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/22/50/9b22502d-06c0-903f-be7d-453531fd2fe6/3617221829739_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "君がいて良かった!了解です。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%90%9B%E3%81%8C%E3%81%84%E3%81%A6%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%21%E4%BA%86%E8%A7%A3%E3%81%A7%E3%81%99%E3%80%82+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%90%9B%E3%81%8C%E3%81%84%E3%81%A6%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%21%E4%BA%86%E8%A7%A3%E3%81%A7%E3%81%99%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君のこと好きなのバレてます!?",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%90%E3%83%AC%E3%81%A6%E3%81%BE%E3%81%99%21%3F+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%90%E3%83%AC%E3%81%A6%E3%81%BE%E3%81%99%21%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君がいて良かった!了解です。 (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%90%9B%E3%81%8C%E3%81%84%E3%81%A6%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%21%E4%BA%86%E8%A7%A3%E3%81%A7%E3%81%99%E3%80%82+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%90%9B%E3%81%8C%E3%81%84%E3%81%A6%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%21%E4%BA%86%E8%A7%A3%E3%81%A7%E3%81%99%E3%80%82%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君のこと好きなのバレてます!? (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%90%E3%83%AC%E3%81%A6%E3%81%BE%E3%81%99%21%3F+%28Instrumental%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%90%E3%83%AC%E3%81%A6%E3%81%BE%E3%81%99%21%3F%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1760986884",
+      "title": "Triangle Dreamer (Multilingual Ver.)",
+      "kind": "ep",
+      "date": "2024-08-05",
+      "source": "https://music.apple.com/jp/album/triangle-dreamer-multilingual-ver/1760986884?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/triangle-dreamer-multilingual-ver/1760986884?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 6 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/14/ed/3814ed6d-ff95-c487-27bd-bf1e9faeb58c/0198448786119_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "トライアングル・ドリーマー (2024 Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC+%282024+Ver.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20%282024%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー (English Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC+%28English+Ver.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20%28English%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー (Chinese Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC+%28Chinese+Ver.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20%28Chinese%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー (Korean Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC+%28Korean+Ver.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20%28Korean%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー (Indonesian Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC+%28Indonesian+Ver.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20%28Indonesian%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー (Instrumental Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC+%28Instrumental+Ver.%29+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20%28Instrumental%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1771334064",
+      "title": "レインボウパルス · Rainbow Pulse",
+      "kind": "ep",
+      "date": "2024-10-02",
+      "source": "https://2zicon.tokyo/discography/rainbowpulse/",
+      "trackSource": "https://music.apple.com/jp/album/rainbow-pulse/1771334064?uo=4",
+      "note": "Scaletta dell’edizione digitale Apple Music, distinta dai contenuti DVD e Blu-ray delle confezioni fisiche. Pubblicazione di sette brani: in questa pagina è raccolta fra i mini-album, pur essendo indicata ALBUM nel sito ufficiale.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · 7 tracce",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/b3/66/68b3666d-fcb5-70aa-560c-8fbb4550b4c0/4571640145421_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · edizione digitale Apple Music",
+              "tracks": [
+                {
+                  "title": "超距離恋愛",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E8%B6%85%E8%B7%9D%E9%9B%A2%E6%81%8B%E6%84%9B+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E8%B6%85%E8%B7%9D%E9%9B%A2%E6%81%8B%E6%84%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バラバラバランス・ダンス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%83%90%E3%83%A9%E3%83%90%E3%83%A9%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%83%90%E3%83%A9%E3%83%90%E3%83%A9%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無敵アイドルストーリー!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E7%84%A1%E6%95%B5%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E7%84%A1%E6%95%B5%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "All Right!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+All+Right%21+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20All%20Right%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HIGH FLYER",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+HIGH+FLYER+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20HIGH%20FLYER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "望遠ユニバース",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E6%9C%9B%E9%81%A0%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E6%9C%9B%E9%81%A0%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サマーエンドシンフォニー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC+official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [
+    {
+      "title": "トライアングル・ドリーマー",
+      "id": "mzEZFGOiR58",
+      "url": "https://www.youtube.com/watch?v=mzEZFGOiR58"
+    },
+    {
+      "title": "限りなく冒険に近いサマー",
+      "id": "-8GyB1Y2PYE",
+      "url": "https://www.youtube.com/watch?v=-8GyB1Y2PYE"
+    },
+    {
+      "title": "キミは無邪気な夏の女王",
+      "id": "uOtJRjRFF6o",
+      "url": "https://www.youtube.com/watch?v=uOtJRjRFF6o"
+    },
+    {
+      "title": "やるっきゃない！2018",
+      "id": "BsU4EY03ukY",
+      "url": "https://www.youtube.com/watch?v=BsU4EY03ukY"
+    }
+  ],
+  "officialVideos": [
+    {
+      "title": "限りなく冒険に近いサマー",
+      "id": "-8GyB1Y2PYE",
+      "url": "https://www.youtube.com/watch?v=-8GyB1Y2PYE",
+      "source": "https://jpurecords.com/collections/niji-no-conquistador"
+    },
+    {
+      "title": "戦場の聖バレンタイン",
+      "id": "CotBcAoooLA",
+      "url": "https://www.youtube.com/watch?v=CotBcAoooLA",
+      "source": "https://jpurecords.com/collections/niji-no-conquistador"
+    },
+    {
+      "title": "✝ノーライフベイビー・オブ・ジ・エンド✝",
+      "id": "6iapjio-jdw",
+      "url": "https://www.youtube.com/watch?v=6iapjio-jdw",
+      "source": "https://jpurecords.com/collections/niji-no-conquistador"
+    },
+    {
+      "title": "キミは無邪気な夏の女王~This Summer Girl Is an Innocent Mistress~",
+      "id": "uOtJRjRFF6o",
+      "url": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
+      "source": "https://jpurecords.com/collections/niji-no-conquistador"
+    },
+    {
+      "title": "やるっきゃない！2018",
+      "id": "BsU4EY03ukY",
+      "url": "https://www.youtube.com/watch?v=BsU4EY03ukY",
+      "source": "https://2zicon.tokyo/discography/thebest-live/"
+    },
+    {
+      "title": "トライアングル・ドリーマー",
+      "id": "mzEZFGOiR58",
+      "url": "https://www.youtube.com/watch?v=mzEZFGOiR58",
+      "source": "https://ameblo.jp/2zicon/entry-12808487717.html"
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Formazione attuale e yokasei · sito ufficiale",
+      "url": "https://2zicon.tokyo/profile/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://2zicon.tokyo/discography/"
+    },
+    {
+      "label": "Scalette e date delle edizioni digitali · Apple Music",
+      "url": "https://music.apple.com/jp/artist/1029894293"
+    },
+    {
+      "label": "Profilo e video · editore JPU Records",
+      "url": "https://jpurecords.com/collections/niji-no-conquistador"
+    },
+    {
+      "label": "Over the RAINBOW · scaletta ufficiale dei tre CD",
+      "url": "https://2zicon.tokyo/discography/completeteboxjk/"
+    },
+    {
+      "label": "Triangle Dreamer · blog ufficiale",
+      "url": "https://ameblo.jp/2zicon/entry-12808487717.html"
+    }
+  ]
+}
