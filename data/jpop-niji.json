@@ -1,110 +1,159 @@
 {
   "artist": "Niji no Conquistador",
   "checkedAt": "2026-10-21",
-  "groupImage": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_2zicon_1-scaled.jpg",
+  "groupImage": "assets/jpop/niji/group-jpu-2022.jpg",
   "spotifyArtist": "https://open.spotify.com/artist/3ZdRpXbuyNbMM6MQFJMErr",
   "youtubeChannel": "https://www.youtube.com/channel/UCmo55h1NKPRnxiU21b4AHFg",
   "members": [
     {
       "name": "Marina Kumamoto",
       "japanese": "隈本茉莉奈",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_kumamoto-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2022/09/2606_kumamoto_sq.jpg",
       "bio": "Pianoforte e danza fra le specialità dichiarate nel profilo ufficiale. Il suo soprannome è Ma-rin.",
       "link": "https://2zicon.tokyo/profile/kumamoto/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Karin Matoba",
       "japanese": "的場華鈴",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_matoba-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2022/09/2606_matoba_sq.jpg",
       "bio": "Nel profilo ufficiale indica la scrittura fra gli interessi e la jazz dance fra le specialità.",
       "link": "https://2zicon.tokyo/profile/matoba/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Mei Ishihama",
       "japanese": "石浜芽衣",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_ishihama-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2024/10/2606_ishihama_sq.jpg",
       "bio": "Soprannome Meme. Fra i suoi interessi dichiara gli spettacoli comici e il mondo idol; fra le specialità, il bowling.",
       "link": "https://2zicon.tokyo/profile/ishihama/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Yuika Obayashi",
       "japanese": "尾林結花",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_obayashi-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2024/10/2606_obayashi_sq.jpg",
       "bio": "Appassionata delle novità dolciarie e dei konbini. Nel profilo ufficiale indica la danza come specialità.",
       "link": "https://2zicon.tokyo/profile/obayashi/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Mayu Kurihara",
       "japanese": "栗原舞優",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_kurihara-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2023/02/2606_kurihara_sq.jpg",
       "bio": "Moda, idol e anime fra gli interessi dichiarati. Il suo soprannome è Mayu-chan.",
       "link": "https://2zicon.tokyo/profile/kurihara/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Yu Kawabata",
       "japanese": "川端優",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_kawabata-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2023/01/2606_kawabata_sq.jpg",
       "bio": "Anime e idol fra le passioni dichiarate. Suona il clarinetto; il suo soprannome è Yu-chan.",
       "link": "https://2zicon.tokyo/profile/kawabata/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Yui Ichimiya",
       "japanese": "一宮ゆい",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_ichimiya-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2024/04/2606_ichimiya_sq.jpg",
       "bio": "Fra gli interessi del profilo ufficiale compaiono cinema, shopping, trucco e curiosità. Soprannome Yuichi.",
       "link": "https://2zicon.tokyo/profile/ichimiyayui/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Uta Aoyama",
       "japanese": "青山詩",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_aoyama-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2025/03/2606_aoyama_sq.jpg",
       "bio": "Musica e serie televisive fra gli interessi dichiarati. Il suo soprannome è Uta-chan.",
       "link": "https://2zicon.tokyo/profile/aoyama/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Haruka Yagi",
       "japanese": "八木遥叶",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_yagi-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2024/11/2606_yagi_sq.jpg",
       "bio": "Passeggiate e torii fra gli interessi del profilo ufficiale. La sua specialità dichiarata è il taiko.",
       "link": "https://2zicon.tokyo/profile/yagi/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Mai Ito",
       "japanese": "伊藤舞依",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_ito-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2024/11/2606_ito_sq.jpg",
       "bio": "Teatro fra gli interessi e koto fra le specialità dichiarate nel profilo ufficiale. Soprannome Maimai.",
       "link": "https://2zicon.tokyo/profile/ito/",
-      "status": "member"
+      "status": "member",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     }
   ],
   "trainees": [
     {
       "name": "Shiori Tsuzuki",
       "japanese": "都月しより",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_tsuduki-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2026/01/2606_tsuduki_sq.jpg",
       "bio": "Indicata nella sezione yokasei del sito ufficiale. Fra i suoi interessi figurano passeggiate e lettura.",
       "link": "https://2zicon.tokyo/profile/tsuduki/",
-      "status": "trainee"
+      "status": "trainee",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     },
     {
       "name": "Ano Maejima",
       "japanese": "前嶋杏乃",
-      "image": "https://2zicon.tokyo/wp-content/uploads/2026/06/2606_maejima-scaled.jpg",
+      "image": "https://dearstage.co.jp/wp-content/uploads/2025/12/2606_maejima_sq.jpg",
       "bio": "Indicata nella sezione yokasei del sito ufficiale. Ama gli anime e collezionare giocattoli; indica l’illustrazione come specialità.",
       "link": "https://2zicon.tokyo/profile/maejima/",
-      "status": "trainee"
+      "status": "trainee",
+      "imageSource": "https://dearstage.co.jp/artistgroup/2zicon/"
     }
   ],
   "albums": [
+    {
+      "id": "niji-1029894291",
+      "title": "THE☆有頂天サマー!! - Single",
+      "date": "2015-08-25",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/the-%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC-single/1029894291?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/the-%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC-single/1029894291?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/1d/d3/c3/1dd3c3ff-e22b-4dd6-7513-5c989c1b3807/niji_tus_niji.png/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "THE☆有頂天サマー!!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20THE%E2%98%86%E6%9C%89%E9%A0%82%E5%A4%A9%E3%82%B5%E3%83%9E%E3%83%BC%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トライアングル・ドリーマー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "niji-1053349925",
       "title": "レインボウスペクトラム · Rainbow Spectrum",
@@ -204,6 +253,80 @@
                   "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%84%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%212015+official",
                   "youtubeType": "search",
                   "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%84%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%212015",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1098565923",
+      "title": "↓エイリアンガール・イン・ニューヨーク↑ - Single",
+      "date": "2016-04-15",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB-%E3%82%A4%E3%83%B3-%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-single/1098565923?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB-%E3%82%A4%E3%83%B3-%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-single/1098565923?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/3e/7b/78/3e7b788b-d9c5-cfbf-5588-fa88294118f5/2_aginy_itunes_jkt.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "↓エイリアンガール・イン・ニューヨーク↑",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E2%86%93%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E2%86%91",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E2%86%93%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E2%86%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇跡100%",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E5%A5%87%E8%B7%A1100%25",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E5%A5%87%E8%B7%A1100%25",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1147131718",
+      "title": "限りなく冒険に近いサマー【虹盤】 - Single",
+      "date": "2016-09-01",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8F%E5%86%92%E9%99%BA%E3%81%AB%E8%BF%91%E3%81%84%E3%82%B5%E3%83%9E%E3%83%BC-%E8%99%B9%E7%9B%A4-single/1147131718?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8F%E5%86%92%E9%99%BA%E3%81%AB%E8%BF%91%E3%81%84%E3%82%B5%E3%83%9E%E3%83%BC-%E8%99%B9%E7%9B%A4-single/1147131718?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1f/46/61/1f466151-5671-193c-1c5c-5a6e62464203/4582467320632.png/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "限りなく冒険に近いサマー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8F%E5%86%92%E9%99%BA%E3%81%AB%E8%BF%91%E3%81%84%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8F%E5%86%92%E9%99%BA%E3%81%AB%E8%BF%91%E3%81%84%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミライ上々!!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%9F%E3%83%A9%E3%82%A4%E4%B8%8A%E3%80%85%21%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%9F%E3%83%A9%E3%82%A4%E4%B8%8A%E3%80%85%21%21",
                   "spotifyType": "search"
                 }
               ]
@@ -320,6 +443,87 @@
       ]
     },
     {
+      "id": "niji-1217683116",
+      "title": "†ノーライフベイビー・オブ・ジ・エンド† - Single",
+      "date": "2017-04-26",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC-%E3%82%AA%E3%83%96-%E3%82%B8-%E3%82%A8%E3%83%B3%E3%83%89-single/1217683116?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC-%E3%82%AA%E3%83%96-%E3%82%B8-%E3%82%A8%E3%83%B3%E3%83%89-single/1217683116?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/d6/ab/bd/d6abbd39-0c44-f45c-44e7-6c44e21a99a2/KIZB-250.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "†ノーライフベイビー・オブ・ジ・エンド†",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E2%80%A0%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E2%80%A0%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "†ノーライフベイビー・オブ・ジ・エンド† off vocal",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E2%80%A0%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0%20off%20vocal",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E2%80%A0%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0%20off%20vocal",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1273144194",
+      "title": "キミは無邪気な夏の女王~This Summer Girl Is an Innocent Mistress~/じゃんぷ!/夏の夜は短すぎるけど・・・(虹盤) - Single",
+      "date": "2017-09-05",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%AF%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%A4%8F%E3%81%AE%E5%A5%B3%E7%8E%8B-this-summer-girl-is-an-innocent-mistress/1273144194?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%9F%E3%81%AF%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%A4%8F%E3%81%AE%E5%A5%B3%E7%8E%8B-this-summer-girl-is-an-innocent-mistress/1273144194?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/44/97/54/449754f4-bdbf-2ebb-2179-2c9502ff4730/KICM-1794-3000.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "キミは無邪気な夏の女王~This Summer Girl Is an Innocent Mistress~",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%82%AD%E3%83%9F%E3%81%AF%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%A4%8F%E3%81%AE%E5%A5%B3%E7%8E%8B~This%20Summer%20Girl%20Is%20an%20Innocent%20Mistress~",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%82%AD%E3%83%9F%E3%81%AF%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%A4%8F%E3%81%AE%E5%A5%B3%E7%8E%8B~This%20Summer%20Girl%20Is%20an%20Innocent%20Mistress~",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "じゃんぷ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%98%E3%82%83%E3%82%93%E3%81%B7%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%98%E3%82%83%E3%82%93%E3%81%B7%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夏の夜は短すぎるけど・・・",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AF%E7%9F%AD%E3%81%99%E3%81%8E%E3%82%8B%E3%81%91%E3%81%A9%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AF%E7%9F%AD%E3%81%99%E3%81%8E%E3%82%8B%E3%81%91%E3%81%A9%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "niji-1324423065",
       "title": "レインボウフェノメノン · Rainbow Phenomenon",
       "kind": "studio",
@@ -418,6 +622,80 @@
                   "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E2%80%A0%E3%83%8E%E2%80%95%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0+%28desperate+ver.%29+official",
                   "youtubeType": "search",
                   "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E2%80%A0%E3%83%8E%E2%80%95%E3%83%A9%E3%82%A4%E3%83%95%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E2%80%A0%20%28desperate%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1363915336",
+      "title": "トライアングル・ドリーマー/心臓にメロディー (虹盤) - Single",
+      "date": "2018-04-18",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC-%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC-%E8%99%B9%E7%9B%A4-single/1363915336?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB-%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC-%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC-%E8%99%B9%E7%9B%A4-single/1363915336?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/60/86/8d/60868d3f-984c-0ba7-7feb-f39aa957019f/KIZB-268_1400_72.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "トライアングル・ドリーマー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "心臓にメロディー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E5%BF%83%E8%87%93%E3%81%AB%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1434381038",
+      "title": "ずっとサマーで恋してる(虹盤) - Single",
+      "date": "2018-09-12",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B-%E8%99%B9%E7%9B%A4-single/1434381038?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B-%E8%99%B9%E7%9B%A4-single/1434381038?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/12/06/c0/1206c055-ac34-8aaa-d9ba-22213209b32c/KIZM-565.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "ずっとサマーで恋してる",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%9A%E3%81%A3%E3%81%A8%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "in(door) the Summer",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20in%28door%29%20the%20Summer",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20in%28door%29%20the%20Summer",
                   "spotifyType": "search"
                 }
               ]
@@ -630,6 +908,265 @@
       ]
     },
     {
+      "id": "niji-1469014071",
+      "title": "愛をこころにサマーと数えよ - Single",
+      "date": "2019-07-10",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88-single/1469014071?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88-single/1469014071?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3d/b9/63/3db9639c-b308-634d-3fc0-ccab1e9ed2ed/KIZM-621.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "愛をこころにサマーと数えよ",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E6%84%9B%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%81%AB%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E6%95%B0%E3%81%88%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Waiting Wedding",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Waiting%20Wedding",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Waiting%20Wedding",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ジャポニジフェス",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%82%B8%E3%83%A3%E3%83%9D%E3%83%8B%E3%82%B8%E3%83%95%E3%82%A7%E3%82%B9",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%82%B8%E3%83%A3%E3%83%9D%E3%83%8B%E3%82%B8%E3%83%95%E3%82%A7%E3%82%B9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1470363476",
+      "title": "あなたと見る青空に明日も虹が架かりますように - Single",
+      "date": "2019-07-15",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB-single/1470363476?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB-single/1470363476?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/03/e3/bc/03e3bc0e-48bb-64a5-4e2a-8826ac578fe4/NOPA-2129.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "あなたと見る青空に明日も虹が架かりますように",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A8%E8%A6%8B%E3%82%8B%E9%9D%92%E7%A9%BA%E3%81%AB%E6%98%8E%E6%97%A5%E3%82%82%E8%99%B9%E3%81%8C%E6%9E%B6%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "天文学的ノンフィクション",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E5%A4%A9%E6%96%87%E5%AD%A6%E7%9A%84%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E5%A4%A9%E6%96%87%E5%AD%A6%E7%9A%84%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真夜中のテレフォン",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1470362012",
+      "title": "バスルームマジック - Single",
+      "date": "2019-07-15",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-single/1470362012?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-single/1470362012?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f1/04/58/f1045826-8062-8945-2045-ff7665ee92c1/NOPA-2123.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "バスルームマジック",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1470362900",
+      "title": "本命ショコラティエ - Single",
+      "date": "2019-07-15",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8-single/1470362900?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8-single/1470362900?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/24/e0/fb/24e0fbfd-2cda-b98e-0f6e-4af7cb9156b7/NOPA-2124.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "本命ショコラティエ",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E6%9C%AC%E5%91%BD%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1493756215",
+      "title": "Snowing Love - Single",
+      "date": "2020-01-22",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/snowing-love-single/1493756215?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/snowing-love-single/1493756215?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/fc/20/90fc205b-6d34-cb2d-7751-72400ea493ad/KIZM-647.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "Snowing Love",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Snowing%20Love",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Snowing%20Love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Snowing Love inst",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Snowing%20Love%20inst",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Snowing%20Love%20inst",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1493767815",
+      "title": "ぼくらのターン - Single",
+      "date": "2020-01-22",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3-single/1493767815?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3-single/1493767815?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4a/19/3c/4a193c89-326a-4295-0605-7daa6ba5aade/KIZM-645.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "ぼくらのターン",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぼくらのターン inst",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3%20inst",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%B3%20inst",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1493765084",
+      "title": "響け!ファンファーレ - Single",
+      "date": "2020-01-22",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E9%9F%BF%E3%81%91-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC-single/1493765084?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9F%BF%E3%81%91-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC-single/1493765084?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6a/ca/11/6aca11bd-807d-9425-a0fd-50c4c5af75c4/KIZM-643.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "響け!ファンファーレ",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E9%9F%BF%E3%81%91%21%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E9%9F%BF%E3%81%91%21%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "響け!ファンファーレ inst",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E9%9F%BF%E3%81%91%21%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%20inst",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E9%9F%BF%E3%81%91%21%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%20inst",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "niji-1514325728",
       "title": "レインボウグラビティ · Rainbow Gravity",
       "kind": "studio",
@@ -777,6 +1314,124 @@
       ]
     },
     {
+      "id": "niji-1528317988",
+      "title": "サマーとはキミと私なりっ!! - Single",
+      "date": "2020-09-16",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A8%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%A3-single/1528317988?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A8%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%A3-single/1528317988?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/cd/48/dacd48af-b55b-cb38-7c22-f525a8a63836/KICM-2060.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "サマーとはキミと私なりっ!!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A8%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%A3%21%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A8%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A8%E7%A7%81%E3%81%AA%E3%82%8A%E3%81%A3%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "週刊少年少女アイドル",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E9%80%B1%E5%88%8A%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E9%80%B1%E5%88%8A%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fancy Friday Night",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Fancy%20Friday%20Night",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Fancy%20Friday%20Night",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1546425041",
+      "title": "恋・ホワイトアウト - Single",
+      "date": "2021-02-03",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88-single/1546425041?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%81%8B-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88-single/1546425041?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/e3/a1/b0e3a1c7-698b-4af2-08ce-cbc7e3c4b995/KICM-2069.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "恋・ホワイトアウト",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E6%81%8B%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E6%81%8B%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Luv♡Unbalance",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Luv%E2%99%A1Unbalance",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Luv%E2%99%A1Unbalance",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さくら色シャワー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%95%E3%81%8F%E3%82%89%E8%89%B2%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%95%E3%81%8F%E3%82%89%E8%89%B2%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1563316600",
+      "title": "世界の中心で虹を叫んだサマー - Single",
+      "date": "2021-05-09",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC-single/1563316600?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC-single/1563316600?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/3f/c2/543fc2dc-958e-0dae-c143-8eb8107df532/NOPA-2572.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "世界の中心で虹を叫んだサマー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7%E8%99%B9%E3%82%92%E5%8F%AB%E3%82%93%E3%81%A0%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "niji-1574621572",
       "title": "RAINBOW SUMMER SHOWER",
       "kind": "ep",
@@ -849,17 +1504,91 @@
       ]
     },
     {
+      "id": "niji-1591552707",
+      "title": "Namida, Awayuki - Single",
+      "date": "2021-11-05",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/namida-awayuki-single/1591552707?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/namida-awayuki-single/1591552707?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/b2/fc/14b2fc6b-350f-9239-0502-72b7f520372a/NOPA-2966.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "ナミダ、あわ雪",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%8A%E3%83%9F%E3%83%80%E3%80%81%E3%81%82%E3%82%8F%E9%9B%AA",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%8A%E3%83%9F%E3%83%80%E3%80%81%E3%81%82%E3%82%8F%E9%9B%AA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1603584626",
+      "title": "ナミダ、あわ雪 - Single",
+      "date": "2022-01-19",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/%E3%83%8A%E3%83%9F%E3%83%80-%E3%81%82%E3%82%8F%E9%9B%AA-single/1603584626?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%8A%E3%83%9F%E3%83%80-%E3%81%82%E3%82%8F%E9%9B%AA-single/1603584626?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/22/48/182248e0-da77-5aa0-ae94-7f300d127c75/KIZX-515.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "ナミダ、あわ雪",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%8A%E3%83%9F%E3%83%80%E3%80%81%E3%81%82%E3%82%8F%E9%9B%AA",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%8A%E3%83%9F%E3%83%80%E3%80%81%E3%81%82%E3%82%8F%E9%9B%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "終末でーと部!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E7%B5%82%E6%9C%AB%E3%81%A7%E3%83%BC%E3%81%A8%E9%83%A8%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E7%B5%82%E6%9C%AB%E3%81%A7%E3%83%BC%E3%81%A8%E9%83%A8%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BE MYSELF",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20BE%20MYSELF",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20BE%20MYSELF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "niji-over-rainbow",
       "title": "Over the RAINBOW～虹の上にも7年!～",
       "kind": "compilation",
       "date": "2022-04-13",
-      "source": "https://2zicon.tokyo/discography/completeteboxjk/",
+      "source": "https://www.kingrecords.co.jp/cs/g/gKIZC-667/",
       "note": "Raccolta fisica in tre CD: 47 brani. Viene riportata la sequenza audio pubblicata sul sito ufficiale; il Blu-ray allegato è escluso.",
       "defaultEdition": 0,
       "editions": [
         {
           "label": "3 CD · sequenza ufficiale",
-          "cover": "https://2zicon.tokyo/wp-content/uploads/2023/12/asset-1-43-scaled.jpeg",
+          "cover": "assets/jpop/niji/over-the-rainbow.jpg",
           "discs": [
             {
               "label": "DISC-1 夏至・冬至Disc",
@@ -1428,6 +2157,117 @@
       ]
     },
     {
+      "id": "niji-1669631702",
+      "title": "Valentine Umbrella - Single",
+      "date": "2023-02-14",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/valentine-umbrella-single/1669631702?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/valentine-umbrella-single/1669631702?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/a8/df/f9a8df47-1adc-c876-077b-14e58cdce8aa/859759271014_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "バレンタインアンブレラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バレンタインアンブレラ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1693010424",
+      "title": "Mileage Love Summer - Single",
+      "date": "2023-07-08",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/mileage-love-summer-single/1693010424?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mileage-love-summer-single/1693010424?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/7f/74/8b7f7491-b563-dacd-accf-43b9bf8811ee/859759848780_cover.png/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "マイレージラブサマー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A9%E3%83%96%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A9%E3%83%96%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マイレージラブサマー (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A9%E3%83%96%E3%82%B5%E3%83%9E%E3%83%BC%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A9%E3%83%96%E3%82%B5%E3%83%9E%E3%83%BC%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1701710142",
+      "title": "Kyo-Ryoku Partner - Single",
+      "date": "2023-08-25",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/kyo-ryoku-partner-single/1701710142?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kyo-ryoku-partner-single/1701710142?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/09/29/e2092974-ad9e-6f4a-5d31-3e4aa5ee7c46/3617221703503_cover.png/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "キョーリョク・パートナー",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キョーリョク・パートナー (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "niji-1706003736",
       "title": "Kimi Ga Ite Yokatta! Ryokai Desu.",
       "kind": "ep",
@@ -1470,6 +2310,110 @@
                   "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%90%E3%83%AC%E3%81%A6%E3%81%BE%E3%81%99%21%3F+%28Instrumental%29+official",
                   "youtubeType": "search",
                   "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%AE%E3%83%90%E3%83%AC%E3%81%A6%E3%81%BE%E3%81%99%21%3F%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1722176409",
+      "title": "Level Up! - Single",
+      "date": "2024-01-03",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/level-up-single/1722176409?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/level-up-single/1722176409?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/a9/42/e2a9427e-5768-1178-bb8d-ba82455d7ab5/3617222314289_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "レベルアップ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1730269305",
+      "title": "I'm in Gachikoi, I Want You! - Single",
+      "date": "2024-02-14",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/im-in-gachikoi-i-want-you-single/1730269305?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/im-in-gachikoi-i-want-you-single/1730269305?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/95/fa/2695fa61-fffc-e1b5-0ae8-92531afd1553/3617222538609_cover.png/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "ガチ恋ですの♡あいうぉんちゅー!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%82%AC%E3%83%81%E6%81%8B%E3%81%A7%E3%81%99%E3%81%AE%E2%99%A1%E3%81%82%E3%81%84%E3%81%86%E3%81%89%E3%82%93%E3%81%A1%E3%82%85%E3%83%BC%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%82%AC%E3%83%81%E6%81%8B%E3%81%A7%E3%81%99%E3%81%AE%E2%99%A1%E3%81%82%E3%81%84%E3%81%86%E3%81%89%E3%82%93%E3%81%A1%E3%82%85%E3%83%BC%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1756207467",
+      "title": "Subete Ga Nijini Naru Summer! - Single",
+      "date": "2024-07-10",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/subete-ga-nijini-naru-summer-single/1756207467?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/subete-ga-nijini-naru-summer-single/1756207467?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/69/d2/3f69d2f1-2973-0dfa-e41a-1036af6bd1b7/0198448644952_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "すべてが虹になるサマーっ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%99%E3%81%B9%E3%81%A6%E3%81%8C%E8%99%B9%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%99%E3%81%B9%E3%81%A6%E3%81%8C%E8%99%B9%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "きゃんでぃーはーと♡ふぁんしーらぶ",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%8D%E3%82%83%E3%82%93%E3%81%A7%E3%81%83%E3%83%BC%E3%81%AF%E3%83%BC%E3%81%A8%E2%99%A1%E3%81%B5%E3%81%81%E3%82%93%E3%81%97%E3%83%BC%E3%82%89%E3%81%B6",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%8D%E3%82%83%E3%82%93%E3%81%A7%E3%81%83%E3%83%BC%E3%81%AF%E3%83%BC%E3%81%A8%E2%99%A1%E3%81%B5%E3%81%81%E3%82%93%E3%81%97%E3%83%BC%E3%82%89%E3%81%B6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おやすみタイムマシン",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3",
                   "spotifyType": "search"
                 }
               ]
@@ -1544,6 +2488,36 @@
       ]
     },
     {
+      "id": "niji-1769742686",
+      "title": "Cho Kyori Renai - Single",
+      "date": "2024-09-23",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/cho-kyori-renai-single/1769742686?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/cho-kyori-renai-single/1769742686?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/9d/b0/c19db0e0-c1f1-88e7-313b-eff135e69a9b/4571640105494_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "超距離恋愛",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E8%B6%85%E8%B7%9D%E9%9B%A2%E6%81%8B%E6%84%9B",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E8%B6%85%E8%B7%9D%E9%9B%A2%E6%81%8B%E6%84%9B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "niji-1771334064",
       "title": "レインボウパルス · Rainbow Pulse",
       "kind": "ep",
@@ -1607,6 +2581,318 @@
                   "youtube": "https://www.youtube.com/results?search_query=%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB+%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC+official",
                   "youtubeType": "search",
                   "spotify": "https://open.spotify.com/search/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1793244193",
+      "title": "Aurora Orchestra - Single",
+      "date": "2025-01-31",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/aurora-orchestra-single/1793244193?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/aurora-orchestra-single/1793244193?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/c8/28/c5c82837-dc59-d9a5-a8b9-f113f4053475/4571640841590_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "Aurora Orchestra",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Aurora%20Orchestra",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Aurora%20Orchestra",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Aurora Orchestra (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Aurora%20Orchestra%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Aurora%20Orchestra%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1795802748",
+      "title": "Mr.Valentine - Single",
+      "date": "2025-02-14",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/mr-valentine-single/1795802748?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mr-valentine-single/1795802748?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/89/60/2b896076-6d9f-8d55-1616-f3368e64d772/4571640961250_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "ミスター♡バレンタイン",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E2%99%A1%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E2%99%A1%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミスター♡バレンタイン (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E2%99%A1%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E2%99%A1%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1801413173",
+      "title": "Shift System in Love - Single",
+      "date": "2025-03-14",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/shift-system-in-love-single/1801413173?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/shift-system-in-love-single/1801413173?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/13/36/ed13367a-b0f7-111a-a6b0-2682093d47a3/4550706439407_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "恋愛シフト制",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E6%81%8B%E6%84%9B%E3%82%B7%E3%83%95%E3%83%88%E5%88%B6",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E6%81%8B%E6%84%9B%E3%82%B7%E3%83%95%E3%83%88%E5%88%B6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1809149647",
+      "title": "If Your Tomorrow Will Be Sunny - Single",
+      "date": "2025-04-19",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/if-your-tomorrow-will-be-sunny-single/1809149647?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/if-your-tomorrow-will-be-sunny-single/1809149647?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/01/f1/3a01f121-f803-a287-8c4a-1ab6f3ac2ecd/4550707845481_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "君の明日が晴れるなら",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E5%90%9B%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8C%E6%99%B4%E3%82%8C%E3%82%8B%E3%81%AA%E3%82%89",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E5%90%9B%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8C%E6%99%B4%E3%82%8C%E3%82%8B%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君の明日が晴れるなら (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E5%90%9B%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8C%E6%99%B4%E3%82%8C%E3%82%8B%E3%81%AA%E3%82%89%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E5%90%9B%E3%81%AE%E6%98%8E%E6%97%A5%E3%81%8C%E6%99%B4%E3%82%8C%E3%82%8B%E3%81%AA%E3%82%89%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1826241473",
+      "title": "Boom BoomSummer - Single",
+      "date": "2025-06-28",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/boom-boomsummer-single/1826241473?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/boom-boomsummer-single/1826241473?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/fe/16/dbfe16d1-ea04-a74e-fa32-c3aaafe9d2f3/4550710805526_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "Boom!Boom!サマーっ♡",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Boom%21Boom%21%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%E2%99%A1",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Boom%21Boom%21%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%E2%99%A1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Boom!Boom!サマーっ♡ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20Boom%21Boom%21%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%E2%99%A1%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20Boom%21Boom%21%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%E2%99%A1%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1844163751",
+      "title": "Precious Summer! (Cover) - Single",
+      "date": "2025-10-08",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/precious-summer-cover-single/1844163751?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/precious-summer-cover-single/1844163751?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/13/22/9b132203-1960-1593-3231-120672d31a38/4550713028854_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "プレシャスサマー! (Cover)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%21%20%28Cover%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%21%20%28Cover%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1849396410",
+      "title": "Heisei Reiwa Never End Sun Burst - Single",
+      "date": "2025-11-03",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/heisei-reiwa-never-end-sun-burst-single/1849396410?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/heisei-reiwa-never-end-sun-burst-single/1849396410?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/b1/90/bbb1908c-022e-b434-8b54-50af08f4e810/4550713368905_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "平成令和ネバーエンドサンバースト",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E5%B9%B3%E6%88%90%E4%BB%A4%E5%92%8C%E3%83%8D%E3%83%90%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E5%B9%B3%E6%88%90%E4%BB%A4%E5%92%8C%E3%83%8D%E3%83%90%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-1876238437",
+      "title": "The Chocolate Night Showdown - Single",
+      "date": "2026-02-14",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/the-chocolate-night-showdown-single/1876238437?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/the-chocolate-night-showdown-single/1876238437?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e5/6c/ebe56c6e-d1ed-f832-b990-4104745131d8/4550753276727_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "決戦はチョコレートナイト",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E6%B1%BA%E6%88%A6%E3%81%AF%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E6%B1%BA%E6%88%A6%E3%81%AF%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "決戦はチョコレートナイト (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E6%B1%BA%E6%88%A6%E3%81%AF%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E6%B1%BA%E6%88%A6%E3%81%AF%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niji-6780755852",
+      "title": "Mermaid Kiss Summer - Single",
+      "date": "2026-06-19",
+      "kind": "single",
+      "source": "https://music.apple.com/jp/album/mermaid-kiss-summer-single/6780755852?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mermaid-kiss-summer-single/6780755852?uo=4",
+      "note": "Singolo digitale giapponese: scaletta e data Apple Music. Versioni anticipate a un solo brano e maxi-single restano distinguibili quando hanno contenuti diversi. Le edizioni fisiche possono differire.",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Apple Music",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/5a/6c/a05a6c5c-a242-051a-2423-66df6d06ac82/4550757716717_cover.jpg/100x100bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta digitale",
+              "tracks": [
+                {
+                  "title": "マーメイドキス♡サマー!",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%82%AD%E3%82%B9%E2%99%A1%E3%82%B5%E3%83%9E%E3%83%BC%21",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%82%AD%E3%82%B9%E2%99%A1%E3%82%B5%E3%83%9E%E3%83%BC%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マーメイドキス♡サマー! (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Niji%20no%20Conquistador%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%82%AD%E3%82%B9%E2%99%A1%E3%82%B5%E3%83%9E%E3%83%BC%21%20%28Instrumental%29",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Niji%20no%20Conquistador%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%82%AD%E3%82%B9%E2%99%A1%E3%82%B5%E3%83%9E%E3%83%BC%21%20%28Instrumental%29",
                   "spotifyType": "search"
                 }
               ]
@@ -1701,6 +2987,20 @@
     {
       "label": "Triangle Dreamer · blog ufficiale",
       "url": "https://ameblo.jp/2zicon/entry-12808487717.html"
+    },
+    {
+      "label": "Fotografia storica del gruppo · JPU Records",
+      "url": "https://jpurecords.com/collections/niji-no-conquistador"
+    },
+    {
+      "label": "Profili e ritratti alternativi · agenzia DEARSTAGE",
+      "url": "https://dearstage.co.jp/artistgroup/2zicon/"
+    },
+    {
+      "label": "Over the RAINBOW · 3 CD, copertina e scalette King Records",
+      "url": "https://www.kingrecords.co.jp/cs/g/gKIZC-667/"
     }
-  ]
+  ],
+  "groupImageSource": "https://jpurecords.com/collections/niji-no-conquistador",
+  "groupImageNote": "Fotografia storica promozionale JPU Records, 2022: la formazione ritratta è diversa da quella dei profili attuali."
 }
