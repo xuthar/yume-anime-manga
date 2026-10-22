@@ -1,6 +1,6 @@
 const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
 const ctx={window:{},document:{readyState:'loading',addEventListener(){}},URL};vm.createContext(ctx);vm.runInContext(fs.readFileSync('jpop.js','utf8'),ctx);const api=ctx.window.YumeMusic;
-const expected={'aina-the-end':[36,115,3,0],ikimonogakari:[89,600,11,2],yoasobi:[64,132,0,2],milet:[38,184,4,0],ano:[29,78,2,0],'c-ute':[51,419,8,5]};let releases=0,tracks=0;
+const expected={'aina-the-end':[36,115,3,0],ikimonogakari:[89,600,11,2],yoasobi:[64,132,0,2],milet:[38,184,4,0],ano:[29,78,2,0],'c-ute':[51,419,8,5],ado:[86,331,2,0]};let releases=0,tracks=0;
 for(const [slug,[count,n,studio,members]] of Object.entries(expected)){
  const d=JSON.parse(fs.readFileSync(`data/jpop-${slug}.json`));assert.equal(d.albums.length,count);assert.equal(new Set(d.albums.map(a=>a.id)).size,count);assert.equal(d.members.length,members);assert.ok(api.safe(d.groupImage));assert.ok(fs.existsSync(d.groupImage));
  assert.equal(api.filter(d.albums,'studio','','all').length,studio);const videos=new Set(d.officialVideos.map(v=>v.url));let nt=0;
@@ -13,10 +13,12 @@ for(const [slug,[count,n,studio,members]] of Object.entries(expected)){
 }
 const yo=JSON.parse(fs.readFileSync('data/jpop-yoasobi.json'));assert.equal(yo.albums.filter(a=>a.title.startsWith('E-SIDE')).length,4);assert.equal(yo.albums.filter(a=>a.title.startsWith('THE BOOK')).length,4);
 const aina=JSON.parse(fs.readFileSync('data/jpop-aina-the-end.json'));assert.equal(aina.albums.filter(a=>a.kind==='project').length,1);assert.equal(aina.albums.find(a=>a.kind==='project').editions[0].discs[0].tracks.length,12);
-assert.equal(api.safe('assets/jpop/yoasobi/../../private.json'),'');assert.equal(api.safe('https://www.milet.jp.evil.test/a'),'');console.log(`OK: six artists, ${releases} releases, ${tracks} track entries, source/edition separation, filters and local portraits`);
+assert.equal(api.safe('assets/jpop/yoasobi/../../private.json'),'');assert.equal(api.safe('https://www.milet.jp.evil.test/a'),'');console.log(`OK: seven artists, ${releases} releases, ${tracks} track entries, source/edition separation, filters and local portraits`);
 
 const ano=JSON.parse(fs.readFileSync("data/jpop-ano.json"));const debut=ano.albums.find(a=>a.id==="ano-nyang-nyang-oeeee");assert.deepEqual(debut.editions.map(e=>e.discs.reduce((n,d)=>n+d.tracks.length,0)),[18,17]);assert.equal(ano.albums.filter(a=>a.title.includes("Nyang Nyang")).length,1);assert.ok(fs.readFileSync("ano.html","utf8").includes("18 novembre 2026"));
 
 const cute=JSON.parse(fs.readFileSync('data/jpop-c-ute.json'));assert.equal(cute.albums.filter(a=>a.kind==='compilation').length,3);assert.equal(cute.albums.filter(a=>a.kind==='ep').length,1);assert.equal(cute.albums.reduce((n,a)=>n+a.editions.length,0),66);const complete=cute.albums.find(a=>a.id==='c-ute-1514765417');assert.equal(complete.editions[0].discs.length,6);assert.equal(complete.editions[0].discs.reduce((n,d)=>n+d.tracks.length,0),93);for(const a of cute.albums)for(const e of a.editions)assert.ok(api.safe(e.source));for(const slug of ['bish','niji-no-conquistador','aimer','aina-the-end','ikimonogakari','yoasobi','milet','ano','sigle-anime'])assert.ok(fs.readFileSync(slug+'.html','utf8').includes('href="c-ute.html"'));const cutePage=fs.readFileSync('c-ute.html','utf8');for(const text of ['12 giugno 2017','Megumi Murakami','Erika Umeda','Kanna Arihara','51 pubblicazioni'])assert.ok(cutePage.includes(text));
 
 assert.equal(new Set(cute.albums.find(a=>a.id==='c-ute-595908469').editions.map(e=>e.label)).size,3);
+
+const ado=JSON.parse(fs.readFileSync('data/jpop-ado.json'));for(const [kind,count] of Object.entries({cover:1,soundtrack:1,compilation:2,live:7,collaboration:17,single:56}))assert.equal(ado.albums.filter(a=>a.kind===kind).length,count);assert.equal(ado.officialVideos.length,15);assert.ok(ado.officialVideos.every(v=>v.author==='Ado'&&api.safe(v.source)));assert.ok(ado.albums.every(a=>!['ado-1651603928','ado-1728728781'].includes(a.id)));assert.ok(fs.readFileSync('ado.html','utf8').includes('23 dicembre 2026'));for(const slug of ['bish','niji-no-conquistador','aimer','aina-the-end','ikimonogakari','yoasobi','milet','ano','c-ute','sigle-anime'])assert.ok(fs.readFileSync(slug+'.html','utf8').includes('href="ado.html"'));
