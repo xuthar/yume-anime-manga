@@ -79,3 +79,11 @@ Verifiche: `node verify-niji.cjs` e `node verify-jpop.cjs`.
 - `mie-liste.html` raccoglie tutti gli anime selezionati e i volumi da comprare, con stato acquistato, filtri e stampa. Il cambio di browser/dispositivo e la cancellazione dei dati locali non preservano le liste.
 - L’interfaccia Preferiti è rimossa; la vecchia chiave `yume-favorites` viene lasciata intatta e non è convertita automaticamente in una lista da vedere.
 - Verifica: `node verify-visitor-lists.cjs`, `node verify-seasons.cjs`, `node verify-book-calendar.cjs`.
+
+## Archivio permanente dei calendari
+
+Gli aggiornamenti conservano tutte le date passate già presenti nei calendari, senza la precedente scadenza di 14/21 giorni. I calendari pubblici permettono di scegliere una data e navigare la relativa settimana. Il recupero iniziale usa le versioni JSON disponibili nella cronologia Git; non ricostruisce date assenti dalle fonti.
+
+`data/book-calendar-history.json` e `data/episode-calendar-history.json` conservano le osservazioni degli annunci, comprese rettifiche e cancellazioni, con prima e ultima osservazione. Gli annunci passati non certificano un acquisto, una pubblicazione o una trasmissione effettiva. Le vecchie uscite future rimosse dalla fonte non vengono lasciate nel calendario corrente. Le copie storiche non scadono. I workflow committano anche gli archivi; la loro integrità è verificata da `python verify-calendar-history.py` prima degli aggiornamenti.
+
+Le liste personali conservano i dati dei volumi scelti e informazioni di riserva degli anime, indipendentemente dalla settimana mostrata. Restano nel browser del visitatore, con i limiti descritti nella pagina delle liste.

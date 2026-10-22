@@ -2,6 +2,8 @@
 import json, re, sys, unicodedata, urllib.request
 from datetime import datetime, date
 from pathlib import Path
+sys.path.insert(0,str(Path(__file__).resolve().parent))
+from calendar_history import capture,episode_identity
 from zoneinfo import ZoneInfo
 from lxml import html
 ROOT = Path(__file__).resolve().parents[1]
@@ -54,15 +56,16 @@ def main():
     for e in events:
         ids=lookup.get(norm(e['title']),set())
         e['itemId']=next(iter(ids)) if len(ids)==1 else None
-    # Retain dated history for the current week, but replace all newly covered dates
-    # so cancelled or moved episodes disappear, rather than surviving as duplicates.
+    # Keep every past dated listing; replace future listings with the fresh source.
     path=ROOT/'data/episode-calendar.json'; old=json.loads(path.read_text()) if path.exists() else {}
     first=now.date().isoformat()
-    prior=[e for e in old.get('events',[]) if e['date']<first and (now.date()-date.fromisoformat(e['date'])).days<=14]
-    unique={ (e['date'],e['time'],e['sourceUrl'],e['platform']):e for e in prior+events }
+    prior=[e for e in old.get('events',[]) if e['date']<first]
+    unique={episode_identity(e):e for e in prior+events}
     payload={'updatedAt':now.isoformat(),'timezone':'Europe/Rome','source':SOURCE,
-        'coverageStart':first,'coverageEnd':max(e['date'] for e in events),
+        'coverageStart':min(e['date'] for e in unique.values()),'coverageEnd':max(e['date'] for e in events),
         'events':sorted(unique.values(),key=lambda e:(e['start'],e['title'],e['platform']))}
+    capture(ROOT/'data/episode-calendar-history.json',old,'events')
+    capture(ROOT/'data/episode-calendar-history.json',payload,'events')
     temp=path.with_suffix('.tmp');temp.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n');temp.replace(path)
     print(f"Calendar refreshed: {len(events)} listings, {sum(bool(e['itemId']) for e in events)} catalog matches")
 if __name__=='__main__':main()

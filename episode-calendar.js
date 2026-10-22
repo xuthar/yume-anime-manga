@@ -22,7 +22,7 @@
     let week=monday(dayKey()),data,followCurrent=true;
     function draw(){
       let choices={};try{choices=JSON.parse(localStorage.getItem('yume-season-choices')||'{}')||{}}catch{}
-      const end=addDays(week,6),today=dayKey();
+      const end=addDays(week,6),today=dayKey();root.querySelector('[data-calendar-date]').value=week;
       weekLabel.textContent=new Date(week+'T12:00Z').toLocaleDateString('it-IT',{day:'numeric',month:'long'})+' – '+new Date(end+'T12:00Z').toLocaleDateString('it-IT',{day:'numeric',month:'long',year:'numeric'});
       const events=selected(data.events,items,scope.value,platform.value,choices).filter(e=>e.date>=week&&e.date<=end);
       const stale=Date.now()-Date.parse(data.updatedAt)>48*60*60*1000;
@@ -31,7 +31,7 @@
         const date=addDays(week,i),daily=events.filter(e=>e.date===date);
         return `<article class="calendar-day ${date===today?'is-today':''}"><h3>${esc(new Date(date+'T12:00Z').toLocaleDateString('it-IT',{weekday:'long'}))} <span>${Number(date.slice(-2))}${date===today?' · oggi':''}</span></h3>${daily.length?daily.map(e=>`<div class="calendar-episode"><time datetime="${esc(e.start)}">${esc(e.time)}</time><h4>${esc(e.title)}</h4><p>Episodio ${esc(e.episode||'non indicato')} · ${esc(e.platform)}</p><div>${e.itemId?`<button type="button" data-calendar-item="${esc(e.itemId)}">Apri scheda ↗</button>`:''} <a href="${esc(sourceUrl(e.sourceUrl))}" target="_blank" rel="noopener noreferrer">Fonte e dettagli ↗</a></div></div>`).join(''):`<p class="calendar-empty">${date<data.coverageStart||date>data.coverageEnd?'Date non ancora coperte dalla fonte.':'Nessuna uscita documentata per i filtri scelti.'}</p>`}</article>`;
       }).join('');
-      root.querySelector('[data-calendar-prev]').disabled=week<=monday(addDays(today,-14));
+      root.querySelector('[data-calendar-prev]').disabled=week<=monday(data.events.reduce((min,e)=>e.date<min?e.date:min,today));
       root.querySelector('[data-calendar-next]').disabled=week>=monday(data.coverageEnd>today?data.coverageEnd:today);
     }
     try{
@@ -40,6 +40,7 @@
       scope.addEventListener('change',draw);platform.addEventListener('change',draw);
       root.querySelector('[data-calendar-prev]').addEventListener('click',()=>{followCurrent=false;week=addDays(week,-7);draw()});
       root.querySelector('[data-calendar-next]').addEventListener('click',()=>{followCurrent=false;week=addDays(week,7);draw()});
+      root.querySelector('[data-calendar-date]').addEventListener('change',e=>{if(/^\d{4}-\d{2}-\d{2}$/.test(e.target.value)){followCurrent=false;week=monday(e.target.value);draw()}});
       root.querySelector('[data-calendar-today]').addEventListener('click',()=>{followCurrent=true;week=monday(dayKey());draw()});
       grid.addEventListener('click',e=>{const b=e.target.closest('[data-calendar-item]');if(b){const item=items.find(x=>x.id===b.dataset.calendarItem);if(item)openDetail(item)}});
       async function refresh(){

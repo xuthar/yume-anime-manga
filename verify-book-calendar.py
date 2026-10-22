@@ -23,6 +23,6 @@ for x in d['releases']:
  from datetime import date
  date.fromisoformat(x['date']);assert x['language'] in ['IT','EN'];assert x['kind'] in ['novel','manga'];assert x['url'].startswith('https://')
  assert not any(domain in x['url'] for domain in ['docs.google.com','sheets.google.com','drive.google.com'])
- keys.append((x['sourceId'],x.get('isbn') or x['url']))
+ keys.append((x['date'],x['sourceId'],x.get('isbn') or x['url']))
 assert len(keys)==len(set(keys))
 print(f"OK: {len(d['releases'])} documented releases; source failures, explicit empty lists, novel classification, JNC whole ebooks, valid dates and unique editions")

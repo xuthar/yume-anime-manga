@@ -1,7 +1,10 @@
 """Dated IT/EN book releases. Refresh sources independently; retain last good data on failures."""
 import concurrent.futures,json,re,urllib.request
-from datetime import date,datetime,timedelta
+from datetime import date,datetime
 from pathlib import Path
+import sys
+sys.path.insert(0,str(Path(__file__).resolve().parent))
+from calendar_history import capture,book_identity
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 from lxml import html
@@ -100,13 +103,13 @@ def fetch(key):
  return events
 
 def main():
- now=datetime.now(ZoneInfo('Europe/Rome'));today=now.date();cutoff=(today-timedelta(days=21)).isoformat()
+ now=datetime.now(ZoneInfo('Europe/Rome'));today=now.date()
  path=ROOT/'data/book-calendar.json';old=json.loads(path.read_text()) if path.exists() else {'sources':[],'releases':[]}
  old_sources={s['id']:s for s in old.get('sources',[])};sources=[];releases=[];success=0
  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
   pending={k:pool.submit(fetch,k) for k in SOURCES}
   for key,(label,url,lang) in SOURCES.items():
-   prior=[x for x in old['releases'] if x['sourceId']==key and x['date']>=cutoff]
+   prior=[x for x in old['releases'] if x['sourceId']==key]
    try:
     events=pending[key].result();success+=1
     # All current/future listings for this source are replaced, including cancellations.
@@ -116,11 +119,13 @@ def main():
    except Exception as exc:
     print(key,'FAILED:',exc);events=prior
     sources.append({'id':key,'name':label,'url':url,'language':lang,'checkedAt':old_sources.get(key,{}).get('checkedAt'),'status':'error'})
-   releases.extend(x for x in events if x['date']>=cutoff)
+   releases.extend(events)
  if not success:raise RuntimeError('All sources failed; keep the last published calendar')
  # ISBN is edition-specific. Without ISBN, only identical source URLs identify a release.
- unique={(e['sourceId'],e['isbn'] if e.get('isbn') else e['url']):e for e in releases}
+ unique={book_identity(e):e for e in releases}
  payload={'updatedAt':now.isoformat(),'timezone':'Europe/Rome','sources':sources,'releases':sorted(unique.values(),key=lambda e:(e['date'],e['language'],e['title']))}
+ capture(ROOT/'data/book-calendar-history.json',old,'releases')
+ capture(ROOT/'data/book-calendar-history.json',payload,'releases')
  temp=path.with_suffix('.tmp');temp.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n');temp.replace(path)
  print(f"Book calendar: {len(unique)} releases; {success}/{len(SOURCES)} sources refreshed")
 if __name__=='__main__':main()

@@ -9,7 +9,7 @@
  function safe(s){try{const u=new URL(s);return u.protocol==='https:'&&['www.animeclick.it','sevenseasentertainment.com','yenpress.com','j-novel.club'].includes(u.hostname)?u.href:''}catch{return ''}}
  let data,week=monday(dayKey()),followCurrent=true;
  function draw(){
-  if(!data)return;
+  if(!data)return;$('#book-history-date').value=week;
   const releases=select(data.releases,{week,language:$('#book-language').value,kind:$('#book-kind').value,publisher:$('#book-publisher').value,search:$('#book-search').value});
   $('#book-week').textContent=nice(week)+' – '+nice(add(week,6));
   $('#book-count').textContent=releases.length+' uscite · '+releases.filter(x=>x.language==='IT').length+' in italiano · '+releases.filter(x=>x.language==='EN').length+' in inglese';
@@ -33,6 +33,7 @@
  }
  function init(){
   ['book-language','book-kind','book-publisher'].forEach(id=>$('#'+id).addEventListener('change',draw));$('#book-search').addEventListener('input',draw);
+  $('#book-history-date').addEventListener('change',e=>{if(/^\d{4}-\d{2}-\d{2}$/.test(e.target.value)){followCurrent=false;week=monday(e.target.value);draw()}});
   $('#book-prev').addEventListener('click',()=>{followCurrent=false;week=add(week,-7);draw()});$('#book-next').addEventListener('click',()=>{followCurrent=false;week=add(week,7);draw()});$('#book-today').addEventListener('click',()=>{followCurrent=true;week=monday(dayKey());draw()});
   window.addEventListener('storage',draw);
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)load()});setInterval(()=>{if(!document.hidden)load()},15*60000);load();

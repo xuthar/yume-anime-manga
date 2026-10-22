@@ -2,7 +2,7 @@
   "updatedAt": "2026-10-22T06:43:14.331130+02:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
-  "coverageStart": "2026-10-22",
+  "coverageStart": "2026-10-20",
   "coverageEnd": "2026-10-31",
   "events": [
     {
@@ -915,5 +915,6 @@
       "sourceUrl": "https://www.animeclick.it/episodio/428316",
       "itemId": null
     }
-  ]
+  ],
+  "historyNote": "Storico degli annunci conservato senza scadenza; non attesta la data di uscita o trasmissione effettiva."
 }
