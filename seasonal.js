@@ -6,7 +6,7 @@
   function init(){
     const control=document.createElement('button');control.type='button';control.className='seasonal-toggle';
     const decor=document.createElement('div');decor.className='seasonal-decor';decor.setAttribute('aria-hidden','true');
-    const header=document.querySelector('header');if(header)header.after(control);else document.body.prepend(control);document.body.append(decor);
+    const anchor=document.querySelector('.world-clocks')||document.querySelector('header');if(anchor)anchor.after(control);else document.body.prepend(control);document.body.append(decor);
     const symbols={halloween:['🎃','✦','👻','✧','🎃'],christmas:['🎄','❄','✦','❄','🎁']};
     function render(){
       const key=new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Rome',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
