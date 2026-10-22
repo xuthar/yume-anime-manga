@@ -9880,7 +9880,7 @@
       "spotifySearch": "https://open.spotify.com/search/Dete%20Koi%20Tobikiri%20ZENKAI%20Power%21%20MANNA"
     },
     {
-      "title": "Mienaikara ne!? (見えないからね！？) ",
+      "title": "Mienaikara ne!? (見えないからね！？)",
       "artist": "Miko Yotsuya (Sora Amamiya)",
       "animeId": 48483,
       "anime": "Mieruko-chan",
@@ -11937,7 +11937,7 @@
       "spotifySearch": "https://open.spotify.com/search/Three-Piece%20Hanako%20Honda"
     },
     {
-      "title": "Sense ",
+      "title": "Sense",
       "artist": "BAND-MAID",
       "animeId": 44961,
       "anime": "Platinum End",
@@ -11975,8 +11975,8 @@
       "id": "theme-12e25c69db31c1",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Sense%20%20BAND-MAID%20official",
-      "spotifySearch": "https://open.spotify.com/search/Sense%20%20BAND-MAID"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Sense%20BAND-MAID%20official",
+      "spotifySearch": "https://open.spotify.com/search/Sense%20BAND-MAID"
     },
     {
       "title": "Kodou (鼓動)",
@@ -12677,46 +12677,46 @@
       "spotifySearch": "https://open.spotify.com/search/Annoying%21%20San%20San%20Week%21%20Futaba%20Igarashi"
     },
     {
-      "title": "Fly Me to the Moon -4 Beat Version (Off-Vocal)-",
-      "artist": "[Instrumental]",
-      "animeId": 30,
-      "anime": "Shinseiki Evangelion",
-      "animeEnglish": "Neon Genesis Evangelion",
-      "animeJapanese": "新世紀エヴァンゲリオン",
-      "animeItalian": "Neon Genesis Evangelion",
-      "franchiseId": "mal-franchise-30",
-      "franchise": "Shinseiki Evangelion",
+      "title": "Kamikazari no Tenshi (髪飾りの天使)",
+      "artist": "Megumi Nakajima",
+      "animeId": 39468,
+      "anime": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+      "animeEnglish": "Ascendance of a Bookworm",
+      "animeJapanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～",
+      "animeItalian": "Ascendance of a Bookworm",
+      "franchiseId": "mal-franchise-39468",
+      "franchise": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
       "kind": "ED",
-      "themeIndex": "8",
-      "episodes": "(eps 15)",
-      "year": 1995,
-      "cover": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-      "source": "https://myanimelist.net/anime/30/Shinseiki_Evangelion",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2019,
+      "cover": "https://cdn.myanimelist.net/images/anime/1582/101697.jpg",
+      "source": "https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/36YScgdEF4t4CT7G9k4kGE",
       "youtubeMusic": "",
-      "spotifySource": "",
+      "spotifySource": "https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 30,
-          "anime": "Shinseiki Evangelion",
+          "animeId": 39468,
+          "anime": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
           "kind": "ED",
-          "themeIndex": "8",
-          "episodes": "(eps 15)",
-          "source": "https://myanimelist.net/anime/30/Shinseiki_Evangelion"
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 277,
-      "id": "theme-fcbb5d611bca6e",
+      "id": "theme-f75cea2136a079",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Fly%20Me%20to%20the%20Moon%20-4%20Beat%20Version%20%5BInstrumental%5D%20official",
-      "spotifySearch": "https://open.spotify.com/search/Fly%20Me%20to%20the%20Moon%20-4%20Beat%20Version%20%5BInstrumental%5D"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Kamikazari%20no%20Tenshi%20Megumi%20Nakajima%20official",
+      "spotifySearch": "https://open.spotify.com/search/Kamikazari%20no%20Tenshi%20Megumi%20Nakajima"
     },
     {
       "title": "BROKEN GAMES",
@@ -12761,46 +12761,46 @@
       "spotifySearch": "https://open.spotify.com/search/BROKEN%20GAMES%20FZMZ"
     },
     {
-      "title": "Kamikazari no Tenshi (髪飾りの天使)",
-      "artist": "Megumi Nakajima",
-      "animeId": 39468,
-      "anime": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
-      "animeEnglish": "Ascendance of a Bookworm",
-      "animeJapanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～",
-      "animeItalian": "Ascendance of a Bookworm",
-      "franchiseId": "mal-franchise-39468",
-      "franchise": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+      "title": "Kamado Tanjirou no Uta (竈門炭治郎のうた)",
+      "artist": "Go Shiina ft. Nami Nakagawa",
+      "animeId": 38000,
+      "anime": "Kimetsu no Yaiba",
+      "animeEnglish": "Demon Slayer: Kimetsu no Yaiba",
+      "animeJapanese": "鬼滅の刃",
+      "animeItalian": "Demon Slayer - Kimetsu no yaiba",
+      "franchiseId": "mal-franchise-38000",
+      "franchise": "Kimetsu no Yaiba",
       "kind": "ED",
-      "themeIndex": "",
-      "episodes": "",
+      "themeIndex": "3",
+      "episodes": "(eps 19)",
       "year": 2019,
-      "cover": "https://cdn.myanimelist.net/images/anime/1582/101697.jpg",
-      "source": "https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen",
+      "cover": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "source": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/36YScgdEF4t4CT7G9k4kGE",
+      "spotify": "",
       "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen",
+      "spotifySource": "",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 39468,
-          "anime": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+          "animeId": 38000,
+          "anime": "Kimetsu no Yaiba",
           "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen"
+          "themeIndex": "3",
+          "episodes": "(eps 19)",
+          "source": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 279,
-      "id": "theme-f75cea2136a079",
+      "id": "theme-aaacbf4290bdfb",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Kamikazari%20no%20Tenshi%20Megumi%20Nakajima%20official",
-      "spotifySearch": "https://open.spotify.com/search/Kamikazari%20no%20Tenshi%20Megumi%20Nakajima"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Kamado%20Tanjirou%20no%20Uta%20Go%20Shiina%20ft.%20Nami%20Nakagawa%20official",
+      "spotifySearch": "https://open.spotify.com/search/Kamado%20Tanjirou%20no%20Uta%20Go%20Shiina%20ft.%20Nami%20Nakagawa"
     },
     {
       "title": "No! No! Satisfaction!",
@@ -12845,50 +12845,8 @@
       "spotifySearch": "https://open.spotify.com/search/No%21%20No%21%20Satisfaction%21%20DA%20PUMP"
     },
     {
-      "title": "Kamado Tanjirou no Uta (竈門炭治郎のうた)",
-      "artist": "Go Shiina ft. Nami Nakagawa",
-      "animeId": 38000,
-      "anime": "Kimetsu no Yaiba",
-      "animeEnglish": "Demon Slayer: Kimetsu no Yaiba",
-      "animeJapanese": "鬼滅の刃",
-      "animeItalian": "Demon Slayer - Kimetsu no yaiba",
-      "franchiseId": "mal-franchise-38000",
-      "franchise": "Kimetsu no Yaiba",
-      "kind": "ED",
-      "themeIndex": "3",
-      "episodes": "(eps 19)",
-      "year": 2019,
-      "cover": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
-      "source": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 38000,
-          "anime": "Kimetsu no Yaiba",
-          "kind": "ED",
-          "themeIndex": "3",
-          "episodes": "(eps 19)",
-          "source": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 281,
-      "id": "theme-aaacbf4290bdfb",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Kamado%20Tanjirou%20no%20Uta%20Go%20Shiina%20ft.%20Nami%20Nakagawa%20official",
-      "spotifySearch": "https://open.spotify.com/search/Kamado%20Tanjirou%20no%20Uta%20Go%20Shiina%20ft.%20Nami%20Nakagawa"
-    },
-    {
-      "title": "Zettai Reido (絶対零度)",
-      "artist": "natori (なとり)",
+      "title": "Muteki (無敵)",
+      "artist": "Young Kee",
       "animeId": 54900,
       "anime": "Wind Breaker",
       "animeEnglish": "Wind Breaker",
@@ -12896,7 +12854,7 @@
       "animeItalian": "",
       "franchiseId": "mal-franchise-54900",
       "franchise": "Wind Breaker",
-      "kind": "OP",
+      "kind": "ED",
       "themeIndex": "",
       "episodes": "",
       "year": 2024,
@@ -12912,63 +12870,21 @@
         {
           "animeId": 54900,
           "anime": "Wind Breaker",
-          "kind": "OP",
+          "kind": "ED",
           "themeIndex": "",
           "episodes": "",
           "source": "https://myanimelist.net/anime/54900/Wind_Breaker"
         }
       ],
       "kinds": [
-        "OP"
-      ],
-      "rank": 282,
-      "id": "theme-42dfba847443c8",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Zettai%20Reido%20natori%20official",
-      "spotifySearch": "https://open.spotify.com/search/Zettai%20Reido%20natori"
-    },
-    {
-      "title": "ESP Ken no Theme (ESP研のテーマ)",
-      "artist": "ESP Kenkyuukai (ESP研究会)",
-      "animeId": 15379,
-      "anime": "Kotoura-san",
-      "animeEnglish": "The Troubled Life of Miss Kotoura",
-      "animeJapanese": "琴浦さん",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-15379",
-      "franchise": "Kotoura-san",
-      "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 5)",
-      "year": 2013,
-      "cover": "https://cdn.myanimelist.net/images/anime/10/75585.jpg",
-      "source": "https://myanimelist.net/anime/15379/Kotoura-san",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/27bOf957mYVWiYi0eAJ5Lg",
-      "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/15379/Kotoura-san",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 15379,
-          "anime": "Kotoura-san",
-          "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 5)",
-          "source": "https://myanimelist.net/anime/15379/Kotoura-san"
-        }
-      ],
-      "kinds": [
         "ED"
       ],
-      "rank": 283,
-      "id": "theme-568fe2002e6edb",
+      "rank": 281,
+      "id": "theme-0fcd8693901afa",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=ESP%20Ken%20no%20Theme%20ESP%20Kenkyuukai%20official",
-      "spotifySearch": "https://open.spotify.com/search/ESP%20Ken%20no%20Theme%20ESP%20Kenkyuukai"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Muteki%20Young%20Kee%20official",
+      "spotifySearch": "https://open.spotify.com/search/Muteki%20Young%20Kee"
     },
     {
       "title": "Netsujou no Spectrum (熱情のスペクトラム)",
@@ -13014,12 +12930,54 @@
         "ED",
         "OP"
       ],
-      "rank": 284,
+      "rank": 282,
       "id": "theme-3e2cc5abdc13ef",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Netsujou%20no%20Spectrum%20Ikimonogakari%20official",
       "spotifySearch": "https://open.spotify.com/search/Netsujou%20no%20Spectrum%20Ikimonogakari"
+    },
+    {
+      "title": "ESP Ken no Theme (ESP研のテーマ)",
+      "artist": "ESP Kenkyuukai (ESP研究会)",
+      "animeId": 15379,
+      "anime": "Kotoura-san",
+      "animeEnglish": "The Troubled Life of Miss Kotoura",
+      "animeJapanese": "琴浦さん",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-15379",
+      "franchise": "Kotoura-san",
+      "kind": "ED",
+      "themeIndex": "2",
+      "episodes": "(eps 5)",
+      "year": 2013,
+      "cover": "https://cdn.myanimelist.net/images/anime/10/75585.jpg",
+      "source": "https://myanimelist.net/anime/15379/Kotoura-san",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/27bOf957mYVWiYi0eAJ5Lg",
+      "youtubeMusic": "",
+      "spotifySource": "https://myanimelist.net/anime/15379/Kotoura-san",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 15379,
+          "anime": "Kotoura-san",
+          "kind": "ED",
+          "themeIndex": "2",
+          "episodes": "(eps 5)",
+          "source": "https://myanimelist.net/anime/15379/Kotoura-san"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 283,
+      "id": "theme-568fe2002e6edb",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=ESP%20Ken%20no%20Theme%20ESP%20Kenkyuukai%20official",
+      "spotifySearch": "https://open.spotify.com/search/ESP%20Ken%20no%20Theme%20ESP%20Kenkyuukai"
     },
     {
       "title": "BROKEN IDENTITY",
@@ -13064,7 +13022,7 @@
       "kinds": [
         "OP"
       ],
-      "rank": 285,
+      "rank": 284,
       "id": "theme-36c68e3e476006",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
@@ -13072,8 +13030,8 @@
       "spotifySearch": "https://open.spotify.com/search/BROKEN%20IDENTITY%20Minori%20Suzuki"
     },
     {
-      "title": "Shirushibi (標火) ",
-      "artist": "Nagi Yanagi",
+      "title": "The Sacred Torch",
+      "artist": "H-el-ical//",
       "animeId": 48761,
       "anime": "Saihate no Paladin",
       "animeEnglish": "The Faraway Paladin",
@@ -13081,15 +13039,15 @@
       "animeItalian": "The Faraway Paladin",
       "franchiseId": "mal-franchise-48761",
       "franchise": "Saihate no Paladin",
-      "kind": "ED",
+      "kind": "OP",
       "themeIndex": "",
       "episodes": "",
       "year": 2021,
       "cover": "https://cdn.myanimelist.net/images/anime/1176/118382.jpg",
       "source": "https://myanimelist.net/anime/48761/Saihate_no_Paladin",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/35Jqe3J7c8A2R6T5XhpBK6",
-      "youtubeMusic": "https://music.youtube.com/watch?v=HQFox4EYpTU&feature=share",
+      "spotify": "https://open.spotify.com/track/68PCKZzXMOXAFMOHWHVpuB",
+      "youtubeMusic": "https://music.youtube.com/watch?v=4WUSUX9Nj4g&feature=share",
       "spotifySource": "https://myanimelist.net/anime/48761/Saihate_no_Paladin",
       "youtubeSource": "https://myanimelist.net/anime/48761/Saihate_no_Paladin",
       "format": "TV",
@@ -13097,25 +13055,25 @@
         {
           "animeId": 48761,
           "anime": "Saihate no Paladin",
-          "kind": "ED",
+          "kind": "OP",
           "themeIndex": "",
           "episodes": "",
           "source": "https://myanimelist.net/anime/48761/Saihate_no_Paladin"
         }
       ],
       "kinds": [
-        "ED"
+        "OP"
       ],
-      "rank": 286,
-      "id": "theme-9589a738f83078",
+      "rank": 285,
+      "id": "theme-8ddafa5728aac2",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Shirushibi%20Nagi%20Yanagi%20official",
-      "spotifySearch": "https://open.spotify.com/search/Shirushibi%20Nagi%20Yanagi"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=The%20Sacred%20Torch%20H-el-ical//%20official",
+      "spotifySearch": "https://open.spotify.com/search/The%20Sacred%20Torch%20H-el-ical//"
     },
     {
-      "title": "Namikaze Satellite (波風サテライト)",
-      "artist": "Snowkel",
+      "title": "ALIVE",
+      "artist": "Raiko",
       "animeId": 20,
       "anime": "Naruto",
       "animeEnglish": "",
@@ -13123,14 +13081,14 @@
       "animeItalian": "",
       "franchiseId": "anime-20",
       "franchise": "Naruto",
-      "kind": "OP",
-      "themeIndex": "7",
-      "episodes": "(eps 154-178)",
+      "kind": "ED",
+      "themeIndex": "4",
+      "episodes": "(eps 65-77)",
       "year": 2002,
       "cover": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
       "source": "https://myanimelist.net/anime/20/Naruto",
       "sourceCheckedAt": "2026-10-22",
-      "spotify": "https://open.spotify.com/track/4OLVgNgoTslbcSAyR4PmCq",
+      "spotify": "https://open.spotify.com/track/60Xbes7nMoY3VpiRVqlv9j",
       "youtubeMusic": "",
       "spotifySource": "https://myanimelist.net/anime/20/Naruto",
       "youtubeSource": "",
@@ -13139,63 +13097,21 @@
         {
           "animeId": 20,
           "anime": "Naruto",
-          "kind": "OP",
-          "themeIndex": "7",
-          "episodes": "(eps 154-178)",
-          "source": "https://myanimelist.net/anime/20/Naruto"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 287,
-      "id": "theme-4e4edf2b67f886",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Namikaze%20Satellite%20Snowkel%20official",
-      "spotifySearch": "https://open.spotify.com/search/Namikaze%20Satellite%20Snowkel"
-    },
-    {
-      "title": "TORCH",
-      "artist": "Lia",
-      "animeId": 4181,
-      "anime": "Clannad: After Story",
-      "animeEnglish": "",
-      "animeJapanese": "",
-      "animeItalian": "",
-      "franchiseId": "anime-4181",
-      "franchise": "Clannad: After Story",
-      "kind": "ED",
-      "themeIndex": "1",
-      "episodes": "(eps 1-21)",
-      "year": 2008,
-      "cover": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
-      "source": "https://myanimelist.net/anime/4181/Clannad__After_Story",
-      "sourceCheckedAt": "2026-10-22",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 4181,
-          "anime": "Clannad: After Story",
           "kind": "ED",
-          "themeIndex": "1",
-          "episodes": "(eps 1-21)",
-          "source": "https://myanimelist.net/anime/4181/Clannad__After_Story"
+          "themeIndex": "4",
+          "episodes": "(eps 65-77)",
+          "source": "https://myanimelist.net/anime/20/Naruto"
         }
       ],
       "kinds": [
         "ED"
       ],
-      "rank": 288,
-      "id": "theme-00d59d2f306c9f",
+      "rank": 286,
+      "id": "theme-75d3d59f9d6a96",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=TORCH%20Lia%20official",
-      "spotifySearch": "https://open.spotify.com/search/TORCH%20Lia"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=ALIVE%20Raiko%20official",
+      "spotifySearch": "https://open.spotify.com/search/ALIVE%20Raiko"
     },
     {
       "title": "Bouken Desho Desho? (冒険でしょでしょ?)",
@@ -13241,12 +13157,96 @@
         "ED",
         "OP"
       ],
-      "rank": 289,
+      "rank": 287,
       "id": "theme-893236241f9cea",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Bouken%20Desho%20Desho%3F%20Aya%20Hirano%20official",
       "spotifySearch": "https://open.spotify.com/search/Bouken%20Desho%20Desho%3F%20Aya%20Hirano"
+    },
+    {
+      "title": "TORCH",
+      "artist": "Lia",
+      "animeId": 4181,
+      "anime": "Clannad: After Story",
+      "animeEnglish": "",
+      "animeJapanese": "",
+      "animeItalian": "",
+      "franchiseId": "anime-4181",
+      "franchise": "Clannad: After Story",
+      "kind": "ED",
+      "themeIndex": "1",
+      "episodes": "(eps 1-21)",
+      "year": 2008,
+      "cover": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+      "source": "https://myanimelist.net/anime/4181/Clannad__After_Story",
+      "sourceCheckedAt": "2026-10-22",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 4181,
+          "anime": "Clannad: After Story",
+          "kind": "ED",
+          "themeIndex": "1",
+          "episodes": "(eps 1-21)",
+          "source": "https://myanimelist.net/anime/4181/Clannad__After_Story"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 288,
+      "id": "theme-00d59d2f306c9f",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=TORCH%20Lia%20official",
+      "spotifySearch": "https://open.spotify.com/search/TORCH%20Lia"
+    },
+    {
+      "title": "Get No Satisfied !",
+      "artist": "JAM Project feat.BABYMETAL",
+      "animeId": 52807,
+      "anime": "One Punch Man 3",
+      "animeEnglish": "One-Punch Man Season 3",
+      "animeJapanese": "ワンパンマン 3",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-30276",
+      "franchise": "One Punch Man",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2025,
+      "cover": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
+      "source": "https://myanimelist.net/anime/52807/One_Punch_Man_3",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 52807,
+          "anime": "One Punch Man 3",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/52807/One_Punch_Man_3"
+        }
+      ],
+      "kinds": [
+        "OP"
+      ],
+      "rank": 289,
+      "id": "theme-284f55e91964d4",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Get%20No%20Satisfied%20%21%20JAM%20Project%20feat.BABYMETAL%20official",
+      "spotifySearch": "https://open.spotify.com/search/Get%20No%20Satisfied%20%21%20JAM%20Project%20feat.BABYMETAL"
     },
     {
       "title": "Hikari (光り)",
@@ -13291,46 +13291,46 @@
       "spotifySearch": "https://open.spotify.com/search/Hikari%20Nakamura%20Hak"
     },
     {
-      "title": "Get No Satisfied !",
-      "artist": "JAM Project feat.BABYMETAL",
-      "animeId": 52807,
-      "anime": "One Punch Man 3",
-      "animeEnglish": "One-Punch Man Season 3",
-      "animeJapanese": "ワンパンマン 3",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-30276",
-      "franchise": "One Punch Man",
+      "title": "メロウ",
+      "artist": "Keina Suda",
+      "animeId": 50416,
+      "anime": "Skip to Loafer",
+      "animeEnglish": "Skip and Loafer",
+      "animeJapanese": "スキップとローファー",
+      "animeItalian": "Skip and Loafer",
+      "franchiseId": "mal-franchise-50416",
+      "franchise": "Skip to Loafer",
       "kind": "OP",
       "themeIndex": "",
       "episodes": "",
-      "year": 2025,
-      "cover": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
-      "source": "https://myanimelist.net/anime/52807/One_Punch_Man_3",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1518/138730.jpg",
+      "source": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
+      "spotify": "https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n",
+      "youtubeMusic": "https://music.youtube.com/watch?v=4edSa-OFjGU&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
+      "youtubeSource": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 52807,
-          "anime": "One Punch Man 3",
+          "animeId": 50416,
+          "anime": "Skip to Loafer",
           "kind": "OP",
           "themeIndex": "",
           "episodes": "",
-          "source": "https://myanimelist.net/anime/52807/One_Punch_Man_3"
+          "source": "https://myanimelist.net/anime/50416/Skip_to_Loafer"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 291,
-      "id": "theme-284f55e91964d4",
+      "id": "theme-19e3b12b0de575",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Get%20No%20Satisfied%20%21%20JAM%20Project%20feat.BABYMETAL%20official",
-      "spotifySearch": "https://open.spotify.com/search/Get%20No%20Satisfied%20%21%20JAM%20Project%20feat.BABYMETAL"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=%E3%83%A1%E3%83%AD%E3%82%A6%20Keina%20Suda%20official",
+      "spotifySearch": "https://open.spotify.com/search/%E3%83%A1%E3%83%AD%E3%82%A6%20Keina%20Suda"
     },
     {
       "title": "STORYSEEKER",
@@ -13383,48 +13383,6 @@
       "spotifySearch": "https://open.spotify.com/search/STORYSEEKER%20STEREO%20DIVE%20FOUNDATION"
     },
     {
-      "title": "メロウ",
-      "artist": "Keina Suda",
-      "animeId": 50416,
-      "anime": "Skip to Loafer",
-      "animeEnglish": "Skip and Loafer",
-      "animeJapanese": "スキップとローファー",
-      "animeItalian": "Skip and Loafer",
-      "franchiseId": "mal-franchise-50416",
-      "franchise": "Skip to Loafer",
-      "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1518/138730.jpg",
-      "source": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n",
-      "youtubeMusic": "https://music.youtube.com/watch?v=4edSa-OFjGU&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
-      "youtubeSource": "https://myanimelist.net/anime/50416/Skip_to_Loafer",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 50416,
-          "anime": "Skip to Loafer",
-          "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/50416/Skip_to_Loafer"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 293,
-      "id": "theme-19e3b12b0de575",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=%E3%83%A1%E3%83%AD%E3%82%A6%20Keina%20Suda%20official",
-      "spotifySearch": "https://open.spotify.com/search/%E3%83%A1%E3%83%AD%E3%82%A6%20Keina%20Suda"
-    },
-    {
       "title": "Zeitaku na Saji (贅沢な匙)",
       "artist": "Van de Shop",
       "animeId": 53446,
@@ -13459,7 +13417,7 @@
       "kinds": [
         "OP"
       ],
-      "rank": 294,
+      "rank": 293,
       "id": "theme-1b4bc17a8de9ba",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
@@ -13467,8 +13425,8 @@
       "spotifySearch": "https://open.spotify.com/search/Zeitaku%20na%20Saji%20Van%20de%20Shop"
     },
     {
-      "title": "Golden Day (ゴールデン・デイ）",
-      "artist": "Mahiru Inami (Saki Fujita)",
+      "title": "SOMEONE ELSE",
+      "artist": "Popura Taneshima, Mahiru Inami, and Yachiyo Todoroki (Kana Asumi, Saki Fujita and Eri Kitamura)",
       "animeId": 6956,
       "anime": "Working!!",
       "animeEnglish": "Wagnaria!!",
@@ -13476,9 +13434,9 @@
       "animeItalian": "",
       "franchiseId": "mal-franchise-6956",
       "franchise": "Working!!",
-      "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 9)",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "(eps 1-12)",
       "year": 2010,
       "cover": "https://cdn.myanimelist.net/images/anime/10/75262.jpg",
       "source": "https://myanimelist.net/anime/6956/Working",
@@ -13492,21 +13450,72 @@
         {
           "animeId": 6956,
           "anime": "Working!!",
-          "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 9)",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "(eps 1-12)",
           "source": "https://myanimelist.net/anime/6956/Working"
+        },
+        {
+          "animeId": 6956,
+          "anime": "Working!!",
+          "kind": "ED",
+          "themeIndex": "3",
+          "episodes": "(eps 13)",
+          "source": "https://myanimelist.net/anime/6956/Working"
+        }
+      ],
+      "kinds": [
+        "ED",
+        "OP"
+      ],
+      "rank": 294,
+      "id": "theme-b48512a1db4b20",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=SOMEONE%20ELSE%20Popura%20Taneshima%2C%20Mahiru%20Inami%2C%20and%20Yachiyo%20Todoroki%20official",
+      "spotifySearch": "https://open.spotify.com/search/SOMEONE%20ELSE%20Popura%20Taneshima%2C%20Mahiru%20Inami%2C%20and%20Yachiyo%20Todoroki"
+    },
+    {
+      "title": "Fly Me to the Moon -4 Beat Version-",
+      "artist": "Yoko Takahashi",
+      "animeId": 30,
+      "anime": "Shinseiki Evangelion",
+      "animeEnglish": "Neon Genesis Evangelion",
+      "animeJapanese": "新世紀エヴァンゲリオン",
+      "animeItalian": "Neon Genesis Evangelion",
+      "franchiseId": "mal-franchise-30",
+      "franchise": "Shinseiki Evangelion",
+      "kind": "ED",
+      "themeIndex": "4",
+      "episodes": "(eps 7,12)",
+      "year": 1995,
+      "cover": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+      "source": "https://myanimelist.net/anime/30/Shinseiki_Evangelion",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 30,
+          "anime": "Shinseiki Evangelion",
+          "kind": "ED",
+          "themeIndex": "4",
+          "episodes": "(eps 7,12)",
+          "source": "https://myanimelist.net/anime/30/Shinseiki_Evangelion"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 295,
-      "id": "theme-364f65ee632221",
+      "id": "theme-686c223f3b93ef",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Golden%20Day%20Mahiru%20Inami%20official",
-      "spotifySearch": "https://open.spotify.com/search/Golden%20Day%20Mahiru%20Inami"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Fly%20Me%20to%20the%20Moon%20-4%20Beat%20Version-%20Yoko%20Takahashi%20official",
+      "spotifySearch": "https://open.spotify.com/search/Fly%20Me%20to%20the%20Moon%20-4%20Beat%20Version-%20Yoko%20Takahashi"
     },
     {
       "title": "Be My Friend!!!",
@@ -15542,46 +15551,46 @@
       "spotifySearch": "https://open.spotify.com/search/ABC%20Taisou%20Iketeru%20Onii-chan"
     },
     {
-      "title": "Konpeki no Alfine ~Nikenme ni Karaoke ni Haitta Oretachi no Tension Super MAX ver.~ (紺碧のアル・フィーネ ～二軒目にカラオケに入った俺たちのテンションスーパーMAXver.～)",
-      "artist": "Izu no Kaze (伊豆乃風) [Iori Kitahar",
-      "animeId": 37105,
-      "anime": "Grand Blue",
-      "animeEnglish": "Grand Blue Dreaming",
-      "animeJapanese": "ぐらんぶる",
-      "animeItalian": "Grand Blue",
-      "franchiseId": "mal-franchise-37105",
-      "franchise": "Grand Blue",
+      "title": "Fight!!",
+      "artist": "ClariS",
+      "animeId": 39586,
+      "anime": "Hataraku Saibou!!",
+      "animeEnglish": "Cells at Work!!",
+      "animeJapanese": "はたらく細胞!!",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-37141",
+      "franchise": "Hataraku Saibou",
       "kind": "ED",
-      "themeIndex": "1",
+      "themeIndex": "",
       "episodes": "",
-      "year": 2018,
-      "cover": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
-      "source": "https://myanimelist.net/anime/37105/Grand_Blue",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1726/114552.jpg",
+      "source": "https://myanimelist.net/anime/39586/Hataraku_Saibou",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/4qmU2SbBS2lBHhAzXJq1Ft",
+      "spotify": "https://open.spotify.com/track/5Vqe6O1inyJuf54FsCm5SL",
       "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/37105/Grand_Blue",
+      "spotifySource": "https://myanimelist.net/anime/39586/Hataraku_Saibou",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 37105,
-          "anime": "Grand Blue",
+          "animeId": 39586,
+          "anime": "Hataraku Saibou!!",
           "kind": "ED",
-          "themeIndex": "1",
+          "themeIndex": "",
           "episodes": "",
-          "source": "https://myanimelist.net/anime/37105/Grand_Blue"
+          "source": "https://myanimelist.net/anime/39586/Hataraku_Saibou"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 342,
-      "id": "theme-524c54c29bb35f",
+      "id": "theme-5f6dc8dce22de1",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Konpeki%20no%20Alfine%20~Nikenme%20ni%20Karaoke%20ni%20Haitta%20Oretachi%20no%20Tension%20Super%20MAX%20ver.~%20Izu%20no%20Kaze%20official",
-      "spotifySearch": "https://open.spotify.com/search/Konpeki%20no%20Alfine%20~Nikenme%20ni%20Karaoke%20ni%20Haitta%20Oretachi%20no%20Tension%20Super%20MAX%20ver.~%20Izu%20no%20Kaze"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Fight%21%21%20ClariS%20official",
+      "spotifySearch": "https://open.spotify.com/search/Fight%21%21%20ClariS"
     },
     {
       "title": "MAN HUMAN (DEVILMAN crybaby Ver.)",
@@ -15677,46 +15686,46 @@
       "spotifySearch": "https://open.spotify.com/search/Hello%2C%20world%21%20BUMP%20OF%20CHICKEN"
     },
     {
-      "title": "Fight!!",
-      "artist": "ClariS",
-      "animeId": 39586,
-      "anime": "Hataraku Saibou!!",
-      "animeEnglish": "Cells at Work!!",
-      "animeJapanese": "はたらく細胞!!",
+      "title": "know me...",
+      "artist": "Kairi Yagi",
+      "animeId": 52741,
+      "anime": "Undead Unluck",
+      "animeEnglish": "",
+      "animeJapanese": "アンデッドアンラック",
       "animeItalian": "",
-      "franchiseId": "mal-franchise-37141",
-      "franchise": "Hataraku Saibou",
+      "franchiseId": "mal-franchise-52741",
+      "franchise": "Undead Unluck",
       "kind": "ED",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1726/114552.jpg",
-      "source": "https://myanimelist.net/anime/39586/Hataraku_Saibou",
+      "themeIndex": "2",
+      "episodes": "(eps 2-14)",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg",
+      "source": "https://myanimelist.net/anime/52741/Undead_Unluck",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/5Vqe6O1inyJuf54FsCm5SL",
+      "spotify": "",
       "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/39586/Hataraku_Saibou",
+      "spotifySource": "",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 39586,
-          "anime": "Hataraku Saibou!!",
+          "animeId": 52741,
+          "anime": "Undead Unluck",
           "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/39586/Hataraku_Saibou"
+          "themeIndex": "2",
+          "episodes": "(eps 2-14)",
+          "source": "https://myanimelist.net/anime/52741/Undead_Unluck"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 345,
-      "id": "theme-5f6dc8dce22de1",
+      "id": "theme-57051798f67757",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Fight%21%21%20ClariS%20official",
-      "spotifySearch": "https://open.spotify.com/search/Fight%21%21%20ClariS"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=know%20me...%20Kairi%20Yagi%20official",
+      "spotifySearch": "https://open.spotify.com/search/know%20me...%20Kairi%20Yagi"
     },
     {
       "title": "Sincerely",
@@ -15769,46 +15778,46 @@
       "spotifySearch": "https://open.spotify.com/search/Sincerely%20TRUE"
     },
     {
-      "title": "know me...",
-      "artist": "Kairi Yagi",
-      "animeId": 52741,
-      "anime": "Undead Unluck",
-      "animeEnglish": "",
-      "animeJapanese": "アンデッドアンラック",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-52741",
-      "franchise": "Undead Unluck",
+      "title": "Tsumari wa Itsumo Kujikenai! (つまりはいつもくじけない！)",
+      "artist": "NEGI☆U",
+      "animeId": 48753,
+      "anime": "Jahy-sama wa Kujikenai!",
+      "animeEnglish": "The Great Jahy Will Not Be Defeated!",
+      "animeJapanese": "ジャヒー様はくじけない！",
+      "animeItalian": "La Grande Jahy non si lascerà scoraggiare!",
+      "franchiseId": "mal-franchise-48753",
+      "franchise": "Jahy-sama wa Kujikenai!",
       "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 2-14)",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg",
-      "source": "https://myanimelist.net/anime/52741/Undead_Unluck",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1154/115599.jpg",
+      "source": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
+      "spotify": "https://open.spotify.com/track/5nHEwZnmyvXZP1owsLD9kx",
+      "youtubeMusic": "https://music.youtube.com/watch?v=D2PAGHD-qT8&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai",
+      "youtubeSource": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 52741,
-          "anime": "Undead Unluck",
+          "animeId": 48753,
+          "anime": "Jahy-sama wa Kujikenai!",
           "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 2-14)",
-          "source": "https://myanimelist.net/anime/52741/Undead_Unluck"
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 347,
-      "id": "theme-57051798f67757",
+      "id": "theme-265ac50560cad7",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=know%20me...%20Kairi%20Yagi%20official",
-      "spotifySearch": "https://open.spotify.com/search/know%20me...%20Kairi%20Yagi"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Tsumari%20wa%20Itsumo%20Kujikenai%21%20NEGI%E2%98%86U%20official",
+      "spotifySearch": "https://open.spotify.com/search/Tsumari%20wa%20Itsumo%20Kujikenai%21%20NEGI%E2%98%86U"
     },
     {
       "title": "Eien ni Hikare (永遠に光れ)",
@@ -15853,46 +15862,46 @@
       "spotifySearch": "https://open.spotify.com/search/Eien%20ni%20Hikare%20TOMORROW%20X%20TOGETHER"
     },
     {
-      "title": "Tsumari wa Itsumo Kujikenai! (つまりはいつもくじけない！)",
-      "artist": "NEGI☆U",
-      "animeId": 48753,
-      "anime": "Jahy-sama wa Kujikenai!",
-      "animeEnglish": "The Great Jahy Will Not Be Defeated!",
-      "animeJapanese": "ジャヒー様はくじけない！",
-      "animeItalian": "La Grande Jahy non si lascerà scoraggiare!",
-      "franchiseId": "mal-franchise-48753",
-      "franchise": "Jahy-sama wa Kujikenai!",
+      "title": "Sensen no Realism (戦線のリアリズム)",
+      "artist": "Mako Niina",
+      "animeId": 32615,
+      "anime": "Youjo Senki",
+      "animeEnglish": "Saga of Tanya the Evil",
+      "animeJapanese": "幼女戦記",
+      "animeItalian": "Saga of Tanya the Evil",
+      "franchiseId": "mal-franchise-32615",
+      "franchise": "Youjo Senki",
       "kind": "ED",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1154/115599.jpg",
-      "source": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai",
+      "themeIndex": "3",
+      "episodes": "(eps 8)",
+      "year": 2017,
+      "cover": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+      "source": "https://myanimelist.net/anime/32615/Youjo_Senki",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/5nHEwZnmyvXZP1owsLD9kx",
-      "youtubeMusic": "https://music.youtube.com/watch?v=D2PAGHD-qT8&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai",
-      "youtubeSource": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 48753,
-          "anime": "Jahy-sama wa Kujikenai!",
+          "animeId": 32615,
+          "anime": "Youjo Senki",
           "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/48753/Jahy-sama_wa_Kujikenai"
+          "themeIndex": "3",
+          "episodes": "(eps 8)",
+          "source": "https://myanimelist.net/anime/32615/Youjo_Senki"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 349,
-      "id": "theme-265ac50560cad7",
+      "id": "theme-2a446898334c34",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Tsumari%20wa%20Itsumo%20Kujikenai%21%20NEGI%E2%98%86U%20official",
-      "spotifySearch": "https://open.spotify.com/search/Tsumari%20wa%20Itsumo%20Kujikenai%21%20NEGI%E2%98%86U"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Sensen%20no%20Realism%20Mako%20Niina%20official",
+      "spotifySearch": "https://open.spotify.com/search/Sensen%20no%20Realism%20Mako%20Niina"
     },
     {
       "title": "Breakthrough",
@@ -15979,46 +15988,46 @@
       "spotifySearch": "https://open.spotify.com/search/Mushinhakusuu%20%5BAlexandros%5D"
     },
     {
-      "title": "Sensen no Realism (戦線のリアリズム)",
-      "artist": "Mako Niina",
-      "animeId": 32615,
-      "anime": "Youjo Senki",
-      "animeEnglish": "Saga of Tanya the Evil",
-      "animeJapanese": "幼女戦記",
-      "animeItalian": "Saga of Tanya the Evil",
-      "franchiseId": "mal-franchise-32615",
-      "franchise": "Youjo Senki",
+      "title": "Colorful Canvas (カラフル・キャンバス)",
+      "artist": "Nagatoro-san (Sumire Uesaka), Gamo-chan (Mikako Komatsu), Yosshi (Aina Suzuki), Sakura (Shiori Izawa)",
+      "animeId": 42361,
+      "anime": "Ijiranaide, Nagatoro-san",
+      "animeEnglish": "Don't Toy with Me, Miss Nagatoro",
+      "animeJapanese": "イジらないで、長瀞さん",
+      "animeItalian": "Don't Toy with Me, Miss Nagatoro",
+      "franchiseId": "mal-franchise-42361",
+      "franchise": "Ijiranaide, Nagatoro-san",
       "kind": "ED",
-      "themeIndex": "3",
-      "episodes": "(eps 8)",
-      "year": 2017,
-      "cover": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
-      "source": "https://myanimelist.net/anime/32615/Youjo_Senki",
+      "themeIndex": "2",
+      "episodes": "(eps 2-5, 7-12)",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg",
+      "source": "https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/21TyV1EO2KLWF34R3DMEfj",
       "youtubeMusic": "",
-      "spotifySource": "",
+      "spotifySource": "https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 32615,
-          "anime": "Youjo Senki",
+          "animeId": 42361,
+          "anime": "Ijiranaide, Nagatoro-san",
           "kind": "ED",
-          "themeIndex": "3",
-          "episodes": "(eps 8)",
-          "source": "https://myanimelist.net/anime/32615/Youjo_Senki"
+          "themeIndex": "2",
+          "episodes": "(eps 2-5, 7-12)",
+          "source": "https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 352,
-      "id": "theme-2a446898334c34",
+      "id": "theme-b50353291017d2",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Sensen%20no%20Realism%20Mako%20Niina%20official",
-      "spotifySearch": "https://open.spotify.com/search/Sensen%20no%20Realism%20Mako%20Niina"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Colorful%20Canvas%20Nagatoro-san%20official",
+      "spotifySearch": "https://open.spotify.com/search/Colorful%20Canvas%20Nagatoro-san"
     },
     {
       "title": "Tsuyogaru Girl (つよがるガール)",
@@ -16072,46 +16081,46 @@
       "spotifySearch": "https://open.spotify.com/search/Tsuyogaru%20Girl%20Botchi%20Boromaru%20feat.%20Mossa"
     },
     {
-      "title": "Colorful Canvas (カラフル・キャンバス)",
-      "artist": "Nagatoro-san (Sumire Uesaka), Gamo-chan (Mikako Komatsu), Yosshi (Aina Suzuki), Sakura (Shiori Izawa)",
-      "animeId": 42361,
-      "anime": "Ijiranaide, Nagatoro-san",
-      "animeEnglish": "Don't Toy with Me, Miss Nagatoro",
-      "animeJapanese": "イジらないで、長瀞さん",
-      "animeItalian": "Don't Toy with Me, Miss Nagatoro",
-      "franchiseId": "mal-franchise-42361",
-      "franchise": "Ijiranaide, Nagatoro-san",
+      "title": "Darling in the Night",
+      "artist": "Alpha (CV: Asami Seto)",
+      "animeId": 48316,
+      "anime": "Kage no Jitsuryokusha ni Naritakute!",
+      "animeEnglish": "The Eminence in Shadow",
+      "animeJapanese": "陰の実力者になりたくて！",
+      "animeItalian": "The Eminence in Shadow",
+      "franchiseId": "mal-franchise-48316",
+      "franchise": "Kage no Jitsuryokusha ni Naritakute!",
       "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 2-5, 7-12)",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1900/110097.jpg",
-      "source": "https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san",
+      "themeIndex": "1",
+      "episodes": "(eps 2,10,18)",
+      "year": 2022,
+      "cover": "https://cdn.myanimelist.net/images/anime/1091/128729.jpg",
+      "source": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/21TyV1EO2KLWF34R3DMEfj",
+      "spotify": "https://open.spotify.com/track/6AvJgOwIrtZ16ZCKUpQaHQ",
       "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san",
-      "youtubeSource": "",
+      "spotifySource": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute",
+      "youtubeSource": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 42361,
-          "anime": "Ijiranaide, Nagatoro-san",
+          "animeId": 48316,
+          "anime": "Kage no Jitsuryokusha ni Naritakute!",
           "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 2-5, 7-12)",
-          "source": "https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san"
+          "themeIndex": "1",
+          "episodes": "(eps 2,10,18)",
+          "source": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 354,
-      "id": "theme-b50353291017d2",
+      "id": "theme-2a9aa652170b57",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Colorful%20Canvas%20Nagatoro-san%20official",
-      "spotifySearch": "https://open.spotify.com/search/Colorful%20Canvas%20Nagatoro-san"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Darling%20in%20the%20Night%20Alpha%20official",
+      "spotifySearch": "https://open.spotify.com/search/Darling%20in%20the%20Night%20Alpha"
     },
     {
       "title": "Tensei Shitara Ken deshita (転生したら剣でした)",
@@ -16156,46 +16165,46 @@
       "spotifySearch": "https://open.spotify.com/search/Tensei%20Shitara%20Ken%20deshita%20Kishida%20Kyoudan%20%26%20The%20Akeboshi%20Rockets"
     },
     {
-      "title": "Darling in the Night",
-      "artist": "Alpha (CV: Asami Seto)",
-      "animeId": 48316,
-      "anime": "Kage no Jitsuryokusha ni Naritakute!",
-      "animeEnglish": "The Eminence in Shadow",
-      "animeJapanese": "陰の実力者になりたくて！",
-      "animeItalian": "The Eminence in Shadow",
-      "franchiseId": "mal-franchise-48316",
-      "franchise": "Kage no Jitsuryokusha ni Naritakute!",
+      "title": "Kyou no Ending wa Watashi ga Kaitotta kara Suki ni Shite Ii wa yo ne ♡ (今日のエンディングは私が買い取ったから好きにしていいわよね♡)",
+      "artist": "Hahari Hanazono (CV: Sumire Uesaka)",
+      "animeId": 54714,
+      "anime": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "animeEnglish": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "animeJapanese": "君のことが大大大大大好きな100人の彼女",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-54714",
+      "franchise": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
       "kind": "ED",
-      "themeIndex": "1",
-      "episodes": "(eps 2,10,18)",
-      "year": 2022,
-      "cover": "https://cdn.myanimelist.net/images/anime/1091/128729.jpg",
-      "source": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute",
+      "themeIndex": "2",
+      "episodes": "(eps 11)",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1812/136764.jpg",
+      "source": "https://myanimelist.net/anime/54714/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/6AvJgOwIrtZ16ZCKUpQaHQ",
+      "spotify": "",
       "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute",
-      "youtubeSource": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute",
+      "spotifySource": "",
+      "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 48316,
-          "anime": "Kage no Jitsuryokusha ni Naritakute!",
+          "animeId": 54714,
+          "anime": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
           "kind": "ED",
-          "themeIndex": "1",
-          "episodes": "(eps 2,10,18)",
-          "source": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute"
+          "themeIndex": "2",
+          "episodes": "(eps 11)",
+          "source": "https://myanimelist.net/anime/54714/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 356,
-      "id": "theme-2a9aa652170b57",
+      "id": "theme-4b8afa09ac836c",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Darling%20in%20the%20Night%20Alpha%20official",
-      "spotifySearch": "https://open.spotify.com/search/Darling%20in%20the%20Night%20Alpha"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Kyou%20no%20Ending%20wa%20Watashi%20ga%20Kaitotta%20kara%20Suki%20ni%20Shite%20Ii%20wa%20yo%20ne%20%E2%99%A1%20Hahari%20Hanazono%20official",
+      "spotifySearch": "https://open.spotify.com/search/Kyou%20no%20Ending%20wa%20Watashi%20ga%20Kaitotta%20kara%20Suki%20ni%20Shite%20Ii%20wa%20yo%20ne%20%E2%99%A1%20Hahari%20Hanazono"
     },
     {
       "title": "FROZEN MIDNIGHT",
@@ -16240,50 +16249,8 @@
       "spotifySearch": "https://open.spotify.com/search/FROZEN%20MIDNIGHT%20Takao%20Sakuma"
     },
     {
-      "title": "Kyou no Ending wa Watashi ga Kaitotta kara Suki ni Shite Ii wa yo ne ♡ (今日のエンディングは私が買い取ったから好きにしていいわよね♡)",
-      "artist": "Hahari Hanazono (CV: Sumire Uesaka)",
-      "animeId": 54714,
-      "anime": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-      "animeEnglish": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-      "animeJapanese": "君のことが大大大大大好きな100人の彼女",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-54714",
-      "franchise": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-      "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 11)",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1812/136764.jpg",
-      "source": "https://myanimelist.net/anime/54714/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 54714,
-          "anime": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-          "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 11)",
-          "source": "https://myanimelist.net/anime/54714/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 358,
-      "id": "theme-4b8afa09ac836c",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Kyou%20no%20Ending%20wa%20Watashi%20ga%20Kaitotta%20kara%20Suki%20ni%20Shite%20Ii%20wa%20yo%20ne%20%E2%99%A1%20Hahari%20Hanazono%20official",
-      "spotifySearch": "https://open.spotify.com/search/Kyou%20no%20Ending%20wa%20Watashi%20ga%20Kaitotta%20kara%20Suki%20ni%20Shite%20Ii%20wa%20yo%20ne%20%E2%99%A1%20Hahari%20Hanazono"
-    },
-    {
-      "title": "Mirai no Hero Tachi e (未来のヒーローたちへ)",
-      "artist": "Takeyaki Shou (タケヤキ翔)",
+      "title": "Kaerimichi no Iro (かえりみちの色)",
+      "artist": "Shibuya HAL (渋谷ハル)",
       "animeId": 49776,
       "anime": "Kumichou Musume to Sewagakari",
       "animeEnglish": "The Yakuza's Guide to Babysitting",
@@ -16291,15 +16258,15 @@
       "animeItalian": "",
       "franchiseId": "mal-franchise-49776",
       "franchise": "Kumichou Musume to Sewagakari",
-      "kind": "OP",
+      "kind": "ED",
       "themeIndex": "",
       "episodes": "",
       "year": 2022,
       "cover": "https://cdn.myanimelist.net/images/anime/1454/122063.jpg",
       "source": "https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/4tWsJ9nKZfgauzTIS9ITxG",
-      "youtubeMusic": "https://music.youtube.com/watch?v=HkWjFjaG1cY&feature=share",
+      "spotify": "https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0",
+      "youtubeMusic": "https://music.youtube.com/watch?v=nb-4jLcvEhk&feature=share",
       "spotifySource": "https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari",
       "youtubeSource": "https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari",
       "format": "TV",
@@ -16307,21 +16274,21 @@
         {
           "animeId": 49776,
           "anime": "Kumichou Musume to Sewagakari",
-          "kind": "OP",
+          "kind": "ED",
           "themeIndex": "",
           "episodes": "",
           "source": "https://myanimelist.net/anime/49776/Kumichou_Musume_to_Sewagakari"
         }
       ],
       "kinds": [
-        "OP"
+        "ED"
       ],
-      "rank": 359,
-      "id": "theme-7beadbce2133a0",
+      "rank": 358,
+      "id": "theme-189ec844e43240",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Mirai%20no%20Hero%20Tachi%20e%20Takeyaki%20Shou%20official",
-      "spotifySearch": "https://open.spotify.com/search/Mirai%20no%20Hero%20Tachi%20e%20Takeyaki%20Shou"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Kaerimichi%20no%20Iro%20Shibuya%20HAL%20official",
+      "spotifySearch": "https://open.spotify.com/search/Kaerimichi%20no%20Iro%20Shibuya%20HAL"
     },
     {
       "title": "Darekare Scramble (誰彼スクランブル)",
@@ -16358,12 +16325,54 @@
       "kinds": [
         "OP"
       ],
-      "rank": 360,
+      "rank": 359,
       "id": "theme-a5c6a39face8d5",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Darekare%20Scramble%20halca%20official",
       "spotifySearch": "https://open.spotify.com/search/Darekare%20Scramble%20halca"
+    },
+    {
+      "title": "Shimi (染み)",
+      "artist": "HOWL BE QUIET",
+      "animeId": 42340,
+      "anime": "Meikyuu Black Company",
+      "animeEnglish": "The Dungeon of Black Company",
+      "animeJapanese": "迷宮ブラックカンパニー",
+      "animeItalian": "The Dungeon of Black Company",
+      "franchiseId": "mal-franchise-42340",
+      "franchise": "Meikyuu Black Company",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1753/116290.jpg",
+      "source": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/5Z9tM5t9mCQJQD77XX3IxY",
+      "youtubeMusic": "https://music.youtube.com/watch?v=m-l_dabftnA&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
+      "youtubeSource": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 42340,
+          "anime": "Meikyuu Black Company",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company"
+        }
+      ],
+      "kinds": [
+        "OP"
+      ],
+      "rank": 360,
+      "id": "theme-64e0634fffbfcd",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Shimi%20HOWL%20BE%20QUIET%20official",
+      "spotifySearch": "https://open.spotify.com/search/Shimi%20HOWL%20BE%20QUIET"
     },
     {
       "title": "Calling",
@@ -16408,46 +16417,46 @@
       "spotifySearch": "https://open.spotify.com/search/Calling%20Oda%20Kaori"
     },
     {
-      "title": "Shimi (染み)",
-      "artist": "HOWL BE QUIET",
-      "animeId": 42340,
-      "anime": "Meikyuu Black Company",
-      "animeEnglish": "The Dungeon of Black Company",
-      "animeJapanese": "迷宮ブラックカンパニー",
-      "animeItalian": "The Dungeon of Black Company",
-      "franchiseId": "mal-franchise-42340",
-      "franchise": "Meikyuu Black Company",
+      "title": "Mujikaku no Tensai (無自覚の天才)",
+      "artist": "Non Stop Rabbit",
+      "animeId": 47163,
+      "anime": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+      "animeEnglish": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World",
+      "animeJapanese": "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-47163",
+      "franchise": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
       "kind": "OP",
       "themeIndex": "",
       "episodes": "",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1753/116290.jpg",
-      "source": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
+      "year": 2022,
+      "cover": "https://cdn.myanimelist.net/images/anime/1563/148868.jpg",
+      "source": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/5Z9tM5t9mCQJQD77XX3IxY",
-      "youtubeMusic": "https://music.youtube.com/watch?v=m-l_dabftnA&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
-      "youtubeSource": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company",
+      "spotify": "https://open.spotify.com/track/6xzThjUK6ZdDVsu73RtmoM",
+      "youtubeMusic": "https://music.youtube.com/watch?v=a95nMYkvMGg&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita",
+      "youtubeSource": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 42340,
-          "anime": "Meikyuu Black Company",
+          "animeId": 47163,
+          "anime": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
           "kind": "OP",
           "themeIndex": "",
           "episodes": "",
-          "source": "https://myanimelist.net/anime/42340/Meikyuu_Black_Company"
+          "source": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 362,
-      "id": "theme-64e0634fffbfcd",
+      "id": "theme-785b912f2d01d9",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Shimi%20HOWL%20BE%20QUIET%20official",
-      "spotifySearch": "https://open.spotify.com/search/Shimi%20HOWL%20BE%20QUIET"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Mujikaku%20no%20Tensai%20Non%20Stop%20Rabbit%20official",
+      "spotifySearch": "https://open.spotify.com/search/Mujikaku%20no%20Tensai%20Non%20Stop%20Rabbit"
     },
     {
       "title": "Koi wa Sekai Teiri to Tomoni (恋は世界定理と共に)",
@@ -16492,50 +16501,8 @@
       "spotifySearch": "https://open.spotify.com/search/Koi%20wa%20Sekai%20Teiri%20to%20Tomoni%20DIALOGUE%2B"
     },
     {
-      "title": "Mujikaku no Tensai (無自覚の天才)",
-      "artist": "Non Stop Rabbit",
-      "animeId": 47163,
-      "anime": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
-      "animeEnglish": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World",
-      "animeJapanese": "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-47163",
-      "franchise": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
-      "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2022,
-      "cover": "https://cdn.myanimelist.net/images/anime/1563/148868.jpg",
-      "source": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/6xzThjUK6ZdDVsu73RtmoM",
-      "youtubeMusic": "https://music.youtube.com/watch?v=a95nMYkvMGg&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita",
-      "youtubeSource": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 47163,
-          "anime": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
-          "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/47163/Tensei_Kenja_no_Isekai_Life__Dai-2_no_Shokugyou_wo_Ete_Sekai_Saikyou_ni_Narimashita"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 364,
-      "id": "theme-785b912f2d01d9",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Mujikaku%20no%20Tensai%20Non%20Stop%20Rabbit%20official",
-      "spotifySearch": "https://open.spotify.com/search/Mujikaku%20no%20Tensai%20Non%20Stop%20Rabbit"
-    },
-    {
-      "title": "Green jade",
-      "artist": "ChouCho",
+      "title": "Cure",
+      "artist": "waterweed",
       "animeId": 49613,
       "anime": "Chiyu Mahou no Machigatta Tsukaikata",
       "animeEnglish": "The Wrong Way to Use Healing Magic",
@@ -16543,9 +16510,9 @@
       "animeItalian": "The Wrong Way to Use Healing Magic",
       "franchiseId": "mal-franchise-49613",
       "franchise": "Chiyu Mahou no Machigatta Tsukaikata",
-      "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 2-7,9-13)",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "(eps 2-13)",
       "year": 2024,
       "cover": "https://cdn.myanimelist.net/images/anime/1733/140802.jpg",
       "source": "https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata",
@@ -16559,25 +16526,34 @@
         {
           "animeId": 49613,
           "anime": "Chiyu Mahou no Machigatta Tsukaikata",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "(eps 2-13)",
+          "source": "https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata"
+        },
+        {
+          "animeId": 49613,
+          "anime": "Chiyu Mahou no Machigatta Tsukaikata",
           "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 2-7,9-13)",
+          "themeIndex": "1",
+          "episodes": "(eps 1)",
           "source": "https://myanimelist.net/anime/49613/Chiyu_Mahou_no_Machigatta_Tsukaikata"
         }
       ],
       "kinds": [
-        "ED"
+        "ED",
+        "OP"
       ],
-      "rank": 365,
-      "id": "theme-9b97924f051855",
+      "rank": 364,
+      "id": "theme-fc16887f342f69",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Green%20jade%20ChouCho%20official",
-      "spotifySearch": "https://open.spotify.com/search/Green%20jade%20ChouCho"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Cure%20waterweed%20official",
+      "spotifySearch": "https://open.spotify.com/search/Cure%20waterweed"
     },
     {
-      "title": "I am waiting for you",
-      "artist": "Michiru Akiyoshi",
+      "title": "Hikari no Hashi wo koete",
+      "artist": "Kei Ogura",
       "animeId": 820,
       "anime": "Ginga Eiyuu Densetsu",
       "animeEnglish": "Legend of the Galactic Heroes",
@@ -16585,9 +16561,9 @@
       "animeItalian": "",
       "franchiseId": "mal-franchise-820",
       "franchise": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
-      "kind": "OP",
-      "themeIndex": "2",
-      "episodes": "(eps 27-30,32,34-35,37-38,40,43,45,49,51-52)",
+      "kind": "ED",
+      "themeIndex": "1",
+      "episodes": "(eps 1-5,7-13,16-17,19-21,24-26,84)",
       "year": 1988,
       "cover": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
       "source": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
@@ -16601,63 +16577,21 @@
         {
           "animeId": 820,
           "anime": "Ginga Eiyuu Densetsu",
-          "kind": "OP",
-          "themeIndex": "2",
-          "episodes": "(eps 27-30,32,34-35,37-38,40,43,45,49,51-52)",
-          "source": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 366,
-      "id": "theme-60364533606912",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=I%20am%20waiting%20for%20you%20Michiru%20Akiyoshi%20official",
-      "spotifySearch": "https://open.spotify.com/search/I%20am%20waiting%20for%20you%20Michiru%20Akiyoshi"
-    },
-    {
-      "title": "Blue Forever",
-      "artist": "MAKE-UP",
-      "animeId": 1254,
-      "anime": "Saint Seiya",
-      "animeEnglish": "Saint Seiya: Knights of the Zodiac",
-      "animeJapanese": "聖闘士星矢(セイントセイヤ)",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-1253",
-      "franchise": "Saint Seiya",
-      "kind": "ED",
-      "themeIndex": "1",
-      "episodes": "(eps 1-73)",
-      "year": 1986,
-      "cover": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
-      "source": "https://myanimelist.net/anime/1254/Saint_Seiya",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 1254,
-          "anime": "Saint Seiya",
           "kind": "ED",
           "themeIndex": "1",
-          "episodes": "(eps 1-73)",
-          "source": "https://myanimelist.net/anime/1254/Saint_Seiya"
+          "episodes": "(eps 1-5,7-13,16-17,19-21,24-26,84)",
+          "source": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
         }
       ],
       "kinds": [
         "ED"
       ],
-      "rank": 367,
-      "id": "theme-2f7067b95f6899",
+      "rank": 365,
+      "id": "theme-45abb1c9a1b692",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Blue%20Forever%20MAKE-UP%20official",
-      "spotifySearch": "https://open.spotify.com/search/Blue%20Forever%20MAKE-UP"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Hikari%20no%20Hashi%20wo%20koete%20Kei%20Ogura%20official",
+      "spotifySearch": "https://open.spotify.com/search/Hikari%20no%20Hashi%20wo%20koete%20Kei%20Ogura"
     },
     {
       "title": "Ai wo Torimodose!! (愛をとりもどせ!!)",
@@ -16702,12 +16636,54 @@
       "kinds": [
         "OP"
       ],
-      "rank": 368,
+      "rank": 366,
       "id": "theme-c88dc31811a5c3",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Ai%20wo%20Torimodose%21%21%20Crystal%20King%20official",
       "spotifySearch": "https://open.spotify.com/search/Ai%20wo%20Torimodose%21%21%20Crystal%20King"
+    },
+    {
+      "title": "Blue Forever",
+      "artist": "MAKE-UP",
+      "animeId": 1254,
+      "anime": "Saint Seiya",
+      "animeEnglish": "Saint Seiya: Knights of the Zodiac",
+      "animeJapanese": "聖闘士星矢(セイントセイヤ)",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-1253",
+      "franchise": "Saint Seiya",
+      "kind": "ED",
+      "themeIndex": "1",
+      "episodes": "(eps 1-73)",
+      "year": 1986,
+      "cover": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
+      "source": "https://myanimelist.net/anime/1254/Saint_Seiya",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 1254,
+          "anime": "Saint Seiya",
+          "kind": "ED",
+          "themeIndex": "1",
+          "episodes": "(eps 1-73)",
+          "source": "https://myanimelist.net/anime/1254/Saint_Seiya"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 367,
+      "id": "theme-2f7067b95f6899",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Blue%20Forever%20MAKE-UP%20official",
+      "spotifySearch": "https://open.spotify.com/search/Blue%20Forever%20MAKE-UP"
     },
     {
       "title": "Munou (無能)",
@@ -16753,54 +16729,12 @@
         "ED",
         "OP"
       ],
-      "rank": 369,
+      "rank": 368,
       "id": "theme-6634778a69a8d5",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Munou%20%C3%B6sterreich%20official",
       "spotifySearch": "https://open.spotify.com/search/Munou%20%C3%B6sterreich"
-    },
-    {
-      "title": "Taiyou ga Mata Kagayaku Toki",
-      "artist": "Hiro Takahashi",
-      "animeId": 392,
-      "anime": "Yuu☆Yuu☆Hakusho",
-      "animeEnglish": "Yu Yu Hakusho: Ghost Files",
-      "animeJapanese": "幽☆遊☆白書",
-      "animeItalian": "Yu degli spettri",
-      "franchiseId": "mal-franchise-392",
-      "franchise": "Yuu☆Yuu☆Hakusho",
-      "kind": "ED",
-      "themeIndex": "4",
-      "episodes": "(eps 84-102)",
-      "year": 1992,
-      "cover": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
-      "source": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 392,
-          "anime": "Yuu☆Yuu☆Hakusho",
-          "kind": "ED",
-          "themeIndex": "4",
-          "episodes": "(eps 84-102)",
-          "source": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 370,
-      "id": "theme-a863c3ef55b880",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Taiyou%20ga%20Mata%20Kagayaku%20Toki%20Hiro%20Takahashi%20official",
-      "spotifySearch": "https://open.spotify.com/search/Taiyou%20ga%20Mata%20Kagayaku%20Toki%20Hiro%20Takahashi"
     },
     {
       "title": "Kill the Noise",
@@ -16846,12 +16780,96 @@
         "ED",
         "OP"
       ],
-      "rank": 371,
+      "rank": 369,
       "id": "theme-839e2f885ff128",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Kill%20the%20Noise%20SPYAIR%20official",
       "spotifySearch": "https://open.spotify.com/search/Kill%20the%20Noise%20SPYAIR"
+    },
+    {
+      "title": "Taiyou ga Mata Kagayaku Toki",
+      "artist": "Hiro Takahashi",
+      "animeId": 392,
+      "anime": "Yuu☆Yuu☆Hakusho",
+      "animeEnglish": "Yu Yu Hakusho: Ghost Files",
+      "animeJapanese": "幽☆遊☆白書",
+      "animeItalian": "Yu degli spettri",
+      "franchiseId": "mal-franchise-392",
+      "franchise": "Yuu☆Yuu☆Hakusho",
+      "kind": "ED",
+      "themeIndex": "4",
+      "episodes": "(eps 84-102)",
+      "year": 1992,
+      "cover": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
+      "source": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 392,
+          "anime": "Yuu☆Yuu☆Hakusho",
+          "kind": "ED",
+          "themeIndex": "4",
+          "episodes": "(eps 84-102)",
+          "source": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 370,
+      "id": "theme-a863c3ef55b880",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Taiyou%20ga%20Mata%20Kagayaku%20Toki%20Hiro%20Takahashi%20official",
+      "spotifySearch": "https://open.spotify.com/search/Taiyou%20ga%20Mata%20Kagayaku%20Toki%20Hiro%20Takahashi"
+    },
+    {
+      "title": "Lucy",
+      "artist": "Tsuchiya, Anna inspi' Nana ~Black Stones~",
+      "animeId": 877,
+      "anime": "Nana",
+      "animeEnglish": "",
+      "animeJapanese": "",
+      "animeItalian": "",
+      "franchiseId": "anime-877",
+      "franchise": "Nana",
+      "kind": "OP",
+      "themeIndex": "3",
+      "episodes": "(eps 37-47)",
+      "year": 2006,
+      "cover": "https://cdn.myanimelist.net/images/anime/2/11232.jpg",
+      "source": "https://myanimelist.net/anime/877/Nana",
+      "sourceCheckedAt": "2026-10-22",
+      "spotify": "https://open.spotify.com/track/2CJH0o2oafSdXuSuZ20Wi3",
+      "youtubeMusic": "",
+      "spotifySource": "https://myanimelist.net/anime/877/Nana",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 877,
+          "anime": "Nana",
+          "kind": "OP",
+          "themeIndex": "3",
+          "episodes": "(eps 37-47)",
+          "source": "https://myanimelist.net/anime/877/Nana"
+        }
+      ],
+      "kinds": [
+        "OP"
+      ],
+      "rank": 371,
+      "id": "theme-89dc9a23ccb7e3",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Lucy%20Tsuchiya%2C%20Anna%20inspi%27%20Nana%20~Black%20Stones~%20official",
+      "spotifySearch": "https://open.spotify.com/search/Lucy%20Tsuchiya%2C%20Anna%20inspi%27%20Nana%20~Black%20Stones~"
     },
     {
       "title": "LOVE & MOON",
@@ -16894,90 +16912,6 @@
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=LOVE%20%26%20MOON%20Marika%20Kouno%20official",
       "spotifySearch": "https://open.spotify.com/search/LOVE%20%26%20MOON%20Marika%20Kouno"
-    },
-    {
-      "title": "Lucy",
-      "artist": "Tsuchiya, Anna inspi' Nana ~Black Stones~",
-      "animeId": 877,
-      "anime": "Nana",
-      "animeEnglish": "",
-      "animeJapanese": "",
-      "animeItalian": "",
-      "franchiseId": "anime-877",
-      "franchise": "Nana",
-      "kind": "OP",
-      "themeIndex": "3",
-      "episodes": "(eps 37-47)",
-      "year": 2006,
-      "cover": "https://cdn.myanimelist.net/images/anime/2/11232.jpg",
-      "source": "https://myanimelist.net/anime/877/Nana",
-      "sourceCheckedAt": "2026-10-22",
-      "spotify": "https://open.spotify.com/track/2CJH0o2oafSdXuSuZ20Wi3",
-      "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/877/Nana",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 877,
-          "anime": "Nana",
-          "kind": "OP",
-          "themeIndex": "3",
-          "episodes": "(eps 37-47)",
-          "source": "https://myanimelist.net/anime/877/Nana"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 373,
-      "id": "theme-89dc9a23ccb7e3",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Lucy%20Tsuchiya%2C%20Anna%20inspi%27%20Nana%20~Black%20Stones~%20official",
-      "spotifySearch": "https://open.spotify.com/search/Lucy%20Tsuchiya%2C%20Anna%20inspi%27%20Nana%20~Black%20Stones~"
-    },
-    {
-      "title": "Mediator",
-      "artist": "Masashi Hamauzu",
-      "animeId": 41025,
-      "anime": "Fumetsu no Anata e",
-      "animeEnglish": "To Your Eternity",
-      "animeJapanese": "不滅のあなたへ",
-      "animeItalian": "To Your Eternity",
-      "franchiseId": "mal-franchise-41025",
-      "franchise": "Fumetsu no Anata e",
-      "kind": "ED",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
-      "source": "https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 41025,
-          "anime": "Fumetsu no Anata e",
-          "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 374,
-      "id": "theme-00797edfa9f3c3",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Mediator%20Masashi%20Hamauzu%20official",
-      "spotifySearch": "https://open.spotify.com/search/Mediator%20Masashi%20Hamauzu"
     },
     {
       "title": "Sakura Saku",
@@ -17039,12 +16973,54 @@
         "ED",
         "OP"
       ],
-      "rank": 375,
+      "rank": 373,
       "id": "theme-21f84f0d973877",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Sakura%20Saku%20Megumi%20Hayashibara%20official",
       "spotifySearch": "https://open.spotify.com/search/Sakura%20Saku%20Megumi%20Hayashibara"
+    },
+    {
+      "title": "Mediator",
+      "artist": "Masashi Hamauzu",
+      "animeId": 41025,
+      "anime": "Fumetsu no Anata e",
+      "animeEnglish": "To Your Eternity",
+      "animeJapanese": "不滅のあなたへ",
+      "animeItalian": "To Your Eternity",
+      "franchiseId": "mal-franchise-41025",
+      "franchise": "Fumetsu no Anata e",
+      "kind": "ED",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+      "source": "https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 41025,
+          "anime": "Fumetsu no Anata e",
+          "kind": "ED",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 374,
+      "id": "theme-00797edfa9f3c3",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Mediator%20Masashi%20Hamauzu%20official",
+      "spotifySearch": "https://open.spotify.com/search/Mediator%20Masashi%20Hamauzu"
     },
     {
       "title": "EVOLUTiON",
@@ -17081,12 +17057,54 @@
       "kinds": [
         "OP"
       ],
-      "rank": 376,
+      "rank": 375,
       "id": "theme-50d0b93bb4673f",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=EVOLUTiON%20Yoshino%20Nanjo%20official",
       "spotifySearch": "https://open.spotify.com/search/EVOLUTiON%20Yoshino%20Nanjo"
+    },
+    {
+      "title": "No Continue",
+      "artist": "Akari Kitou",
+      "animeId": 43814,
+      "anime": "Deatte 5-byou de Battle",
+      "animeEnglish": "Battle Game in 5 Seconds",
+      "animeJapanese": "出会って5秒でバトル",
+      "animeItalian": "Battle Game in 5 Seconds",
+      "franchiseId": "mal-franchise-43814",
+      "franchise": "Deatte 5-byou de Battle",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1145/115565.jpg",
+      "source": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/661WsL3EKQDINo3JeLbWbC",
+      "youtubeMusic": "https://music.youtube.com/watch?v=IvQnoODWMNA&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
+      "youtubeSource": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 43814,
+          "anime": "Deatte 5-byou de Battle",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle"
+        }
+      ],
+      "kinds": [
+        "OP"
+      ],
+      "rank": 376,
+      "id": "theme-7f44ddd7058e1f",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=No%20Continue%20Akari%20Kitou%20official",
+      "spotifySearch": "https://open.spotify.com/search/No%20Continue%20Akari%20Kitou"
     },
     {
       "title": "UNDERGROUND",
@@ -17139,46 +17157,46 @@
       "spotifySearch": "https://open.spotify.com/search/UNDERGROUND%20HIGH%20VOLTAGE"
     },
     {
-      "title": "No Continue",
-      "artist": "Akari Kitou",
-      "animeId": 43814,
-      "anime": "Deatte 5-byou de Battle",
-      "animeEnglish": "Battle Game in 5 Seconds",
-      "animeJapanese": "出会って5秒でバトル",
-      "animeItalian": "Battle Game in 5 Seconds",
-      "franchiseId": "mal-franchise-43814",
-      "franchise": "Deatte 5-byou de Battle",
+      "title": "I wish",
+      "artist": "来栖りん",
+      "animeId": 51693,
+      "anime": "Kaminaki Sekai no Kamisama Katsudou",
+      "animeEnglish": "Kamikatsu: Working for God in a Godless World",
+      "animeJapanese": "神無き世界のカミサマ活動",
+      "animeItalian": "KamiKatsu: Working for God in a Godless World",
+      "franchiseId": "mal-franchise-51693",
+      "franchise": "Kaminaki Sekai no Kamisama Katsudou",
       "kind": "OP",
       "themeIndex": "",
       "episodes": "",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1145/115565.jpg",
-      "source": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1794/135148.jpg",
+      "source": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/661WsL3EKQDINo3JeLbWbC",
-      "youtubeMusic": "https://music.youtube.com/watch?v=IvQnoODWMNA&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
-      "youtubeSource": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle",
+      "spotify": "https://open.spotify.com/track/0JnG9ptaFJKPvktDvfudM4",
+      "youtubeMusic": "https://music.youtube.com/watch?v=HyL8Z94W6es&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
+      "youtubeSource": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 43814,
-          "anime": "Deatte 5-byou de Battle",
+          "animeId": 51693,
+          "anime": "Kaminaki Sekai no Kamisama Katsudou",
           "kind": "OP",
           "themeIndex": "",
           "episodes": "",
-          "source": "https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle"
+          "source": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 378,
-      "id": "theme-7f44ddd7058e1f",
+      "id": "theme-095e6df6a3ee10",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=No%20Continue%20Akari%20Kitou%20official",
-      "spotifySearch": "https://open.spotify.com/search/No%20Continue%20Akari%20Kitou"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=I%20wish%20%E6%9D%A5%E6%A0%96%E3%82%8A%E3%82%93%20official",
+      "spotifySearch": "https://open.spotify.com/search/I%20wish%20%E6%9D%A5%E6%A0%96%E3%82%8A%E3%82%93"
     },
     {
       "title": "Anata wa Kaibutsu (あなたはかいぶつ)",
@@ -17223,46 +17241,46 @@
       "spotifySearch": "https://open.spotify.com/search/Anata%20wa%20Kaibutsu%20TOOBOE"
     },
     {
-      "title": "I wish",
-      "artist": "来栖りん",
-      "animeId": 51693,
-      "anime": "Kaminaki Sekai no Kamisama Katsudou",
-      "animeEnglish": "Kamikatsu: Working for God in a Godless World",
-      "animeJapanese": "神無き世界のカミサマ活動",
-      "animeItalian": "KamiKatsu: Working for God in a Godless World",
-      "franchiseId": "mal-franchise-51693",
-      "franchise": "Kaminaki Sekai no Kamisama Katsudou",
+      "title": "Kaijuu (怪獣)",
+      "artist": "Sakanaction (サカナクション)",
+      "animeId": 52215,
+      "anime": "Chi. Chikyuu no Undou ni Tsuite",
+      "animeEnglish": "Orb: On the Movements of the Earth",
+      "animeJapanese": "チ。―地球の運動について―",
+      "animeItalian": "≈ Orb: sui moti della Terra",
+      "franchiseId": "mal-franchise-52215",
+      "franchise": "Chi. Chikyuu no Undou ni Tsuite",
       "kind": "OP",
       "themeIndex": "",
-      "episodes": "",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1794/135148.jpg",
-      "source": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
+      "episodes": "(eps 2-25)",
+      "year": 2024,
+      "cover": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
+      "source": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/0JnG9ptaFJKPvktDvfudM4",
-      "youtubeMusic": "https://music.youtube.com/watch?v=HyL8Z94W6es&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
-      "youtubeSource": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 51693,
-          "anime": "Kaminaki Sekai no Kamisama Katsudou",
+          "animeId": 52215,
+          "anime": "Chi. Chikyuu no Undou ni Tsuite",
           "kind": "OP",
           "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou"
+          "episodes": "(eps 2-25)",
+          "source": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 380,
-      "id": "theme-095e6df6a3ee10",
+      "id": "theme-c3d6a87265add1",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=I%20wish%20%E6%9D%A5%E6%A0%96%E3%82%8A%E3%82%93%20official",
-      "spotifySearch": "https://open.spotify.com/search/I%20wish%20%E6%9D%A5%E6%A0%96%E3%82%8A%E3%82%93"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Kaijuu%20Sakanaction%20official",
+      "spotifySearch": "https://open.spotify.com/search/Kaijuu%20Sakanaction"
     },
     {
       "title": "Only for you",
@@ -17307,46 +17325,46 @@
       "spotifySearch": "https://open.spotify.com/search/Only%20for%20you%20Anisphia%20Wynn%20Palletia"
     },
     {
-      "title": "Kaijuu (怪獣)",
-      "artist": "Sakanaction (サカナクション)",
-      "animeId": 52215,
-      "anime": "Chi. Chikyuu no Undou ni Tsuite",
-      "animeEnglish": "Orb: On the Movements of the Earth",
-      "animeJapanese": "チ。―地球の運動について―",
-      "animeItalian": "≈ Orb: sui moti della Terra",
-      "franchiseId": "mal-franchise-52215",
-      "franchise": "Chi. Chikyuu no Undou ni Tsuite",
+      "title": "Dramatic ja Nakute mo (ドラマチックじゃなくても)",
+      "artist": "Kana Hanazawa",
+      "animeId": 51815,
+      "anime": "Kubo-san wa Mob wo Yurusanai",
+      "animeEnglish": "Kubo Won't Let Me Be Invisible",
+      "animeJapanese": "久保さんは僕を許さない",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-51815",
+      "franchise": "Kubo-san wa Mob wo Yurusanai",
       "kind": "OP",
       "themeIndex": "",
-      "episodes": "(eps 2-25)",
-      "year": 2024,
-      "cover": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
-      "source": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite",
+      "episodes": "",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
+      "source": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
+      "spotify": "https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW",
+      "youtubeMusic": "https://music.youtube.com/watch?v=ll6NeV1RAtE&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
+      "youtubeSource": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 52215,
-          "anime": "Chi. Chikyuu no Undou ni Tsuite",
+          "animeId": 51815,
+          "anime": "Kubo-san wa Mob wo Yurusanai",
           "kind": "OP",
           "themeIndex": "",
-          "episodes": "(eps 2-25)",
-          "source": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite"
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 382,
-      "id": "theme-c3d6a87265add1",
+      "id": "theme-25d35f2f5f8b59",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Kaijuu%20Sakanaction%20official",
-      "spotifySearch": "https://open.spotify.com/search/Kaijuu%20Sakanaction"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Dramatic%20ja%20Nakute%20mo%20Kana%20Hanazawa%20official",
+      "spotifySearch": "https://open.spotify.com/search/Dramatic%20ja%20Nakute%20mo%20Kana%20Hanazawa"
     },
     {
       "title": "Hidamari no Saido (ひだまりの彩度)",
@@ -17391,48 +17409,6 @@
       "spotifySearch": "https://open.spotify.com/search/Hidamari%20no%20Saido%20konoco"
     },
     {
-      "title": "Dramatic ja Nakute mo (ドラマチックじゃなくても)",
-      "artist": "Kana Hanazawa",
-      "animeId": 51815,
-      "anime": "Kubo-san wa Mob wo Yurusanai",
-      "animeEnglish": "Kubo Won't Let Me Be Invisible",
-      "animeJapanese": "久保さんは僕を許さない",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-51815",
-      "franchise": "Kubo-san wa Mob wo Yurusanai",
-      "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
-      "source": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW",
-      "youtubeMusic": "https://music.youtube.com/watch?v=ll6NeV1RAtE&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
-      "youtubeSource": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 51815,
-          "anime": "Kubo-san wa Mob wo Yurusanai",
-          "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 384,
-      "id": "theme-25d35f2f5f8b59",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Dramatic%20ja%20Nakute%20mo%20Kana%20Hanazawa%20official",
-      "spotifySearch": "https://open.spotify.com/search/Dramatic%20ja%20Nakute%20mo%20Kana%20Hanazawa"
-    },
-    {
       "title": "Dystopia",
       "artist": "Sizuk",
       "animeId": 51711,
@@ -17467,12 +17443,54 @@
       "kinds": [
         "OP"
       ],
-      "rank": 385,
+      "rank": 384,
       "id": "theme-637e2f3467d4b4",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Dystopia%20Sizuk%20official",
       "spotifySearch": "https://open.spotify.com/search/Dystopia%20Sizuk"
+    },
+    {
+      "title": "Knock Out",
+      "artist": "Taiiku Okazaki",
+      "animeId": 52211,
+      "anime": "Mashle",
+      "animeEnglish": "Mashle: Magic and Muscles",
+      "animeJapanese": "マッシュル-MASHLE-",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-52211",
+      "franchise": "Mashle",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
+      "source": "https://myanimelist.net/anime/52211/Mashle",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy",
+      "youtubeMusic": "https://music.youtube.com/watch?v=BD-UgaL5_pg&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/52211/Mashle",
+      "youtubeSource": "https://myanimelist.net/anime/52211/Mashle",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 52211,
+          "anime": "Mashle",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/52211/Mashle"
+        }
+      ],
+      "kinds": [
+        "OP"
+      ],
+      "rank": 385,
+      "id": "theme-28dde12170c473",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Knock%20Out%20Taiiku%20Okazaki%20official",
+      "spotifySearch": "https://open.spotify.com/search/Knock%20Out%20Taiiku%20Okazaki"
     },
     {
       "title": "Hajime no Uta (ハジメノウタ)",
@@ -17515,90 +17533,6 @@
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Hajime%20no%20Uta%20DracoVirgo%20official",
       "spotifySearch": "https://open.spotify.com/search/Hajime%20no%20Uta%20DracoVirgo"
-    },
-    {
-      "title": "Knock Out",
-      "artist": "Taiiku Okazaki",
-      "animeId": 52211,
-      "anime": "Mashle",
-      "animeEnglish": "Mashle: Magic and Muscles",
-      "animeJapanese": "マッシュル-MASHLE-",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-52211",
-      "franchise": "Mashle",
-      "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
-      "source": "https://myanimelist.net/anime/52211/Mashle",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy",
-      "youtubeMusic": "https://music.youtube.com/watch?v=BD-UgaL5_pg&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/52211/Mashle",
-      "youtubeSource": "https://myanimelist.net/anime/52211/Mashle",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 52211,
-          "anime": "Mashle",
-          "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/52211/Mashle"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 387,
-      "id": "theme-28dde12170c473",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Knock%20Out%20Taiiku%20Okazaki%20official",
-      "spotifySearch": "https://open.spotify.com/search/Knock%20Out%20Taiiku%20Okazaki"
-    },
-    {
-      "title": "Fukahi (不可避)",
-      "artist": "SymaG",
-      "animeId": 44942,
-      "anime": "Shuumatsu no Walküre",
-      "animeEnglish": "Record of Ragnarok",
-      "animeJapanese": "終末のワルキューレ",
-      "animeItalian": "Record of Ragnarok",
-      "franchiseId": "mal-franchise-44942",
-      "franchise": "Shuumatsu no Walküre",
-      "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 2-12)",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1456/115123.jpg",
-      "source": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/2O52TRXeiOLW40jwmpODn9",
-      "youtubeMusic": "https://music.youtube.com/watch?v=gDktmqOXmgc&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre",
-      "youtubeSource": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre",
-      "format": "ONA",
-      "appearances": [
-        {
-          "animeId": 44942,
-          "anime": "Shuumatsu no Walküre",
-          "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 2-12)",
-          "source": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 388,
-      "id": "theme-2fc8d5ce9640e0",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Fukahi%20SymaG%20official",
-      "spotifySearch": "https://open.spotify.com/search/Fukahi%20SymaG"
     },
     {
       "title": "Naughty Love",
@@ -17644,12 +17578,96 @@
         "ED",
         "OP"
       ],
-      "rank": 389,
+      "rank": 387,
       "id": "theme-61d8237daf92fe",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Naughty%20Love%20Atena%20Saotome%20official",
       "spotifySearch": "https://open.spotify.com/search/Naughty%20Love%20Atena%20Saotome"
+    },
+    {
+      "title": "Fukahi (不可避)",
+      "artist": "SymaG",
+      "animeId": 44942,
+      "anime": "Shuumatsu no Walküre",
+      "animeEnglish": "Record of Ragnarok",
+      "animeJapanese": "終末のワルキューレ",
+      "animeItalian": "Record of Ragnarok",
+      "franchiseId": "mal-franchise-44942",
+      "franchise": "Shuumatsu no Walküre",
+      "kind": "ED",
+      "themeIndex": "2",
+      "episodes": "(eps 2-12)",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1456/115123.jpg",
+      "source": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/2O52TRXeiOLW40jwmpODn9",
+      "youtubeMusic": "https://music.youtube.com/watch?v=gDktmqOXmgc&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre",
+      "youtubeSource": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre",
+      "format": "ONA",
+      "appearances": [
+        {
+          "animeId": 44942,
+          "anime": "Shuumatsu no Walküre",
+          "kind": "ED",
+          "themeIndex": "2",
+          "episodes": "(eps 2-12)",
+          "source": "https://myanimelist.net/anime/44942/Shuumatsu_no_Walküre"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 388,
+      "id": "theme-2fc8d5ce9640e0",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Fukahi%20SymaG%20official",
+      "spotifySearch": "https://open.spotify.com/search/Fukahi%20SymaG"
+    },
+    {
+      "title": "共感されなくてもいいじゃない",
+      "artist": "Rie Takahashi",
+      "animeId": 49979,
+      "anime": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+      "animeEnglish": "I'm the Villainess, So I'm Taming the Final Boss",
+      "animeJapanese": "悪役令嬢なのでラスボスを飼ってみました",
+      "animeItalian": "I'm the Villainess, So I'm Taming the Final Boss",
+      "franchiseId": "mal-franchise-49979",
+      "franchise": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2022,
+      "cover": "https://cdn.myanimelist.net/images/anime/1648/126110.jpg",
+      "source": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/1WiNgf25GMxurtnGFYRe6F",
+      "youtubeMusic": "https://music.youtube.com/watch?v=sVmrVCt8p4U&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita",
+      "youtubeSource": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 49979,
+          "anime": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita"
+        }
+      ],
+      "kinds": [
+        "OP"
+      ],
+      "rank": 389,
+      "id": "theme-eff36a2e7c33e2",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=%E5%85%B1%E6%84%9F%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%20Rie%20Takahashi%20official",
+      "spotifySearch": "https://open.spotify.com/search/%E5%85%B1%E6%84%9F%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%20Rie%20Takahashi"
     },
     {
       "title": "Wareta Ringo (割れたリンゴ)",
@@ -17694,46 +17712,46 @@
       "spotifySearch": "https://open.spotify.com/search/Wareta%20Ringo%20Saki%20Watanabe"
     },
     {
-      "title": "共感されなくてもいいじゃない",
-      "artist": "Rie Takahashi",
-      "animeId": 49979,
-      "anime": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
-      "animeEnglish": "I'm the Villainess, So I'm Taming the Final Boss",
-      "animeJapanese": "悪役令嬢なのでラスボスを飼ってみました",
-      "animeItalian": "I'm the Villainess, So I'm Taming the Final Boss",
-      "franchiseId": "mal-franchise-49979",
-      "franchise": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+      "title": "ROAR",
+      "artist": "ulma sound junction",
+      "animeId": 51297,
+      "anime": "Ragna Crimson",
+      "animeEnglish": "",
+      "animeJapanese": "ラグナクリムゾン",
+      "animeItalian": "Ragna Crimson",
+      "franchiseId": "mal-franchise-51297",
+      "franchise": "Ragna Crimson",
       "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2022,
-      "cover": "https://cdn.myanimelist.net/images/anime/1648/126110.jpg",
-      "source": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita",
+      "themeIndex": "1",
+      "episodes": "(eps 1-12)",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1763/140359.jpg",
+      "source": "https://myanimelist.net/anime/51297/Ragna_Crimson",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/1WiNgf25GMxurtnGFYRe6F",
-      "youtubeMusic": "https://music.youtube.com/watch?v=sVmrVCt8p4U&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita",
-      "youtubeSource": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 49979,
-          "anime": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+          "animeId": 51297,
+          "anime": "Ragna Crimson",
           "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita"
+          "themeIndex": "1",
+          "episodes": "(eps 1-12)",
+          "source": "https://myanimelist.net/anime/51297/Ragna_Crimson"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 391,
-      "id": "theme-eff36a2e7c33e2",
+      "id": "theme-30bb99b2a0f51d",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=%E5%85%B1%E6%84%9F%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%20Rie%20Takahashi%20official",
-      "spotifySearch": "https://open.spotify.com/search/%E5%85%B1%E6%84%9F%E3%81%95%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%20Rie%20Takahashi"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=ROAR%20ulma%20sound%20junction%20official",
+      "spotifySearch": "https://open.spotify.com/search/ROAR%20ulma%20sound%20junction"
     },
     {
       "title": "Paranoid Android",
@@ -17778,48 +17796,6 @@
       "spotifySearch": "https://open.spotify.com/search/Paranoid%20Android%20Radiohead"
     },
     {
-      "title": "ROAR",
-      "artist": "ulma sound junction",
-      "animeId": 51297,
-      "anime": "Ragna Crimson",
-      "animeEnglish": "",
-      "animeJapanese": "ラグナクリムゾン",
-      "animeItalian": "Ragna Crimson",
-      "franchiseId": "mal-franchise-51297",
-      "franchise": "Ragna Crimson",
-      "kind": "OP",
-      "themeIndex": "1",
-      "episodes": "(eps 1-12)",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1763/140359.jpg",
-      "source": "https://myanimelist.net/anime/51297/Ragna_Crimson",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 51297,
-          "anime": "Ragna Crimson",
-          "kind": "OP",
-          "themeIndex": "1",
-          "episodes": "(eps 1-12)",
-          "source": "https://myanimelist.net/anime/51297/Ragna_Crimson"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 393,
-      "id": "theme-30bb99b2a0f51d",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=ROAR%20ulma%20sound%20junction%20official",
-      "spotifySearch": "https://open.spotify.com/search/ROAR%20ulma%20sound%20junction"
-    },
-    {
       "title": "HON-NO",
       "artist": "EMPiRE",
       "animeId": 43690,
@@ -17854,54 +17830,12 @@
       "kinds": [
         "OP"
       ],
-      "rank": 394,
+      "rank": 393,
       "id": "theme-721f160d4c541d",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=HON-NO%20EMPiRE%20official",
       "spotifySearch": "https://open.spotify.com/search/HON-NO%20EMPiRE"
-    },
-    {
-      "title": "OVERDRIVER",
-      "artist": "ZAQ",
-      "animeId": 23309,
-      "anime": "Rail Wars!",
-      "animeEnglish": "Rail Wars!",
-      "animeJapanese": "RAIL WARS! [レールウォーズ]",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-23309",
-      "franchise": "Rail Wars!",
-      "kind": "ED",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2014,
-      "cover": "https://cdn.myanimelist.net/images/anime/13/65671.jpg",
-      "source": "https://myanimelist.net/anime/23309/Rail_Wars",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/4rWKY3VhjwNPI6VwmWGbQV",
-      "youtubeMusic": "https://music.youtube.com/watch?v=0Scd3vjHPss&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/23309/Rail_Wars",
-      "youtubeSource": "https://myanimelist.net/anime/23309/Rail_Wars",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 23309,
-          "anime": "Rail Wars!",
-          "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/23309/Rail_Wars"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 395,
-      "id": "theme-f0110e0092989a",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=OVERDRIVER%20ZAQ%20official",
-      "spotifySearch": "https://open.spotify.com/search/OVERDRIVER%20ZAQ"
     },
     {
       "title": "Kimama na Tenshitachi (気ままな天使たち)",
@@ -17955,7 +17889,7 @@
         "ED",
         "OP"
       ],
-      "rank": 396,
+      "rank": 394,
       "id": "theme-f0ab99f5d2b35f",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
@@ -17963,46 +17897,46 @@
       "spotifySearch": "https://open.spotify.com/search/Kimama%20na%20Tenshitachi%20Wataten%E2%98%86Five"
     },
     {
-      "title": "Saiaku na hi demo Anata ga Suki",
-      "artist": "Yuu Serizawa",
-      "animeId": 37210,
-      "anime": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
-      "animeEnglish": "How Not to Summon a Demon Lord",
-      "animeJapanese": "異世界魔王と召喚少女の奴隷魔術",
+      "title": "OVERDRIVER",
+      "artist": "ZAQ",
+      "animeId": 23309,
+      "anime": "Rail Wars!",
+      "animeEnglish": "Rail Wars!",
+      "animeJapanese": "RAIL WARS! [レールウォーズ]",
       "animeItalian": "",
-      "franchiseId": "mal-franchise-37210",
-      "franchise": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "franchiseId": "mal-franchise-23309",
+      "franchise": "Rail Wars!",
       "kind": "ED",
-      "themeIndex": "1",
-      "episodes": "(eps 1-11)",
-      "year": 2018,
-      "cover": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg",
-      "source": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2014,
+      "cover": "https://cdn.myanimelist.net/images/anime/13/65671.jpg",
+      "source": "https://myanimelist.net/anime/23309/Rail_Wars",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/1JHX9MntUEeL7UgHDebsaV",
-      "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
-      "youtubeSource": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
+      "spotify": "https://open.spotify.com/track/4rWKY3VhjwNPI6VwmWGbQV",
+      "youtubeMusic": "https://music.youtube.com/watch?v=0Scd3vjHPss&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/23309/Rail_Wars",
+      "youtubeSource": "https://myanimelist.net/anime/23309/Rail_Wars",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 37210,
-          "anime": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+          "animeId": 23309,
+          "anime": "Rail Wars!",
           "kind": "ED",
-          "themeIndex": "1",
-          "episodes": "(eps 1-11)",
-          "source": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu"
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/23309/Rail_Wars"
         }
       ],
       "kinds": [
         "ED"
       ],
-      "rank": 397,
-      "id": "theme-72aae90b1c621c",
+      "rank": 395,
+      "id": "theme-f0110e0092989a",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Saiaku%20na%20hi%20demo%20Anata%20ga%20Suki%20Yuu%20Serizawa%20official",
-      "spotifySearch": "https://open.spotify.com/search/Saiaku%20na%20hi%20demo%20Anata%20ga%20Suki%20Yuu%20Serizawa"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=OVERDRIVER%20ZAQ%20official",
+      "spotifySearch": "https://open.spotify.com/search/OVERDRIVER%20ZAQ"
     },
     {
       "title": "Hajimari no Setsuna (はじまりのセツナ)",
@@ -18048,7 +17982,7 @@
         "ED",
         "OP"
       ],
-      "rank": 398,
+      "rank": 396,
       "id": "theme-15ce5665c5dfed",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
@@ -18056,8 +17990,50 @@
       "spotifySearch": "https://open.spotify.com/search/Hajimari%20no%20Setsuna%20Roubai%20Gakuen%20Chuutoubu%201-nen%203-gumi"
     },
     {
-      "title": "Asu wa Kuru kara (明日は来るから)",
-      "artist": "TVXQ",
+      "title": "Saiaku na hi demo Anata ga Suki",
+      "artist": "Yuu Serizawa",
+      "animeId": 37210,
+      "anime": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "animeEnglish": "How Not to Summon a Demon Lord",
+      "animeJapanese": "異世界魔王と召喚少女の奴隷魔術",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-37210",
+      "franchise": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+      "kind": "ED",
+      "themeIndex": "1",
+      "episodes": "(eps 1-11)",
+      "year": 2018,
+      "cover": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg",
+      "source": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/1JHX9MntUEeL7UgHDebsaV",
+      "youtubeMusic": "",
+      "spotifySource": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
+      "youtubeSource": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 37210,
+          "anime": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+          "kind": "ED",
+          "themeIndex": "1",
+          "episodes": "(eps 1-11)",
+          "source": "https://myanimelist.net/anime/37210/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 397,
+      "id": "theme-72aae90b1c621c",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Saiaku%20na%20hi%20demo%20Anata%20ga%20Suki%20Yuu%20Serizawa%20official",
+      "spotifySearch": "https://open.spotify.com/search/Saiaku%20na%20hi%20demo%20Anata%20ga%20Suki%20Yuu%20Serizawa"
+    },
+    {
+      "title": "Believe",
+      "artist": "Folder5",
       "animeId": 21,
       "anime": "One Piece",
       "animeEnglish": "One Piece",
@@ -18065,9 +18041,9 @@
       "animeItalian": "One Piece",
       "franchiseId": "mal-franchise-21",
       "franchise": "One Piece",
-      "kind": "ED",
-      "themeIndex": "18",
-      "episodes": "(eps 256-263)",
+      "kind": "OP",
+      "themeIndex": "2",
+      "episodes": "(eps 48-115)",
       "year": 1999,
       "cover": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
       "source": "https://myanimelist.net/anime/21/One_Piece",
@@ -18081,21 +18057,96 @@
         {
           "animeId": 21,
           "anime": "One Piece",
-          "kind": "ED",
-          "themeIndex": "18",
-          "episodes": "(eps 256-263)",
+          "kind": "OP",
+          "themeIndex": "2",
+          "episodes": "(eps 48-115)",
           "source": "https://myanimelist.net/anime/21/One_Piece"
+        },
+        {
+          "animeId": 460,
+          "anime": "One Piece Movie 02: Nejimaki-jima no Daibouken",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/460/One_Piece_Movie_02__Nejimaki-jima_no_Daibouken"
+        },
+        {
+          "animeId": 460,
+          "anime": "One Piece Movie 02: Nejimaki-jima no Daibouken",
+          "kind": "ED",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/460/One_Piece_Movie_02__Nejimaki-jima_no_Daibouken"
+        },
+        {
+          "animeId": 1094,
+          "anime": "One Piece: Umi no Heso no Daibouken-hen",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/1094/One_Piece__Umi_no_Heso_no_Daibouken-hen"
+        }
+      ],
+      "kinds": [
+        "ED",
+        "OP"
+      ],
+      "rank": 398,
+      "id": "theme-2f4f08d31c57c0",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Believe%20Folder5%20official",
+      "spotifySearch": "https://open.spotify.com/search/Believe%20Folder5"
+    },
+    {
+      "title": "Why, or why not",
+      "artist": "Hiroyuki Oshima feat. Rekka Katakiri",
+      "animeId": 934,
+      "anime": "Higurashi no Naku Koro ni",
+      "animeEnglish": "Higurashi: When They Cry",
+      "animeJapanese": "ひぐらしのなく頃に",
+      "animeItalian": "Higurashi no naku koro ni",
+      "franchiseId": "mal-franchise-934",
+      "franchise": "Higurashi no Naku Koro ni",
+      "kind": "ED",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2006,
+      "cover": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
+      "source": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 934,
+          "anime": "Higurashi no Naku Koro ni",
+          "kind": "ED",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni"
+        },
+        {
+          "animeId": 2899,
+          "anime": "Higurashi no Naku Koro ni Special: Nekogoroshi-hen",
+          "kind": "ED",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/2899/Higurashi_no_Naku_Koro_ni_Special__Nekogoroshi-hen"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 399,
-      "id": "theme-d6a2a8d3c5badc",
+      "id": "theme-754df401d95736",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Asu%20wa%20Kuru%20kara%20TVXQ%20official",
-      "spotifySearch": "https://open.spotify.com/search/Asu%20wa%20Kuru%20kara%20TVXQ"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Why%2C%20or%20why%20not%20Hiroyuki%20Oshima%20feat.%20Rekka%20Katakiri%20official",
+      "spotifySearch": "https://open.spotify.com/search/Why%2C%20or%20why%20not%20Hiroyuki%20Oshima%20feat.%20Rekka%20Katakiri"
     },
     {
       "title": "Now loading... SKY!!",
@@ -18216,58 +18267,8 @@
       "spotifySearch": "https://open.spotify.com/search/Sirius%20Eir%20Aoi"
     },
     {
-      "title": "Why, or why not",
-      "artist": "Hiroyuki Oshima feat. Rekka Katakiri",
-      "animeId": 934,
-      "anime": "Higurashi no Naku Koro ni",
-      "animeEnglish": "Higurashi: When They Cry",
-      "animeJapanese": "ひぐらしのなく頃に",
-      "animeItalian": "Higurashi no naku koro ni",
-      "franchiseId": "mal-franchise-934",
-      "franchise": "Higurashi no Naku Koro ni",
-      "kind": "ED",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2006,
-      "cover": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
-      "source": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 934,
-          "anime": "Higurashi no Naku Koro ni",
-          "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni"
-        },
-        {
-          "animeId": 2899,
-          "anime": "Higurashi no Naku Koro ni Special: Nekogoroshi-hen",
-          "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/2899/Higurashi_no_Naku_Koro_ni_Special__Nekogoroshi-hen"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 402,
-      "id": "theme-754df401d95736",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Why%2C%20or%20why%20not%20Hiroyuki%20Oshima%20feat.%20Rekka%20Katakiri%20official",
-      "spotifySearch": "https://open.spotify.com/search/Why%2C%20or%20why%20not%20Hiroyuki%20Oshima%20feat.%20Rekka%20Katakiri"
-    },
-    {
-      "title": "Glorious World",
-      "artist": "Shunichi Toki (土岐隼一)",
+      "title": "Never Fear",
+      "artist": "Mao Abe (阿部真央)",
       "animeId": 49612,
       "anime": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
       "animeEnglish": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
@@ -18275,15 +18276,15 @@
       "animeItalian": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
       "franchiseId": "mal-franchise-49612",
       "franchise": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
-      "kind": "OP",
+      "kind": "ED",
       "themeIndex": "",
       "episodes": "",
       "year": 2023,
       "cover": "https://cdn.myanimelist.net/images/anime/1446/131578.jpg",
       "source": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/6l5Wom2JA1pr1IgbJBByiT",
-      "youtubeMusic": "https://music.youtube.com/watch?v=OOSkTNHB6N8&feature=share",
+      "spotify": "https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks",
+      "youtubeMusic": "https://music.youtube.com/watch?v=MsKNLPqNO-4&feature=share",
       "spotifySource": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu",
       "youtubeSource": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu",
       "format": "TV",
@@ -18291,21 +18292,63 @@
         {
           "animeId": 49612,
           "anime": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
-          "kind": "OP",
+          "kind": "ED",
           "themeIndex": "",
           "episodes": "",
           "source": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu"
         }
       ],
       "kinds": [
+        "ED"
+      ],
+      "rank": 402,
+      "id": "theme-67158411fc6080",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Never%20Fear%20Mao%20Abe%20official",
+      "spotifySearch": "https://open.spotify.com/search/Never%20Fear%20Mao%20Abe"
+    },
+    {
+      "title": "Carnival",
+      "artist": "The Pillows",
+      "animeId": 227,
+      "anime": "FLCL",
+      "animeEnglish": "",
+      "animeJapanese": "",
+      "animeItalian": "",
+      "franchiseId": "anime-227",
+      "franchise": "FLCL",
+      "kind": "OP",
+      "themeIndex": "5",
+      "episodes": "(eps 6)",
+      "year": 2000,
+      "cover": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
+      "source": "https://myanimelist.net/anime/227/FLCL",
+      "sourceCheckedAt": "2026-10-22",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 227,
+          "anime": "FLCL",
+          "kind": "OP",
+          "themeIndex": "5",
+          "episodes": "(eps 6)",
+          "source": "https://myanimelist.net/anime/227/FLCL"
+        }
+      ],
+      "kinds": [
         "OP"
       ],
       "rank": 403,
-      "id": "theme-8ca15398fde8fe",
+      "id": "theme-3c031540b66df0",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Glorious%20World%20Shunichi%20Toki%20official",
-      "spotifySearch": "https://open.spotify.com/search/Glorious%20World%20Shunichi%20Toki"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Carnival%20The%20Pillows%20official",
+      "spotifySearch": "https://open.spotify.com/search/Carnival%20The%20Pillows"
     },
     {
       "title": "CHA∞IN",
@@ -18350,46 +18393,46 @@
       "spotifySearch": "https://open.spotify.com/search/CHA%E2%88%9EIN%20Maaya%20Uchida"
     },
     {
-      "title": "Carnival",
-      "artist": "The Pillows",
-      "animeId": 227,
-      "anime": "FLCL",
-      "animeEnglish": "",
-      "animeJapanese": "",
-      "animeItalian": "",
-      "franchiseId": "anime-227",
-      "franchise": "FLCL",
+      "title": "Akatsuki no Salaryman (暁のサラリーマン)",
+      "artist": "Yoshiki Fukuyama",
+      "animeId": 48997,
+      "anime": "Fantasy Bishoujo Juniku Ojisan to",
+      "animeEnglish": "Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout",
+      "animeJapanese": "異世界美少女受肉おじさんと",
+      "animeItalian": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+      "franchiseId": "mal-franchise-48997",
+      "franchise": "Fantasy Bishoujo Juniku Ojisan to",
       "kind": "OP",
-      "themeIndex": "5",
-      "episodes": "(eps 6)",
-      "year": 2000,
-      "cover": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
-      "source": "https://myanimelist.net/anime/227/FLCL",
-      "sourceCheckedAt": "2026-10-22",
-      "spotify": "",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2022,
+      "cover": "https://cdn.myanimelist.net/images/anime/1430/120065.jpg",
+      "source": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/3IYxuN6YIs68VXidPJZRfu",
       "youtubeMusic": "",
-      "spotifySource": "",
+      "spotifySource": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 227,
-          "anime": "FLCL",
+          "animeId": 48997,
+          "anime": "Fantasy Bishoujo Juniku Ojisan to",
           "kind": "OP",
-          "themeIndex": "5",
-          "episodes": "(eps 6)",
-          "source": "https://myanimelist.net/anime/227/FLCL"
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 405,
-      "id": "theme-3c031540b66df0",
+      "id": "theme-6f92be3085be7f",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Carnival%20The%20Pillows%20official",
-      "spotifySearch": "https://open.spotify.com/search/Carnival%20The%20Pillows"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Akatsuki%20no%20Salaryman%20Yoshiki%20Fukuyama%20official",
+      "spotifySearch": "https://open.spotify.com/search/Akatsuki%20no%20Salaryman%20Yoshiki%20Fukuyama"
     },
     {
       "title": "WINNER",
@@ -18432,90 +18475,6 @@
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=WINNER%20Shuugo%20Nakamura%20official",
       "spotifySearch": "https://open.spotify.com/search/WINNER%20Shuugo%20Nakamura"
-    },
-    {
-      "title": "Akatsuki no Salaryman (暁のサラリーマン)",
-      "artist": "Yoshiki Fukuyama",
-      "animeId": 48997,
-      "anime": "Fantasy Bishoujo Juniku Ojisan to",
-      "animeEnglish": "Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout",
-      "animeJapanese": "異世界美少女受肉おじさんと",
-      "animeItalian": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
-      "franchiseId": "mal-franchise-48997",
-      "franchise": "Fantasy Bishoujo Juniku Ojisan to",
-      "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2022,
-      "cover": "https://cdn.myanimelist.net/images/anime/1430/120065.jpg",
-      "source": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/3IYxuN6YIs68VXidPJZRfu",
-      "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 48997,
-          "anime": "Fantasy Bishoujo Juniku Ojisan to",
-          "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/48997/Fantasy_Bishoujo_Juniku_Ojisan_to"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 407,
-      "id": "theme-6f92be3085be7f",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Akatsuki%20no%20Salaryman%20Yoshiki%20Fukuyama%20official",
-      "spotifySearch": "https://open.spotify.com/search/Akatsuki%20no%20Salaryman%20Yoshiki%20Fukuyama"
-    },
-    {
-      "title": "Falling Through Starlight",
-      "artist": "Asami Seto",
-      "animeId": 35790,
-      "anime": "Tate no Yuusha no Nariagari",
-      "animeEnglish": "The Rising of the Shield Hero",
-      "animeJapanese": "盾の勇者の成り上がり",
-      "animeItalian": "The Rising of the Shield Hero",
-      "franchiseId": "mal-franchise-35790",
-      "franchise": "Tate no Yuusha no Nariagari",
-      "kind": "ED",
-      "themeIndex": "2",
-      "episodes": "(eps 4)",
-      "year": 2019,
-      "cover": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg",
-      "source": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/6FUTdasbZ23AIuIWfEekZ8",
-      "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 35790,
-          "anime": "Tate no Yuusha no Nariagari",
-          "kind": "ED",
-          "themeIndex": "2",
-          "episodes": "(eps 4)",
-          "source": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 408,
-      "id": "theme-dc705e0131c45c",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Falling%20Through%20Starlight%20Asami%20Seto%20official",
-      "spotifySearch": "https://open.spotify.com/search/Falling%20Through%20Starlight%20Asami%20Seto"
     },
     {
       "title": "Himitsu no Door kara Ai ni Kite (秘密の扉から会いにきて)",
@@ -18561,12 +18520,54 @@
         "ED",
         "OP"
       ],
-      "rank": 409,
+      "rank": 407,
       "id": "theme-53b682cc1faf07",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Himitsu%20no%20Door%20kara%20Ai%20ni%20Kite%20Yukari%20Tamura%20official",
       "spotifySearch": "https://open.spotify.com/search/Himitsu%20no%20Door%20kara%20Ai%20ni%20Kite%20Yukari%20Tamura"
+    },
+    {
+      "title": "Falling Through Starlight",
+      "artist": "Asami Seto",
+      "animeId": 35790,
+      "anime": "Tate no Yuusha no Nariagari",
+      "animeEnglish": "The Rising of the Shield Hero",
+      "animeJapanese": "盾の勇者の成り上がり",
+      "animeItalian": "The Rising of the Shield Hero",
+      "franchiseId": "mal-franchise-35790",
+      "franchise": "Tate no Yuusha no Nariagari",
+      "kind": "ED",
+      "themeIndex": "2",
+      "episodes": "(eps 4)",
+      "year": 2019,
+      "cover": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg",
+      "source": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/6FUTdasbZ23AIuIWfEekZ8",
+      "youtubeMusic": "",
+      "spotifySource": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 35790,
+          "anime": "Tate no Yuusha no Nariagari",
+          "kind": "ED",
+          "themeIndex": "2",
+          "episodes": "(eps 4)",
+          "source": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 408,
+      "id": "theme-dc705e0131c45c",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Falling%20Through%20Starlight%20Asami%20Seto%20official",
+      "spotifySearch": "https://open.spotify.com/search/Falling%20Through%20Starlight%20Asami%20Seto"
     },
     {
       "title": "アイウエ",
@@ -18603,54 +18604,12 @@
       "kinds": [
         "OP"
       ],
-      "rank": 410,
+      "rank": 409,
       "id": "theme-c59e06232db8ad",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%A8%20MAISONdes%20feat.%20Minami%20official",
       "spotifySearch": "https://open.spotify.com/search/%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%A8%20MAISONdes%20feat.%20Minami"
-    },
-    {
-      "title": "Distortion!!",
-      "artist": "Kessoku Band (結束バンド)",
-      "animeId": 47917,
-      "anime": "Bocchi the Rock!",
-      "animeEnglish": "Bocchi the Rock!",
-      "animeJapanese": "ぼっち・ざ・ろっく！",
-      "animeItalian": "BOCCHI THE ROCK!",
-      "franchiseId": "mal-franchise-47917",
-      "franchise": "Bocchi the Rock!",
-      "kind": "ED",
-      "themeIndex": "1",
-      "episodes": "(eps 1-3)",
-      "year": 2022,
-      "cover": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
-      "source": "https://myanimelist.net/anime/47917/Bocchi_the_Rock",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/5FwVziw6iZr778zD5e5HmK",
-      "youtubeMusic": "https://music.youtube.com/watch?v=R8d-d-PfASQ&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/47917/Bocchi_the_Rock",
-      "youtubeSource": "https://myanimelist.net/anime/47917/Bocchi_the_Rock",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 47917,
-          "anime": "Bocchi the Rock!",
-          "kind": "ED",
-          "themeIndex": "1",
-          "episodes": "(eps 1-3)",
-          "source": "https://myanimelist.net/anime/47917/Bocchi_the_Rock"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 411,
-      "id": "theme-328b2677c0be25",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Distortion%21%21%20Kessoku%20Band%20official",
-      "spotifySearch": "https://open.spotify.com/search/Distortion%21%21%20Kessoku%20Band"
     },
     {
       "title": "Period",
@@ -18687,7 +18646,7 @@
       "kinds": [
         "OP"
       ],
-      "rank": 412,
+      "rank": 410,
       "id": "theme-d7fb4a89c098b6",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
@@ -18695,46 +18654,46 @@
       "spotifySearch": "https://open.spotify.com/search/Period%20Chemistry"
     },
     {
-      "title": "kiss no Yukue (kissの行方)",
-      "artist": "Anna",
-      "animeId": 3455,
-      "anime": "To LOVE-Ru",
-      "animeEnglish": "To Love Ru",
-      "animeJapanese": "To LOVEる -とらぶる-",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-3455",
-      "franchise": "To LOVE-Ru",
+      "title": "Konpeki no Alpine ~Kaya Mizuki ver.~",
+      "artist": "Kaya Mizuki",
+      "animeId": 37105,
+      "anime": "Grand Blue",
+      "animeEnglish": "Grand Blue Dreaming",
+      "animeJapanese": "ぐらんぶる",
+      "animeItalian": "Grand Blue",
+      "franchiseId": "mal-franchise-37105",
+      "franchise": "Grand Blue",
       "kind": "ED",
       "themeIndex": "2",
-      "episodes": "(eps 14-25)",
-      "year": 2008,
-      "cover": "https://cdn.myanimelist.net/images/anime/1292/147431.jpg",
-      "source": "https://myanimelist.net/anime/3455/To_LOVE-Ru",
+      "episodes": "(eps 11)",
+      "year": 2018,
+      "cover": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+      "source": "https://myanimelist.net/anime/37105/Grand_Blue",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/1ahskQWsnILOl652I2z1pg",
-      "youtubeMusic": "https://music.youtube.com/watch?v=Ns-N5jr1Bdk&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/3455/To_LOVE-Ru",
-      "youtubeSource": "https://myanimelist.net/anime/3455/To_LOVE-Ru",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 3455,
-          "anime": "To LOVE-Ru",
+          "animeId": 37105,
+          "anime": "Grand Blue",
           "kind": "ED",
           "themeIndex": "2",
-          "episodes": "(eps 14-25)",
-          "source": "https://myanimelist.net/anime/3455/To_LOVE-Ru"
+          "episodes": "(eps 11)",
+          "source": "https://myanimelist.net/anime/37105/Grand_Blue"
         }
       ],
       "kinds": [
         "ED"
       ],
-      "rank": 413,
-      "id": "theme-2672d4faeec558",
+      "rank": 411,
+      "id": "theme-b7f7185ca164e1",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=kiss%20no%20Yukue%20Anna%20official",
-      "spotifySearch": "https://open.spotify.com/search/kiss%20no%20Yukue%20Anna"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Konpeki%20no%20Alpine%20~Kaya%20Mizuki%20ver.~%20Kaya%20Mizuki%20official",
+      "spotifySearch": "https://open.spotify.com/search/Konpeki%20no%20Alpine%20~Kaya%20Mizuki%20ver.~%20Kaya%20Mizuki"
     },
     {
       "title": "Bokura no Goal!",
@@ -18771,7 +18730,7 @@
       "kinds": [
         "OP"
       ],
-      "rank": 414,
+      "rank": 412,
       "id": "theme-f9c29f8a384030",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
@@ -18779,8 +18738,50 @@
       "spotifySearch": "https://open.spotify.com/search/Bokura%20no%20Goal%21%20T-Pistonz%2BKMC"
     },
     {
-      "title": "Yoru wo Koeru Ashioto (夜を越える足音)",
-      "artist": "Mitei no Hanashi (ミテイノハナシ)",
+      "title": "Distortion!!",
+      "artist": "Kessoku Band (結束バンド)",
+      "animeId": 47917,
+      "anime": "Bocchi the Rock!",
+      "animeEnglish": "Bocchi the Rock!",
+      "animeJapanese": "ぼっち・ざ・ろっく！",
+      "animeItalian": "BOCCHI THE ROCK!",
+      "franchiseId": "mal-franchise-47917",
+      "franchise": "Bocchi the Rock!",
+      "kind": "ED",
+      "themeIndex": "1",
+      "episodes": "(eps 1-3)",
+      "year": 2022,
+      "cover": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
+      "source": "https://myanimelist.net/anime/47917/Bocchi_the_Rock",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/5FwVziw6iZr778zD5e5HmK",
+      "youtubeMusic": "https://music.youtube.com/watch?v=R8d-d-PfASQ&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/47917/Bocchi_the_Rock",
+      "youtubeSource": "https://myanimelist.net/anime/47917/Bocchi_the_Rock",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 47917,
+          "anime": "Bocchi the Rock!",
+          "kind": "ED",
+          "themeIndex": "1",
+          "episodes": "(eps 1-3)",
+          "source": "https://myanimelist.net/anime/47917/Bocchi_the_Rock"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 413,
+      "id": "theme-328b2677c0be25",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Distortion%21%21%20Kessoku%20Band%20official",
+      "spotifySearch": "https://open.spotify.com/search/Distortion%21%21%20Kessoku%20Band"
+    },
+    {
+      "title": "Dark spiral journey",
+      "artist": "Q-MHz feat. Yuuko Suzuhana (鈴華ゆう子)",
       "animeId": 42627,
       "anime": "Peach Boy Riverside",
       "animeEnglish": "Peach Boy Riverside",
@@ -18788,14 +18789,14 @@
       "animeItalian": "Peach Boy Riverside",
       "franchiseId": "mal-franchise-42627",
       "franchise": "Peach Boy Riverside",
-      "kind": "ED",
+      "kind": "OP",
       "themeIndex": "",
       "episodes": "",
       "year": 2021,
       "cover": "https://cdn.myanimelist.net/images/anime/1535/115023.jpg",
       "source": "https://myanimelist.net/anime/42627/Peach_Boy_Riverside",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/2qzyRmRuv0yEJIjkaAM4PJ",
+      "spotify": "https://open.spotify.com/track/5AgTWm5A0fY3tkzLtBQs5a",
       "youtubeMusic": "",
       "spotifySource": "https://myanimelist.net/anime/42627/Peach_Boy_Riverside",
       "youtubeSource": "",
@@ -18804,21 +18805,63 @@
         {
           "animeId": 42627,
           "anime": "Peach Boy Riverside",
-          "kind": "ED",
+          "kind": "OP",
           "themeIndex": "",
           "episodes": "",
           "source": "https://myanimelist.net/anime/42627/Peach_Boy_Riverside"
         }
       ],
       "kinds": [
+        "OP"
+      ],
+      "rank": 414,
+      "id": "theme-487b17940faf8c",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Dark%20spiral%20journey%20Q-MHz%20feat.%20Yuuko%20Suzuhana%20official",
+      "spotifySearch": "https://open.spotify.com/search/Dark%20spiral%20journey%20Q-MHz%20feat.%20Yuuko%20Suzuhana"
+    },
+    {
+      "title": "kiss no Yukue (kissの行方)",
+      "artist": "Anna",
+      "animeId": 3455,
+      "anime": "To LOVE-Ru",
+      "animeEnglish": "To Love Ru",
+      "animeJapanese": "To LOVEる -とらぶる-",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-3455",
+      "franchise": "To LOVE-Ru",
+      "kind": "ED",
+      "themeIndex": "2",
+      "episodes": "(eps 14-25)",
+      "year": 2008,
+      "cover": "https://cdn.myanimelist.net/images/anime/1292/147431.jpg",
+      "source": "https://myanimelist.net/anime/3455/To_LOVE-Ru",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/1ahskQWsnILOl652I2z1pg",
+      "youtubeMusic": "https://music.youtube.com/watch?v=Ns-N5jr1Bdk&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/3455/To_LOVE-Ru",
+      "youtubeSource": "https://myanimelist.net/anime/3455/To_LOVE-Ru",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 3455,
+          "anime": "To LOVE-Ru",
+          "kind": "ED",
+          "themeIndex": "2",
+          "episodes": "(eps 14-25)",
+          "source": "https://myanimelist.net/anime/3455/To_LOVE-Ru"
+        }
+      ],
+      "kinds": [
         "ED"
       ],
       "rank": 415,
-      "id": "theme-47475029f908a9",
+      "id": "theme-2672d4faeec558",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Yoru%20wo%20Koeru%20Ashioto%20Mitei%20no%20Hanashi%20official",
-      "spotifySearch": "https://open.spotify.com/search/Yoru%20wo%20Koeru%20Ashioto%20Mitei%20no%20Hanashi"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=kiss%20no%20Yukue%20Anna%20official",
+      "spotifySearch": "https://open.spotify.com/search/kiss%20no%20Yukue%20Anna"
     },
     {
       "title": "Hana ni Natte (花になって)",
@@ -20399,46 +20442,46 @@
       "spotifySearch": "https://open.spotify.com/search/Feel%20Hitsujibungaku"
     },
     {
-      "title": "Hakone no Koufuku (箱庭の幸福)",
-      "artist": "Azusa Tadokoro",
-      "animeId": 48239,
-      "anime": "Leadale no Daichi nite",
-      "animeEnglish": "In the Land of Leadale",
-      "animeJapanese": "リアデイルの大地にて",
-      "animeItalian": "In the Land of Leadale",
-      "franchiseId": "mal-franchise-48239",
-      "franchise": "Leadale no Daichi nite",
+      "title": "Makogoro ni Kanade (真心に奏)",
+      "artist": "Shunichi Toki",
+      "animeId": 45055,
+      "anime": "Taishou Otome Otogibanashi",
+      "animeEnglish": "Taisho Otome Fairy Tale",
+      "animeJapanese": "大正オトメ御伽話",
+      "animeItalian": "Taishou Maiden Fairytale",
+      "franchiseId": "mal-franchise-45055",
+      "franchise": "Taishou Otome Otogibanashi",
       "kind": "ED",
       "themeIndex": "",
       "episodes": "",
-      "year": 2022,
-      "cover": "https://cdn.myanimelist.net/images/anime/1099/122005.jpg",
-      "source": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite",
+      "year": 2021,
+      "cover": "https://cdn.myanimelist.net/images/anime/1662/118849.jpg",
+      "source": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/1OCE0YptdrXn8h31fzkwT2",
-      "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite",
-      "youtubeSource": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite",
+      "spotify": "https://open.spotify.com/track/2CaAAwNPbQ5F27lG9wTRGU",
+      "youtubeMusic": "https://music.youtube.com/watch?v=LlSkhXQ4lv4&feature=share",
+      "spotifySource": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi",
+      "youtubeSource": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 48239,
-          "anime": "Leadale no Daichi nite",
+          "animeId": 45055,
+          "anime": "Taishou Otome Otogibanashi",
           "kind": "ED",
           "themeIndex": "",
           "episodes": "",
-          "source": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite"
+          "source": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi"
         }
       ],
       "kinds": [
         "ED"
       ],
       "rank": 452,
-      "id": "theme-cf6824a87352b8",
+      "id": "theme-ec82a26ae2c465",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Hakone%20no%20Koufuku%20Azusa%20Tadokoro%20official",
-      "spotifySearch": "https://open.spotify.com/search/Hakone%20no%20Koufuku%20Azusa%20Tadokoro"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Makogoro%20ni%20Kanade%20Shunichi%20Toki%20official",
+      "spotifySearch": "https://open.spotify.com/search/Makogoro%20ni%20Kanade%20Shunichi%20Toki"
     },
     {
       "title": "運命共同体！",
@@ -20483,8 +20526,50 @@
       "spotifySearch": "https://open.spotify.com/search/%E9%81%8B%E5%91%BD%E5%85%B1%E5%90%8C%E4%BD%93%EF%BC%81%20%E9%9F%B3%E8%8E%89%E9%A3%B4"
     },
     {
-      "title": "Mainichi Kashimashi Pharmacy (マイニチカシマシファーマシー)",
-      "artist": "Noera (Risae Matsuda) & Mina (Akane Kumada) with Reiji Kirio (Jun Fukushima)",
+      "title": "Hakone no Koufuku (箱庭の幸福)",
+      "artist": "Azusa Tadokoro",
+      "animeId": 48239,
+      "anime": "Leadale no Daichi nite",
+      "animeEnglish": "In the Land of Leadale",
+      "animeJapanese": "リアデイルの大地にて",
+      "animeItalian": "In the Land of Leadale",
+      "franchiseId": "mal-franchise-48239",
+      "franchise": "Leadale no Daichi nite",
+      "kind": "ED",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2022,
+      "cover": "https://cdn.myanimelist.net/images/anime/1099/122005.jpg",
+      "source": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "https://open.spotify.com/track/1OCE0YptdrXn8h31fzkwT2",
+      "youtubeMusic": "",
+      "spotifySource": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite",
+      "youtubeSource": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 48239,
+          "anime": "Leadale no Daichi nite",
+          "kind": "ED",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/48239/Leadale_no_Daichi_nite"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 454,
+      "id": "theme-cf6824a87352b8",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Hakone%20no%20Koufuku%20Azusa%20Tadokoro%20official",
+      "spotifySearch": "https://open.spotify.com/search/Hakone%20no%20Koufuku%20Azusa%20Tadokoro"
+    },
+    {
+      "title": "Kokoro Hayaru (ココロハヤル)",
+      "artist": "Akane Kumada",
       "animeId": 40960,
       "anime": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
       "animeEnglish": "Drug Store in Another World: The Slow Life of a Cheat Pharmacist",
@@ -20492,15 +20577,15 @@
       "animeItalian": "Drugstore in Another World: The Slow Life of a Cheat Pharmacist",
       "franchiseId": "mal-franchise-40960",
       "franchise": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-      "kind": "ED",
+      "kind": "OP",
       "themeIndex": "",
       "episodes": "",
       "year": 2021,
       "cover": "https://cdn.myanimelist.net/images/anime/1787/115817.jpg",
       "source": "https://myanimelist.net/anime/40960/Cheat_Kusushi_no_Slow_Life__Isekai_ni_Tsukurou_Drugstore",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/5CSC4c9N790EmfWfdoW4OF",
-      "youtubeMusic": "https://music.youtube.com/watch?v=lXOTf6bvSZ8&feature=share",
+      "spotify": "https://open.spotify.com/track/5wuqykH0KqXPvmdh3m5bXt",
+      "youtubeMusic": "https://music.youtube.com/watch?v=VyRUTyMhA7s&feature=share",
       "spotifySource": "https://myanimelist.net/anime/40960/Cheat_Kusushi_no_Slow_Life__Isekai_ni_Tsukurou_Drugstore",
       "youtubeSource": "https://myanimelist.net/anime/40960/Cheat_Kusushi_no_Slow_Life__Isekai_ni_Tsukurou_Drugstore",
       "format": "TV",
@@ -20508,21 +20593,63 @@
         {
           "animeId": 40960,
           "anime": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-          "kind": "ED",
+          "kind": "OP",
           "themeIndex": "",
           "episodes": "",
           "source": "https://myanimelist.net/anime/40960/Cheat_Kusushi_no_Slow_Life__Isekai_ni_Tsukurou_Drugstore"
         }
       ],
       "kinds": [
-        "ED"
+        "OP"
       ],
-      "rank": 454,
-      "id": "theme-6eed0294734e22",
+      "rank": 455,
+      "id": "theme-f4bf8d392cf21e",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Mainichi%20Kashimashi%20Pharmacy%20Noera%20official",
-      "spotifySearch": "https://open.spotify.com/search/Mainichi%20Kashimashi%20Pharmacy%20Noera"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Kokoro%20Hayaru%20Akane%20Kumada%20official",
+      "spotifySearch": "https://open.spotify.com/search/Kokoro%20Hayaru%20Akane%20Kumada"
+    },
+    {
+      "title": "Prayer",
+      "artist": "Who-ya Extended",
+      "animeId": 54362,
+      "anime": "Hametsu no Oukoku",
+      "animeEnglish": "The Kingdoms of Ruin",
+      "animeJapanese": "はめつのおうこく",
+      "animeItalian": "",
+      "franchiseId": "mal-franchise-54362",
+      "franchise": "Hametsu no Oukoku",
+      "kind": "ED",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2023,
+      "cover": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
+      "source": "https://myanimelist.net/anime/54362/Hametsu_no_Oukoku",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 54362,
+          "anime": "Hametsu no Oukoku",
+          "kind": "ED",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/54362/Hametsu_no_Oukoku"
+        }
+      ],
+      "kinds": [
+        "ED"
+      ],
+      "rank": 456,
+      "id": "theme-f4266cd73b26ad",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Prayer%20Who-ya%20Extended%20official",
+      "spotifySearch": "https://open.spotify.com/search/Prayer%20Who-ya%20Extended"
     },
     {
       "title": "Fight 4 Real",
@@ -20559,96 +20686,12 @@
       "kinds": [
         "OP"
       ],
-      "rank": 455,
+      "rank": 457,
       "id": "theme-bd8da359e61102",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Fight%204%20Real%20ALTIMA%20official",
       "spotifySearch": "https://open.spotify.com/search/Fight%204%20Real%20ALTIMA"
-    },
-    {
-      "title": "Keep Your Fire Burning",
-      "artist": "Mao Abe (阿部真央)",
-      "animeId": 51648,
-      "anime": "Nozomanu Fushi no Boukensha",
-      "animeEnglish": "The Unwanted Undead Adventurer",
-      "animeJapanese": "望まぬ不死の冒険者",
-      "animeItalian": "Nozomanu Fushi no Bôkensha",
-      "franchiseId": "mal-franchise-51648",
-      "franchise": "Nozomanu Fushi no Boukensha",
-      "kind": "ED",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2024,
-      "cover": "https://cdn.myanimelist.net/images/anime/1008/140287.jpg",
-      "source": "https://myanimelist.net/anime/51648/Nozomanu_Fushi_no_Boukensha",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 51648,
-          "anime": "Nozomanu Fushi no Boukensha",
-          "kind": "ED",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/51648/Nozomanu_Fushi_no_Boukensha"
-        }
-      ],
-      "kinds": [
-        "ED"
-      ],
-      "rank": 456,
-      "id": "theme-3e8a1288e04ed3",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Keep%20Your%20Fire%20Burning%20Mao%20Abe%20official",
-      "spotifySearch": "https://open.spotify.com/search/Keep%20Your%20Fire%20Burning%20Mao%20Abe"
-    },
-    {
-      "title": "Kieru made (消えるまで)",
-      "artist": "Hana Hope",
-      "animeId": 54362,
-      "anime": "Hametsu no Oukoku",
-      "animeEnglish": "The Kingdoms of Ruin",
-      "animeJapanese": "はめつのおうこく",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-54362",
-      "franchise": "Hametsu no Oukoku",
-      "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2023,
-      "cover": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
-      "source": "https://myanimelist.net/anime/54362/Hametsu_no_Oukoku",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
-      "youtubeMusic": "",
-      "spotifySource": "",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 54362,
-          "anime": "Hametsu no Oukoku",
-          "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/54362/Hametsu_no_Oukoku"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 457,
-      "id": "theme-b4a58f56390eac",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Kieru%20made%20Hana%20Hope%20official",
-      "spotifySearch": "https://open.spotify.com/search/Kieru%20made%20Hana%20Hope"
     },
     {
       "title": "Sentimental Crisis (センチメンタルクライシス)",
@@ -20693,6 +20736,48 @@
       "spotifySearch": "https://open.spotify.com/search/Sentimental%20Crisis%20halca"
     },
     {
+      "title": "IMMORTAL",
+      "artist": "JUVENILE",
+      "animeId": 51648,
+      "anime": "Nozomanu Fushi no Boukensha",
+      "animeEnglish": "The Unwanted Undead Adventurer",
+      "animeJapanese": "望まぬ不死の冒険者",
+      "animeItalian": "Nozomanu Fushi no Bôkensha",
+      "franchiseId": "mal-franchise-51648",
+      "franchise": "Nozomanu Fushi no Boukensha",
+      "kind": "OP",
+      "themeIndex": "",
+      "episodes": "",
+      "year": 2024,
+      "cover": "https://cdn.myanimelist.net/images/anime/1008/140287.jpg",
+      "source": "https://myanimelist.net/anime/51648/Nozomanu_Fushi_no_Boukensha",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
+      "youtubeMusic": "",
+      "spotifySource": "",
+      "youtubeSource": "",
+      "format": "TV",
+      "appearances": [
+        {
+          "animeId": 51648,
+          "anime": "Nozomanu Fushi no Boukensha",
+          "kind": "OP",
+          "themeIndex": "",
+          "episodes": "",
+          "source": "https://myanimelist.net/anime/51648/Nozomanu_Fushi_no_Boukensha"
+        }
+      ],
+      "kinds": [
+        "OP"
+      ],
+      "rank": 459,
+      "id": "theme-4b43c5e10e7379",
+      "youtubeOfficial": "",
+      "youtubeOfficialSource": "",
+      "youtubeSearch": "https://www.youtube.com/results?search_query=IMMORTAL%20JUVENILE%20official",
+      "spotifySearch": "https://open.spotify.com/search/IMMORTAL%20JUVENILE"
+    },
+    {
       "title": "Peace Sign (ピースサイン)",
       "artist": "Kenshi Yonezu",
       "animeId": 33486,
@@ -20735,54 +20820,12 @@
       "kinds": [
         "OP"
       ],
-      "rank": 459,
+      "rank": 460,
       "id": "theme-f626473024f79b",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
       "youtubeSearch": "https://www.youtube.com/results?search_query=Peace%20Sign%20Kenshi%20Yonezu%20official",
       "spotifySearch": "https://open.spotify.com/search/Peace%20Sign%20Kenshi%20Yonezu"
-    },
-    {
-      "title": " \"Kuchizuke\" (くちづけ)",
-      "artist": "Buck-Tick",
-      "animeId": 7724,
-      "anime": "Shiki",
-      "animeEnglish": "Shiki",
-      "animeJapanese": "屍鬼",
-      "animeItalian": "",
-      "franchiseId": "mal-franchise-7724",
-      "franchise": "Shiki",
-      "kind": "OP",
-      "themeIndex": "1",
-      "episodes": "(eps 1-11)",
-      "year": 2010,
-      "cover": "https://cdn.myanimelist.net/images/anime/1531/119165.jpg",
-      "source": "https://myanimelist.net/anime/7724/Shiki",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/7oTXRH7zzh00TAEmpGFOkZ",
-      "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/7724/Shiki",
-      "youtubeSource": "",
-      "format": "TV",
-      "appearances": [
-        {
-          "animeId": 7724,
-          "anime": "Shiki",
-          "kind": "OP",
-          "themeIndex": "1",
-          "episodes": "(eps 1-11)",
-          "source": "https://myanimelist.net/anime/7724/Shiki"
-        }
-      ],
-      "kinds": [
-        "OP"
-      ],
-      "rank": 460,
-      "id": "theme-33b282956741f2",
-      "youtubeOfficial": "",
-      "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=%20%22Kuchizuke%22%20Buck-Tick%20official",
-      "spotifySearch": "https://open.spotify.com/search/%20%22Kuchizuke%22%20Buck-Tick"
     },
     {
       "title": "可愛くって意地悪しちゃう",
@@ -20827,46 +20870,46 @@
       "spotifySearch": "https://open.spotify.com/search/%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A3%E3%81%A6%E6%84%8F%E5%9C%B0%E6%82%AA%E3%81%97%E3%81%A1%E3%82%83%E3%81%86%20Yurika%20Kubo"
     },
     {
-      "title": "Bitter end",
-      "artist": "Who-ya Extended",
-      "animeId": 59597,
-      "anime": "Witch Watch",
-      "animeEnglish": "Witch Watch",
-      "animeJapanese": "ウィッチウォッチ",
+      "title": "Kuchizuke (くちづけ)",
+      "artist": "Buck-Tick",
+      "animeId": 7724,
+      "anime": "Shiki",
+      "animeEnglish": "Shiki",
+      "animeJapanese": "屍鬼",
       "animeItalian": "",
-      "franchiseId": "mal-franchise-59597",
-      "franchise": "Witch Watch",
+      "franchiseId": "mal-franchise-7724",
+      "franchise": "Shiki",
       "kind": "OP",
-      "themeIndex": "3",
-      "episodes": "(eps 14,23)",
-      "year": 2025,
-      "cover": "https://cdn.myanimelist.net/images/anime/1526/150689.jpg",
-      "source": "https://myanimelist.net/anime/59597/Witch_Watch",
+      "themeIndex": "1",
+      "episodes": "(eps 1-11)",
+      "year": 2010,
+      "cover": "https://cdn.myanimelist.net/images/anime/1531/119165.jpg",
+      "source": "https://myanimelist.net/anime/7724/Shiki",
       "sourceCheckedAt": "2026-10-18",
-      "spotify": "",
+      "spotify": "https://open.spotify.com/track/7oTXRH7zzh00TAEmpGFOkZ",
       "youtubeMusic": "",
-      "spotifySource": "",
+      "spotifySource": "https://myanimelist.net/anime/7724/Shiki",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 59597,
-          "anime": "Witch Watch",
+          "animeId": 7724,
+          "anime": "Shiki",
           "kind": "OP",
-          "themeIndex": "3",
-          "episodes": "(eps 14,23)",
-          "source": "https://myanimelist.net/anime/59597/Witch_Watch"
+          "themeIndex": "1",
+          "episodes": "(eps 1-11)",
+          "source": "https://myanimelist.net/anime/7724/Shiki"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 462,
-      "id": "theme-5e7b064e84da52",
+      "id": "theme-33b282956741f2",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Bitter%20end%20Who-ya%20Extended%20official",
-      "spotifySearch": "https://open.spotify.com/search/Bitter%20end%20Who-ya%20Extended"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Kuchizuke%20Buck-Tick%20official",
+      "spotifySearch": "https://open.spotify.com/search/Kuchizuke%20Buck-Tick"
     },
     {
       "title": "Kanaeru (叶える)",
@@ -20911,46 +20954,46 @@
       "spotifySearch": "https://open.spotify.com/search/Kanaeru%20Sumire%20Morohoshi"
     },
     {
-      "title": "ambivalent world",
-      "artist": "Miyuki Sawashiro",
-      "animeId": 5081,
-      "anime": "Bakemonogatari",
-      "animeEnglish": "",
-      "animeJapanese": "",
+      "title": "Tokihanate! (ときはなて！)",
+      "artist": "Hashimero (はしメロ)",
+      "animeId": 59597,
+      "anime": "Witch Watch",
+      "animeEnglish": "Witch Watch",
+      "animeJapanese": "ウィッチウォッチ",
       "animeItalian": "",
-      "franchiseId": "anime-5081",
-      "franchise": "Bakemonogatari",
+      "franchiseId": "mal-franchise-59597",
+      "franchise": "Witch Watch",
       "kind": "OP",
-      "themeIndex": "3",
-      "episodes": "(eps TV Broadcast: 8, BD/DVD: 6-8)",
-      "year": 2009,
-      "cover": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
-      "source": "https://myanimelist.net/anime/5081/Bakemonogatari",
-      "sourceCheckedAt": "2026-10-22",
-      "spotify": "https://open.spotify.com/track/0S69HsaG6vp1QjrAN8deTw",
+      "themeIndex": "2",
+      "episodes": "(eps 13,15-22)",
+      "year": 2025,
+      "cover": "https://cdn.myanimelist.net/images/anime/1526/150689.jpg",
+      "source": "https://myanimelist.net/anime/59597/Witch_Watch",
+      "sourceCheckedAt": "2026-10-18",
+      "spotify": "",
       "youtubeMusic": "",
-      "spotifySource": "https://myanimelist.net/anime/5081/Bakemonogatari",
+      "spotifySource": "",
       "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 5081,
-          "anime": "Bakemonogatari",
+          "animeId": 59597,
+          "anime": "Witch Watch",
           "kind": "OP",
-          "themeIndex": "3",
-          "episodes": "(eps TV Broadcast: 8, BD/DVD: 6-8)",
-          "source": "https://myanimelist.net/anime/5081/Bakemonogatari"
+          "themeIndex": "2",
+          "episodes": "(eps 13,15-22)",
+          "source": "https://myanimelist.net/anime/59597/Witch_Watch"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 464,
-      "id": "theme-4c3f0e493ada34",
+      "id": "theme-d1494ed8be06fd",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=ambivalent%20world%20Miyuki%20Sawashiro%20official",
-      "spotifySearch": "https://open.spotify.com/search/ambivalent%20world%20Miyuki%20Sawashiro"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=Tokihanate%21%20Hashimero%20official",
+      "spotifySearch": "https://open.spotify.com/search/Tokihanate%21%20Hashimero"
     },
     {
       "title": "Destiny",
@@ -20995,46 +21038,46 @@
       "spotifySearch": "https://open.spotify.com/search/Destiny%20%EF%B8%80%EF%B8%80Ellie%20Goulding"
     },
     {
-      "title": "Otome no Kokoroe (オトメの心得) ",
-      "artist": "GARNiDELiA",
-      "animeId": 45055,
-      "anime": "Taishou Otome Otogibanashi",
-      "animeEnglish": "Taisho Otome Fairy Tale",
-      "animeJapanese": "大正オトメ御伽話",
-      "animeItalian": "Taishou Maiden Fairytale",
-      "franchiseId": "mal-franchise-45055",
-      "franchise": "Taishou Otome Otogibanashi",
+      "title": "ambivalent world",
+      "artist": "Miyuki Sawashiro",
+      "animeId": 5081,
+      "anime": "Bakemonogatari",
+      "animeEnglish": "",
+      "animeJapanese": "",
+      "animeItalian": "",
+      "franchiseId": "anime-5081",
+      "franchise": "Bakemonogatari",
       "kind": "OP",
-      "themeIndex": "",
-      "episodes": "",
-      "year": 2021,
-      "cover": "https://cdn.myanimelist.net/images/anime/1662/118849.jpg",
-      "source": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi",
-      "sourceCheckedAt": "2026-10-18",
-      "spotify": "https://open.spotify.com/track/3VlVicSANh9Rg1GPvcuPHM",
-      "youtubeMusic": "https://music.youtube.com/watch?v=OA3AzxXz1q4&feature=share",
-      "spotifySource": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi",
-      "youtubeSource": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi",
+      "themeIndex": "3",
+      "episodes": "(eps TV Broadcast: 8, BD/DVD: 6-8)",
+      "year": 2009,
+      "cover": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+      "source": "https://myanimelist.net/anime/5081/Bakemonogatari",
+      "sourceCheckedAt": "2026-10-22",
+      "spotify": "https://open.spotify.com/track/0S69HsaG6vp1QjrAN8deTw",
+      "youtubeMusic": "",
+      "spotifySource": "https://myanimelist.net/anime/5081/Bakemonogatari",
+      "youtubeSource": "",
       "format": "TV",
       "appearances": [
         {
-          "animeId": 45055,
-          "anime": "Taishou Otome Otogibanashi",
+          "animeId": 5081,
+          "anime": "Bakemonogatari",
           "kind": "OP",
-          "themeIndex": "",
-          "episodes": "",
-          "source": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi"
+          "themeIndex": "3",
+          "episodes": "(eps TV Broadcast: 8, BD/DVD: 6-8)",
+          "source": "https://myanimelist.net/anime/5081/Bakemonogatari"
         }
       ],
       "kinds": [
         "OP"
       ],
       "rank": 466,
-      "id": "theme-37fff9dad7bba6",
+      "id": "theme-4c3f0e493ada34",
       "youtubeOfficial": "",
       "youtubeOfficialSource": "",
-      "youtubeSearch": "https://www.youtube.com/results?search_query=Otome%20no%20Kokoroe%20GARNiDELiA%20official",
-      "spotifySearch": "https://open.spotify.com/search/Otome%20no%20Kokoroe%20GARNiDELiA"
+      "youtubeSearch": "https://www.youtube.com/results?search_query=ambivalent%20world%20Miyuki%20Sawashiro%20official",
+      "spotifySearch": "https://open.spotify.com/search/ambivalent%20world%20Miyuki%20Sawashiro"
     },
     {
       "title": "Tonari Au (トナリアウ)",
@@ -21879,7 +21922,7 @@
       "spotifySearch": "https://open.spotify.com/search/A%20Tender%20Moon%20Tempo%20Vivy"
     },
     {
-      "title": "Nounai (脳内) ",
+      "title": "Nounai (脳内)",
       "artist": "Lenny code fiction",
       "animeId": 38671,
       "anime": "Enen no Shouboutai",
