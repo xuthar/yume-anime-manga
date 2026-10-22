@@ -1,6 +1,6 @@
 const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
 const ctx={window:{},document:{readyState:'loading',addEventListener(){}},URL};vm.createContext(ctx);vm.runInContext(fs.readFileSync('jpop.js','utf8'),ctx);const api=ctx.window.YumeMusic;
-const expected={'aina-the-end':[36,115,3,0],ikimonogakari:[89,600,11,2],yoasobi:[64,132,0,2],milet:[38,184,4,0]};let releases=0,tracks=0;
+const expected={'aina-the-end':[36,115,3,0],ikimonogakari:[89,600,11,2],yoasobi:[64,132,0,2],milet:[38,184,4,0],ano:[29,78,2,0]};let releases=0,tracks=0;
 for(const [slug,[count,n,studio,members]] of Object.entries(expected)){
  const d=JSON.parse(fs.readFileSync(`data/jpop-${slug}.json`));assert.equal(d.albums.length,count);assert.equal(new Set(d.albums.map(a=>a.id)).size,count);assert.equal(d.members.length,members);assert.ok(api.safe(d.groupImage));assert.ok(fs.existsSync(d.groupImage));
  assert.equal(api.filter(d.albums,'studio','','all').length,studio);const videos=new Set(d.officialVideos.map(v=>v.url));let nt=0;
@@ -13,4 +13,6 @@ for(const [slug,[count,n,studio,members]] of Object.entries(expected)){
 }
 const yo=JSON.parse(fs.readFileSync('data/jpop-yoasobi.json'));assert.equal(yo.albums.filter(a=>a.title.startsWith('E-SIDE')).length,4);assert.equal(yo.albums.filter(a=>a.title.startsWith('THE BOOK')).length,4);
 const aina=JSON.parse(fs.readFileSync('data/jpop-aina-the-end.json'));assert.equal(aina.albums.filter(a=>a.kind==='project').length,1);assert.equal(aina.albums.find(a=>a.kind==='project').editions[0].discs[0].tracks.length,12);
-assert.equal(api.safe('assets/jpop/yoasobi/../../private.json'),'');assert.equal(api.safe('https://www.milet.jp.evil.test/a'),'');console.log(`OK: four artists, ${releases} releases, ${tracks} track entries, source/edition separation, filters and local portraits`);
+assert.equal(api.safe('assets/jpop/yoasobi/../../private.json'),'');assert.equal(api.safe('https://www.milet.jp.evil.test/a'),'');console.log(`OK: five artists, ${releases} releases, ${tracks} track entries, source/edition separation, filters and local portraits`);
+
+const ano=JSON.parse(fs.readFileSync("data/jpop-ano.json"));const debut=ano.albums.find(a=>a.id==="ano-nyang-nyang-oeeee");assert.deepEqual(debut.editions.map(e=>e.discs.reduce((n,d)=>n+d.tracks.length,0)),[18,17]);assert.equal(ano.albums.filter(a=>a.title.includes("Nyang Nyang")).length,1);assert.ok(fs.readFileSync("ano.html","utf8").includes("18 novembre 2026"));

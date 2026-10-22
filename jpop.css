@@ -17,3 +17,5 @@
 .music-yoasobi .music-hero h1{font-size:clamp(3rem,6vw,6.5rem)}
 .music-milet .music-hero img{object-position:center 30%}
 @media(max-width:650px){.music-duo{grid-template-columns:1fr}.music-aina-the-end .music-hero h1,.music-ikimonogakari .music-hero h1{font-size:clamp(2.4rem,9vw,4rem)}}
+
+.music-ano{--music-accent:#b2e2ff}.music-ano .music-spotlight{grid-template-columns:repeat(3,minmax(0,1fr))}.music-ano .music-hero>img{object-position:center 25%}@media(max-width:650px){.music-ano .music-spotlight{grid-template-columns:1fr}}

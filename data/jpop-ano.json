@@ -1,0 +1,1321 @@
+{
+  "artist": "ano",
+  "checkedAt": "2026-10-22",
+  "groupImage": "assets/jpop/ano/portrait.webp",
+  "members": [],
+  "spotlight": [
+    {
+      "title": "ちゅ、多様性。 · Chu, Tayousei.",
+      "id": "-lec--FlSJ4",
+      "source": "https://www.youtube.com/watch?v=-lec--FlSJ4",
+      "url": "https://www.youtube.com/watch?v=-lec--FlSJ4"
+    },
+    {
+      "title": "ハッピーラッキーチャッピー · Happy Lucky Chappy",
+      "id": "s7FgdaGOw9s",
+      "source": "https://www.toysfactory.co.jp/artist/ano/news/detail/6573",
+      "url": "https://www.youtube.com/watch?v=s7FgdaGOw9s"
+    },
+    {
+      "title": "キライのちスキ！ · From Hate to Love",
+      "id": "GGQsVQqFkl0",
+      "source": "https://www.toysfactory.co.jp/artist/ano",
+      "url": "https://www.youtube.com/watch?v=GGQsVQqFkl0"
+    }
+  ],
+  "officialVideos": [
+    {
+      "title": "ちゅ、多様性。 · Chu, Tayousei.",
+      "id": "-lec--FlSJ4",
+      "source": "https://www.youtube.com/watch?v=-lec--FlSJ4",
+      "url": "https://www.youtube.com/watch?v=-lec--FlSJ4"
+    },
+    {
+      "title": "ハッピーラッキーチャッピー · Happy Lucky Chappy",
+      "id": "s7FgdaGOw9s",
+      "source": "https://www.toysfactory.co.jp/artist/ano/news/detail/6573",
+      "url": "https://www.youtube.com/watch?v=s7FgdaGOw9s"
+    },
+    {
+      "title": "キライのちスキ！ · From Hate to Love",
+      "id": "GGQsVQqFkl0",
+      "source": "https://www.toysfactory.co.jp/artist/ano",
+      "url": "https://www.youtube.com/watch?v=GGQsVQqFkl0"
+    }
+  ],
+  "albums": [
+    {
+      "id": "ano-1530006897",
+      "title": "デリート - Single",
+      "date": "2020-09-04",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%87%E3%83%AA%E3%83%BC%E3%83%88-single/1530006897?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/b0/8e/7fb08e66-a0ac-d978-eaa2-51e0eaa50e15/859756118282_cover.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "デリート",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%87%E3%83%AA%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%87%E3%83%AA%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1542958542",
+      "title": "Peek a Boo - Single",
+      "date": "2020-12-16",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/peek-a-boo-single/1542958542?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/15/d9/35/15d935c9-a55c-199a-30d7-4d4633c5bcd9/859756381242_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Peek a boo",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20Peek%20a%20boo%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20Peek%20a%20boo",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1552218168",
+      "title": "Sweetside Suicide - Single",
+      "date": "2021-02-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/sweetside-suicide-single/1552218168?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/5a/32/0a5a328a-8679-c8fa-8da5-6af673b4d954/859756592358_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "SWEETSIDE SUICIDE",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20SWEETSIDE%20SUICIDE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20SWEETSIDE%20SUICIDE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1575674287",
+      "title": "F Wonderful World - Single",
+      "date": "2021-08-04",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/f-wonderful-world-single/1575674287?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/89/c7/fe89c79a-b413-96ea-9b25-4f4cbac9aeb5/TFDS-00698WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "F Wonderful World",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20F%20Wonderful%20World%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20F%20Wonderful%20World",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1582563986",
+      "title": "Apathy - Single",
+      "date": "2021-09-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/apathy-single/1582563986?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2c/df/f52cdf44-6c10-a388-862a-90ac748c09ea/TFDS-00706WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "アパシー",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1585783794",
+      "title": "Zettai Koakuma Koode - Single",
+      "date": "2021-10-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/zettai-koakuma-koode-single/1585783794?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b0/3e/6b/b03e6b83-e089-c301-1de4-7ab8826bf747/TFDS-00716WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "絶対小悪魔コーデ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%B5%B6%E5%AF%BE%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%B3%E3%83%BC%E3%83%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%B5%B6%E5%AF%BE%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%B3%E3%83%BC%E3%83%87",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887502145",
+      "title": "Aida - Single",
+      "date": "2022-04-08",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/aida-single/1887502145?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/18/6e/40186e78-7920-8a2f-bb9c-52acfd3e4d09/TFDS-00766WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "AIDA",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20AIDA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20AIDA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887734273",
+      "title": "Fuhen - Single",
+      "date": "2022-10-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/fuhen-single/1887734273?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/89/18/a3891801-3a58-ce98-410c-903687436cc6/TFDS-00811WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "普変",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%99%AE%E5%A4%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%99%AE%E5%A4%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887736832",
+      "title": "Chu,Tayousei. - Single",
+      "date": "2022-11-23",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/chu-tayousei-single/1887736832?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/e0/92/19e09201-fb61-eacb-bb50-faa0e5dcb46b/TFDS-00841WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ちゅ、多様性。",
+                  "youtube": "https://www.youtube.com/watch?v=-lec--FlSJ4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%81%A1%E3%82%85%E3%80%81%E5%A4%9A%E6%A7%98%E6%80%A7%E3%80%82",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887742417",
+      "title": "Neetneves - Single",
+      "date": "2022-12-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/neetneves-single/1887742417?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/94/7c/bb947c72-6b2f-6354-d727-99e6518bd3b5/TFDS-00846WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ンーィテンブセ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%B3%E3%83%BC%E3%82%A3%E3%83%86%E3%83%B3%E3%83%96%E3%82%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%B3%E3%83%BC%E3%82%A3%E3%83%86%E3%83%B3%E3%83%96%E3%82%BB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887744452",
+      "title": "Smile Agenai - Single",
+      "date": "2023-06-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/smile-agenai-single/1887744452?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/32/a7/4032a717-1c72-61cf-1579-ab7922937c8c/TFDS-00914WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "スマイルあげない",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887773956",
+      "title": "Namidakun,kyoumoohayou - Single",
+      "date": "2023-10-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/namidakun-kyoumoohayou-single/1887773956?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/74/b3/e774b390-1a9d-5aa0-e1ad-2e305330ce36/TFDS-00955WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "涙くん、今日もおはようっ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%B6%99%E3%81%8F%E3%82%93%E3%80%81%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%B6%99%E3%81%8F%E3%82%93%E3%80%81%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%A3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-nyang-nyang-oeeee",
+      "title": "猫猫吐吐 · Nyang Nyang Oeeee",
+      "date": "2023-12-13",
+      "kind": "studio",
+      "note": "Un unico album, distribuito digitalmente in due parti. La versione digitale aggiunge 猫吐序曲 all’inizio del primo disco (18 brani complessivi); il 2CD ufficiale ne elenca 17. Le due scalette sono selezionabili e restano distinte dai bonus video.",
+      "source": "https://ano-official.com/discography/detail/6614/",
+      "trackSource": "https://music.apple.com/jp/album/nyang-nyang-oeeee-nyang-nyang/1887778752?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale · 猫猫 + 吐吐 · 18 brani",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/57/d9/7457d9b0-5c39-b676-1dd4-11d6a0f7dbd2/TFCC-81059WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "猫猫 · Nyang Nyang",
+              "tracks": [
+                {
+                  "title": "猫吐序曲",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%8C%AB%E5%90%90%E5%BA%8F%E6%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%8C%AB%E5%90%90%E5%BA%8F%E6%9B%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "猫吐極楽音頭",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%8C%AB%E5%90%90%E6%A5%B5%E6%A5%BD%E9%9F%B3%E9%A0%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%8C%AB%E5%90%90%E6%A5%B5%E6%A5%BD%E9%9F%B3%E9%A0%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ちゅ、多様性。",
+                  "youtube": "https://www.youtube.com/watch?v=-lec--FlSJ4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%81%A1%E3%82%85%E3%80%81%E5%A4%9A%E6%A7%98%E6%80%A7%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "涙くん、今日もおはようっ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%B6%99%E3%81%8F%E3%82%93%E3%80%81%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%B6%99%E3%81%8F%E3%82%93%E3%80%81%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "普変",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%99%AE%E5%A4%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%99%AE%E5%A4%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "AIDA",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20AIDA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20AIDA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コミュ賞センセーション",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%B3%E3%83%9F%E3%83%A5%E8%B3%9E%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%B3%E3%83%9F%E3%83%A5%E8%B3%9E%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スマイルあげない",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Tell Me Why",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20Tell%20Me%20Why%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20Tell%20Me%20Why",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ンーィテンブセ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%B3%E3%83%BC%E3%82%A3%E3%83%86%E3%83%B3%E3%83%96%E3%82%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%B3%E3%83%BC%E3%82%A3%E3%83%86%E3%83%B3%E3%83%96%E3%82%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "鯨の骨",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E9%AF%A8%E3%81%AE%E9%AA%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E9%AF%A8%E3%81%AE%E9%AA%A8",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "吐吐 · Oeeee",
+              "tracks": [
+                {
+                  "title": "デリート",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%87%E3%83%AA%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%87%E3%83%AA%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Peek a boo",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20Peek%20a%20boo%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20Peek%20a%20boo",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SWEETSIDE SUICIDE",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20SWEETSIDE%20SUICIDE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20SWEETSIDE%20SUICIDE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アパシー",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "絶対小悪魔コーデ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%B5%B6%E5%AF%BE%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%B3%E3%83%BC%E3%83%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%B5%B6%E5%AF%BE%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%B3%E3%83%BC%E3%83%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "F Wonderful World",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20F%20Wonderful%20World%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20F%20Wonderful%20World",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イート・スリープ・エスケープ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%A4%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%A4%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "2CD ufficiale · 17 brani",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/57/d9/7457d9b0-5c39-b676-1dd4-11d6a0f7dbd2/TFCC-81059WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "CD 1 · 猫猫",
+              "tracks": [
+                {
+                  "title": "猫吐極楽音頭",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%8C%AB%E5%90%90%E6%A5%B5%E6%A5%BD%E9%9F%B3%E9%A0%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%8C%AB%E5%90%90%E6%A5%B5%E6%A5%BD%E9%9F%B3%E9%A0%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ちゅ、多様性。",
+                  "youtube": "https://www.youtube.com/watch?v=-lec--FlSJ4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%81%A1%E3%82%85%E3%80%81%E5%A4%9A%E6%A7%98%E6%80%A7%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "涙くん、今日もおはようっ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%B6%99%E3%81%8F%E3%82%93%E3%80%81%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%B6%99%E3%81%8F%E3%82%93%E3%80%81%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "普変",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%99%AE%E5%A4%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%99%AE%E5%A4%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "AIDA",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20AIDA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20AIDA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コミュ賞センセーション",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%B3%E3%83%9F%E3%83%A5%E8%B3%9E%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%B3%E3%83%9F%E3%83%A5%E8%B3%9E%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スマイルあげない",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%82%E3%81%92%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Tell Me Why",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20Tell%20Me%20Why%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20Tell%20Me%20Why",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ンーィテンブセ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%B3%E3%83%BC%E3%82%A3%E3%83%86%E3%83%B3%E3%83%96%E3%82%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%B3%E3%83%BC%E3%82%A3%E3%83%86%E3%83%B3%E3%83%96%E3%82%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "鯨の骨",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E9%AF%A8%E3%81%AE%E9%AA%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E9%AF%A8%E3%81%AE%E9%AA%A8",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "CD 2 · 吐吐",
+              "tracks": [
+                {
+                  "title": "デリート",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%87%E3%83%AA%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%87%E3%83%AA%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Peek a boo",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20Peek%20a%20boo%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20Peek%20a%20boo",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SWEETSIDE SUICIDE",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20SWEETSIDE%20SUICIDE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20SWEETSIDE%20SUICIDE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アパシー",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "絶対小悪魔コーデ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%B5%B6%E5%AF%BE%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%B3%E3%83%BC%E3%83%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%B5%B6%E5%AF%BE%E5%B0%8F%E6%82%AA%E9%AD%94%E3%82%B3%E3%83%BC%E3%83%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "F Wonderful World",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20F%20Wonderful%20World%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20F%20Wonderful%20World",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イート・スリープ・エスケープ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%82%A4%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%A4%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887797749",
+      "title": "You&I Heaven - Single",
+      "date": "2024-01-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/you-i-heaven-single/1887797749?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/01/d5/ae01d561-a7b1-b3c1-0125-a2efc1fb6fae/TFDS-00988WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "YOU&愛Heaven",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20YOU%26%E6%84%9BHeaven%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20YOU%26%E6%84%9BHeaven",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1888081424",
+      "title": "Zezezezettai Seiiki",
+      "date": "2024-03-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/zezezezettai-seiiki/1888081424?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/40/fe/8d40fe5e-b724-dd3b-3ddd-202189c492ff/TFDS-01013WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "絶絶絶絶対聖域 (feat. 幾田りら)",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%B5%B6%E7%B5%B6%E7%B5%B6%E7%B5%B6%E5%AF%BE%E8%81%96%E5%9F%9F%20%28feat.%20%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%B5%B6%E7%B5%B6%E7%B5%B6%E7%B5%B6%E5%AF%BE%E8%81%96%E5%9F%9F%20%28feat.%20%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1888099164",
+      "title": "From The First Take - Single",
+      "date": "2024-04-20",
+      "kind": "live",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire. Sessioni THE FIRST TAKE: non è un album di concerto.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/from-the-first-take-single/1888099164?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/e3/89/51e389f5-f1c1-70ee-6c43-54b60ae5086c/TFJC-38132WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ちゅ、多様性。- From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%81%A1%E3%82%85%E3%80%81%E5%A4%9A%E6%A7%98%E6%80%A7%E3%80%82-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%81%A1%E3%82%85%E3%80%81%E5%A4%9A%E6%A7%98%E6%80%A7%E3%80%82-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "普変 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%99%AE%E5%A4%89%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%99%AE%E5%A4%89%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889419955",
+      "title": "Aishiteru Nantene - Single",
+      "date": "2024-08-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/aishiteru-nantene-single/1889419955?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/1a/8f/fa1a8f7e-ed6a-e4b3-6600-3df28964ccf1/TFDS-01074WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "愛してる、なんてね。",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%80%81%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AD%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%80%81%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AD%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛してる、なんてね。 [Unplugged]",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%80%81%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AD%E3%80%82%20%5BUnplugged%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%80%81%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AD%E3%80%82%20%5BUnplugged%5D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889428217",
+      "title": "Shakai No Mado - Single",
+      "date": "2024-08-28",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/shakai-no-mado-single/1889428217?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/ec/93/75ec939d-20df-8c1b-b4a7-567aa37edb98/TFDS-01077WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "社会の窓",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%A4%BE%E4%BC%9A%E3%81%AE%E7%AA%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%A4%BE%E4%BC%9A%E3%81%AE%E7%AA%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889735427",
+      "title": "Iinazukkyun - Single",
+      "date": "2024-10-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/iinazukkyun-single/1889735427?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/df/67/6fdf6783-678f-9396-a577-5ab4a91f8c7f/TFDS-01101WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "許婚っきゅん",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E8%A8%B1%E5%A9%9A%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E8%A8%B1%E5%A9%9A%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1777375740",
+      "title": "Shinsekai Yori - Single",
+      "date": "2024-11-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/shinsekai-yori-single/1777375740?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/2e/95/5e2e9593-297d-7086-e089-48247640b53a/COKM-45462.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "SHINSEKAIより",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20SHINSEKAI%E3%82%88%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20SHINSEKAI%E3%82%88%E3%82%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889736060",
+      "title": "Just The Two Of Us In This World - Single",
+      "date": "2025-02-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/just-the-two-of-us-in-this-world-single/1889736060?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/24/fa/e124fa5d-0b4a-3f7e-0a8c-8bcad63c4ed8/TFDS-01136WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "この世界に二人だけ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E4%BA%8C%E4%BA%BA%E3%81%A0%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E4%BA%8C%E4%BA%BA%E3%81%A0%E3%81%91",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889737638",
+      "title": "LoliRockyunRobo♡ - Single",
+      "date": "2025-04-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/lolirockyunrobo-single/1889737638?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/85/94/358594d5-8a4d-2237-4e0e-91f52c97087d/TFDS-01180WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ロりロっきゅんロぼ♡",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%AD%E3%82%8A%E3%83%AD%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%E3%83%AD%E3%81%BC%E2%99%A1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%AD%E3%82%8A%E3%83%AD%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%E3%83%AD%E3%81%BC%E2%99%A1",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889741246",
+      "title": "BONE BORN BOMB",
+      "date": "2025-06-04",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/detail/6626/",
+      "trackSource": "https://music.apple.com/jp/album/bone-born-bomb/1889741246?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/0d/70/3a0d70c3-67f7-5b44-bc3a-ba4db331d347/TFCC-81148WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "絶絶絶絶対聖域 (feat. 幾田りら)",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%B5%B6%E7%B5%B6%E7%B5%B6%E7%B5%B6%E5%AF%BE%E8%81%96%E5%9F%9F%20%28feat.%20%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%B5%B6%E7%B5%B6%E7%B5%B6%E7%B5%B6%E5%AF%BE%E8%81%96%E5%9F%9F%20%28feat.%20%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Bubble Me Face",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20Bubble%20Me%20Face%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20Bubble%20Me%20Face",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "骨バキ☆ゆうぐれダイアリー",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E9%AA%A8%E3%83%90%E3%82%AD%E2%98%86%E3%82%86%E3%81%86%E3%81%90%E3%82%8C%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E9%AA%A8%E3%83%90%E3%82%AD%E2%98%86%E3%82%86%E3%81%86%E3%81%90%E3%82%8C%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ロりロっきゅんロぼ♡",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%AD%E3%82%8A%E3%83%AD%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%E3%83%AD%E3%81%BC%E2%99%A1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%AD%E3%82%8A%E3%83%AD%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%E3%83%AD%E3%81%BC%E2%99%A1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "許婚っきゅん",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E8%A8%B1%E5%A9%9A%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E8%A8%B1%E5%A9%9A%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛してる、なんてね。",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%80%81%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AD%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%80%81%E3%81%AA%E3%82%93%E3%81%A6%E3%81%AD%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "この世界に二人だけ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E4%BA%8C%E4%BA%BA%E3%81%A0%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E4%BA%8C%E4%BA%BA%E3%81%A0%E3%81%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "swim in 睡眠Tokyo",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20swim%20in%20%E7%9D%A1%E7%9C%A0Tokyo%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20swim%20in%20%E7%9D%A1%E7%9C%A0Tokyo",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "社会の窓",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E7%A4%BE%E4%BC%9A%E3%81%AE%E7%AA%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E7%A4%BE%E4%BC%9A%E3%81%AE%E7%AA%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハッピーラッキーチャッピー",
+                  "youtube": "https://www.youtube.com/watch?v=s7FgdaGOw9s",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%83%81%E3%83%A3%E3%83%83%E3%83%94%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YOU&愛Heaven",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20YOU%26%E6%84%9BHeaven%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20YOU%26%E6%84%9BHeaven",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Past die Future",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20Past%20die%20Future%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20Past%20die%20Future",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889741220",
+      "title": "Put A Curse, Make The Phantom Disappear - Single",
+      "date": "2025-09-04",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/put-a-curse-make-the-phantom-disappear-single/1889741220?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/ec/0c/d8ec0ce6-fe17-12d7-fd5c-365d086e53e2/TFDS-01244WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "KILL LOVE",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20KILL%20LOVE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20KILL%20LOVE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミッドナイト全部大丈夫",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E5%85%A8%E9%83%A8%E5%A4%A7%E4%B8%88%E5%A4%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E5%85%A8%E9%83%A8%E5%A4%A7%E4%B8%88%E5%A4%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1889745514",
+      "title": "Picaresque Hero - Single",
+      "date": "2026-01-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/picaresque-hero-single/1889745514?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/b7/7e/2db77e26-b448-8cb2-8c7c-7287330054b4/TFDS-01281WW.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ピカレスクヒーロー",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%94%E3%82%AB%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%94%E3%82%AB%E3%83%AC%E3%82%B9%E3%82%AF%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-1887434842",
+      "title": "Love Dinner - Single",
+      "date": "2026-04-08",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/love-dinner-single/1887434842?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/e5/f0/d9e5f086-8ee0-4493-7205-e81ebecdaf61/TFDS-01328.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "愛晩餐",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E6%84%9B%E6%99%A9%E9%A4%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E6%84%9B%E6%99%A9%E9%A4%90",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-6771592400",
+      "title": "Destiny Lent Out/KERORO MARCH RETURNS - Single",
+      "date": "2026-06-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/destiny-lent-out-keroro-march-returns-single/6771592400?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/ad/a6/88ada6a2-9a6c-e241-67a6-3137c06edf99/TFDS-01355.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "貸しっぱなしデスティニー",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E8%B2%B8%E3%81%97%E3%81%A3%E3%81%B1%E3%81%AA%E3%81%97%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E8%B2%B8%E3%81%97%E3%81%A3%E3%81%B1%E3%81%AA%E3%81%97%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "また帰ってきたケロッ!とマーチ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%81%BE%E3%81%9F%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B1%E3%83%AD%E3%83%83%21%E3%81%A8%E3%83%9E%E3%83%BC%E3%83%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%81%BE%E3%81%9F%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B1%E3%83%AD%E3%83%83%21%E3%81%A8%E3%83%9E%E3%83%BC%E3%83%81",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-6801408481",
+      "title": "Dive Into Love - Single",
+      "date": "2026-09-05",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/dive-into-love-single/6801408481?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/f9/fd/2df9fdf0-5b59-f2d7-5032-4e25129ffe98/TFDS-01407.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ラブにダイブ",
+                  "youtube": "https://www.youtube.com/results?search_query=ano%20%E3%83%A9%E3%83%96%E3%81%AB%E3%83%80%E3%82%A4%E3%83%96%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%83%A9%E3%83%96%E3%81%AB%E3%83%80%E3%82%A4%E3%83%96",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ano-6808575329",
+      "title": "キライのちスキ! - Single",
+      "date": "2026-10-07",
+      "kind": "single",
+      "note": "Edizione digitale giapponese; titolo dell’edizione riportato dal servizio. Le confezioni fisiche e i contenuti video possono differire.",
+      "source": "https://ano-official.com/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%A9%E3%82%A4%E3%81%AE%E3%81%A1%E3%82%B9%E3%82%AD-single/6808575329?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/6c/bc/cf6cbcd3-358c-54e7-0b5d-61b86c2e9ca3/4275929.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "キライのちスキ!",
+                  "youtube": "https://www.youtube.com/watch?v=GGQsVQqFkl0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ano%20%E3%82%AD%E3%83%A9%E3%82%A4%E3%81%AE%E3%81%A1%E3%82%B9%E3%82%AD%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Profilo e fotografia ufficiale",
+      "url": "https://ano-official.com/news/2/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://ano-official.com/discography/"
+    },
+    {
+      "label": "猫猫吐吐 · confezioni e scalette ufficiali",
+      "url": "https://ano-official.com/discography/detail/6614/"
+    },
+    {
+      "label": "猫猫吐吐 · seconda parte digitale (吐吐)",
+      "url": "https://music.apple.com/jp/album/nyang-nyang-oeeee-oeeee/1887785345?uo=4"
+    },
+    {
+      "label": "BONE BORN BOMB · scheda ufficiale",
+      "url": "https://ano-official.com/discography/detail/6626/"
+    },
+    {
+      "label": "Catalogo digitale Apple Music · Giappone",
+      "url": "https://music.apple.com/jp/artist/1529999013"
+    },
+    {
+      "label": "CD キライのちスキ！ · annuncio e data",
+      "url": "https://ano-official.com/discography/detail/8132/"
+    },
+    {
+      "label": "Video ufficiali · TOY’S FACTORY",
+      "url": "https://www.toysfactory.co.jp/artist/ano/movie"
+    },
+    {
+      "label": "Happy Lucky Chappy · annuncio del video",
+      "url": "https://www.toysfactory.co.jp/artist/ano/news/detail/6573"
+    }
+  ],
+  "videoEditions": []
+}
