@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-21T06:43:03.679335+02:00",
+  "updatedAt": "2026-10-22T06:43:14.331130+02:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
-  "coverageStart": "2026-10-21",
+  "coverageStart": "2026-10-22",
   "coverageEnd": "2026-10-31",
   "events": [
     {
@@ -272,7 +272,7 @@
       "title": "Paw & Palaces",
       "episode": "06",
       "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/430418",
+      "sourceUrl": "https://www.animeclick.it/episodio/430418/una-crescente-sete-di-sangue",
       "itemId": null
     },
     {
