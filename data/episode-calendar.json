@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T06:43:14.331130+02:00",
+  "updatedAt": "2026-10-22T17:58:07.661279+02:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
   "coverageStart": "2026-10-20",
@@ -152,7 +152,7 @@
       "title": "FX Fighter Kurumi-chan",
       "episode": "04",
       "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/428287",
+      "sourceUrl": "https://www.animeclick.it/episodio/428287/%C3%A8-meraviglioso-non-avere-perdite-non-realizzate",
       "itemId": null
     },
     {
@@ -915,6 +915,5 @@
       "sourceUrl": "https://www.animeclick.it/episodio/428316",
       "itemId": null
     }
-  ],
-  "historyNote": "Storico degli annunci conservato senza scadenza; non attesta la data di uscita o trasmissione effettiva."
+  ]
 }
