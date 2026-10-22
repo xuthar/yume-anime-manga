@@ -1,0 +1,16 @@
+const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
+const ctx={window:{},document:{readyState:'loading',addEventListener(){}},URL};vm.createContext(ctx);vm.runInContext(fs.readFileSync('jpop.js','utf8'),ctx);const api=ctx.window.YumeMusic;
+const expected={'aina-the-end':[36,115,3,0],ikimonogakari:[89,600,11,2],yoasobi:[64,132,0,2],milet:[38,184,4,0]};let releases=0,tracks=0;
+for(const [slug,[count,n,studio,members]] of Object.entries(expected)){
+ const d=JSON.parse(fs.readFileSync(`data/jpop-${slug}.json`));assert.equal(d.albums.length,count);assert.equal(new Set(d.albums.map(a=>a.id)).size,count);assert.equal(d.members.length,members);assert.ok(api.safe(d.groupImage));assert.ok(fs.existsSync(d.groupImage));
+ assert.equal(api.filter(d.albums,'studio','','all').length,studio);const videos=new Set(d.officialVideos.map(v=>v.url));let nt=0;
+ for(const a of d.albums){assert.ok(a.date<='2026-10-22');assert.ok(api.safe(a.source));assert.ok(api.safe(a.trackSource));assert.ok(a.editions[a.defaultEdition]);for(const e of a.editions){assert.ok(api.safe(e.cover));for(const disc of e.discs){assert.ok(disc.tracks.length);for(const t of disc.tracks){nt++;assert.ok(t.title);assert.ok(api.safe(t.youtube));assert.ok(api.safe(t.spotify));assert.equal(t.spotifyType,'search');if(t.youtubeType==='official')assert.ok(videos.has(t.youtube));}}}}
+ assert.equal(nt,n);for(const m of d.members){assert.ok(api.safe(m.link));assert.ok(api.safe(m.image));assert.ok(fs.existsSync(m.image));}
+ for(const s of d.sources)assert.ok(api.safe(s.url),s.url);for(const v of d.spotlight){assert.match(v.id,/^[A-Za-z0-9_-]{11}$/);assert.ok(api.safe(v.url));}
+ const page=fs.readFileSync(`${slug}.html`,'utf8');for(const id of ['music-title','bish-group-image','music-kind','music-year','music-order','music-search','music-count','music-albums','music-sources','music-spotlight'])assert.equal((page.match(new RegExp(`id="${id}"`,'g'))||[]).length,1,id);
+ assert.ok(page.includes(`data-music-source="data/jpop-${slug}.json"`));assert.ok(fs.readFileSync('jpop.html','utf8').includes(`href="${slug}.html"`));assert.ok(fs.readFileSync('sitemap.xml','utf8').includes(`/${slug}.html`));assert.ok(!/docs.google.com|sheets.google.com/.test(page));
+ assert.ok(api.filter(d.albums,'all',d.albums[0].editions[0].discs[0].tracks[0].title,'all').length);assert.equal(api.filter(d.albums,'all','','1900').length,0);releases+=count;tracks+=nt;
+}
+const yo=JSON.parse(fs.readFileSync('data/jpop-yoasobi.json'));assert.equal(yo.albums.filter(a=>a.title.startsWith('E-SIDE')).length,4);assert.equal(yo.albums.filter(a=>a.title.startsWith('THE BOOK')).length,4);
+const aina=JSON.parse(fs.readFileSync('data/jpop-aina-the-end.json'));assert.equal(aina.albums.filter(a=>a.kind==='project').length,1);assert.equal(aina.albums.find(a=>a.kind==='project').editions[0].discs[0].tracks.length,12);
+assert.equal(api.safe('assets/jpop/yoasobi/../../private.json'),'');assert.equal(api.safe('https://www.milet.jp.evil.test/a'),'');console.log(`OK: four artists, ${releases} releases, ${tracks} track entries, source/edition separation, filters and local portraits`);

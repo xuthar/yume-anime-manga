@@ -1,0 +1,2233 @@
+{
+  "artist": "milet",
+  "checkedAt": "2026-10-22",
+  "groupImage": "assets/jpop/milet/portrait.webp",
+  "members": [],
+  "spotlight": [
+    {
+      "title": "Anytime Anywhere",
+      "id": "r105CzDvoo0",
+      "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
+      "source": "https://www.milet.jp/MadeofGlass/"
+    },
+    {
+      "title": "The Story of Us",
+      "id": "_1NbGbYG4qg",
+      "url": "https://www.youtube.com/watch?v=_1NbGbYG4qg",
+      "source": "https://www.milet.jp/MadeofGlass/"
+    },
+    {
+      "title": "Hurricane",
+      "id": "LHoAF3vL8cI",
+      "url": "https://www.youtube.com/watch?v=LHoAF3vL8cI",
+      "source": "https://www.milet.jp/MadeofGlass/"
+    }
+  ],
+  "officialVideos": [
+    {
+      "title": "Anytime Anywhere",
+      "id": "r105CzDvoo0",
+      "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
+      "source": "https://www.milet.jp/MadeofGlass/"
+    },
+    {
+      "title": "The Story of Us",
+      "id": "_1NbGbYG4qg",
+      "url": "https://www.youtube.com/watch?v=_1NbGbYG4qg",
+      "source": "https://www.milet.jp/MadeofGlass/"
+    },
+    {
+      "title": "Hurricane",
+      "id": "LHoAF3vL8cI",
+      "url": "https://www.youtube.com/watch?v=LHoAF3vL8cI",
+      "source": "https://www.milet.jp/MadeofGlass/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "milet-1538261020",
+      "title": "inside you EP",
+      "date": "2019-03-04",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/inside-you-ep/1538261020?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/e4/2a/f9e42a7c-36e3-f120-e766-d6021fe276b2/jacket_SECL02400B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "inside you",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20inside%20you%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20inside%20you",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Again and Again",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Again%20and%20Again%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Again%20and%20Again",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Waterfall",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Waterfall%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Waterfall",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I Gotta Go",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20I%20Gotta%20Go%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20I%20Gotta%20Go",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1544028406",
+      "title": "Wonderland - EP",
+      "date": "2019-05-15",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/wonderland-ep/1544028406?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b2/8b/d4/b28bd4d1-1048-9cf8-e9c5-4a2e22db32ce/4547366491234.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Wonderland",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Wonderland%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Wonderland",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Runway",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Runway%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Runway",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "航海前夜",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E8%88%AA%E6%B5%B7%E5%89%8D%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E8%88%AA%E6%B5%B7%E5%89%8D%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Undone",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Undone%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Undone",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "THE SHOW",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20THE%20SHOW%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20THE%20SHOW",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1537278370",
+      "title": "us - Single",
+      "date": "2019-07-31",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/us-single/1537278370?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e0/25/97/e025977d-9fe6-0c79-6ae1-611fdd7c1c56/jacket_SEXX01856B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "us",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20us%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20us",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1544029149",
+      "title": "us - EP",
+      "date": "2019-08-21",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/us-ep/1544029149?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/9d/ee/799dee5e-2544-5230-ff50-074d128e4a7b/4547366491227.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "us",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20us%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20us",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Diving Board",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Diving%20Board%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Diving%20Board",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Rewrite",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Rewrite%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Rewrite",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fire Arrow",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fire%20Arrow%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fire%20Arrow",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1537278534",
+      "title": "us -acoustic ver.- - Single",
+      "date": "2019-08-28",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/us-acoustic-ver-single/1537278534?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/04/07/300407c2-ae51-2dca-ed8b-31a0a203e831/jacket_SEXX01865B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "us -acoustic ver.-",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20us%20-acoustic%20ver.-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20us%20-acoustic%20ver.-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1544028342",
+      "title": "Drown / You & I - EP",
+      "date": "2019-11-06",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/drown-you-i-ep/1544028342?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/22/59/bb225903-678c-cc49-7085-bb0a5108dc77/4547366491241.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Drown",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Drown%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Drown",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "You & I",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20You%20%26%20I%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20You%20%26%20I",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fine Line",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fine%20Line%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fine%20Line",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Imaginary Love",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Imaginary%20Love%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Imaginary%20Love",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1544028152",
+      "title": "Prover / Tell me - EP",
+      "date": "2020-02-19",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/prover-tell-me-ep/1544028152?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/1f/6e/2e1f6ef8-3537-f9ab-3bae-c0e74837cd78/4547366480870.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Prover",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Prover%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Prover",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Tell me",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Tell%20me%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Tell%20me",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Your Light",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Your%20Light%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Your%20Light",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レッドネオン",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E3%83%AC%E3%83%83%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E3%83%AC%E3%83%83%E3%83%89%E3%83%8D%E3%82%AA%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1538265322",
+      "title": "eyes",
+      "date": "2020-06-03",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/eyes/1538265322?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/3d/ae/9d3dae01-ba3c-f836-797e-31935faafad5/jacket_SEXX01997B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Again and Again (eyes mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Again%20and%20Again%20%28eyes%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Again%20and%20Again%20%28eyes%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Parachute",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Parachute%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Parachute",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "航海前夜",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E8%88%AA%E6%B5%B7%E5%89%8D%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E8%88%AA%E6%B5%B7%E5%89%8D%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Somebody",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Somebody%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Somebody",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "inside you",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20inside%20you%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20inside%20you",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Drown",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Drown%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Drown",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "You & I",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20You%20%26%20I%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20You%20%26%20I",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Grab the air",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Grab%20the%20air%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Grab%20the%20air",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STAY",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20STAY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20STAY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Dome",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Dome%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Dome",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Tell me",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Tell%20me%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Tell%20me",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Wonderland",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Wonderland%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Wonderland",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "us",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20us%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20us",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Prover",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Prover%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Prover",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Until I Die",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Until%20I%20Die%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Until%20I%20Die",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Without Your Love",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Without%20Your%20Love%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Without%20Your%20Love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fire Arrow",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fire%20Arrow%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fire%20Arrow",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The Love We've Made",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20The%20Love%20We%27ve%20Made%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20The%20Love%20We%27ve%20Made",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1539123877",
+      "title": "Who I Am - EP",
+      "date": "2020-11-30",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/who-i-am-ep/1539123877?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/87/70/96/877096e1-a9f7-5c6d-a696-2fd15de0aead/4547366483185.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Who I Am",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Who%20I%20Am%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Who%20I%20Am",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The Hardest",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20The%20Hardest%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20The%20Hardest",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "One Touch",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20One%20Touch%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20One%20Touch",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Ashes",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Ashes%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Ashes",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Grab the air -Reprise- Remixed by Masayuki Nakano",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Grab%20the%20air%20-Reprise-%20Remixed%20by%20Masayuki%20Nakano%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Grab%20the%20air%20-Reprise-%20Remixed%20by%20Masayuki%20Nakano",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1543143499",
+      "title": "inside you - From THE FIRST TAKE - Single",
+      "date": "2020-12-31",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/inside-you-from-the-first-take-single/1543143499?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/7e/0f/b17e0f1f-3f53-7f52-bdc3-1f98564a592b/4547366489545.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "inside you - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20inside%20you%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20inside%20you%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1562830230",
+      "title": "checkmate - Single",
+      "date": "2021-04-29",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/checkmate-single/1562830230?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/e2/fa/d2e2fab3-3d7e-8fa5-4477-da3a4c740aa8/4547366509465.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "checkmate",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20checkmate%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20checkmate",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1574860054",
+      "title": "Ordinary days - EP",
+      "date": "2021-08-02",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/ordinary-days-ep/1574860054?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/d9/48/8ad94809-7c8f-c8cd-dd07-76570ec9e81c/4547366521245.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Ordinary days",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Ordinary%20days%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Ordinary%20days",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Time Is On Our Side",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Time%20Is%20On%20Our%20Side%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Time%20Is%20On%20Our%20Side",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Castle",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Castle%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Castle",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hit the Lights",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Hit%20the%20Lights%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Hit%20the%20Lights",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1592088451",
+      "title": "us - From THE FIRST TAKE - Single",
+      "date": "2021-11-16",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/us-from-the-first-take-single/1592088451?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/d9/a5/c3d9a554-b03d-1ae8-bcdf-87b7aed8056a/4547366537574.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "us - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20us%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20us%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1598330550",
+      "title": "おもかげ (produced by Vaundy) - Single",
+      "date": "2021-12-17",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%8A%E3%82%82%E3%81%8B%E3%81%92-produced-by-vaundy-single/1598330550?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/1d/a0/ec1da08d-502e-9d7e-10d5-2dd301a0314f/4547366542912.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "おもかげ (produced by Vaundy)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E3%81%8A%E3%82%82%E3%81%8B%E3%81%92%20%28produced%20by%20Vaundy%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E3%81%8A%E3%82%82%E3%81%8B%E3%81%92%20%28produced%20by%20Vaundy%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1601419193",
+      "title": "Flare - Single",
+      "date": "2022-01-14",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/flare-single/1601419193?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/da/56/5bda5669-3448-97c0-b828-9790516fc2da/4547366545029.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Flare",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Flare%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Flare",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1596199239",
+      "title": "visions",
+      "date": "2022-02-02",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/visions/1596199239?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/ff/4f/2aff4f6b-a2ad-2d15-95a3-6be6c06d5131/4547366541953.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "SEVENTH HEAVEN",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20SEVENTH%20HEAVEN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20SEVENTH%20HEAVEN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly High",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fly%20High%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fly%20High",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Outsider",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Outsider%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Outsider",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "checkmate",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20checkmate%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20checkmate",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Who I Am",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Who%20I%20Am%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Who%20I%20Am",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Loved By You",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Loved%20By%20You%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Loved%20By%20You",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "On the Edge",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20On%20the%20Edge%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20On%20the%20Edge",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Shed a light",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Shed%20a%20light%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Shed%20a%20light",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "邂逅",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E9%82%82%E9%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E9%82%82%E9%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "jam (with iri)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20jam%20%28with%20iri%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20jam%20%28with%20iri%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Come Here (Session1)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Come%20Here%20%28Session1%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Come%20Here%20%28Session1%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The Hardest",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20The%20Hardest%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20The%20Hardest",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Wake Me Up",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Wake%20Me%20Up%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Wake%20Me%20Up",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Ordinary days",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Ordinary%20days%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Ordinary%20days",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "One Reason",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20One%20Reason%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20One%20Reason",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1610685500",
+      "title": "Flare - EP",
+      "date": "2022-03-07",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/flare-ep/1610685500?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/b7/48/56b74879-247b-291d-4188-a00cdd646e67/4547366553727.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Flare",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Flare%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Flare",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Before the Dawn",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Before%20the%20Dawn%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Before%20the%20Dawn",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Somebody (Acoustic Session)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Somebody%20%28Acoustic%20Session%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Somebody%20%28Acoustic%20Session%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly High (Orchestra Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fly%20High%20%28Orchestra%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fly%20High%20%28Orchestra%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1612445160",
+      "title": "Flare (FAULHABER & Crazy Donkey Remix) - SACRA BEATS Singles - Single",
+      "date": "2022-03-18",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/flare-faulhaber-crazy-donkey-remix-sacra-beats-singles/1612445160?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/26/22/a02622b2-507b-3fa9-930c-a3e381ec8e3e/4547366555936.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Flare (FAULHABER & Crazy Donkey Remix) - SACRA BEATS Singles",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Flare%20%28FAULHABER%20%26%20Crazy%20Donkey%20Remix%29%20-%20SACRA%20BEATS%20Singles%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Flare%20%28FAULHABER%20%26%20Crazy%20Donkey%20Remix%29%20-%20SACRA%20BEATS%20Singles",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1618750243",
+      "title": "Walkin' In My Lane - Single",
+      "date": "2022-05-25",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/walkin-in-my-lane-single/1618750243?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/82/a3/ea/82a3ea9a-7fd4-de24-dd8e-f3213ff63e28/4547366562804.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Walkin' In My Lane",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Walkin%27%20In%20My%20Lane%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Walkin%27%20In%20My%20Lane",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love When I Cry",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Love%20When%20I%20Cry%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Love%20When%20I%20Cry",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "My Dreams Are Made of Hell",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20My%20Dreams%20Are%20Made%20of%20Hell%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20My%20Dreams%20Are%20Made%20of%20Hell",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1635087077",
+      "title": "Always You - Single",
+      "date": "2022-08-17",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/always-you-single/1635087077?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d0/6c/76/d06c7602-6119-d13a-72a7-b386a6d5e830/4547366577914.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Always You",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Always%20You%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Always%20You",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Clan",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Clan%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Clan",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Into the Mirror",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Into%20the%20Mirror%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Into%20the%20Mirror",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1646234178",
+      "title": "Final Call - Single",
+      "date": "2022-10-03",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/final-call-single/1646234178?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/c7/f8/62c7f86e-7c4b-89da-7fb4-08c765bc7b8a/4547366587593.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Final Call",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Final%20Call%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Final%20Call",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1698949327",
+      "title": "5am",
+      "date": "2023-08-30",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/5am/1698949327?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8d/a0/f7/8da0f7b6-5bf6-fcae-0496-045793ef5b75/4547366635225.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Clan (5am mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Clan%20%285am%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Clan%20%285am%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コイコガレ",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Living My Life",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Living%20My%20Life%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Living%20My%20Life",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Noёl In July",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20No%D1%91l%20In%20July%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20No%D1%91l%20In%20July",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "b r o k e n",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20b%20r%20o%20k%20e%20n%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20b%20r%20o%20k%20e%20n",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Before the Dawn",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Before%20the%20Dawn%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Before%20the%20Dawn",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Into the Mirror",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Into%20the%20Mirror%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Into%20the%20Mirror",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Walkin' In My Lane",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Walkin%27%20In%20My%20Lane%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Walkin%27%20In%20My%20Lane",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hey Song",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Hey%20Song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Hey%20Song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Flare",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Flare%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Flare",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "You made it",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20You%20made%20it%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20You%20made%20it",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Always You (5am mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Always%20You%20%285am%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Always%20You%20%285am%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HELL CLUB",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20HELL%20CLUB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20HELL%20CLUB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Final Call",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Final%20Call%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Final%20Call",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "December",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20December%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20December",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1708333821",
+      "title": "Anytime Anywhere - Single",
+      "date": "2023-09-29",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/anytime-anywhere-single/1708333821?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/bb/16/a2bb16e5-7521-df4f-9563-b0fdcaefd5cf/4547366645477.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Anytime Anywhere",
+                  "youtube": "https://www.youtube.com/watch?v=r105CzDvoo0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/milet%20Anytime%20Anywhere",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1726309390",
+      "title": "Anytime Anywhere - EP",
+      "date": "2024-01-31",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/anytime-anywhere-ep/1726309390?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/5f/d6/455fd64b-75ba-a057-858e-8107e9a97b79/4547366667981.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Anytime Anywhere",
+                  "youtube": "https://www.youtube.com/watch?v=r105CzDvoo0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/milet%20Anytime%20Anywhere",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "bliss",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20bliss%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20bliss",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Higher",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Higher%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Higher",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Wings",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Wings%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Wings",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1738603486",
+      "title": "hanataba - Single",
+      "date": "2024-04-15",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/hanataba-single/1738603486?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/4d/a0/354da047-2d67-4b85-da83-1838cd064d00/4547366680263.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "hanataba",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20hanataba%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20hanataba",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1747837590",
+      "title": "hanataba - Single",
+      "date": "2024-06-05",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/hanataba-single/1747837590?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/3c/8b/f93c8bed-5bc0-353c-9217-85dcd8e17900/4547366688627.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "hanataba",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20hanataba%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20hanataba",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Bluer",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Bluer%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Bluer",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GREEN LIGHTS",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20GREEN%20LIGHTS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20GREEN%20LIGHTS",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1756837373",
+      "title": "We All Lie - Single",
+      "date": "2024-07-26",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/we-all-lie-single/1756837373?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/3b/35/cc3b3570-bd3f-5be4-6958-2dec46e07376/4547366695625.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "We All Lie",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20We%20All%20Lie%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20We%20All%20Lie",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1756865181",
+      "title": "milet live at 日本武道館",
+      "date": "2024-07-29",
+      "kind": "live",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/milet-live-at-%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8/1756865181?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/d1/8e/7fd18ee9-0a8b-b38d-3c12-fd24b7887a94/4547366696998.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Walkin' In My Lane(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Walkin%27%20In%20My%20Lane%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Walkin%27%20In%20My%20Lane%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Final Call(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Final%20Call%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Final%20Call%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Always You(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Always%20You%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Always%20You%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Ashes(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Ashes%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Ashes%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Prover(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Prover%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Prover%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "inside you(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20inside%20you%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20inside%20you%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Dome(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Dome%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Dome%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "My Dreams Are Made of Hell(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20My%20Dreams%20Are%20Made%20of%20Hell%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20My%20Dreams%20Are%20Made%20of%20Hell%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "邂逅(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E9%82%82%E9%80%85%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E9%82%82%E9%80%85%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "One Reason(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20One%20Reason%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20One%20Reason%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Ordinary days(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Ordinary%20days%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Ordinary%20days%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "jam(Live at 日本武道館) [with iri]",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20jam%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20%5Bwith%20iri%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20jam%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20%5Bwith%20iri%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コイコガレ(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%AC%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%AC%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Again and Again(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Again%20and%20Again%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Again%20and%20Again%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Runway(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Runway%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Runway%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おもかげ(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E3%81%8A%E3%82%82%E3%81%8B%E3%81%92%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E3%81%8A%E3%82%82%E3%81%8B%E3%81%92%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fine Line(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fine%20Line%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fine%20Line%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "絆ノ奇跡(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E7%B5%86%E3%83%8E%E5%A5%87%E8%B7%A1%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E7%B5%86%E3%83%8E%E5%A5%87%E8%B7%A1%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Flare(Live at 日本武道館)",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Flare%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Flare%28Live%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1785129189",
+      "title": "HALFWAY - Single",
+      "date": "2024-12-18",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/halfway-single/1785129189?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/20/6a/85206a2f-8a82-57b7-2768-021c61d6871d/4547366725247.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "HALFWAY",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20HALFWAY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20HALFWAY",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1790641199",
+      "title": "I still - Single",
+      "date": "2025-01-31",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/i-still-single/1790641199?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/69/ba/d069ba84-f16c-3a5d-553d-67d4c3d91a94/4547366729504.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "I still",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20I%20still%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20I%20still",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1795856931",
+      "title": "I still / Nobody Knows - Single",
+      "date": "2025-02-26",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/i-still-nobody-knows-single/1795856931?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/5a/3d/3b5a3da3-db10-c3a2-9ab6-a90ef3d7c08b/4547366734287.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "I still",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20I%20still%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20I%20still",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Nobody Knows",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Nobody%20Knows%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Nobody%20Knows",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1853488067",
+      "title": "Goddess / Waterproof / Swamp - Single",
+      "date": "2025-12-05",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/goddess-waterproof-swamp-single/1853488067?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/eb/79/08eb79f8-a24f-dfae-ddb3-381fe059c3d6/4547366791976.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Goddess",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Goddess%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Goddess",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Waterproof",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Waterproof%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Waterproof",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Swamp",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Swamp%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Swamp",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1863631186",
+      "title": "The Story of Us - Single",
+      "date": "2026-01-16",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/the-story-of-us-single/1863631186?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/a1/a2/90a1a2e9-09a1-83b5-4dc7-eb5a7000f265/4547366789072.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "The Story of Us",
+                  "youtube": "https://www.youtube.com/watch?v=_1NbGbYG4qg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/milet%20The%20Story%20of%20Us",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1878095288",
+      "title": "The Story of Us - EP",
+      "date": "2026-03-04",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/the-story-of-us-ep/1878095288?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/8a/bb/d48abbd8-52bd-972f-4b29-27e68fee9b88/4547366808902.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "The Story of Us",
+                  "youtube": "https://www.youtube.com/watch?v=_1NbGbYG4qg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/milet%20The%20Story%20of%20Us",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Trace",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Trace%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Trace",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Anytime Anywhere - Piano Session",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Anytime%20Anywhere%20-%20Piano%20Session%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Anytime%20Anywhere%20-%20Piano%20Session",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Anytime Anywhere - A.Gt Session",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Anytime%20Anywhere%20-%20A.Gt%20Session%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Anytime%20Anywhere%20-%20A.Gt%20Session",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-1895706562",
+      "title": "milet Live at Nippon Budokan \"Ray of Water\"",
+      "date": "2026-05-15",
+      "kind": "live",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/milet-live-at-nippon-budokan-ray-of-water/1895706562?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/92/bb/ce92bb2b-c400-91a6-2f01-6a66662ca59c/4547366823035.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Opening (Live at Nippon Budokan \"Ray of Water\") [Instrumental]",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Opening%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Opening%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "航海前夜 (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E8%88%AA%E6%B5%B7%E5%89%8D%E5%A4%9C%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E8%88%AA%E6%B5%B7%E5%89%8D%E5%A4%9C%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Shed a Light (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Shed%20a%20Light%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Shed%20a%20Light%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Nobody Knows (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Nobody%20Knows%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Nobody%20Knows%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海原 (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E6%B5%B7%E5%8E%9F%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E6%B5%B7%E5%8E%9F%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly High (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fly%20High%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fly%20High%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Loved by You (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Loved%20by%20You%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Loved%20by%20You%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I still (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20I%20still%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20I%20still%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SE1 (Live at Nippon Budokan \"Ray of Water\") [Instrumental]",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20SE1%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20SE1%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GREEN LIGHTS (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20GREEN%20LIGHTS%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20GREEN%20LIGHTS%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SE2 (Live at Nippon Budokan \"Ray of Water\") [Instrumental]",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20SE2%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20SE2%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Swamp (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Swamp%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Swamp%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Waterproof (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Waterproof%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Waterproof%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SE3 (Live at Nippon Budokan \"Ray of Water\") [Instrumental]",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20SE3%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20SE3%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HELL CLUB (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20HELL%20CLUB%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20HELL%20CLUB%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Checkmate (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Checkmate%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Checkmate%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SE4 (Live at Nippon Budokan \"Ray of Water\") [Instrumental]",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20SE4%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20SE4%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Prover (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Prover%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Prover%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "inside you (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20inside%20you%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20inside%20you%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "December (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20December%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20December%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Anytime Anywhere (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Anytime%20Anywhere%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Anytime%20Anywhere%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SE5 (Live at Nippon Budokan \"Ray of Water\") [Instrumental]",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20SE5%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20SE5%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20%5BInstrumental%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Goddess (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Goddess%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Goddess%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Bluer (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Bluer%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Bluer%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The Story of Us (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20The%20Story%20of%20Us%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20The%20Story%20of%20Us%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "us (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20us%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20us%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fine Line (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Fine%20Line%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Fine%20Line%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Again and Again (Live at Nippon Budokan \"Ray of Water\")",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Again%20and%20Again%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Again%20and%20Again%20%28Live%20at%20Nippon%20Budokan%20%22Ray%20of%20Water%22%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-6784164026",
+      "title": "Sunny - Single",
+      "date": "2026-07-12",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/sunny-single/6784164026?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/32/e2/7532e282-028f-ded2-2031-f9a845a9965e/4547366833560.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Sunny",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Sunny%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Sunny",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-6793972638",
+      "title": "Made of Glass",
+      "date": "2026-08-19",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/made-of-glass/6793972638?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/eb/59/49eb5902-68a1-08cf-10ce-6f5673ff2e46/4547366841664.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Hurricane",
+                  "youtube": "https://www.youtube.com/watch?v=LHoAF3vL8cI",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/milet%20Hurricane",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Golden Ember",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Golden%20Ember%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Golden%20Ember",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The Story of Us",
+                  "youtube": "https://www.youtube.com/watch?v=_1NbGbYG4qg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/milet%20The%20Story%20of%20Us",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sunny",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Sunny%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Sunny",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I still",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20I%20still%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20I%20still",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Wings",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Wings%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Wings",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hanataba",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20hanataba%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20hanataba",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Bluer",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Bluer%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Bluer",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海原",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20%E6%B5%B7%E5%8E%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20%E6%B5%B7%E5%8E%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Anytime Anywhere",
+                  "youtube": "https://www.youtube.com/watch?v=r105CzDvoo0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/milet%20Anytime%20Anywhere",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hanare banare",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20hanare%20banare%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20hanare%20banare",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Happily",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Happily%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Happily",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Higher",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Higher%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Higher",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Masterpiece",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Masterpiece%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Masterpiece",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Christmas Eve",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Christmas%20Eve%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Christmas%20Eve",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Perfect blue",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20Perfect%20blue%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20Perfect%20blue",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "milet-6822135636",
+      "title": "My Voice, My Life - Single",
+      "date": "2026-10-22",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://www.sonymusic.co.jp/artist/milet_music/discography/",
+      "trackSource": "https://music.apple.com/jp/album/my-voice-my-life-single/6822135636?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/d9/73/84d97380-b63e-4842-1195-3fd603a01d98/4547366858488.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "My Voice, My Life",
+                  "youtube": "https://www.youtube.com/results?search_query=milet%20My%20Voice%2C%20My%20Life%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/milet%20My%20Voice%2C%20My%20Life",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Profilo ufficiale",
+      "url": "https://www.sonymusic.co.jp/artist/milet_music/profile/"
+    },
+    {
+      "label": "Discografia / repertorio ufficiale",
+      "url": "https://www.sonymusic.co.jp/artist/milet_music/discography/"
+    },
+    {
+      "label": "Catalogo digitale Apple Music · Giappone",
+      "url": "https://music.apple.com/jp/artist/880638079"
+    },
+    {
+      "label": "Fonte della fotografia",
+      "url": "https://www.milet.jp/MadeofGlass/"
+    },
+    {
+      "label": "Made of Glass · sito ufficiale e video",
+      "url": "https://www.milet.jp/MadeofGlass/"
+    }
+  ],
+  "videoEditions": []
+}

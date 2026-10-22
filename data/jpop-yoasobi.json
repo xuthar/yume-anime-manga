@@ -1,0 +1,2480 @@
+{
+  "artist": "YOASOBI",
+  "checkedAt": "2026-10-22",
+  "groupImage": "assets/jpop/yoasobi/group.webp",
+  "members": [
+    {
+      "name": "Ayase",
+      "japanese": "アヤセ",
+      "bio": "Compositore e produttore del duo, autore e arrangiatore. Il suo percorso comprende anche la produzione Vocaloid.",
+      "image": "assets/jpop/yoasobi/ayase.webp",
+      "link": "https://www.yoasobi-music.jp/profile/",
+      "imageSource": "https://weverse.io/yoasobi/highlight"
+    },
+    {
+      "name": "ikura",
+      "japanese": "幾田りら · Lilas Ikuta",
+      "bio": "Voce di YOASOBI e cantautrice. Interpreta le storie del duo e porta avanti un repertorio solista con il nome Lilas Ikuta.",
+      "image": "assets/jpop/yoasobi/ikura.webp",
+      "link": "https://www.yoasobi-music.jp/profile/",
+      "imageSource": "https://weverse.io/yoasobi/highlight"
+    }
+  ],
+  "spotlight": [
+    {
+      "title": "アイドル · Idol",
+      "id": "ZRtdQ81jPUQ",
+      "url": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
+      "source": "https://www.yoasobi-music.jp/news/551361"
+    },
+    {
+      "title": "勇者 · audio ufficiale",
+      "id": "mctEybOqY6s",
+      "url": "https://www.youtube.com/watch?v=mctEybOqY6s",
+      "source": "https://www.youtube.com/watch?v=mctEybOqY6s"
+    }
+  ],
+  "officialVideos": [
+    {
+      "title": "アイドル · Idol",
+      "id": "ZRtdQ81jPUQ",
+      "url": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
+      "source": "https://www.yoasobi-music.jp/news/551361"
+    },
+    {
+      "title": "勇者 · audio ufficiale",
+      "id": "mctEybOqY6s",
+      "url": "https://www.youtube.com/watch?v=mctEybOqY6s",
+      "source": "https://www.youtube.com/watch?v=mctEybOqY6s"
+    }
+  ],
+  "albums": [
+    {
+      "id": "yoasobi-1490256978",
+      "title": "夜に駆ける - Single",
+      "date": "2019-12-15",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-single/1490256978?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/58/79/fe58795c-1628-230a-9ffe-300c04b6627c/194491717186.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "夜に駆ける",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1494399110",
+      "title": "あの夢をなぞって - Single",
+      "date": "2020-01-18",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6-single/1494399110?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/b2/7b/e2b27bda-dfcd-323d-da30-894f646f3ed1/194491839147.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "あの夢をなぞって",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1509494398",
+      "title": "ハルジオン - Single",
+      "date": "2020-05-11",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3-single/1509494398?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d3/23/ac/d323ac61-2d0b-2d15-6907-fdf994be8ba1/195081470399.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ハルジオン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1520198755",
+      "title": "たぶん - Single",
+      "date": "2020-07-20",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%9F%E3%81%B6%E3%82%93-single/1520198755?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/1c/3b/bf1c3bdd-a128-2843-776a-35bf3c879d98/195081850498.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "たぶん",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%81%9F%E3%81%B6%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%81%9F%E3%81%B6%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1528119626",
+      "title": "群青 - Single",
+      "date": "2020-09-01",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E7%BE%A4%E9%9D%92-single/1528119626?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/7e/4a/ae7e4a28-fd46-9617-1066-fcbd124303d6/195497105656.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "群青",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E7%BE%A4%E9%9D%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E7%BE%A4%E9%9D%92",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1541850602",
+      "title": "ハルカ - Single",
+      "date": "2020-12-18",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AB%E3%82%AB-single/1541850602?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/92/2d/6f922d2d-735d-59bd-00a0-d845371bb99c/195497666263.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ハルカ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1542182291",
+      "title": "THE BOOK",
+      "date": "2021-01-06",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/the-book/1542182291?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/8c/90/7f8c90dd-e11f-30d5-271d-4b72eee970bd/195497666737.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Epilogue",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Epilogue%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Epilogue",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アンコール",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハルジオン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あの夢をなぞって",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "たぶん",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%81%9F%E3%81%B6%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%81%9F%E3%81%B6%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "群青",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E7%BE%A4%E9%9D%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E7%BE%A4%E9%9D%92",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハルカ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%8F%E3%83%AB%E3%82%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夜に駆ける",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Prologue",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Prologue%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Prologue",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1571239133",
+      "title": "アンコール - Single",
+      "date": "2021-01-06",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB-single/1571239133?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/92/1e/53/921e53b8-200d-04c7-3936-a65e11ad81ec/196006915353.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "アンコール",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1544083976",
+      "title": "怪物 - Single",
+      "date": "2021-01-06",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9-single/1544083976?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ab/2c/9eab2c24-8289-1bd7-548d-e6b871fcf169/195497732630.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "怪物",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E6%80%AA%E7%89%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E6%80%AA%E7%89%A9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1547210421",
+      "title": "優しい彗星 - Single",
+      "date": "2021-01-20",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F-single/1547210421?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/2a/2a/fc2a2ae6-f971-0b82-efe7-fad4981efe68/195497842889.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "優しい彗星",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1564444109",
+      "title": "もう少しだけ - Single",
+      "date": "2021-05-10",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91-single/1564444109?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/03/83/f803837d-7056-6983-f1be-b0f03ff3ad6d/196006562731.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "もう少しだけ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1571239531",
+      "title": "Into The Night (English Version) - Single",
+      "date": "2021-07-02",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/into-the-night-english-version-single/1571239531?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ad/91/33/ad91339b-91a3-a108-cdab-93f4fc78e61e/196006915186.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Into The Night (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Into%20The%20Night%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Into%20The%20Night%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1571739414",
+      "title": "三原色 - Single",
+      "date": "2021-07-02",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E4%B8%89%E5%8E%9F%E8%89%B2-single/1571739414?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/cb/41/88cb41ab-cc3c-831b-84be-7b66436a23b8/196006849979.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "三原色",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E4%B8%89%E5%8E%9F%E8%89%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E4%B8%89%E5%8E%9F%E8%89%B2",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1571336850",
+      "title": "RGB (English Version) - Single",
+      "date": "2021-07-16",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/rgb-english-version-single/1571336850?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/c0/c2/aec0c2b5-ce37-595a-3690-31b3c3204e5c/196006887230.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "RGB (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20RGB%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20RGB%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1575188095",
+      "title": "Monster (English Version) - Single",
+      "date": "2021-07-30",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/monster-english-version-single/1575188095?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6e/3a/b7/6e3ab7bd-7166-4f7e-2afc-4b25fc15aaa1/196006985691.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Monster (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Monster%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Monster%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1579050872",
+      "title": "ラブレター - Single",
+      "date": "2021-08-09",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC-single/1579050872?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/c0/09/b4c009cd-2642-f10b-49d7-782d1b8145e1/196292091472.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ラブレター",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1582913798",
+      "title": "大正浪漫 - Single",
+      "date": "2021-09-15",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB-single/1582913798?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/06/84/d60684a9-7267-f77c-d07a-9724c846722d/196292313369.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "大正浪漫",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1588668622",
+      "title": "ツバメ (feat. ミドリーズ) - Single",
+      "date": "2021-10-25",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%84%E3%83%90%E3%83%A1-feat-%E3%83%9F%E3%83%89%E3%83%AA%E3%83%BC%E3%82%BA-single/1588668622?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5a/66/8d/5a668da4-c94d-b208-19cd-8bc649f725e2/196292629439.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ツバメ (feat. ミドリーズ)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%84%E3%83%90%E3%83%A1%20%28feat.%20%E3%83%9F%E3%83%89%E3%83%AA%E3%83%BC%E3%82%BA%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%84%E3%83%90%E3%83%A1%20%28feat.%20%E3%83%9F%E3%83%89%E3%83%AA%E3%83%BC%E3%82%BA%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1588668683",
+      "title": "Blue (English Version) - Single",
+      "date": "2021-10-29",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/blue-english-version-single/1588668683?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/14/a9/f4/14a9f4dd-7701-b146-142b-11b012d8eb63/196292552614.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Blue (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Blue%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Blue%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1590852953",
+      "title": "E-SIDE",
+      "date": "2021-11-12",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/e-side/1590852953?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/c4/c5/8ac4c5cb-8a65-cef3-9e66-d42fc5c12366/196292659504.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Into The Night (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Into%20The%20Night%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Into%20The%20Night%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Haven't (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Haven%27t%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Haven%27t%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Monster (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Monster%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Monster%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Comet (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Comet%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Comet%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "RGB (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20RGB%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20RGB%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Encore (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Encore%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Encore%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Blue (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Blue%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Blue%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Tracing A Dream (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Tracing%20A%20Dream%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Tracing%20A%20Dream%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1593438479",
+      "title": "THE BOOK 2",
+      "date": "2021-12-01",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/the-book-2/1593438479?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/37/2b/1a/372b1a1d-ab10-4a92-7a78-2c5470c44084/196292816631.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ツバメ (feat. ミドリーズ)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%84%E3%83%90%E3%83%A1%20%28feat.%20%E3%83%9F%E3%83%89%E3%83%AA%E3%83%BC%E3%82%BA%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%84%E3%83%90%E3%83%A1%20%28feat.%20%E3%83%9F%E3%83%89%E3%83%AA%E3%83%BC%E3%82%BA%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "三原色",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E4%B8%89%E5%8E%9F%E8%89%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E4%B8%89%E5%8E%9F%E8%89%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大正浪漫",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もう少しだけ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "優しい彗星",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "怪物",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E6%80%AA%E7%89%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E6%80%AA%E7%89%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もしも命が描けたら",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%82%E3%81%97%E3%82%82%E5%91%BD%E3%81%8C%E6%8F%8F%E3%81%91%E3%81%9F%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%82%E3%81%97%E3%82%82%E5%91%BD%E3%81%8C%E6%8F%8F%E3%81%91%E3%81%9F%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラブレター",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1638045195",
+      "title": "もしも命が描けたら - Single",
+      "date": "2021-12-01",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%82%E3%81%97%E3%82%82%E5%91%BD%E3%81%8C%E6%8F%8F%E3%81%91%E3%81%9F%E3%82%89-single/1638045195?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0b/55/2d/0b552d28-fab7-d8f1-f503-900886729ef3/196925457880.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "もしも命が描けたら",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%82%E3%81%97%E3%82%82%E5%91%BD%E3%81%8C%E6%8F%8F%E3%81%91%E3%81%9F%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%82%E3%81%97%E3%82%82%E5%91%BD%E3%81%8C%E6%8F%8F%E3%81%91%E3%81%9F%E3%82%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1607976608",
+      "title": "ミスター - Single",
+      "date": "2022-02-16",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC-single/1607976608?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0b/00/25/0b00259a-1677-2c5b-aaf4-533003967ebb/196626258571.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ミスター",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1614012342",
+      "title": "あの夢をなぞって (Ballade Ver.) - Single",
+      "date": "2022-03-30",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6-ballade-ver-single/1614012342?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/da/c1/71dac16e-eefd-4893-dc99-8845fe68ea62/196626603227.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "あの夢をなぞって (Ballade Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6%20%28Ballade%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%81%82%E3%81%AE%E5%A4%A2%E3%82%92%E3%81%AA%E3%81%9E%E3%81%A3%E3%81%A6%20%28Ballade%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1624775154",
+      "title": "好きだ - Single",
+      "date": "2022-05-30",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%A0-single/1624775154?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e6/2b/c4/e62bc4fe-b044-0026-db66-ca1eb23542a6/196925025676.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "好きだ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A5%BD%E3%81%8D%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A5%BD%E3%81%8D%E3%81%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1645308325",
+      "title": "祝福 - Single",
+      "date": "2022-10-01",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E7%A5%9D%E7%A6%8F-single/1645308325?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5c/45/a9/5c45a9cf-678a-a945-3544-923382e5d1c4/197186993001.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "祝福",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E7%A5%9D%E7%A6%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E7%A5%9D%E7%A6%8F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1650746027",
+      "title": "The Swallow (feat. Midories) - Single",
+      "date": "2022-11-04",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/the-swallow-feat-midories-single/1650746027?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/27/cc/6d/27cc6d9e-18db-3484-46d8-1ff8dd611335/197187264988.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "The Swallow (feat. Midories)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20The%20Swallow%20%28feat.%20Midories%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20The%20Swallow%20%28feat.%20Midories%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1652014298",
+      "title": "The Blessing - Single",
+      "date": "2022-11-09",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/the-blessing-single/1652014298?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/a1/d8/78a1d8d0-dee7-6fe5-28a7-f0c14ca064b2/197187316342.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "The Blessing",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20The%20Blessing%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20The%20Blessing",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1652016295",
+      "title": "E-SIDE 2",
+      "date": "2022-11-18",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/e-side-2/1652016295?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9a/34/2b/9a342bcf-6ff1-393c-30a0-2cd3ac0c41d0/197187239917.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "The Blessing",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20The%20Blessing%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20The%20Blessing",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "If I Could Draw Life",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20If%20I%20Could%20Draw%20Life%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20If%20I%20Could%20Draw%20Life",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Romance",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Romance%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Romance",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The Swallow (feat. Midories)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20The%20Swallow%20%28feat.%20Midories%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20The%20Swallow%20%28feat.%20Midories%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Halzion",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Halzion%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Halzion",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Just a Little Step",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Just%20a%20Little%20Step%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Just%20a%20Little%20Step",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Haruka",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Haruka%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Haruka",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love Letter",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Love%20Letter%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Love%20Letter",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1652280447",
+      "title": "海のまにまに - Single",
+      "date": "2022-11-18",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E6%B5%B7%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB-single/1652280447?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/54/11/af541115-4674-c7a4-b0a8-76fad0276408/197187296699.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "海のまにまに",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E6%B5%B7%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E6%B5%B7%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1669698267",
+      "title": "アドベンチャー - Single",
+      "date": "2023-02-15",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC-single/1669698267?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/8e/a8/468ea804-012a-2872-d141-98def4aeb6d6/197188059262.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "アドベンチャー",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1678049663",
+      "title": "セブンティーン - Single",
+      "date": "2023-03-27",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%BB%E3%83%96%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3-single/1678049663?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/93/65/c393653a-e44f-f723-f82b-500b8fb49d09/197188385958.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "セブンティーン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%BB%E3%83%96%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%BB%E3%83%96%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1679278166",
+      "title": "アイドル - Single",
+      "date": "2023-04-12",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-single/1679278166?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/17/eb/3a17eb30-eacb-82eb-51df-d1321dbb55bc/197188492205.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "アイドル",
+                  "youtube": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1684905686",
+      "title": "はじめての - EP",
+      "date": "2023-05-10",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE-ep/1684905686?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/27/9f/db279f09-8a1d-1b6b-626f-236908646c48/197188726164.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "セブンティーン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%BB%E3%83%96%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%BB%E3%83%96%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海のまにまに",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E6%B5%B7%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E6%B5%B7%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きだ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A5%BD%E3%81%8D%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A5%BD%E3%81%8D%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミスター",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1688334284",
+      "title": "Idol - Single",
+      "date": "2023-05-26",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/idol-single/1688334284?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/2d/40/dc2d407b-2ca0-d41e-6ccb-0fd625abf8f0/197188911638.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Idol",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Idol%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Idol",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1707010186",
+      "title": "夜に駆ける - From THE FIRST TAKE - Single",
+      "date": "2023-09-21",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-from-the-first-take-single/1707010186?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/50/59/b2505902-16b7-91df-9ca2-e6bc76ad9429/197189888007.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "夜に駆ける - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1707001460",
+      "title": "勇者 - Single",
+      "date": "2023-09-29",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%8B%87%E8%80%85-single/1707001460?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/fb/70/d5fb7086-9fbe-feca-215e-da448bcf4596/197189862939.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "勇者",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%8B%87%E8%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%8B%87%E8%80%85",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1707581102",
+      "title": "THE BOOK 3",
+      "date": "2023-10-04",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/the-book-3/1707581102?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/67/a2/4667a2e3-2ed5-777e-ab44-38890d53ba0f/197189984693.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "勇者",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%8B%87%E8%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%8B%87%E8%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Interlude \"Awakening\"",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Interlude%20%22Awakening%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Interlude%20%22Awakening%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "祝福",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E7%A5%9D%E7%A6%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E7%A5%9D%E7%A6%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海のまにまに",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E6%B5%B7%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E6%B5%B7%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミスター",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Interlude \"Worship\"",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Interlude%20%22Worship%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Interlude%20%22Worship%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アイドル",
+                  "youtube": "https://www.youtube.com/watch?v=ZRtdQ81jPUQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "セブンティーン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%BB%E3%83%96%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%BB%E3%83%96%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アドベンチャー",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きだ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%A5%BD%E3%81%8D%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%A5%BD%E3%81%8D%E3%81%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1716254217",
+      "title": "Biri-Biri - Single",
+      "date": "2023-11-18",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/biri-biri-single/1716254217?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/5e/13/db5e1360-edff-7b85-9dea-e61e2385f4f8/197190337402.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Biri-Biri",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Biri-Biri%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Biri-Biri",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Biri-Biri (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Biri-Biri%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Biri-Biri%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1717130268",
+      "title": "The Brave - Single",
+      "date": "2023-11-24",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/the-brave-single/1717130268?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/32/1d/c7/321dc739-5312-6f70-f631-a6ae90aa7d53/197190470703.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "The Brave",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20The%20Brave%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20The%20Brave",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1721294801",
+      "title": "HEART BEAT - Single",
+      "date": "2023-12-26",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/heart-beat-single/1721294801?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/db/11/9cdb11a0-2542-e1a1-cd45-252ed19ecef1/197190657173.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "HEART BEAT",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20HEART%20BEAT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20HEART%20BEAT",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1728037259",
+      "title": "Adventure - Single",
+      "date": "2024-02-16",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/adventure-single/1728037259?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/48/63/f448630b-1b44-99c4-bf4e-d38ce1f80530/197190980523.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Adventure",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Adventure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Adventure",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1737193089",
+      "title": "E-SIDE 3",
+      "date": "2024-04-12",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/e-side-3/1737193089?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/b4/09/09b40996-3fec-8b87-e806-54f926317897/198391607813.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Biri-Biri (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Biri-Biri%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Biri-Biri%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Idol",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Idol%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Idol",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Mister",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Mister%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Mister",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "manimani",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20manimani%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20manimani",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The Brave",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20The%20Brave%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20The%20Brave",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Seventeen",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Seventeen%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Seventeen",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Loving You",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Loving%20You%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Loving%20You",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Adventure",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Adventure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Adventure",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1752838718",
+      "title": "UNDEAD - Single",
+      "date": "2024-07-01",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/undead-single/1752838718?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/b3/fb/4fb3fb99-7c8b-f028-8683-6128f3e20caf/198588375464.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "UNDEAD",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20UNDEAD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20UNDEAD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1757556947",
+      "title": "舞台に立って - Single",
+      "date": "2024-07-26",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E8%88%9E%E5%8F%B0%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6-single/1757556947?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/ff/65/2eff654c-e200-4c1a-590d-2695c9bba6de/198588722404.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "舞台に立って",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E8%88%9E%E5%8F%B0%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E8%88%9E%E5%8F%B0%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1760460644",
+      "title": "On the Stage - Single",
+      "date": "2024-08-11",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/on-the-stage-single/1760460644?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1c/9c/c61c9c08-b8af-c18b-8f67-1600eebc80b9/198588893968.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "On the Stage",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20On%20the%20Stage%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20On%20the%20Stage",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1767332870",
+      "title": "モノトーン - Single",
+      "date": "2024-10-01",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3-single/1767332870?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/05/a9/df05a94d-ff41-e0e1-f156-f40ee7c9922b/198846242873.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "モノトーン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1770010365",
+      "title": "Monotone - Single",
+      "date": "2024-10-02",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/monotone-single/1770010365?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/ba/f1/92baf127-e470-045b-ffaa-5be1d3b461e4/198846414645.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Monotone",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Monotone%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Monotone",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1778233023",
+      "title": "New me - Single",
+      "date": "2024-11-11",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/new-me-single/1778233023?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/97/8c/2f978cc6-ca98-f6f8-5907-3d39ac6f63d3/198846810805.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "New me",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20New%20me%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20New%20me",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1794513157",
+      "title": "UNDEAD (English Version) - Single",
+      "date": "2025-02-28",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/undead-english-version-single/1794513157?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b1/77/37b177c7-e792-6448-c029-222f5a181f3d/199066739884.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "UNDEAD (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20UNDEAD%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20UNDEAD%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1802134769",
+      "title": "PLAYERS - Single",
+      "date": "2025-03-21",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/players-single/1802134769?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/e2/b5/28e2b5ec-e940-2f52-ea0b-38e102c1ec74/199350091568.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "PLAYERS",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20PLAYERS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20PLAYERS",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1813364850",
+      "title": "Watch me! - Single",
+      "date": "2025-05-18",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/watch-me-single/1813364850?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/e1/ef/5fe1ef35-2ee9-f6cf-6eb6-97eab00e53a2/199350611605.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Watch me!",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Watch%20me%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Watch%20me%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1815658097",
+      "title": "PLAYERS (English Version) - Single",
+      "date": "2025-05-23",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/players-english-version-single/1815658097?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/f8/bc/daf8bc79-8a7c-62b2-1ec4-19e246519967/199350770012.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "PLAYERS (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20PLAYERS%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20PLAYERS%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1816751002",
+      "title": "Watch me! (English Version) - Single",
+      "date": "2025-05-30",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/watch-me-english-version-single/1816751002?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/06/31/d506313f-b2ba-70e5-f816-782c2e7946dd/199350769917.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Watch me! (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Watch%20me%21%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Watch%20me%21%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1824621460",
+      "title": "New me (English Version) - Single",
+      "date": "2025-07-11",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/new-me-english-version-single/1824621460?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/00/1b/7a001b39-9b86-9df2-312b-a182968c36b2/199538154153.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "New me (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20New%20me%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20New%20me%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1840585343",
+      "title": "劇上 - Single",
+      "date": "2025-10-02",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%8A%87%E4%B8%8A-single/1840585343?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/7b/d3/ca7bd3dc-6e1e-f6bc-91ed-a9222284ab1a/199538817348.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "劇上",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%8A%87%E4%B8%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%8A%87%E4%B8%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1852183577",
+      "title": "会心の一撃 - Single",
+      "date": "2025-11-19",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E4%BC%9A%E5%BF%83%E3%81%AE%E4%B8%80%E6%92%83-single/1852183577?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/74/12/7b741277-744a-e758-7ca5-67fd3adf6566/199806415856.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "会心の一撃",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E4%BC%9A%E5%BF%83%E3%81%AE%E4%B8%80%E6%92%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E4%BC%9A%E5%BF%83%E3%81%AE%E4%B8%80%E6%92%83",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1861370948",
+      "title": "アドレナ - Single",
+      "date": "2026-01-04",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A-single/1861370948?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/3b/bc/f03bbca1-68a7-530d-9904-e447d0024ddd/199806749012.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "アドレナ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1861370983",
+      "title": "BABY - Single",
+      "date": "2026-01-11",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/baby-single/1861370983?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/d3/d9/b5d3d9f2-cda4-646d-a9cf-0ad26f623903/199806763940.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "BABY",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20BABY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20BABY",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-1894825130",
+      "title": "E-SIDE 4",
+      "date": "2026-04-24",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/e-side-4/1894825130?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/ee/1c/51ee1c38-b554-0352-2c31-6ed53f73e69e/820233171922.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ADRENA",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20ADRENA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20ADRENA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "UNDEAD (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20UNDEAD%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20UNDEAD%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Watch me! (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Watch%20me%21%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Watch%20me%21%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BABY (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20BABY%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20BABY%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "New me (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20New%20me%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20New%20me%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Monotone",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Monotone%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Monotone",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "On the Stage",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20On%20the%20Stage%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20On%20the%20Stage",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PLAYERS (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20PLAYERS%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20PLAYERS%20%28English%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HEART BEAT (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20HEART%20BEAT%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20HEART%20BEAT%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-6775750598",
+      "title": "THE BOOK for,",
+      "date": "2026-06-26",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/the-book-for/6775750598?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/8e/41/a38e4173-a495-1c1f-aa2f-c7831c9c01a9/820233543187.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "オリオン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アドレナ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%A2%E3%83%89%E3%83%AC%E3%83%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "UNDEAD",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20UNDEAD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20UNDEAD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PLAYERS",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20PLAYERS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20PLAYERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "モノトーン",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%83%A2%E3%83%8E%E3%83%88%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BABY",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20BABY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20BABY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Watch me!",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Watch%20me%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Watch%20me%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Biri-Biri",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Biri-Biri%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Biri-Biri",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "New me",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20New%20me%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20New%20me",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HEART BEAT",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20HEART%20BEAT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20HEART%20BEAT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "舞台に立って",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E8%88%9E%E5%8F%B0%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E8%88%9E%E5%8F%B0%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "劇上",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%8A%87%E4%B8%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%8A%87%E4%B8%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-6787882666",
+      "title": "Orion (English Version) - Single",
+      "date": "2026-07-10",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Versione in inglese.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/orion-english-version-single/6787882666?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/bb/d5/5abbd5f3-044d-6547-4d28-6241a68bea1e/820233936859.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Orion (English Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20Orion%20%28English%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20Orion%20%28English%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-6809445134",
+      "title": "オリオン (PSYQUI Remix) - Single",
+      "date": "2026-09-14",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3-psyqui-remix-single/6809445134?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/d2/85/9bd285cc-7742-0e68-f8e2-88dd39d383e6/885288480979.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "オリオン (PSYQUI Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%20%28PSYQUI%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%20%28PSYQUI%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoasobi-6817668875",
+      "title": "咲き誇れ - Single",
+      "date": "2026-10-14",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. Pubblicazione del duo YOASOBI.",
+      "source": "https://www.yoasobi-music.jp/songs/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%92%B2%E3%81%8D%E8%AA%87%E3%82%8C-single/6817668875?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/32/9e/7a329e90-a8e5-cc05-4a8f-142811b9b095/885288733761.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "咲き誇れ",
+                  "youtube": "https://www.youtube.com/results?search_query=YOASOBI%20%E5%92%B2%E3%81%8D%E8%AA%87%E3%82%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/YOASOBI%20%E5%92%B2%E3%81%8D%E8%AA%87%E3%82%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Profilo ufficiale",
+      "url": "https://www.yoasobi-music.jp/profile/"
+    },
+    {
+      "label": "Discografia / repertorio ufficiale",
+      "url": "https://www.yoasobi-music.jp/songs/"
+    },
+    {
+      "label": "Catalogo digitale Apple Music · Giappone",
+      "url": "https://music.apple.com/jp/artist/1490256993"
+    },
+    {
+      "label": "Fonte della fotografia",
+      "url": "https://prtimes.jp/main/html/rd/p/000001370.000055377.html"
+    },
+    {
+      "label": "Profili e ritratti ufficiali Weverse",
+      "url": "https://weverse.io/yoasobi/highlight"
+    },
+    {
+      "label": "Video ufficiale · アイドル · Idol",
+      "url": "https://www.yoasobi-music.jp/news/551361"
+    },
+    {
+      "label": "Video ufficiale · 勇者 · audio ufficiale",
+      "url": "https://www.youtube.com/watch?v=mctEybOqY6s"
+    }
+  ],
+  "videoEditions": []
+}

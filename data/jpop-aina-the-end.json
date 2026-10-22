@@ -1,0 +1,1704 @@
+{
+  "artist": "AiNA THE END",
+  "checkedAt": "2026-10-22",
+  "groupImage": "assets/jpop/aina-the-end/portrait.webp",
+  "members": [],
+  "spotlight": [
+    {
+      "title": "革命道中 - On The Way",
+      "id": "NLIGDjKBLY0",
+      "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+      "source": "https://ainatheend.jp/video/"
+    },
+    {
+      "title": "ルミナス - Luminous",
+      "id": "SR1OfCAmTyI",
+      "url": "https://www.youtube.com/watch?v=SR1OfCAmTyI",
+      "source": "https://ainatheend.jp/video/"
+    },
+    {
+      "title": "No Epilogue",
+      "id": "k18lOXXVCOg",
+      "url": "https://www.youtube.com/watch?v=k18lOXXVCOg",
+      "source": "https://ainatheend.jp/video/"
+    }
+  ],
+  "officialVideos": [
+    {
+      "title": "革命道中 - On The Way",
+      "id": "NLIGDjKBLY0",
+      "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+      "source": "https://ainatheend.jp/video/"
+    },
+    {
+      "title": "ルミナス - Luminous",
+      "id": "SR1OfCAmTyI",
+      "url": "https://www.youtube.com/watch?v=SR1OfCAmTyI",
+      "source": "https://ainatheend.jp/video/"
+    },
+    {
+      "title": "No Epilogue",
+      "id": "k18lOXXVCOg",
+      "url": "https://www.youtube.com/watch?v=k18lOXXVCOg",
+      "source": "https://ainatheend.jp/video/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "aina-the-end-1499431592",
+      "title": "死にたい夜にかぎって - Single",
+      "date": "2020-02-25",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84%E5%A4%9C%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6-single/1499431592?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cb/b7/01/cbb7013b-8371-909b-bebc-221dcf0a8e33/ANTCD-A0000001216.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "死にたい夜にかぎって",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84%E5%A4%9C%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84%E5%A4%9C%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1542698933",
+      "title": "THE END",
+      "date": "2021-02-03",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/the-end/1542698933?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/c4/1b/2fc41bd8-b5ea-3521-7a93-a6dbbceea4e4/ANTCD-A0000003175.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "金木犀",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%87%91%E6%9C%A8%E7%8A%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%87%91%E6%9C%A8%E7%8A%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "虹",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%99%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%99%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NaNa",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20NaNa%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20NaNa",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "粧し込んだ日にかぎって",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E7%B2%A7%E3%81%97%E8%BE%BC%E3%82%93%E3%81%A0%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E7%B2%A7%E3%81%97%E8%BE%BC%E3%82%93%E3%81%A0%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハロウ",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%8F%E3%83%AD%E3%82%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%8F%E3%83%AD%E3%82%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "きえないで",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%8D%E3%81%88%E3%81%AA%E3%81%84%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%8D%E3%81%88%E3%81%AA%E3%81%84%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "日々",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%97%A5%E3%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%97%A5%E3%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STEP by STEP",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20STEP%20by%20STEP%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20STEP%20by%20STEP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "静的情夜",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%9D%99%E7%9A%84%E6%83%85%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%9D%99%E7%9A%84%E6%83%85%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "死にたい夜にかぎって",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84%E5%A4%9C%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84%E5%A4%9C%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サボテンガール",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%B5%E3%83%9C%E3%83%86%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%B5%E3%83%9C%E3%83%86%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スイカ",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%B9%E3%82%A4%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%B9%E3%82%A4%E3%82%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1553826790",
+      "title": "誰誰誰 - Single",
+      "date": "2021-02-23",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E8%AA%B0%E8%AA%B0%E8%AA%B0-single/1553826790?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/e3/71/66e37114-fef8-9488-d75e-361e0b5d0bbc/ANTCD-A0000003709.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "誰誰誰",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1554446117",
+      "title": "内緒 - EP",
+      "date": "2021-03-02",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%86%85%E7%B7%92-ep/1554446117?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9b/fb/8d/9bfb8ddf-1d11-5274-712b-2b347739c694/ANTCD-A0000003642.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "あぁ揺れてる",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%82%E3%81%81%E6%8F%BA%E3%82%8C%E3%81%A6%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%82%E3%81%81%E6%8F%BA%E3%82%8C%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "彼と私の本棚",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%BD%BC%E3%81%A8%E7%A7%81%E3%81%AE%E6%9C%AC%E6%A3%9A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%BD%BC%E3%81%A8%E7%A7%81%E3%81%AE%E6%9C%AC%E6%A3%9A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰誰誰",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勘違いべいびー",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%8B%98%E9%81%95%E3%81%84%E3%81%B9%E3%81%84%E3%81%B3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%8B%98%E9%81%95%E3%81%84%E3%81%B9%E3%81%84%E3%81%B3%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1554797131",
+      "title": "オーケストラ - From THE FIRST TAKE - Single",
+      "date": "2021-03-12",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9-from-the-first-take-single/1554797131?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/73/fa/69/73fa6945-c13b-e32e-b41d-0730d48a6943/ANTCD-A0000003752.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "オーケストラ - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1554797074",
+      "title": "金木犀 - From THE FIRST TAKE - Single",
+      "date": "2021-03-12",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E9%87%91%E6%9C%A8%E7%8A%80-from-the-first-take-single/1554797074?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/63/ef/fb63ef8a-9ca9-aa9a-5b79-e6e0fa39d220/ANTCD-A0000003753.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "金木犀 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%87%91%E6%9C%A8%E7%8A%80%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%87%91%E6%9C%A8%E7%8A%80%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1564456300",
+      "title": "ワタシハココニイマス for 雨 - Single",
+      "date": "2021-04-30",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8F%E3%82%B3%E3%82%B3%E3%83%8B%E3%82%A4%E3%83%9E%E3%82%B9-for-%E9%9B%A8-single/1564456300?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/83/09/2a830956-76a0-812e-99a2-f91e0d883e9b/ANTCD-A0000004309.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ワタシハココニイマス for 雨",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8F%E3%82%B3%E3%82%B3%E3%83%8B%E3%82%A4%E3%83%9E%E3%82%B9%20for%20%E9%9B%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8F%E3%82%B3%E3%82%B3%E3%83%8B%E3%82%A4%E3%83%9E%E3%82%B9%20for%20%E9%9B%A8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1581503868",
+      "title": "ロマンスの血 - Single",
+      "date": "2021-08-20",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E8%A1%80-single/1581503868?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/9d/70/659d706e-6ff4-29d3-2d8c-cbac97631c90/ANTCD-A0000005130.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ロマンスの血",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E8%A1%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E8%A1%80",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1585120372",
+      "title": "BORN SICK - EP",
+      "date": "2021-09-20",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/born-sick-ep/1585120372?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/e0/f6/25e0f615-07e4-ac9e-3d2a-e35720c09619/ANTCD-A0000005105.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Retire",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Retire%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Retire",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "家庭教師",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ロマンスの血",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E8%A1%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E8%A1%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ペチカの夜",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%9A%E3%83%81%E3%82%AB%E3%81%AE%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%9A%E3%83%81%E3%82%AB%E3%81%AE%E5%A4%9C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1589158671",
+      "title": "DEAD HAPPY - EP",
+      "date": "2021-10-25",
+      "kind": "ep",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi. La categoria segue l’edizione digitale; alcuni singoli con più brani sono distribuiti come EP.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/dead-happy-ep/1589158671?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/a9/50/a3a95028-700e-4d77-edbc-f58e39904ba5/ANTCD-A0000005477.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ワタシハココニイマス for 雨",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8F%E3%82%B3%E3%82%B3%E3%83%8B%E3%82%A4%E3%83%9E%E3%82%B9%20for%20%E9%9B%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8F%E3%82%B3%E3%82%B3%E3%83%8B%E3%82%A4%E3%83%9E%E3%82%B9%20for%20%E9%9B%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sweet Boogie",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Sweet%20Boogie%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Sweet%20Boogie",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ZOKINGDOG",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20ZOKINGDOG%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20ZOKINGDOG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おでかけワンピース",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1591034782",
+      "title": "われは海の子 - Single",
+      "date": "2021-10-25",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%8F%E3%82%8C%E3%81%AF%E6%B5%B7%E3%81%AE%E5%AD%90-single/1591034782?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/f5/f7/36f5f78b-887c-9164-d90a-bdc7237b4db1/859757466238_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "われは海の子",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%8F%E3%82%8C%E3%81%AF%E6%B5%B7%E3%81%AE%E5%AD%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%8F%E3%82%8C%E3%81%AF%E6%B5%B7%E3%81%AE%E5%AD%90",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1594675682",
+      "title": "1st solo tour \"THE END\"",
+      "date": "2021-11-24",
+      "kind": "live",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/1st-solo-tour-the-end/1594675682?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/7c/5b/847c5b4a-5b43-46bc-0465-e40ec7f1257e/ANTCD-A0000005751.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ハロウ LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%8F%E3%83%AD%E3%82%A6%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%8F%E3%83%AD%E3%82%A6%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NaNa LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20NaNa%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20NaNa%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サボテンガール LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%B5%E3%83%9C%E3%83%86%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%B5%E3%83%9C%E3%83%86%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "金木犀 LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%87%91%E6%9C%A8%E7%8A%80%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%87%91%E6%9C%A8%E7%8A%80%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "日々 LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%97%A5%E3%80%85%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%97%A5%E3%80%85%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あぁ揺れてる LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%82%E3%81%81%E6%8F%BA%E3%82%8C%E3%81%A6%E3%82%8B%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%82%E3%81%81%E6%8F%BA%E3%82%8C%E3%81%A6%E3%82%8B%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勘違いべいびー LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%8B%98%E9%81%95%E3%81%84%E3%81%B9%E3%81%84%E3%81%B3%E3%83%BC%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%8B%98%E9%81%95%E3%81%84%E3%81%B9%E3%81%84%E3%81%B3%E3%83%BC%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "粧し込んだ日にかぎって LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E7%B2%A7%E3%81%97%E8%BE%BC%E3%82%93%E3%81%A0%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E7%B2%A7%E3%81%97%E8%BE%BC%E3%82%93%E3%81%A0%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "死にたい夜にかぎって LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84%E5%A4%9C%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%AD%BB%E3%81%AB%E3%81%9F%E3%81%84%E5%A4%9C%E3%81%AB%E3%81%8B%E3%81%8E%E3%81%A3%E3%81%A6%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "静的情夜 LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%9D%99%E7%9A%84%E6%83%85%E5%A4%9C%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%9D%99%E7%9A%84%E6%83%85%E5%A4%9C%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "虹 LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%99%B9%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%99%B9%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰誰誰 LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STEP by STEP LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20STEP%20by%20STEP%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20STEP%20by%20STEP%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "きえないで LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%8D%E3%81%88%E3%81%AA%E3%81%84%E3%81%A7%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%8D%E3%81%88%E3%81%AA%E3%81%84%E3%81%A7%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "彼と私の本棚 LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%BD%BC%E3%81%A8%E7%A7%81%E3%81%AE%E6%9C%AC%E6%A3%9A%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%BD%BC%E3%81%A8%E7%A7%81%E3%81%AE%E6%9C%AC%E6%A3%9A%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スイカ LIVE 1st solo tour \"THE END\"",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%B9%E3%82%A4%E3%82%AB%20LIVE%201st%20solo%20tour%20%22THE%20END%22%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%B9%E3%82%A4%E3%82%AB%20LIVE%201st%20solo%20tour%20%22THE%20END%22",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1593697221",
+      "title": "THE ZOMBIE",
+      "date": "2021-11-24",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/the-zombie/1593697221?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/b7/3e/8eb73ec9-e166-8ddd-9055-2ae45260cd14/ANTCD-A0000005743.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ZB1",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20ZB1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20ZB1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ZOKINGDOG",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20ZOKINGDOG%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20ZOKINGDOG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ロマンスの血",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E8%A1%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E8%A1%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sweet Boogie",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Sweet%20Boogie%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Sweet%20Boogie",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "神様",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E7%A5%9E%E6%A7%98%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E7%A5%9E%E6%A7%98",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "はっぴーばーすでー",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%AF%E3%81%A3%E3%81%B4%E3%83%BC%E3%81%B0%E3%83%BC%E3%81%99%E3%81%A7%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%AF%E3%81%A3%E3%81%B4%E3%83%BC%E3%81%B0%E3%83%BC%E3%81%99%E3%81%A7%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Retire",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Retire%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Retire",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰誰誰",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%AA%B0%E8%AA%B0%E8%AA%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "残して",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%AE%8B%E3%81%97%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%AE%8B%E3%81%97%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "家庭教師",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "彼と私の本棚",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%BD%BC%E3%81%A8%E7%A7%81%E3%81%AE%E6%9C%AC%E6%A3%9A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%BD%BC%E3%81%A8%E7%A7%81%E3%81%AE%E6%9C%AC%E6%A3%9A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勘違いべいびー",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%8B%98%E9%81%95%E3%81%84%E3%81%B9%E3%81%84%E3%81%B3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%8B%98%E9%81%95%E3%81%84%E3%81%B9%E3%81%84%E3%81%B3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おでかけワンピース",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ワタシハココニイマス for 雨",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8F%E3%82%B3%E3%82%B3%E3%83%8B%E3%82%A4%E3%83%9E%E3%82%B9%20for%20%E9%9B%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8F%E3%82%B3%E3%82%B3%E3%83%8B%E3%82%A4%E3%83%9E%E3%82%B9%20for%20%E9%9B%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あぁ揺れてる",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%82%E3%81%81%E6%8F%BA%E3%82%8C%E3%81%A6%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%82%E3%81%81%E6%8F%BA%E3%82%8C%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ペチカの夜",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%9A%E3%83%81%E3%82%AB%E3%81%AE%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%9A%E3%83%81%E3%82%AB%E3%81%AE%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "残って",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%AE%8B%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%AE%8B%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1615919214",
+      "title": "大人になって - Single",
+      "date": "2022-04-01",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6-single/1615919214?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/9f/98/449f98a1-5adf-2d21-b223-b883ba68c94f/4580167465257.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "大人になって",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1624613205",
+      "title": "私の真心 - Single",
+      "date": "2022-06-06",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E7%A7%81%E3%81%AE%E7%9C%9F%E5%BF%83-single/1624613205?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/43/26/7e4326c7-4ec4-fcd1-c21f-4846b5eb7ea6/ANTCD-A0000007264.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "私の真心",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E7%A7%81%E3%81%AE%E7%9C%9F%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E7%A7%81%E3%81%AE%E7%9C%9F%E5%BF%83",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1680651244",
+      "title": "Red:birthmark - Single",
+      "date": "2023-04-10",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/red-birthmark-single/1680651244?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/20/82/1120829c-5f76-b880-57bf-e6eb77285b2b/ANTCD-A0000009781.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Red:birthmark",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Red%3Abirthmark%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Red%3Abirthmark",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1693796300",
+      "title": "宝石の日々 - Single",
+      "date": "2023-07-03",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%AE%9D%E7%9F%B3%E3%81%AE%E6%97%A5%E3%80%85-single/1693796300?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/c3/d3/c7c3d3eb-3b74-427c-acf9-35f37a4f5b3b/ANTCD-A0000010566.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "宝石の日々",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%AE%9D%E7%9F%B3%E3%81%AE%E6%97%A5%E3%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%AE%9D%E7%9F%B3%E3%81%AE%E6%97%A5%E3%80%85",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1707502141",
+      "title": "DEBUT · Kyrie",
+      "date": "2023-10-18",
+      "kind": "project",
+      "note": "Progetto cinematografico accreditato a Kyrie (AiNA THE END), distinto dagli album solisti. Edizione digitale giapponese.",
+      "source": "https://ainatheend.jp/discography/detail.php?id=1019958",
+      "trackSource": "https://music.apple.com/jp/album/debut/1707502141?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/5c/12/d55c12d7-f321-a358-9f86-343cfe7d9442/ANTCD-A0000011503.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "キリエ~序曲",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E3%82%AD%E3%83%AA%E3%82%A8~%E5%BA%8F%E6%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E3%82%AD%E3%83%AA%E3%82%A8~%E5%BA%8F%E6%9B%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ひとりが好き",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%8C%E5%A5%BD%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%8C%E5%A5%BD%E3%81%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "幻影",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E5%B9%BB%E5%BD%B1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E5%B9%BB%E5%BD%B1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "宙彩(ソライロ)になって",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E5%AE%99%E5%BD%A9%28%E3%82%BD%E3%83%A9%E3%82%A4%E3%83%AD%29%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E5%AE%99%E5%BD%A9%28%E3%82%BD%E3%83%A9%E3%82%A4%E3%83%AD%29%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ずるいよな",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E3%81%9A%E3%82%8B%E3%81%84%E3%82%88%E3%81%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E3%81%9A%E3%82%8B%E3%81%84%E3%82%88%E3%81%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "名前のない街",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E8%A1%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E8%A1%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ヒカリに",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E3%83%92%E3%82%AB%E3%83%AA%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E3%83%92%E3%82%AB%E3%83%AA%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "前髪上げたくない",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E5%89%8D%E9%AB%AA%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E5%89%8D%E9%AB%AA%E4%B8%8A%E3%81%92%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "虹色クジラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E8%99%B9%E8%89%B2%E3%82%AF%E3%82%B8%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E8%99%B9%E8%89%B2%E3%82%AF%E3%82%B8%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もらったもの",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "燃え尽きる月",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E7%87%83%E3%81%88%E5%B0%BD%E3%81%8D%E3%82%8B%E6%9C%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E7%87%83%E3%81%88%E5%B0%BD%E3%81%8D%E3%82%8B%E6%9C%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キリエ・憐れみの讃歌",
+                  "youtube": "https://www.youtube.com/results?search_query=Kyrie%20AiNA%20THE%20END%20%E3%82%AD%E3%83%AA%E3%82%A8%E3%83%BB%E6%86%90%E3%82%8C%E3%81%BF%E3%81%AE%E8%AE%83%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Kyrie%20AiNA%20THE%20END%20%E3%82%AD%E3%83%AA%E3%82%A8%E3%83%BB%E6%86%90%E3%82%8C%E3%81%BF%E3%81%AE%E8%AE%83%E6%AD%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1712079508",
+      "title": "アイコトバ - Single",
+      "date": "2023-10-27",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90-single/1712079508?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/10/f8/69/10f86923-4915-0f17-6b76-88670df8871f/ANTCD-A0000011832.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "アイコトバ",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1715688734",
+      "title": "華奢な心 - Single",
+      "date": "2023-11-28",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E8%8F%AF%E5%A5%A2%E3%81%AA%E5%BF%83-single/1715688734?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/b5/c6/dab5c60e-dd3a-c5b6-fb0d-ccd46ecaef17/ANTCD-A0000011946.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "華奢な心",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%8F%AF%E5%A5%A2%E3%81%AA%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%8F%AF%E5%A5%A2%E3%81%AA%E5%BF%83",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1722563108",
+      "title": "帆 - Single",
+      "date": "2023-12-31",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%B8%86-single/1722563108?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/02/7f/54027f82-2dbe-36b8-08cb-da04d7a54608/ANTCD-A0000012149.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "帆",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%B8%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%B8%86",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1725933881",
+      "title": "宝者 - Single",
+      "date": "2024-02-05",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%AE%9D%E8%80%85-single/1725933881?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/33/07/6a3307e6-46e0-506b-ab8b-7ab3fc87a4e3/ANTCD-A0000012501.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "宝者",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%AE%9D%E8%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%AE%9D%E8%80%85",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1728013838",
+      "title": "じょいふる - Single",
+      "date": "2024-02-14",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B-single/1728013838?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b3/13/18/b3131867-11d0-754f-e0c5-3511f043dab7/ANTCD-A0000012547.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "じょいふる",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%98%E3%82%87%E3%81%84%E3%81%B5%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1735553943",
+      "title": "Frail - Single",
+      "date": "2024-03-15",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/frail-single/1735553943?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/aa/0c/9baa0c46-4f12-31f2-6584-34f911949ee8/ANTCD-A0000013021.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Frail",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Frail%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Frail",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1752427820",
+      "title": "創造 - Single",
+      "date": "2024-07-04",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%89%B5%E9%80%A0-single/1752427820?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/5e/9c/265e9c8c-1252-5576-9823-eef33f4b34bf/ANTCD-A0000013855.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "創造",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%89%B5%E9%80%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%89%B5%E9%80%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1756121153",
+      "title": "Love Sick - Single",
+      "date": "2024-07-26",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/love-sick-single/1756121153?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/4d/ae/bd4dae1a-895a-d931-8bdd-e5bee6e8e14e/ANTCD-A0000014049.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Love Sick",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Love%20Sick%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Love%20Sick",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1767301196",
+      "title": "ハートにハート - Single",
+      "date": "2024-09-12",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AB%E3%83%8F%E3%83%BC%E3%83%88-single/1767301196?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/d7/81/d2d781b9-620a-411c-4130-f6a40aacaa74/ANTCD-A0000014663.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ハートにハート",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AB%E3%83%8F%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AB%E3%83%8F%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1772018722",
+      "title": "風とくちづけと - Single",
+      "date": "2024-10-09",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E9%A2%A8%E3%81%A8%E3%81%8F%E3%81%A1%E3%81%A5%E3%81%91%E3%81%A8-single/1772018722?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/58/bc/1458bce4-1fdb-44bb-1c33-838574ba3fb8/ANTCD-A0000014946.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "風とくちづけと",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%A2%A8%E3%81%A8%E3%81%8F%E3%81%A1%E3%81%A5%E3%81%91%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%A2%A8%E3%81%A8%E3%81%8F%E3%81%A1%E3%81%A5%E3%81%91%E3%81%A8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1779727929",
+      "title": "RUBY POP",
+      "date": "2024-11-27",
+      "kind": "studio",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/ruby-pop/1779727929?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/99/8c/40998cc1-1431-e7de-0ac6-d6e67acef09b/ANTCD-A0000015208.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "風とくちづけと",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%A2%A8%E3%81%A8%E3%81%8F%E3%81%A1%E3%81%A5%E3%81%91%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%A2%A8%E3%81%A8%E3%81%8F%E3%81%A1%E3%81%A5%E3%81%91%E3%81%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Poppin' Run",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Poppin%27%20Run%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Poppin%27%20Run",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Frail",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Frail%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Frail",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Entropy",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Entropy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Entropy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハートにハート",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AB%E3%83%8F%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AB%E3%83%8F%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love Sick",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Love%20Sick%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Love%20Sick",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "煽り癖と泣き虫",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E7%85%BD%E3%82%8A%E7%99%96%E3%81%A8%E6%B3%A3%E3%81%8D%E8%99%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E7%85%BD%E3%82%8A%E7%99%96%E3%81%A8%E6%B3%A3%E3%81%8D%E8%99%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Jewelry Kiss",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Jewelry%20Kiss%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Jewelry%20Kiss",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "クリスマスカード",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "華奢な心",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%8F%AF%E5%A5%A2%E3%81%AA%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%8F%AF%E5%A5%A2%E3%81%AA%E5%BF%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アイコトバ",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "宝石の日々",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%AE%9D%E7%9F%B3%E3%81%AE%E6%97%A5%E3%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%AE%9D%E7%9F%B3%E3%81%AE%E6%97%A5%E3%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "帆",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%B8%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%B8%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Red:birthmark",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Red%3Abirthmark%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Red%3Abirthmark",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "関係ない",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E9%96%A2%E4%BF%82%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%96%A2%E4%BF%82%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "宝者",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%AE%9D%E8%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%AE%9D%E8%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "はじめての友達",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E5%8F%8B%E9%81%94%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E5%8F%8B%E9%81%94",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1800402549",
+      "title": "花無双 - Single",
+      "date": "2025-03-14",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E8%8A%B1%E7%84%A1%E5%8F%8C-single/1800402549?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/4a/b2/974ab2a6-3847-18ba-cf03-3676c354b678/ANTCD-A0000016084.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "花無双",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E8%8A%B1%E7%84%A1%E5%8F%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E8%8A%B1%E7%84%A1%E5%8F%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "渇望",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E6%B8%87%E6%9C%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E6%B8%87%E6%9C%9B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1804335684",
+      "title": "大丈夫 - Single",
+      "date": "2025-04-10",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%A7%E4%B8%88%E5%A4%AB-single/1804335684?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/44/e4/ac44e461-e0a8-06de-0fd9-f4629d182f4e/ANTCD-A0000016393.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "大丈夫",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20%E5%A4%A7%E4%B8%88%E5%A4%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E5%A4%A7%E4%B8%88%E5%A4%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1808387509",
+      "title": "Aria - Single",
+      "date": "2025-04-30",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/aria-single/1808387509?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/28/3c/5d283cd1-8c9d-adb8-0834-93bca2f5f553/ANTCD-A0000016510.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Aria",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Aria%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Aria",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1821087726",
+      "title": "革命道中 - On The Way - Single",
+      "date": "2025-07-02",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD-on-the-way-single/1821087726?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/3a/cf/0d3acf31-2a58-aa41-f3f1-ea26926bbda6/ANTCD-A0000017039.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "革命道中 - On The Way",
+                  "youtube": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD%20-%20On%20The%20Way",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-1888276096",
+      "title": "ルミナス - Luminous - Single",
+      "date": "2026-04-03",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9-luminous-single/1888276096?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/56/0b/ca560b80-85c9-c1d5-16df-b1fbf2c02d21/ANTCD-A0000019670.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "ルミナス - Luminous",
+                  "youtube": "https://www.youtube.com/watch?v=SR1OfCAmTyI",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B9%20-%20Luminous",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-6768905405",
+      "title": "No Epilogue - Single",
+      "date": "2026-05-29",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/no-epilogue-single/6768905405?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/69/ca/6c69ca17-948c-e164-e8f7-63c10c96cfdb/ANTCD-A0000020097.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "No Epilogue",
+                  "youtube": "https://www.youtube.com/watch?v=k18lOXXVCOg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20No%20Epilogue",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aina-the-end-6782807293",
+      "title": "Blue Shining Star - Single",
+      "date": "2026-07-01",
+      "kind": "single",
+      "note": "Scaletta e data dell’edizione digitale giapponese. Bonus fisici e contenuti video non sono inclusi.",
+      "source": "https://ainatheend.jp/discography/",
+      "trackSource": "https://music.apple.com/jp/album/blue-shining-star-single/6782807293?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale · Giappone",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/7e/7c/ad7e7cd1-d0b8-00b8-58fc-f33fead711f1/ANTCD-A0000020345.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Scaletta audio",
+              "tracks": [
+                {
+                  "title": "Blue Shining Star",
+                  "youtube": "https://www.youtube.com/results?search_query=AiNA%20THE%20END%20Blue%20Shining%20Star%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AiNA%20THE%20END%20Blue%20Shining%20Star",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Profilo ufficiale",
+      "url": "https://ainatheend.jp/profile/"
+    },
+    {
+      "label": "Discografia / repertorio ufficiale",
+      "url": "https://ainatheend.jp/discography/"
+    },
+    {
+      "label": "Catalogo digitale Apple Music · Giappone",
+      "url": "https://music.apple.com/jp/artist/991663287"
+    },
+    {
+      "label": "Fonte della fotografia",
+      "url": "https://avexnet.jp/news/1022583"
+    },
+    {
+      "label": "Video ufficiale · 革命道中 - On The Way",
+      "url": "https://ainatheend.jp/video/"
+    }
+  ],
+  "videoEditions": []
+}
