@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-23",
+  "sources": [
+    "https://www.j1fm.tokyo/j1/developers/",
+    "https://www.j1fm.tokyo/ja/about-j1-radio/",
+    "https://asiadreamradio.com/"
+  ],
+  "stations": [
+    {
+      "id": "j1-hits",
+      "name": "J1 HITS",
+      "mark": "J1",
+      "genre": "J-pop attuale",
+      "description": "I successi giapponesi di oggi e degli ultimi anni: il canale per scoprire nuove voci e ritrovare i brani in classifica.",
+      "stream": "https://jenny.torontocast.com:2000/stream/J1HITS",
+      "url": "https://www.j1fm.tokyo/ja/listen/",
+      "note": "Network internazionale di musica giapponese. Stream dal Canada, autorizzato dal gestore anche per player su altri siti.",
+      "color": "#94e1d1"
+    },
+    {
+      "id": "j1-gold",
+      "name": "J1 GOLD",
+      "mark": "GOLD",
+      "genre": "Classici · era Shōwa",
+      "description": "Le melodie del Giappone di ieri: grandi successi dell’ultima parte dell’era Shōwa, soprattutto anni ’60, ’70 e ’80.",
+      "stream": "https://jenny.torontocast.com:2000/stream/J1GOLD",
+      "url": "https://www.j1fm.tokyo/ja/listen/",
+      "note": "Network internazionale di musica giapponese. Stream dal Canada; ideale per esplorare il repertorio storico.",
+      "color": "#f3cf91"
+    },
+    {
+      "id": "asia-dream",
+      "name": "asia DREAM radio",
+      "mark": "夢 ♪",
+      "genre": "J-pop · rock · idol · jazz",
+      "description": "Un network con più stazioni: Japan Hits, J-Rock Powerplay, J-Pop Powerplay Kawaii, J-Sakura e Jazz Sakura. Scegli il tuo suono sul sito ufficiale.",
+      "url": "https://asiadreamradio.com/",
+      "note": "Network di musica giapponese con trasmissioni autorizzate dal Canada tramite TorontoCast. L’ascolto si apre sul sito ufficiale.",
+      "color": "#f1b6dc"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "J1 XTRA",
+      "reason": "Il flusso ufficiale restituisce HTTP 502 durante entrambe le verifiche del 23 ottobre 2026."
+    }
+  ]
+}
