@@ -2,7 +2,7 @@
 (() => {
   const form = document.querySelector('.tv-filters');
   if (!form) return;
-  const cards = [...document.querySelectorAll('.tv-card')];
+  const cards = [...document.querySelectorAll('#canali-tv .tv-card')];
   const language = document.querySelector('#tv-language');
   const genre = document.querySelector('#tv-genre');
   const render = () => {
