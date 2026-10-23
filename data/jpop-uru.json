@@ -1,0 +1,3324 @@
+{
+  "artist": "Uru",
+  "checkedAt": "2026-10-23",
+  "groupImage": "assets/jpop/uru/portrait.webp",
+  "members": [],
+  "spotlight": [
+    {
+      "id": "e_pdE__o5D8",
+      "title": "「アンビバレント」Music Video",
+      "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "x60xR0TEQ88",
+      "title": "「紙一重」Music Video",
+      "url": "https://www.youtube.com/watch?v=x60xR0TEQ88",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "olWPDel6ti4",
+      "title": "「フリージア」 YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=olWPDel6ti4",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "3v7WdsPDrbA",
+      "title": "それなのに",
+      "url": "https://www.youtube.com/watch?v=3v7WdsPDrbA",
+      "source": "https://uru-official.com/news/detail/1751",
+      "author": "Uru"
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "lA0bWaRKDyo",
+      "title": "「さすらいの唄」Music Video",
+      "url": "https://www.youtube.com/watch?v=lA0bWaRKDyo",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "L9_KqJJwniE",
+      "title": "「傍らにて月夜」Music Video",
+      "url": "https://www.youtube.com/watch?v=L9_KqJJwniE",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "5-o_tvuKSfM",
+      "title": "「愛」Music Video",
+      "url": "https://www.youtube.com/watch?v=5-o_tvuKSfM",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "3hycJ7kT_XE",
+      "title": "「プラットフォーム」Music Video",
+      "url": "https://www.youtube.com/watch?v=3hycJ7kT_XE",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "9h4K4tLd3os",
+      "title": "「手紙」Music Video",
+      "url": "https://www.youtube.com/watch?v=9h4K4tLd3os",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "5AXPUKsoATs",
+      "title": "「Never ends」Music Video",
+      "url": "https://www.youtube.com/watch?v=5AXPUKsoATs",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "5uXSr15629c",
+      "title": "「フィラメント」Music Video",
+      "url": "https://www.youtube.com/watch?v=5uXSr15629c",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "cwish35WV4I",
+      "title": "「春 〜Destiny〜」Music Video",
+      "url": "https://www.youtube.com/watch?v=cwish35WV4I",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "qER-uSRCW_E",
+      "title": "映画『おいしくて泣くとき』本予告 / 主題歌「フィラメント」",
+      "url": "https://www.youtube.com/watch?v=qER-uSRCW_E",
+      "source": "https://uru-official.com/news/7/?page=1",
+      "author": "Uru"
+    },
+    {
+      "id": "e_pdE__o5D8",
+      "title": "「アンビバレント」Music Video",
+      "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "29pmd1QiK-4",
+      "title": "「アンビバレント」TVアニメ『薬屋のひとりごと』ノンクレジットエンディング",
+      "url": "https://www.youtube.com/watch?v=29pmd1QiK-4",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "hkflaNu6yAQ",
+      "title": "Uru「アンビバレント」×TVアニメ『薬屋のひとりごと』コラボレーションMusic Video",
+      "url": "https://www.youtube.com/watch?v=hkflaNu6yAQ",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "Fe45bFvnoNc",
+      "title": "『「君の幸せを」』Music Video",
+      "url": "https://www.youtube.com/watch?v=Fe45bFvnoNc",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "tHcrAUllIxU",
+      "title": "「心得」Music Video",
+      "url": "https://www.youtube.com/watch?v=tHcrAUllIxU",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "x60xR0TEQ88",
+      "title": "「紙一重」Music Video",
+      "url": "https://www.youtube.com/watch?v=x60xR0TEQ88",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "pyvpg2mK5Do",
+      "title": "「紙一重」TVアニメ『地獄楽』ノンクレジットエンディング",
+      "url": "https://www.youtube.com/watch?v=pyvpg2mK5Do",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "pklmKBi_qJk",
+      "title": "「脱・借りて来た猫症候群」Music Video",
+      "url": "https://www.youtube.com/watch?v=pklmKBi_qJk",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "ue4irL_g-UE",
+      "title": "「振り子」THE FIRST TAKE",
+      "url": "https://www.youtube.com/watch?v=ue4irL_g-UE",
+      "source": "https://uru-official.com/news/7/?page=2",
+      "author": "Uru"
+    },
+    {
+      "id": "zVOqiEQJj0w",
+      "title": "「それを愛と呼ぶなら」THE FIRST TAKE",
+      "url": "https://www.youtube.com/watch?v=zVOqiEQJj0w",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "VdFpB4G-J3Y",
+      "title": "「恋」Music Video",
+      "url": "https://www.youtube.com/watch?v=VdFpB4G-J3Y",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "8iszE6zgUv4",
+      "title": "「そばにいるよ」Music Video",
+      "url": "https://www.youtube.com/watch?v=8iszE6zgUv4",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "zPR-LcqWZJU",
+      "title": "「それを愛と呼ぶなら」Music Video",
+      "url": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "WL_v2HjODKE",
+      "title": "「セレナーデ」Music Video",
+      "url": "https://www.youtube.com/watch?v=WL_v2HjODKE",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "5IVlmonzxM8",
+      "title": "「なんでもないよ、」Official Audio",
+      "url": "https://www.youtube.com/watch?v=5IVlmonzxM8",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "RuSNeIcPamk",
+      "title": "「Love Song」Music Video",
+      "url": "https://www.youtube.com/watch?v=RuSNeIcPamk",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "leob2EEN5G4",
+      "title": "「勿忘」Official Audio",
+      "url": "https://www.youtube.com/watch?v=leob2EEN5G4",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "oSc_BgWzw_0",
+      "title": "「ファーストラヴ」 Music Video",
+      "url": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
+      "source": "https://uru-official.com/news/7/?page=3",
+      "author": "Uru"
+    },
+    {
+      "id": "5ZS_Mphf8h8",
+      "title": "「ドライフラワー」Official Audio",
+      "url": "https://www.youtube.com/watch?v=5ZS_Mphf8h8",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "4muxe8YRwPE",
+      "title": "「振り子」Music Video",
+      "url": "https://www.youtube.com/watch?v=4muxe8YRwPE",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "OUZTFpIqhVk",
+      "title": "「Break」Music Video",
+      "url": "https://www.youtube.com/watch?v=OUZTFpIqhVk",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "6vDZLR9NlBk",
+      "title": "映画『罪の声』主題歌「振り子」特別映像",
+      "url": "https://www.youtube.com/watch?v=6vDZLR9NlBk",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "2shsZnOhx60",
+      "title": "「今 逢いに行く」Music Video",
+      "url": "https://www.youtube.com/watch?v=2shsZnOhx60",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "qLMLzBYTTKQ",
+      "title": "「あなたがいることで」Music Video",
+      "url": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "yFs0ImgVDBA",
+      "title": "「あなたがいることで」Self-cover ver.",
+      "url": "https://www.youtube.com/watch?v=yFs0ImgVDBA",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "U7wZ0SphfFI",
+      "title": "Uru「Scenery」×TVアニメ『グランベルム』コラボレーションMV YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=U7wZ0SphfFI",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "oiRMJ2XEE7U",
+      "title": "「願い」YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=oiRMJ2XEE7U",
+      "source": "https://uru-official.com/news/7/?page=4",
+      "author": "Uru"
+    },
+    {
+      "id": "vgLrnfRlWOA",
+      "title": "「プロローグ」YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=vgLrnfRlWOA",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "392676Cbv28",
+      "title": "「プロローグ」Premium Studio Live",
+      "url": "https://www.youtube.com/watch?v=392676Cbv28",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "ubgKS42WZ6w",
+      "title": "Uru「remember」×『劇場版 夏目友人帳 ～うつせみに結ぶ～』コラボレーションMV YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=ubgKS42WZ6w",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "B52DT_OVZbQ",
+      "title": "Uru「奇蹟」×『コウノドリ』コラボレーションMV",
+      "url": "https://www.youtube.com/watch?v=B52DT_OVZbQ",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "zkpfr8VNymg",
+      "title": "「奇蹟」YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=zkpfr8VNymg",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "WyG9su3IW8s",
+      "title": "「しあわせの詩」 YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=WyG9su3IW8s",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "olWPDel6ti4",
+      "title": "「フリージア」 YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=olWPDel6ti4",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "eHSQEbCJUgo",
+      "title": "「The last rain」YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=eHSQEbCJUgo",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "uySy2LklRvQ",
+      "title": "Debut Single「星の中の君」YouTube ver.",
+      "url": "https://www.youtube.com/watch?v=uySy2LklRvQ",
+      "source": "https://uru-official.com/news/7/?page=5",
+      "author": "Uru"
+    },
+    {
+      "id": "3v7WdsPDrbA",
+      "title": "それなのに",
+      "url": "https://www.youtube.com/watch?v=3v7WdsPDrbA",
+      "source": "https://uru-official.com/news/detail/1751",
+      "author": "Uru"
+    },
+    {
+      "id": "impSuIygMiQ",
+      "title": "LiSA×Uru · 再会 (produced by Ayase) / THE FIRST TAKE",
+      "url": "https://www.youtube.com/watch?v=impSuIygMiQ",
+      "source": "https://uru-official.com/news/detail/648",
+      "author": "LiSA×Uru / THE FIRST TAKE"
+    }
+  ],
+  "albums": [
+    {
+      "id": "uru-1535543641",
+      "title": "星の中の君",
+      "date": "2016-06-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B-ep/1535543641?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B-ep/1535543641?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 星の中の君 - EP",
+          "source": "https://music.apple.com/jp/album/%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B-ep/1535543641?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/d9/f9/02d9f912-0669-8fd2-de4a-8b4d2456eeb2/jacket_AICL03121B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "星の中の君",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WORKAHOLIC",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20WORKAHOLIC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20WORKAHOLIC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "すなお",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%99%E3%81%AA%E3%81%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%99%E3%81%AA%E3%81%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "星の中の君 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WORKAHOLIC -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20WORKAHOLIC%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20WORKAHOLIC%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "すなお -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%99%E3%81%AA%E3%81%8A%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%99%E3%81%AA%E3%81%8A%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1535622767",
+      "title": "The last rain",
+      "date": "2016-10-26",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/the-last-rain/1535622767?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/the-last-rain/1535622767?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · The last rain",
+          "source": "https://music.apple.com/jp/album/the-last-rain/1535622767?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/30/c1/6c30c1ae-8634-e61c-b29d-90ecdd546515/jacket_AIXX00919B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "The last rain",
+                  "youtube": "https://www.youtube.com/watch?v=eHSQEbCJUgo",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20The%20last%20rain",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ホントは、ね",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sunny day hometown",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Sunny%20day%20hometown%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Sunny%20day%20hometown",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The last rain -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20The%20last%20rain%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20The%20last%20rain%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ホントは、ね -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sunny day hometown -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Sunny%20day%20hometown%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Sunny%20day%20hometown%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1535622891",
+      "title": "フリージア [TV size]",
+      "date": "2017-01-22",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2-tv-size-single/1535622891?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2-tv-size-single/1535622891?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · フリージア [TV size] - Single",
+          "source": "https://music.apple.com/jp/album/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2-tv-size-single/1535622891?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/73/c1/e0/73c1e0d1-0941-a6ac-2747-20a7a8754165/jacket_AIXX00960B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "フリージア [TV size]",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%20%5BTV%20size%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%20%5BTV%20size%5D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1535545632",
+      "title": "フリージア",
+      "date": "2017-02-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2-ep/1535545632?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2-ep/1535545632?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · フリージア - EP",
+          "source": "https://music.apple.com/jp/album/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2-ep/1535545632?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/09/a6/1b09a651-21b8-c4bc-2991-d4e2f63e803f/jacket_AICL03264B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "フリージア",
+                  "youtube": "https://www.youtube.com/watch?v=olWPDel6ti4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "娘より",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A8%98%E3%82%88%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A8%98%E3%82%88%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "No way !!",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20No%20way%20%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20No%20way%20%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フリージア -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "娘より-instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A8%98%E3%82%88%E3%82%8A-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A8%98%E3%82%88%E3%82%8A-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "No way !!-instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20No%20way%20%21%21-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20No%20way%20%21%21-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1538105039",
+      "title": "しあわせの詩",
+      "date": "2017-06-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9-ep/1538105039?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9-ep/1538105039?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · しあわせの詩 - EP",
+          "source": "https://music.apple.com/jp/album/%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9-ep/1538105039?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/25/d1/6625d196-4511-64d9-57dd-951b91e033b1/jacket_AIXX01028B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "しあわせの詩",
+                  "youtube": "https://www.youtube.com/watch?v=WyG9su3IW8s",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いい男",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%84%E3%81%84%E7%94%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%84%E3%81%84%E7%94%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "5years. (feat. fox capture plan)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%205years.%20%28feat.%20fox%20capture%20plan%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%205years.%20%28feat.%20fox%20capture%20plan%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "しあわせの詩 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いい男 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%84%E3%81%84%E7%94%B7%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%84%E3%81%84%E7%94%B7%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "5years. -instrumental- (feat. fox capture plan)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%205years.%20-instrumental-%20%28feat.%20fox%20capture%20plan%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%205years.%20-instrumental-%20%28feat.%20fox%20capture%20plan%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1538105360",
+      "title": "奇蹟",
+      "date": "2017-11-08",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E5%A5%87%E8%B9%9F-ep/1538105360?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A5%87%E8%B9%9F-ep/1538105360?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 奇蹟 - EP",
+          "source": "https://music.apple.com/jp/album/%E5%A5%87%E8%B9%9F-ep/1538105360?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/db/60/46db6023-978b-b055-9e7f-f7bf4bc3d675/jacket_AIXX01137B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "奇蹟",
+                  "youtube": "https://www.youtube.com/watch?v=zkpfr8VNymg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%87%E8%B9%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたがここにいて抱きしめることができるなら",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AA%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇蹟 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A5%87%E8%B9%9F%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%87%E8%B9%9F%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたがここにいて抱きしめることができるなら -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AA%E3%82%89%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AA%E3%82%89%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1538105840",
+      "title": "モノクローム · Monochrome",
+      "date": "2017-12-20",
+      "kind": "studio",
+      "note": "Edizioni digitali con bonus e cover raggruppate sotto lo stesso album; le scalette e le copertine di ciascuna edizione restano separate. Le date digitali possono precedere il CD.",
+      "source": "https://uru-official.com/discography/kind/2/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0-special-edition/1538105840?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · モノクローム (Special Edition)",
+          "source": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0-special-edition/1538105840?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/61/e6/9161e63e-38c3-2311-658a-a8bf74c1927b/jacket_AIXX01161B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "追憶のふたり",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E8%BF%BD%E6%86%B6%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E8%BF%BD%E6%86%B6%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇蹟",
+                  "youtube": "https://www.youtube.com/watch?v=zkpfr8VNymg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%87%E8%B9%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フリージア",
+                  "youtube": "https://www.youtube.com/watch?v=olWPDel6ti4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "鈍色の日",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%88%8D%E8%89%B2%E3%81%AE%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%88%8D%E8%89%B2%E3%81%AE%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ホントは、ね",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "しあわせの詩",
+                  "youtube": "https://www.youtube.com/watch?v=WyG9su3IW8s",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sunny day hometown",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Sunny%20day%20hometown%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Sunny%20day%20hometown",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "fly",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20fly%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20fly",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The last rain",
+                  "youtube": "https://www.youtube.com/watch?v=eHSQEbCJUgo",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20The%20last%20rain",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いい男",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%84%E3%81%84%E7%94%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%84%E3%81%84%E7%94%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アリアケノツキ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%83%8E%E3%83%84%E3%82%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%83%8E%E3%83%84%E3%82%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "娘より",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A8%98%E3%82%88%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A8%98%E3%82%88%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "すなお",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%99%E3%81%AA%E3%81%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%99%E3%81%AA%E3%81%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "星の中の君",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "楓",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%A5%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%A5%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハッピーエンド",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "糸",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%B3%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B3%B8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Edizione digitale JP · モノクローム(Cover Complete Edition)",
+          "source": "https://music.apple.com/jp/album/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0-cover-complete-edition/1750632278?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/b2/98/f5b298f0-b76a-5f87-7bb2-3b4850117779/4547366689525.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "追憶のふたり",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E8%BF%BD%E6%86%B6%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E8%BF%BD%E6%86%B6%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇蹟",
+                  "youtube": "https://www.youtube.com/watch?v=zkpfr8VNymg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%87%E8%B9%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フリージア",
+                  "youtube": "https://www.youtube.com/watch?v=olWPDel6ti4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "鈍色の日",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%88%8D%E8%89%B2%E3%81%AE%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%88%8D%E8%89%B2%E3%81%AE%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ホントは、ね",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AF%E3%80%81%E3%81%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "しあわせの詩",
+                  "youtube": "https://www.youtube.com/watch?v=WyG9su3IW8s",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E8%A9%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sunny day hometown",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Sunny%20day%20hometown%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Sunny%20day%20hometown",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "fly",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20fly%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20fly",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "The last rain",
+                  "youtube": "https://www.youtube.com/watch?v=eHSQEbCJUgo",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20The%20last%20rain",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いい男",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%84%E3%81%84%E7%94%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%84%E3%81%84%E7%94%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アリアケノツキ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%83%8E%E3%83%84%E3%82%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A2%E3%83%AA%E3%82%A2%E3%82%B1%E3%83%8E%E3%83%84%E3%82%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "娘より",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A8%98%E3%82%88%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A8%98%E3%82%88%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "すなお",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%99%E3%81%AA%E3%81%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%99%E3%81%AA%E3%81%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "星の中の君",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%98%9F%E3%81%AE%E4%B8%AD%E3%81%AE%E5%90%9B",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "Disco 2",
+              "tracks": [
+                {
+                  "title": "楓",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%A5%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%A5%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "たしかなこと",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%9F%E3%81%97%E3%81%8B%E3%81%AA%E3%81%93%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9F%E3%81%97%E3%81%8B%E3%81%AA%E3%81%93%E3%81%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "木蘭の涙",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%9C%A8%E8%98%AD%E3%81%AE%E6%B6%99%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%9C%A8%E8%98%AD%E3%81%AE%E6%B6%99",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "THE OVER",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20THE%20OVER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20THE%20OVER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "OH MY LITTLE GIRL",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20OH%20MY%20LITTLE%20GIRL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20OH%20MY%20LITTLE%20GIRL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真赤",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%9C%9F%E8%B5%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%9C%9F%E8%B5%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハッピーエンド",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "糸",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%B3%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B3%B8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1535549716",
+      "title": "remember",
+      "date": "2018-09-26",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/remember/1535549716?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/remember/1535549716?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · remember",
+          "source": "https://music.apple.com/jp/album/remember/1535549716?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/c3/90/7cc390cd-050a-900f-7e0d-322b734934c2/jacket_AICL03562B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "remember",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20remember%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20remember",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ごめんね。",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "One more time, One more chance",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20One%20more%20time%2C%20One%20more%20chance%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20One%20more%20time%2C%20One%20more%20chance",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フリージア Self-cover ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%20Self-cover%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%20Self-cover%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "remember -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20remember%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20remember%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ごめんね。-instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%E3%80%82-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%E3%80%82-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1538102602",
+      "title": "プロローグ",
+      "date": "2018-12-05",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/1538102602?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/1538102602?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · プロローグ",
+          "source": "https://music.apple.com/jp/album/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0/1538102602?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/8e/77/098e77ec-5158-f62f-ba1e-367bc42b0ec8/jacket_AICL03613B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "プロローグ",
+                  "youtube": "https://www.youtube.com/watch?v=vgLrnfRlWOA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PUZZLE",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20PUZZLE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20PUZZLE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雪の華",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%9B%AA%E3%81%AE%E8%8F%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%9B%AA%E3%81%AE%E8%8F%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇蹟 Self-cover ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A5%87%E8%B9%9F%20Self-cover%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%87%E8%B9%9F%20Self-cover%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "プロローグ -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PUZZLE -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20PUZZLE%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20PUZZLE%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1538108631",
+      "title": "願い",
+      "date": "2019-09-11",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E9%A1%98%E3%81%84/1538108631?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%A1%98%E3%81%84/1538108631?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 願い",
+          "source": "https://music.apple.com/jp/album/%E9%A1%98%E3%81%84/1538108631?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/0c/d5/050cd53c-0aae-945e-d4b0-f69bf80ac0a7/jacket_AIXX01580B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "願い",
+                  "youtube": "https://www.youtube.com/watch?v=oiRMJ2XEE7U",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%A1%98%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Scenery",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Scenery%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Scenery",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "白日",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%99%BD%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%99%BD%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "remember Self-cover ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20remember%20Self-cover%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20remember%20Self-cover%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "願い -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%A1%98%E3%81%84%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%A1%98%E3%81%84%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Scenery -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Scenery%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Scenery%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1535632372",
+      "title": "あなたがいることで",
+      "date": "2020-02-09",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7-single/1535632372?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7-single/1535632372?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · あなたがいることで - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7-single/1535632372?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/2c/14/d02c14f3-d6d7-56cf-0232-9037acb690bb/jacket_AIXX01705B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "あなたがいることで",
+                  "youtube": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1538110016",
+      "title": "オリオンブルー · Orion Blue",
+      "date": "2020-03-18",
+      "kind": "studio",
+      "note": "Edizioni digitali con bonus e cover raggruppate sotto lo stesso album; le scalette e le copertine di ciascuna edizione restano separate. Le date digitali possono precedere il CD.",
+      "source": "https://uru-official.com/discography/kind/2/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC-special-edition/1538110016?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · オリオンブルー (Special Edition)",
+          "source": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC-special-edition/1538110016?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/2a/38/542a38f4-b011-4012-d458-1a218f936661/jacket_AIXX01710B00Z_550.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "プロローグ",
+                  "youtube": "https://www.youtube.com/watch?v=vgLrnfRlWOA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "今 逢いに行く",
+                  "youtube": "https://www.youtube.com/watch?v=2shsZnOhx60",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E4%BB%8A%20%E9%80%A2%E3%81%84%E3%81%AB%E8%A1%8C%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたがいることで",
+                  "youtube": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "space in the space",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20space%20in%20the%20space%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20space%20in%20the%20space",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "marry",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20marry%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20marry",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "願い",
+                  "youtube": "https://www.youtube.com/watch?v=oiRMJ2XEE7U",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%A1%98%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Don't be afraid",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Don%27t%20be%20afraid%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Don%27t%20be%20afraid",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "頑な",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%A0%91%E3%81%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%A0%91%E3%81%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いい女",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%84%E3%81%84%E5%A5%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%84%E3%81%84%E5%A5%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PUZZLE",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20PUZZLE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20PUZZLE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Scenery",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Scenery%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Scenery",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "横顔",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%A8%AA%E9%A1%94%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%A8%AA%E9%A1%94",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "remember",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20remember%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20remember",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Binary Star (feat. Uru)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Binary%20Star%20%28feat.%20Uru%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Binary%20Star%20%28feat.%20Uru%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "3月9日",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%203%E6%9C%889%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%203%E6%9C%889%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Funny Bunny",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Funny%20Bunny%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Funny%20Bunny",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "白日",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%99%BD%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%99%BD%E6%97%A5",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Edizione digitale JP · オリオンブルー(Cover Complete Edition)",
+          "source": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC-cover-complete-edition/1750632493?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/f1/5e/d8f15e76-d06d-6667-2208-360b2264e59a/4547366689518.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "プロローグ",
+                  "youtube": "https://www.youtube.com/watch?v=vgLrnfRlWOA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "今 逢いに行く",
+                  "youtube": "https://www.youtube.com/watch?v=2shsZnOhx60",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E4%BB%8A%20%E9%80%A2%E3%81%84%E3%81%AB%E8%A1%8C%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたがいることで",
+                  "youtube": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "space in the space",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20space%20in%20the%20space%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20space%20in%20the%20space",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "marry",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20marry%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20marry",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "願い",
+                  "youtube": "https://www.youtube.com/watch?v=oiRMJ2XEE7U",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%A1%98%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Don't be afraid",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Don%27t%20be%20afraid%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Don%27t%20be%20afraid",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "頑な",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%A0%91%E3%81%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%A0%91%E3%81%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いい女",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%84%E3%81%84%E5%A5%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%84%E3%81%84%E5%A5%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PUZZLE",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20PUZZLE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20PUZZLE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Scenery",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Scenery%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Scenery",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "横顔",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%A8%AA%E9%A1%94%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%A8%AA%E9%A1%94",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "remember",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20remember%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20remember",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Binary Star (feat. Uru)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Binary%20Star%20%28feat.%20Uru%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Binary%20Star%20%28feat.%20Uru%29",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "Disco 2",
+              "tracks": [
+                {
+                  "title": "3月9日",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%203%E6%9C%889%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%203%E6%9C%889%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カムフラージュ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%AB%E3%83%A0%E3%83%95%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%AB%E3%83%A0%E3%83%95%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "白日",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%99%BD%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%99%BD%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "このまま君だけを奪い去りたい",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E5%90%9B%E3%81%A0%E3%81%91%E3%82%92%E5%A5%AA%E3%81%84%E5%8E%BB%E3%82%8A%E3%81%9F%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E5%90%9B%E3%81%A0%E3%81%91%E3%82%92%E5%A5%AA%E3%81%84%E5%8E%BB%E3%82%8A%E3%81%9F%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Funny Bunny",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Funny%20Bunny%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Funny%20Bunny",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Pretender",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Pretender%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Pretender",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "若者のすべて",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E8%8B%A5%E8%80%85%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E8%8B%A5%E8%80%85%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雪の華",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%9B%AA%E3%81%AE%E8%8F%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%9B%AA%E3%81%AE%E8%8F%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1534199321",
+      "title": "Break / Furiko",
+      "date": "2020-10-28",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/break-furiko-ep/1534199321?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/break-furiko-ep/1534199321?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Break / Furiko - EP",
+          "source": "https://music.apple.com/jp/album/break-furiko-ep/1534199321?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/da/b7/eadab7bd-b935-e065-bd97-25a9183c2a17/4547366477184.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Break",
+                  "youtube": "https://www.youtube.com/watch?v=OUZTFpIqhVk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Break",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "振り子",
+                  "youtube": "https://www.youtube.com/watch?v=4muxe8YRwPE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%8C%AF%E3%82%8A%E5%AD%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "別の人の彼女になったよ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたがいることで (Self-cover version)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%20%28Self-cover%20version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%20%28Self-cover%20version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Break (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Break%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Break%20%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "振り子 (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%8C%AF%E3%82%8A%E5%AD%90%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%8C%AF%E3%82%8A%E5%AD%90%20%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1537406648",
+      "title": "再会 (produced by Ayase) · LiSA×Uru",
+      "date": "2020-11-16",
+      "kind": "collaboration",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP. Collaborazione con LiSA, distinta dalla successiva self-cover di Uru.",
+      "source": "https://uru-official.com/news/detail/660",
+      "trackSource": "https://music.apple.com/jp/album/saikai-produced-by-ayase-single/1537406648?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Saikai (produced by Ayase) - Single",
+          "source": "https://music.apple.com/jp/album/saikai-produced-by-ayase-single/1537406648?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/12/97/51129738-167b-cadc-522d-f80842fdc5f9/4547366483376.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "再会 (produced by Ayase)",
+                  "youtube": "https://www.youtube.com/watch?v=impSuIygMiQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/LiSA%20Uru%20%E5%86%8D%E4%BC%9A%20%28produced%20by%20Ayase%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1548846006",
+      "title": "ファーストラヴ",
+      "date": "2021-02-10",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4/1548846006?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4/1548846006?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · ファーストラヴ",
+          "source": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4/1548846006?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/d7/ff/4ad7ff26-851c-2a36-6a56-7cb51fb0c004/4547366496147.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ファーストラヴ",
+                  "youtube": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無機質",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ドライフラワー",
+                  "youtube": "https://www.youtube.com/watch?v=5ZS_Mphf8h8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Break (Self-cover version)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Break%20%28Self-cover%20version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Break%20%28Self-cover%20version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファーストラヴ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無機質 (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1577550965",
+      "title": "Love Song",
+      "date": "2021-08-25",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/love-song-ep/1577550965?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/love-song-ep/1577550965?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Love Song - EP",
+          "source": "https://music.apple.com/jp/album/love-song-ep/1577550965?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/de/fe/79/defe79d8-7611-b445-1ff8-3475df8955b3/4547366524314.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Love Song",
+                  "youtube": "https://www.youtube.com/watch?v=RuSNeIcPamk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Love%20Song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I don't suit you (Produced by AmPm)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20I%20don%27t%20suit%20you%20%28Produced%20by%20AmPm%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20I%20don%27t%20suit%20you%20%28Produced%20by%20AmPm%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勿忘",
+                  "youtube": "https://www.youtube.com/watch?v=leob2EEN5G4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%8B%BF%E5%BF%98",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファーストラヴ (Self-cover version)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%20%28Self-cover%20version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%20%28Self-cover%20version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love Song (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Love%20Song%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Love%20Song%20%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I don't suit you (Produced by AmPm) [instrumental]",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20I%20don%27t%20suit%20you%20%28Produced%20by%20AmPm%29%20%5Binstrumental%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20I%20don%27t%20suit%20you%20%28Produced%20by%20AmPm%29%20%5Binstrumental%5D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1618736421",
+      "title": "それを愛と呼ぶなら",
+      "date": "2022-05-30",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89-ep/1618736421?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89-ep/1618736421?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · それを愛と呼ぶなら - EP",
+          "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89-ep/1618736421?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/94/f1/fc/94f1fc77-0cc1-aaf2-bc6d-8ccc91a3eab2/4547366561821.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "それを愛と呼ぶなら",
+                  "youtube": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "セレナーデ",
+                  "youtube": "https://www.youtube.com/watch?v=WL_v2HjODKE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なんでもないよ、",
+                  "youtube": "https://www.youtube.com/watch?v=5IVlmonzxM8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E3%82%88%E3%80%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love Song Self-cover ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Love%20Song%20Self-cover%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Love%20Song%20Self-cover%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "それを愛と呼ぶなら -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "セレナーデ -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1649893991",
+      "title": "そばにいるよ",
+      "date": "2022-11-04",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%E3%82%88-single/1649893991?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%E3%82%88-single/1649893991?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · そばにいるよ - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%E3%82%88-single/1649893991?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/c8/c2/b8c8c2a3-32e4-ceac-1e88-876b282cd619/4547366590128.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "そばにいるよ",
+                  "youtube": "https://www.youtube.com/watch?v=8iszE6zgUv4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%E3%82%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1661512228",
+      "title": "コントラスト · Contrast",
+      "date": "2023-01-30",
+      "kind": "studio",
+      "note": "Edizioni digitali con bonus e cover raggruppate sotto lo stesso album; le scalette e le copertine di ciascuna edizione restano separate. Le date digitali possono precedere il CD.",
+      "source": "https://uru-official.com/discography/kind/2/",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88-special-edition/1661512228?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · コントラスト(Special Edition)",
+          "source": "https://music.apple.com/jp/album/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88-special-edition/1661512228?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/71/af/47/71af472f-867f-74a8-e1c5-c2de99af95d4/4547366603378.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "それを愛と呼ぶなら",
+                  "youtube": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そばにいるよ",
+                  "youtube": "https://www.youtube.com/watch?v=8iszE6zgUv4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋",
+                  "youtube": "https://www.youtube.com/watch?v=VdFpB4G-J3Y",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%81%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ランドマーク",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9E%E3%83%BC%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9E%E3%83%BC%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love Song",
+                  "youtube": "https://www.youtube.com/watch?v=RuSNeIcPamk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Love%20Song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ポジティ部入部",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9D%E3%82%B8%E3%83%86%E3%82%A3%E9%83%A8%E5%85%A5%E9%83%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9D%E3%82%B8%E3%83%86%E3%82%A3%E9%83%A8%E5%85%A5%E9%83%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "セレナーデ",
+                  "youtube": "https://www.youtube.com/watch?v=WL_v2HjODKE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Break",
+                  "youtube": "https://www.youtube.com/watch?v=OUZTFpIqhVk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Break",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無機質",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "脱・借りてきた猫症候群",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E8%84%B1%E3%83%BB%E5%80%9F%E3%82%8A%E3%81%A6%E3%81%8D%E3%81%9F%E7%8C%AB%E7%97%87%E5%80%99%E7%BE%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E8%84%B1%E3%83%BB%E5%80%9F%E3%82%8A%E3%81%A6%E3%81%8D%E3%81%9F%E7%8C%AB%E7%97%87%E5%80%99%E7%BE%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハクセキレイ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%8F%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%8F%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファーストラヴ",
+                  "youtube": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "振り子",
+                  "youtube": "https://www.youtube.com/watch?v=4muxe8YRwPE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%8C%AF%E3%82%8A%E5%AD%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "再会 Self-cover ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%86%8D%E4%BC%9A%20Self-cover%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%86%8D%E4%BC%9A%20Self-cover%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ドライフラワー",
+                  "youtube": "https://www.youtube.com/watch?v=5ZS_Mphf8h8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奏(かなで)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A5%8F%28%E3%81%8B%E3%81%AA%E3%81%A7%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%8F%28%E3%81%8B%E3%81%AA%E3%81%A7%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Edizione digitale JP · コントラスト(Cover Complete Edition)",
+          "source": "https://music.apple.com/jp/album/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88-cover-complete-edition/1750631997?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/4d/e0/194de004-d455-6ceb-69c8-95134e0f940b/4547366689426.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "それを愛と呼ぶなら",
+                  "youtube": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そばにいるよ",
+                  "youtube": "https://www.youtube.com/watch?v=8iszE6zgUv4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋",
+                  "youtube": "https://www.youtube.com/watch?v=VdFpB4G-J3Y",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%81%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ランドマーク",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9E%E3%83%BC%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9E%E3%83%BC%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love Song",
+                  "youtube": "https://www.youtube.com/watch?v=RuSNeIcPamk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Love%20Song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ポジティ部入部",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9D%E3%82%B8%E3%83%86%E3%82%A3%E9%83%A8%E5%85%A5%E9%83%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9D%E3%82%B8%E3%83%86%E3%82%A3%E9%83%A8%E5%85%A5%E9%83%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "セレナーデ",
+                  "youtube": "https://www.youtube.com/watch?v=WL_v2HjODKE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Break",
+                  "youtube": "https://www.youtube.com/watch?v=OUZTFpIqhVk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Break",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無機質",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%84%A1%E6%A9%9F%E8%B3%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "脱・借りてきた猫症候群",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E8%84%B1%E3%83%BB%E5%80%9F%E3%82%8A%E3%81%A6%E3%81%8D%E3%81%9F%E7%8C%AB%E7%97%87%E5%80%99%E7%BE%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E8%84%B1%E3%83%BB%E5%80%9F%E3%82%8A%E3%81%A6%E3%81%8D%E3%81%9F%E7%8C%AB%E7%97%87%E5%80%99%E7%BE%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハクセキレイ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%8F%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%8F%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファーストラヴ",
+                  "youtube": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "振り子",
+                  "youtube": "https://www.youtube.com/watch?v=4muxe8YRwPE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%8C%AF%E3%82%8A%E5%AD%90",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "Disco 2",
+              "tracks": [
+                {
+                  "title": "再会 Self-cover ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%86%8D%E4%BC%9A%20Self-cover%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%86%8D%E4%BC%9A%20Self-cover%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なんでもないよ、",
+                  "youtube": "https://www.youtube.com/watch?v=5IVlmonzxM8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E3%82%88%E3%80%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ドライフラワー",
+                  "youtube": "https://www.youtube.com/watch?v=5ZS_Mphf8h8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Missing",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Missing%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Missing",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "別の人の彼女になったよ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%88%A5%E3%81%AE%E4%BA%BA%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勿忘",
+                  "youtube": "https://www.youtube.com/watch?v=leob2EEN5G4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%8B%BF%E5%BF%98",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "白い恋人達",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E9%81%94%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E9%81%94",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奏(かなで)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A5%8F%28%E3%81%8B%E3%81%AA%E3%81%A7%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%8F%28%E3%81%8B%E3%81%AA%E3%81%A7%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1679699225",
+      "title": "紙一重",
+      "date": "2023-04-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E7%B4%99%E4%B8%80%E9%87%8D-single/1679699225?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%B4%99%E4%B8%80%E9%87%8D-single/1679699225?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 紙一重 - Single",
+          "source": "https://music.apple.com/jp/album/%E7%B4%99%E4%B8%80%E9%87%8D-single/1679699225?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/45/05/d94505bb-2985-83e0-cb4d-d07324c4456f/4547366616842.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "紙一重",
+                  "youtube": "https://www.youtube.com/watch?v=x60xR0TEQ88",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B4%99%E4%B8%80%E9%87%8D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1681691967",
+      "title": "心得",
+      "date": "2023-05-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E5%BF%83%E5%BE%97-single/1681691967?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%BF%83%E5%BE%97-single/1681691967?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 心得 - Single",
+          "source": "https://music.apple.com/jp/album/%E5%BF%83%E5%BE%97-single/1681691967?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/ed/36/9ced3637-fefd-0c49-0e07-199df8176dfa/4547366617627.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "心得",
+                  "youtube": "https://www.youtube.com/watch?v=tHcrAUllIxU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%BF%83%E5%BE%97",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1689537778",
+      "title": "振り子 - From THE FIRST TAKE",
+      "date": "2023-06-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E6%8C%AF%E3%82%8A%E5%AD%90-from-the-first-take-single/1689537778?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%8C%AF%E3%82%8A%E5%AD%90-from-the-first-take-single/1689537778?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 振り子 - From THE FIRST TAKE - Single",
+          "source": "https://music.apple.com/jp/album/%E6%8C%AF%E3%82%8A%E5%AD%90-from-the-first-take-single/1689537778?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/6a/20/2e6a2028-0003-df8a-fab7-595c3b73b353/4547366625561.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "振り子 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/watch?v=ue4irL_g-UE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%8C%AF%E3%82%8A%E5%AD%90%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1689538198",
+      "title": "それを愛と呼ぶなら - From THE FIRST TAKE",
+      "date": "2023-06-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89-from-the-first-take-single/1689538198?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89-from-the-first-take-single/1689538198?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · それを愛と呼ぶなら - From THE FIRST TAKE - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89-from-the-first-take-single/1689538198?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/37/b4/5a37b4d9-8c08-cafe-7db0-930ed36a23fe/4547366625578.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "それを愛と呼ぶなら - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/watch?v=zVOqiEQJj0w",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1689538237",
+      "title": "心得 / 紙一重",
+      "date": "2023-06-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E5%BF%83%E5%BE%97-%E7%B4%99%E4%B8%80%E9%87%8D-ep/1689538237?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%BF%83%E5%BE%97-%E7%B4%99%E4%B8%80%E9%87%8D-ep/1689538237?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 心得 / 紙一重 - EP",
+          "source": "https://music.apple.com/jp/album/%E5%BF%83%E5%BE%97-%E7%B4%99%E4%B8%80%E9%87%8D-ep/1689538237?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/93/1a/2e931a8b-e843-c214-0006-ebaf050938c4/4547366625929.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "心得",
+                  "youtube": "https://www.youtube.com/watch?v=tHcrAUllIxU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%BF%83%E5%BE%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "紙一重",
+                  "youtube": "https://www.youtube.com/watch?v=x60xR0TEQ88",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B4%99%E4%B8%80%E9%87%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "それを愛と呼ぶなら - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/watch?v=zVOqiEQJj0w",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%AA%E3%82%89%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "振り子 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/watch?v=ue4irL_g-UE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%8C%AF%E3%82%8A%E5%AD%90%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "心得 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%BF%83%E5%BE%97%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%BF%83%E5%BE%97%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "紙一重 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%B4%99%E4%B8%80%E9%87%8D%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B4%99%E4%B8%80%E9%87%8D%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1714727085",
+      "title": "「君の幸せを」",
+      "date": "2023-11-22",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92-single/1714727085?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92-single/1714727085?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 「君の幸せを」 - Single",
+          "source": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92-single/1714727085?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/a6/12/7fa612b3-bc21-5e28-a6a1-0f4a7282e9da/4547366655032.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "「君の幸せを」",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1723078321",
+      "title": "アンビバレント",
+      "date": "2024-01-20",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88-single/1723078321?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88-single/1723078321?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · アンビバレント - Single",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88-single/1723078321?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/64/67/6764679f-ccef-d75a-1cb3-e580c28838fe/4547366660852.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アンビバレント",
+                  "youtube": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1728415542",
+      "title": "アンビバレント",
+      "date": "2024-02-14",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88-ep/1728415542?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88-ep/1728415542?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · アンビバレント - EP",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88-ep/1728415542?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3d/23/e5/3d23e542-b21a-8310-b093-5c1f1635eb61/4547366669398.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アンビバレント",
+                  "youtube": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "「君の幸せを」",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ランデヴー",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "紙一重 Self-cover ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%B4%99%E4%B8%80%E9%87%8D%20Self-cover%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B4%99%E4%B8%80%E9%87%8D%20Self-cover%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アンビバレント -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "「君の幸せを」 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1747241508",
+      "title": "奏(かなで)",
+      "date": "2024-05-29",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E5%A5%8F-%E3%81%8B%E3%81%AA%E3%81%A7-single/1747241508?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A5%8F-%E3%81%8B%E3%81%AA%E3%81%A7-single/1747241508?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 奏(かなで) - Single",
+          "source": "https://music.apple.com/jp/album/%E5%A5%8F-%E3%81%8B%E3%81%AA%E3%81%A7-single/1747241508?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/80/2c/48802c89-1d46-b2f7-002a-d166f5baa528/4547366687507.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "奏(かなで)",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A5%8F%28%E3%81%8B%E3%81%AA%E3%81%A7%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A5%8F%28%E3%81%8B%E3%81%AA%E3%81%A7%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1800684676",
+      "title": "春 ～Destiny～",
+      "date": "2025-03-18",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E6%98%A5-destiny-single/1800684676?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%A5-destiny-single/1800684676?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 春 ～Destiny～ - Single",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5-destiny-single/1800684676?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/a2/c1/7ca2c144-7ac2-7425-ede1-cb90a151a1ab/4547366738247.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春 ～Destiny～",
+                  "youtube": "https://www.youtube.com/watch?v=cwish35WV4I",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%98%A5%20%EF%BD%9EDestiny%EF%BD%9E",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1803215166",
+      "title": "フィラメント",
+      "date": "2025-04-04",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-single/1803215166?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-single/1803215166?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · フィラメント - Single",
+          "source": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-single/1803215166?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/57/1c/73571c09-b9fa-ad68-0025-1decc13359c4/4547366740882.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "フィラメント",
+                  "youtube": "https://www.youtube.com/watch?v=5uXSr15629c",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1823015556",
+      "title": "Never ends",
+      "date": "2025-07-11",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/never-ends-single/1823015556?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/never-ends-single/1823015556?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Never ends - Single",
+          "source": "https://music.apple.com/jp/album/never-ends-single/1823015556?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/ab/c2/c5abc214-c8a2-ed30-c334-c88139ad20a4/4547366758450.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Never ends",
+                  "youtube": "https://www.youtube.com/watch?v=5AXPUKsoATs",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Never%20ends",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1828857728",
+      "title": "手紙",
+      "date": "2025-08-13",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E6%89%8B%E7%B4%99-single/1828857728?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%89%8B%E7%B4%99-single/1828857728?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 手紙 - Single",
+          "source": "https://music.apple.com/jp/album/%E6%89%8B%E7%B4%99-single/1828857728?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/fd/4c/7bfd4c30-a161-f0d5-bf17-4d6620218c8c/4547366767698.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "手紙",
+                  "youtube": "https://www.youtube.com/watch?v=9h4K4tLd3os",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%89%8B%E7%B4%99",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1832656331",
+      "title": "Never ends / 手紙",
+      "date": "2025-08-27",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/never-ends-%E6%89%8B%E7%B4%99-ep/1832656331?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/never-ends-%E6%89%8B%E7%B4%99-ep/1832656331?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Never ends / 手紙 - EP",
+          "source": "https://music.apple.com/jp/album/never-ends-%E6%89%8B%E7%B4%99-ep/1832656331?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/9c/72/599c72f0-67e4-f74b-bdc9-8cff744e1f2a/4547366771473.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Never ends",
+                  "youtube": "https://www.youtube.com/watch?v=5AXPUKsoATs",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Never%20ends",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "手紙",
+                  "youtube": "https://www.youtube.com/watch?v=9h4K4tLd3os",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%89%8B%E7%B4%99",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青と夏",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%9D%92%E3%81%A8%E5%A4%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%9D%92%E3%81%A8%E5%A4%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Never ends -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20Never%20ends%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20Never%20ends%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "手紙 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%89%8B%E7%B4%99%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%89%8B%E7%B4%99%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1843380733",
+      "title": "プラットフォーム",
+      "date": "2025-10-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-single/1843380733?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-single/1843380733?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · プラットフォーム - Single",
+          "source": "https://music.apple.com/jp/album/%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-single/1843380733?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/66/09/19660935-1407-99ab-d673-fd8ffab94fb9/4547366781335.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "プラットフォーム",
+                  "youtube": "https://www.youtube.com/watch?v=3hycJ7kT_XE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1852482210",
+      "title": "プラットフォーム",
+      "date": "2025-11-26",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-ep/1852482210?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-ep/1852482210?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · プラットフォーム - EP",
+          "source": "https://music.apple.com/jp/album/%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-ep/1852482210?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/f3/16/17f316a9-bd7f-77ea-8b1a-f481cfdf2024/4547366790771.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "プラットフォーム",
+                  "youtube": "https://www.youtube.com/watch?v=3hycJ7kT_XE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛",
+                  "youtube": "https://www.youtube.com/watch?v=5-o_tvuKSfM",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%84%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エイリアンズ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "プラットフォーム -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%20-instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛 -instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E6%84%9B%20-instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%84%9B%20-instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1866769920",
+      "title": "傍らにて月夜",
+      "date": "2026-01-19",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E5%82%8D%E3%82%89%E3%81%AB%E3%81%A6%E6%9C%88%E5%A4%9C-single/1866769920?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%82%8D%E3%82%89%E3%81%AB%E3%81%A6%E6%9C%88%E5%A4%9C-single/1866769920?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 傍らにて月夜 - Single",
+          "source": "https://music.apple.com/jp/album/%E5%82%8D%E3%82%89%E3%81%AB%E3%81%A6%E6%9C%88%E5%A4%9C-single/1866769920?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/64/6c/5d646c93-c1b1-ba96-7f0f-b0069d3bb177/4547366798838.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "傍らにて月夜",
+                  "youtube": "https://www.youtube.com/watch?v=L9_KqJJwniE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%82%8D%E3%82%89%E3%81%AB%E3%81%A6%E6%9C%88%E5%A4%9C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1871116826",
+      "title": "今日という日を",
+      "date": "2026-02-09",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92-single/1871116826?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92-single/1871116826?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 今日という日を - Single",
+          "source": "https://music.apple.com/jp/album/%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92-single/1871116826?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/4f/fc/d74ffcba-bdce-8fb9-444e-753ce713a268/4547366802177.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "今日という日を",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1872968990",
+      "title": "tone",
+      "date": "2026-02-18",
+      "kind": "studio",
+      "note": "Edizioni digitali con bonus e cover raggruppate sotto lo stesso album; le scalette e le copertine di ciascuna edizione restano separate. Le date digitali possono precedere il CD. La confezione fisica [カバー盤] aggiunge otto cover: è documentata come edizione separata dal digitale Special Edition.",
+      "source": "https://uru-official.com/feature/tone",
+      "trackSource": "https://music.apple.com/jp/album/tone-special-edition/1872968990?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · tone (Special Edition)",
+          "source": "https://music.apple.com/jp/album/tone-special-edition/1872968990?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/b8/9d/21b89d1c-bdb8-e93a-49b3-f56cafc21cff/4547366803730.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "今日という日を",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "傍らにて月夜",
+                  "youtube": "https://www.youtube.com/watch?v=L9_KqJJwniE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%82%8D%E3%82%89%E3%81%AB%E3%81%A6%E6%9C%88%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "手紙",
+                  "youtube": "https://www.youtube.com/watch?v=9h4K4tLd3os",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%89%8B%E7%B4%99",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アンビバレント",
+                  "youtube": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フィラメント",
+                  "youtube": "https://www.youtube.com/watch?v=5uXSr15629c",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "「君の幸せを」",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミラクル",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春 ～Destiny～",
+                  "youtube": "https://www.youtube.com/watch?v=cwish35WV4I",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%98%A5%20%EF%BD%9EDestiny%EF%BD%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さすらいの唄",
+                  "youtube": "https://www.youtube.com/watch?v=lA0bWaRKDyo",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%94%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "紙一重",
+                  "youtube": "https://www.youtube.com/watch?v=x60xR0TEQ88",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B4%99%E4%B8%80%E9%87%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛",
+                  "youtube": "https://www.youtube.com/watch?v=5-o_tvuKSfM",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%84%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "プラットフォーム",
+                  "youtube": "https://www.youtube.com/watch?v=3hycJ7kT_XE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Never ends",
+                  "youtube": "https://www.youtube.com/watch?v=5AXPUKsoATs",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Never%20ends",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夜が明けるまで",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A4%9C%E3%81%8C%E6%98%8E%E3%81%91%E3%82%8B%E3%81%BE%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A4%9C%E3%81%8C%E6%98%8E%E3%81%91%E3%82%8B%E3%81%BE%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "心得",
+                  "youtube": "https://www.youtube.com/watch?v=tHcrAUllIxU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%BF%83%E5%BE%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "傷つける",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%82%B7%E3%81%A4%E3%81%91%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%82%B7%E3%81%A4%E3%81%91%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エイリアンズ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "たとえば",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CD fisico JP · tone [カバー盤] · AICL-4864〜5",
+          "source": "https://uru-official.com/feature/tone",
+          "sourceLabel": "Fonte della scaletta fisica · sito ufficiale Uru",
+          "cover": "https://uru-official.com/static/fcuru/feature/tone/images/ph_jkt_03_Ba4ZYkWU.jpg",
+          "discs": [
+            {
+              "label": "Disco 1 · album originale",
+              "tracks": [
+                {
+                  "title": "今日という日を",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E4%BB%8A%E6%97%A5%E3%81%A8%E3%81%84%E3%81%86%E6%97%A5%E3%82%92",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "傍らにて月夜",
+                  "youtube": "https://www.youtube.com/watch?v=L9_KqJJwniE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%82%8D%E3%82%89%E3%81%AB%E3%81%A6%E6%9C%88%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "手紙",
+                  "youtube": "https://www.youtube.com/watch?v=9h4K4tLd3os",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%89%8B%E7%B4%99",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アンビバレント",
+                  "youtube": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フィラメント",
+                  "youtube": "https://www.youtube.com/watch?v=5uXSr15629c",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "「君の幸せを」",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%80%8C%E5%90%9B%E3%81%AE%E5%B9%B8%E3%81%9B%E3%82%92%E3%80%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミラクル",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春 ～Destiny～",
+                  "youtube": "https://www.youtube.com/watch?v=cwish35WV4I",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%98%A5%20%EF%BD%9EDestiny%EF%BD%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さすらいの唄",
+                  "youtube": "https://www.youtube.com/watch?v=lA0bWaRKDyo",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%94%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "紙一重",
+                  "youtube": "https://www.youtube.com/watch?v=x60xR0TEQ88",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%B4%99%E4%B8%80%E9%87%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛",
+                  "youtube": "https://www.youtube.com/watch?v=5-o_tvuKSfM",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E6%84%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "プラットフォーム",
+                  "youtube": "https://www.youtube.com/watch?v=3hycJ7kT_XE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Never ends",
+                  "youtube": "https://www.youtube.com/watch?v=5AXPUKsoATs",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20Never%20ends",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夜が明けるまで",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%A4%9C%E3%81%8C%E6%98%8E%E3%81%91%E3%82%8B%E3%81%BE%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%A4%9C%E3%81%8C%E6%98%8E%E3%81%91%E3%82%8B%E3%81%BE%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "心得",
+                  "youtube": "https://www.youtube.com/watch?v=tHcrAUllIxU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%BF%83%E5%BE%97",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "Disco 2 · cover",
+              "tracks": [
+                {
+                  "title": "青と夏",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E9%9D%92%E3%81%A8%E5%A4%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E9%9D%92%E3%81%A8%E5%A4%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瞳をとじて",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E7%9E%B3%E3%82%92%E3%81%A8%E3%81%98%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E7%9E%B3%E3%82%92%E3%81%A8%E3%81%98%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "虹",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E8%99%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E8%99%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "傷つける",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%82%B7%E3%81%A4%E3%81%91%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%82%B7%E3%81%A4%E3%81%91%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エイリアンズ",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ランデヴー",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "幸せな結末",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E5%B9%B8%E3%81%9B%E3%81%AA%E7%B5%90%E6%9C%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E5%B9%B8%E3%81%9B%E3%81%AA%E7%B5%90%E6%9C%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "たとえば",
+                  "youtube": "https://www.youtube.com/results?search_query=Uru%20%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-1895692146",
+      "title": "さすらいの唄",
+      "date": "2026-05-08",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://music.apple.com/jp/album/%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%94%84-single/1895692146?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%94%84-single/1895692146?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · さすらいの唄 - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%94%84-single/1895692146?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/18/6e/40186ea7-ced4-c4d6-ff36-6461dff9fdce/4547366823967.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "さすらいの唄",
+                  "youtube": "https://www.youtube.com/watch?v=lA0bWaRKDyo",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%94%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uru-6819946795",
+      "title": "それなのに",
+      "date": "2026-10-21",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. I singoli restano classificati secondo la pubblicazione ufficiale, anche quando il negozio digitale li etichetta come EP.",
+      "source": "https://uru-official.com/news/detail/1750",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%81%AA%E3%81%AE%E3%81%AB-single/6819946795?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · それなのに - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%81%AA%E3%81%AE%E3%81%AB-single/6819946795?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/cb/2a/bfcb2a95-29a7-4aad-8083-fed1cbd46986/4547366858440.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "それなのに",
+                  "youtube": "https://www.youtube.com/watch?v=3v7WdsPDrbA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Uru%20%E3%81%9D%E3%82%8C%E3%81%AA%E3%81%AE%E3%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Biografia e ritratto ufficiali",
+      "url": "https://uru-official.com/feature/biography"
+    },
+    {
+      "label": "Discografia ufficiale · album",
+      "url": "https://uru-official.com/discography/kind/2/"
+    },
+    {
+      "label": "Discografia ufficiale · singoli",
+      "url": "https://uru-official.com/discography/kind/1/"
+    },
+    {
+      "label": "Catalogo digitale giapponese · Apple Music",
+      "url": "https://music.apple.com/jp/artist/uru/1124533435"
+    },
+    {
+      "label": "Uru su Spotify",
+      "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+    },
+    {
+      "label": "tone · edizioni, scalette e video",
+      "url": "https://uru-official.com/feature/tone"
+    },
+    {
+      "label": "それなのに · uscita del singolo",
+      "url": "https://uru-official.com/news/detail/1750"
+    },
+    {
+      "label": "それなのに · video ufficiale",
+      "url": "https://uru-official.com/news/detail/1751"
+    },
+    {
+      "label": "アンビバレント · The Apothecary Diaries e 紙一重 · Hell’s Paradise",
+      "url": "https://uru-official.com/news/detail/1336"
+    },
+    {
+      "label": "LiSA×Uru · 再会 e THE FIRST TAKE",
+      "url": "https://uru-official.com/news/detail/648"
+    }
+  ],
+  "excluded": [
+    {
+      "collectionId": 1890746878,
+      "title": "Dromos (feat. Uru)",
+      "reason": "Pubblicazione a nome Nana Tiempo: identità dell’ospite non confermata dalle fonti ufficiali di Uru."
+    }
+  ]
+}

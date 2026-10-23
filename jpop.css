@@ -25,3 +25,5 @@
 .music-ado{--music-accent:#76c9ed}.music-ado .music-hero>img{object-position:center 20%}.music-ado .music-hero:after{background:linear-gradient(90deg,#131524 0%,#131524ee 30%,#13152422 64%),linear-gradient(0deg,#13152477,transparent 65%)}@media(max-width:650px){.music-ado .music-hero:after{display:none}}
 
 .music-piggs{--music-accent:#e9a0c1}.music-piggs .music-hero>img{object-position:center 30%}.music-piggs .music-hero:after{background:linear-gradient(90deg,#131524 0%,#131524e8 27%,#1315241a 68%),linear-gradient(0deg,#131524,transparent 45%)}.music-piggs .member-portrait{height:350px}.music-piggs .member-portrait img{object-position:center top}@media(max-width:650px){.music-piggs .music-hero:after{display:none}.music-piggs .member-portrait{height:280px}}
+
+.music-uru{--music-accent:#b6d9d6}.music-uru .music-hero>img{object-position:center 35%}.music-uru .music-hero:after{background:linear-gradient(90deg,#131524 0%,#131524e8 28%,#13152408 65%),linear-gradient(0deg,#131524,transparent 50%)}@media(max-width:650px){.music-uru .music-hero:after{display:none}}
