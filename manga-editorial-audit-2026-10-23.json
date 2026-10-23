@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-23",
+  "scope": "IT/EN editorial checks; no inventory or EUR pricing changes",
+  "items": [
+    {
+      "id": "manga-ac-9640",
+      "note": "Star Comics: volume 2 separate edition 13/10/2026 €9.90; box already owned remains one unit €29.90.",
+      "source": "https://www.starcomics.com/fumetto/magic-knight-rayearth-2-clamp-premium-collection-2"
+    },
+    {
+      "id": "manga-ac-22091",
+      "note": "Seven Seas English volume 14 scheduled 27/10/2026, $13.99; separate from Italian Saldapress five owned entries.",
+      "source": "https://sevenseasentertainment.com/books/the-dungeon-of-black-company-vol-14/"
+    },
+    {
+      "id": "manga-ac-37473",
+      "note": "English manga adaptation volume 9 scheduled 03/11/2026; distinct from the light novel series and five historical light novel units.",
+      "source": "https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-manga-vol-9/"
+    }
+  ]
+}
