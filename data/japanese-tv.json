@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-23",
+  "note": "Pagine ufficiali verificate. La presenza di un servizio live non garantisce la riproduzione da ogni territorio o dispositivo. Nessun monitoraggio in tempo reale dello stato.",
+  "channels": [
+    {
+      "id": "nhk",
+      "name": "NHK WORLD-JAPAN",
+      "jp": "NHK ワールド JAPAN",
+      "mark": "NHK",
+      "genre": "cultura",
+      "label": "Cultura e notizie",
+      "language": "en",
+      "lang": "Inglese",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/live_tv/",
+      "description": "Il Giappone raccontato al mondo: viaggi, cucina, documentari, cultura e i notiziari NHK NEWSLINE.",
+      "note": "Canale internazionale in inglese, con palinsesto sulla pagina ufficiale. Alcuni contenuti possono avere limitazioni territoriali.",
+      "schedule": "Canale TV · 24 ore",
+      "color": "#94e1d1"
+    },
+    {
+      "id": "ntv",
+      "name": "日テレNEWS24",
+      "jp": "Nippon TV · NNN",
+      "mark": "NNN",
+      "genre": "notizie",
+      "label": "Notizie",
+      "language": "ja",
+      "lang": "Giapponese",
+      "url": "https://news.ntv.co.jp/live",
+      "description": "La diretta informativa di Nippon TV: attualità, cronaca e aggiornamenti dalla rete di redazioni NNN.",
+      "note": "Diretta del canale di notizie NEWS24. Non include il palinsesto di intrattenimento di Nippon TV.",
+      "schedule": "Notizie · 24 ore",
+      "color": "#b9b4ff"
+    },
+    {
+      "id": "tbs",
+      "name": "TBS NEWS DIG",
+      "jp": "TBS・JNN · 24h DIG LIVE",
+      "mark": "DIG",
+      "genre": "notizie",
+      "label": "Notizie",
+      "language": "ja",
+      "lang": "Giapponese",
+      "url": "https://newsdig.tbs.co.jp/list/live",
+      "description": "Un flusso continuo di aggiornamenti dal Giappone, con notizie della rete JNN, conferenze e approfondimenti.",
+      "note": "Seleziona il player «24h DIG LIVE» in cima alla pagina. È la diretta informativa, non tutti i programmi TBS.",
+      "schedule": "Notizie · 24 ore",
+      "color": "#ffaaa1"
+    },
+    {
+      "id": "weathernews",
+      "name": "Weathernews LiVE",
+      "jp": "ウェザーニュースLiVE",
+      "mark": "WN",
+      "genre": "meteo",
+      "label": "Meteo e territorio",
+      "language": "ja",
+      "lang": "Giapponese",
+      "url": "https://www.youtube.com/user/weathernews/live",
+      "source": "https://weathernews.jp/wnl/",
+      "description": "Previsioni, immagini dal territorio e conversazioni in studio: una finestra quotidiana sul tempo e sulle stagioni giapponesi.",
+      "note": "Programma meteo in diretta su YouTube. La trasmissione è suddivisa in sessioni; il collegamento apre la live corrente del canale ufficiale.",
+      "schedule": "Web TV · 24 ore",
+      "color": "#9ecbff"
+    },
+    {
+      "id": "qvc",
+      "name": "QVC Japan",
+      "jp": "QVC ジャパン",
+      "mark": "QVC",
+      "genre": "shopping",
+      "label": "Shopping TV",
+      "language": "ja",
+      "lang": "Giapponese",
+      "url": "https://qvc.jp/content/shop-live-tv.html",
+      "description": "La televisione delle televendite giapponesi: dimostrazioni dal vivo, presentatori e prodotti per la vita di ogni giorno.",
+      "note": "La visione è gratuita e non richiede acquisti. Si apre il player live ufficiale di QVC Japan.",
+      "schedule": "Canale TV · 24 ore",
+      "color": "#f1b6dc"
+    }
+  ]
+}
