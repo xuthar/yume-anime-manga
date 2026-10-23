@@ -1,0 +1,1925 @@
+{
+  "artist": "PIGGS",
+  "checkedAt": "2026-10-23",
+  "groupImage": "assets/jpop/piggs/group.webp",
+  "members": [
+    {
+      "name": "BAN-BAN",
+      "japanese": "PIGGS · formazione finale",
+      "bio": "Voce e performance nella formazione finale delle PIGGS, documentata dal profilo ufficiale del gruppo.",
+      "image": "assets/jpop/piggs/ban-ban.webp",
+      "link": "https://fan.pia.jp/PIGGS/page/profile",
+      "imageSource": "https://fan.pia.jp/PIGGS/page/profile"
+    },
+    {
+      "name": "SHELLME",
+      "japanese": "PIGGS · formazione finale",
+      "bio": "Voce e performance nella formazione finale delle PIGGS, documentata dal profilo ufficiale del gruppo.",
+      "image": "assets/jpop/piggs/shellme.webp",
+      "link": "https://fan.pia.jp/PIGGS/page/profile",
+      "imageSource": "https://fan.pia.jp/PIGGS/page/profile"
+    },
+    {
+      "name": "KINCHAN",
+      "japanese": "PIGGS · formazione finale",
+      "bio": "Voce e performance nella formazione finale delle PIGGS, documentata dal profilo ufficiale del gruppo.",
+      "image": "assets/jpop/piggs/kinchan.webp",
+      "link": "https://fan.pia.jp/PIGGS/page/profile",
+      "imageSource": "https://fan.pia.jp/PIGGS/page/profile"
+    },
+    {
+      "name": "BIBI",
+      "japanese": "PIGGS · formazione finale",
+      "bio": "Voce e performance nella formazione finale delle PIGGS, documentata dal profilo ufficiale del gruppo.",
+      "image": "assets/jpop/piggs/bibi.webp",
+      "link": "https://fan.pia.jp/PIGGS/page/profile",
+      "imageSource": "https://fan.pia.jp/PIGGS/page/profile"
+    },
+    {
+      "name": "SU-RING",
+      "japanese": "PIGGS · formazione finale",
+      "bio": "Voce e performance nella formazione finale delle PIGGS, documentata dal profilo ufficiale del gruppo.",
+      "image": "assets/jpop/piggs/su-ring.webp",
+      "link": "https://fan.pia.jp/PIGGS/page/profile",
+      "imageSource": "https://fan.pia.jp/PIGGS/page/profile"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "GoCQGF4kPa0",
+      "title": "PIGGS / ズレてけよgenius [Official Video]",
+      "url": "https://www.youtube.com/watch?v=GoCQGF4kPa0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "S4ymmV_5tlU",
+      "title": "PIGGS / HALLO ALIEN [Official Video]",
+      "url": "https://www.youtube.com/watch?v=S4ymmV_5tlU",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "0oHw2v7FjPg",
+      "title": "PIGGS / 負けんなBABY[Official Video]",
+      "url": "https://www.youtube.com/watch?v=0oHw2v7FjPg",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "GdJVFXVi-r0",
+      "title": "Piggy　[OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=GdJVFXVi-r0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "GoCQGF4kPa0",
+      "title": "PIGGS / ズレてけよgenius [Official Video]",
+      "url": "https://www.youtube.com/watch?v=GoCQGF4kPa0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "dcb80nfB85s",
+      "title": "PIGGS / 余すことない全霊で (\"太陽を超えろ！SUPER NOVASH TOUR FINAL『来たぜ6周年！豚デモネバーダイ！』\" at Spotify O-WEST)",
+      "url": "https://www.youtube.com/watch?v=dcb80nfB85s",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "TgU5nEw7KsI",
+      "title": "PIGGS / HALLO ALIEN (\"太陽を超えろ！SUPER NOVASH TOUR FINAL『来たぜ6周年！豚デモネバーダイ！』\" at Spotify O-WEST)",
+      "url": "https://www.youtube.com/watch?v=TgU5nEw7KsI",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "S4ymmV_5tlU",
+      "title": "PIGGS / HALLO ALIEN [Official Video]",
+      "url": "https://www.youtube.com/watch?v=S4ymmV_5tlU",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "-F9_5whHgAA",
+      "title": "PIGGS / ファイヤーダンス・サーガ [Official Video]",
+      "url": "https://www.youtube.com/watch?v=-F9_5whHgAA",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "IvKg5kl9oDE",
+      "title": "PIGGS / PIGGS-モナ・リザ- (PHOENIX ver.) [OFFICIAL LIVE MV]",
+      "url": "https://www.youtube.com/watch?v=IvKg5kl9oDE",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "hQ6yXe4g9bs",
+      "title": "PIGGS / 背中で語るDreamer [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=hQ6yXe4g9bs",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "bOw9FNm8kug",
+      "title": "PIGGS / おまもり [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=bOw9FNm8kug",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "caue_dRwWaY",
+      "title": "PIGGS / NAKED BORN NAKED DIE (\"されど、夜は明けるTOUR\" at SHIBUYA CLUB QUATTRO)",
+      "url": "https://www.youtube.com/watch?v=caue_dRwWaY",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "eMSCHVG1j1Y",
+      "title": "PIGGS / KICKS (\"生きる気でやったれTOUR\" at SHIBUYA WWW X)",
+      "url": "https://www.youtube.com/watch?v=eMSCHVG1j1Y",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "FCk2ll36AG8",
+      "title": "PIGGS / デジャブー (\"生きる気でやったれTOUR\" at SHIBUYA WWW X)",
+      "url": "https://www.youtube.com/watch?v=FCk2ll36AG8",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "sDKCKw3XID8",
+      "title": "PIGGS / 余すことない全霊で [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=sDKCKw3XID8",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "xNg_F45ZCBE",
+      "title": "PIGGS / 1ミリでも (\"生きる気でやったれTOUR\" at SHIBUYA WWW X)",
+      "url": "https://www.youtube.com/watch?v=xNg_F45ZCBE",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "mytKqg8JOco",
+      "title": "PIGGS / ばっか。 [Lyric Video]",
+      "url": "https://www.youtube.com/watch?v=mytKqg8JOco",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "OrOjpsY00cU",
+      "title": "PIGGS / 生きて帰る、 [Official Video]",
+      "url": "https://www.youtube.com/watch?v=OrOjpsY00cU",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "lhbGs4CFRkk",
+      "title": "PIGGS / デジャブー [Lyric Video]",
+      "url": "https://www.youtube.com/watch?v=lhbGs4CFRkk",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "kV2wdAK7P0s",
+      "title": "PIGGS / SUPERBAD [Official Video]",
+      "url": "https://www.youtube.com/watch?v=kV2wdAK7P0s",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "Hzc1173N0qY",
+      "title": "PIGGS / Documentary of \"されど、夜は明けるTOUR\"",
+      "url": "https://www.youtube.com/watch?v=Hzc1173N0qY",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "wykdqdNIEhk",
+      "title": "PIGGS / ラフレシア (\"されど、夜は明けるTOUR\" at SHIBUYA CLUB QUATTRO)",
+      "url": "https://www.youtube.com/watch?v=wykdqdNIEhk",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "7Np0qdCFe8Y",
+      "title": "PIGGS / 八日目の朝 (\"されど、夜は明けるTOUR\" at SHIBUYA CLUB QUATTRO)",
+      "url": "https://www.youtube.com/watch?v=7Np0qdCFe8Y",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "iWhNXo3OyT0",
+      "title": "PIGGS / されど、夜は明ける [Official Video]",
+      "url": "https://www.youtube.com/watch?v=iWhNXo3OyT0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "gwoigmqo0XE",
+      "title": "PIGGS / ヒトトシテ [Lyric Video]",
+      "url": "https://www.youtube.com/watch?v=gwoigmqo0XE",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "f9uaDd5zXRE",
+      "title": "PIGGS / 1ミリでも [Lyric Video]",
+      "url": "https://www.youtube.com/watch?v=f9uaDd5zXRE",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "6TnwMt6T-3M",
+      "title": "PIGGS / 八日目の朝 [Official Video]",
+      "url": "https://www.youtube.com/watch?v=6TnwMt6T-3M",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "l015VDDDnm0",
+      "title": "PIGGS / ラフレシア [Official Video]",
+      "url": "https://www.youtube.com/watch?v=l015VDDDnm0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "_ZSntxMWybI",
+      "title": "『PIGGS 4周年記念ライブ』ドキュメンタリー",
+      "url": "https://www.youtube.com/watch?v=_ZSntxMWybI",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "kQlUGyqcGE0",
+      "title": "PIGGS / とらえる'24 (\"PIGGS 4周年記念ライブ\" at 代官山UNIT)",
+      "url": "https://www.youtube.com/watch?v=kQlUGyqcGE0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "PwGrv0RFgn0",
+      "title": "PIGGS / LINK EMOTION’24 [Official Video]",
+      "url": "https://www.youtube.com/watch?v=PwGrv0RFgn0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "z9TiEp1zWso",
+      "title": "PIGGS / 街underworld [Official Video]",
+      "url": "https://www.youtube.com/watch?v=z9TiEp1zWso",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "ljUWsd8l7LA",
+      "title": "PIGGS / Fleeting (“BOONENKAI” at Spotify O-WEST)",
+      "url": "https://www.youtube.com/watch?v=ljUWsd8l7LA",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "wQjy0mqcu8c",
+      "title": "PIGGS / Fleeting [Official Video]",
+      "url": "https://www.youtube.com/watch?v=wQjy0mqcu8c",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "48rbMBLS0ZQ",
+      "title": "PIGGS / Route 91665 [Official Lyric Video]",
+      "url": "https://www.youtube.com/watch?v=48rbMBLS0ZQ",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "u9YYnu4EwfM",
+      "title": "PIGGS「PIGGS HAVE THE POWER TOUR」at SHIBUYA CLUB QUATTRO",
+      "url": "https://www.youtube.com/watch?v=u9YYnu4EwfM",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "gAguNRQRyio",
+      "title": "PIGGS / YOU KNOW ME [Official Video]",
+      "url": "https://www.youtube.com/watch?v=gAguNRQRyio",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "1617ZLlekjA",
+      "title": "PIGGS / BOO!SHUT [Official Video]",
+      "url": "https://www.youtube.com/watch?v=1617ZLlekjA",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "0oHw2v7FjPg",
+      "title": "PIGGS / 負けんなBABY[Official Video]",
+      "url": "https://www.youtube.com/watch?v=0oHw2v7FjPg",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "xLQh-tMsc2w",
+      "title": "PIGGS LIVE生配信「豚声大解放」at 下北沢SHELTER",
+      "url": "https://www.youtube.com/watch?v=xLQh-tMsc2w",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "wkljCD3EQTE",
+      "title": "まじ無理ゲー",
+      "url": "https://www.youtube.com/watch?v=wkljCD3EQTE",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "XH6Wh-Qal2A",
+      "title": "まじ無理ゲー (“全身全霊！燃える豚魂ツアー” at Spotify O-EAST)",
+      "url": "https://www.youtube.com/watch?v=XH6Wh-Qal2A",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "l2JMXMp5SH8",
+      "title": "豚反骨精神論",
+      "url": "https://www.youtube.com/watch?v=l2JMXMp5SH8",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "_kH_76kX0ck",
+      "title": "BURNING PRIDE",
+      "url": "https://www.youtube.com/watch?v=_kH_76kX0ck",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "kS5aG8mqsns",
+      "title": "LiKE A SPARK",
+      "url": "https://www.youtube.com/watch?v=kS5aG8mqsns",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "QBw-bK8bSdM",
+      "title": "小さな叫び",
+      "url": "https://www.youtube.com/watch?v=QBw-bK8bSdM",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "JqEhfFHj3LY",
+      "title": "NOT PIG (\"DEAR HUNTER TOUR\" at EX THEATER ROPPONGI)",
+      "url": "https://www.youtube.com/watch?v=JqEhfFHj3LY",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "SRdqbpG98Cs",
+      "title": "NOT PIG [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=SRdqbpG98Cs",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "3DM8q19C-Ow",
+      "title": "PIGGS 2nd Album “JUICYY” Teaser Movie",
+      "url": "https://www.youtube.com/watch?v=3DM8q19C-Ow",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "kAk8XjnmyR8",
+      "title": "I CAN'T BE [Official Video]",
+      "url": "https://www.youtube.com/watch?v=kAk8XjnmyR8",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "eF_9lLh_dDI",
+      "title": "KNOCKING ON PIGGS DOOR [Document of PIGGS]",
+      "url": "https://www.youtube.com/watch?v=eF_9lLh_dDI",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "LZ_gJyf8CH8",
+      "title": "PIGGS新メンバー超主観密着映像",
+      "url": "https://www.youtube.com/watch?v=LZ_gJyf8CH8",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "KX3ulHhoskg",
+      "title": "NAKED BORN NAKED DIE",
+      "url": "https://www.youtube.com/watch?v=KX3ulHhoskg",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "NoOpSO_LNh8",
+      "title": "とらえる (\"DEAD, JAIL OR PIGGS TOUR\" at CLUB CITTA')",
+      "url": "https://www.youtube.com/watch?v=NoOpSO_LNh8",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "GdJVFXVi-r0",
+      "title": "Piggy　[OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=GdJVFXVi-r0",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "VkmlL7OTrs4",
+      "title": "LINK EMOTION [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=VkmlL7OTrs4",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "a73-OSrUkyk",
+      "title": "飛べない蛇 [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=a73-OSrUkyk",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "pkO71pO1bB4",
+      "title": "VISITOR [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=pkO71pO1bB4",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "u0cmtbIc5oE",
+      "title": "T.A.K.O [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=u0cmtbIc5oE",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "uSBd7iXOnYY",
+      "title": "フューチャー・スターダスト [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=uSBd7iXOnYY",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "NKfU8oVz7Gw",
+      "title": "クマンバチの独白 5H FULL VER. [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=NKfU8oVz7Gw",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "RhnO_SNp2-s",
+      "title": "クマンバチの独白 [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=RhnO_SNp2-s",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    },
+    {
+      "id": "pxk7RPkgSXc",
+      "title": "モナ・リザ- [OFFICIAL VIDEO]",
+      "url": "https://www.youtube.com/watch?v=pxk7RPkgSXc",
+      "source": "https://fan.pia.jp/PIGGS/page/video",
+      "author": "PIGGS"
+    }
+  ],
+  "albums": [
+    {
+      "id": "piggs-1519172864",
+      "title": "HALLO PIGGS",
+      "date": "2020-07-01",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/001",
+      "trackSource": "https://music.apple.com/jp/album/hallo-piggs/1519172864?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · HALLO PIGGS",
+          "source": "https://music.apple.com/jp/album/hallo-piggs/1519172864?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/72/60/c9726030-93ca-cbd0-8da6-478dd433a848/4522197135335.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "KICKS",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20KICKS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20KICKS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PIGGS-モナ・リザ-",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ヴェルヴェット思想家",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%83%E3%83%88%E6%80%9D%E6%83%B3%E5%AE%B6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%83%E3%83%88%E6%80%9D%E6%83%B3%E5%AE%B6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love Cats",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20Love%20Cats%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20Love%20Cats",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "とらえる",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PIPEFICTION",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20PIPEFICTION%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20PIPEFICTION",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エクスターミネーター",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スーサイドマリー",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9E%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%9E%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "骨伝導massive",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E9%AA%A8%E4%BC%9D%E5%B0%8Emassive%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E9%AA%A8%E4%BC%9D%E5%B0%8Emassive",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Moonage Driver",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20Moonage%20Driver%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20Moonage%20Driver",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スナッチャー",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%B9%E3%83%8A%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%B9%E3%83%8A%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "飛べない蛇",
+                  "youtube": "https://www.youtube.com/watch?v=a73-OSrUkyk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E9%A3%9B%E3%81%B9%E3%81%AA%E3%81%84%E8%9B%87",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1541259198",
+      "title": "5 KILL STARS",
+      "date": "2020-12-16",
+      "kind": "ep",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/002",
+      "trackSource": "https://music.apple.com/jp/album/5-kill-stars-ep/1541259198?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 5 Kill Stars - EP",
+          "source": "https://music.apple.com/jp/album/5-kill-stars-ep/1541259198?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/f8/4f/ddf84fd0-d992-db55-1c1d-0f7068883093/4522197136400.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "クマンバチの独白",
+                  "youtube": "https://www.youtube.com/watch?v=RhnO_SNp2-s",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%AF%E3%83%9E%E3%83%B3%E3%83%90%E3%83%81%E3%81%AE%E7%8B%AC%E7%99%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ザ・ストレンジャーズ",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フォーエバー・ヤング",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "THANKYOU FUCKYOU",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20THANKYOU%20FUCKYOU%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20THANKYOU%20FUCKYOU",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フューチャースターダスト",
+                  "youtube": "https://www.youtube.com/watch?v=uSBd7iXOnYY",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1562090492",
+      "title": "T.A.K.O",
+      "date": "2021-04-21",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/003",
+      "trackSource": "https://music.apple.com/jp/album/t-a-k-o-single/1562090492?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · T.A.K.O - Single",
+          "source": "https://music.apple.com/jp/album/t-a-k-o-single/1562090492?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/c7/00/01c700bd-4532-8486-7e00-cc3d33ba76db/4522197137636.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "T.A.K.O",
+                  "youtube": "https://www.youtube.com/watch?v=u0cmtbIc5oE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20T.A.K.O",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Beat Crazy",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20Beat%20Crazy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20Beat%20Crazy",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1575343505",
+      "title": "VISITOR",
+      "date": "2021-07-21",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/004",
+      "trackSource": "https://music.apple.com/jp/album/visitor-single/1575343505?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · VISITOR - Single",
+          "source": "https://music.apple.com/jp/album/visitor-single/1575343505?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/c8/1c/00c81cd0-c134-1208-6f6b-8e858071d814/4522197138053.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Piggy",
+                  "youtube": "https://www.youtube.com/watch?v=GdJVFXVi-r0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20Piggy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "VISITOR",
+                  "youtube": "https://www.youtube.com/watch?v=pkO71pO1bB4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20VISITOR",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LINK EMOTION",
+                  "youtube": "https://www.youtube.com/watch?v=VkmlL7OTrs4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20LINK%20EMOTION",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1598309666",
+      "title": "JUICYY",
+      "date": "2021-12-22",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/005",
+      "trackSource": "https://music.apple.com/jp/album/juicyy/1598309666?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · JUICYY",
+          "source": "https://music.apple.com/jp/album/juicyy/1598309666?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/92/ba/20/92ba2017-0ef5-3a8f-7791-4bd62b258e7a/4522197138817.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "NAKED BORN NAKED DIE",
+                  "youtube": "https://www.youtube.com/watch?v=KX3ulHhoskg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20NAKED%20BORN%20NAKED%20DIE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "危険ぐらいがちょうどいい",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E5%8D%B1%E9%99%BA%E3%81%90%E3%82%89%E3%81%84%E3%81%8C%E3%81%A1%E3%82%87%E3%81%86%E3%81%A9%E3%81%84%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E5%8D%B1%E9%99%BA%E3%81%90%E3%82%89%E3%81%84%E3%81%8C%E3%81%A1%E3%82%87%E3%81%86%E3%81%A9%E3%81%84%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NOT PIG",
+                  "youtube": "https://www.youtube.com/watch?v=SRdqbpG98Cs",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20NOT%20PIG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カッシーニ",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%AB%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%AB%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フォーエバー・ヤング - JUICYY ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0%20-%20JUICYY%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0%20-%20JUICYY%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "T.A.K.O - JUICYY ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20T.A.K.O%20-%20JUICYY%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20T.A.K.O%20-%20JUICYY%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "VISITOR - JUICYY ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20VISITOR%20-%20JUICYY%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20VISITOR%20-%20JUICYY%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LINK EMOTION - JUICYY ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20LINK%20EMOTION%20-%20JUICYY%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20LINK%20EMOTION%20-%20JUICYY%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢を見させて",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E5%A4%A2%E3%82%92%E8%A6%8B%E3%81%95%E3%81%9B%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E5%A4%A2%E3%82%92%E8%A6%8B%E3%81%95%E3%81%9B%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フューチャー・スターダスト - JUICYY ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%20-%20JUICYY%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%20-%20JUICYY%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "とらえる - JUICYY ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B%20-%20JUICYY%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B%20-%20JUICYY%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PIGGS-モナ・リザ- - JUICYY ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-%20-%20JUICYY%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-%20-%20JUICYY%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I CAN’T BE",
+                  "youtube": "https://www.youtube.com/watch?v=kAk8XjnmyR8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20I%20CAN%E2%80%99T%20BE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1614793720",
+      "title": "小さな叫び",
+      "date": "2022-03-30",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/006",
+      "trackSource": "https://music.apple.com/jp/album/chiisanasakebi-single/1614793720?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · Chiisanasakebi - Single",
+          "source": "https://music.apple.com/jp/album/chiisanasakebi-single/1614793720?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/08/55/31085503-95d6-c344-5b57-3c96a39512fa/4522197139890.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "小さな叫び",
+                  "youtube": "https://www.youtube.com/watch?v=QBw-bK8bSdM",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E5%B0%8F%E3%81%95%E3%81%AA%E5%8F%AB%E3%81%B2%E3%82%99",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LiKE A SPARK",
+                  "youtube": "https://www.youtube.com/watch?v=kS5aG8mqsns",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20LiKE%20A%20SPARK",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1630172706",
+      "title": "BURNING PRIDE / 豚反骨精神論",
+      "date": "2022-07-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi. Le edizioni Type A e B del doppio lato A sono raggruppate: il terzo brano è diverso. Uscita digitale il 1° luglio 2022, CD il 13 luglio 2022 secondo il sito ufficiale.",
+      "source": "https://fan.pia.jp/PIGGS/discography/007",
+      "trackSource": "https://music.apple.com/jp/album/burning-pride-%E8%B1%9A%E5%8F%8D%E9%AA%A8%E7%B2%BE%E7%A5%9E%E8%AB%96-single/1630172706?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Type A · edizione audio digitale JP",
+          "source": "https://music.apple.com/jp/album/burning-pride-%E8%B1%9A%E5%8F%8D%E9%AA%A8%E7%B2%BE%E7%A5%9E%E8%AB%96-single/1630172706?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/32/44/dd/3244dd74-bae0-da6a-5964-a426861a790f/4547366571134.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BURNING PRIDE",
+                  "youtube": "https://www.youtube.com/watch?v=_kH_76kX0ck",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20BURNING%20PRIDE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "豚反骨精神論",
+                  "youtube": "https://www.youtube.com/watch?v=l2JMXMp5SH8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%B1%9A%E5%8F%8D%E9%AA%A8%E7%B2%BE%E7%A5%9E%E8%AB%96",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I don't believe in ADULT",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20I%20don%27t%20believe%20in%20ADULT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20I%20don%27t%20believe%20in%20ADULT",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Type B · edizione audio digitale JP",
+          "source": "https://music.apple.com/jp/album/%E8%B1%9A%E5%8F%8D%E9%AA%A8%E7%B2%BE%E7%A5%9E%E8%AB%96-burning-pride-single/1630179882?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2f/3a/66/2f3a66fd-42ba-3adb-5c03-8c0898aa9745/4547366571158.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "豚反骨精神論",
+                  "youtube": "https://www.youtube.com/watch?v=l2JMXMp5SH8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%B1%9A%E5%8F%8D%E9%AA%A8%E7%B2%BE%E7%A5%9E%E8%AB%96",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BURNING PRIDE",
+                  "youtube": "https://www.youtube.com/watch?v=_kH_76kX0ck",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20BURNING%20PRIDE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ゴースト",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1645275528",
+      "title": "まじ無理ゲー",
+      "date": "2022-10-03",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://music.apple.com/jp/album/%E3%81%BE%E3%81%98%E7%84%A1%E7%90%86%E3%82%B2%E3%83%BC-single/1645275528?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%BE%E3%81%98%E7%84%A1%E7%90%86%E3%82%B2%E3%83%BC-single/1645275528?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · まじ無理ゲー - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%BE%E3%81%98%E7%84%A1%E7%90%86%E3%82%B2%E3%83%BC-single/1645275528?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/63/59/036359aa-3940-6626-d198-2084a02777b5/4547366585605.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "まじ無理ゲー",
+                  "youtube": "https://www.youtube.com/watch?v=wkljCD3EQTE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%BE%E3%81%98%E7%84%A1%E7%90%86%E3%82%B2%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1658756961",
+      "title": "負けんなBABY",
+      "date": "2023-01-11",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/009",
+      "trackSource": "https://music.apple.com/jp/album/%E8%B2%A0%E3%81%91%E3%82%93%E3%81%AAbaby-single/1658756961?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 負けんなBABY - Single",
+          "source": "https://music.apple.com/jp/album/%E8%B2%A0%E3%81%91%E3%82%93%E3%81%AAbaby-single/1658756961?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bb/e6/93/bbe693f3-e9a5-6abd-fffc-08fe214e28b1/4547366599930.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "負けんなBABY",
+                  "youtube": "https://www.youtube.com/watch?v=0oHw2v7FjPg",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%B2%A0%E3%81%91%E3%82%93%E3%81%AABABY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "まじ無理ゲー",
+                  "youtube": "https://www.youtube.com/watch?v=wkljCD3EQTE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%BE%E3%81%98%E7%84%A1%E7%90%86%E3%82%B2%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ひっちゃかめっちゃか -My Name is PIGGS-",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%81%B2%E3%81%A3%E3%81%A1%E3%82%83%E3%81%8B%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%81%8B%20-My%20Name%20is%20PIGGS-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%B2%E3%81%A3%E3%81%A1%E3%82%83%E3%81%8B%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%81%8B%20-My%20Name%20is%20PIGGS-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1677095543",
+      "title": "BOO!SHUT",
+      "date": "2023-04-12",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/010",
+      "trackSource": "https://music.apple.com/jp/album/boo-shut-single/1677095543?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · BOO!SHUT - Single",
+          "source": "https://music.apple.com/jp/album/boo-shut-single/1677095543?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/08/f1/6b08f15a-2c54-d5ef-e58c-90f62a34f776/4547366612837.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BOO!SHUT",
+                  "youtube": "https://www.youtube.com/watch?v=1617ZLlekjA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20BOO%21SHUT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファイティングブレイン",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界は爆ぜ",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%88%86%E3%81%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%88%86%E3%81%9C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1692706430",
+      "title": "YOU KNOW ME",
+      "date": "2023-07-19",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/011",
+      "trackSource": "https://music.apple.com/jp/album/you-know-me-single/1692706430?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · YOU KNOW ME - Single",
+          "source": "https://music.apple.com/jp/album/you-know-me-single/1692706430?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/ce/17/25ce1768-e33e-3313-7373-328a509fc648/4547366628302.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "YOU KNOW ME",
+                  "youtube": "https://www.youtube.com/watch?v=gAguNRQRyio",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20YOU%20KNOW%20ME",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ワイルドサイドを歩け",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B5%E3%82%A4%E3%83%89%E3%82%92%E6%AD%A9%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B5%E3%82%A4%E3%83%89%E3%82%92%E6%AD%A9%E3%81%91",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1709456056",
+      "title": "RAWPIG",
+      "date": "2023-10-25",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/012",
+      "trackSource": "https://music.apple.com/jp/album/rawpig/1709456056?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · RAWPIG",
+          "source": "https://music.apple.com/jp/album/rawpig/1709456056?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/3c/73/443c73d8-22ae-417b-4e94-35c396e7bf47/4547366650495.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ピラニア型人造人間",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%94%E3%83%A9%E3%83%8B%E3%82%A2%E5%9E%8B%E4%BA%BA%E9%80%A0%E4%BA%BA%E9%96%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%94%E3%83%A9%E3%83%8B%E3%82%A2%E5%9E%8B%E4%BA%BA%E9%80%A0%E4%BA%BA%E9%96%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fleeting",
+                  "youtube": "https://www.youtube.com/watch?v=wQjy0mqcu8c",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20Fleeting",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "INSOMNIA",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20INSOMNIA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20INSOMNIA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YOU KNOW ME (new mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20YOU%20KNOW%20ME%20%28new%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20YOU%20KNOW%20ME%20%28new%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "豚 HAVE THE POWER",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E8%B1%9A%20HAVE%20THE%20POWER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%B1%9A%20HAVE%20THE%20POWER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファイティングブレイン (new mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%20%28new%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%20%28new%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "リバーサイド・モーテル",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%86%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%86%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BOO!SHUT (new mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20BOO%21SHUT%20%28new%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20BOO%21SHUT%20%28new%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スプートニク1号",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%B9%E3%83%97%E3%83%BC%E3%83%88%E3%83%8B%E3%82%AF1%E5%8F%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%B9%E3%83%97%E3%83%BC%E3%83%88%E3%83%8B%E3%82%AF1%E5%8F%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Route 91665",
+                  "youtube": "https://www.youtube.com/watch?v=48rbMBLS0ZQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20Route%2091665",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "負けんなBABY (new mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E8%B2%A0%E3%81%91%E3%82%93%E3%81%AABABY%20%28new%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%B2%A0%E3%81%91%E3%82%93%E3%81%AABABY%20%28new%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ワイルドサイドを歩け (new mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B5%E3%82%A4%E3%83%89%E3%82%92%E6%AD%A9%E3%81%91%20%28new%20mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B5%E3%82%A4%E3%83%89%E3%82%92%E6%AD%A9%E3%81%91%20%28new%20mix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "人間すぎる",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E4%BA%BA%E9%96%93%E3%81%99%E3%81%8E%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E4%BA%BA%E9%96%93%E3%81%99%E3%81%8E%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1727496036",
+      "title": "街underworld",
+      "date": "2024-02-28",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/013",
+      "trackSource": "https://music.apple.com/jp/album/%E8%A1%97underworld-ep/1727496036?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 街underworld - EP",
+          "source": "https://music.apple.com/jp/album/%E8%A1%97underworld-ep/1727496036?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/f9/0760f9cf-37af-a997-156f-6e70b8ddbea4/4547366668353.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "街underworld",
+                  "youtube": "https://www.youtube.com/watch?v=z9TiEp1zWso",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%A1%97underworld",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SPIN",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20SPIN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20SPIN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LINK EMOTION'24",
+                  "youtube": "https://www.youtube.com/watch?v=PwGrv0RFgn0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20LINK%20EMOTION%2724",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "とらえる'24",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B%2724%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B%2724",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PIGGS-モナ・リザ-'24",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-%2724%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-%2724",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1740452781",
+      "title": "ラフレシア",
+      "date": "2024-05-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/014",
+      "trackSource": "https://music.apple.com/jp/album/rafflesia-single/1740452781?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · RAFFLESIA - Single",
+          "source": "https://music.apple.com/jp/album/rafflesia-single/1740452781?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/be/d5/46bed5a0-d12e-212a-88b1-933939330dfe/4522197151939.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ラフレシア",
+                  "youtube": "https://www.youtube.com/watch?v=l015VDDDnm0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%A9%E3%83%95%E3%83%AC%E3%82%B7%E3%82%A2",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1747426351",
+      "title": "八日目の朝",
+      "date": "2024-06-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/015",
+      "trackSource": "https://music.apple.com/jp/album/yohkame-no-asa-single/1747426351?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · YOHKAME NO ASA - Single",
+          "source": "https://music.apple.com/jp/album/yohkame-no-asa-single/1747426351?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/6c/fd/6c6cfd51-e273-b701-dde8-f602e698a760/4522197152493.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "八日目の朝",
+                  "youtube": "https://www.youtube.com/watch?v=6TnwMt6T-3M",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E5%85%AB%E6%97%A5%E7%9B%AE%E3%81%AE%E6%9C%9D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1749179882",
+      "title": "1ミリでも",
+      "date": "2024-07-17",
+      "kind": "ep",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/016",
+      "trackSource": "https://music.apple.com/jp/album/ichi-milli-demo-ep/1749179882?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · ICHI MILLI DEMO - EP",
+          "source": "https://music.apple.com/jp/album/ichi-milli-demo-ep/1749179882?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/d1/ec/69d1ec31-dca0-a69d-62f3-d4697ee3ee14/4522197152035.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "されど、夜は明ける",
+                  "youtube": "https://www.youtube.com/watch?v=iWhNXo3OyT0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%95%E3%82%8C%E3%81%A9%E3%80%81%E5%A4%9C%E3%81%AF%E6%98%8E%E3%81%91%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "1ミリでも",
+                  "youtube": "https://www.youtube.com/watch?v=f9uaDd5zXRE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%201%E3%83%9F%E3%83%AA%E3%81%A7%E3%82%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ヒトトシテ",
+                  "youtube": "https://www.youtube.com/watch?v=gwoigmqo0XE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%92%E3%83%88%E3%83%88%E3%82%B7%E3%83%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "八日目の朝",
+                  "youtube": "https://www.youtube.com/watch?v=6TnwMt6T-3M",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E5%85%AB%E6%97%A5%E7%9B%AE%E3%81%AE%E6%9C%9D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラフレシア",
+                  "youtube": "https://www.youtube.com/watch?v=l015VDDDnm0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%A9%E3%83%95%E3%83%AC%E3%82%B7%E3%82%A2",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1769144098",
+      "title": "SUPERBAD",
+      "date": "2024-10-30",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/017",
+      "trackSource": "https://music.apple.com/jp/album/superbad-single/1769144098?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · SUPERBAD - Single",
+          "source": "https://music.apple.com/jp/album/superbad-single/1769144098?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/67/16/cf671664-f800-df05-4e4f-f1ab7ebcec91/4522197154138.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "SUPERBAD",
+                  "youtube": "https://www.youtube.com/watch?v=kV2wdAK7P0s",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20SUPERBAD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "デジャブー",
+                  "youtube": "https://www.youtube.com/watch?v=lhbGs4CFRkk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%87%E3%82%B8%E3%83%A3%E3%83%96%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1787224506",
+      "title": "生きて帰る、",
+      "date": "2025-01-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://music.apple.com/jp/album/ikitekaeru-single/1787224506?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ikitekaeru-single/1787224506?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · IKITEKAERU - Single",
+          "source": "https://music.apple.com/jp/album/ikitekaeru-single/1787224506?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/ad/57/c8ad578e-b1ae-5d6a-7bc9-a915888d0b4d/4522197156453.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "生きて帰る、",
+                  "youtube": "https://www.youtube.com/watch?v=OrOjpsY00cU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E7%94%9F%E3%81%8D%E3%81%A6%E5%B8%B0%E3%82%8B%E3%80%81",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1791005048",
+      "title": "生きて帰る、ばっか。",
+      "date": "2025-02-26",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/018",
+      "trackSource": "https://music.apple.com/jp/album/ikitekaeru-bakka-single/1791005048?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · IKITEKAERU, BAKKA - Single",
+          "source": "https://music.apple.com/jp/album/ikitekaeru-bakka-single/1791005048?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/b8/65/38b86548-dc76-d0e9-b45e-fe480cad24a0/4522197155975.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "生きて帰る、",
+                  "youtube": "https://www.youtube.com/watch?v=OrOjpsY00cU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E7%94%9F%E3%81%8D%E3%81%A6%E5%B8%B0%E3%82%8B%E3%80%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ばっか。",
+                  "youtube": "https://www.youtube.com/watch?v=mytKqg8JOco",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%B0%E3%81%A3%E3%81%8B%E3%80%82",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1806001752",
+      "title": "余すことない全霊で",
+      "date": "2025-04-23",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/019",
+      "trackSource": "https://music.apple.com/jp/album/amasukotonaizenreide-single/1806001752?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · AMASUKOTONAIZENREIDE - Single",
+          "source": "https://music.apple.com/jp/album/amasukotonaizenreide-single/1806001752?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/a5/0b/8ea50b0e-068a-e6a5-cd63-75087b91a32a/4522197158495.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "余すことない全霊で",
+                  "youtube": "https://www.youtube.com/watch?v=sDKCKw3XID8",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E4%BD%99%E3%81%99%E3%81%93%E3%81%A8%E3%81%AA%E3%81%84%E5%85%A8%E9%9C%8A%E3%81%A7",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1834111438",
+      "title": "おまもり",
+      "date": "2025-09-03",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/020",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%BE%E3%82%82%E3%82%8A-single/1834111438?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · おまもり - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%BE%E3%82%82%E3%82%8A-single/1834111438?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/bc/27/89bc27cc-61a8-1633-773c-82199a1b072d/4522197161891.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "おまもり",
+                  "youtube": "https://www.youtube.com/watch?v=bOw9FNm8kug",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%8A%E3%81%BE%E3%82%82%E3%82%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1839373634",
+      "title": "背中で語るDreamer",
+      "date": "2025-10-10",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/021",
+      "trackSource": "https://music.apple.com/jp/album/%E8%83%8C%E4%B8%AD%E3%81%A7%E8%AA%9E%E3%82%8Bdreamer-single/1839373634?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · 背中で語るDreamer - Single",
+          "source": "https://music.apple.com/jp/album/%E8%83%8C%E4%B8%AD%E3%81%A7%E8%AA%9E%E3%82%8Bdreamer-single/1839373634?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/4b/33/8c4b3370-c84d-7694-8d45-ab4dec429394/4522197162591.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "背中で語るDreamer",
+                  "youtube": "https://www.youtube.com/watch?v=hQ6yXe4g9bs",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%83%8C%E4%B8%AD%E3%81%A7%E8%AA%9E%E3%82%8BDreamer",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1856116189",
+      "title": "PIGGS-モナ・リザ- (PHOENIX ver.)",
+      "date": "2025-12-10",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/022",
+      "trackSource": "https://music.apple.com/jp/album/piggs-%E3%83%A2%E3%83%8A-%E3%83%AA%E3%82%B6-phoenix-ver-single/1856116189?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · PIGGS-モナ・リザ- (PHOENIX ver.) - Single",
+          "source": "https://music.apple.com/jp/album/piggs-%E3%83%A2%E3%83%8A-%E3%83%AA%E3%82%B6-phoenix-ver-single/1856116189?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/4b/6c/cb4b6c68-08e2-811a-4b1b-a9afb988da5d/4522197164021.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "PIGGS-モナ・リザ- (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/watch?v=IvKg5kl9oDE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1857574748",
+      "title": "ファイヤーダンス・サーガ",
+      "date": "2026-01-02",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/023",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9-%E3%82%B5%E3%83%BC%E3%82%AC-single/1857574748?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · ファイヤーダンス・サーガ - Single",
+          "source": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9-%E3%82%B5%E3%83%BC%E3%82%AC-single/1857574748?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/b9/8e/96b98ef0-6be5-4a3a-3b42-d3f5562bf901/4522197164076.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ファイヤーダンス・サーガ",
+                  "youtube": "https://www.youtube.com/watch?v=-F9_5whHgAA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1867437167",
+      "title": "HALLO ALIEN",
+      "date": "2026-02-04",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://music.apple.com/jp/album/hallo-alien-single/1867437167?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hallo-alien-single/1867437167?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · HALLO ALIEN - Single",
+          "source": "https://music.apple.com/jp/album/hallo-alien-single/1867437167?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/5a/8e/c25a8e26-6c57-fb68-7a8a-2ade59603460/4522197164571.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "HALLO ALIEN",
+                  "youtube": "https://www.youtube.com/watch?v=S4ymmV_5tlU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20HALLO%20ALIEN",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1878336214",
+      "title": "ピグス・リベリオン",
+      "date": "2026-04-01",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/024",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%94%E3%82%B0%E3%82%B9-%E3%83%AA%E3%83%99%E3%83%AA%E3%82%AA%E3%83%B3/1878336214?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · ピグス・リベリオン",
+          "source": "https://music.apple.com/jp/album/%E3%83%94%E3%82%B0%E3%82%B9-%E3%83%AA%E3%83%99%E3%83%AA%E3%82%AA%E3%83%B3/1878336214?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/87/66/1c8766a0-0493-0cf1-9205-61a43f182831/4522197164779.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "HALLO ALIEN",
+                  "youtube": "https://www.youtube.com/watch?v=S4ymmV_5tlU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20HALLO%20ALIEN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発都市バブルシティ",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E8%92%B8%E7%99%BA%E9%83%BD%E5%B8%82%E3%83%90%E3%83%96%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%92%B8%E7%99%BA%E9%83%BD%E5%B8%82%E3%83%90%E3%83%96%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FANCY 2 FANCY",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20FANCY%202%20FANCY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20FANCY%202%20FANCY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファイヤーダンス・サーガ",
+                  "youtube": "https://www.youtube.com/watch?v=-F9_5whHgAA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PIGGS-モナ・リザ- (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/watch?v=IvKg5kl9oDE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20PIGGS-%E3%83%A2%E3%83%8A%E3%83%BB%E3%83%AA%E3%82%B6-%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "KICKS (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20KICKS%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20KICKS%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ザ・ストレンジャーズ (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "余すことない全霊で (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E4%BD%99%E3%81%99%E3%81%93%E3%81%A8%E3%81%AA%E3%81%84%E5%85%A8%E9%9C%8A%E3%81%A7%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E4%BD%99%E3%81%99%E3%81%93%E3%81%A8%E3%81%AA%E3%81%84%E5%85%A8%E9%9C%8A%E3%81%A7%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NAKED BORN NAKED DIE (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20NAKED%20BORN%20NAKED%20DIE%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20NAKED%20BORN%20NAKED%20DIE%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LINK EMOTION (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20LINK%20EMOTION%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20LINK%20EMOTION%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ワイルドサイドを歩け (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B5%E3%82%A4%E3%83%89%E3%82%92%E6%AD%A9%E3%81%91%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B5%E3%82%A4%E3%83%89%E3%82%92%E6%AD%A9%E3%81%91%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カッシーニ (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%82%AB%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%AB%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "背中で語るDreamer (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E8%83%8C%E4%B8%AD%E3%81%A7%E8%AA%9E%E3%82%8BDreamer%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E8%83%8C%E4%B8%AD%E3%81%A7%E8%AA%9E%E3%82%8BDreamer%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "とらえる (PHOENIX ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B%20%28PHOENIX%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%81%A8%E3%82%89%E3%81%88%E3%82%8B%20%28PHOENIX%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piggs-1894789671",
+      "title": "ズレてけよgenius",
+      "date": "2026-05-22",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata. Bonus fisici e DVD/Blu-ray non sono inclusi.",
+      "source": "https://fan.pia.jp/PIGGS/discography/025",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%BA%E3%83%AC%E3%81%A6%E3%81%91%E3%82%88genius-single/1894789671?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione digitale JP · ズレてけよgenius - Single",
+          "source": "https://music.apple.com/jp/album/%E3%82%BA%E3%83%AC%E3%81%A6%E3%81%91%E3%82%88genius-single/1894789671?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/05/13/540513e6-fc0a-e598-0fd4-6afa31df7ef6/4522197166407.png/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ズレてけよgenius",
+                  "youtube": "https://www.youtube.com/watch?v=GoCQGF4kPa0",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/PIGGS%20%E3%82%BA%E3%83%AC%E3%81%A6%E3%81%91%E3%82%88genius",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale e ritratti della formazione finale",
+      "url": "https://fan.pia.jp/PIGGS/page/profile"
+    },
+    {
+      "label": "Discografia ufficiale delle PIGGS",
+      "url": "https://fan.pia.jp/PIGGS/discography/list"
+    },
+    {
+      "label": "Archivio video ufficiale",
+      "url": "https://fan.pia.jp/PIGGS/page/video"
+    },
+    {
+      "label": "Catalogo audio digitale giapponese · Apple Music",
+      "url": "https://music.apple.com/jp/artist/piggs/315902163"
+    },
+    {
+      "label": "PIGGS su Spotify",
+      "url": "https://open.spotify.com/artist/63bJyvh0ooKyWaCykZ9p9t"
+    },
+    {
+      "label": "Annuncio ufficiale del concerto finale e dello scioglimento",
+      "url": "https://fan.pia.jp/PIGGS/news/detail/473/"
+    },
+    {
+      "label": "Chiusura del sito e del fan club al 31 ottobre 2026",
+      "url": "https://fan.pia.jp/PIGGS/news/detail/487/"
+    },
+    {
+      "label": "Uscita di Pour Lui dal gruppo · annuncio ufficiale",
+      "url": "https://fan.pia.jp/PIGGS/news/detail/351/"
+    },
+    {
+      "label": "Uscita di CHIYO-P · annuncio ufficiale",
+      "url": "https://fan.pia.jp/PIGGS/news/detail/60/"
+    },
+    {
+      "label": "UMI · dichiarazione della cantante pubblicata da OTOTOY",
+      "url": "https://ototoy.jp/news/101182"
+    }
+  ]
+}
