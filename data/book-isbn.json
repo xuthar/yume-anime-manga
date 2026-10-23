@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:50:37.210810+00:00",
+  "updatedAt": "2026-10-23T18:06:30.755560+00:00",
   "records": [
     {
       "url": "https://yenpress.com/titles/9798855437829-visions-2024-illustrators-book",
@@ -282,6 +282,26 @@
       "isbnStatus": "Verificato: editore"
     },
     {
+      "url": "https://www.animeclick.it/edizione/3111719/detective-conan-new-edition",
+      "title": "Detective Conan New Edition 74",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822668301",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/detective-conan-new-edition-n-74/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111723/kraken-mare",
+      "title": "Kraken Mare 2",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822666277",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/kraken-mare-n-2/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
       "url": "https://sevenseasentertainment.com/books/please-go-home-miss-akutsu-vol-11/",
       "title": "Please Go Home, Miss Akutsu! Vol. 11",
       "publisher": "Seven Seas",
@@ -332,6 +352,36 @@
       "isbnStatus": "Verificato: editore"
     },
     {
+      "url": "https://www.animeclick.it/edizione/3111724/super-ball-girls",
+      "title": "Super Ball Girls 7",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822669100",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/super-ball-girls-n-7/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111338/phantom-busters",
+      "title": "Phantom Busters 1",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822658098",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/phantom-busters-n-1/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111725/the-jojolands",
+      "title": "The JOJOLands 8",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822668653",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/the-jojolands-n-8/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
       "url": "https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/",
       "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City (Light Novel) Vol. 8",
       "publisher": "Seven Seas",
@@ -340,6 +390,16 @@
       "isbn": "9798897659852",
       "isbnSource": "https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-light-novel-vol-8/",
       "isbnStatus": "Verificato: editore"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111726/suture",
+      "title": "Suture",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822664570",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/suture/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://sevenseasentertainment.com/books/crow-hill-dont-be-shy-the-complete-bl-manga-collection-omnibus/",
@@ -360,6 +420,16 @@
       "isbn": "9798400904103",
       "isbnSource": "https://yenpress.com/titles/9798400904103-semantic-error-novel-vol-3",
       "isbnStatus": "Verificato: editore"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111722/kagurabachi",
+      "title": "Kagurabachi 10",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822668578",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/kagurabachi-n-10/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://sevenseasentertainment.com/books/thrice-married-to-a-salted-fish-novel-vol-4/",
@@ -386,7 +456,7 @@
       "title": "The Bladesmith's Enchanted Weapons: Volume 6",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -414,7 +484,7 @@
       "title": "Safe & Sound in the Arms of an Elite Knight (Manga) Volume 7",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -422,23 +492,73 @@
       "title": "Ascendance of a Bookworm (Manga) Part 2 Volume 12",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3112434/una-meteora-tra-i-fiori",
+      "title": "Una meteora tra i fiori 3",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834947623",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/una-meteora-tra-i-fiori-n-3/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3112428/shadows-house",
+      "title": "Shadows House 21",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834947579",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/shadows-house-n-21/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3112398/assassin-cinderella",
+      "title": "Assassin & Cinderella 5",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834947203",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/assassin-cinderella-n-5/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3112429/the-fragrant-flower-blooms-with-dignity",
+      "title": "The Fragrant Flower Blooms With Dignity 13",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834947593",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/the-fragrant-flower-blooms-with-dignity-n-13/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://j-novel.club/series/the-accursed-chef-and-his-pair-of-furry-foodies-manga#volume-2",
       "title": "The Accursed Chef and His Pair of Furry Foodies (Manga) Volume 2",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3110858/sayonara-mini-skirt",
+      "title": "Sayonara Mini Skirt 2",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834944653",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/sayonara-mini-skirt-n-2/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://j-novel.club/series/disowned-but-not-disheartened-life-is-good-with-overpowered-magic#volume-4",
       "title": "Disowned but Not Disheartened! Life Is Good with Overpowered Magic: Volume 4",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -572,6 +692,26 @@
       "isbnStatus": "Verificato: editore"
     },
     {
+      "url": "https://www.animeclick.it/edizione/3111733/mao",
+      "title": "Mao 24",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822669124",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/mao-n-24/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111734/record-of-ragnarok-lo-strano-caso-di-jack-lo-squartatore",
+      "title": "Record of Ragnarok - Lo strano caso di Jack lo Squartatore 9",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822668684",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/record-of-ragnarok-lo-strano-caso-di-jack-lo-squartatore-n-9/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
       "url": "https://yenpress.com/titles/9798855433913-a-reincarnated-witch-spells-doom-vol-8",
       "title": "A Reincarnated Witch Spells Doom, Vol. 8",
       "publisher": "Yen Press / distribuzione Yen Press",
@@ -620,6 +760,16 @@
       "isbn": "9798855437799",
       "isbnSource": "https://yenpress.com/titles/9798855437799-the-summer-hikaru-died-vol-8",
       "isbnStatus": "Verificato: editore"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111317/inuyasha-wide-edition",
+      "title": "Inuyasha Wide Edition 30",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822668011",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/inuyasha-wide-edition-n-30/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://yenpress.com/titles/9798855425697-n-vol-1-manga",
@@ -750,6 +900,16 @@
       "isbn": "9798855432749",
       "isbnSource": "https://yenpress.com/titles/9798855432749-tokujo-chan-the-girls-who-brighten-your-day",
       "isbnStatus": "Verificato: editore"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111731/ichi-the-witch",
+      "title": "Ichi the Witch 4",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788822666895",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/ichi-the-witch-n-4/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://yenpress.com/titles/9798855420920-defying-expectations-with-gravity-magic-to-be-unparalleled-vol-1",
@@ -886,7 +1046,7 @@
       "title": "Fraudulent Fiancés Roll Out the Red Carpet",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1114,7 +1274,7 @@
       "title": "Let This Grieving Soul Retire: Volume 11",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1122,8 +1282,18 @@
       "title": "The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World Volume 5",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3112424/omori",
+      "title": "Omori 1",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834944127",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/omori-n-1/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3112456/astro-baby",
@@ -1133,6 +1303,16 @@
       "isbnCheckedAt": "2026-10-23T17:41:43.069569+00:00",
       "isbn": "9788833558998",
       "isbnSource": "https://mangamaniafirenze.it/prodotto/astro-baby-n-5/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3111098/il-mio-matrimonio-felice",
+      "title": "Il mio matrimonio felice 6",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834946046",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/il-mio-matrimonio-felice-n-6/",
       "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
@@ -1170,7 +1350,7 @@
       "title": "Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer (Manga) Volume 6",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1178,8 +1358,18 @@
       "title": "Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon: Volume 17",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3109751/atom-the-beginning",
+      "title": "Atom the Beginning 23",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834941553",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/atom-the-beginning-n-23/",
+      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3112460/hotel-inhumans",
@@ -1209,6 +1399,16 @@
       "isbnCheckedAt": "2026-10-23T17:41:43.069569+00:00",
       "isbn": "9788833558172",
       "isbnSource": "https://mangamaniafirenze.it/prodotto/endo-n-5/",
+      "isbnStatus": "Verificato: edizione del catalogo"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3112444/albus-cambia-il-mondo",
+      "title": "Albus cambia il mondo 1",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbn": "9788834947418",
+      "isbnSource": "https://mangamaniafirenze.it/prodotto/albus-cambia-il-mondo-n-1/",
       "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
@@ -1246,7 +1446,7 @@
       "title": "The Greatest Wolf of My Life Vol. 3 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1264,7 +1464,7 @@
       "title": "Knight's & Magic: Volume 10",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1292,7 +1492,7 @@
       "title": "Al the Adventurer: That Magic Shouldn’t Work! (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1310,7 +1510,7 @@
       "title": "The Fearsome Witch Teaches in Another World: Volume 5",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1318,7 +1518,7 @@
       "title": "Repeated Vice: I Refuse to Be Important Enough to Die Volume 5",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1336,7 +1536,7 @@
       "title": "Keep Me Close: Finding My Home in You Volume 1",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1414,7 +1614,7 @@
       "title": "Miss Medic’s Diary at War: Volume 3",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1422,7 +1622,7 @@
       "title": "Housekeeping Mage from Another World: Making Your Adventures Feel Like Home! Volume 10",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1520,7 +1720,7 @@
       "title": "The Invincible Summoner Who Crawled Up from Level 1 (Manga) Volume 8",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1528,7 +1728,7 @@
       "title": "Grimgar of Fantasy and Ash level.23 The Witch of the Westland",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1536,7 +1736,7 @@
       "title": "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic (Manga): Volume 9",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1544,7 +1744,7 @@
       "title": "Déjà Vute: Betrayal Begets New Beginnings: Volume 1",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1552,7 +1752,7 @@
       "title": "Mirror, Mirror on the Wall: Volume 1",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1560,7 +1760,7 @@
       "title": "An Otaku Prince Finds Love in Akiba",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1568,7 +1768,7 @@
       "title": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1576,7 +1776,7 @@
       "title": "Fired? But I Maintain All the Software! Volume 3",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1584,7 +1784,7 @@
       "title": "Scooped Up by an S-Rank Adventurer! This White Mage Is One Heck of a Healer: Volume 5",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1592,7 +1792,7 @@
       "title": "Fleet-Footed Dungeon Delver: Tune in for Magical Girls and Motion Blur! Volume 1",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1600,7 +1800,7 @@
       "title": "The Misfit of Demon King Academy: Volume 13 Act 1",
       "publisher": "J-Novel Club",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -1784,6 +1984,46 @@
       "isbnStatus": "Verificato: editore"
     },
     {
+      "url": "https://j-novel.club/series/what-s-with-the-bag-kamiyama-san-manga#volume-4",
+      "title": "What's with the Bag, Kamiyama-san? (Manga) Volume 4",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
+      "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://j-novel.club/series/i-ll-never-set-foot-in-that-house-again-manga#volume-9",
+      "title": "I’ll Never Set Foot in That House Again! (Manga) Volume 9",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
+      "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://j-novel.club/series/crybaby-love-song#volume-1",
+      "title": "Crybaby Love Song",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
+      "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://j-novel.club/series/the-conqueror-from-a-dying-kingdom-manga#volume-8",
+      "title": "The Conqueror from a Dying Kingdom (Manga) Volume 8",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
+      "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
+      "url": "https://j-novel.club/series/infinite-dendrogram-manga#volume-15",
+      "title": "Infinite Dendrogram Manga Volume 15",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
+      "isbnStatus": "ISBN non esposto dalla fonte"
+    },
+    {
       "url": "https://sevenseasentertainment.com/books/inside-the-tentacle-cave-manga-vol-8/",
       "title": "Inside the Tentacle Cave (Manga) Vol. 8",
       "publisher": "Seven Seas",
@@ -1848,7 +2088,7 @@
       "title": "Reluctant Space Commander: From Death Wish to Galactic Hero! (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -2006,7 +2246,7 @@
       "title": "The Faceless Mercenary Wants to Settle Down: Homestead at the Edge of the Galaxy (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -2454,7 +2694,7 @@
       "title": "The One-Eyed, One-Armed, One-Legged Sorcerer (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -2462,7 +2702,7 @@
       "title": "Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -3250,7 +3490,7 @@
       "title": "Liar’s Journey: Reborn as a False Hero – I’ll Save the Tragic Heroine from Every Death Route! (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -3398,7 +3638,7 @@
       "title": "The Berserker NPC Unknowingly Destroys the World (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -3696,7 +3936,7 @@
       "title": "Predator Witches (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -3704,7 +3944,7 @@
       "title": "Villager A Wants to Save the Villainess No Matter What! (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4052,7 +4292,7 @@
       "title": "A Serious Error in Chihaya-chan’s Reputation (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4420,7 +4660,7 @@
       "title": "In Another World with My Cat: A Software Engineer Uses Code to Master Magic and Build a Territory (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4428,7 +4668,7 @@
       "title": "Fluffy Café in Another World (Light Novel) Vol. 3 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4616,7 +4856,7 @@
       "title": "I Reincarnated as the “Villain” Commander of an Order of Knights (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4624,7 +4864,7 @@
       "title": "Al the Adventurer: That Magic Shouldn’t Work! (Light Novel) Vol. 3 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4762,7 +5002,7 @@
       "title": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits! (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4810,7 +5050,7 @@
       "title": "The Faceless Mercenary Wants to Settle Down: Homestead at the Edge of the Galaxy (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4818,7 +5058,7 @@
       "title": "Record of a Reincarnated Chancellor: I Was Summoned by a Hopeless Demon Lord to Rebuild Her Army (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -4966,7 +5206,7 @@
       "title": "Goetia Shock Vol. 1 – Cyberdetective Alicia Arkwright and the Ink-Painted Nightmare: Part 1 (Light Novel) [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -5124,7 +5364,7 @@
       "title": "Wandmaker of the Ruined World (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -5132,7 +5372,7 @@
       "title": "Reborn as an Assassin’s Apprentice (Light Novel) Vol. 3 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -5470,7 +5710,7 @@
       "title": "The One-Eyed, One-Armed, One-Legged Sorcerer (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -5678,7 +5918,7 @@
       "title": "Reluctant Space Commander: From Death Wish to Galactic Hero! (Light Novel) Vol. 3 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non esposto dalla fonte"
     },
     {
@@ -5902,99 +6142,19 @@
       "isbnStatus": "Verificato: editore"
     },
     {
-      "url": "https://www.animeclick.it/edizione/3111719/detective-conan-new-edition",
-      "title": "Detective Conan New Edition 74",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822668301",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/detective-conan-new-edition-n-74/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111723/kraken-mare",
-      "title": "Kraken Mare 2",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822666277",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/kraken-mare-n-2/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111724/super-ball-girls",
-      "title": "Super Ball Girls 7",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822669100",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/super-ball-girls-n-7/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111338/phantom-busters",
-      "title": "Phantom Busters 1",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822658098",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/phantom-busters-n-1/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111725/the-jojolands",
-      "title": "The JOJOLands 8",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822668653",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/the-jojolands-n-8/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111726/suture",
-      "title": "Suture",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822664570",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/suture/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111722/kagurabachi",
-      "title": "Kagurabachi 10",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822668578",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/kagurabachi-n-10/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
       "url": "https://www.animeclick.it/edizione/3112395/drcl.-midnight-children",
       "title": "#DRCL. Midnight Children 7",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3112434/una-meteora-tra-i-fiori",
-      "title": "Una meteora tra i fiori 3",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834947623",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/una-meteora-tra-i-fiori-n-3/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3101626/tokyo-ghoul-re-deluxe",
       "title": "Tokyo Ghoul:re Deluxe 2",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6002,63 +6162,23 @@
       "title": "100 storie dell'orrore prima di morire 5",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3112428/shadows-house",
-      "title": "Shadows House 21",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834947579",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/shadows-house-n-21/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3111868/blood-bank-stagione-iii",
       "title": "Blood Bank - Stagione III 3",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3112398/assassin-cinderella",
-      "title": "Assassin & Cinderella 5",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834947203",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/assassin-cinderella-n-5/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3112429/the-fragrant-flower-blooms-with-dignity",
-      "title": "The Fragrant Flower Blooms With Dignity 13",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834947593",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/the-fragrant-flower-blooms-with-dignity-n-13/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3110858/sayonara-mini-skirt",
-      "title": "Sayonara Mini Skirt 2",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834944653",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/sayonara-mini-skirt-n-2/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3112494/fanaticism",
       "title": "Fanaticism",
       "publisher": "Magic Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6066,7 +6186,7 @@
       "title": "Sogno o realtà? - Yume ka Utsutsu ka 5",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6074,7 +6194,7 @@
       "title": "Ken il guerriero: Le origini del mito Extreme Edition 13",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6082,7 +6202,7 @@
       "title": "Omniscient Reader's Viewpoint 7",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6090,63 +6210,23 @@
       "title": "D.Gray-man 6",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111733/mao",
-      "title": "Mao 24",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822669124",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/mao-n-24/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111734/record-of-ragnarok-lo-strano-caso-di-jack-lo-squartatore",
-      "title": "Record of Ragnarok - Lo strano caso di Jack lo Squartatore 9",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822668684",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/record-of-ragnarok-lo-strano-caso-di-jack-lo-squartatore-n-9/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3111729/fairy-tail-20th-anniversary-edition",
       "title": "Fairy Tail 20th Anniversary Edition 1",
       "publisher": "Star Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111317/inuyasha-wide-edition",
-      "title": "Inuyasha Wide Edition 30",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822668011",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/inuyasha-wide-edition-n-30/",
-      "isbnStatus": "Verificato: edizione del catalogo"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111731/ichi-the-witch",
-      "title": "Ichi the Witch 4",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788822666895",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/ichi-the-witch-n-4/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3111732/ichi-the-witch-halloween-variant-cover-edition",
       "title": "Ichi the Witch Halloween Variant Cover Edition 4",
       "publisher": "Star Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6154,7 +6234,7 @@
       "title": "Oneira - L'era dei sovrani 1",
       "publisher": "Star Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6162,7 +6242,7 @@
       "title": "Il mio matrimonio felice Deluxe 6",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6170,7 +6250,7 @@
       "title": "Il mostro rosa Variant Coconino",
       "publisher": "Coconino Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6178,7 +6258,7 @@
       "title": "Zingnize Variant 11",
       "publisher": "Mangasenpai",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6186,7 +6266,7 @@
       "title": "Gon - Nuova edizione Box",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6194,7 +6274,7 @@
       "title": "Lone Wolf & Cub Omnibus Variant Lucca 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6202,7 +6282,7 @@
       "title": "Palepoli Deluxe",
       "publisher": "Coconino Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6210,7 +6290,7 @@
       "title": "The Great 3",
       "publisher": "ReNoir Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6218,7 +6298,7 @@
       "title": "Rent a Girlfriend 35",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6226,25 +6306,15 @@
       "title": "And Then, She Became Mina Variant 1",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3112424/omori",
-      "title": "Omori 1",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834944127",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/omori-n-1/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3112465/dealing-with-mikadono-sisters-is-a-breeze-variant",
       "title": "Dealing with Mikadono Sisters Is a Breeze Variant 1",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6252,7 +6322,7 @@
       "title": "A Star Brighter Than the Sun 5",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6260,25 +6330,15 @@
       "title": "Fiore Variant Coconino",
       "publisher": "Coconino Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3111098/il-mio-matrimonio-felice",
-      "title": "Il mio matrimonio felice 6",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834946046",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/il-mio-matrimonio-felice-n-6/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3112455/zashisu-box",
       "title": "Zashisu Box",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6286,7 +6346,7 @@
       "title": "G.T.U. - Great teacher Uchiyamada - Mad Yamada Fury Road Limited Edition + Box 3",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6294,7 +6354,7 @@
       "title": "Taika's Reason Variant Lucca 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6302,7 +6362,7 @@
       "title": "Solo Leveling Variant 1",
       "publisher": "Star Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6310,7 +6370,7 @@
       "title": "Handsome Girl and Sheltered Girl 1",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6318,7 +6378,7 @@
       "title": "Handsome Girl and Sheltered Girl Box",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6326,7 +6386,7 @@
       "title": "Il pianeta verde Box",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6334,7 +6394,7 @@
       "title": "Litchi Hikari Club Omnibus Edition Variant Coconino",
       "publisher": "Coconino Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6342,7 +6402,7 @@
       "title": "Handsome Girl and Sheltered Girl Variant Box",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6350,7 +6410,7 @@
       "title": "Una vita tra i margini - Nuova edizione Variant",
       "publisher": "Bao Publishing",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6358,7 +6418,7 @@
       "title": "Albus cambia il mondo Variant 1",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6366,7 +6426,7 @@
       "title": "G.T.U. - Great teacher Uchiyamada - Mad Yamada Fury Road 3",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6374,7 +6434,7 @@
       "title": "Fushigi Yuugi Variant Edition 1",
       "publisher": "Star Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6382,7 +6442,7 @@
       "title": "Grand Blue Variant Edition Cut Price 1",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6390,7 +6450,7 @@
       "title": "Ushimitsugao - Bella (delle due) di notte Variant Lucca 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6398,7 +6458,7 @@
       "title": "Goodbye, my rosegarden. Variant Lucca 1",
       "publisher": "Mangasenpai",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6406,7 +6466,7 @@
       "title": "The Fragrant Flower Blooms With Dignity Variant 14",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6414,7 +6474,7 @@
       "title": "Il canto di Kujima Box",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6422,7 +6482,7 @@
       "title": "Ayashi no Ceres Variant Edition 1",
       "publisher": "Star Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6430,7 +6490,7 @@
       "title": "Omori Variant 1",
       "publisher": "JPOP",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6438,7 +6498,7 @@
       "title": "Honey Lemon Soda - Sparkling Love Story 7",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6446,7 +6506,7 @@
       "title": "Dealing with Mikadono Sisters Is a Breeze 1",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6454,7 +6514,7 @@
       "title": "Sanda Variant Lucca 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6462,25 +6522,15 @@
       "title": "Sanda Variant Lucca 16",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3109751/atom-the-beginning",
-      "title": "Atom the Beginning 23",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834941553",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/atom-the-beginning-n-23/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3112551/beastars-variant-lucca",
       "title": "Beastars Variant Lucca 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6488,7 +6538,7 @@
       "title": "Endo Variant 5",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6496,7 +6546,7 @@
       "title": "Fortune Kitten's School Life Special Edition 1",
       "publisher": "Jundo",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6504,7 +6554,7 @@
       "title": "Akuma-kun Variant 1",
       "publisher": "Canicola Edizioni",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6512,7 +6562,15 @@
       "title": "Paru Itagaki Portfolio",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "url": "https://www.animeclick.it/edizione/3112739/firefly-wedding-variant-anime",
+      "title": "Firefly Wedding Variant Anime 1",
+      "publisher": "JPOP",
+      "language": "IT",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6520,25 +6578,15 @@
       "title": "Handsome Girl and Sheltered Girl Variant 1",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
-    },
-    {
-      "url": "https://www.animeclick.it/edizione/3112444/albus-cambia-il-mondo",
-      "title": "Albus cambia il mondo 1",
-      "publisher": "JPOP",
-      "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
-      "isbn": "9788834947418",
-      "isbnSource": "https://mangamaniafirenze.it/prodotto/albus-cambia-il-mondo-n-1/",
-      "isbnStatus": "Verificato: edizione del catalogo"
     },
     {
       "url": "https://www.animeclick.it/edizione/3112620/ho-qualcosa-da-dirti-variant",
       "title": "Ho qualcosa da dirti Variant 1",
       "publisher": "ReNoir Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6546,7 +6594,7 @@
       "title": "The Broken Ring This Marriage Will Fail Anyway Variant 1",
       "publisher": "Jundo",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6554,7 +6602,7 @@
       "title": "L'arte di Paru Itagaki",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6562,7 +6610,7 @@
       "title": "G.T.U. - Great teacher Uchiyamada - Mad Yamada Fury Road Box",
       "publisher": "Dynit",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6570,7 +6618,7 @@
       "title": "Ken il guerriero - Deluxe Edition 5",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6578,7 +6626,7 @@
       "title": "Asura's Verdict 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6586,7 +6634,7 @@
       "title": "Nana Deluxe Honey Edition 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6594,7 +6642,7 @@
       "title": "L'Attacco dei Giganti - Before the Fall - Colossal Edition 4",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6602,7 +6650,7 @@
       "title": "Ushimitsugao - Bella (delle due) di notte 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6610,7 +6658,7 @@
       "title": "Nana 1st Illustrations",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6618,7 +6666,7 @@
       "title": "Twisted-Wonderland - Il manga: Book of Scarabia 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6626,7 +6674,7 @@
       "title": "Nana Deluxe Punk Edition 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6634,7 +6682,7 @@
       "title": "W.I.T.C.H. - Il manga - Complete Edition",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6642,7 +6690,7 @@
       "title": "Afro Samurai Complete Edition Italian Variant",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6650,7 +6698,7 @@
       "title": "Twisted-Wonderland - Il manga: Book of Scarabia Variant Deluxe 1",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6658,7 +6706,7 @@
       "title": "Dear Gene + Il mio Rumspringa Box",
       "publisher": "Magic Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6666,7 +6714,7 @@
       "title": "Lavanderia Minato - Wash my Heart! 5",
       "publisher": "Panini Comics",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6674,7 +6722,7 @@
       "title": "Litchi Hikari Club Omnibus Edition Variant Fumetteria",
       "publisher": "Coconino Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6682,7 +6730,7 @@
       "title": "Litchi Hikari Club Omnibus Edition",
       "publisher": "Coconino Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6690,7 +6738,7 @@
       "title": "La tigre delle nevi 1",
       "publisher": "Bao Publishing",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6698,7 +6746,7 @@
       "title": "Una vita tra i margini - Nuova edizione",
       "publisher": "Bao Publishing",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6706,7 +6754,7 @@
       "title": "Jyoshikohei - Mecha guerriere d'assalto 3",
       "publisher": "Xpublishing",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     },
     {
@@ -6714,7 +6762,7 @@
       "title": "Fiore",
       "publisher": "Coconino Press",
       "language": "IT",
-      "isbnCheckedAt": "2026-10-23T17:50:37.210810+00:00",
+      "isbnCheckedAt": "2026-10-23T18:06:30.755560+00:00",
       "isbnStatus": "ISBN non verificabile"
     }
   ]

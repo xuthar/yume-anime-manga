@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T18:00:16.377956+02:00",
+  "updatedAt": "2026-10-23T20:06:29.191304+02:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-10-22T18:00:16.377956+02:00",
+      "checkedAt": "2026-10-23T20:06:29.191304+02:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-10-22T18:00:16.377956+02:00",
+      "checkedAt": "2026-10-23T20:06:29.191304+02:00",
       "status": "ok"
     },
     {
@@ -24,14 +24,14 @@
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
       "checkedAt": "2026-10-22T18:00:16.377956+02:00",
-      "status": "ok"
+      "status": "error"
     },
     {
       "id": "yen-press",
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-10-22T18:00:16.377956+02:00",
+      "checkedAt": "2026-10-23T20:06:29.191304+02:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-10-22T18:00:16.377956+02:00",
+      "checkedAt": "2026-10-23T20:06:29.191304+02:00",
       "status": "ok"
     }
   ],
@@ -1811,6 +1811,17 @@
     },
     {
       "date": "2026-10-28",
+      "title": "Firefly Wedding Variant Anime 1",
+      "series": "Firefly Wedding",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112739/firefly-wedding-variant-anime",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-10-28",
       "title": "Fushigi Yuugi Variant Edition 1",
       "series": "Fushigi Yuugi",
       "publisher": "Star Comics",
@@ -3154,6 +3165,61 @@
       "isbn": "979-8-89863-411-7",
       "url": "https://sevenseasentertainment.com/books/wolfhound/",
       "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Crybaby Love Song",
+      "series": "Crybaby Love Song",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/crybaby-love-song#volume-1",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Infinite Dendrogram Manga Volume 15",
+      "series": "Infinite Dendrogram (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/infinite-dendrogram-manga#volume-15",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "I’ll Never Set Foot in That House Again! (Manga) Volume 9",
+      "series": "I’ll Never Set Foot in That House Again! (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/i-ll-never-set-foot-in-that-house-again-manga#volume-9",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "The Conqueror from a Dying Kingdom (Manga) Volume 8",
+      "series": "The Conqueror from a Dying Kingdom (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/the-conqueror-from-a-dying-kingdom-manga#volume-8",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "What's with the Bag, Kamiyama-san? (Manga) Volume 4",
+      "series": "What's with the Bag, Kamiyama-san? (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/what-s-with-the-bag-kamiyama-san-manga#volume-4",
+      "sourceId": "j-novel-club"
     },
     {
       "date": "2026-11-17",
