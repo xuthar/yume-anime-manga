@@ -41,7 +41,7 @@ function value_(v){return v===null||v===undefined?{}:{userEnteredValue:typeof v=
 function formula_(s){return {userEnteredValue:{formulaValue:s}}}
 function cell_(sh,row,col,v){return {updateCells:{start:{sheetId:sh.getSheetId(),rowIndex:row-1,columnIndex:col-1},rows:[{values:[v]}],fields:'userEnteredValue'}}}
 function row_(sh,row,values,requests){if(row>sh.getMaxRows())requests.push({appendDimension:{sheetId:sh.getSheetId(),dimension:'ROWS',length:Math.max(100,row-sh.getMaxRows())}});if(sh.getLastRow()>1)requests.push({copyPaste:{source:{sheetId:sh.getSheetId(),startRowIndex:1,endRowIndex:2,startColumnIndex:0,endColumnIndex:values.length},destination:{sheetId:sh.getSheetId(),startRowIndex:row-1,endRowIndex:row,startColumnIndex:0,endColumnIndex:values.length},pasteType:'PASTE_FORMAT'}});requests.push({updateCells:{start:{sheetId:sh.getSheetId(),rowIndex:row-1,columnIndex:0},rows:[{values:values.map(v=>v&&v.userEnteredValue?v:value_(v))}],fields:'userEnteredValue'}})}
-function isbnSummary_(row){return formula_("=COUNTIFS('Volumi in possesso'!$K$2:$K;$P"+row+";'Volumi in possesso'!$O$2:$O;\"<>\")&\" ISBN disponibili · dettagli nell’inventario\"")}
+function isbnSummary_(row){return formula_("=COUNTIFS('Volumi in possesso'!$K$2:$K;$P"+row+";'Volumi in possesso'!$O$2:$O;\"?????????????\")&\" ISBN disponibili · dettagli nell’inventario\"")}
 
 function register_(request){
  const previous=records_(),old=previous.find(r=>r.requestId===request.requestId||r.key===request.book?.key);if(old){if(old.requestId!==request.requestId)CacheService.getScriptCache().put('receipt:'+request.requestId,JSON.stringify(old),600);return old}
