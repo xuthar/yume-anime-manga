@@ -1,0 +1,6141 @@
+{
+  "checkedAt": "2026-10-23T18:02:35.915098+00:00",
+  "worksChecked": 288,
+  "detailedVolumesChecked": 1356,
+  "verifiedInventoryCodes": 810,
+  "missingInventoryCodes": 546,
+  "calendarPublicationsChecked": 697,
+  "verifiedCalendarCodes": 570,
+  "missingCalendarCodes": 127,
+  "knownSingleBookCodesRetained": 3,
+  "works": [
+    {
+      "id": "manga-ac-38455",
+      "title": "1001 notti alle terme",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-9544",
+      "title": "20th Century Boys",
+      "detailedVolumes": 11,
+      "verifiedIsbns": 9,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-19965",
+      "title": "20th Century Boys: La raccolta delle opere di Ujiko Ujio",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9851",
+      "title": "21st Century Boys",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-23315",
+      "title": "86 - Eighty-Six",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-34611",
+      "title": "Agenzia matrimoniale",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-25938",
+      "title": "Anekomori",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-61464",
+      "title": "Angeli tentatori",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-11924",
+      "title": "Another",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-58739",
+      "title": "Appuntamento con il serial killer",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9992",
+      "title": "Aqua",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10005",
+      "title": "Aria",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-12873",
+      "title": "Assassination Classroom",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-19730",
+      "title": "Astra Lost in Space",
+      "detailedVolumes": 5,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-13722",
+      "title": "Aula alla deriva",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-32738",
+      "title": "Ayakashi Triangle",
+      "detailedVolumes": 16,
+      "verifiedIsbns": 16,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-41685",
+      "title": "Ayashimon pack",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-14465",
+      "title": "Bakemonogatari",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-24538",
+      "title": "Bakemonogatari - Monster Tale",
+      "detailedVolumes": 23,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-50604",
+      "title": "Beat & Motion",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-56372",
+      "title": "Belle di notte",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-9607",
+      "title": "Berserk",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10297",
+      "title": "Billy Bat",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10443",
+      "title": "Black Jack",
+      "detailedVolumes": 15,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9546",
+      "title": "Bleach",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-28155",
+      "title": "Blue Lock",
+      "detailedVolumes": 37,
+      "verifiedIsbns": 33,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-45668",
+      "title": "Blue Lock - Episode Nagi",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 7,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-57587",
+      "title": "Blue Lock - Noi, prima della battaglia: Aryu・Baro・Yukimiya",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-47858",
+      "title": "Blue Lock - Noi, prima della battaglia: Chigiri・Reo・Rin",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-46726",
+      "title": "Blue Lock - Noi, prima della battaglia: Isagi・Nagi・Bachira",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-28898",
+      "title": "Bocchi the Rock!",
+      "detailedVolumes": 10,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-53649",
+      "title": "Bocchi the Rock! Extra - Diario alcolico di Kikuri",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-58095",
+      "title": "Body Control App",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-54939",
+      "title": "Boy Meets Harem",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-24997",
+      "title": "Brivido e altre storie",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-25707",
+      "title": "Bunny Girl Senpai",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-42666",
+      "title": "Cacciatori di cadaveri",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-30021",
+      "title": "Call of the Night",
+      "detailedVolumes": 21,
+      "verifiedIsbns": 18,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-26055",
+      "title": "Candy & Cigarettes",
+      "detailedVolumes": 11,
+      "verifiedIsbns": 11,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-30470",
+      "title": "Capitan Harlock - Memorie dell'Arcadia",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-53488",
+      "title": "Caramel Box",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-26858",
+      "title": "Chainsaw Man",
+      "detailedVolumes": 25,
+      "verifiedIsbns": 19,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10230",
+      "title": "City Hunter",
+      "detailedVolumes": 12,
+      "verifiedIsbns": 12,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-29091",
+      "title": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-21469",
+      "title": "Classroom of the Elite",
+      "detailedVolumes": 18,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-29107",
+      "title": "Compendio della vera storia universale",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-52464",
+      "title": "Cosmos (Ryuuhei Tamura)",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 7,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-68433",
+      "title": "Così dolce",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-37165",
+      "title": "Crazy Food Truck",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9709",
+      "title": "D.Gray-man",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-27996",
+      "title": "D/S Extasy",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-29149",
+      "title": "Dai Dark",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 8,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-38190",
+      "title": "Dandadan",
+      "detailedVolumes": 27,
+      "verifiedIsbns": 22,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33303",
+      "title": "Dark Gathering",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-23309",
+      "title": "DARLING in the FRANXX",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 8,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-15546",
+      "title": "Dead Tube",
+      "detailedVolumes": 26,
+      "verifiedIsbns": 26,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-17319",
+      "title": "Demokratia",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-27016",
+      "title": "Demon Slave",
+      "detailedVolumes": 20,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10033",
+      "title": "Due Come Noi",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-40028",
+      "title": "Due come noi - Sagawa, the Hero",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9595",
+      "title": "Eden - It's an Endless World!",
+      "detailedVolumes": 9,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-25313",
+      "title": "Edens Zero",
+      "detailedVolumes": 35,
+      "verifiedIsbns": 29,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10860",
+      "title": "Elettroshock Daisy",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-28718",
+      "title": "Elfa XXL - La dieta impossibile",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33444",
+      "title": "Endroll Back",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-56631",
+      "title": "Enko Ojisan",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-23704",
+      "title": "Evil Eater",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 3,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-50478",
+      "title": "Fidanzata Super",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-17807",
+      "title": "Fire Punch",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-37167",
+      "title": "Fool Night",
+      "detailedVolumes": 10,
+      "verifiedIsbns": 10,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-32313",
+      "title": "Frieren - Oltre la fine del viaggio",
+      "detailedVolumes": 21,
+      "verifiedIsbns": 14,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-54568",
+      "title": "Frieren - Oltre la fine del viaggio - Anthology",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-55602",
+      "title": "Frieren - Oltre la fine del viaggio: preludio",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-36856",
+      "title": "From the Red Fog",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-9592",
+      "title": "Fruits Basket Big Love Edition",
+      "detailedVolumes": 12,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-29253",
+      "title": "Gaishu Isshoku! Un gioco da ragazzi!",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33024",
+      "title": "Game of Familia",
+      "detailedVolumes": 15,
+      "verifiedIsbns": 13,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9967",
+      "title": "Ghost in the Shell",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-24274",
+      "title": "Gigant",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-40046",
+      "title": "Gigantis",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10485",
+      "title": "Golden Boy",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-11746",
+      "title": "Golden Boy 2",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10567",
+      "title": "Golgo 13",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-18929",
+      "title": "Good Night World",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-44104",
+      "title": "Goodbye, Eri",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-15753",
+      "title": "Grand Blue",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-54418",
+      "title": "Greaseberries",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-49902",
+      "title": "Hai Step Jun",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-19348",
+      "title": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "detailedVolumes": 26,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-41066",
+      "title": "Hanako kun - I sette misteri dell'Accademia Kamome 0",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-30422",
+      "title": "Hanako kun - Il doposcuola dell'Accademia Kamome",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-23991",
+      "title": "Hell's Paradise - Jigokuraku",
+      "detailedVolumes": 13,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-28969",
+      "title": "Hello World",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-13730",
+      "title": "Hideout",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-60768",
+      "title": "Honeymoon Paradise",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-11263",
+      "title": "I am a Hero",
+      "detailedVolumes": 23,
+      "verifiedIsbns": 22,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-23236",
+      "title": "I diari della speziale",
+      "detailedVolumes": 18,
+      "verifiedIsbns": 16,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-12705",
+      "title": "I viaggi di Emanon",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-32053",
+      "title": "Idaten: gli dei in tempo di pace",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-52466",
+      "title": "Il club della ricerca sulla fellatio",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-51916",
+      "title": "Il diario di Prim",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-25212",
+      "title": "Il duca della morte e la domestica oscura",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-34104",
+      "title": "Il duro lavoro di Musubu",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 7,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-39148",
+      "title": "Il metodo Azato +",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-21548",
+      "title": "Il mondo della morale al rovescio",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-23235",
+      "title": "Il monologo della speziale",
+      "detailedVolumes": 13,
+      "verifiedIsbns": 8,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-54078",
+      "title": "Il primo amore di Nezumi",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-49005",
+      "title": "Il tenue colore della fine - Mission In The Apocalypse",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10481",
+      "title": "Il viaggio di Shuna",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-46776",
+      "title": "In gita alla spiaggia per nudisti!!",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-30505",
+      "title": "In/Spectre",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-28744",
+      "title": "Insomniacs After School",
+      "detailedVolumes": 15,
+      "verifiedIsbns": 13,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-45438",
+      "title": "Isekai demo Fuuzoku Jou Yatte Mita",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-28403",
+      "title": "Ishuzoku Reviewers",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-49863",
+      "title": "Jinrui-Shoku: Blight of Man",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-33192",
+      "title": "JK Haru - Sex Worker in Another World",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-51429",
+      "title": "Joshi Luck! Girls Lacrosse Club",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-49903",
+      "title": "Juny peperina inventatutto",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-18820",
+      "title": "Kaguya-sama: Love is War",
+      "detailedVolumes": 28,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-30984",
+      "title": "Kaijin Reijoh - Mostruose Bellezze",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-25801",
+      "title": "Kaiju Girl Caramelise",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 7,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33736",
+      "title": "Kaiju No. 8",
+      "detailedVolumes": 18,
+      "verifiedIsbns": 12,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-54683",
+      "title": "Kaiju No. 8: B-Side",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-39949",
+      "title": "Kajiki Chef",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-32729",
+      "title": "Kanojo mo Kanojo",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10188",
+      "title": "Ken il guerriero - Hokuto no Ken",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10844",
+      "title": "Ken la Leggenda - Raoh, il conquistatore del cielo Omnibus",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10845",
+      "title": "Ken la Leggenda - Rei, l'oscuro lupo blu",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10846",
+      "title": "Ken la Leggenda - Toki, il santo d'argento",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-38860",
+      "title": "Kijin Gentosho - Demon Hunter",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10925",
+      "title": "Knights of Sidonia",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-41629",
+      "title": "Kokoro no Program",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-36674",
+      "title": "Kono Healer Mendokusai",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-43705",
+      "title": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-22874",
+      "title": "L'harem alla fine dei mondi",
+      "detailedVolumes": 12,
+      "verifiedIsbns": 9,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-21746",
+      "title": "L'Innominabile Sorella",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 5,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-21063",
+      "title": "L'ultimo viaggio delle ragazze",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 6,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-49455",
+      "title": "La casa dove tutti fanno sesso (tranne me)",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-62547",
+      "title": "La lussuria è donna",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-12615",
+      "title": "La nuova vita di Nina",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-11721",
+      "title": "La ragazza in riva al mare",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-50441",
+      "title": "La strana casa",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-0",
+      "title": "La super guida manga - Tutto sul fumetto giapponese dal sito italiano n.1 sulla pop culture nipponic",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-59221",
+      "title": "La tua verginità è mia",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-24269",
+      "title": "Lady vampira",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-32244",
+      "title": "Le 100 ragazze che ti amano tanto tanto tanto tanto tanto",
+      "detailedVolumes": 20,
+      "verifiedIsbns": 18,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-12687",
+      "title": "Le Memorie di Emanon",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-38111",
+      "title": "Le mie adorate maghette",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 3,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-61270",
+      "title": "Le milf della pallavolo",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-44899",
+      "title": "Leviathan (Shiro Kuroi)",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-14900",
+      "title": "Love Live! School Idol Project",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-63580",
+      "title": "Lovely",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-19539",
+      "title": "Made in Abyss",
+      "detailedVolumes": 14,
+      "verifiedIsbns": 14,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-10548",
+      "title": "Mad★Bull 34",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-9638",
+      "title": "Magic Knight Rayearth",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9640",
+      "title": "Magic Knight Rayearth 2",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9859",
+      "title": "Maison Ikkoku",
+      "detailedVolumes": 10,
+      "verifiedIsbns": 3,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-46042",
+      "title": "Makeine - Too Many Losing Heroines!",
+      "detailedVolumes": 5,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10158",
+      "title": "Marmalade Boy - Piccoli problemi di cuore",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-30857",
+      "title": "Mashima HERO'S",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-31327",
+      "title": "Mashle",
+      "detailedVolumes": 21,
+      "verifiedIsbns": 17,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-37116",
+      "title": "Megami no Café Terrace",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10367",
+      "title": "Mermaid Saga",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-31424",
+      "title": "Messe a Nudo",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-26532",
+      "title": "Metamorfosi",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-19815",
+      "title": "Mi sono reincarnato in uno slime",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 5,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-27320",
+      "title": "Mieruko-chan",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10289",
+      "title": "Miracle Girls",
+      "detailedVolumes": 5,
+      "verifiedIsbns": 5,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-16494",
+      "title": "Miss Kobayashi's Dragon Maid",
+      "detailedVolumes": 19,
+      "verifiedIsbns": 16,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-30067",
+      "title": "Mission: Yozakura Family",
+      "detailedVolumes": 28,
+      "verifiedIsbns": 24,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-9605",
+      "title": "Monster",
+      "detailedVolumes": 9,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-64705",
+      "title": "Monster Girls",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-13363",
+      "title": "Monster Musume",
+      "detailedVolumes": 20,
+      "verifiedIsbns": 20,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-39982",
+      "title": "Moonlight Invader",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-34586",
+      "title": "Morirò se non resto vergine",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-51937",
+      "title": "MUJINA INTO THE DEEP",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-33765",
+      "title": "Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-44853",
+      "title": "Mushoku Tensei - Depressed Magician",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-19628",
+      "title": "Mushoku Tensei - Jobless Reincarnation",
+      "detailedVolumes": 23,
+      "verifiedIsbns": 23,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-22536",
+      "title": "Mushoku Tensei - Nel nuovo mondo darò il massimo",
+      "detailedVolumes": 5,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-37095",
+      "title": "Musume Janakute, Watashi ga Suki Nano!?",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-26110",
+      "title": "My dress-up darling – Bisque Doll",
+      "detailedVolumes": 17,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-32819",
+      "title": "My Love Story with Yamada-kun at LV999",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-60170",
+      "title": "Nella morsa dell'amore",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-42153",
+      "title": "Nippon Sangoku - I tre regni del Giappone",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-14502",
+      "title": "No Game No Life",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-17741",
+      "title": "Non mi stuzzicare, Takagi!",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 6,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-24570",
+      "title": "Non tormentarmi, Nagatoro!",
+      "detailedVolumes": 20,
+      "verifiedIsbns": 20,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-42207",
+      "title": "Noyu Girl",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-28102",
+      "title": "Oblio e altre storie",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-12995",
+      "title": "One-Punch Man",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-12578",
+      "title": "Orange (Ichigo Takano)",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-9616",
+      "title": "Orange Road",
+      "detailedVolumes": 10,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-39981",
+      "title": "Ore wa Seikan Kokka no Akutoku Ryōshu!",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-31950",
+      "title": "Oshi no Ko - My Star",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-40129",
+      "title": "Ottoman Box",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-55490",
+      "title": "Passione porno",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-14836",
+      "title": "Peace Hame!",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33681",
+      "title": "Phantom Seer",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-30462",
+      "title": "Planet of the Fools",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10026",
+      "title": "Planetes",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-46784",
+      "title": "Please! Freeze! Please!",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-49010",
+      "title": "Power Bible - La Bibbia Manga",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-9639",
+      "title": "Pretty Guardian Sailor Moon",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-27309",
+      "title": "Principesse imperfette",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-17301",
+      "title": "Prison Experiment",
+      "detailedVolumes": 10,
+      "verifiedIsbns": 7,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-30155",
+      "title": "Pumpkin Night",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 7,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10713",
+      "title": "Queen Emeraldas",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-43165",
+      "title": "Re Cervin",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 6,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-15830",
+      "title": "RE/MEMBER",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-24588",
+      "title": "Redo of Healer",
+      "detailedVolumes": 16,
+      "verifiedIsbns": 14,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-37624",
+      "title": "Ring x Mama",
+      "detailedVolumes": 5,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-17786",
+      "title": "Ruggito e altre storie",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-10778",
+      "title": "Rumic World",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-11862",
+      "title": "Sankarea",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-9725",
+      "title": "Sanpei - Ragazzo Pescatore",
+      "detailedVolumes": 12,
+      "verifiedIsbns": 11,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-49852",
+      "title": "SanzunoKawa Outlet Park",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-14871",
+      "title": "School-Live!",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-32921",
+      "title": "Sei S o sei M?",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33276",
+      "title": "Sex Friends - Sesso o amore?",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-22504",
+      "title": "Shigahime",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-11087",
+      "title": "Shin Vampire Princess Miyu",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10070",
+      "title": "Silent Möbius",
+      "detailedVolumes": 11,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-45404",
+      "title": "Skeeter Rabbit!!",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-22954",
+      "title": "Smile Down the Runway",
+      "detailedVolumes": 9,
+      "verifiedIsbns": 8,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-38240",
+      "title": "Snowball Earth",
+      "detailedVolumes": 10,
+      "verifiedIsbns": 10,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-18230",
+      "title": "Soft Metal Vampire",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 6,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-19920",
+      "title": "Soul Liquid Chambers",
+      "detailedVolumes": 3,
+      "verifiedIsbns": 3,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-28184",
+      "title": "Spy X Family",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-44862",
+      "title": "SSR - Secret Sex Room",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-19491",
+      "title": "Starving Anonymous",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-58339",
+      "title": "Strani disegni",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10969",
+      "title": "Summer Wars",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 1,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-22057",
+      "title": "Super HXEROS",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-26620",
+      "title": "Sweat and Soap - Sudore e sapone",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-26170",
+      "title": "Sword Art Online Progressive - Barcarolle of Froth Box",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-14901",
+      "title": "Sword Art Online Progressive Box",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-32720",
+      "title": "Takamine, rimettiti le mutandine!",
+      "detailedVolumes": 12,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-42125",
+      "title": "Takopi's Original Sin",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10908",
+      "title": "Tayu Tayu",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33247",
+      "title": "That's My Space Opera!",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-16521",
+      "title": "The Case Study of Vanitas",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-27332",
+      "title": "The Dangers in My Heart",
+      "detailedVolumes": 14,
+      "verifiedIsbns": 13,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33237",
+      "title": "The Decagon House Murders",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-22091",
+      "title": "The Dungeon of Black Company",
+      "detailedVolumes": 5,
+      "verifiedIsbns": 3,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-43211",
+      "title": "The Isekai Doctor",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-67082",
+      "title": "The Pink Album",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-32601",
+      "title": "The Poetry of Ran",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-22545",
+      "title": "The Quintessential Quintuplets",
+      "detailedVolumes": 14,
+      "verifiedIsbns": 12,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-29364",
+      "title": "The Tunnel to Summer, the Exit of Goodbyes",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-37182",
+      "title": "The Tunnel to Summer, the Exit of Goodbyes: Ultramarine",
+      "detailedVolumes": 5,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-15726",
+      "title": "Tomodachi Game",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-41635",
+      "title": "Trese",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-42005",
+      "title": "TSF Monogatari",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-36601",
+      "title": "Tsugumi Project",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 7,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-37712",
+      "title": "Twin Milf",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-30685",
+      "title": "Undead Unluck",
+      "detailedVolumes": 27,
+      "verifiedIsbns": 23,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-11861",
+      "title": "Urotsukidoji",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-48421",
+      "title": "Uterus of the Blackgoat",
+      "detailedVolumes": 4,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-25563",
+      "title": "Uzaki-chan Wants To Hang Out!",
+      "detailedVolumes": 13,
+      "verifiedIsbns": 12,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10028",
+      "title": "Vampire Hunter D",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-11529",
+      "title": "Vampire Princess Miyu",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-9576",
+      "title": "Video Girl Ai",
+      "detailedVolumes": 8,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-10226",
+      "title": "Video Girl Len New Edition (Video Girl Ai New Edition 9)",
+      "detailedVolumes": 1,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-22961",
+      "title": "Violence Action",
+      "detailedVolumes": 7,
+      "verifiedIsbns": 6,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-20917",
+      "title": "Voglio mangiare il tuo pancreas",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-37376",
+      "title": "Witch Watch",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-10561",
+      "title": "Witchcraft",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-18620",
+      "title": "World's End Harem",
+      "detailedVolumes": 18,
+      "verifiedIsbns": 18,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-14272",
+      "title": "Yanagida&Mizuno",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-44021",
+      "title": "Yomotsu Hegui - Il frutto del regno dei morti",
+      "detailedVolumes": 2,
+      "verifiedIsbns": 2,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-50159",
+      "title": "Yumeochi - Dreaming of Falling for You",
+      "detailedVolumes": 6,
+      "verifiedIsbns": 4,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-33829",
+      "title": "Yuri Is My Job!",
+      "detailedVolumes": 11,
+      "verifiedIsbns": 10,
+      "knownSingleBookIsbn": null,
+      "status": "Parziale / da verificare"
+    },
+    {
+      "id": "manga-ac-32855",
+      "title": "Zombie 100 - Cento cose da fare prima di non-morire",
+      "detailedVolumes": 20,
+      "verifiedIsbns": 20,
+      "knownSingleBookIsbn": null,
+      "status": "Completo"
+    },
+    {
+      "id": "manga-ac-27594",
+      "title": "Zombieland SAGA",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-12647",
+      "title": "AnoHana",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-37251",
+      "title": "Asumi-chan is Interested in Lesbian Brothels!",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-collection-cultural-anthropology",
+      "title": "ShindoL’s Cultural Anthropology",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": "9782375062111",
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "novel-collection-met-you-end-world",
+      "title": "I Met You After the End of the World",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-37473",
+      "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-collection-not-succubus",
+      "title": "I’m Not a Succubus!",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-31478",
+      "title": "Semelparous",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-42622",
+      "title": "The Haunted Bookstore – Gateway to a Parallel Universe (Light Novel)",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "novel-collection-npcs-village-sim",
+      "title": "The NPCs in this Village Sim Game Must Be Real! (Light Novel)",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-36844",
+      "title": "Touring After the Apocalypse",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "manga-ac-12084",
+      "title": "Uzumaki - Spirale",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": null,
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "book-isbn-9788828726135",
+      "title": "Un sandwich a Ginza",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": "9788828726135",
+      "status": "Volumi o edizione non dettagliati"
+    },
+    {
+      "id": "book-isbn-9788828726951",
+      "title": "Una bistecca nella Shitamachi",
+      "detailedVolumes": 0,
+      "verifiedIsbns": 0,
+      "knownSingleBookIsbn": "9788828726951",
+      "status": "Volumi o edizione non dettagliati"
+    }
+  ],
+  "unverifiedVolumes": [
+    {
+      "workId": "manga-ac-9544",
+      "edition": "20th Century Boys Ultimate Deluxe Edition",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-9544",
+      "edition": "20th Century Boys Ultimate Deluxe Edition",
+      "number": "5",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19965",
+      "edition": "20th Century Boys Spin-Off - Ultimate Deluxe Edition",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9851",
+      "edition": "21st Century Boys - Ultimate Deluxe Edition",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six",
+      "number": "1",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six - Limited Edition",
+      "number": "1",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six - Limited Edition",
+      "number": "2",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six",
+      "number": "2",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six",
+      "number": "3",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six - Limited Edition",
+      "number": "3",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six",
+      "number": "4",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23315",
+      "edition": "86 - Eighty-Six - Limited Edition",
+      "number": "4",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25938",
+      "edition": "Anekomori",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-61464",
+      "edition": "Angeli tentatori",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-11924",
+      "edition": "Another Collector Box",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-58739",
+      "edition": "Appuntamento con il serial killer Variant",
+      "number": "1",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9992",
+      "edition": "Aqua",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9992",
+      "edition": "Aqua",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10005",
+      "edition": "Aria The Masterpiece",
+      "number": "5",
+      "publisher": "Star Comics",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-10005",
+      "edition": "Aria The Masterpiece",
+      "number": "7",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-12873",
+      "edition": "Assassination Classroom - Cofanetto pieno con Variant",
+      "number": "Speciale",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19730",
+      "edition": "Astra Lost in Space",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19730",
+      "edition": "Astra Lost in Space",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19730",
+      "edition": "Astra Lost in Space",
+      "number": "3",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19730",
+      "edition": "Astra Lost in Space",
+      "number": "4",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19730",
+      "edition": "Astra Lost in Space",
+      "number": "5",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-41685",
+      "edition": "Ayashimon pack",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale Variant Cover Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "3",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "4",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "5",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "6",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "7",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "8",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "9",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "10",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "11",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "12",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "13",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "14",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "15",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "16",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "17",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "18",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "19",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "20",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "21",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24538",
+      "edition": "Bakemonogatari - Monster Tale",
+      "number": "22",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10297",
+      "edition": "Billy Bat - Cofanetto",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10297",
+      "edition": "Billy Bat - Cofanetto",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10297",
+      "edition": "Billy Bat - Cofanetto",
+      "number": "3",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10297",
+      "edition": "Billy Bat - Cofanetto",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "9",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "10",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "11",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "13",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "14",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10443",
+      "edition": "Black Jack - Osamushi Collection",
+      "number": "15",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28155",
+      "edition": "Blue Lock - Variant Panini",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28155",
+      "edition": "Blue Lock",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-57587",
+      "edition": "Blue Lock - Noi, prima della battaglia: Aryu・Baro・Yukimiya",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-47858",
+      "edition": "Blue Lock - Noi, prima della battaglia: Chigiri・Reo・Rin",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46726",
+      "edition": "Blue Lock - Noi, prima della battaglia: Isagi・Nagi・Bachira",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock! Celebration Edition",
+      "number": "1",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock!",
+      "number": "1",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock!",
+      "number": "2",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock! Variant",
+      "number": "2",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock!",
+      "number": "3",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock!",
+      "number": "4",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock!",
+      "number": "5",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock!",
+      "number": "6",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock!",
+      "number": "7",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28898",
+      "edition": "Bocchi the Rock! Celebration Edition",
+      "number": "7",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-53649",
+      "edition": "Bocchi the Rock! Extra - Diario alcolico di Kikuri",
+      "number": "1",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-53649",
+      "edition": "Bocchi the Rock! Extra - Diario alcolico di Kikuri Variant",
+      "number": "1",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-53649",
+      "edition": "Bocchi the Rock! Extra - Diario alcolico di Kikuri",
+      "number": "2",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-53649",
+      "edition": "Bocchi the Rock! Extra - Diario alcolico di Kikuri con gadget",
+      "number": "2",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24997",
+      "edition": "Brivido e altre storie - Junji Ito Collection",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25707",
+      "edition": "Bunny Girl Senpai + Petit Devil Kohai Box",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30021",
+      "edition": "Call of the Night Variant Anime Edition",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30021",
+      "edition": "Call of the Night",
+      "number": "14",
+      "publisher": "JPOP",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-30021",
+      "edition": "Call of the Night",
+      "number": "15",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26858",
+      "edition": "Chainsaw Man - Cofanetto Vuoto",
+      "number": "Speciale",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26858",
+      "edition": "Chainsaw Man",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26858",
+      "edition": "Chainsaw Man",
+      "number": "5",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26858",
+      "edition": "Chainsaw Man",
+      "number": "7",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26858",
+      "edition": "Chainsaw Man",
+      "number": "8",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26858",
+      "edition": "Chainsaw Man Variant",
+      "number": "12",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29091",
+      "edition": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29091",
+      "edition": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition 4 & 4.5",
+      "number": "Speciale",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition 7 & 7.5",
+      "number": "Speciale",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "1",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition",
+      "number": "1",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "2",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition",
+      "number": "2",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "3",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition",
+      "number": "3",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "4",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "4.5",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition",
+      "number": "5",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "5",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition",
+      "number": "6",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "6",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "7",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite Limited Edition",
+      "number": "8",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21469",
+      "edition": "Classroom of the Elite",
+      "number": "8",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-68433",
+      "edition": "Così dolce",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-37165",
+      "edition": "Crazy Food Truck Box",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-38190",
+      "edition": "Dandadan Variant Edition",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-38190",
+      "edition": "Dandadan Limited Edition",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-38190",
+      "edition": "Dandadan Deluxe Edition",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-38190",
+      "edition": "Dandadan Deluxe Edition",
+      "number": "19",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-38190",
+      "edition": "Dandadan Variant Edition",
+      "number": "20",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "5",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "6",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "7",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "8",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "9",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "10",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "11",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "12",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "13",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "14",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "15",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "16",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "17",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "18",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "19",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27016",
+      "edition": "Demon Slave",
+      "number": "20",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-40028",
+      "edition": "Due come noi!! Sagawa the Hero",
+      "number": "Unico",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "3",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "5",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "6",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "7",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "8",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9595",
+      "edition": "Eden Ultimate Edition",
+      "number": "9",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25313",
+      "edition": "Edens Zero Limited Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25313",
+      "edition": "Edens Zero Variant",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25313",
+      "edition": "Edens Zero",
+      "number": "8",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25313",
+      "edition": "Edens Zero",
+      "number": "9",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25313",
+      "edition": "Edens Zero",
+      "number": "16",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25313",
+      "edition": "Edens Zero",
+      "number": "17",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "3",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "5",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "6",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "7",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28718",
+      "edition": "Elfa XXL - La dieta impossibile",
+      "number": "8",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-56631",
+      "edition": "Enko Ojisan",
+      "number": "Unico",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32313",
+      "edition": "Frieren - Oltre la fine del viaggio - Official Fanbook",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32313",
+      "edition": "Frieren - Oltre la fine del viaggio Variant",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32313",
+      "edition": "Frieren - Oltre la fine del viaggio - Art Works",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32313",
+      "edition": "Frieren - Oltre la fine del viaggio",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32313",
+      "edition": "Frieren - Oltre la fine del viaggio - Edizione deluxe",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32313",
+      "edition": "Frieren - Oltre la fine del viaggio - Edizione deluxe",
+      "number": "14",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32313",
+      "edition": "Frieren - Oltre la fine del viaggio - Edizione deluxe",
+      "number": "15",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54568",
+      "edition": "Frieren - Oltre la fine del viaggio - Anthology",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-55602",
+      "edition": "Frieren - Oltre la fine del viaggio: preludio",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "1",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "2",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "3",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "4",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "5",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "6",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "7",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "8",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "9",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "10",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "11",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9592",
+      "edition": "Fruits Basket Big Love Edition",
+      "number": "12",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29253",
+      "edition": "Gaishu Isshoku! Un gioco da ragazzi!",
+      "number": "1",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29253",
+      "edition": "Gaishu Isshoku! Un gioco da ragazzi!",
+      "number": "2",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29253",
+      "edition": "Gaishu Isshoku! Un gioco da ragazzi!",
+      "number": "3",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29253",
+      "edition": "Gaishu Isshoku! Un gioco da ragazzi!",
+      "number": "4",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29253",
+      "edition": "Gaishu Isshoku! Un gioco da ragazzi!",
+      "number": "5",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29253",
+      "edition": "Gaishu Isshoku! Un gioco da ragazzi!",
+      "number": "6",
+      "publisher": "Dynit",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33024",
+      "edition": "Game of Familia",
+      "number": "11",
+      "publisher": "JPOP",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-33024",
+      "edition": "Game of Familia",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9967",
+      "edition": "The Ghost in the Shell Omnibus Edition",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24274",
+      "edition": "Gigant Omnibus",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "9",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10485",
+      "edition": "Golden Boy",
+      "number": "10",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-11746",
+      "edition": "Golden Boy II",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18929",
+      "edition": "Good Night World Box",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-15753",
+      "edition": "Grand Blue Variant",
+      "number": "1",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-15753",
+      "edition": "Grand Blue",
+      "number": "2",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54418",
+      "edition": "Greaseberries",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54418",
+      "edition": "Greaseberries",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54418",
+      "edition": "Greaseberries",
+      "number": "3",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "9",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "10",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "11",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell’Accademia Kamome Special Edition + Ghost Hotel’s Cafè Picture Book",
+      "number": "11",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "13",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "14",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "15",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "16",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "17",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "18",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "19",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "20",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "21",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "22",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "23",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "24",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19348",
+      "edition": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "number": "25",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-41066",
+      "edition": "Hanako kun – I sette misteri dell’Accademia Kamome 0",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30422",
+      "edition": "Hanako kun - Il doposcuola dell'Accademia Kamome",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30422",
+      "edition": "Hanako kun - Il doposcuola dell'Accademia Kamome",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "9",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "10",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "11",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23991",
+      "edition": "Hell's Paradise – Jigokuraku",
+      "number": "13",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-13730",
+      "edition": "Hideout",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-11263",
+      "edition": "I am a Hero - Nuova edizione Variant MangaYo!",
+      "number": "1",
+      "publisher": "MangaYo!",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23236",
+      "edition": "I diari della speziale Deluxe Edition",
+      "number": "13",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23236",
+      "edition": "I diari della speziale Deluxe Edition",
+      "number": "14",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-12705",
+      "edition": "I nuovi viaggi di Emanon - Encore",
+      "number": "Speciale",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-12705",
+      "edition": "I viaggi di Emanon",
+      "number": "Speciale",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-12705",
+      "edition": "I viaggi di Emanon",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-52466",
+      "edition": "Il club della ricerca sulla fellatio",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25212",
+      "edition": "Il duca della morte e la domestica oscura",
+      "number": "1",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25212",
+      "edition": "Il duca della morte e la domestica oscura",
+      "number": "2",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25212",
+      "edition": "Il duca della morte e la domestica oscura",
+      "number": "3",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25212",
+      "edition": "Il duca della morte e la domestica oscura",
+      "number": "4",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25212",
+      "edition": "Il duca della morte e la domestica oscura",
+      "number": "5",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25212",
+      "edition": "Il duca della morte e la domestica oscura",
+      "number": "6",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25212",
+      "edition": "Il duca della morte e la domestica oscura",
+      "number": "7",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-39148",
+      "edition": "Il metodo Azato +",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21548",
+      "edition": "Il mondo della morale al rovescio",
+      "number": "1",
+      "publisher": "Goen",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-23235",
+      "edition": "Il monologo della speziale - Limited Edition",
+      "number": "1",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23235",
+      "edition": "Il monologo della speziale",
+      "number": "3",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23235",
+      "edition": "Il monologo della speziale",
+      "number": "6",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23235",
+      "edition": "Il monologo della speziale - Limited Edition",
+      "number": "8",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-23235",
+      "edition": "Il monologo della speziale - Limited Edition",
+      "number": "9",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54078",
+      "edition": "Il primo amore di Nezumi",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-49005",
+      "edition": "Il tenue colore della fine - Mission In The Apocalypse",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-49005",
+      "edition": "Il tenue colore della fine - Mission In The Apocalypse",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-49005",
+      "edition": "Il tenue colore della fine - Mission In The Apocalypse",
+      "number": "3",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-49005",
+      "edition": "Il tenue colore della fine - Mission In The Apocalypse",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10481",
+      "edition": "Il viaggio di Shuna",
+      "number": "Unico",
+      "publisher": "Bao Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46776",
+      "edition": "In gita alla spiaggia per nudisti!!",
+      "number": "Unico",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30505",
+      "edition": "In/Spectre",
+      "number": "3",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28744",
+      "edition": "Insomniacs After School",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28744",
+      "edition": "Insomniacs After School Variant Edition",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33192",
+      "edition": "JK Haru - Sex Worker in Another World Complete Box Set",
+      "number": "Unico",
+      "publisher": "001 Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-49903",
+      "edition": "Juny peperina inventatutto",
+      "number": "Unico",
+      "publisher": "Sprea Editori",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "3",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "4",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "5",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "6",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "7",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "8",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "9",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "10",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "11",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "12",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "13",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "14",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "15",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "16",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "17",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "18",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "19",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "20",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "21",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "22",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "23",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "24",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "25",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "26",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "27",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-18820",
+      "edition": "Kaguya-sama: Love is War",
+      "number": "28",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25801",
+      "edition": "Kaiju Girl Caramelise Variant Cover Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33736",
+      "edition": "Kaiju No. 8 Monstrous Box",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33736",
+      "edition": "Kaiju No. 8 Limited Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33736",
+      "edition": "Kaiju No. 8 Variant Cover Edition",
+      "number": "5",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33736",
+      "edition": "Kaiju No. 8",
+      "number": "12",
+      "publisher": "Star Comics",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-33736",
+      "edition": "Kaiju No. 8",
+      "number": "13",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33736",
+      "edition": "Kaiju No. 8 Celebration Edition",
+      "number": "16",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54683",
+      "edition": "Kaiju No. 8: B-Side",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-54683",
+      "edition": "Kaiju No. 8: B-Side",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10844",
+      "edition": "Ken la Leggenda - Raoh, il conquistatore del cielo Omnibus",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10845",
+      "edition": "Ken la Leggenda - Rei, l'oscuro lupo blu Omnibus",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10846",
+      "edition": "Ken la Leggenda - Toki, il santo d'argento Omnibus",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-43705",
+      "edition": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-43705",
+      "edition": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-43705",
+      "edition": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "number": "3",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-43705",
+      "edition": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "number": "4",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-43705",
+      "edition": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "number": "5",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-43705",
+      "edition": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "number": "6",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-43705",
+      "edition": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "number": "7",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22874",
+      "edition": "L'harem alla fine dei mondi",
+      "number": "6",
+      "publisher": "Magic Press",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-22874",
+      "edition": "L'harem alla fine dei mondi",
+      "number": "7",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22874",
+      "edition": "L'harem alla fine dei mondi",
+      "number": "8",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-21746",
+      "edition": "L'innominabile sorella",
+      "number": "4",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50441",
+      "edition": "La strana casa Variant",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50441",
+      "edition": "La strana casa",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50441",
+      "edition": "La strana casa",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50441",
+      "edition": "La strana casa",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50441",
+      "edition": "La strana casa",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50441",
+      "edition": "La strana casa",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50441",
+      "edition": "La strana casa",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-0",
+      "edition": "La super guida manga - Tutto sul fumetto giapponese dal sito italiano n.1 sulla pop culture nipponic",
+      "number": "Unico",
+      "publisher": "Rizzoli",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-59221",
+      "edition": "La tua verginità è mia",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32244",
+      "edition": "Le 100 ragazze che ti amano tanto tanto tanto tanto tanto bundle 1-2",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32244",
+      "edition": "Le 100 ragazze che ti amano tanto tanto tanto tanto tanto",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-12687",
+      "edition": "Le memorie di Emanon",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-12687",
+      "edition": "Le memorie di Emanon",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-61270",
+      "edition": "Le milf della pallavolo",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-44899",
+      "edition": "Leviathan Complete Box",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9638",
+      "edition": "Magic Knight Rayearth - CLAMP Premium Collection Box",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9640",
+      "edition": "Magic Knight Rayearth 2 - CLAMP Premium Collection Box",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9859",
+      "edition": "Maison Ikkoku Perfect Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9859",
+      "edition": "Maison Ikkoku Perfect Edition",
+      "number": "5",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9859",
+      "edition": "Maison Ikkoku Perfect Edition",
+      "number": "6",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9859",
+      "edition": "Maison Ikkoku Perfect Edition",
+      "number": "7",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9859",
+      "edition": "Maison Ikkoku Perfect Edition",
+      "number": "8",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9859",
+      "edition": "Maison Ikkoku Perfect Edition",
+      "number": "9",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9859",
+      "edition": "Maison Ikkoku Perfect Edition",
+      "number": "10",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46042",
+      "edition": "Makeine - Too Many Losing Heroines!",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46042",
+      "edition": "Makeine - Too Many Losing Heroines!",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46042",
+      "edition": "Makeine - Too Many Losing Heroines!",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46042",
+      "edition": "Makeine - Too Many Losing Heroines!",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46042",
+      "edition": "Makeine - Too Many Losing Heroines!",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10158",
+      "edition": "Marmalade Boy - Ultimate Deluxe Edition",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10158",
+      "edition": "Marmalade Boy - Ultimate Deluxe Edition",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10158",
+      "edition": "Marmalade Boy - Ultimate Deluxe Edition",
+      "number": "3",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10158",
+      "edition": "Marmalade Boy - Ultimate Deluxe Edition",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10158",
+      "edition": "Marmalade Boy - Ultimate Deluxe Edition",
+      "number": "5",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10158",
+      "edition": "Marmalade Boy - Ultimate Deluxe Edition",
+      "number": "6",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-31327",
+      "edition": "Mashle Cream Puff Pack",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-31327",
+      "edition": "Mashle Magic Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-31327",
+      "edition": "Mashle Muscle Edition",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-31327",
+      "edition": "Mashle Variant Cover Edition",
+      "number": "10",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26532",
+      "edition": "Metamorfosi",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19815",
+      "edition": "Mi sono reincarnato in uno slime - Limited Edition",
+      "number": "5",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19815",
+      "edition": "Mi sono reincarnato in uno slime - Limited Edition",
+      "number": "8",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19815",
+      "edition": "Mi sono reincarnato in uno slime - Limited Edition",
+      "number": "9",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-16494",
+      "edition": "Miss Kobayashi's Dragon Maid Variant",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-16494",
+      "edition": "Miss Kobayashi's Dragon Maid Limited Variant MangaYo!",
+      "number": "1",
+      "publisher": "MangaYo!",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-16494",
+      "edition": "Miss Kobayashi's Dragon Maid",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30067",
+      "edition": "Mission: Yozakura Family",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30067",
+      "edition": "Mission: Yozakura Family",
+      "number": "13",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30067",
+      "edition": "Mission: Yozakura Family",
+      "number": "15",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30067",
+      "edition": "Mission: Yozakura Family",
+      "number": "21",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "2",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "3",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "5",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "6",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "7",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "8",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9605",
+      "edition": "Monster Deluxe",
+      "number": "9",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-64705",
+      "edition": "Monster Girls",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-39982",
+      "edition": "Moonlight Invader Box",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22536",
+      "edition": "Mushoku Tensei - Nel nuovo mondo darò il massimo",
+      "number": "1",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22536",
+      "edition": "Mushoku Tensei - Nel nuovo mondo darò il massimo - Limited Edition",
+      "number": "1",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22536",
+      "edition": "Mushoku Tensei - Nel nuovo mondo darò il massimo",
+      "number": "2",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22536",
+      "edition": "Mushoku Tensei - Nel nuovo mondo darò il massimo",
+      "number": "3",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22536",
+      "edition": "Mushoku Tensei - Nel nuovo mondo darò il massimo",
+      "number": "4",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll Anime Book",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll - Edizione Deluxe",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "9",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "10",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "11",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "14",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll",
+      "number": "15",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26110",
+      "edition": "My dress-up darling – Bisque Doll - Edizione Deluxe",
+      "number": "15",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14502",
+      "edition": "No Game No Life Bundle Limited Edition",
+      "number": "Unico",
+      "publisher": "Dokusho Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-42207",
+      "edition": "Noyu Girl Box",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28102",
+      "edition": "Oblio e altre storie - Junji Ito Collection",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "3",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "4",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "5",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "6",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "8",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "9",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9616",
+      "edition": "Orange Road",
+      "number": "10",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-40129",
+      "edition": "Ottoman Box",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-55490",
+      "edition": "Passione porno",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14836",
+      "edition": "Peace Hame! Limited Edition",
+      "number": "2",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10026",
+      "edition": "Planetes Complete Edition",
+      "number": "Unico",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-46784",
+      "edition": "Please! Freeze! Please!",
+      "number": "Unico",
+      "publisher": "Ishi Publishing",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-17301",
+      "edition": "Prison Experiment",
+      "number": "1",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-17301",
+      "edition": "Prison Experiment",
+      "number": "3",
+      "publisher": "Goen",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-17301",
+      "edition": "Prison Experiment",
+      "number": "7",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30155",
+      "edition": "Pumpkin Night",
+      "number": "7",
+      "publisher": "001 Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-24588",
+      "edition": "Redo of Healer",
+      "number": "5",
+      "publisher": "Magic Press",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-24588",
+      "edition": "Redo of Healer",
+      "number": "6",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-37624",
+      "edition": "Ring x Mama",
+      "number": "5",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9725",
+      "edition": "Sanpei il ragazzo pescatore Tribute Edition",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14871",
+      "edition": "School-Live!",
+      "number": "1",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14871",
+      "edition": "School-Live!",
+      "number": "2",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14871",
+      "edition": "School-Live!",
+      "number": "3",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14871",
+      "edition": "School-Live!",
+      "number": "4",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14871",
+      "edition": "School-Live!",
+      "number": "5",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14871",
+      "edition": "School-Live!",
+      "number": "6",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32921",
+      "edition": "Sei S o sei M?",
+      "number": "1",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32921",
+      "edition": "Sei S o sei M?",
+      "number": "2",
+      "publisher": "Goen",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33276",
+      "edition": "Sex Friends - Sesso o amore?",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33276",
+      "edition": "Sex Friends - Sesso o amore?",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33276",
+      "edition": "Sex Friends - Sesso o amore?",
+      "number": "3",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33276",
+      "edition": "Sex Friends - Sesso o amore?",
+      "number": "4",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33276",
+      "edition": "Sex Friends - Sesso o amore?",
+      "number": "5",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33276",
+      "edition": "Sex Friends - Sesso o amore?",
+      "number": "6",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22504",
+      "edition": "Shigahime",
+      "number": "1",
+      "publisher": "001 Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22504",
+      "edition": "Shigahime",
+      "number": "2",
+      "publisher": "001 Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22504",
+      "edition": "Shigahime",
+      "number": "3",
+      "publisher": "001 Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22504",
+      "edition": "Shigahime",
+      "number": "4",
+      "publisher": "001 Edizioni",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "3",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "4",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "5",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "6",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "7",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "8",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "9",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "10",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10070",
+      "edition": "Silent Möbius Complete Edition",
+      "number": "11",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22954",
+      "edition": "Smile Down the Runway",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19491",
+      "edition": "Starving Anonymous",
+      "number": "3",
+      "publisher": "Star Comics",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-19491",
+      "edition": "Starving Anonymous",
+      "number": "4",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-19491",
+      "edition": "Starving Anonymous",
+      "number": "6",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-26170",
+      "edition": "Sword Art Online Progressive - Barcarolle of Froth Box",
+      "number": "Unico",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14901",
+      "edition": "Sword Art Online Progressive Box",
+      "number": "1",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14901",
+      "edition": "Sword Art Online Progressive Box",
+      "number": "2",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine!",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine! Variant",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine!",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine! Variant",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine!",
+      "number": "3",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine! Variant",
+      "number": "3",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine!",
+      "number": "4",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine! Variant",
+      "number": "4",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine!",
+      "number": "5",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine! Variant",
+      "number": "5",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine!",
+      "number": "6",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-32720",
+      "edition": "Takamine, rimettiti le mutandine! Variant",
+      "number": "6",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10908",
+      "edition": "Tayu Tayu - Nuova edizione",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-27332",
+      "edition": "The Dangers in My Heart Special Edition",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22091",
+      "edition": "The Dungeon of Black Company Starter Pack",
+      "number": "Unico",
+      "publisher": "Saldapress",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22091",
+      "edition": "The Dungeon of Black Company Variant Exclusive",
+      "number": "1",
+      "publisher": "Saldapress",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22545",
+      "edition": "The Quintessential Quintuplets",
+      "number": "11",
+      "publisher": "JPOP",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-22545",
+      "edition": "The Quintessential Quintuplets",
+      "number": "12",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29364",
+      "edition": "The Tunnel to Summer, the Exit of Goodbyes",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-37182",
+      "edition": "The Tunnel to Summer, The Exit of Goodbyes: Ultramarine - Limited Edition con box",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-42005",
+      "edition": "TSF Monogatari",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30685",
+      "edition": "Undead Unluck Variant",
+      "number": "1",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30685",
+      "edition": "Undead Unluck",
+      "number": "8",
+      "publisher": "Panini Comics",
+      "isbnStatus": "Edizione ambigua"
+    },
+    {
+      "workId": "manga-ac-30685",
+      "edition": "Undead Unluck",
+      "number": "9",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-30685",
+      "edition": "Undead Unluck",
+      "number": "14",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-11861",
+      "edition": "Urotsukidoji",
+      "number": "1",
+      "publisher": "D/Visual",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-11861",
+      "edition": "Urotsukidoji",
+      "number": "2",
+      "publisher": "D/Visual",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-11861",
+      "edition": "Urotsukidoji",
+      "number": "3",
+      "publisher": "D/Visual",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-11861",
+      "edition": "Urotsukidoji",
+      "number": "4",
+      "publisher": "D/Visual",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-48421",
+      "edition": "Uterus of the Blackgoat",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-48421",
+      "edition": "Uterus of the Blackgoat",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-48421",
+      "edition": "Uterus of the Blackgoat",
+      "number": "3",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-48421",
+      "edition": "Uterus of the Blackgoat",
+      "number": "4",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-25563",
+      "edition": "Uzaki-chan Wants To Hang Out!",
+      "number": "6",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "2",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "3",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "4",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "5",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "6",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "7",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-9576",
+      "edition": "Video Girl Ai New Edition",
+      "number": "8",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-10226",
+      "edition": "Video Girl Len New Edition (Video Girl Ai New Edition 9) ",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-22961",
+      "edition": "Violence Action",
+      "number": "7",
+      "publisher": "JPOP",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14272",
+      "edition": "Yanagida-kun e Mizuno-san - Odio e amore",
+      "number": "1",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-14272",
+      "edition": "Yanagida-kun e Mizuno-san - Odio e amore",
+      "number": "2",
+      "publisher": "Magic Press",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50159",
+      "edition": "Yumeochi: Dreaming of falling for you - Variant",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-50159",
+      "edition": "Yumeochi: Dreaming of falling for you - Limited Edition",
+      "number": "1",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-33829",
+      "edition": "Yuri is my Job! - Pack",
+      "number": "Unico",
+      "publisher": "Star Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28155",
+      "edition": "Blue Lock",
+      "number": "31",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-28155",
+      "edition": "Blue Lock - Variant World Cup Celebration",
+      "number": "34",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29091",
+      "edition": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "number": "3",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    },
+    {
+      "workId": "manga-ac-29091",
+      "edition": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "number": "4",
+      "publisher": "Panini Comics",
+      "isbnStatus": "ISBN non verificabile"
+    }
+  ]
+}

@@ -7,9 +7,9 @@
  function write(key,value){memory[key]=value;try{localStorage.setItem(key,JSON.stringify(value));return true}catch{return false}}
  function choices(){return Object.assign(dict(),Object.fromEntries(Object.entries(read(keys.anime)).filter(([id,v])=>/^anime-\d+$/.test(id)&&['watch','skip'].includes(v))))}
  function setAnime(item,value){const c=choices();if(value)c[item.id]=value;else delete c[item.id];let ok=true;if(value==='watch'){const s=read(keys.snapshots);s[item.id]={id:item.id,title:item.title,image:item.adult?'':item.image,format:item.format,adult:!!item.adult};ok=write(keys.snapshots,s)}return write(keys.anime,c)&&ok}
- const bookKey=x=>JSON.stringify([x.language||'',x.isbn?'isbn:'+String(x.isbn).replace(/[^\dX]/gi,''):'url:'+String(x.url||'')]);
+ const bookKey=x=>{const value=String(x.isbn||'').replace(/[^\dX]/gi,'');return JSON.stringify([x.language||'',value?'isbn:'+value:'url:'+String(x.url||'')])};
  function books(){const result=dict();for(const x of Object.values(read(keys.books))){if(!x||typeof x!=='object'||typeof x.title!=='string'||typeof x.url!=='string')continue;const key=bookKey(x);if(!result[key])result[key]=x;else if(x.purchased)result[key].purchased=true}return result}
- function owned(){return Object.assign(dict(),read(keys.owned))}
+ function owned(){const all=dict();for(const [key,x] of Object.entries(read(keys.owned))){const next=key.endsWith('\"isbn:\"]')&&x?.url?bookKey(x):key;all[next]=next===key?x:{...x,key:next}}return all}
  function setOwned(key,x){const all=owned();if(x)all[key]=x;else delete all[key];return write(keys.owned,all)}
  function addBook(x){const b=books(),key=bookKey(x);if(!b[key])b[key]={...x,title:x.title,series:x.series||'',publisher:x.publisher||'',language:x.language||'',kind:x.kind||'manga',edition:x.edition||'',isbn:x.isbn||'',url:x.url,date:x.date,purchased:false,addedAt:new Date().toISOString()};return write(keys.books,b)}
  function removeBook(key){const b=books();delete b[key];return write(keys.books,b)}

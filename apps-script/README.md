@@ -15,3 +15,7 @@ Il calendario corrente e lo storico permanente convalidano l'identità dell'ediz
 Il catalogo statico è preservato. Il sito integra le nuove registrazioni pubbliche in fase di caricamento; un errore di rete mantiene l'ultima copia locale leggibile. Senza collegamento proprietario le scelte e la collezione personale restano nel browser del singolo visitatore e non scrivono sui fogli di Xuthar.
 
 Controlli: `node verify-manga-purchases.cjs`, `node verify-purchase-backend.cjs`, `node verify-visitor-lists.cjs`.
+
+## ISBN
+
+Gli ISBN sono verificati per titolo, numero, editore ed edizione commerciale, con checksum e fonte. Non attestano la ristampa esatta della copia fisica posseduta. I codici dubbi rimangono da verificare. Il workflow settimanale aggiorna i supplementi `data/manga-isbn.json` e `data/book-isbn.json`, lasciando intatti catalogo, storico e identità delle liste. I nuovi acquisti scrivono ISBN, fonte e stato nelle colonne O:Q dell’inventario. Dal browser proprietario il primo accesso dopo sette giorni sincronizza anche gli ISBN recuperati nel frattempo per i volumi già posseduti; senza accesso del proprietario il sito si aggiorna, mentre Sheets si riallinea alla visita successiva. Nessun acquisto viene generato da questa sincronizzazione dei metadati.
