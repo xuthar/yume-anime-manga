@@ -1,11 +1,11 @@
 # Sincronizzazione acquisti del proprietario
 
-Stato iniziale: componente preparato, autorizzazione Google e deployment ancora da attivare. Nessun acquisto viene dedotto dalle uscite del calendario.
+Stato al 23 ottobre 2026: componente Google autorizzato, Google Sheets API v4 abilitata, applicazione web pubblicata e browser del proprietario collegato. Nessun acquisto viene dedotto dalle uscite del calendario.
 
 Il progetto Apps Script è associato al foglio privato del proprietario. Il codice da installare è la concatenazione di `manga-collection.js` e `apps-script/Purchases.gs`. Il progetto preparato nell'editor si chiama **Yume · Acquisti e collezione**.
 
 1. Autorizzare il componente Google per l'accesso a Fogli, l'identità del proprietario e le richieste alle fonti pubbliche. Eseguire `setupYume` una volta: registra l'ID del foglio nelle proprietà private e crea il registro `Acquisti Yume`, senza aggiungere acquisti.
-2. Pubblicare come app web eseguita dal proprietario. La lettura pubblica restituisce esclusivamente i volumi acquistati destinati al catalogo pubblico. Le scritture POST richiedono una capacità casuale privata; le chiamate JSONP sono esclusivamente di lettura.
+2. Aggiungere il servizio avanzato **Google Sheets API v4** al progetto e verificare con `verifyYumeSetup` (sola lettura, nessun acquisto aggiunto). Pubblicare come app web eseguita dal proprietario. La lettura pubblica restituisce esclusivamente i volumi acquistati destinati al catalogo pubblico. Le scritture POST richiedono una capacità casuale privata; le chiamate JSONP sono esclusivamente di lettura.
 3. Inserire il solo URL `/exec` pubblico in `data/owner-sync-config.json`. Non inserire ID del foglio, email, token o collegamenti privati nel repository.
 4. Riaprire il foglio e usare **Yume → Collega questo browser → Attiva gli acquisti di Xuthar**. Il collegamento riservato configura il browser del proprietario. Non condividerlo. Il frammento contenente il token viene subito rimosso dall'URL.
 5. Verificare il registro vuoto e il catalogo pubblico senza simulare acquisti nella collezione reale. Il primo acquisto effettivamente registrato aggiorna `Manga e novel`, `Volumi in possesso` e la ricevuta nello stesso batch atomico. Voti, lettura e formule non interessate restano intatti.

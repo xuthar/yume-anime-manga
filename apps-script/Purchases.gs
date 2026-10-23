@@ -7,7 +7,13 @@ function setupYume(){
  const ss=SpreadsheetApp.getActiveSpreadsheet(),active=Session.getActiveUser().getEmail(),effective=Session.getEffectiveUser().getEmail();if(!ss||!active||active!==effective||ss.getOwner().getEmail()!==active)throw Error('Accesso riservato al proprietario.');
  const p=PropertiesService.getScriptProperties();if(p.getProperty('OWNER')&&p.getProperty('OWNER')!==active)throw Error('Proprietario diverso.');p.setProperties({SHEET_ID:ss.getId(),OWNER:active});if(!p.getProperty('OWNER_KEY'))p.setProperty('OWNER_KEY',Utilities.getUuid()+Utilities.getUuid());
  if(!ss.getSheetByName(YUME_LOG)){const sh=ss.insertSheet(YUME_LOG);sh.getRange(1,1,1,5).setValues([['ID operazione','Identità volume','Acquistato il','Dati volume verificati','Opera']]);sh.setFrozenRows(1);sh.getRange(1,1,1,5).setBackground('#202236').setFontColor('#ffffff').setFontWeight('bold');sh.setColumnWidths(1,3,190);sh.setColumnWidth(4,350);sh.setColumnWidth(5,260);sh.getRange('D:D').setWrap(true)}
- onOpen();return 'Collegamento preparato; nessun volume aggiunto.';
+ try{onOpen()}catch{}return 'Collegamento preparato; nessun volume aggiunto.';
+}
+function verifyYumeSetup(){
+ requireOwner_();const ss=sheet_();if(!ss.getSheetByName(YUME_LOG)||!ss.getSheetByName('Manga e novel')||!ss.getSheetByName('Volumi in possesso'))throw Error('Schede della collezione mancanti.');
+ const response=UrlFetchApp.fetch('https://sheets.googleapis.com/v4/spreadsheets/'+ss.getId()+'?fields=spreadsheetId',{headers:{Authorization:'Bearer '+ScriptApp.getOAuthToken()},muteHttpExceptions:true});if(response.getResponseCode()!==200)throw Error('Google Sheets API non disponibile: '+response.getResponseCode()+' · '+response.getContentText().slice(0,500));
+ if(!Array.isArray(fetchJson_('library.json').items)||!Array.isArray(fetchJson_('data/book-calendar.json').releases)||!Array.isArray(fetchJson_('data/book-calendar-history.json').observations))throw Error('Catalogo o storico non disponibili.');
+ console.log('Verifica riuscita: Google Sheets API, catalogo e storico raggiungibili. Nessun acquisto aggiunto.');return true;
 }
 function showYumeConnection(){
  const p=PropertiesService.getScriptProperties();if(!p.getProperty('OWNER_KEY'))setupYume();requireOwner_();const url=ScriptApp.getService().getUrl();if(!url)throw Error('Pubblica prima la web app.');
