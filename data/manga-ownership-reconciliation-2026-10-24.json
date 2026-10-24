@@ -1218,6 +1218,7 @@
       "manga-ac-30505",
       "manga-ac-32729",
       "manga-ac-33303",
+      "manga-ac-33765",
       "manga-ac-34611",
       "manga-ac-37095",
       "manga-ac-37473",
@@ -1226,17 +1227,10 @@
       "manga-ac-49455",
       "manga-ac-60768",
       "manga-ac-63580",
-      "novel-collection-met-you-end-world"
+      "novel-collection-met-you-end-world",
+      "novel-collection-npcs-village-sim"
     ],
-    "remainingUnresolved": [
-      {
-        "id": "manga-ac-33765",
-        "title": "Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      }
-    ],
+    "remainingUnresolved": [],
     "note": "Rimozioni e identificazione edizione richieste da Xuthar dopo il controllo iniziale. Il resoconto iniziale è conservato come storico.",
     "editionUpdates": [
       {
@@ -1395,7 +1389,9 @@
       }
     ],
     "mergedWorkIds": {
-      "manga-ac-39981": "manga-ac-37473"
-    }
+      "manga-ac-39981": "manga-ac-37473",
+      "manga-ac-33765": "novel-collection-npcs-village-sim"
+    },
+    "completedAt": "2026-10-24"
   }
 }
