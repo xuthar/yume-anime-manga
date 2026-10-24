@@ -1,0 +1,1136 @@
+{
+  "checkedAt": "2026-10-24",
+  "scope": "Tutte le 297 schede manga/novel/libri; edizione posseduta, cartaceo e data di uscita <= 2026-10-24",
+  "ownershipAuthorization": "Possesso registrato su indicazione esplicita di Xuthar: tutti i numeri pubblicati al 24/10/2026 dell’edizione identificata, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura.",
+  "shoppingExclusions": [
+    {
+      "title": "Silent Möbius 00",
+      "isbn": "9791256723911",
+      "url": "https://www.animeclick.it/edizione/3112483/silent-m%C3%B6bius-00"
+    },
+    {
+      "title": "Grand Blue Variant Edition Cut Price 1",
+      "date": "2026-10-28",
+      "url": "https://www.animeclick.it/edizione/3112403/grand-blue-variant-edition-cut-price"
+    }
+  ],
+  "changes": [
+    {
+      "id": "manga-ac-45668",
+      "title": "Blue Lock - Episode Nagi",
+      "edition": "Blue Lock - Episode Nagi",
+      "addedNumbers": [
+        8
+      ],
+      "inventoryNumbers": [
+        8
+      ],
+      "owned": 8,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8",
+      "source": "https://www.animeclick.it/manga/45668/blue-lock-episode-nagi/edizioni"
+    },
+    {
+      "id": "manga-ac-29149",
+      "title": "Dai Dark",
+      "edition": "Dai Dark",
+      "addedNumbers": [
+        9
+      ],
+      "inventoryNumbers": [
+        9
+      ],
+      "owned": 9,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9",
+      "source": "https://www.animeclick.it/manga/29149/dai-dark/edizioni"
+    },
+    {
+      "id": "manga-ac-38190",
+      "title": "Dandadan",
+      "edition": "Dandadan",
+      "addedNumbers": [
+        23
+      ],
+      "inventoryNumbers": [
+        23
+      ],
+      "owned": 28,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23",
+      "source": "https://www.animeclick.it/manga/38190/dandadan/edizioni"
+    },
+    {
+      "id": "manga-ac-11746",
+      "title": "Golden Boy 2",
+      "edition": "Golden Boy II",
+      "addedNumbers": [
+        2
+      ],
+      "inventoryNumbers": [
+        2
+      ],
+      "owned": 2,
+      "numbers": "1, 2",
+      "source": "https://www.animeclick.it/manga/11746/golden-boy-2/edizioni"
+    },
+    {
+      "id": "manga-ac-32244",
+      "title": "Le 100 ragazze che ti amano tanto tanto tanto tanto tanto",
+      "edition": "Le 100 ragazze che ti amano tanto tanto tanto tanto tanto",
+      "addedNumbers": [
+        22
+      ],
+      "inventoryNumbers": [
+        22
+      ],
+      "owned": 21,
+      "numbers": "1, 2 (bundle), 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22",
+      "source": "https://www.animeclick.it/manga/32244/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo/edizioni"
+    },
+    {
+      "id": "manga-ac-30067",
+      "title": "Mission: Yozakura Family",
+      "edition": "Mission: Yozakura Family",
+      "addedNumbers": [
+        19
+      ],
+      "inventoryNumbers": [
+        19
+      ],
+      "owned": 29,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29",
+      "source": "https://www.animeclick.it/manga/30067/mission-yozakura-family/edizioni"
+    },
+    {
+      "id": "manga-ac-19628",
+      "title": "Mushoku Tensei - Jobless Reincarnation",
+      "edition": "Mushoku Tensei - Jobless Reincarnation",
+      "addedNumbers": [
+        20
+      ],
+      "inventoryNumbers": [
+        20
+      ],
+      "owned": 24,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24",
+      "source": "https://www.animeclick.it/manga/19628/mushoku-tensei-isekai-ittara-honki-dasu/edizioni"
+    },
+    {
+      "id": "manga-ac-26110",
+      "title": "My dress-up darling – Bisque Doll",
+      "edition": "My dress-up darling – Bisque Doll",
+      "addedNumbers": [
+        13
+      ],
+      "inventoryNumbers": [
+        13
+      ],
+      "owned": 18,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, Unico, 13",
+      "source": "https://www.animeclick.it/manga/26110/sono-bisque-doll-wa-koi-wo-suru/edizioni"
+    },
+    {
+      "id": "manga-ac-43165",
+      "title": "Re Cervin",
+      "edition": "Re Cervin",
+      "addedNumbers": [
+        7
+      ],
+      "inventoryNumbers": [
+        7
+      ],
+      "owned": 7,
+      "numbers": "1, 2, 3, 4, 5, 6, 7",
+      "source": "https://www.animeclick.it/manga/43165/re-cervin/edizioni"
+    },
+    {
+      "id": "manga-ac-24588",
+      "title": "Redo of Healer",
+      "edition": "Redo of Healer",
+      "addedNumbers": [
+        16
+      ],
+      "inventoryNumbers": [
+        16
+      ],
+      "owned": 17,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17",
+      "source": "https://www.animeclick.it/manga/24588/kaifuku-jutsushi-no-yarinaoshi/edizioni"
+    },
+    {
+      "id": "manga-ac-22954",
+      "title": "Smile Down the Runway",
+      "edition": "Smile Down the Runway",
+      "addedNumbers": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "inventoryNumbers": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "owned": 22,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22",
+      "source": "https://www.animeclick.it/manga/22954/runway-de-waratte/edizioni"
+    },
+    {
+      "id": "manga-ac-41635",
+      "title": "Trese",
+      "edition": "Trese",
+      "addedNumbers": [
+        1,
+        2
+      ],
+      "inventoryNumbers": [
+        1,
+        2
+      ],
+      "owned": 6,
+      "numbers": "1, 2, 3, 4, 5, 6",
+      "source": "https://www.animeclick.it/manga/41635/trese/edizioni"
+    },
+    {
+      "id": "manga-ac-30685",
+      "title": "Undead Unluck",
+      "edition": "Undead Unluck",
+      "addedNumbers": [
+        15
+      ],
+      "inventoryNumbers": [
+        15
+      ],
+      "owned": 28,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27",
+      "source": "https://www.animeclick.it/manga/30685/undead-unluck/edizioni"
+    },
+    {
+      "id": "manga-ac-44021",
+      "title": "Yomotsu Hegui - Il frutto del regno dei morti",
+      "edition": "Yomotsu Hegui - Il frutto del regno dei morti",
+      "addedNumbers": [
+        2
+      ],
+      "inventoryNumbers": [
+        2
+      ],
+      "owned": 3,
+      "numbers": "1, 2, 3",
+      "source": "https://www.animeclick.it/manga/44021/yomotsu-hegui/edizioni"
+    },
+    {
+      "id": "manga-ac-28898",
+      "title": "Bocchi the Rock!",
+      "edition": "Bocchi the Rock!",
+      "addedNumbers": [
+        8
+      ],
+      "inventoryNumbers": [
+        8
+      ],
+      "owned": 11,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8",
+      "source": "https://www.animeclick.it/manga/28898/bocchi-the-rock/edizioni"
+    },
+    {
+      "id": "manga-ac-33024",
+      "title": "Game of Familia",
+      "edition": "Game of Familia",
+      "addedNumbers": [
+        16
+      ],
+      "inventoryNumbers": [
+        16
+      ],
+      "owned": 16,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16",
+      "source": "https://www.animeclick.it/manga/33024/game-obu-familia-family-senki/edizioni"
+    },
+    {
+      "id": "manga-ac-10485",
+      "title": "Golden Boy",
+      "edition": "Golden Boy",
+      "addedNumbers": [
+        2,
+        3
+      ],
+      "inventoryNumbers": [
+        2,
+        3
+      ],
+      "owned": 10,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+      "source": "https://www.animeclick.it/manga/10485/golden-boy/edizioni"
+    },
+    {
+      "id": "manga-ac-22504",
+      "title": "Shigahime",
+      "edition": "Shigahime",
+      "addedNumbers": [
+        5
+      ],
+      "inventoryNumbers": [
+        5
+      ],
+      "owned": 5,
+      "numbers": "1, 2, 3, 4, 5",
+      "source": "https://www.animeclick.it/manga/22504/shigahime/edizioni"
+    },
+    {
+      "id": "manga-ac-26620",
+      "title": "Sweat and Soap - Sudore e sapone",
+      "edition": "Sudore e Sapone",
+      "addedNumbers": [
+        1
+      ],
+      "inventoryNumbers": [
+        1
+      ],
+      "owned": 3,
+      "numbers": "1, 2, 3",
+      "source": "https://www.animeclick.it/manga/26620/ase-to-sekken/edizioni"
+    },
+    {
+      "id": "manga-ac-10070",
+      "title": "Silent Möbius",
+      "edition": "Silent Möbius Complete Edition",
+      "addedNumbers": [
+        12
+      ],
+      "inventoryNumbers": [
+        12
+      ],
+      "owned": 12,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+      "source": "https://www.animeclick.it/manga/10070/silent-mobius/edizioni"
+    },
+    {
+      "id": "manga-ac-54418",
+      "title": "Greaseberries",
+      "edition": "Greaseberries",
+      "addedNumbers": [
+        4
+      ],
+      "inventoryNumbers": [
+        4
+      ],
+      "owned": 4,
+      "numbers": "1, 2, 3, 4",
+      "source": "https://www.animeclick.it/news/104803-manga-tutte-le-uscite-italiane-di-ottobre-2024"
+    },
+    {
+      "id": "manga-ac-49005",
+      "title": "Il tenue colore della fine - Mission In The Apocalypse",
+      "edition": "Il tenue colore della fine - Mission In The Apocalypse",
+      "addedNumbers": [
+        5
+      ],
+      "inventoryNumbers": [
+        5
+      ],
+      "owned": 5,
+      "numbers": "1, 2, 3, 4, 5",
+      "source": "https://www.animeclick.it/news/111867-manga-tutte-le-uscite-italiane-di-ottobre-2026"
+    },
+    {
+      "id": "manga-ac-19815",
+      "title": "Mi sono reincarnato in uno slime",
+      "edition": "Mi sono reincarnato in uno slime",
+      "addedNumbers": [
+        1,
+        2,
+        3,
+        6,
+        10
+      ],
+      "inventoryNumbers": [
+        1,
+        2,
+        3,
+        6,
+        10
+      ],
+      "owned": 13,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+      "source": "https://dokusho.it/index.php/prodotto/mi-sono-reincarnato-in-uno-slime-vol-10/"
+    },
+    {
+      "id": "manga-ac-30505",
+      "title": "In/Spectre",
+      "edition": "In/Spectre",
+      "addedNumbers": [
+        1,
+        2
+      ],
+      "inventoryNumbers": [
+        1,
+        2
+      ],
+      "owned": 3,
+      "numbers": "1, 2, 3",
+      "source": "https://dokusho.it/"
+    },
+    {
+      "id": "manga-photo-makina-love-bot",
+      "title": "Makina-san’s a Love Bot?!",
+      "edition": "Makina-san’s a Love Bot?!",
+      "addedNumbers": [
+        2,
+        3,
+        4
+      ],
+      "inventoryNumbers": [
+        2,
+        3,
+        4
+      ],
+      "owned": 4,
+      "numbers": "1, 2, 3, 4",
+      "source": "https://sevenseasentertainment.com/series/makina-sans-a-love-bot/"
+    },
+    {
+      "id": "manga-ac-37251",
+      "title": "Asumi-chan is Interested in Lesbian Brothels!",
+      "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+      "addedNumbers": [
+        6
+      ],
+      "inventoryNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "owned": 6,
+      "numbers": "1, 2, 3, 4, 5, 6",
+      "source": "https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/"
+    },
+    {
+      "id": "manga-ac-37473",
+      "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+      "edition": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+      "addedNumbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "inventoryNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "owned": 11,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11",
+      "source": "https://sevenseasentertainment.com/series/im-the-evil-lord-of-an-intergalactic-empire-light-novel/"
+    },
+    {
+      "id": "manga-collection-not-succubus",
+      "title": "I’m Not a Succubus!",
+      "edition": "I’m Not a Succubus!",
+      "addedNumbers": [
+        4,
+        5,
+        6
+      ],
+      "inventoryNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "owned": 6,
+      "numbers": "1, 2, 3, 4, 5, 6",
+      "source": "https://sevenseasentertainment.com/series/im-not-a-succubus/"
+    },
+    {
+      "id": "manga-ac-31478",
+      "title": "Semelparous",
+      "edition": "Semelparous",
+      "addedNumbers": [],
+      "inventoryNumbers": [
+        1,
+        2,
+        3
+      ],
+      "owned": 3,
+      "numbers": "1, 2, 3",
+      "source": "https://sevenseasentertainment.com/series/semelparous/"
+    },
+    {
+      "id": "manga-ac-42622",
+      "title": "The Haunted Bookstore – Gateway to a Parallel Universe (Light Novel)",
+      "edition": "The Haunted Bookstore – Gateway to a Parallel Universe (Light Novel)",
+      "addedNumbers": [
+        7
+      ],
+      "inventoryNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "owned": 7,
+      "numbers": "1, 2, 3, 4, 5, 6, 7",
+      "source": "https://sevenseasentertainment.com/series/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel/"
+    },
+    {
+      "id": "novel-collection-npcs-village-sim",
+      "title": "The NPCs in this Village Sim Game Must Be Real! (Light Novel)",
+      "edition": "The NPCs in this Village Sim Game Must Be Real! (Light Novel)",
+      "addedNumbers": [],
+      "inventoryNumbers": [
+        1,
+        2,
+        3
+      ],
+      "owned": 3,
+      "numbers": "1, 2, 3",
+      "source": "https://sevenseasentertainment.com/series/the-npcs-in-this-village-sim-game-must-be-real-light-novel/"
+    },
+    {
+      "id": "manga-ac-36844",
+      "title": "Touring After the Apocalypse",
+      "edition": "Touring After the Apocalypse",
+      "addedNumbers": [
+        5,
+        6,
+        7
+      ],
+      "inventoryNumbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "owned": 7,
+      "numbers": "1, 2, 3, 4, 5, 6, 7",
+      "source": "https://yenpress.com/titles/9798855428230-touring-after-the-apocalypse-vol-7"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "manga-ac-34611",
+      "title": "Agenzia matrimoniale",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-13722",
+      "title": "Aula alla deriva",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-50604",
+      "title": "Beat & Motion",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-9607",
+      "title": "Berserk",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-9546",
+      "title": "Bleach",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-42666",
+      "title": "Cacciatori di cadaveri",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-9709",
+      "title": "D.Gray-man",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-33303",
+      "title": "Dark Gathering",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10033",
+      "title": "Due Come Noi",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10860",
+      "title": "Elettroshock Daisy",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-33444",
+      "title": "Endroll Back",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-36856",
+      "title": "From the Red Fog",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-40046",
+      "title": "Gigantis",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10567",
+      "title": "Golgo 13",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-44104",
+      "title": "Goodbye, Eri",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-49902",
+      "title": "Hai Step Jun",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-60768",
+      "title": "Honeymoon Paradise",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-32053",
+      "title": "Idaten: gli dei in tempo di pace",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-23235",
+      "title": "Il monologo della speziale",
+      "publisher": "Dokusho Edizioni",
+      "owned": 13,
+      "reason": "Volume 10: indicazioni discordanti fra uscita e preordine; conferma se è già nella tua collezione"
+    },
+    {
+      "id": "manga-ac-45438",
+      "title": "Isekai demo Fuuzoku Jou Yatte Mita",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-28403",
+      "title": "Ishuzoku Reviewers",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-49863",
+      "title": "Jinrui-Shoku: Blight of Man",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-51429",
+      "title": "Joshi Luck! Girls Lacrosse Club",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-30984",
+      "title": "Kaijin Reijoh - Mostruose Bellezze",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-39949",
+      "title": "Kajiki Chef",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-32729",
+      "title": "Kanojo mo Kanojo",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10188",
+      "title": "Ken il guerriero - Hokuto no Ken",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-38860",
+      "title": "Kijin Gentosho - Demon Hunter",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10925",
+      "title": "Knights of Sidonia",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-41629",
+      "title": "Kokoro no Program",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-36674",
+      "title": "Kono Healer Mendokusai",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-49455",
+      "title": "La casa dove tutti fanno sesso (tranne me)",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-62547",
+      "title": "La lussuria è donna",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-11721",
+      "title": "La ragazza in riva al mare",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-24269",
+      "title": "Lady vampira",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-14900",
+      "title": "Love Live! School Idol Project",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-63580",
+      "title": "Lovely",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10548",
+      "title": "Mad★Bull 34",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-37116",
+      "title": "Megami no Café Terrace",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-31424",
+      "title": "Messe a Nudo",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-27320",
+      "title": "Mieruko-chan",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-34586",
+      "title": "Morirò se non resto vergine",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-51937",
+      "title": "MUJINA INTO THE DEEP",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-33765",
+      "title": "Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-44853",
+      "title": "Mushoku Tensei - Depressed Magician",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-37095",
+      "title": "Musume Janakute, Watashi ga Suki Nano!?",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-32819",
+      "title": "My Love Story with Yamada-kun at LV999",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-42153",
+      "title": "Nippon Sangoku - I tre regni del Giappone",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-12995",
+      "title": "One-Punch Man",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-12578",
+      "title": "Orange (Ichigo Takano)",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-39981",
+      "title": "Ore wa Seikan Kokka no Akutoku Ryōshu!",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-31950",
+      "title": "Oshi no Ko - My Star",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-33681",
+      "title": "Phantom Seer",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-30462",
+      "title": "Planet of the Fools",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-49010",
+      "title": "Power Bible - La Bibbia Manga",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-9639",
+      "title": "Pretty Guardian Sailor Moon",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-27309",
+      "title": "Principesse imperfette",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10713",
+      "title": "Queen Emeraldas",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-15830",
+      "title": "RE/MEMBER",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10778",
+      "title": "Rumic World",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-11862",
+      "title": "Sankarea",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-11087",
+      "title": "Shin Vampire Princess Miyu",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-45404",
+      "title": "Skeeter Rabbit!!",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-28184",
+      "title": "Spy X Family",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-58339",
+      "title": "Strani disegni",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-22057",
+      "title": "Super HXEROS",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-42125",
+      "title": "Takopi's Original Sin",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-33247",
+      "title": "That's My Space Opera!",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-16521",
+      "title": "The Case Study of Vanitas",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-33237",
+      "title": "The Decagon House Murders",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-43211",
+      "title": "The Isekai Doctor",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-32601",
+      "title": "The Poetry of Ran",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-15726",
+      "title": "Tomodachi Game",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-37712",
+      "title": "Twin Milf",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-10028",
+      "title": "Vampire Hunter D",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-11529",
+      "title": "Vampire Princess Miyu",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-20917",
+      "title": "Voglio mangiare il tuo pancreas",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-37376",
+      "title": "Witch Watch",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-27594",
+      "title": "Zombieland SAGA",
+      "publisher": "",
+      "owned": 0,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-12647",
+      "title": "AnoHana",
+      "publisher": "J-Pop",
+      "owned": 3,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "novel-collection-met-you-end-world",
+      "title": "I Met You After the End of the World",
+      "publisher": "Independent Pub.",
+      "owned": 2,
+      "reason": "Nessuna edizione posseduta identificabile nella scheda"
+    },
+    {
+      "id": "manga-ac-12084",
+      "title": "Uzumaki - Spirale",
+      "publisher": "Star Comics",
+      "owned": 2,
+      "reason": "Vecchio conteggio di 2 volumi: serve l’edizione Star Comics esatta"
+    }
+  ],
+  "reviewedWorkCount": 297,
+  "resolvedWorkCount": 215,
+  "addedPhysicalNumbers": 60,
+  "inventoryRowsAdded": 89,
+  "notes": [
+    "Titoli senza edizione identificata non vengono attribuiti a un editore o a una lingua a caso.",
+    "Le numerazioni già coperte da variant, pack o cofanetti non sono duplicate. Aria The Masterpiece 1 resta sotto Aqua.",
+    "Prezzi di catalogo, quando documentati, non sono prezzi di acquisto. Date di lettura, voti e stati personali restano invariati.",
+    "Il conteggio originale storico è conservato. Volumi pubblicati dell’edizione verificata: metadato separato."
+  ]
+}
