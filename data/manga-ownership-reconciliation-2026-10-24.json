@@ -1157,10 +1157,13 @@
       "manga-ac-20917",
       "manga-ac-22057",
       "manga-ac-24269",
+      "manga-ac-27309",
       "manga-ac-27320",
       "manga-ac-27594",
       "manga-ac-28184",
+      "manga-ac-30462",
       "manga-ac-30984",
+      "manga-ac-31424",
       "manga-ac-31950",
       "manga-ac-32053",
       "manga-ac-32601",
@@ -1168,8 +1171,11 @@
       "manga-ac-33237",
       "manga-ac-33247",
       "manga-ac-33444",
+      "manga-ac-33681",
+      "manga-ac-34586",
       "manga-ac-36674",
       "manga-ac-36856",
+      "manga-ac-37116",
       "manga-ac-37376",
       "manga-ac-37712",
       "manga-ac-38860",
@@ -1183,149 +1189,49 @@
       "manga-ac-44104",
       "manga-ac-44853",
       "manga-ac-45404",
+      "manga-ac-49010",
+      "manga-ac-49863",
       "manga-ac-49902",
       "manga-ac-50604",
       "manga-ac-51429",
       "manga-ac-51937",
       "manga-ac-58339",
+      "manga-ac-62547",
       "manga-ac-9546",
       "manga-ac-9607",
+      "manga-ac-9639",
       "manga-ac-9709"
     ],
     "confirmedEditionWorkIds": [
       "manga-ac-10033",
+      "manga-ac-10188",
       "manga-ac-12084",
       "manga-ac-12647",
+      "manga-ac-14465",
+      "manga-ac-14502",
+      "manga-ac-19815",
+      "manga-ac-21469",
+      "manga-ac-22536",
+      "manga-ac-23235",
+      "manga-ac-23315",
       "manga-ac-28403",
+      "manga-ac-30505",
       "manga-ac-32729",
       "manga-ac-33303",
       "manga-ac-34611",
+      "manga-ac-37095",
+      "manga-ac-37473",
+      "manga-ac-39981",
+      "manga-ac-45438",
+      "manga-ac-49455",
       "manga-ac-60768",
+      "manga-ac-63580",
       "novel-collection-met-you-end-world"
     ],
     "remainingUnresolved": [
       {
-        "id": "manga-ac-23235",
-        "title": "Il monologo della speziale",
-        "publisher": "Dokusho Edizioni",
-        "owned": 13,
-        "reason": "Volume 10: indicazioni discordanti fra uscita e preordine; conferma se è già nella tua collezione"
-      },
-      {
-        "id": "manga-ac-45438",
-        "title": "Isekai demo Fuuzoku Jou Yatte Mita",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-49863",
-        "title": "Jinrui-Shoku: Blight of Man",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-10188",
-        "title": "Ken il guerriero - Hokuto no Ken",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-49455",
-        "title": "La casa dove tutti fanno sesso (tranne me)",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-62547",
-        "title": "La lussuria è donna",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-63580",
-        "title": "Lovely",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-37116",
-        "title": "Megami no Café Terrace",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-31424",
-        "title": "Messe a Nudo",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-34586",
-        "title": "Morirò se non resto vergine",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-33765",
         "title": "Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-37095",
-        "title": "Musume Janakute, Watashi ga Suki Nano!?",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-39981",
-        "title": "Ore wa Seikan Kokka no Akutoku Ryōshu!",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-33681",
-        "title": "Phantom Seer",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-30462",
-        "title": "Planet of the Fools",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-49010",
-        "title": "Power Bible - La Bibbia Manga",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-9639",
-        "title": "Pretty Guardian Sailor Moon",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-27309",
-        "title": "Principesse imperfette",
         "publisher": "",
         "owned": 0,
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
@@ -1388,7 +1294,108 @@
         "edition": "I Met You After the End of the World · light novel · inglese",
         "owned": 5,
         "source": "https://www.oniisanbomber.com/books/i-met-you-after-the-end-of-the-world"
+      },
+      {
+        "id": "manga-ac-45438",
+        "title": "Call Girl in Another World",
+        "edition": "Call Girl in Another World · Seven Seas Entertainment / Ghost Ship · inglese",
+        "owned": 9,
+        "source": "https://sevenseasentertainment.com/series/call-girl-in-another-world/"
+      },
+      {
+        "id": "manga-ac-37095",
+        "title": "You Like Me, Not My Daughter?!",
+        "edition": "You Like Me, Not My Daughter?! (Manga) · Seven Seas Entertainment · inglese",
+        "owned": 8,
+        "source": "https://sevenseasentertainment.com/series/you-like-me-not-my-daughter-manga/"
+      },
+      {
+        "id": "manga-ac-10188",
+        "title": "Fist of the North Star",
+        "edition": "Fist of the North Star · Hardcover (Kyūkyokuban) · VIZ Media · inglese",
+        "owned": 18,
+        "source": "https://www.viz.com/manga-books/manga/fist-of-the-north-star/all"
+      },
+      {
+        "id": "manga-ac-63580",
+        "title": "Lovely",
+        "edition": "Lovely · Black Magic · Magic Press · italiano",
+        "owned": 1,
+        "source": "https://www.libreriauniversitaria.it/lovely-kyockcho-magic-press/libro/9791256721672"
+      },
+      {
+        "id": "manga-ac-49455",
+        "title": "La casa dove tutti fanno sesso (tranne me)",
+        "edition": "La casa dove tutti fanno sesso (tranne me) · Black Magic · Magic Press · italiano",
+        "owned": 1,
+        "source": "https://www.libreriauniversitaria.it/casa-dove-tutti-fanno-sesso/libro/9788869139482"
+      },
+      {
+        "id": "manga-ac-37473",
+        "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+        "edition": "I’m the Evil Lord of an Intergalactic Empire! · light novel · Airship · inglese",
+        "owned": 11,
+        "source": "https://sevenseasentertainment.com/series/im-the-evil-lord-of-an-intergalactic-empire-light-novel/"
+      },
+      {
+        "id": "manga-ac-23315",
+        "title": "86 - Eighty-Six",
+        "edition": "86 - Eighty-Six · Dokusho · italiano",
+        "owned": 8,
+        "source": "https://dokusho.it/index.php/shop/"
+      },
+      {
+        "id": "manga-ac-14465",
+        "title": "Bakemonogatari",
+        "edition": "Bakemonogatari · Dokusho · italiano",
+        "owned": 2,
+        "source": "https://dokusho.it/index.php/shop/"
+      },
+      {
+        "id": "manga-ac-21469",
+        "title": "Classroom of the Elite",
+        "edition": "Classroom of the Elite · Dokusho · italiano",
+        "owned": 18,
+        "source": "https://dokusho.it/index.php/shop/"
+      },
+      {
+        "id": "manga-ac-23235",
+        "title": "Il monologo della speziale",
+        "edition": "Il monologo della speziale · Dokusho · italiano",
+        "owned": 13,
+        "source": "https://dokusho.it/index.php/shop/"
+      },
+      {
+        "id": "manga-ac-30505",
+        "title": "In/Spectre",
+        "edition": "In/Spectre · Dokusho · italiano",
+        "owned": 3,
+        "source": "https://dokusho.it/index.php/shop/"
+      },
+      {
+        "id": "manga-ac-19815",
+        "title": "Mi sono reincarnato in uno slime",
+        "edition": "Mi sono reincarnato in uno slime · Dokusho · italiano",
+        "owned": 13,
+        "source": "https://dokusho.it/index.php/shop/"
+      },
+      {
+        "id": "manga-ac-22536",
+        "title": "Mushoku Tensei - Nel nuovo mondo darò il massimo",
+        "edition": "Mushoku Tensei - Nel nuovo mondo darò il massimo · Dokusho · italiano",
+        "owned": 5,
+        "source": "https://dokusho.it/index.php/shop/"
+      },
+      {
+        "id": "manga-ac-14502",
+        "title": "No Game No Life",
+        "edition": "No Game No Life · Dokusho · italiano",
+        "owned": 2,
+        "source": "https://dokusho.it/index.php/shop/"
       }
-    ]
+    ],
+    "mergedWorkIds": {
+      "manga-ac-39981": "manga-ac-37473"
+    }
   }
 }
