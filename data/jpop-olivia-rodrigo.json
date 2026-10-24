@@ -702,7 +702,7 @@
       "title": "GUTS",
       "date": "2023-09-08",
       "kind": "studio",
-      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. GUTS (spilled) è uscita il 22 marzo 2024: il selettore usa la data della label, mentre alcuni metadati digitali riportano la data del disco originale del 2023.",
       "source": "https://music.apple.com/us/album/guts/1694386825?uo=4",
       "trackSource": "https://music.apple.com/us/album/guts/1694386825?uo=4",
       "defaultEdition": 0,
@@ -804,7 +804,7 @@
           ]
         },
         {
-          "label": "Digitale US · GUTS (spilled) · Explicit · 2023-09-08",
+          "label": "Digitale US · GUTS (spilled) · Explicit · 2024-03-22",
           "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/4c/6a/5a4c6aac-318a-b5a6-a481-15141d65fddc/24UMGIM30484.rgb.jpg/600x600bb.jpg",
           "source": "https://music.apple.com/us/album/guts-spilled/1736994915?uo=4",
           "discs": [
@@ -1024,7 +1024,7 @@
           ]
         },
         {
-          "label": "Digitale US · GUTS (spilled) · Clean · 2023-09-08",
+          "label": "Digitale US · GUTS (spilled) · Clean · 2024-03-22",
           "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/600x600bb.jpg",
           "source": "https://music.apple.com/us/album/guts-spilled/1736994853?uo=4",
           "discs": [
@@ -2178,6 +2178,10 @@
     {
       "label": "Il debutto originale drivers license · Universal Music Canada",
       "url": "https://www.universalmusic.ca/2021/01/08/olivia-rodrigo-releases-drivers-license-her-debut-original-single-via-geffen-records/"
+    },
+    {
+      "label": "GUTS (spilled) · data e scaletta ufficiali",
+      "url": "https://www.universal-music.co.jp/olivia-rodrigo/products/00602465256321/"
     }
   ],
   "excluded": [
