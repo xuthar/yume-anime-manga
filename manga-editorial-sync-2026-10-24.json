@@ -591,17 +591,608 @@
           }
         ]
       }
+    },
+    {
+      "title": "Honeymoon Paradise",
+      "language": "IT",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura.",
+      "editorialSource": "",
+      "owned": 1,
+      "numbers": "Unico",
+      "status": "Completo",
+      "publisher": "Magic Press",
+      "volumes": [
+        {
+          "edition": "Honeymoon Paradise",
+          "number": "Unico",
+          "format": "Manga",
+          "priceEur": 12
+        }
+      ],
+      "pricing": {
+        "lastVolumePrice": 12,
+        "knownTotal": 12,
+        "pricedVolumes": 1,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Honeymoon Paradise",
+            "number": "Unico",
+            "price": 12
+          }
+        ]
+      }
+    },
+    {
+      "title": "Interspecies Reviewers",
+      "language": "EN",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura. Registrata la serie manga principale; antologie Darkness e light novel non incluse.",
+      "editorialSource": "",
+      "owned": 11,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11",
+      "status": "Non completo",
+      "publisher": "Yen Press",
+      "volumes": [
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": null
+        }
+      ],
+      "pricing": null
+    },
+    {
+      "title": "Girlfriend, Girlfriend",
+      "language": "EN",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura. Omnibus 2-in-1: i 5 libri corrispondono ai volumi originali 1–10. Omnibus 6 del 10/11/2026 escluso perché futuro.",
+      "editorialSource": "",
+      "owned": 5,
+      "numbers": "1, 2, 3, 4, 5",
+      "status": "Non completo",
+      "publisher": "Kodansha USA",
+      "volumes": [
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": null
+        }
+      ],
+      "pricing": null
+    },
+    {
+      "title": "Due Come Noi",
+      "language": "IT",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura. Numerazione Goen 1–38; nessuna ristampa aggiunta come seconda copia. Copertina commerciale/Kiosk della copia fisica da accertare.",
+      "editorialSource": "",
+      "owned": 38,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38",
+      "status": "Completo",
+      "publisher": "Goen",
+      "volumes": [
+        {
+          "edition": "Due Come Noi",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "12",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "13",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "14",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "15",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "16",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "17",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "18",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "19",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "20",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "21",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "22",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "23",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "24",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "25",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "26",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "27",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "28",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "29",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "30",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "31",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "32",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "33",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "34",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "35",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "36",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "37",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "38",
+          "format": "Manga",
+          "priceEur": 5.95
+        }
+      ],
+      "pricing": {
+        "lastVolumePrice": 5.95,
+        "knownTotal": 196.1,
+        "pricedVolumes": 38,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Due Come Noi",
+            "number": "1",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "2",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "3",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "4",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "5",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "6",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "7",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "8",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "9",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "10",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "11",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "12",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "13",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "14",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "15",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "16",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "17",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "18",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "19",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "20",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "21",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "22",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "23",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "24",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "25",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "26",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "27",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "28",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "29",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "30",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "31",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "32",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "33",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "34",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "35",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "36",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "37",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "38",
+            "price": 5.95
+          }
+        ]
+      }
     }
   ],
   "unreconciledIndividualInventory": [
-    "Honeymoon Paradise",
-    "Interspecies Reviewers",
-    "Girlfriend, Girlfriend",
     "AnoHana",
     "ShindoL’s Cultural Anthropology",
     "I Met You After the End of the World",
     "Uzumaki - Spirale",
     "Un sandwich a Ginza",
     "Una bistecca nella Shitamachi"
+  ],
+  "unverifiedBoxContents": [
+    "All of Us Are Dead"
   ]
 }
