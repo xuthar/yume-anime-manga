@@ -1132,5 +1132,451 @@
     "Le numerazioni già coperte da variant, pack o cofanetti non sono duplicate. Aria The Masterpiece 1 resta sotto Aqua.",
     "Prezzi di catalogo, quando documentati, non sono prezzi di acquisto. Date di lettura, voti e stati personali restano invariati.",
     "Il conteggio originale storico è conservato. Volumi pubblicati dell’edizione verificata: metadato separato."
-  ]
+  ],
+  "followUp": {
+    "checkedAt": "2026-10-24",
+    "removedWorkIds": [
+      "manga-ac-10548",
+      "manga-ac-10567",
+      "manga-ac-10860",
+      "manga-ac-10925",
+      "manga-ac-11721",
+      "manga-ac-13722",
+      "manga-ac-14900",
+      "manga-ac-24269",
+      "manga-ac-30984",
+      "manga-ac-32053",
+      "manga-ac-36856",
+      "manga-ac-39949",
+      "manga-ac-40046",
+      "manga-ac-41629",
+      "manga-ac-42666",
+      "manga-ac-44104",
+      "manga-ac-49902",
+      "manga-ac-50604",
+      "manga-ac-51429",
+      "manga-ac-9546",
+      "manga-ac-9607",
+      "manga-ac-9709"
+    ],
+    "confirmedEditionWorkIds": [
+      "manga-ac-34611"
+    ],
+    "remainingUnresolved": [
+      {
+        "id": "manga-ac-33303",
+        "title": "Dark Gathering",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-10033",
+        "title": "Due Come Noi",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-33444",
+        "title": "Endroll Back",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-60768",
+        "title": "Honeymoon Paradise",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-23235",
+        "title": "Il monologo della speziale",
+        "publisher": "Dokusho Edizioni",
+        "owned": 13,
+        "reason": "Volume 10: indicazioni discordanti fra uscita e preordine; conferma se è già nella tua collezione"
+      },
+      {
+        "id": "manga-ac-45438",
+        "title": "Isekai demo Fuuzoku Jou Yatte Mita",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-28403",
+        "title": "Ishuzoku Reviewers",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-49863",
+        "title": "Jinrui-Shoku: Blight of Man",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-32729",
+        "title": "Kanojo mo Kanojo",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-10188",
+        "title": "Ken il guerriero - Hokuto no Ken",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-38860",
+        "title": "Kijin Gentosho - Demon Hunter",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-36674",
+        "title": "Kono Healer Mendokusai",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-49455",
+        "title": "La casa dove tutti fanno sesso (tranne me)",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-62547",
+        "title": "La lussuria è donna",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-63580",
+        "title": "Lovely",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-37116",
+        "title": "Megami no Café Terrace",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-31424",
+        "title": "Messe a Nudo",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-27320",
+        "title": "Mieruko-chan",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-34586",
+        "title": "Morirò se non resto vergine",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-51937",
+        "title": "MUJINA INTO THE DEEP",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-33765",
+        "title": "Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-44853",
+        "title": "Mushoku Tensei - Depressed Magician",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-37095",
+        "title": "Musume Janakute, Watashi ga Suki Nano!?",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-32819",
+        "title": "My Love Story with Yamada-kun at LV999",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-42153",
+        "title": "Nippon Sangoku - I tre regni del Giappone",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-12995",
+        "title": "One-Punch Man",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-12578",
+        "title": "Orange (Ichigo Takano)",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-39981",
+        "title": "Ore wa Seikan Kokka no Akutoku Ryōshu!",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-31950",
+        "title": "Oshi no Ko - My Star",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-33681",
+        "title": "Phantom Seer",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-30462",
+        "title": "Planet of the Fools",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-49010",
+        "title": "Power Bible - La Bibbia Manga",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-9639",
+        "title": "Pretty Guardian Sailor Moon",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-27309",
+        "title": "Principesse imperfette",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-10713",
+        "title": "Queen Emeraldas",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-15830",
+        "title": "RE/MEMBER",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-10778",
+        "title": "Rumic World",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-11862",
+        "title": "Sankarea",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-11087",
+        "title": "Shin Vampire Princess Miyu",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-45404",
+        "title": "Skeeter Rabbit!!",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-28184",
+        "title": "Spy X Family",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-58339",
+        "title": "Strani disegni",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-22057",
+        "title": "Super HXEROS",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-42125",
+        "title": "Takopi's Original Sin",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-33247",
+        "title": "That's My Space Opera!",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-16521",
+        "title": "The Case Study of Vanitas",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-33237",
+        "title": "The Decagon House Murders",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-43211",
+        "title": "The Isekai Doctor",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-32601",
+        "title": "The Poetry of Ran",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-15726",
+        "title": "Tomodachi Game",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-37712",
+        "title": "Twin Milf",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-10028",
+        "title": "Vampire Hunter D",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-11529",
+        "title": "Vampire Princess Miyu",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-20917",
+        "title": "Voglio mangiare il tuo pancreas",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-37376",
+        "title": "Witch Watch",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-27594",
+        "title": "Zombieland SAGA",
+        "publisher": "",
+        "owned": 0,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-12647",
+        "title": "AnoHana",
+        "publisher": "J-Pop",
+        "owned": 3,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "novel-collection-met-you-end-world",
+        "title": "I Met You After the End of the World",
+        "publisher": "Independent Pub.",
+        "owned": 2,
+        "reason": "Nessuna edizione posseduta identificabile nella scheda"
+      },
+      {
+        "id": "manga-ac-12084",
+        "title": "Uzumaki - Spirale",
+        "publisher": "Star Comics",
+        "owned": 2,
+        "reason": "Vecchio conteggio di 2 volumi: serve l’edizione Star Comics esatta"
+      }
+    ],
+    "note": "Rimozioni e identificazione edizione richieste da Xuthar dopo il controllo iniziale. Il resoconto iniziale è conservato come storico."
+  }
 }

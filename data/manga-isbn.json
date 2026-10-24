@@ -17808,6 +17808,18 @@
       "isbnSource": "https://yenpress.com/titles/9798855428230-touring-after-the-apocalypse-vol-7",
       "isbnCheckedAt": "2026-10-24",
       "isbnStatus": "Catalogo editore verificato; ristampa da accertare"
+    },
+    {
+      "workId": "manga-ac-34611",
+      "edition": "Agenzia matrimoniale",
+      "number": "Unico",
+      "publisher": "Magic Press",
+      "language": "IT",
+      "key": "agenzia matrimoniale|unico|magic press",
+      "isbn": "9788869137709",
+      "isbnSource": "https://www.libreriauniversitaria.it/agenzia-matrimoniale-zucchini-magic-press/libro/9788869137709",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa da accertare"
     }
   ]
 }
