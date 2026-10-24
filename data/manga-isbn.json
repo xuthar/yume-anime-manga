@@ -18696,6 +18696,126 @@
       "isbnSource": "https://kodansha.us/series/girlfriend-girlfriend-omnibus/volume-5/",
       "isbnCheckedAt": "2026-10-24",
       "isbnStatus": "Catalogo verificato; ristampa da accertare"
+    },
+    {
+      "workId": "manga-ac-12084",
+      "edition": "Uzumaki - Spirale · ristampa Star Comics",
+      "number": "1",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "key": "uzumaki spirale ristampa star comics|1|star comics",
+      "isbn": "9788822608567",
+      "isbnSource": "https://www.mangacomicsmarket.it/catalogo/19338/tutto-mark-127.html/prodotti/uzumaki-spirale-001",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
+    },
+    {
+      "workId": "manga-ac-12084",
+      "edition": "Uzumaki - Spirale · ristampa Star Comics",
+      "number": "2",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "key": "uzumaki spirale ristampa star comics|2|star comics",
+      "isbn": "9788822608611",
+      "isbnSource": "https://www.capitanfumetto.com/it/uzumaki---spirale-2/",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
+    },
+    {
+      "workId": "manga-ac-12647",
+      "edition": "Ano Hana Box · volumi del cofanetto",
+      "number": "1",
+      "publisher": "J-Pop",
+      "language": "IT",
+      "key": "ano hana box volumi del cofanetto|1|j pop",
+      "isbn": "9788868830274",
+      "isbnSource": "https://www.ibs.it/ano-hana-box-vol-1-libro-izumi-mitsu/e/9788868830274",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "ISBN del cofanetto 1–3; non del singolo volume"
+    },
+    {
+      "workId": "manga-ac-12647",
+      "edition": "Ano Hana Box · volumi del cofanetto",
+      "number": "2",
+      "publisher": "J-Pop",
+      "language": "IT",
+      "key": "ano hana box volumi del cofanetto|2|j pop",
+      "isbn": "9788868830274",
+      "isbnSource": "https://www.ibs.it/ano-hana-box-vol-1-libro-izumi-mitsu/e/9788868830274",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "ISBN del cofanetto 1–3; non del singolo volume"
+    },
+    {
+      "workId": "manga-ac-12647",
+      "edition": "Ano Hana Box · volumi del cofanetto",
+      "number": "3",
+      "publisher": "J-Pop",
+      "language": "IT",
+      "key": "ano hana box volumi del cofanetto|3|j pop",
+      "isbn": "9788868830274",
+      "isbnSource": "https://www.ibs.it/ano-hana-box-vol-1-libro-izumi-mitsu/e/9788868830274",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "ISBN del cofanetto 1–3; non del singolo volume"
+    },
+    {
+      "workId": "novel-collection-met-you-end-world",
+      "edition": "I Met You After the End of the World (Light Novel)",
+      "number": "1",
+      "publisher": "Independently Published",
+      "language": "EN",
+      "key": "i met you after the end of the world light novel|1|independently published",
+      "isbn": "9798514492152",
+      "isbnSource": "https://www.abebooks.it/servlet/SearchResults?inclseries=B096L4J1S8",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
+    },
+    {
+      "workId": "novel-collection-met-you-end-world",
+      "edition": "I Met You After the End of the World (Light Novel)",
+      "number": "2",
+      "publisher": "Independently Published",
+      "language": "EN",
+      "key": "i met you after the end of the world light novel|2|independently published",
+      "isbn": "9798374974454",
+      "isbnSource": "https://www.abebooks.it/servlet/SearchResults?inclseries=B096L4J1S8",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
+    },
+    {
+      "workId": "novel-collection-met-you-end-world",
+      "edition": "I Met You After the End of the World (Light Novel)",
+      "number": "3",
+      "publisher": "Independently Published",
+      "language": "EN",
+      "key": "i met you after the end of the world light novel|3|independently published",
+      "isbn": "9798329261288",
+      "isbnSource": "https://books.google.com/books/about/I_Met_You_After_the_End_of_the_World_Lig.html?id=x1TV0AEACAAJ",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
+    },
+    {
+      "workId": "novel-collection-met-you-end-world",
+      "edition": "I Met You After the End of the World (Light Novel)",
+      "number": "4",
+      "publisher": "Independently Published",
+      "language": "EN",
+      "key": "i met you after the end of the world light novel|4|independently published",
+      "isbn": "9798343968804",
+      "isbnSource": "https://www.amazon.com/Met-After-World-Light-Novel/dp/B0DKJPPV76",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
+    },
+    {
+      "workId": "novel-collection-met-you-end-world",
+      "edition": "I Met You After the End of the World (Light Novel)",
+      "number": "5",
+      "publisher": "Independently Published",
+      "language": "EN",
+      "key": "i met you after the end of the world light novel|5|independently published",
+      "isbn": "9798184256054",
+      "isbnSource": "https://www.abebooks.it/9798184256054/Met-After-End-World-Light/plp",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
     }
   ]
 }

@@ -1136,11 +1136,14 @@
   "followUp": {
     "checkedAt": "2026-10-24",
     "removedWorkIds": [
+      "manga-ac-10028",
       "manga-ac-10548",
       "manga-ac-10567",
+      "manga-ac-10713",
       "manga-ac-10778",
       "manga-ac-10860",
       "manga-ac-10925",
+      "manga-ac-11087",
       "manga-ac-11529",
       "manga-ac-11721",
       "manga-ac-11862",
@@ -1149,6 +1152,7 @@
       "manga-ac-13722",
       "manga-ac-14900",
       "manga-ac-15726",
+      "manga-ac-15830",
       "manga-ac-16521",
       "manga-ac-20917",
       "manga-ac-22057",
@@ -1160,20 +1164,25 @@
       "manga-ac-31950",
       "manga-ac-32053",
       "manga-ac-32601",
+      "manga-ac-32819",
       "manga-ac-33237",
+      "manga-ac-33247",
       "manga-ac-33444",
       "manga-ac-36674",
       "manga-ac-36856",
       "manga-ac-37376",
+      "manga-ac-37712",
       "manga-ac-38860",
       "manga-ac-39949",
       "manga-ac-40046",
       "manga-ac-41629",
       "manga-ac-42125",
+      "manga-ac-42153",
       "manga-ac-42666",
       "manga-ac-43211",
       "manga-ac-44104",
       "manga-ac-44853",
+      "manga-ac-45404",
       "manga-ac-49902",
       "manga-ac-50604",
       "manga-ac-51429",
@@ -1185,11 +1194,14 @@
     ],
     "confirmedEditionWorkIds": [
       "manga-ac-10033",
+      "manga-ac-12084",
+      "manga-ac-12647",
       "manga-ac-28403",
       "manga-ac-32729",
       "manga-ac-33303",
       "manga-ac-34611",
-      "manga-ac-60768"
+      "manga-ac-60768",
+      "novel-collection-met-you-end-world"
     ],
     "remainingUnresolved": [
       {
@@ -1277,20 +1289,6 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-32819",
-        "title": "My Love Story with Yamada-kun at LV999",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-42153",
-        "title": "Nippon Sangoku - I tre regni del Giappone",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-39981",
         "title": "Ore wa Seikan Kokka no Akutoku Ryōshu!",
         "publisher": "",
@@ -1331,76 +1329,6 @@
         "publisher": "",
         "owned": 0,
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-10713",
-        "title": "Queen Emeraldas",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-15830",
-        "title": "RE/MEMBER",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-11087",
-        "title": "Shin Vampire Princess Miyu",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-45404",
-        "title": "Skeeter Rabbit!!",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-33247",
-        "title": "That's My Space Opera!",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-37712",
-        "title": "Twin Milf",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-10028",
-        "title": "Vampire Hunter D",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-12647",
-        "title": "AnoHana",
-        "publisher": "J-Pop",
-        "owned": 3,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "novel-collection-met-you-end-world",
-        "title": "I Met You After the End of the World",
-        "publisher": "Independent Pub.",
-        "owned": 2,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-12084",
-        "title": "Uzumaki - Spirale",
-        "publisher": "Star Comics",
-        "owned": 2,
-        "reason": "Vecchio conteggio di 2 volumi: serve l’edizione Star Comics esatta"
       }
     ],
     "note": "Rimozioni e identificazione edizione richieste da Xuthar dopo il controllo iniziale. Il resoconto iniziale è conservato come storico.",
@@ -1439,6 +1367,27 @@
         "edition": "Girlfriend, Girlfriend Omnibus · Kodansha USA · inglese",
         "owned": 5,
         "source": "https://kodansha.us/series/girlfriend-girlfriend-omnibus/"
+      },
+      {
+        "id": "manga-ac-12084",
+        "title": "Uzumaki - Spirale",
+        "edition": "Uzumaki - Spirale · Star Comics · ristampa recente · italiano",
+        "owned": 2,
+        "source": "https://www.starcomics.com/titoli-fumetti/uzumakispirale"
+      },
+      {
+        "id": "manga-ac-12647",
+        "title": "AnoHana",
+        "edition": "Ano Hana Box · cofanetto J-Pop · 3 volumi · italiano",
+        "owned": 3,
+        "source": "https://www.animeclick.it/manga/12647/anohana/edizioni"
+      },
+      {
+        "id": "novel-collection-met-you-end-world",
+        "title": "I Met You After the End of the World",
+        "edition": "I Met You After the End of the World · light novel · inglese",
+        "owned": 5,
+        "source": "https://www.oniisanbomber.com/books/i-met-you-after-the-end-of-the-world"
       }
     ]
   }
