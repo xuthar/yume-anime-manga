@@ -1,0 +1,2299 @@
+{
+  "artist": "Appare!",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/appare/group.jpg",
+  "members": [
+    {
+      "image": "assets/jpop/appare/member-1.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Rei Asahina",
+      "japanese": "朝比奈 れい",
+      "bio": "Rosso · soprannome Reichimu."
+    },
+    {
+      "image": "assets/jpop/appare/member-2.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Yume Nagahori",
+      "japanese": "永堀 ゆめ",
+      "bio": "Verde menta · soprannome Yumeme."
+    },
+    {
+      "image": "assets/jpop/appare/member-3.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Mei Fujimiya",
+      "japanese": "藤宮 めい",
+      "bio": "Bianco · soprannome Meipomu."
+    },
+    {
+      "image": "assets/jpop/appare/member-4.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Rea Nanase",
+      "japanese": "七瀬 れあ",
+      "bio": "Giallo · soprannome Reatan."
+    },
+    {
+      "image": "assets/jpop/appare/member-5.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Suzu Aoi",
+      "japanese": "藍井 すず",
+      "bio": "Blu · soprannome Suzupon."
+    },
+    {
+      "image": "assets/jpop/appare/member-6.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Ami Hashimoto",
+      "japanese": "橋本 あみ",
+      "bio": "Rosa · soprannome Amichi."
+    },
+    {
+      "image": "assets/jpop/appare/member-7.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Amu Kitano",
+      "japanese": "北野 あむ",
+      "bio": "Viola · soprannome Amuamu."
+    },
+    {
+      "image": "assets/jpop/appare/member-8.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Natsu Morikawa",
+      "japanese": "森川 なつ",
+      "bio": "Arancione · soprannome Nachu."
+    },
+    {
+      "image": "assets/jpop/appare/member-9.jpg",
+      "imageSource": "https://appare-official.jp/profiles",
+      "link": "https://appare-official.jp/profiles",
+      "name": "Risa Sakamoto",
+      "japanese": "坂本 りさ",
+      "bio": "Azzurro · soprannome Riichan."
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "MIzsVPVtJUI",
+      "title": "【MV】『骨格アイドル♡虹べユニコーン』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=MIzsVPVtJUI",
+      "source": "https://appare-official.jp/movies/133541"
+    },
+    {
+      "id": "YvjNL4wlETs",
+      "title": "【MV】『きにしないっ！』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=YvjNL4wlETs",
+      "source": "https://appare-official.jp/movies/130362"
+    },
+    {
+      "id": "PwP6A59OmQs",
+      "title": "【MV】『特注オートクチュールダンス』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=PwP6A59OmQs",
+      "source": "https://appare-official.jp/movies/130359"
+    },
+    {
+      "id": "H6MHQcm--YA",
+      "title": "【MV】『好きだ、まじで！』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=H6MHQcm--YA",
+      "source": "https://appare-official.jp/movies/99327"
+    },
+    {
+      "id": "IKNQvXfcKAY",
+      "title": "【MV】『ゴールデンタイム』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=IKNQvXfcKAY",
+      "source": "https://appare-official.jp/movies/130364"
+    },
+    {
+      "id": "rNjRXEhRU6I",
+      "title": "【MV】『ホットラブウィンター』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=rNjRXEhRU6I",
+      "source": "https://appare-official.jp/movies/87341"
+    },
+    {
+      "id": "U-Ky25O0faM",
+      "title": "ぱ ぴ ぷ ぺ POP!",
+      "url": "https://www.youtube.com/watch?v=U-Ky25O0faM",
+      "source": "https://appare-official.jp/movies/81963"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "MIzsVPVtJUI",
+      "title": "【MV】『骨格アイドル♡虹べユニコーン』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=MIzsVPVtJUI",
+      "source": "https://appare-official.jp/movies/133541"
+    },
+    {
+      "id": "YvjNL4wlETs",
+      "title": "【MV】『きにしないっ！』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=YvjNL4wlETs",
+      "source": "https://appare-official.jp/movies/130362"
+    },
+    {
+      "id": "PwP6A59OmQs",
+      "title": "【MV】『特注オートクチュールダンス』/ Appare!",
+      "url": "https://www.youtube.com/watch?v=PwP6A59OmQs",
+      "source": "https://appare-official.jp/movies/130359"
+    }
+  ],
+  "albums": [
+    {
+      "id": "appare-1186679256",
+      "title": "APPARE! WORLD",
+      "date": "2016-12-20",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/appare-world/1186679256?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/appare-world/1186679256?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · APPARE! WORLD",
+          "source": "https://music.apple.com/jp/album/appare-world/1186679256?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fe/37/95/fe3795ce-3b0c-40c1-f51d-93b4ec478e75/appare_jacket_photoimage_fix1020.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Overture",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20Overture%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20Overture",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハジマリのアイズ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%8F%E3%82%B8%E3%83%9E%E3%83%AA%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%8F%E3%82%B8%E3%83%9E%E3%83%AA%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "超絶スーパーLOVE!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E8%B6%85%E7%B5%B6%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCLOVE%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E8%B6%85%E7%B5%B6%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCLOVE%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Our Music",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20Our%20Music%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20Our%20Music",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アッパレルヤ!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%E3%83%AB%E3%83%A4%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%E3%83%AB%E3%83%A4%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キミだけのワンダーランド",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "幽玄テリトリー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%B9%BD%E7%8E%84%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%B9%BD%E7%8E%84%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "原宿サニーデイ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%8E%9F%E5%AE%BF%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%8E%9F%E5%AE%BF%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "天晴レペゼン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%A4%A9%E6%99%B4%E3%83%AC%E3%83%9A%E3%82%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%A4%A9%E6%99%B4%E3%83%AC%E3%83%9A%E3%82%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アイネクライネ幼き恋だね",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%82%A4%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8D%E5%B9%BC%E3%81%8D%E6%81%8B%E3%81%A0%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%82%A4%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8D%E5%B9%BC%E3%81%8D%E6%81%8B%E3%81%A0%E3%81%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1222812253",
+      "title": "この先へ! / カラフルミラクルディスカバリー",
+      "date": "2017-04-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC-type-a-ep/1222812253?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC-type-a-ep/1222812253?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · この先へ! / カラフルミラクルディスカバリー(Type A) - EP",
+          "source": "https://music.apple.com/jp/album/%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC-type-a-ep/1222812253?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/bf/c8/ff/bfc8ffbc-5054-a43e-84c3-141f5dffa9e8/aprhjk-jkt-sampleC2.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "この先へ!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カラフルミラクルディスカバリー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "この先へ! (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カラフルミラクルディスカバリー (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "この先へ!(Yunomi Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%28Yunomi%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%28Yunomi%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · この先へ! / カラフルミラクルディスカバリー(Type B) - EP",
+          "source": "https://music.apple.com/jp/album/%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC-type-b-ep/1222813959?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/6e/d0/6b6ed081-9f26-bec2-992e-3cd71f3712bc/aprhjk-jkt-sampleA.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "この先へ!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カラフルミラクルディスカバリー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "この先へ! (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%93%E3%81%AE%E5%85%88%E3%81%B8%21%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カラフルミラクルディスカバリー (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カラフルミラクルディスカバリー(Yunomi Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%28Yunomi%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC%28Yunomi%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1448102168",
+      "title": "君の眼球越し救いたまえアイドルよ",
+      "date": "2017-09-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88-single/1448102168?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88-single/1448102168?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 君の眼球越し救いたまえアイドルよ - Single",
+          "source": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88-single/1448102168?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/d5/ee/57d5eedc-742c-fce9-95ad-080d9ce830d7/859754654645_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "君の眼球越し救いたまえアイドルよ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1448102327",
+      "title": "パレリラパレリラ / センチメンタルプリズム",
+      "date": "2018-06-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9-%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0-ep/1448102327?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9-%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0-ep/1448102327?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · パレリラパレリラ / センチメンタルプリズム - EP",
+          "source": "https://music.apple.com/jp/album/%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9-%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0-ep/1448102327?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/39/c6/4539c68f-93ee-6fad-de34-0efd66961a63/859754654621_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "パレリラパレリラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9%E3%83%91%E3%83%AC%E3%83%AA%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "センチメンタルプリズム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バンチャラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%90%E3%83%B3%E3%83%81%E3%83%A3%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%90%E3%83%B3%E3%83%81%E3%83%A3%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "汽水ガール",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E6%B1%BD%E6%B0%B4%E3%82%AC%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E6%B1%BD%E6%B0%B4%E3%82%AC%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1449831752",
+      "title": "君の眼球越し救いたまえアイドルよ / エンドレスサマー",
+      "date": "2019-01-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88-%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC-single/1449831752?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88-%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC-single/1449831752?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 君の眼球越し救いたまえアイドルよ / エンドレスサマー - Single",
+          "source": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88-%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC-single/1449831752?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/8c/1e/c28c1ea3-632d-c629-f570-047d7c6bfc71/859754676630_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "君の眼球越し救いたまえアイドルよ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E5%90%9B%E3%81%AE%E7%9C%BC%E7%90%83%E8%B6%8A%E3%81%97%E6%95%91%E3%81%84%E3%81%9F%E3%81%BE%E3%81%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エンドレスサマー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アッパレルヤ!! (Yunomi Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%E3%83%AB%E3%83%A4%21%21%20%28Yunomi%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%E3%83%AB%E3%83%A4%21%21%20%28Yunomi%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1460234673",
+      "title": "Upper Light Up",
+      "date": "2019-05-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/upper-light-up-ep/1460234673?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/upper-light-up-ep/1460234673?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Upper Light Up - EP",
+          "source": "https://music.apple.com/jp/album/upper-light-up-ep/1460234673?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/24/05/2a/24052a06-5f9c-b59b-ee4c-0f29d70d13a9/COCA-17585.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アッパライナ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%A9%E3%82%A4%E3%83%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%A9%E3%82%A4%E3%83%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "虹をかけろ!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E8%99%B9%E3%82%92%E3%81%8B%E3%81%91%E3%82%8D%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E8%99%B9%E3%82%92%E3%81%8B%E3%81%91%E3%82%8D%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カタ想ヒ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%82%BF%E6%83%B3%E3%83%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%82%BF%E6%83%B3%E3%83%92",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アッパライナ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%A9%E3%82%A4%E3%83%8A%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%A9%E3%82%A4%E3%83%8A%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "虹をかけろ! (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E8%99%B9%E3%82%92%E3%81%8B%E3%81%91%E3%82%8D%21%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E8%99%B9%E3%82%92%E3%81%8B%E3%81%91%E3%82%8D%21%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カタ想ヒ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%82%BF%E6%83%B3%E3%83%92%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AB%E3%82%BF%E6%83%B3%E3%83%92%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1478597299",
+      "title": "あっぱれサマーっ!!",
+      "date": "2019-09-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3-single/1478597299?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3-single/1478597299?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · あっぱれサマーっ!! - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3-single/1478597299?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b7/cd/03/b7cd034e-c02b-de45-b815-1f9a8095aee7/KICM-91957.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "あっぱれサマーっ!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%E3%82%B5%E3%83%9E%E3%83%BC%E3%81%A3%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "えいりあんず・えいりあんず",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%88%E3%81%84%E3%82%8A%E3%81%82%E3%82%93%E3%81%9A%E3%83%BB%E3%81%88%E3%81%84%E3%82%8A%E3%81%82%E3%82%93%E3%81%9A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%88%E3%81%84%E3%82%8A%E3%81%82%E3%82%93%E3%81%9A%E3%83%BB%E3%81%88%E3%81%84%E3%82%8A%E3%81%82%E3%82%93%E3%81%9A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぼくらのうた",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%81%86%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E3%81%86%E3%81%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1496320586",
+      "title": "ギミギミダーリン",
+      "date": "2020-02-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%82%AE%E3%83%9F%E3%82%AE%E3%83%9F%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3-single/1496320586?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AE%E3%83%9F%E3%82%AE%E3%83%9F%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3-single/1496320586?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ギミギミダーリン - Single",
+          "source": "https://music.apple.com/jp/album/%E3%82%AE%E3%83%9F%E3%82%AE%E3%83%9F%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3-single/1496320586?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d4/99/21/d4992196-520e-9219-7dab-797209bf936a/KICM-92031_RGB_1.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ギミギミダーリン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AE%E3%83%9F%E3%82%AE%E3%83%9F%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%82%AE%E3%83%9F%E3%82%AE%E3%83%9F%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ホットラブウィンター",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%9B%E3%83%83%E3%83%88%E3%83%A9%E3%83%96%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E3%83%9B%E3%83%83%E3%83%88%E3%83%A9%E3%83%96%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "決勝戦はエブリデー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E6%B1%BA%E5%8B%9D%E6%88%A6%E3%81%AF%E3%82%A8%E3%83%96%E3%83%AA%E3%83%87%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E6%B1%BA%E5%8B%9D%E6%88%A6%E3%81%AF%E3%82%A8%E3%83%96%E3%83%AA%E3%83%87%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1516451185",
+      "title": "約束の続き",
+      "date": "2020-06-19",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%B6%9A%E3%81%8D-single/1516451185?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%B6%9A%E3%81%8D-single/1516451185?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 約束の続き - Single",
+          "source": "https://music.apple.com/jp/album/%E7%B4%84%E6%9D%9F%E3%81%AE%E7%B6%9A%E3%81%8D-single/1516451185?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/59/1d/21/591d21f5-77f0-b70b-8afc-5c2b6497169f/859755882887_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "約束の続き",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E7%B4%84%E6%9D%9F%E3%81%AE%E7%B6%9A%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%A4%A9%E6%99%B4%E3%82%8C%EF%BC%81%E5%8E%9F%E5%AE%BF%20%E7%B4%84%E6%9D%9F%E3%81%AE%E7%B6%9A%E3%81%8D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1523217332",
+      "title": "だいきらいフューチャー",
+      "date": "2020-07-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%81%A0%E3%81%84%E3%81%8D%E3%82%89%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC-single/1523217332?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%A0%E3%81%84%E3%81%8D%E3%82%89%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC-single/1523217332?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · だいきらいフューチャー - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%A0%E3%81%84%E3%81%8D%E3%82%89%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC-single/1523217332?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b9/37/ad/b937ad96-1c94-d9b8-1bb6-93359a71fbc6/859755983713_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "だいきらいフューチャー",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%A0%E3%81%84%E3%81%8D%E3%82%89%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%A0%E3%81%84%E3%81%8D%E3%82%89%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1546108810",
+      "title": "2020",
+      "date": "2020-12-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/2020-single/1546108810?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/2020-single/1546108810?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 2020 - Single",
+          "source": "https://music.apple.com/jp/album/2020-single/1546108810?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/b3/83/1fb383e4-21db-b8c1-6f03-7ac2cfefea6d/859756478591_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "2020",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%202020%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%202020",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1557205655",
+      "title": "Appare!Parade",
+      "date": "2021-03-10",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/appare-parade/1557205655?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/appare-parade/1557205655?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Appare!Parade",
+          "source": "https://music.apple.com/jp/album/appare-parade/1557205655?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/b8/8e/32b88e51-6e7e-13fc-22c2-60731087dc1f/859756699415_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Overture",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20Overture%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20Overture",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "約束の続き",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E7%B4%84%E6%9D%9F%E3%81%AE%E7%B6%9A%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E7%B4%84%E6%9D%9F%E3%81%AE%E7%B6%9A%E3%81%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "だいきらいフューチャー",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%A0%E3%81%84%E3%81%8D%E3%82%89%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%A0%E3%81%84%E3%81%8D%E3%82%89%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "最高は終わらない",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%9C%80%E9%AB%98%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%9C%80%E9%AB%98%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "私たちは輝いているんだ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E8%BC%9D%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%82%93%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E8%BC%9D%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%82%93%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Girls Be Funky!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20Girls%20Be%20Funky%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20Girls%20Be%20Funky%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Appear on the stage",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20Appear%20on%20the%20stage%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20Appear%20on%20the%20stage",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "2020",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%202020%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%202020",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あっぱれ!正攻法",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%21%E6%AD%A3%E6%94%BB%E6%B3%95%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%82%E3%81%A3%E3%81%B1%E3%82%8C%21%E6%AD%A3%E6%94%BB%E6%B3%95",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ダフネ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%80%E3%83%95%E3%83%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%80%E3%83%95%E3%83%8D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1571900036",
+      "title": "僕らのワンダーランド",
+      "date": "2021-07-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E5%83%95%E3%82%89%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-ep/1571900036?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%83%95%E3%82%89%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-ep/1571900036?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 僕らのワンダーランド - EP",
+          "source": "https://music.apple.com/jp/album/%E5%83%95%E3%82%89%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-ep/1571900036?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/98/a7/f198a7fb-d77b-8523-d4df-9c7a240550f4/859757000524_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "僕らのワンダーランド",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サンダービバップ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%90%E3%83%83%E3%83%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%90%E3%83%83%E3%83%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファイヤースター",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕らのワンダーランド (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サンダービバップ (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%90%E3%83%83%E3%83%97%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%90%E3%83%83%E3%83%97%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ファイヤースター (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1615695178",
+      "title": "Appare!TOYBOX",
+      "date": "2022-03-28",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/appare-toybox/1615695178?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/appare-toybox/1615695178?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Appare!TOYBOX",
+          "source": "https://music.apple.com/jp/album/appare-toybox/1615695178?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1f/71/74/1f7174e3-cb65-0af2-bc45-6e2dd41f75b7/859758023676_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アッパレビバディ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%E3%83%93%E3%83%90%E3%83%87%E3%82%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%AC%E3%83%93%E3%83%90%E3%83%87%E3%82%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スカイラインファンファーレ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パヤパヤ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%91%E3%83%A4%E3%83%91%E3%83%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%91%E3%83%A4%E3%83%91%E3%83%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フレ!フレ!ヒーロー!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%95%E3%83%AC%21%E3%83%95%E3%83%AC%21%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%95%E3%83%AC%21%E3%83%95%E3%83%AC%21%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イロハニホヘトチリマセン",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A4%E3%83%AD%E3%83%8F%E3%83%8B%E3%83%9B%E3%83%98%E3%83%88%E3%83%81%E3%83%AA%E3%83%9E%E3%82%BB%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A4%E3%83%AD%E3%83%8F%E3%83%8B%E3%83%9B%E3%83%98%E3%83%88%E3%83%81%E3%83%AA%E3%83%9E%E3%82%BB%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アッパライナ (-2022 ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%A9%E3%82%A4%E3%83%8A%20%28-2022%20ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%A9%E3%82%A4%E3%83%8A%20%28-2022%20ver.-%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "原宿サニーデイ (-2022 ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%8E%9F%E5%AE%BF%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%20%28-2022%20ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%8E%9F%E5%AE%BF%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%20%28-2022%20ver.-%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ホットラブウィンター (-2022 ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%9B%E3%83%83%E3%83%88%E3%83%A9%E3%83%96%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%20%28-2022%20ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%9B%E3%83%83%E3%83%88%E3%83%A9%E3%83%96%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%20%28-2022%20ver.-%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "汽水ガール (-2022 ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%B1%BD%E6%B0%B4%E3%82%AC%E3%83%BC%E3%83%AB%20%28-2022%20ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%B1%BD%E6%B0%B4%E3%82%AC%E3%83%BC%E3%83%AB%20%28-2022%20ver.-%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Our Music (-2022 ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20Our%20Music%20%28-2022%20ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20Our%20Music%20%28-2022%20ver.-%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1617246636",
+      "title": "さんざめく",
+      "date": "2022-04-04",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%81%95%E3%82%93%E3%81%96%E3%82%81%E3%81%8F-single/1617246636?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%95%E3%82%93%E3%81%96%E3%82%81%E3%81%8F-single/1617246636?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · さんざめく - Single",
+          "source": "https://music.apple.com/jp/album/%E3%81%95%E3%82%93%E3%81%96%E3%82%81%E3%81%8F-single/1617246636?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d2/e9/d6/d2e9d6e6-c470-55c3-0d2f-aee3fc18092b/859758054311_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "さんざめく",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%95%E3%82%93%E3%81%96%E3%82%81%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%95%E3%82%93%E3%81%96%E3%82%81%E3%81%8F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1621215036",
+      "title": "Wai Wai ダンスフィーバー",
+      "date": "2022-04-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/wai-wai-%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-single/1621215036?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/wai-wai-%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-single/1621215036?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Wai Wai ダンスフィーバー - Single",
+          "source": "https://music.apple.com/jp/album/wai-wai-%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-single/1621215036?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fb/b1/7f/fbb17fff-d13a-67fd-4940-9d99bcb6fc1a/859758149666_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Wai Wai ダンスフィーバー",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20Wai%20Wai%20%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20Wai%20Wai%20%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1625118800",
+      "title": "絶対猛信デイドリーマー",
+      "date": "2022-05-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E7%B5%B6%E5%AF%BE%E7%8C%9B%E4%BF%A1%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC-single/1625118800?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%B5%B6%E5%AF%BE%E7%8C%9B%E4%BF%A1%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC-single/1625118800?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 絶対猛信デイドリーマー - Single",
+          "source": "https://music.apple.com/jp/album/%E7%B5%B6%E5%AF%BE%E7%8C%9B%E4%BF%A1%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC-single/1625118800?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/59/a0/c159a0e5-c0a7-f1bd-1970-ddb59b73cd75/859758271145_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "絶対猛信デイドリーマー",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E7%B5%B6%E5%AF%BE%E7%8C%9B%E4%BF%A1%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E7%B5%B6%E5%AF%BE%E7%8C%9B%E4%BF%A1%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1628754261",
+      "title": "サビからはじまるyoursong",
+      "date": "2022-06-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Byoursong-single/1628754261?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Byoursong-single/1628754261?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · サビからはじまるyoursong - Single",
+          "source": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Byoursong-single/1628754261?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/12/9c/e5/129ce5a6-045d-d02d-bf83-8e1c729bf00a/859758355197_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "サビからはじまるyoursong",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B5%E3%83%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Byoursong%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B5%E3%83%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Byoursong",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1633871409",
+      "title": "リセットGIRL",
+      "date": "2022-07-13",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88girl-single/1633871409?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88girl-single/1633871409?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · リセットGIRL - Single",
+          "source": "https://music.apple.com/jp/album/%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88girl-single/1633871409?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d9/e3/b6/d9e3b6c0-3ffe-febd-a5b1-7079cc78f3ff/859758459475_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "リセットGIRL",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88GIRL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88GIRL",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1633868533",
+      "title": "もうちょっと",
+      "date": "2022-07-13",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8-single/1633868533?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8-single/1633868533?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · もうちょっと - Single",
+          "source": "https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8-single/1633868533?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6b/6f/ba/6b6fba81-1f9e-d661-d761-ca126cbb468f/859758459314_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "もうちょっと",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%82%E3%81%86%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%82%E3%81%86%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1636173045",
+      "title": "激奏!アンサンブル",
+      "date": "2022-07-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E6%BF%80%E5%A5%8F-%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-single/1636173045?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%BF%80%E5%A5%8F-%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-single/1636173045?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 激奏!アンサンブル - Single",
+          "source": "https://music.apple.com/jp/album/%E6%BF%80%E5%A5%8F-%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-single/1636173045?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/52/b4/7f52b445-468a-c4b1-544e-6f40536142c8/859758504038_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "激奏!アンサンブル",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%BF%80%E5%A5%8F%21%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%BF%80%E5%A5%8F%21%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1645681075",
+      "title": "青いフレア",
+      "date": "2022-09-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E3%81%84%E3%83%95%E3%83%AC%E3%82%A2-single/1645681075?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E3%81%84%E3%83%95%E3%83%AC%E3%82%A2-single/1645681075?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青いフレア - Single",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E3%81%84%E3%83%95%E3%83%AC%E3%82%A2-single/1645681075?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/6c/ad/926caddf-60ab-1cd8-1df7-f9a5823ba2a8/859758700881_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青いフレア",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E9%9D%92%E3%81%84%E3%83%95%E3%83%AC%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E9%9D%92%E3%81%84%E3%83%95%E3%83%AC%E3%82%A2",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1645830723",
+      "title": "アガレ!",
+      "date": "2022-09-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%AC%E3%83%AC-single/1645830723?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%AC%E3%83%AC-single/1645830723?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · アガレ! - Single",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%AC%E3%83%AC-single/1645830723?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d2/50/c6/d250c633-4839-4ce6-1945-024ff4bf7e53/859758705299_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アガレ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A2%E3%82%AC%E3%83%AC%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A2%E3%82%AC%E3%83%AC%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1655487251",
+      "title": "Appare!Future",
+      "date": "2022-11-22",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/appare-future/1655487251?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/appare-future/1655487251?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Appare!Future",
+          "source": "https://music.apple.com/jp/album/appare-future/1655487251?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0c/b4/eb/0cb4eb5f-5387-660b-912c-7b660d83370a/4948722564539_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "さんざめく",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%95%E3%82%93%E3%81%96%E3%82%81%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%95%E3%82%93%E3%81%96%E3%82%81%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Wai Wai ダンスフィーバー",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20Wai%20Wai%20%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20Wai%20Wai%20%E3%83%80%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "絶対猛信デイドリーマー",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E7%B5%B6%E5%AF%BE%E7%8C%9B%E4%BF%A1%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E7%B5%B6%E5%AF%BE%E7%8C%9B%E4%BF%A1%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サビからはじまるyoursong",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B5%E3%83%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Byoursong%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B5%E3%83%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Byoursong",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "激奏!アンサンブル",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%BF%80%E5%A5%8F%21%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%BF%80%E5%A5%8F%21%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アガレ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A2%E3%82%AC%E3%83%AC%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A2%E3%82%AC%E3%83%AC%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青いフレア",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E9%9D%92%E3%81%84%E3%83%95%E3%83%AC%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E9%9D%92%E3%81%84%E3%83%95%E3%83%AC%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぱ ぴ ぷ ぺ POP!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%B1%20%E3%81%B4%20%E3%81%B7%20%E3%81%BA%20POP%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%B1%20%E3%81%B4%20%E3%81%B7%20%E3%81%BA%20POP%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1679771793",
+      "title": "Iikanji / Hatenko Cinderella",
+      "date": "2023-04-04",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/iikanji-hatenko-cinderella-single/1679771793?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/iikanji-hatenko-cinderella-single/1679771793?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Iikanji / Hatenko Cinderella - Single",
+          "source": "https://music.apple.com/jp/album/iikanji-hatenko-cinderella-single/1679771793?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b3/22/17/b3221736-dedb-be4b-3061-a5fa5ad7608b/4948722566267_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "いいかんじっ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%84%E3%81%84%E3%81%8B%E3%82%93%E3%81%98%E3%81%A3%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%84%E3%81%84%E3%81%8B%E3%82%93%E3%81%98%E3%81%A3%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "破天荒シンデレラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E7%A0%B4%E5%A4%A9%E8%8D%92%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E7%A0%B4%E5%A4%A9%E8%8D%92%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パーティーモンスター",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1703456000",
+      "title": "Summer Spit!/ Golden Time",
+      "date": "2023-08-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/summer-spit-golden-time-single/1703456000?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/summer-spit-golden-time-single/1703456000?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Summer Spit!/ Golden Time - Single",
+          "source": "https://music.apple.com/jp/album/summer-spit-golden-time-single/1703456000?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b2/ea/e4/b2eae44b-f755-6536-b5ae-de350d9d0b53/4948722570295_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Summer spit!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20Summer%20spit%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20Summer%20spit%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ゴールデンタイム",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なんとかなーれファンファーレ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%AA%E3%83%BC%E3%82%8C%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%AA%E3%83%BC%E3%82%8C%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1727718945",
+      "title": "Kibou No Hikari",
+      "date": "2024-01-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/kibou-no-hikari-single/1727718945?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kibou-no-hikari-single/1727718945?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kibou No Hikari - Single",
+          "source": "https://music.apple.com/jp/album/kibou-no-hikari-single/1727718945?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/74/ba/4674ba25-e95a-7386-b798-eef0e54febee/3617222473238_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "希望のヒカリ",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%B8%8C%E6%9C%9B%E3%81%AE%E3%83%92%E3%82%AB%E3%83%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%B8%8C%E6%9C%9B%E3%81%AE%E3%83%92%E3%82%AB%E3%83%AA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1737345440",
+      "title": "Mitaiken Be Alright!",
+      "date": "2024-03-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/mitaiken-be-alright-single/1737345440?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mitaiken-be-alright-single/1737345440?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Mitaiken Be Alright! - Single",
+          "source": "https://music.apple.com/jp/album/mitaiken-be-alright-single/1737345440?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5a/98/f75a983c-4dce-3321-5fca-59e48fa73481/0198448075855_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "未体験 Be Alright!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%9C%AA%E4%BD%93%E9%A8%93%20Be%20Alright%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%9C%AA%E4%BD%93%E9%A8%93%20Be%20Alright%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1739784560",
+      "title": "Sukida Majide",
+      "date": "2024-04-08",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/sukida-majide-single/1739784560?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sukida-majide-single/1739784560?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Sukida Majide - Single",
+          "source": "https://music.apple.com/jp/album/sukida-majide-single/1739784560?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/24/95/45249597-a374-34ff-9f82-b2cd401f1bb1/0198448144322_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "好きだ、まじで!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%80%81%E3%81%BE%E3%81%98%E3%81%A7%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%80%81%E3%81%BE%E3%81%98%E3%81%A7%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1745911258",
+      "title": "TokuchuHauteCoutureDance",
+      "date": "2024-05-13",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/tokuchuhautecouturedance-single/1745911258?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tokuchuhautecouturedance-single/1745911258?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · TokuchuHauteCoutureDance - Single",
+          "source": "https://music.apple.com/jp/album/tokuchuhautecouturedance-single/1745911258?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/db/a1/1adba188-8a13-b223-8840-c2e32c5f1601/0198448364942_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "特注オートクチュールダンス",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E7%89%B9%E6%B3%A8%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E7%89%B9%E6%B3%A8%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%82%B9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1753207744",
+      "title": "TaiyouSummer",
+      "date": "2024-06-23",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/taiyousummer-single/1753207744?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/taiyousummer-single/1753207744?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · TaiyouSummer - Single",
+          "source": "https://music.apple.com/jp/album/taiyousummer-single/1753207744?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/d9/98/1cd99829-94f2-4cd6-3ae0-8f348af1e448/0198448547819_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "太陽 SUMMER!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%A4%AA%E9%99%BD%20SUMMER%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%A4%AA%E9%99%BD%20SUMMER%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1754853534",
+      "title": "KimidakenoWonderland (-2024ver.-)",
+      "date": "2024-07-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/kimidakenowonderland-2024ver-single/1754853534?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kimidakenowonderland-2024ver-single/1754853534?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · KimidakenoWonderland (-2024ver.-) - Single",
+          "source": "https://music.apple.com/jp/album/kimidakenowonderland-2024ver-single/1754853534?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/17/7f/88177f94-12ce-1e8b-32b6-0c89bde6a92f/0198448600163_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "キミだけのワンダーランド (-2024ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%28-2024ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%28-2024ver.-%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1754853184",
+      "title": "Oshioshio",
+      "date": "2024-07-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/oshioshio-single/1754853184?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/oshioshio-single/1754853184?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Oshioshio - Single",
+          "source": "https://music.apple.com/jp/album/oshioshio-single/1754853184?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/73/e6/1073e65e-009e-ed32-e38a-e6f27590d88e/0198448600149_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "OSHIOSHIO",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20OSHIOSHIO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20OSHIOSHIO",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1759727685",
+      "title": "IssyouSumahoSawatteitaino",
+      "date": "2024-07-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/issyousumahosawatteitaino-single/1759727685?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/issyousumahosawatteitaino-single/1759727685?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · IssyouSumahoSawatteitaino - Single",
+          "source": "https://music.apple.com/jp/album/issyousumahosawatteitaino-single/1759727685?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/ae/d5/faaed545-b159-b698-4217-fa246230e237/0198448742689_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "一生スマホ触っていたいの♡",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E4%B8%80%E7%94%9F%E3%82%B9%E3%83%9E%E3%83%9B%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%84%E3%81%AE%E2%99%A1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E4%B8%80%E7%94%9F%E3%82%B9%E3%83%9E%E3%83%9B%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%84%E3%81%AE%E2%99%A1",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1762534095",
+      "title": "DaikaiseiBonvoyage",
+      "date": "2024-08-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/daikaiseibonvoyage-single/1762534095?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/daikaiseibonvoyage-single/1762534095?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · DaikaiseiBonvoyage - Single",
+          "source": "https://music.apple.com/jp/album/daikaiseibonvoyage-single/1762534095?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/b6/4a/0cb64a0a-021c-cdaf-6dc1-0de0538fc4f3/0198448824002_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "大快晴ボンボヤージュ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%A4%A7%E5%BF%AB%E6%99%B4%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A5%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%A4%A7%E5%BF%AB%E6%99%B4%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A5%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1772204187",
+      "title": "Sinfonia",
+      "date": "2024-10-06",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/sinfonia-single/1772204187?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sinfonia-single/1772204187?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Sinfonia - Single",
+          "source": "https://music.apple.com/jp/album/sinfonia-single/1772204187?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/11/1f/7e111f76-c012-4e5c-f2a3-84ae5be5b0e0/4571640172618_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "シンフォニア",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1779851852",
+      "title": "SinseikiHitParade",
+      "date": "2024-11-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/sinseikihitparade-single/1779851852?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sinseikihitparade-single/1779851852?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · SinseikiHitParade - Single",
+          "source": "https://music.apple.com/jp/album/sinseikihitparade-single/1779851852?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/f3/f6/c7f3f63a-8c3d-c5c2-a533-4744baa3b518/4571640431289_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "新世紀ヒットパレード",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%96%B0%E4%B8%96%E7%B4%80%E3%83%92%E3%83%83%E3%83%88%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%96%B0%E4%B8%96%E7%B4%80%E3%83%92%E3%83%83%E3%83%88%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1786789302",
+      "title": "Code Name:O.N.I.O.N",
+      "date": "2025-01-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/code-name-o-n-i-o-n-single/1786789302?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/code-name-o-n-i-o-n-single/1786789302?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Code Name:O.N.I.O.N - Single",
+          "source": "https://music.apple.com/jp/album/code-name-o-n-i-o-n-single/1786789302?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/17/ba/8a17ba49-e9e8-0135-a7b7-87d54eafaf81/4571640641008_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "コードネーム:O.N.I.O.N",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%8D%E3%83%BC%E3%83%A0%3AO.N.I.O.N%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%8D%E3%83%BC%E3%83%A0%3AO.N.I.O.N",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1802454739",
+      "title": "Appare!BonVoyage",
+      "date": "2025-03-18",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/appare-bonvoyage/1802454739?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/appare-bonvoyage/1802454739?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Appare!BonVoyage",
+          "source": "https://music.apple.com/jp/album/appare-bonvoyage/1802454739?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/cb/3e/27cb3e93-adcc-571f-a1b1-dd92b91a0446/4550706629457_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "未体験 Be Alright!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%9C%AA%E4%BD%93%E9%A8%93%20Be%20Alright%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%9C%AA%E4%BD%93%E9%A8%93%20Be%20Alright%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きだ、まじで!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%80%81%E3%81%BE%E3%81%98%E3%81%A7%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%80%81%E3%81%BE%E3%81%98%E3%81%A7%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "特注オートクチュールダンス",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E7%89%B9%E6%B3%A8%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E7%89%B9%E6%B3%A8%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "太陽 SUMMER!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%A4%AA%E9%99%BD%20SUMMER%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%A4%AA%E9%99%BD%20SUMMER%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一生スマホ触っていたいの♡",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E4%B8%80%E7%94%9F%E3%82%B9%E3%83%9E%E3%83%9B%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%84%E3%81%AE%E2%99%A1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E4%B8%80%E7%94%9F%E3%82%B9%E3%83%9E%E3%83%9B%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%84%E3%81%AE%E2%99%A1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "OSHIOSHIO",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20OSHIOSHIO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20OSHIOSHIO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シンフォニア",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "新世紀ヒットパレード",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%96%B0%E4%B8%96%E7%B4%80%E3%83%92%E3%83%83%E3%83%88%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%96%B0%E4%B8%96%E7%B4%80%E3%83%92%E3%83%83%E3%83%88%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コードネーム:O.N.I.O.N",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%8D%E3%83%BC%E3%83%A0%3AO.N.I.O.N%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%8D%E3%83%BC%E3%83%A0%3AO.N.I.O.N",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大快晴ボンボヤージュ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%A4%A7%E5%BF%AB%E6%99%B4%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A5%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%A4%A7%E5%BF%AB%E6%99%B4%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A5%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "汽水ガール (-Budokan Live ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%B1%BD%E6%B0%B4%E3%82%AC%E3%83%BC%E3%83%AB%20%28-Budokan%20Live%20ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%B1%BD%E6%B0%B4%E3%82%AC%E3%83%BC%E3%83%AB%20%28-Budokan%20Live%20ver.-%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キミだけのワンダーランド (-2024 ver.-)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%28-2024%20ver.-%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20%28-2024%20ver.-%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1816634776",
+      "title": "Daibakusou! Shubadokaan!",
+      "date": "2025-06-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/daibakusou-shubadokaan-single/1816634776?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/daibakusou-shubadokaan-single/1816634776?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Daibakusou! Shubadokaan! - Single",
+          "source": "https://music.apple.com/jp/album/daibakusou-shubadokaan-single/1816634776?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/1f/ef/9e1fef3d-e54a-5608-4203-371772b6d2fc/VICL-37776.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "大爆走!しゅばどかーん!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E5%A4%A7%E7%88%86%E8%B5%B0%21%E3%81%97%E3%82%85%E3%81%B0%E3%81%A9%E3%81%8B%E3%83%BC%E3%82%93%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E5%A4%A7%E7%88%86%E8%B5%B0%21%E3%81%97%E3%82%85%E3%81%B0%E3%81%A9%E3%81%8B%E3%83%BC%E3%82%93%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "本日は晴天なり",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%9C%AC%E6%97%A5%E3%81%AF%E6%99%B4%E5%A4%A9%E3%81%AA%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%9C%AC%E6%97%A5%E3%81%AF%E6%99%B4%E5%A4%A9%E3%81%AA%E3%82%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1846303854",
+      "title": "Harewatareashita!",
+      "date": "2025-10-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/harewatareashita-single/1846303854?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/harewatareashita-single/1846303854?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Harewatareashita! - Single",
+          "source": "https://music.apple.com/jp/album/harewatareashita-single/1846303854?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/a7/dc/a8a7dc09-0422-c6ae-2972-c556d0fd7627/4550713171185_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "晴れ渡れ明日!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E6%99%B4%E3%82%8C%E6%B8%A1%E3%82%8C%E6%98%8E%E6%97%A5%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E6%99%B4%E3%82%8C%E6%B8%A1%E3%82%8C%E6%98%8E%E6%97%A5%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1846277299",
+      "title": "Yell",
+      "date": "2025-10-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/yell-single/1846277299?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/yell-single/1846277299?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Yell - Single",
+          "source": "https://music.apple.com/jp/album/yell-single/1846277299?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/23/fb/3e23fb8b-b0f9-7e07-2f30-12a863bad985/4550713171147_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "YELL",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20YELL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20YELL",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1854686538",
+      "title": "Kinishinai!",
+      "date": "2025-12-10",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/kinishinai-single/1854686538?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kinishinai-single/1854686538?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kinishinai! - Single",
+          "source": "https://music.apple.com/jp/album/kinishinai-single/1854686538?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/ef/1f/afef1f1b-6709-492e-f701-b7aaf0526766/VEATP-44617.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "きにしないっ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%81%8D%E3%81%AB%E3%81%97%E3%81%AA%E3%81%84%E3%81%A3%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%81%8D%E3%81%AB%E3%81%97%E3%81%AA%E3%81%84%E3%81%A3%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1875775166",
+      "title": "Tomorrow Again",
+      "date": "2026-02-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/tomorrow-again-single/1875775166?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tomorrow-again-single/1875775166?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Tomorrow Again - Single",
+          "source": "https://music.apple.com/jp/album/tomorrow-again-single/1875775166?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/c2/df/0cc2df16-1db2-9a14-1754-fa9915f64a06/VEATP-45115.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "トゥモローアゲイン",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%83%88%E3%82%A5%E3%83%A2%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%B2%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%83%88%E3%82%A5%E3%83%A2%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%B2%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-1886366462",
+      "title": "Idolnoriyuu (Rei Asahina Solo)",
+      "date": "2026-03-23",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/idolnoriyuu-rei-asahina-solo-single/1886366462?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/idolnoriyuu-rei-asahina-solo-single/1886366462?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Idolnoriyuu (Rei Asahina Solo) - Single",
+          "source": "https://music.apple.com/jp/album/idolnoriyuu-rei-asahina-solo-single/1886366462?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/53/90/cf539016-5b38-3708-9709-28748e83233e/4550754585316_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アイドルの理由 (朝比奈れいソロ曲)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%AE%E7%90%86%E7%94%B1%20%28%E6%9C%9D%E6%AF%94%E5%A5%88%E3%82%8C%E3%81%84%E3%82%BD%E3%83%AD%E6%9B%B2%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%AE%E7%90%86%E7%94%B1%20%28%E6%9C%9D%E6%AF%94%E5%A5%88%E3%82%8C%E3%81%84%E3%82%BD%E3%83%AD%E6%9B%B2%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-6788199495",
+      "title": "KOKKAKU IDOL NIJIBE UNICORN",
+      "date": "2026-07-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/kokkaku-idol-nijibe-unicorn-single/6788199495?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kokkaku-idol-nijibe-unicorn-single/6788199495?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · KOKKAKU IDOL NIJIBE UNICORN - Single",
+          "source": "https://music.apple.com/jp/album/kokkaku-idol-nijibe-unicorn-single/6788199495?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/51/df/3f51df2b-cfdb-b9a6-4dd5-b010fb54f469/VEATP-45764.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "骨格アイドル♡虹ベユニコーン",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E9%AA%A8%E6%A0%BC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E2%99%A1%E8%99%B9%E3%83%99%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E9%AA%A8%E6%A0%BC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E2%99%A1%E8%99%B9%E3%83%99%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-6806903170",
+      "title": "Appaariya!",
+      "date": "2026-09-16",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/appaariya-single/6806903170?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/appaariya-single/6806903170?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Appaariya! - Single",
+          "source": "https://music.apple.com/jp/album/appaariya-single/6806903170?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/d6/61/bed661b2-74ba-1a1d-5f93-346ef3992db2/VEATP-45890.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アッパーリヤ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%BC%E3%83%AA%E3%83%A4%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%BC%E3%83%AA%E3%83%A4%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-6811709546",
+      "title": "KOKKAKU IDOL NIJIBE UNICORN",
+      "date": "2026-09-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/kokkaku-idol-nijibe-unicorn-single/6811709546?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kokkaku-idol-nijibe-unicorn-single/6811709546?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · KOKKAKU IDOL NIJIBE UNICORN - Single",
+          "source": "https://music.apple.com/jp/album/kokkaku-idol-nijibe-unicorn-single/6811709546?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/4d/fe/634dfed5-1e42-e4da-c67b-047c642096e3/VEATP-45891.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "骨格アイドル♡虹ベユニコーン",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E9%AA%A8%E6%A0%BC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E2%99%A1%E8%99%B9%E3%83%99%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E9%AA%A8%E6%A0%BC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E2%99%A1%E8%99%B9%E3%83%99%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アッパーリヤ!",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%BC%E3%83%AA%E3%83%A4%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%A2%E3%83%83%E3%83%91%E3%83%BC%E3%83%AA%E3%83%A4%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スターファインダー",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-6818704181",
+      "title": "A (Kara Hajimaru Monogatari) [Rei Asahina Solo]",
+      "date": "2026-10-05",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/a-kara-hajimaru-monogatari-rei-asahina-solo-single/6818704181?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/a-kara-hajimaru-monogatari-rei-asahina-solo-single/6818704181?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · A (Kara Hajimaru Monogatari) [Rei Asahina Solo] - Single",
+          "source": "https://music.apple.com/jp/album/a-kara-hajimaru-monogatari-rei-asahina-solo-single/6818704181?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/59/4e/68594eb5-79cf-2481-d1ab-37aff21637eb/4550795167762_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "「あ」からはじまる物語 (朝比奈れいソロ曲)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%80%8C%E3%81%82%E3%80%8D%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8B%E7%89%A9%E8%AA%9E%20%28%E6%9C%9D%E6%AF%94%E5%A5%88%E3%82%8C%E3%81%84%E3%82%BD%E3%83%AD%E6%9B%B2%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%80%8C%E3%81%82%E3%80%8D%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8B%E7%89%A9%E8%AA%9E%20%28%E6%9C%9D%E6%AF%94%E5%A5%88%E3%82%8C%E3%81%84%E3%82%BD%E3%83%AD%E6%9B%B2%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appare-6821541630",
+      "title": "Mei Mei Mei Mei ! (Mei Fujimiya Solo)",
+      "date": "2026-10-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese. Date e scaletta seguono questa edizione e possono differire dal CD. Anticipazioni a una traccia, singoli con B-side e versioni strumentali restano distinguibili.",
+      "source": "https://music.apple.com/jp/album/mei-mei-mei-mei-mei-fujimiya-solo-single/6821541630?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mei-mei-mei-mei-mei-fujimiya-solo-single/6821541630?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Mei Mei Mei Mei ! (Mei Fujimiya Solo) - Single",
+          "source": "https://music.apple.com/jp/album/mei-mei-mei-mei-mei-fujimiya-solo-single/6821541630?uo=4",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/ea/be/e1eabe8e-d97e-08de-4669-83046a40a2fe/4550795471630_cover.jpg/600x600bb.jpg",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "めいめいめいめい! (藤宮めいソロ曲)",
+                  "youtube": "https://www.youtube.com/results?search_query=Appare%21%20%E3%82%81%E3%81%84%E3%82%81%E3%81%84%E3%82%81%E3%81%84%E3%82%81%E3%81%84%21%20%28%E8%97%A4%E5%AE%AE%E3%82%81%E3%81%84%E3%82%BD%E3%83%AD%E6%9B%B2%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Appare%21%20%E3%82%81%E3%81%84%E3%82%81%E3%81%84%E3%82%81%E3%81%84%E3%82%81%E3%81%84%21%20%28%E8%97%A4%E5%AE%AE%E3%82%81%E3%81%84%E3%82%BD%E3%83%AD%E6%9B%B2%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo e formazione ufficiale",
+      "url": "https://appare-official.jp/profiles"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://appare-official.jp/discography"
+    },
+    {
+      "label": "Spotify · profilo del gruppo",
+      "url": "https://open.spotify.com/artist/3avXpwvPXKpP2AoUvd9pEe"
+    },
+    {
+      "label": "YouTube ufficiale",
+      "url": "https://www.youtube.com/channel/UCPL42OsAbFKs5M1QC_AHexg"
+    },
+    {
+      "label": "Apple Music JP · catalogo 1186679381",
+      "url": "https://music.apple.com/jp/artist/1186679381"
+    },
+    {
+      "label": "Apple Music JP · catalogo 1523215336",
+      "url": "https://music.apple.com/jp/artist/1523215336"
+    },
+    {
+      "label": "Victor · profilo e storia",
+      "url": "https://www.jvcmusic.co.jp/-/Profile/A029114.html"
+    }
+  ],
+  "excluded": []
+}
