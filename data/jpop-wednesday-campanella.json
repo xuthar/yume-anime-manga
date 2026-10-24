@@ -1,0 +1,2582 @@
+{
+  "artist": "Wednesday Campanella",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/wednesday-campanella/portrait.jpg",
+  "members": [],
+  "officialVideos": [
+    {
+      "id": "8tOIjOPZ5sA",
+      "title": "エジソン · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=8tOIjOPZ5sA",
+      "source": "https://www.youtube.com/watch?v=8tOIjOPZ5sA",
+      "author": "Wednesday Campanella · canale ufficiale"
+    },
+    {
+      "id": "A1oxh8Z-2ko",
+      "title": "シャクシャイン · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=A1oxh8Z-2ko",
+      "source": "https://www.youtube.com/watch?v=A1oxh8Z-2ko",
+      "author": "Wednesday Campanella · canale ufficiale"
+    },
+    {
+      "id": "oZ7qjq-L9oc",
+      "title": "スキピオ · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=oZ7qjq-L9oc",
+      "source": "https://www.youtube.com/watch?v=oZ7qjq-L9oc",
+      "author": "Wednesday Campanella · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "8tOIjOPZ5sA",
+      "title": "エジソン · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=8tOIjOPZ5sA",
+      "source": "https://www.youtube.com/watch?v=8tOIjOPZ5sA",
+      "author": "Wednesday Campanella · canale ufficiale"
+    },
+    {
+      "id": "A1oxh8Z-2ko",
+      "title": "シャクシャイン · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=A1oxh8Z-2ko",
+      "source": "https://www.youtube.com/watch?v=A1oxh8Z-2ko",
+      "author": "Wednesday Campanella · canale ufficiale"
+    },
+    {
+      "id": "oZ7qjq-L9oc",
+      "title": "スキピオ · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=oZ7qjq-L9oc",
+      "source": "https://www.youtube.com/watch?v=oZ7qjq-L9oc",
+      "author": "Wednesday Campanella · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "wednesday-campanella-658145622",
+      "title": "Crawl To Sakaagari",
+      "date": "2013-05-15",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/crawl-to-sakaagari/658145622?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/crawl-to-sakaagari/658145622?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Crawl To Sakaagari · 2013-05-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/e0/dc/27/e0dc27ea-ad29-bddd-6a78-86b589d6c210/asset.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/crawl-to-sakaagari/658145622?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "パフ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%91%E3%83%95%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%91%E3%83%95",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "お七",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8A%E4%B8%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8A%E4%B8%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ゴッホ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B4%E3%83%83%E3%83%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B4%E3%83%83%E3%83%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "テンテン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%83%B3%E3%83%86%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%83%B3%E3%83%86%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "浮雲",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B5%AE%E9%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B5%AE%E9%9B%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "名無しの権兵衛",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%90%8D%E7%84%A1%E3%81%97%E3%81%AE%E6%A8%A9%E5%85%B5%E8%A1%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%90%8D%E7%84%A1%E3%81%97%E3%81%AE%E6%A8%A9%E5%85%B5%E8%A1%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マチルダ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%81%E3%83%AB%E3%83%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%81%E3%83%AB%E3%83%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マルコ・ポーロ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ネロ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%8D%E3%83%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%8D%E3%83%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-730307849",
+      "title": "Rashomon",
+      "date": "2013-10-09",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/rashomon/730307849?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/rashomon/730307849?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Rashomon · 2013-10-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a6/77/c7/a677c793-28c5-7e75-c161-6b9baabf51ed/JK_s.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/rashomon/730307849?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "モノポリー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%83%8E%E3%83%9D%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%83%8E%E3%83%9D%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "素子",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%B4%A0%E5%AD%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%B4%A0%E5%AD%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "星一徹",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%98%9F%E4%B8%80%E5%BE%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%98%9F%E4%B8%80%E5%BE%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャア",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マリー・アントワネット",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%8D%E3%83%83%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%8D%E3%83%83%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アリババ神帝",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%83%90%E3%83%90%E7%A5%9E%E5%B8%9D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%83%90%E3%83%90%E7%A5%9E%E5%B8%9D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "不二子",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%8D%E4%BA%8C%E5%AD%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%8D%E4%BA%8C%E5%AD%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "竹久夢二",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%AB%B9%E4%B9%85%E5%A4%A2%E4%BA%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%AB%B9%E4%B9%85%E5%A4%A2%E4%BA%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-843658718",
+      "title": "Cinema Jack",
+      "date": "2014-03-19",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/cinema-jack/843658718?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/cinema-jack/843658718?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Cinema Jack · 2014-03-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/a7/8c/5e/a78c5e5e-6d33-c228-43dd-c33a0b395928/TRNW-0050_J.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/cinema-jack/843658718?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ミツコ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9F%E3%83%84%E3%82%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9F%E3%83%84%E3%82%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "二階堂マリ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%83%9E%E3%83%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%83%9E%E3%83%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "義経",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%BE%A9%E7%B5%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%BE%A9%E7%B5%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "モスラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%82%B9%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%82%B9%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラオウ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%82%AA%E3%82%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%82%AA%E3%82%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ダ・ヴィンチ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%80%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%80%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ニキータ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%8B%E3%82%AD%E3%83%BC%E3%82%BF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%8B%E3%82%AD%E3%83%BC%E3%82%BF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ランボー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%83%B3%E3%83%9C%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%83%B3%E3%83%9C%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1532436026",
+      "title": "安眠豆腐",
+      "date": "2014-06-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%AE%89%E7%9C%A0%E8%B1%86%E8%85%90-ep/1532436026?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%AE%89%E7%9C%A0%E8%B1%86%E8%85%90-ep/1532436026?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · 安眠豆腐 - EP · 2014-06-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/6f/7e/ab6f7e10-bb40-7625-d325-7244353455d4/4562166391980.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%AE%89%E7%9C%A0%E8%B1%86%E8%85%90-ep/1532436026?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "カンフー・レディー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AB%E3%83%B3%E3%83%95%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AB%E3%83%B3%E3%83%95%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "めぐる季節",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%81%E3%81%90%E3%82%8B%E5%AD%A3%E7%AF%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%81%E3%81%90%E3%82%8B%E5%AD%A3%E7%AF%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "月灯りふんわり落ちてくる夜",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%9C%88%E7%81%AF%E3%82%8A%E3%81%B5%E3%82%93%E3%82%8F%E3%82%8A%E8%90%BD%E3%81%A1%E3%81%A6%E3%81%8F%E3%82%8B%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%9C%88%E7%81%AF%E3%82%8A%E3%81%B5%E3%82%93%E3%82%8F%E3%82%8A%E8%90%BD%E3%81%A1%E3%81%A6%E3%81%8F%E3%82%8B%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "星めぐりの歌",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%98%9F%E3%82%81%E3%81%90%E3%82%8A%E3%81%AE%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%98%9F%E3%82%81%E3%81%90%E3%82%8A%E3%81%AE%E6%AD%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-929910099",
+      "title": "Watashi Wo Onigashima Ni Tsuretette",
+      "date": "2014-11-05",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/watashi-wo-onigashima-ni-tsuretette/929910099?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/watashi-wo-onigashima-ni-tsuretette/929910099?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Watashi Wo Onigashima Ni Tsuretette · 2014-11-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/87/52/af87523c-4c11-f060-90b5-70d9a8324c35/JK4th_R.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/watashi-wo-onigashima-ni-tsuretette/929910099?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "千利休",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%83%E5%88%A9%E4%BC%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%83%E5%88%A9%E4%BC%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "桃太郞",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%A1%83%E5%A4%AA%E9%83%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%A1%83%E5%A4%AA%E9%83%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エンゲル",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "チャイコフスキー 〈Interlude-ラモス-〉",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%A3%E3%82%A4%E3%82%B3%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC%20%E3%80%88Interlude-%E3%83%A9%E3%83%A2%E3%82%B9-%E3%80%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%A3%E3%82%A4%E3%82%B3%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC%20%E3%80%88Interlude-%E3%83%A9%E3%83%A2%E3%82%B9-%E3%80%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "インカ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A4%E3%83%B3%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A4%E3%83%B3%E3%82%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "デーメーテール",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%87%E3%83%BC%E3%83%A1%E3%83%BC%E3%83%86%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%87%E3%83%BC%E3%83%A1%E3%83%BC%E3%83%86%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ジャンヌダルク",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%8C%E3%83%80%E3%83%AB%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%8C%E3%83%80%E3%83%AB%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ドラキュラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%89%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%89%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%A9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-980198937",
+      "title": "Triathlon",
+      "date": "2015-04-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/triathlon-single/980198937?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/triathlon-single/980198937?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Triathlon - Single · 2015-04-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/79/34/ad/7934ad9c-23a9-2680-21a6-64a371a43767/JK_f_s_R.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/triathlon-single/980198937?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ディアブロ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナポレオン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ユタ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A6%E3%82%BF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A6%E3%82%BF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1058718735",
+      "title": "Zipangu",
+      "date": "2015-11-11",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/zipangu/1058718735?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/zipangu/1058718735?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Zipangu · 2015-11-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/eb/43/77/eb437721-9810-a594-e47b-6a33dbcfebbe/mzm.jfscttvu.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/zipangu/1058718735?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "シャクシャイン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%82%AF%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%82%AF%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "猪八戒",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%8C%AA%E5%85%AB%E6%88%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%8C%AA%E5%85%AB%E6%88%92",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "メデューサ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ツイッギー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%84%E3%82%A4%E3%83%83%E3%82%AE%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%84%E3%82%A4%E3%83%83%E3%82%AE%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ウランちゃん",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%83%A9%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%83%A9%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ライト兄弟",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%82%A4%E3%83%88%E5%85%84%E5%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%82%A4%E3%83%88%E5%85%84%E5%BC%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "小野妹子",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%B0%8F%E9%87%8E%E5%A6%B9%E5%AD%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%B0%8F%E9%87%8E%E5%A6%B9%E5%AD%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "西玉夫",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%A5%BF%E7%8E%89%E5%A4%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%A5%BF%E7%8E%89%E5%A4%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マッチ売りの少女",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%83%E3%83%81%E5%A3%B2%E3%82%8A%E3%81%AE%E5%B0%91%E5%A5%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%83%E3%83%81%E5%A3%B2%E3%82%8A%E3%81%AE%E5%B0%91%E5%A5%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1114924129",
+      "title": "UMA",
+      "date": "2016-06-22",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/uma/1114924129?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/uma/1114924129?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · UMA · 2016-06-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/28/6e/08286e20-b066-55fc-ad8b-9514c35fa3d4/190295954499.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/uma/1114924129?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "チュパカブラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%A5%E3%83%91%E3%82%AB%E3%83%96%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%A5%E3%83%91%E3%82%AB%E3%83%96%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ツチノコ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%84%E3%83%81%E3%83%8E%E3%82%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%84%E3%83%81%E3%83%8E%E3%82%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雪男イエティ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%9B%AA%E7%94%B7%E3%82%A4%E3%82%A8%E3%83%86%E3%82%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%9B%AA%E7%94%B7%E3%82%A4%E3%82%A8%E3%83%86%E3%82%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ユニコ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A6%E3%83%8B%E3%82%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A6%E3%83%8B%E3%82%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "フェニックス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バク",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "クラーケン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1164155754",
+      "title": "SUPERKID",
+      "date": "2016-11-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/superkid-single/1164155754?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/superkid-single/1164155754?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · SUPERKID - Single · 2016-11-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/dc/49/da/dc49da96-3236-ffe9-bf74-6b913738401c/190295889005.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/superkid-single/1164155754?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アラジン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カメハメハ大王",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F%E5%A4%A7%E7%8E%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F%E5%A4%A7%E7%8E%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "松尾芭蕉",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%9D%BE%E5%B0%BE%E8%8A%AD%E8%95%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%9D%BE%E5%B0%BE%E8%8A%AD%E8%95%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1185651591",
+      "title": "SUPERMAN",
+      "date": "2017-02-08",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/superman/1185651591?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/superman/1185651591?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · SUPERMAN · 2017-02-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/4c/b9/974cb946-49b4-32d3-a721-9108f3e0a525/190295861575.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/superman/1185651591?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アラジン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "坂本龍馬",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%9D%82%E6%9C%AC%E9%BE%8D%E9%A6%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%9D%82%E6%9C%AC%E9%BE%8D%E9%A6%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一休さん",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E4%BC%91%E3%81%95%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E4%BC%91%E3%81%95%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "オニャンコポン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AA%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%B3%E3%83%9D%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AA%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%B3%E3%83%9D%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "チンギス・ハン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%B3%E3%82%AE%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%B3%E3%82%AE%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "チャップリン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%A3%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%81%E3%83%A3%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "オードリー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カメハメハ大王",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F%E5%A4%A7%E7%8E%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AB%E3%83%A1%E3%83%8F%E3%83%A1%E3%83%8F%E5%A4%A7%E7%8E%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世阿弥",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%96%E9%98%BF%E5%BC%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%96%E9%98%BF%E5%BC%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アマノウズメ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%A6%E3%82%BA%E3%83%A1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%9E%E3%83%8E%E3%82%A6%E3%82%BA%E3%83%A1",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1231163510",
+      "title": "Melos",
+      "date": "2017-05-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/melos-single/1231163510?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/melos-single/1231163510?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Melos - Single · 2017-05-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/ed/fd/ec/edfdec42-c2ce-0661-d67f-1263ad7295ae/190295805142.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/melos-single/1231163510?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "メロス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%83%AD%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%83%AD%E3%82%B9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1244700745",
+      "title": "Ei Sei",
+      "date": "2017-06-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/ei-sei-single/1244700745?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ei-sei-single/1244700745?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Ei Sei - Single · 2017-06-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/8d/00/0a/8d000acd-50a1-f064-d86f-4f0f0d1e0fef/190295784546.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ei-sei-single/1244700745?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "嬴政",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%AC%B4%E6%94%BF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%AC%B4%E6%94%BF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1256418427",
+      "title": "Picasso",
+      "date": "2017-07-28",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/picasso-single/1256418427?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/picasso-single/1256418427?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Picasso - Single · 2017-07-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/99/0f/33/990f33fb-552a-3488-c070-56668c579387/190295764043.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/picasso-single/1256418427?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ピカソ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%94%E3%82%AB%E3%82%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%94%E3%82%AB%E3%82%BD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1305182740",
+      "title": "Gala",
+      "date": "2017-11-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/gala-single/1305182740?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/gala-single/1305182740?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Gala - Single · 2017-11-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/cc/66/7acc66b9-13fe-4c32-5f19-8c1f4737d080/190295714543.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/gala-single/1305182740?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ガラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AC%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AC%E3%83%A9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1322099988",
+      "title": "Edokko Doko Doko",
+      "date": "2018-01-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/edokko-doko-doko-single/1322099988?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/edokko-doko-doko-single/1322099988?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ・小錦八十吉・桂宮治・こどもたち(はるとも・けいと・ひなこ) · Edokko Doko Doko - Single · 2018-01-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/66/4e/10664ebd-481a-f4a5-738e-d26292455862/190295693589.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/edokko-doko-doko-single/1322099988?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "江戸っ子どこどこ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%E3%83%BB%E5%B0%8F%E9%8C%A6%E5%85%AB%E5%8D%81%E5%90%89%E3%83%BB%E6%A1%82%E5%AE%AE%E6%B2%BB%E3%83%BB%E3%81%93%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1%28%E3%81%AF%E3%82%8B%E3%81%A8%E3%82%82%E3%83%BB%E3%81%91%E3%81%84%E3%81%A8%E3%83%BB%E3%81%B2%E3%81%AA%E3%81%93%29%20%E6%B1%9F%E6%88%B8%E3%81%A3%E5%AD%90%E3%81%A9%E3%81%93%E3%81%A9%E3%81%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%E3%83%BB%E5%B0%8F%E9%8C%A6%E5%85%AB%E5%8D%81%E5%90%89%E3%83%BB%E6%A1%82%E5%AE%AE%E6%B2%BB%E3%83%BB%E3%81%93%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1%28%E3%81%AF%E3%82%8B%E3%81%A8%E3%82%82%E3%83%BB%E3%81%91%E3%81%84%E3%81%A8%E3%83%BB%E3%81%B2%E3%81%AA%E3%81%93%29%20%E6%B1%9F%E6%88%B8%E3%81%A3%E5%AD%90%E3%81%A9%E3%81%93%E3%81%A9%E3%81%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1356186844",
+      "title": "Galapagos",
+      "date": "2018-06-17",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/galapagos/1356186844?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/galapagos/1356186844?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Galapagos · 2018-06-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a4/07/cd/a407cd6e-21cb-a9bd-00e2-0da7b5736f1c/190295655204.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/galapagos/1356186844?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "かぐや姫",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8B%E3%81%90%E3%82%84%E5%A7%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8B%E3%81%90%E3%82%84%E5%A7%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "南方熊楠",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ピカソ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%94%E3%82%AB%E3%82%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%94%E3%82%AB%E3%82%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "メロス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%83%AD%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%83%AD%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マトリョーシカ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20Moodo%C3%AFd%20%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%83%BC%E3%82%B7%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20Moodo%C3%AFd%20%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%83%BC%E3%82%B7%E3%82%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "見ざる聞かざる言わざる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%A6%8B%E3%81%96%E3%82%8B%E8%81%9E%E3%81%8B%E3%81%96%E3%82%8B%E8%A8%80%E3%82%8F%E3%81%96%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%A6%8B%E3%81%96%E3%82%8B%E8%81%9E%E3%81%8B%E3%81%96%E3%82%8B%E8%A8%80%E3%82%8F%E3%81%96%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛しいものたちへ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%84%9B%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%9F%E3%81%A1%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%84%9B%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%9F%E3%81%A1%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キイロのうた",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%82%A4%E3%83%AD%E3%81%AE%E3%81%86%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%82%A4%E3%83%AD%E3%81%AE%E3%81%86%E3%81%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1395914844",
+      "title": "Neko Wa Dakumono (Original Motion Picture Soundtrack)",
+      "date": "2018-06-22",
+      "kind": "soundtrack",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/neko-wa-dakumono-original-motion-picture-soundtrack/1395914844?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/neko-wa-dakumono-original-motion-picture-soundtrack/1395914844?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Neko Wa Dakumono (Original Motion Picture Soundtrack) · 2018-06-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/78/41/bd/7841bd1a-7b1e-1576-64ff-dbcca8e8ebda/190295606800.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/neko-wa-dakumono-original-motion-picture-soundtrack/1395914844?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "メインテーマ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ねこすて橋",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%AD%E3%81%93%E3%81%99%E3%81%A6%E6%A9%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%AD%E3%81%93%E3%81%99%E3%81%A6%E6%A9%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "日常",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%97%A5%E5%B8%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%97%A5%E5%B8%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "沙織の妄想",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B2%99%E7%B9%94%E3%81%AE%E5%A6%84%E6%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B2%99%E7%B9%94%E3%81%AE%E5%A6%84%E6%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "本当にあった!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%82%E3%81%A3%E3%81%9F%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%82%E3%81%A3%E3%81%9F%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕が守らなきゃ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%83%95%E3%81%8C%E5%AE%88%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%83%95%E3%81%8C%E5%AE%88%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕は人間だよ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%83%95%E3%81%AF%E4%BA%BA%E9%96%93%E3%81%A0%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%83%95%E3%81%AF%E4%BA%BA%E9%96%93%E3%81%A0%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "沙織との出会い",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B2%99%E7%B9%94%E3%81%A8%E3%81%AE%E5%87%BA%E4%BC%9A%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B2%99%E7%B9%94%E3%81%A8%E3%81%AE%E5%87%BA%E4%BC%9A%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたは猫です",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%99%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%99",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "過去のトラウマ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%88%E3%83%A9%E3%82%A6%E3%83%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%88%E3%83%A9%E3%82%A6%E3%83%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "お前たちは自由だ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8A%E5%89%8D%E3%81%9F%E3%81%A1%E3%81%AF%E8%87%AA%E7%94%B1%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8A%E5%89%8D%E3%81%9F%E3%81%A1%E3%81%AF%E8%87%AA%E7%94%B1%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キイロのうた",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%82%A4%E3%83%AD%E3%81%AE%E3%81%86%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%82%A4%E3%83%AD%E3%81%AE%E3%81%86%E3%81%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ごめんね",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "沙織と良男",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B2%99%E7%B9%94%E3%81%A8%E8%89%AF%E7%94%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%B2%99%E7%B9%94%E3%81%A8%E8%89%AF%E7%94%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マヨイガのうた",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%A8%E3%82%A4%E3%82%AC%E3%81%AE%E3%81%86%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%A8%E3%82%A4%E3%82%AC%E3%81%AE%E3%81%86%E3%81%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1469027850",
+      "title": "Out Of My Head (feat. 水曜日のカンパネラ)",
+      "date": "2018-08-03",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/out-of-my-head-feat-%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9-single/1469027850?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/out-of-my-head-feat-%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9-single/1469027850?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · CHVRCHES · Out Of My Head (feat. 水曜日のカンパネラ) - Single · 2018-08-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/12/4f/ee/124fee9d-a6cc-8fb1-bc5f-9fdee6d6e69e/4523132070230IT.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/out-of-my-head-feat-%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9-single/1469027850?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Out Of My Head (feat. 水曜日のカンパネラ)",
+                  "youtube": "https://www.youtube.com/results?search_query=CHVRCHES%20Out%20Of%20My%20Head%20%28feat.%20%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/CHVRCHES%20Out%20Of%20My%20Head%20%28feat.%20%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1439263411",
+      "title": "Survive Tokyo.",
+      "date": "2018-11-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/survive-tokyo-single/1439263411?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/survive-tokyo-single/1439263411?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ & yahyel · Survive Tokyo. - Single · 2018-11-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a9/a2/c6/a9a2c600-eade-7f82-b27b-c17353c6bbf6/190295525262.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/survive-tokyo-single/1439263411?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "生きろ。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20yahyel%20%E7%94%9F%E3%81%8D%E3%82%8D%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20yahyel%20%E7%94%9F%E3%81%8D%E3%82%8D%E3%80%82",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1443784180",
+      "title": "Langage (Remixes)",
+      "date": "2018-12-05",
+      "kind": "remix",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/langage-remixes/1443784180?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/langage-remixes/1443784180?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Moodoïd · Langage (Remixes) · 2018-12-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/72/f0/3772f06f-06e0-0d6a-3116-de2487323028/5060525438653_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/langage-remixes/1443784180?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Langage (Cola Boyy Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=Moodo%C3%AFd%20Langage%20%28Cola%20Boyy%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Moodo%C3%AFd%20Langage%20%28Cola%20Boyy%20Remix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Langage (Jun Kamoda Galaxy Express Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=Moodo%C3%AFd%20Langage%20%28Jun%20Kamoda%20Galaxy%20Express%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Moodo%C3%AFd%20Langage%20%28Jun%20Kamoda%20Galaxy%20Express%20Remix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Langage (Blogothèque Acoustic Mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=Moodo%C3%AFd%20Langage%20%28Blogoth%C3%A8que%20Acoustic%20Mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Moodo%C3%AFd%20Langage%20%28Blogoth%C3%A8que%20Acoustic%20Mix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1456739445",
+      "title": "Yakushima Treasure",
+      "date": "2019-04-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/yakushima-treasure-ep/1456739445?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/yakushima-treasure-ep/1456739445?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ & オオルタイチ · Yakushima Treasure - EP · 2019-04-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e8/cd/5a/e8cd5a28-3556-06ee-ce68-330e440a7798/190295446239.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/yakushima-treasure-ep/1456739445?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "地下の祭儀",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E5%9C%B0%E4%B8%8B%E3%81%AE%E7%A5%AD%E5%84%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E5%9C%B0%E4%B8%8B%E3%81%AE%E7%A5%AD%E5%84%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "島巡り",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E5%B3%B6%E5%B7%A1%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E5%B3%B6%E5%B7%A1%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "殯舟",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E6%AE%AF%E8%88%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E6%AE%AF%E8%88%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "東",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E6%9D%B1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E6%9D%B1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海に消えたあなた",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E6%B5%B7%E3%81%AB%E6%B6%88%E3%81%88%E3%81%9F%E3%81%82%E3%81%AA%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E6%B5%B7%E3%81%AB%E6%B6%88%E3%81%88%E3%81%9F%E3%81%82%E3%81%AA%E3%81%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "屋久の日月節",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E5%B1%8B%E4%B9%85%E3%81%AE%E6%97%A5%E6%9C%88%E7%AF%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%26%20%E3%82%AA%E3%82%AA%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%81%20%E5%B1%8B%E4%B9%85%E3%81%AE%E6%97%A5%E6%9C%88%E7%AF%80",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1479919084",
+      "title": "Tiny Tea Room",
+      "date": "2019-09-25",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/tiny-tea-room-single/1479919084?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tiny-tea-room-single/1479919084?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Ryan Hemsworth & 水曜日のカンパネラ · Tiny Tea Room - Single · 2019-09-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/20/af/57/20af57bc-ca7b-e72c-c337-198cab5fa4ad/5060384617299IT.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/tiny-tea-room-single/1479919084?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Tiny Tea Room",
+                  "youtube": "https://www.youtube.com/results?search_query=Ryan%20Hemsworth%20%26%20%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20Tiny%20Tea%20Room%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Ryan%20Hemsworth%20%26%20%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20Tiny%20Tea%20Room",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1590517716",
+      "title": "Alice / Buckingham",
+      "date": "2021-10-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/alice-buckingham-single/1590517716?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/alice-buckingham-single/1590517716?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Alice / Buckingham - Single · 2021-10-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/68/7c/79687c36-e69a-97c6-9ee0-a6bdaec1f61a/190296408717.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/alice-buckingham-single/1590517716?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アリス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バッキンガム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1607835069",
+      "title": "Maneki Neko / Edison",
+      "date": "2022-02-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/maneki-neko-edison-single/1607835069?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/maneki-neko-edison-single/1607835069?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Maneki Neko / Edison - Single · 2022-02-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/06/fa/8e06faa8-c6ea-b2da-845e-48e3792d1d26/190296248993.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/maneki-neko-edison-single/1607835069?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "招き猫",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%8B%9B%E3%81%8D%E7%8C%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%8B%9B%E3%81%8D%E7%8C%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エジソン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1618950375",
+      "title": "Neon",
+      "date": "2022-05-25",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/neon/1618950375?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/neon/1618950375?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Neon · 2022-05-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/bc/cb/a3bccb30-21a3-6da3-4c32-8d905cd54033/5054197143663.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/neon/1618950375?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "織姫",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%B9%94%E5%A7%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%B9%94%E5%A7%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "卑弥呼",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%91%E5%BC%A5%E5%91%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%91%E5%BC%A5%E5%91%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エジソン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一寸法師",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E5%AF%B8%E6%B3%95%E5%B8%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E5%AF%B8%E6%B3%95%E5%B8%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バッキンガム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アリス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "モヤイ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%83%A4%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%83%A4%E3%82%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "招き猫",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%8B%9B%E3%81%8D%E7%8C%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%8B%9B%E3%81%8D%E7%8C%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1648300607",
+      "title": "Tinker Bell / Hot Pot Commander",
+      "date": "2022-10-19",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/tinker-bell-hot-pot-commander-single/1648300607?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tinker-bell-hot-pot-commander-single/1648300607?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Tinker Bell / Hot Pot Commander - Single · 2022-10-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ed/d7/4b/edd74b69-7c3c-43f9-5e7a-1df954b88b25/5054197367427.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/tinker-bell-hot-pot-commander-single/1648300607?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ティンカーベル",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "鍋奉行",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%8D%8B%E5%A5%89%E8%A1%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%8D%8B%E5%A5%89%E8%A1%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1656196190",
+      "title": "Edison - From THE FIRST TAKE",
+      "date": "2022-12-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/edison-from-the-first-take-single/1656196190?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/edison-from-the-first-take-single/1656196190?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Edison - From THE FIRST TAKE - Single · 2022-12-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/b0/83/59b083ca-1d29-d42c-eb01-1a60a8971add/5054197459788.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/edison-from-the-first-take-single/1656196190?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "エジソン - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1656195633",
+      "title": "Buckingham - From THE FIRST TAKE",
+      "date": "2022-12-23",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/buckingham-from-the-first-take-single/1656195633?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/buckingham-from-the-first-take-single/1656195633?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Buckingham - From THE FIRST TAKE - Single · 2022-12-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/86/46/3c/86463ce1-f40f-76f0-95ed-7e261a425beb/5054197459795.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/buckingham-from-the-first-take-single/1656195633?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "バッキンガム - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1661735112",
+      "title": "Little Red Riding Hood",
+      "date": "2023-01-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/little-red-riding-hood-single/1661735112?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/little-red-riding-hood-single/1661735112?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Little Red Riding Hood - Single · 2023-01-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b7/7a/82/b77a827e-c088-ade3-ccfa-b8e3f39c2ab9/5054197496776.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/little-red-riding-hood-single/1661735112?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "赤ずきん",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1679823241",
+      "title": "RABBIT STAR ★",
+      "date": "2023-04-26",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/rabbit-star-ep/1679823241?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/rabbit-star-ep/1679823241?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · RABBIT STAR ★ - EP · 2023-04-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/9e/b3/6c9eb30e-80e7-3056-3a74-6a7a9c08ff6a/5054197619106.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/rabbit-star-ep/1679823241?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "赤ずきん",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "七福神",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%83%E7%A6%8F%E7%A5%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%83%E7%A6%8F%E7%A5%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "金剛力士像",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%87%91%E5%89%9B%E5%8A%9B%E5%A3%AB%E5%83%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%87%91%E5%89%9B%E5%8A%9B%E5%A3%AB%E5%83%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャドウ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "鍋奉行",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%8D%8B%E5%A5%89%E8%A1%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%8D%8B%E5%A5%89%E8%A1%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ティンカーベル",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1693242522",
+      "title": "Mermaid",
+      "date": "2023-07-05",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/mermaid-single/1693242522?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mermaid-single/1693242522?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Mermaid - Single · 2023-07-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/11/37/521137cb-a36f-b698-2454-ba2554299cad/5054197708800.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/mermaid-single/1693242522?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "マーメイド",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1709137139",
+      "title": "Prince Shoutoku",
+      "date": "2023-10-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/prince-shoutoku-single/1709137139?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/prince-shoutoku-single/1709137139?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Prince Shoutoku - Single · 2023-10-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/26/fc/0b26fc9d-5095-771d-f449-544f2d8ebb4a/5054197807534.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/prince-shoutoku-single/1709137139?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "聖徳太子",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1727348510",
+      "title": "Ghost and Writer",
+      "date": "2024-02-07",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/ghost-and-writer-single/1727348510?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ghost-and-writer-single/1727348510?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Ghost and Writer - Single · 2024-02-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/47/95/954795b8-939d-cd8e-3c5c-69b469700b36/5054197963698.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ghost-and-writer-single/1727348510?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "幽霊と作家",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%B9%BD%E9%9C%8A%E3%81%A8%E4%BD%9C%E5%AE%B6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%B9%BD%E9%9C%8A%E3%81%A8%E4%BD%9C%E5%AE%B6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1732041035",
+      "title": "TAMAMO-NO-MAE",
+      "date": "2024-03-13",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/tamamo-no-mae-single/1732041035?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tamamo-no-mae-single/1732041035?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · TAMAMO-NO-MAE - Single · 2024-03-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/d1/b4/98d1b431-db00-ecbb-348a-4e013ca6e1bf/5054197996894.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/tamamo-no-mae-single/1732041035?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "たまものまえ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%9F%E3%81%BE%E3%82%82%E3%81%AE%E3%81%BE%E3%81%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%9F%E3%81%BE%E3%82%82%E3%81%AE%E3%81%BE%E3%81%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1740294934",
+      "title": "POP DELIVERY",
+      "date": "2024-06-05",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/pop-delivery/1740294934?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/pop-delivery/1740294934?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · POP DELIVERY · 2024-06-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/91/7a/3d917ae2-7213-1dd1-97a0-738297ec4027/5021732278166.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/pop-delivery/1740294934?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "赤猫",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E7%8C%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E7%8C%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キャロライナ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "たまものまえ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%9F%E3%81%BE%E3%82%82%E3%81%AE%E3%81%BE%E3%81%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%9F%E3%81%BE%E3%82%82%E3%81%AE%E3%81%BE%E3%81%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "聖徳太子",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アルキメデス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AB%E3%82%AD%E3%83%A1%E3%83%87%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AB%E3%82%AD%E3%83%A1%E3%83%87%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マーメイド",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "幽霊と作家",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%B9%BD%E9%9C%8A%E3%81%A8%E4%BD%9C%E5%AE%B6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%B9%BD%E9%9C%8A%E3%81%A8%E4%BD%9C%E5%AE%B6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "四天王",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%9B%9B%E5%A4%A9%E7%8E%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%9B%9B%E5%A4%A9%E7%8E%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1762057229",
+      "title": "Charlotte",
+      "date": "2024-08-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/charlotte-single/1762057229?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/charlotte-single/1762057229?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Charlotte - Single · 2024-08-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/ab/4d/97ab4ded-2d8b-7d33-b379-db40d99ea9ac/5021732462893.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/charlotte-single/1762057229?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "シャルロッテ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%86",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1767783875",
+      "title": "NIPPON BUDOKAN LIVE METEOR SHOWER",
+      "date": "2024-09-25",
+      "kind": "live",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/nippon-budokan-live-meteor-shower/1767783875?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/nippon-budokan-live-meteor-shower/1767783875?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · NIPPON BUDOKAN LIVE METEOR SHOWER · 2024-09-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/a2/7c/12a27c70-8051-c231-4996-e5463743c6c0/5021732487346.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/nippon-budokan-live-meteor-shower/1767783875?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アリス (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%82%B9%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%AA%E3%82%B9%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バッキンガム (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AC%E3%83%A0%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャクシャイン (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%82%AF%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%82%AF%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラー (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%83%BC%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A9%E3%83%BC%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アラジン (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ディアブロ (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%AD%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%AD%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャドウ (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "聖徳太子 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "赤ずきん (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キャロライナ (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "織姫 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%B9%94%E5%A7%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E7%B9%94%E5%A7%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "卑弥呼 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%91%E5%BC%A5%E5%91%BC%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8D%91%E5%BC%A5%E5%91%BC%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "たまものまえ (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%9F%E3%81%BE%E3%82%82%E3%81%AE%E3%81%BE%E3%81%88%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%9F%E3%81%BE%E3%82%82%E3%81%AE%E3%81%BE%E3%81%88%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "かぐや姫 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8B%E3%81%90%E3%82%84%E5%A7%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%8B%E3%81%90%E3%82%84%E5%A7%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "モヤイ (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%83%A4%E3%82%A4%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%A2%E3%83%A4%E3%82%A4%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ティンカーベル (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%99%E3%83%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "桃太郎 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%A1%83%E5%A4%AA%E9%83%8E%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%A1%83%E5%A4%AA%E9%83%8E%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一休さん (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E4%BC%91%E3%81%95%E3%82%93%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E4%BC%91%E3%81%95%E3%82%93%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ツイッギー (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%84%E3%82%A4%E3%83%83%E3%82%AE%E3%83%BC%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%84%E3%82%A4%E3%83%83%E3%82%AE%E3%83%BC%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "金剛力士像 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%87%91%E5%89%9B%E5%8A%9B%E5%A3%AB%E5%83%8F%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%87%91%E5%89%9B%E5%8A%9B%E5%A3%AB%E5%83%8F%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一寸法師 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E5%AF%B8%E6%B3%95%E5%B8%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%80%E5%AF%B8%E6%B3%95%E5%B8%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マーメイド (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "七福神 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%83%E7%A6%8F%E7%A5%9E%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E4%B8%83%E7%A6%8F%E7%A5%9E%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エジソン (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A8%E3%82%B8%E3%82%BD%E3%83%B3%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "招き猫 (Live at NIPPON BUDOKAN, 2024.03.16)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%8B%9B%E3%81%8D%E7%8C%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%8B%9B%E3%81%8D%E7%8C%AB%20%28Live%20at%20NIPPON%20BUDOKAN%2C%202024.03.16%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1775282633",
+      "title": "So Many Wishes",
+      "date": "2024-11-13",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/so-many-wishes-single/1775282633?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/so-many-wishes-single/1775282633?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · So Many Wishes - Single · 2024-11-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/b8/4d/0ab84df1-32d0-20b1-40ff-515d09077393/5021732524577.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/so-many-wishes-single/1775282633?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "願いはぎょうさん",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%A1%98%E3%81%84%E3%81%AF%E3%81%8E%E3%82%87%E3%81%86%E3%81%95%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%A1%98%E3%81%84%E3%81%AF%E3%81%8E%E3%82%87%E3%81%86%E3%81%95%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1781656817",
+      "title": "Moving Point P",
+      "date": "2024-12-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/moving-point-p-single/1781656817?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/moving-point-p-single/1781656817?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Moving Point P - Single · 2024-12-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/64/e1/9264e1a5-0924-3556-1e31-9dd339982987/5021732555458.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/moving-point-p-single/1781656817?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "動く点P",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8B%95%E3%81%8F%E7%82%B9P%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8B%95%E3%81%8F%E7%82%B9P",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1802576580",
+      "title": "Summer Time Ghost",
+      "date": "2025-04-04",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/summer-time-ghost-single/1802576580?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/summer-time-ghost-single/1802576580?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Summer Time Ghost - Single · 2025-04-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/db/fd/d5dbfd34-5d59-3f0d-3d3f-1248ce02cf2c/5021732746672.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/summer-time-ghost-single/1802576580?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "サマータイムゴースト",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1814138832",
+      "title": "Chateaubriand",
+      "date": "2025-05-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/chateaubriand-single/1814138832?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/chateaubriand-single/1814138832?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Chateaubriand - Single · 2025-05-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/eb/33/a1eb33e1-3cfe-53f2-d6ab-b7e8864e0cf3/5021732808806.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/chateaubriand-single/1814138832?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "シャトーブリアン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E3%83%96%E3%83%AA%E3%82%A2%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E3%83%96%E3%83%AA%E3%82%A2%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1822241589",
+      "title": "Monster Island",
+      "date": "2025-07-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/monster-island-single/1822241589?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/monster-island-single/1822241589?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Monster Island - Single · 2025-07-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/41/8e/37418e35-e793-604a-2a21-5f814e3fd0aa/5021732850195.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/monster-island-single/1822241589?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "怪獣島",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%80%AA%E7%8D%A3%E5%B3%B6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%80%AA%E7%8D%A3%E5%B3%B6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1832685997",
+      "title": "Kawaii girl",
+      "date": "2025-09-24",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/kawaii-girl/1832685997?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kawaii-girl/1832685997?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Kawaii girl · 2025-09-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/9b/13/419b1301-57e6-71c2-aca3-0c115f237bf0/5021732953681.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kawaii-girl/1832685997?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ウォーアイニー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サマータイムゴースト",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャトーブリアン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E3%83%96%E3%83%AA%E3%82%A2%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E3%83%96%E3%83%AA%E3%82%A2%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "怪獣島",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%80%AA%E7%8D%A3%E5%B3%B6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E6%80%AA%E7%8D%A3%E5%B3%B6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "バタフライ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャルロッテ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "動く点P",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8B%95%E3%81%8F%E7%82%B9P%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E5%8B%95%E3%81%8F%E7%82%B9P",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "願いはぎょうさん",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%A1%98%E3%81%84%E3%81%AF%E3%81%8E%E3%82%87%E3%81%86%E3%81%95%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E9%A1%98%E3%81%84%E3%81%AF%E3%81%8E%E3%82%87%E3%81%86%E3%81%95%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1845028876",
+      "title": "wo ai ni",
+      "date": "2025-10-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/wo-ai-ni-single/1845028876?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/wo-ai-ni-single/1845028876?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · wo ai ni - Single · 2025-10-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/10/a1/3710a1c3-9d15-2475-f9f9-4314bc4decce/5026854100029.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/wo-ai-ni-single/1845028876?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ウォーアイニー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ウォーアイニー (Shinichi Osawa Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20%28Shinichi%20Osawa%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20%28Shinichi%20Osawa%20Remix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ウォーアイニー (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1848248436",
+      "title": "wo ai ni (Shinichi Osawa Remix)",
+      "date": "2025-10-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/wo-ai-ni-shinichi-osawa-remix-single/1848248436?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/wo-ai-ni-shinichi-osawa-remix-single/1848248436?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · wo ai ni (Shinichi Osawa Remix) - Single · 2025-10-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/18/a0/3f18a03e-7c84-c552-68a0-5951a6e876e1/5026854100029.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/wo-ai-ni-shinichi-osawa-remix-single/1848248436?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ウォーアイニー (Shinichi Osawa Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20%28Shinichi%20Osawa%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%8B%E3%83%BC%20%28Shinichi%20Osawa%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-1890430506",
+      "title": "Scipio",
+      "date": "2026-04-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/scipio-single/1890430506?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/scipio-single/1890430506?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Scipio - Single · 2026-04-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/87/e8/da87e8e7-c2a9-41c4-e61a-c7df4fc4f860/827568000583.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/scipio-single/1890430506?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "スキピオ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wednesday-campanella-6785348980",
+      "title": "Strawberry Got it (feat. Peanuts-Kun)",
+      "date": "2026-07-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/strawberry-got-it-feat-peanuts-kun-single/6785348980?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/strawberry-got-it-feat-peanuts-kun-single/6785348980?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 水曜日のカンパネラ · Strawberry Got it (feat. Peanuts-Kun) - Single · 2026-07-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/26/3a/7b263a9d-7b76-caa4-ba65-8ae7f585a1dc/1200214419943.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/strawberry-got-it-feat-peanuts-kun-single/6785348980?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "いちご Got it (feat. ピーナッツくん)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%84%E3%81%A1%E3%81%94%20Got%20it%20%28feat.%20%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84%E3%81%8F%E3%82%93%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B0%B4%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8D%E3%83%A9%20%E3%81%84%E3%81%A1%E3%81%94%20Got%20it%20%28feat.%20%E3%83%94%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84%E3%81%8F%E3%82%93%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unverified": [
+    {
+      "title": "Up Next Session: WEDNESDAY CAMPANELLA",
+      "url": "https://music.apple.com/jp/album/up-next-session-wednesday-campanella/1322100244?uo=4",
+      "reason": "Scaletta audio non verificabile nel catalogo consultato."
+    },
+    {
+      "title": "Akaneko - Single",
+      "url": "https://music.apple.com/jp/album/akaneko-single/1756496146?uo=4",
+      "reason": "Scaletta audio non verificabile nel catalogo consultato."
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Utaha",
+      "japanese": "詩羽",
+      "bio": "Voce e performance dal settembre 2021. È l’interprete della fase inaugurata da Alice / Buckingham."
+    },
+    {
+      "name": "Kenmochi Hidefumi",
+      "japanese": "ケンモチヒデフミ",
+      "bio": "Composizione e produzione musicale: costruisce i ritmi e le storie sonore del progetto."
+    },
+    {
+      "name": "Dir.F",
+      "japanese": "Dir.F",
+      "bio": "Direzione creativa e progettazione. Affianca la musica nella costruzione dell’identità del gruppo."
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://www.wed-camp.com/"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://wmg.jp/wedcamp/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://wmg.jp/wedcamp/discography/"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/658145772"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/channel/UCt30iKDSksaJ0hbd363ETfA"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+    },
+    {
+      "label": "Neon · EP e passaggio al CD",
+      "url": "https://wmg.jp/wedcamp/discography/27338"
+    },
+    {
+      "label": "Kawaii girl · quarto EP con Utaha",
+      "url": "https://wmg.jp/wedcamp/discography/31846"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}

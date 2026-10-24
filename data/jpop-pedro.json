@@ -1,0 +1,1533 @@
+{
+  "artist": "PEDRO",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/pedro/portrait.jpg",
+  "members": [],
+  "officialVideos": [
+    {
+      "id": "HXP6Yg92Wy8",
+      "title": "弱虫のうた · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=HXP6Yg92Wy8",
+      "source": "https://www.youtube.com/watch?v=HXP6Yg92Wy8",
+      "author": "PEDRO · canale ufficiale"
+    },
+    {
+      "id": "auZJZDrG6E0",
+      "title": "いたいのとんでけ · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=auZJZDrG6E0",
+      "source": "https://www.youtube.com/watch?v=auZJZDrG6E0",
+      "author": "PEDRO · canale ufficiale"
+    },
+    {
+      "id": "NIehxBw5HlM",
+      "title": "1999 · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=NIehxBw5HlM",
+      "source": "https://www.youtube.com/watch?v=NIehxBw5HlM",
+      "author": "PEDRO · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "HXP6Yg92Wy8",
+      "title": "弱虫のうた · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=HXP6Yg92Wy8",
+      "source": "https://www.youtube.com/watch?v=HXP6Yg92Wy8",
+      "author": "PEDRO · canale ufficiale"
+    },
+    {
+      "id": "auZJZDrG6E0",
+      "title": "いたいのとんでけ · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=auZJZDrG6E0",
+      "source": "https://www.youtube.com/watch?v=auZJZDrG6E0",
+      "author": "PEDRO · canale ufficiale"
+    },
+    {
+      "id": "NIehxBw5HlM",
+      "title": "1999 · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=NIehxBw5HlM",
+      "source": "https://www.youtube.com/watch?v=NIehxBw5HlM",
+      "author": "PEDRO · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "pedro-1435139639",
+      "title": "zoozoosea",
+      "date": "2018-09-19",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/zoozoosea/1435139639?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/zoozoosea/1435139639?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO [BiSH AYUNi D Solo Project] · zoozoosea · 2018-09-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/ed/d7/0fedd74d-2a03-ee19-d195-35151588eff4/ANTCD-29025.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/zoozoosea/1435139639?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ゴミ屑ロンリネス",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E3%82%B4%E3%83%9F%E5%B1%91%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%8D%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E3%82%B4%E3%83%9F%E5%B1%91%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%8D%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GALILEO",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20GALILEO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20GALILEO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "自律神経出張中",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "甘くないトーキョー",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MAD DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20MAD%20DANCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20MAD%20DANCE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハッピーに生きてくれ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%81%AB%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%8F%E3%82%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%81%AB%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%8F%E3%82%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "うた",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E3%81%86%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%5BBiSH%20AYUNi%20D%20Solo%20Project%5D%20%E3%81%86%E3%81%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1470002127",
+      "title": "Thumb Sucker",
+      "date": "2019-07-09",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/thumb-sucker/1470002127?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/thumb-sucker/1470002127?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Thumb Sucker · 2019-07-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/ef/6d/94ef6d5f-6289-dae4-0258-dfeda4d61dd2/19UMGIM51157.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/thumb-sucker/1470002127?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "猫背矯正中",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%8C%AB%E8%83%8C%E7%9F%AF%E6%AD%A3%E4%B8%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%8C%AB%E8%83%8C%E7%9F%AF%E6%AD%A3%E4%B8%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Dickins",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20Dickins%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20Dickins",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPID HERO",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20STUPID%20HERO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20STUPID%20HERO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NIGHT NIGHT",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20NIGHT%20NIGHT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20NIGHT%20NIGHT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SKYFISH GIRL",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20SKYFISH%20GIRL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20SKYFISH%20GIRL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "EDGE OF NINETEEN",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20EDGE%20OF%20NINETEEN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20EDGE%20OF%20NINETEEN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ボケナス青春",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%83%9C%E3%82%B1%E3%83%8A%E3%82%B9%E9%9D%92%E6%98%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%83%9C%E3%82%B1%E3%83%8A%E3%82%B9%E9%9D%92%E6%98%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おちこぼれブルース",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%8A%E3%81%A1%E3%81%93%E3%81%BC%E3%82%8C%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%8A%E3%81%A1%E3%81%93%E3%81%BC%E3%82%8C%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NOSTALGIC NOSTRADAMUS",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20NOSTALGIC%20NOSTRADAMUS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20NOSTALGIC%20NOSTRADAMUS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ironic baby",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20ironic%20baby%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20ironic%20baby",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "玄関物語",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%8E%84%E9%96%A2%E7%89%A9%E8%AA%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%8E%84%E9%96%A2%E7%89%A9%E8%AA%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アナタワールド",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%A2%E3%83%8A%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%A2%E3%83%8A%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラブというソング",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%83%A9%E3%83%96%E3%81%A8%E3%81%84%E3%81%86%E3%82%BD%E3%83%B3%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%83%A9%E3%83%96%E3%81%A8%E3%81%84%E3%81%86%E3%82%BD%E3%83%B3%E3%82%B0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1498738422",
+      "title": "Kanshou Ouka",
+      "date": "2020-02-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/kanshou-ouka-single/1498738422?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kanshou-ouka-single/1498738422?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Kanshou Ouka - Single · 2020-02-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/f6/cb/e6f6cb17-f4a4-536e-c126-e504341f2cd3/20UMGIM06982.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kanshou-ouka-single/1498738422?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "感傷謳歌",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%84%9F%E5%82%B7%E8%AC%B3%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%84%9F%E5%82%B7%E8%AC%B3%E6%AD%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1499916826",
+      "title": "Super Zoozoosea",
+      "date": "2020-03-06",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/super-zoozoosea/1499916826?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/super-zoozoosea/1499916826?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Super Zoozoosea · 2020-03-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4a/40/11/4a40114a-d706-57db-7a4b-fc7de37a155f/20UMGIM01131.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/super-zoozoosea/1499916826?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ゴミ屑ロンリネス",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%B4%E3%83%9F%E5%B1%91%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%8D%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%B4%E3%83%9F%E5%B1%91%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%8D%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GALILEO",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20GALILEO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20GALILEO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "自律神経出張中",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "甘くないトーキョー",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MAD DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20MAD%20DANCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20MAD%20DANCE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハッピーに生きてくれ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%81%AB%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%8F%E3%82%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%81%AB%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%8F%E3%82%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "うた",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%86%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%86%E3%81%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1500507115",
+      "title": "World Is Pain",
+      "date": "2020-03-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/world-is-pain-single/1500507115?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/world-is-pain-single/1500507115?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · World Is Pain - Single · 2020-03-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/eb/9e/4eeb9e6f-7205-0bcd-3f3c-ed59fdcdfa6e/20UMGIM06983.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/world-is-pain-single/1500507115?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "WORLD IS PAIN",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20WORLD%20IS%20PAIN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20WORLD%20IS%20PAIN",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1503264004",
+      "title": "Jiritsushinkei Shucchouchuu (2020 ver.)",
+      "date": "2020-04-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/jiritsushinkei-shucchouchuu-2020-ver-single/1503264004?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/jiritsushinkei-shucchouchuu-2020-ver-single/1503264004?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Jiritsushinkei Shucchouchuu (2020 ver.) - Single · 2020-04-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c7/5d/05/c75d0590-ed94-5630-0b48-a3f5753ad267/20UMGIM12685.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/jiritsushinkei-shucchouchuu-2020-ver-single/1503264004?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "自律神経出張中 (2020 ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD%20%282020%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD%20%282020%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1503430263",
+      "title": "Moumantai",
+      "date": "2020-04-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/moumantai-single/1503430263?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/moumantai-single/1503430263?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Moumantai - Single · 2020-04-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9a/34/26/9a342648-f50a-c4ad-1fbb-d491f278d0c9/20UMGIM06984.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/moumantai-single/1503430263?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "無問題",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%84%A1%E5%95%8F%E9%A1%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%84%A1%E5%95%8F%E9%A1%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1506118458",
+      "title": "Seikatsu Kakumei",
+      "date": "2020-04-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/seikatsu-kakumei-single/1506118458?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/seikatsu-kakumei-single/1506118458?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Seikatsu Kakumei - Single · 2020-04-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/15/99/06/15990607-bf63-90e2-075c-4ade1ad87ab6/20UMGIM06985.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/seikatsu-kakumei-single/1506118458?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "生活革命",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%94%9F%E6%B4%BB%E9%9D%A9%E5%91%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%94%9F%E6%B4%BB%E9%9D%A9%E5%91%BD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1507272123",
+      "title": "Shoudou Ningen Club (Extra Edition)",
+      "date": "2020-04-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/shoudou-ningen-club-extra-edition-ep/1507272123?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/shoudou-ningen-club-extra-edition-ep/1507272123?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Shoudou Ningen Club (Extra Edition) - EP · 2020-04-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7c/d2/e2/7cd2e221-ad0d-8007-c520-f8b4f731f4c3/20UMGIM06986.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/shoudou-ningen-club-extra-edition-ep/1507272123?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "感傷謳歌",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%84%9F%E5%82%B7%E8%AC%B3%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%84%9F%E5%82%B7%E8%AC%B3%E6%AD%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WORLD IS PAIN",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20WORLD%20IS%20PAIN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20WORLD%20IS%20PAIN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無問題",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%84%A1%E5%95%8F%E9%A1%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%84%A1%E5%95%8F%E9%A1%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "生活革命",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%94%9F%E6%B4%BB%E9%9D%A9%E5%91%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%94%9F%E6%B4%BB%E9%9D%A9%E5%91%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "自律神経出張中 (DOG IN CLASSROOM TOUR FINAL)",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD%20%28DOG%20IN%20CLASSROOM%20TOUR%20FINAL%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E8%87%AA%E5%BE%8B%E7%A5%9E%E7%B5%8C%E5%87%BA%E5%BC%B5%E4%B8%AD%20%28DOG%20IN%20CLASSROOM%20TOUR%20FINAL%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "猫背矯正中 (DOG IN CLASSROOM TOUR FINAL)",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%8C%AB%E8%83%8C%E7%9F%AF%E6%AD%A3%E4%B8%AD%20%28DOG%20IN%20CLASSROOM%20TOUR%20FINAL%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%8C%AB%E8%83%8C%E7%9F%AF%E6%AD%A3%E4%B8%AD%20%28DOG%20IN%20CLASSROOM%20TOUR%20FINAL%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1523577699",
+      "title": "Konaide World End",
+      "date": "2020-07-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/konaide-world-end-single/1523577699?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/konaide-world-end-single/1523577699?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Konaide World End - Single · 2020-07-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/cc/e7/26cce72f-87f4-fdfa-6568-bcabb81f9bb6/20UMGIM56383.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/konaide-world-end-single/1523577699?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "来ないでワールドエンド",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%9D%A5%E3%81%AA%E3%81%84%E3%81%A7%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%9D%A5%E3%81%AA%E3%81%84%E3%81%A7%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · PEDRO · Konaide World End - Single · 2020-08-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ef/84/35/ef843542-c2f9-3148-5867-35db38651d2d/20UMGIM56383.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/konaide-world-end-single/1525479887?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "来ないでワールドエンド",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%9D%A5%E3%81%AA%E3%81%84%E3%81%A7%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%9D%A5%E3%81%AA%E3%81%84%E3%81%A7%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "pistol in my hand",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20pistol%20in%20my%20hand%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20pistol%20in%20my%20hand",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1524593597",
+      "title": "Pistol in My Hand",
+      "date": "2020-08-05",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/pistol-in-my-hand-single/1524593597?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/pistol-in-my-hand-single/1524593597?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Pistol in My Hand - Single · 2020-08-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/00/64/16006482-f388-5c6f-00db-d7e2e0734fe1/20UMGIM56384.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/pistol-in-my-hand-single/1524593597?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "pistol in my hand",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20pistol%20in%20my%20hand%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20pistol%20in%20my%20hand",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1525914958",
+      "title": "Roman",
+      "date": "2020-08-25",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/roman/1525914958?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/roman/1525914958?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Roman · 2020-08-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/e8/86/2be88637-624e-eed5-45a9-45c95eaaac48/20UMGIM59198.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/roman/1525914958?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "来ないでワールドエンド",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%9D%A5%E3%81%AA%E3%81%84%E3%81%A7%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%9D%A5%E3%81%AA%E3%81%84%E3%81%A7%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "pistol in my hand",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20pistol%20in%20my%20hand%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20pistol%20in%20my%20hand",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "浪漫",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%B5%AA%E6%BC%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%B5%AA%E6%BC%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "後ろ指さす奴に中指立てる",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E5%BE%8C%E3%82%8D%E6%8C%87%E3%81%95%E3%81%99%E5%A5%B4%E3%81%AB%E4%B8%AD%E6%8C%87%E7%AB%8B%E3%81%A6%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E5%BE%8C%E3%82%8D%E6%8C%87%E3%81%95%E3%81%99%E5%A5%B4%E3%81%AB%E4%B8%AD%E6%8C%87%E7%AB%8B%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空っぽ人間",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%A9%BA%E3%81%A3%E3%81%BD%E4%BA%BA%E9%96%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%A9%BA%E3%81%A3%E3%81%BD%E4%BA%BA%E9%96%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さよならだけが人生だ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%A0%E3%81%91%E3%81%8C%E4%BA%BA%E7%94%9F%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%A0%E3%81%91%E3%81%8C%E4%BA%BA%E7%94%9F%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "乾杯",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E4%B9%BE%E6%9D%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E4%B9%BE%E6%9D%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛してるベイベー",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%83%99%E3%82%A4%E3%83%99%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B%E3%83%99%E3%82%A4%E3%83%99%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WORLD IS PAIN",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20WORLD%20IS%20PAIN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20WORLD%20IS%20PAIN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "感傷謳歌",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%84%9F%E5%82%B7%E8%AC%B3%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%84%9F%E5%82%B7%E8%AC%B3%E6%AD%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "へなちょこ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%B8%E3%81%AA%E3%81%A1%E3%82%87%E3%81%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%B8%E3%81%AA%E3%81%A1%E3%82%87%E3%81%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1547396092",
+      "title": "Nichijyou",
+      "date": "2021-01-16",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/nichijyou-single/1547396092?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/nichijyou-single/1547396092?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Nichijyou - Single · 2021-01-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/41/77/c3417738-3a34-5e34-3977-e7d5b543e465/20UM1IM16680.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/nichijyou-single/1547396092?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "日常",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%97%A5%E5%B8%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%97%A5%E5%B8%B8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1550584231",
+      "title": "Tokyo",
+      "date": "2021-02-10",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/tokyo-single/1550584231?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tokyo-single/1550584231?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Tokyo - Single · 2021-02-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ba/0d/57/ba0d57b9-ea6c-f795-ba1b-f4d7417b81b4/20UM1IM16679.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/tokyo-single/1550584231?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "東京",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%9D%B1%E4%BA%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%9D%B1%E4%BA%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "日常",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%97%A5%E5%B8%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%97%A5%E5%B8%B8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1552687853",
+      "title": "Teineina Kurashi",
+      "date": "2021-02-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/teineina-kurashi-single/1552687853?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/teineina-kurashi-single/1552687853?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Teineina Kurashi - Single · 2021-02-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a7/2e/59/a72e59c4-4533-b079-0ab2-07b31e2d86de/20UM1IM16683.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/teineina-kurashi-single/1552687853?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "丁寧な暮らし",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E4%B8%81%E5%AF%A7%E3%81%AA%E6%9A%AE%E3%82%89%E3%81%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E4%B8%81%E5%AF%A7%E3%81%AA%E6%9A%AE%E3%82%89%E3%81%97",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1577865993",
+      "title": "Natsu",
+      "date": "2021-08-06",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/natsu-single/1577865993?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/natsu-single/1577865993?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Natsu - Single · 2021-08-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/57/da/d3/57dad343-8588-7739-aec4-0354359ccf47/21UMGIM65837.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/natsu-single/1577865993?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "夏",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E5%A4%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E5%A4%8F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1692707863",
+      "title": "Gojitsu Aratamete Ukagaimashita",
+      "date": "2023-06-30",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/gojitsu-aratamete-ukagaimashita/1692707863?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/gojitsu-aratamete-ukagaimashita/1692707863?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Gojitsu Aratamete Ukagaimashita · 2023-06-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/94/33/51943337-9f88-cdf6-b3d0-2166887e916f/23UMGIM63031.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/gojitsu-aratamete-ukagaimashita/1692707863?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "さすらひ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%95%E3%81%99%E3%82%89%E3%81%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%95%E3%81%99%E3%82%89%E3%81%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "人",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "魔法",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E9%AD%94%E6%B3%95%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E9%AD%94%E6%B3%95",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "吸って、吐いて",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E5%90%B8%E3%81%A3%E3%81%A6%E3%80%81%E5%90%90%E3%81%84%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E5%90%B8%E3%81%A3%E3%81%A6%E3%80%81%E5%90%90%E3%81%84%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぶきっちょ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%B6%E3%81%8D%E3%81%A3%E3%81%A1%E3%82%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%B6%E3%81%8D%E3%81%A3%E3%81%A1%E3%82%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "死ぬ時も笑ってたいのよ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%AD%BB%E3%81%AC%E6%99%82%E3%82%82%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%9F%E3%81%84%E3%81%AE%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%AD%BB%E3%81%AC%E6%99%82%E3%82%82%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%9F%E3%81%84%E3%81%AE%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "安眠",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E5%AE%89%E7%9C%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E5%AE%89%E7%9C%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いっそ僕の知らない世界の道端でのたれ死んでください",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%84%E3%81%A3%E3%81%9D%E5%83%95%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AE%E9%81%93%E7%AB%AF%E3%81%A7%E3%81%AE%E3%81%9F%E3%82%8C%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%84%E3%81%A3%E3%81%9D%E5%83%95%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AE%E9%81%93%E7%AB%AF%E3%81%A7%E3%81%AE%E3%81%9F%E3%82%8C%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "万々歳",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E4%B8%87%E3%80%85%E6%AD%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E4%B8%87%E3%80%85%E6%AD%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おバカね",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%8A%E3%83%90%E3%82%AB%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%8A%E3%83%90%E3%82%AB%E3%81%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雪の街",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E9%9B%AA%E3%81%AE%E8%A1%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E9%9B%AA%E3%81%AE%E8%A1%97",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1698945496",
+      "title": "Tondeyuke",
+      "date": "2023-08-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/tondeyuke-single/1698945496?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tondeyuke-single/1698945496?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Tondeyuke - Single · 2023-08-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/dc/a7/5ddca72a-19ee-0031-4b5c-54db86d46ea2/23UMGIM80647.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/tondeyuke-single/1698945496?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "飛んでゆけ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E9%A3%9B%E3%82%93%E3%81%A7%E3%82%86%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E9%A3%9B%E3%82%93%E3%81%A7%E3%82%86%E3%81%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "手紙",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%89%8B%E7%B4%99%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%89%8B%E7%B4%99",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1699907268",
+      "title": "Roman (2023 Version)",
+      "date": "2023-08-19",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/roman-2023-version-single/1699907268?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/roman-2023-version-single/1699907268?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Roman (2023 Version) - Single · 2023-08-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/8f/d8/2c8fd839-f65d-78ef-1d17-52323ee7bc24/23UMGIM80651.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/roman-2023-version-single/1699907268?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "浪漫 (2023 ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%B5%AA%E6%BC%AB%20%282023%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%B5%AA%E6%BC%AB%20%282023%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1715261477",
+      "title": "Omomukumamani Inomukumamani",
+      "date": "2023-11-27",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/omomukumamani-inomukumamani/1715261477?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/omomukumamani-inomukumamani/1715261477?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Omomukumamani Inomukumamani · 2023-11-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/b0/2b/75b02b8f-d023-f251-e746-4d17b2935600/23UM1IM46519.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/omomukumamani-inomukumamani/1715261477?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "還る",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E9%82%84%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E9%82%84%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "グリーンハイツ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春夏秋冬",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "洗心",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%B4%97%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%B4%97%E5%BF%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "音楽",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E9%9F%B3%E6%A5%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E9%9F%B3%E6%A5%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナイスな方へ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%83%8A%E3%82%A4%E3%82%B9%E3%81%AA%E6%96%B9%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%83%8A%E3%82%A4%E3%82%B9%E3%81%AA%E6%96%B9%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "清く、正しく",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%B8%85%E3%81%8F%E3%80%81%E6%AD%A3%E3%81%97%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%B8%85%E3%81%8F%E3%80%81%E6%AD%A3%E3%81%97%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "赴くままに",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E8%B5%B4%E3%81%8F%E3%81%BE%E3%81%BE%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E8%B5%B4%E3%81%8F%E3%81%BE%E3%81%BE%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "飛んでゆけ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E9%A3%9B%E3%82%93%E3%81%A7%E3%82%86%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E9%A3%9B%E3%82%93%E3%81%A7%E3%82%86%E3%81%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "余生",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E4%BD%99%E7%94%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E4%BD%99%E7%94%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1765665670",
+      "title": "Hikari",
+      "date": "2024-09-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/hikari-single/1765665670?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hikari-single/1765665670?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Hikari - Single · 2024-09-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/fc/0a/22fc0a82-180b-cf85-143a-1f4aaca2051f/24UMGIM91018.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hikari-single/1765665670?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "愛せ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%84%9B%E3%81%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%84%9B%E3%81%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キスをしよう",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%AD%E3%82%B9%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%AD%E3%82%B9%E3%82%92%E3%81%97%E3%82%88%E3%81%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "明日天気になあれ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%98%8E%E6%97%A5%E5%A4%A9%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%82%E3%82%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%98%8E%E6%97%A5%E5%A4%A9%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%82%E3%82%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1770909815",
+      "title": "Iji",
+      "date": "2024-10-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/iji-single/1770909815?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/iji-single/1770909815?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Iji - Single · 2024-10-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/fa/32/aefa321a-46fa-7199-8421-08d2616e5681/24UM1IM03392.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/iji-single/1770909815?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "祝祭",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%A5%9D%E7%A5%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%A5%9D%E7%A5%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hope",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20hope%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20hope",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アンチ生活",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%A2%E3%83%B3%E3%83%81%E7%94%9F%E6%B4%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%A2%E3%83%B3%E3%83%81%E7%94%9F%E6%B4%BB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1774142511",
+      "title": "Iji To Hikari",
+      "date": "2024-11-06",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/iji-to-hikari/1774142511?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/iji-to-hikari/1774142511?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Iji To Hikari · 2024-11-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/9e/96/949e961b-1957-ed17-723b-2bd432e0ef71/24UM1IM03393.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/iji-to-hikari/1774142511?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アンチ生活",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%A2%E3%83%B3%E3%83%81%E7%94%9F%E6%B4%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%A2%E3%83%B3%E3%83%81%E7%94%9F%E6%B4%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラブリーベイビー",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%83%A9%E3%83%96%E3%83%AA%E3%83%BC%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%83%A9%E3%83%96%E3%83%AA%E3%83%BC%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "祝祭",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E7%A5%9D%E7%A5%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E7%A5%9D%E7%A5%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "明日天気になあれ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%98%8E%E6%97%A5%E5%A4%A9%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%82%E3%82%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%98%8E%E6%97%A5%E5%A4%A9%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%82%E3%82%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hope",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20hope%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20hope",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キスをしよう",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%AD%E3%82%B9%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%AD%E3%82%B9%E3%82%92%E3%81%97%E3%82%88%E3%81%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛せ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%84%9B%E3%81%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%84%9B%E3%81%9B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1797234399",
+      "title": "Beautiful Ne",
+      "date": "2025-03-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/beautiful-ne-single/1797234399?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/beautiful-ne-single/1797234399?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Beautiful Ne - Single · 2025-03-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/13/aa/9613aa02-cf1d-2a4c-955f-fd8487e89b9f/25UMGIM10774.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/beautiful-ne-single/1797234399?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "beautifulね",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20beautiful%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20beautiful%E3%81%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1821794801",
+      "title": "LoveLoveLoveLoveLove",
+      "date": "2025-07-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/lovelovelovelovelove-single/1821794801?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/lovelovelovelovelove-single/1821794801?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · LoveLoveLoveLoveLove - Single · 2025-07-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/16/3d/30163d61-31bf-e00c-907e-d5264d0e3b90/25UMGIM84066.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/lovelovelovelovelove-single/1821794801?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "愛愛愛愛愛",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%84%9B%E6%84%9B%E6%84%9B%E6%84%9B%E6%84%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%84%9B%E6%84%9B%E6%84%9B%E6%84%9B%E6%84%9B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1829651697",
+      "title": "Tiny Dawn",
+      "date": "2025-09-10",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/tiny-dawn-ep/1829651697?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tiny-dawn-ep/1829651697?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Tiny Dawn - EP · 2025-09-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/a4/ed/59a4edad-e4fe-b3b6-a7b1-674df96238f1/4522197160672.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/tiny-dawn-ep/1829651697?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "1999",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%201999%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%201999",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いたいのとんでけ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%84%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A8%E3%82%93%E3%81%A7%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%84%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A8%E3%82%93%E3%81%A7%E3%81%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ZAWAMEKI IN MY HEART",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20ZAWAMEKI%20IN%20MY%20HEART%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20ZAWAMEKI%20IN%20MY%20HEART",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "拝啓、僕へ",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%8B%9D%E5%95%93%E3%80%81%E5%83%95%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%8B%9D%E5%95%93%E3%80%81%E5%83%95%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "朝4時の革命",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E6%9C%9D4%E6%99%82%E3%81%AE%E9%9D%A9%E5%91%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E6%9C%9D4%E6%99%82%E3%81%AE%E9%9D%A9%E5%91%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ちっぽけな夜明け",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%81%A1%E3%81%A3%E3%81%BD%E3%81%91%E3%81%AA%E5%A4%9C%E6%98%8E%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%81%A1%E3%81%A3%E3%81%BD%E3%81%91%E3%81%AA%E5%A4%9C%E6%98%8E%E3%81%91",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-1879406605",
+      "title": "Yowamushi No Uta",
+      "date": "2026-03-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/yowamushi-no-uta-single/1879406605?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/yowamushi-no-uta-single/1879406605?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Yowamushi No Uta - Single · 2026-03-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/0d/c7/210dc7e3-2a9b-db2b-b917-aaf00b623834/4525853799094.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/yowamushi-no-uta-single/1879406605?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "弱虫のうた",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E5%BC%B1%E8%99%AB%E3%81%AE%E3%81%86%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E5%BC%B1%E8%99%AB%E3%81%AE%E3%81%86%E3%81%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pedro-6810022086",
+      "title": "Spotlight",
+      "date": "2026-09-23",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/spotlight-single/6810022086?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/spotlight-single/6810022086?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · PEDRO · Spotlight - Single · 2026-09-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/c1/de/60c1de11-60de-c988-a102-f8e0a4198fde/4525853879291.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/spotlight-single/6810022086?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "スポットライト",
+                  "youtube": "https://www.youtube.com/results?search_query=PEDRO%20%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/PEDRO%20%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unverified": [
+    {
+      "title": "Outta My Way - Single",
+      "url": "https://music.apple.com/jp/album/outta-my-way-single/1882319132?uo=4",
+      "reason": "Scaletta audio non verificabile nel catalogo consultato."
+    }
+  ],
+  "profiles": [],
+  "videoEditions": [
+    {
+      "title": "Life Is Hard Tour Final (Video Album)",
+      "url": "https://music.apple.com/jp/album/life-is-hard-tour-final-video-album/1545912203?uo=4",
+      "reason": "Scaletta audio non verificabile nel catalogo consultato."
+    },
+    {
+      "title": "Live At Nippon Budokan \"Seikatsuto Kioku\" (Video Album)",
+      "url": "https://music.apple.com/jp/album/live-at-nippon-budokan-seikatsuto-kioku-video-album/1569443265?uo=4",
+      "reason": "Scaletta audio non verificabile nel catalogo consultato."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://www.pedro.tokyo/"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://www.pedro.tokyo/feature/biography"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://www.pedro.tokyo/discography/"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/1436768783"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/channel/UCMlScRSfqovXpcg447emv4A"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
+    },
+    {
+      "label": "Primi album e pubblicazioni · Universal Music Japan",
+      "url": "https://www.universal-music.co.jp/pedro/discography/"
+    },
+    {
+      "label": "super zoozoosea · reincisione del debutto",
+      "url": "https://spice.eplus.jp/articles/249883"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}

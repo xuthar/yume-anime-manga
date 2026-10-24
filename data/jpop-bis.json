@@ -1,0 +1,3647 @@
+{
+  "artist": "BiS",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/bis/group.jpg",
+  "members": [],
+  "officialVideos": [
+    {
+      "id": "f3YN1Icxfms",
+      "title": "STUPiD · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=f3YN1Icxfms",
+      "source": "https://www.youtube.com/watch?v=f3YN1Icxfms",
+      "author": "BiS · canale ufficiale"
+    },
+    {
+      "id": "XtarppWsWLM",
+      "title": "LAZY DANCE · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=XtarppWsWLM",
+      "source": "https://www.youtube.com/watch?v=XtarppWsWLM",
+      "author": "BiS · canale ufficiale"
+    },
+    {
+      "id": "HqCm2cZnuyc",
+      "title": "DA DA DA DANCE SONG · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=HqCm2cZnuyc",
+      "source": "https://www.youtube.com/watch?v=HqCm2cZnuyc",
+      "author": "BiS · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "f3YN1Icxfms",
+      "title": "STUPiD · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=f3YN1Icxfms",
+      "source": "https://www.youtube.com/watch?v=f3YN1Icxfms",
+      "author": "BiS · canale ufficiale"
+    },
+    {
+      "id": "XtarppWsWLM",
+      "title": "LAZY DANCE · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=XtarppWsWLM",
+      "source": "https://www.youtube.com/watch?v=XtarppWsWLM",
+      "author": "BiS · canale ufficiale"
+    },
+    {
+      "id": "HqCm2cZnuyc",
+      "title": "DA DA DA DANCE SONG · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=HqCm2cZnuyc",
+      "source": "https://www.youtube.com/watch?v=HqCm2cZnuyc",
+      "author": "BiS · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "bis-424808752",
+      "title": "Brand-new idol Society · 2011",
+      "date": "2011-03-23",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/brand-new-idol-society/424808752?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/brand-new-idol-society/424808752?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Brand-new idol Society · 2011-03-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/e1/b5/23/mzi.avcqdcco.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/brand-new-idol-society/424808752?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Give me your love 全部",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Give%20me%20your%20love%20%E5%85%A8%E9%83%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Give%20me%20your%20love%20%E5%85%A8%E9%83%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "太陽のじゅもん",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%98%E3%82%85%E3%82%82%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%98%E3%82%85%E3%82%82%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パプリカ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Let me sleep",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Let%20me%20sleep%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Let%20me%20sleep",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サウザンボルト",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エレガントの怪物",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AE%E6%80%AA%E7%89%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AE%E6%80%AA%E7%89%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ティーンネイヂフレイバ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%8D%E3%82%A4%E3%83%82%E3%83%95%E3%83%AC%E3%82%A4%E3%83%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%8D%E3%82%A4%E3%83%82%E3%83%95%E3%83%AC%E3%82%A4%E3%83%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Spoon",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Spoon%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Spoon",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YELL!!",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20YELL%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20YELL%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "One day",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20One%20day%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20One%20day",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レリビ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%AC%E3%83%AA%E3%83%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%AC%E3%83%AA%E3%83%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-451696459",
+      "title": "My Ixxx",
+      "date": "2011-08-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/my-ixxx-ep/451696459?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/my-ixxx-ep/451696459?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · My Ixxx - EP · 2011-08-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/ac/f8/0d/mzi.iekyfsse.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/my-ixxx-ep/451696459?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "My Ixxx",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20My%20Ixxx%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20My%20Ixxx",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マグノリア",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%AA%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%AA%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "animal",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20animal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20animal",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スプリットブレインシンドローム",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%83%E3%83%88%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%83%E3%83%88%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "My Ixxx(S&L remix with palm)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20My%20Ixxx%28S%26L%20remix%20with%20palm%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20My%20Ixxx%28S%26L%20remix%20with%20palm%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-487610115",
+      "title": "primal.",
+      "date": "2011-12-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/primal-ep/487610115?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/primal-ep/487610115?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · primal. - EP · 2011-12-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/50/db/2e/mzi.ruedltit.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/primal-ep/487610115?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "primal.",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "eat it",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20eat%20it%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20eat%20it",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "KFC",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20KFC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20KFC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YAH YAH YAH",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20YAH%20YAH%20YAH%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20YAH%20YAH%20YAH",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "primal.(Alien Rabbitz Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.%28Alien%20Rabbitz%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.%28Alien%20Rabbitz%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-541802284",
+      "title": "PPCC",
+      "date": "2012-07-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/ppcc/541802284?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ppcc/541802284?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · PPCC · 2012-07-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f1/bb/7d/f1bb7d4c-9d78-53b8-0a68-9fe112db2d68/AVCD-48455.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ppcc/541802284?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "PPCC",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20PPCC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20PPCC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "歩行者天国の雑踏で 叫んでみたかったんだ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%AD%A9%E8%A1%8C%E8%80%85%E5%A4%A9%E5%9B%BD%E3%81%AE%E9%9B%91%E8%B8%8F%E3%81%A7%20%E5%8F%AB%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%AD%A9%E8%A1%8C%E8%80%85%E5%A4%A9%E5%9B%BD%E3%81%AE%E9%9B%91%E8%B8%8F%E3%81%A7%20%E5%8F%AB%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CRACK CRACK",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20CRACK%20CRACK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20CRACK%20CRACK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "survival dAnce 〜no no cry more〜",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20survival%20dAnce%20%E3%80%9Cno%20no%20cry%20more%E3%80%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20survival%20dAnce%20%E3%80%9Cno%20no%20cry%20more%E3%80%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PPCC -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20PPCC%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20PPCC%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "歩行者天国の雑踏で 叫んでみたかったんだ -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%AD%A9%E8%A1%8C%E8%80%85%E5%A4%A9%E5%9B%BD%E3%81%AE%E9%9B%91%E8%B8%8F%E3%81%A7%20%E5%8F%AB%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%AD%A9%E8%A1%8C%E8%80%85%E5%A4%A9%E5%9B%BD%E3%81%AE%E9%9B%91%E8%B8%8F%E3%81%A7%20%E5%8F%AB%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CRACK CRACK -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20CRACK%20CRACK%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20CRACK%20CRACK%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "survival dAnce 〜no no cry more〜 -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20survival%20dAnce%20%E3%80%9Cno%20no%20cry%20more%E3%80%9C%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20survival%20dAnce%20%E3%80%9Cno%20no%20cry%20more%E3%80%9C%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PPCC -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20PPCC%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20PPCC%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "歩行者天国の雑踏で 叫んでみたかったんだ -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%AD%A9%E8%A1%8C%E8%80%85%E5%A4%A9%E5%9B%BD%E3%81%AE%E9%9B%91%E8%B8%8F%E3%81%A7%20%E5%8F%AB%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%AD%A9%E8%A1%8C%E8%80%85%E5%A4%A9%E5%9B%BD%E3%81%AE%E9%9B%91%E8%B8%8F%E3%81%A7%20%E5%8F%AB%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CRACK CRACK -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20CRACK%20CRACK%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20CRACK%20CRACK%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "survival dAnce 〜no no cry more〜 -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20survival%20dAnce%20%E3%80%9Cno%20no%20cry%20more%E3%80%9C%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20survival%20dAnce%20%E3%80%9Cno%20no%20cry%20more%E3%80%9C%20-Instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-569140633",
+      "title": "IDOL is DEAD",
+      "date": "2012-10-24",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/idol-is-dead/569140633?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/idol-is-dead/569140633?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · IDOL is DEAD · 2012-10-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/da/6a/2c/da6a2c48-30ad-f6d3-f8eb-f87dc9b09f6e/AVCD-38572.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/idol-is-dead/569140633?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "IDOL is DEAD",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IDOL%20is%20DEAD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IDOL%20is%20DEAD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ASH",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ASH%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ASH",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PPCC",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20PPCC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20PPCC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BLEW",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BLEW%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BLEW",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CHELSEA",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20CHELSEA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20CHELSEA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Our Song",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Our%20Song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Our%20Song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "My Ixxx",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20My%20Ixxx%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20My%20Ixxx",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I wish I was SpecIaL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20I%20wish%20I%20was%20SpecIaL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20I%20wish%20I%20was%20SpecIaL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hitoribochi",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20hitoribochi%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20hitoribochi",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "IDOL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IDOL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IDOL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "urge over kill of love",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20urge%20over%20kill%20of%20love%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20urge%20over%20kill%20of%20love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "primal.",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-586894660",
+      "title": "GET YOU",
+      "date": "2013-01-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/get-you-ep/586894660?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/get-you-ep/586894660?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiSとDorothy Little Happy · GET YOU - EP · 2013-01-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3c/15/fa/3c15fab6-9dc2-db90-a486-c4ed8deac5f4/AVCD-48625.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/get-you-ep/586894660?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "GET YOU",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "デモサヨナラ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%87%E3%83%A2%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%87%E3%83%A2%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Song for a",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Song%20for%20a%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Song%20for%20a",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GET YOU -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "デモサヨナラ -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%87%E3%83%A2%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%87%E3%83%A2%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Song for a -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Song%20for%20a%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Song%20for%20a%20-Instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · BiSとDorothy Little Happy · GET YOU - EP · 2013-01-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/bf/7b/20/bf7b20ff-893c-0249-b96f-8808787c6761/AVCD-48626.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/get-you-ep/586945476?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "nerve",
+                  "youtube": "https://www.youtube.com/results?search_query=Dorothy%20Little%20Happy%20nerve%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Dorothy%20Little%20Happy%20nerve",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "壊れちゃう 崩れちゃう",
+                  "youtube": "https://www.youtube.com/results?search_query=Dorothy%20Little%20Happy%20%E5%A3%8A%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%20%E5%B4%A9%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Dorothy%20Little%20Happy%20%E5%A3%8A%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%20%E5%B4%A9%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GET YOU -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Dorothy%20Little%20Happy%20nerve%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Dorothy%20Little%20Happy%20nerve%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "壊れちゃう 崩れちゃう -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=Dorothy%20Little%20Happy%20%E5%A3%8A%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%20%E5%B4%A9%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Dorothy%20Little%20Happy%20%E5%A3%8A%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%20%E5%B4%A9%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%20-Instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-604891779",
+      "title": "BiSimulation",
+      "date": "2013-03-13",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/bisimulation-ep/604891779?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/bisimulation-ep/604891779?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · BiSimulation - EP · 2013-03-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/90/67/82/906782f0-2908-5fa4-aecd-570e5fa71800/AVCD-48642.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/bisimulation-ep/604891779?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BiSimulation",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSimulation%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSimulation",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hide out cut",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hide%20out%20cut%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hide%20out%20cut",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSimulation -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSimulation%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSimulation%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hide out cut -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hide%20out%20cut%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hide%20out%20cut%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSimulation -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSimulation%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSimulation%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hide out cut -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hide%20out%20cut%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hide%20out%20cut%20-Instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-657664532",
+      "title": "DiE",
+      "date": "2013-06-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/die-ep/657664532?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/die-ep/657664532?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · DiE - EP · 2013-06-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/bc/7b/44/bc7b44c3-bff4-6481-1a9a-800686052608/AVCD-48622.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/die-ep/657664532?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "DiE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MURA-MURA",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20MURA-MURA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20MURA-MURA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiE (Acappella)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiE%20%28Acappella%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiE%20%28Acappella%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MURA-MURA (Acappella)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20MURA-MURA%20%28Acappella%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20MURA-MURA%20%28Acappella%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiE (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiE%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiE%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MURA-MURA (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20MURA-MURA%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20MURA-MURA%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-694022226",
+      "title": "Fly / Hi",
+      "date": "2013-09-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/fly-hi-ep/694022226?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/fly-hi-ep/694022226?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Fly / Hi - EP · 2013-09-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/98/86/9b/98869b7e-fd7e-8c41-907a-e96e466b3844/AVCD-48754.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/fly-hi-ep/694022226?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Fly",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fly%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fly",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hi",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hi%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hi",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly (Acappella)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fly%20%28Acappella%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fly%20%28Acappella%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hi (Acappella)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hi%20%28Acappella%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hi%20%28Acappella%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fly%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fly%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hi (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hi%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hi%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-784290822",
+      "title": "STUPiG",
+      "date": "2014-01-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/stupig-ep/784290822?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/stupig-ep/784290822?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · STUPiG - EP · 2014-01-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/5b/4e/70/5b4e7043-22e6-0dd0-c031-19393f4a3068/AVCD-48839.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/stupig-ep/784290822?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "STUPiG",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STUPiG%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STUPiG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ODD FUTURE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ODD%20FUTURE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ODD%20FUTURE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPiG (Acappella)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STUPiG%20%28Acappella%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STUPiG%20%28Acappella%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ODD FUTURE (Acappella)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ODD%20FUTURE%20%28Acappella%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ODD%20FUTURE%20%28Acappella%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPiG (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STUPiG%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STUPiG%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ODD FUTURE (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ODD%20FUTURE%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ODD%20FUTURE%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-815544088",
+      "title": "WHO KiLLED IDOL?",
+      "date": "2014-03-05",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/who-killed-idol/815544088?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/who-killed-idol/815544088?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · WHO KiLLED IDOL? · 2014-03-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/82/4d/27/824d2720-6447-5a9d-a046-fbaba932ad58/ANTCD-10843.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/who-killed-idol/815544088?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "primal.2",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPiG",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STUPiG%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STUPiG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "no regret",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20no%20regret%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20no%20regret",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マグマト",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%9E%E3%82%B0%E3%83%9E%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%9E%E3%82%B0%E3%83%9E%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GET YOU",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%E3%81%A8Dorothy%20Little%20Happy%20GET%20YOU",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MURA-MURA",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20MURA-MURA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20MURA-MURA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MMGK",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20MMGK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20MMGK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSimulation",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSimulation%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSimulation",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ERROR",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ERROR%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ERROR",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nasty face",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nasty%20face%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nasty%20face",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fly%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fly",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hi",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hi%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hi",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hide out cut (WHO KiLLED IDOL? Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hide%20out%20cut%20%28WHO%20KiLLED%20IDOL%3F%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hide%20out%20cut%20%28WHO%20KiLLED%20IDOL%3F%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "プライマル。",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%AB%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%AB%E3%80%82",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-875698920",
+      "title": "FiNAL DANCE / nerve",
+      "date": "2014-05-28",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/final-dance-nerve-ep/875698920?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/final-dance-nerve-ep/875698920?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · FiNAL DANCE / nerve - EP · 2014-05-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/60/52/65/60526571-12d2-e409-bd77-98817feddee6/AVCD-83017.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/final-dance-nerve-ep/875698920?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "FiNAL DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FiNAL%20DANCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FiNAL%20DANCE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve (FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%20%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%20%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FiNAL DANCE -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FiNAL%20DANCE%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FiNAL%20DANCE%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve (FiNAL ver.) -Acappella-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%20%28FiNAL%20ver.%29%20-Acappella-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%20%28FiNAL%20ver.%29%20-Acappella-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FiNAL DANCE -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FiNAL%20DANCE%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FiNAL%20DANCE%20-Instrumental-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve (FiNAL ver.) -Instrumental-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%20%28FiNAL%20ver.%29%20-Instrumental-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%20%28FiNAL%20ver.%29%20-Instrumental-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-890354319",
+      "title": "うりゃおい!!!",
+      "date": "2014-07-02",
+      "kind": "compilation",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%86%E3%82%8A%E3%82%83%E3%81%8A%E3%81%84/890354319?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%86%E3%82%8A%E3%82%83%E3%81%8A%E3%81%84/890354319?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · うりゃおい!!! · 2014-07-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d2/23/9c/d2239ca6-0022-f665-c61c-72dbe2c6f20a/ANTCD-11927.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%86%E3%82%8A%E3%82%83%E3%81%8A%E3%81%84/890354319?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Give me your love 全部(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Give%20me%20your%20love%20%E5%85%A8%E9%83%A8%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Give%20me%20your%20love%20%E5%85%A8%E9%83%A8%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS(FiNAL Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS%28FiNAL%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS%28FiNAL%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "太陽のじゅもん(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%98%E3%82%85%E3%82%82%E3%82%93%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%98%E3%82%85%E3%82%82%E3%82%93%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レリビ(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%AC%E3%83%AA%E3%83%93%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%AC%E3%83%AA%E3%83%93%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "My Ixxx(FiNAL ver. )",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20My%20Ixxx%28FiNAL%20ver.%20%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20My%20Ixxx%28FiNAL%20ver.%20%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "primal.(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "IDOL(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IDOL%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IDOL%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PPCC(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20PPCC%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20PPCC%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSimulation(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSimulation%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSimulation%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiE(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiE%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiE%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fly%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fly%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPiG",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STUPiG%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STUPiG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "primal.2",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FiNAL DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FiNAL%20DANCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FiNAL%20DANCE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ただ泣いて(FiNAL ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%9F%E3%81%A0%E6%B3%A3%E3%81%84%E3%81%A6%28FiNAL%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%9F%E3%81%A0%E6%B3%A3%E3%81%84%E3%81%A6%28FiNAL%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "でんでんぱっしょん",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E3%81%B1%E3%81%A3%E3%81%97%E3%82%87%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E3%81%B1%E3%81%A3%E3%81%97%E3%82%87%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-994112884",
+      "title": "DJ MEGUMI'S BiS MiX",
+      "date": "2015-05-27",
+      "kind": "remix",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/dj-megumis-bis-mix/994112884?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/dj-megumis-bis-mix/994112884?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · DJ MEGUMI'S BiS MiX · 2015-05-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/55/70/7d/55707dfe-526b-dbd4-bff8-4672bc445b35/AVCD-93122.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/dj-megumis-bis-mix/994112884?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M01)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M01%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M01%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M02)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M02%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M02%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M03))",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M03%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M03%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M04)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M04%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M04%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M05)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M05%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M05%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M06)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%E9%9A%8E%E6%AE%B5%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M06%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%E9%9A%8E%E6%AE%B5%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M06%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M07)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M07%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M07%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M08)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M08%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M08%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M09)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M09%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M09%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M10)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M10%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M10%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M11)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M11%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M11%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M12)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M12%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M12%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M13)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M13%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M13%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "nerve(DJ MEGUMI'S BiS MiX M14)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M14%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20nerve%28DJ%20MEGUMI%27S%20BiS%20MiX%20M14%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "IDOL is DEAD",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IDOL%20is%20DEAD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IDOL%20is%20DEAD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "でんでんぱっしょん",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E3%81%B1%E3%81%A3%E3%81%97%E3%82%87%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E3%81%B1%E3%81%A3%E3%81%97%E3%82%87%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "IDOL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IDOL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IDOL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "デモサヨナラ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%87%E3%83%A2%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%87%E3%83%A2%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPiG",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%E9%9A%8E%E6%AE%B5%20STUPiG%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%E9%9A%8E%E6%AE%B5%20STUPiG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hitoribochi",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20hitoribochi%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20hitoribochi",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ODD FUTURE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ODD%20FUTURE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ODD%20FUTURE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Song for a",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Song%20for%20a%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Song%20for%20a",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ASH",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ASH%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ASH",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MMGK",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20MMGK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20MMGK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Give me your love 全部",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Give%20me%20your%20love%20%E5%85%A8%E9%83%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Give%20me%20your%20love%20%E5%85%A8%E9%83%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "survival dAnce ~no no cry more~",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20survival%20dAnce%20~no%20no%20cry%20more~%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20survival%20dAnce%20~no%20no%20cry%20more~",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PPCC",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20PPCC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20PPCC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パプリカ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "太陽のじゅもん",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%98%E3%82%85%E3%82%82%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%98%E3%82%85%E3%82%82%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "primal.2",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "豆腐",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E8%B1%86%E8%85%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E8%B1%86%E8%85%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hide out cut",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hide%20out%20cut%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hide%20out%20cut",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSimulation",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSimulation%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSimulation",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hi",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hi%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hi",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fly%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fly",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "My Ixxx",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20My%20Ixxx%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20My%20Ixxx",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FiNAL DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FiNAL%20DANCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FiNAL%20DANCE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I wish I was SpecIaL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20I%20wish%20I%20was%20SpecIaL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20I%20wish%20I%20was%20SpecIaL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レリビ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%AC%E3%83%AA%E3%83%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%AC%E3%83%AA%E3%83%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "primal.",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20primal.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20primal.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "挨拶",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%8C%A8%E6%8B%B6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%8C%A8%E6%8B%B6",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1528616247",
+      "title": "Brand-new idol Society2",
+      "date": "2016-11-16",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/brand-new-idol-society2/1528616247?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/brand-new-idol-society2/1528616247?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Brand-new idol Society2 · 2016-11-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/65/4f/c4654f88-5a58-9cd5-0044-0828e9ba8cbe/4562166394219.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/brand-new-idol-society2/1528616247?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Give me your love全部",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Give%20me%20your%20love%E5%85%A8%E9%83%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Give%20me%20your%20love%E5%85%A8%E9%83%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "My Ixxx",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20My%20Ixxx%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20My%20Ixxx",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Nerve",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Nerve%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Nerve",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Primal.",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Primal.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Primal.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSBiS",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSBiS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSBiS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Human after all",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Human%20after%20all%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Human%20after%20all",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "IDOL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IDOL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IDOL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Happy Birthday",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Happy%20Birthday%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Happy%20Birthday",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レリビ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%AC%E3%83%AA%E3%83%92%E3%82%99%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%AC%E3%83%AA%E3%83%92%E3%82%99",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Not Special",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Not%20Special%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Not%20Special",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "太陽のじゅもん",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%97%E3%82%99%E3%82%85%E3%82%82%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%A4%AA%E9%99%BD%E3%81%AE%E3%81%97%E3%82%99%E3%82%85%E3%82%82%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CHANGE the WORLD",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20CHANGE%20the%20WORLD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20CHANGE%20the%20WORLD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1528611655",
+      "title": "Re:STUPiD",
+      "date": "2017-02-22",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/re-stupid/1528611655?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/re-stupid/1528611655?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Re:STUPiD · 2017-02-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/83/ad/dd83ade3-c3b5-99b8-b7a0-71274de3e04f/4562166394301.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/re-stupid/1528611655?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "gives",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20gives%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20gives",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "twisted grunge",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20twisted%20grunge%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20twisted%20grunge",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ミステリアスホール",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SAY YES",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20SAY%20YES%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20SAY%20YES",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Never Starting Song",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Never%20Starting%20Song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Never%20Starting%20Song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NOT the END",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20NOT%20the%20END%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20NOT%20the%20END",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぎぶみあちょこれいと",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%8E%E3%81%B6%E3%81%BF%E3%81%82%E3%81%A1%E3%82%87%E3%81%93%E3%82%8C%E3%81%84%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%8E%E3%81%B6%E3%81%BF%E3%81%82%E3%81%A1%E3%82%87%E3%81%93%E3%82%8C%E3%81%84%E3%81%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ロミオの心臓",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%AD%E3%83%9F%E3%82%AA%E3%81%AE%E5%BF%83%E8%87%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%AD%E3%83%9F%E3%82%AA%E3%81%AE%E5%BF%83%E8%87%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "明日が来るなら",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%98%8E%E6%97%A5%E3%81%8C%E6%9D%A5%E3%82%8B%E3%81%AA%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%98%8E%E6%97%A5%E3%81%8C%E6%9D%A5%E3%82%8B%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NAKODUB",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20NAKODUB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20NAKODUB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1528610618",
+      "title": "SOCiALiSM",
+      "date": "2017-05-31",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/socialism-single/1528610618?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/socialism-single/1528610618?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · SOCiALiSM - Single · 2017-05-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/d2/87/bdd28720-1589-b987-c43b-7b4b56285ef8/4562166394431.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/socialism-single/1528610618?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "SOCiALiSM",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20SOCiALiSM%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20SOCiALiSM",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Did not",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Did%20not%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Did%20not",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1265691688",
+      "title": "I can't say NO!!!!!!!",
+      "date": "2017-08-16",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/i-cant-say-no-single/1265691688?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/i-cant-say-no-single/1265691688?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · I can't say NO!!!!!!! - Single · 2017-08-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c4/4c/dc/c44cdc72-4123-3012-45ca-f88af42add26/I_can_t_say_NO_itunes.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/i-cant-say-no-single/1265691688?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "I can't say NO!!!!!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20I%20can%27t%20say%20NO%21%21%21%21%21%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20I%20can%27t%20say%20NO%21%21%21%21%21%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fly",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fly%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fly",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1349574417",
+      "title": "WHOLE LOTTA LOVE/DiPROMiSE",
+      "date": "2018-03-07",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/whole-lotta-love-dipromise-ep/1349574417?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/whole-lotta-love-dipromise-ep/1349574417?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · WHOLE LOTTA LOVE/DiPROMiSE - EP · 2018-03-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cf/cd/5a/cfcd5a1f-8321-de4e-576d-697a56d63dd3/CRCP-10393.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/whole-lotta-love-dipromise-ep/1349574417?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "WHOLE LOTTA LOVE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20WHOLE%20LOTTA%20LOVE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20WHOLE%20LOTTA%20LOVE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiPROMiSE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiPROMiSE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiPROMiSE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WHOLE LOTTA LOVE(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20WHOLE%20LOTTA%20LOVE%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20WHOLE%20LOTTA%20LOVE%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiPROMiSE(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiPROMiSE%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiPROMiSE%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1394360190",
+      "title": "Don't miss it!!",
+      "date": "2018-07-04",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/dont-miss-it-ep/1394360190?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/dont-miss-it-ep/1394360190?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS1st · Don't miss it!! - EP · 2018-07-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/69/31/92/693192b1-a35b-7621-e3bb-a64118de53a5/CRCP-10404.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/dont-miss-it-ep/1394360190?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Don't miss it!!",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20Don%27t%20miss%20it%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20Don%27t%20miss%20it%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TiME OVER",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20TiME%20OVER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20TiME%20OVER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Don't miss it!!(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20Don%27t%20miss%20it%21%21%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20Don%27t%20miss%20it%21%21%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TiME OVER(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20TiME%20OVER%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20TiME%20OVER%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · BiS2nd · Don't miss it!! - EP · 2018-07-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/90/f1/a090f172-3015-14e9-2b73-96dfc2056979/CRCP-10405.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/dont-miss-it-ep/1394361551?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Don't miss it!!",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20Don%27t%20miss%20it%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20Don%27t%20miss%20it%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TiME OVER",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20TiME%20OVER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20TiME%20OVER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Don't miss it!!(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20Don%27t%20miss%20it%21%21%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20Don%27t%20miss%20it%21%21%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TiME OVER(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20TiME%20OVER%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20TiME%20OVER%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1440456507",
+      "title": "アゲンストザペイン【通常盤】",
+      "date": "2018-11-14",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3-%E9%80%9A%E5%B8%B8%E7%9B%A4-ep/1440456507?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3-%E9%80%9A%E5%B8%B8%E7%9B%A4-ep/1440456507?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS1st · アゲンストザペイン【通常盤】 - EP · 2018-11-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/77/a3/8a/77a38a31-d5ad-a9b3-4242-800c8dd9f3c8/CRCP-10417.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3-%E9%80%9A%E5%B8%B8%E7%9B%A4-ep/1440456507?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アゲンストザペイン",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YPP",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20YPP%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20YPP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アゲンストザペイン(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YPP(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS1st%20YPP%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS1st%20YPP%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · BiS2nd · アゲンストザペイン【通常盤】 - EP · 2018-11-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/48/db/77/48db7762-02ce-b808-120e-6c69c4b55114/CRCP-10418.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3-%E9%80%9A%E5%B8%B8%E7%9B%A4-ep/1440457771?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アゲンストザペイン",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YPP",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20YPP%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20YPP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アゲンストザペイン(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20%E3%82%A2%E3%82%B2%E3%83%B3%E3%82%B9%E3%83%88%E3%82%B6%E3%83%9A%E3%82%A4%E3%83%B3%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "YPP(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS2nd%20YPP%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS2nd%20YPP%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1455482537",
+      "title": "Are you ready?",
+      "date": "2019-03-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/are-you-ready/1455482537?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/are-you-ready/1455482537?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Are you ready? · 2019-03-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9c/8e/54/9c8e54b3-f7c9-19ca-b9d3-5b34cd73597e/CRCP-10424.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/are-you-ready/1455482537?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Are you ready?",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Are%20you%20ready%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Are%20you%20ready%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSBiS",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSBiS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSBiS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Are you ready?(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Are%20you%20ready%3F%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Are%20you%20ready%3F%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiSBiS(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiSBiS%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiSBiS%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1474051814",
+      "title": "Brand-new idol Society · 2019",
+      "date": "2019-08-14",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/brand-new-idol-society/1474051814?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/brand-new-idol-society/1474051814?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Brand-new idol Society · 2019-08-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c6/61/9f/c6619fca-db34-8062-34f6-80ae5f06a231/CRCP-40585.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/brand-new-idol-society/1474051814?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "STUPiD",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STUPiD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STUPiD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS-どうやらゾンビのおでまし-",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS-%E3%81%A9%E3%81%86%E3%82%84%E3%82%89%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%8A%E3%81%A7%E3%81%BE%E3%81%97-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS-%E3%81%A9%E3%81%86%E3%82%84%E3%82%89%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%8A%E3%81%A7%E3%81%BE%E3%81%97-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SURRENDER",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20SURRENDER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20SURRENDER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "リフレイン",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS3",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "this is not a love song",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20this%20is%20not%20a%20love%20song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20this%20is%20not%20a%20love%20song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "1,2,3!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%201%2C2%2C3%21%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%201%2C2%2C3%21%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "absolutely meeeeee!!",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20absolutely%20meeeeee%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20absolutely%20meeeeee%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナンデスカ?",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%E3%82%AB%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%E3%82%AB%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "thousand crickets",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20thousand%20crickets%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20thousand%20crickets",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "teacher teacher teacher",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20teacher%20teacher%20teacher%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20teacher%20teacher%20teacher",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "strawberry girl",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20strawberry%20girl%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20strawberry%20girl",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LET'S GO どうも",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LET%27S%20GO%20%E3%81%A9%E3%81%86%E3%82%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LET%27S%20GO%20%E3%81%A9%E3%81%86%E3%82%82",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · BiS · Brand-new idol Society (NEW TYPE Ver.) · 2020-01-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6b/05/db/6b05dbde-e72d-a3a2-485b-cbe821ab1450/NONPKG-12110900.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/brand-new-idol-society-new-type-ver/1492794865?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "リフレイン (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS3 (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS3%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS3%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "this is not a love song (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20this%20is%20not%20a%20love%20song%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20this%20is%20not%20a%20love%20song%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "1,2,3!!! (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%201%2C2%2C3%21%21%21%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%201%2C2%2C3%21%21%21%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "absolutely meeeeee!! (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20absolutely%20meeeeee%21%21%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20absolutely%20meeeeee%21%21%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナンデスカ? (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%E3%82%AB%3F%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%E3%82%AB%3F%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "thousand crickets (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20thousand%20crickets%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20thousand%20crickets%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "teacher teacher teacher (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20teacher%20teacher%20teacher%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20teacher%20teacher%20teacher%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "strawberry girl (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20strawberry%20girl%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20strawberry%20girl%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LET'S GO どうも (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LET%27S%20GO%20%E3%81%A9%E3%81%86%E3%82%82%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LET%27S%20GO%20%E3%81%A9%E3%81%86%E3%82%82%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "kAsAbutA (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20kAsAbutA%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20kAsAbutA%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Good Bye (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Good%20Bye%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Good%20Bye%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "少年の歌 (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%B0%91%E5%B9%B4%E3%81%AE%E6%AD%8C%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%B0%91%E5%B9%B4%E3%81%AE%E6%AD%8C%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1486539429",
+      "title": "DEAD or A LiME",
+      "date": "2019-11-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/dead-or-a-lime-ep/1486539429?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/dead-or-a-lime-ep/1486539429?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · DEAD or A LiME - EP · 2019-11-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f8/67/03/f8670385-2c82-d387-6c44-e050e8ec9d07/CRCP-10438.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/dead-or-a-lime-ep/1486539429?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "DEAD or A LiME",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DEAD%20or%20A%20LiME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DEAD%20or%20A%20LiME",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "テレフォン",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DEAD or A LiME(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DEAD%20or%20A%20LiME%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DEAD%20or%20A%20LiME%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "テレフォン(instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1491446975",
+      "title": "LOOKiE",
+      "date": "2020-01-05",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/lookie/1491446975?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/lookie/1491446975?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · LOOKiE · 2020-01-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a2/86/f1/a286f103-6824-06df-6ab5-5726d8522664/dj.qarxcgdy.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/lookie/1491446975?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "STUPiD (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STUPiD%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STUPiD%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BiS-どうやらゾンビのおでまし- (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BiS-%E3%81%A9%E3%81%86%E3%82%84%E3%82%89%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%8A%E3%81%A7%E3%81%BE%E3%81%97-%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BiS-%E3%81%A9%E3%81%86%E3%82%84%E3%82%89%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%8A%E3%81%A7%E3%81%BE%E3%81%97-%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SURRENDER (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20SURRENDER%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20SURRENDER%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TRAP",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20TRAP%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20TRAP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "KiSS MY ASS",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20KiSS%20MY%20ASS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20KiSS%20MY%20ASS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOVELY LOVELY",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LOVELY%20LOVELY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LOVELY%20LOVELY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BASKET BOX",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BASKET%20BOX%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BASKET%20BOX",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LAUGH AT ME",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LAUGH%20AT%20ME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LAUGH%20AT%20ME",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FUCKiNG OUT",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FUCKiNG%20OUT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FUCKiNG%20OUT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "テレフォン",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FOR ME",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FOR%20ME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FOR%20ME",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SPiLLED MiLK",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20SPiLLED%20MiLK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20SPiLLED%20MiLK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FOOL PROOF",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20FOOL%20PROOF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20FOOL%20PROOF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1521427325",
+      "title": "ANTi CONFORMiST SUPERSTAR",
+      "date": "2020-08-19",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/anti-conformist-superstar/1521427325?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/anti-conformist-superstar/1521427325?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · ANTi CONFORMiST SUPERSTAR · 2020-08-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a2/61/d9/a261d931-86d0-0bab-55b7-aa3ff520def0/CRCP-40605.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/anti-conformist-superstar/1521427325?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "DESTROY",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DESTROY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DESTROY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イミテーションセンセーション",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%A4%E3%83%9F%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%A4%E3%83%9F%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DiRTY and BEAUTY",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DiRTY%20and%20BEAUTY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DiRTY%20and%20BEAUTY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "IT'S TOO LATE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IT%27S%20TOO%20LATE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IT%27S%20TOO%20LATE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I WANT TO DiE!!!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20I%20WANT%20TO%20DiE%21%21%21%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20I%20WANT%20TO%20DiE%21%21%21%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GETTiNG LOST",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20GETTiNG%20LOST%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20GETTiNG%20LOST",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CURTAiN CALL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20CURTAiN%20CALL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20CURTAiN%20CALL",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1549112904",
+      "title": "KiLLiNG IDOLS",
+      "date": "2021-02-23",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/killing-idols-ep/1549112904?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/killing-idols-ep/1549112904?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · KiLLiNG IDOLS - EP · 2021-02-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/69/d0/64/69d064cf-a618-de93-c510-f617dc2a53d5/CRCP-40620.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/killing-idols-ep/1549112904?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "HiDE iN SEW",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20HiDE%20iN%20SEW%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20HiDE%20iN%20SEW",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "COLD CAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20COLD%20CAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20COLD%20CAKE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GOiNG ON",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20GOiNG%20ON%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20GOiNG%20ON",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I ain't weak maybe..",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20I%20ain%27t%20weak%20maybe..%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20I%20ain%27t%20weak%20maybe..",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "どっきゅんばっきゅん",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%A9%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%E3%81%B0%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%A9%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93%E3%81%B0%E3%81%A3%E3%81%8D%E3%82%85%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "つよがりさん",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%A4%E3%82%88%E3%81%8C%E3%82%8A%E3%81%95%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%A4%E3%82%88%E3%81%8C%E3%82%8A%E3%81%95%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1562631891",
+      "title": "TOUCH ME",
+      "date": "2021-05-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/touch-me-single/1562631891?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/touch-me-single/1562631891?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · TOUCH ME - Single · 2021-05-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e0/b4/a2/e0b4a2d9-f1a8-c394-e19d-e4ff96bb3b9a/NPKS-00022.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/touch-me-single/1562631891?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TOUCH ME",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20TOUCH%20ME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20TOUCH%20ME",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1564276144",
+      "title": "TOUCH ME / LOVE",
+      "date": "2021-05-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/touch-me-love-ep/1564276144?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/touch-me-love-ep/1564276144?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · TOUCH ME / LOVE - EP · 2021-05-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/3e/8e/4f3e8ef2-a36c-78bf-43ff-5a801c3c17c9/CRCP-10463.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/touch-me-love-ep/1564276144?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TOUCH ME",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20TOUCH%20ME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20TOUCH%20ME",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOVE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LOVE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LOVE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TOUCH ME (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20TOUCH%20ME%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20TOUCH%20ME%20%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOVE (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LOVE%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LOVE%20%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1590293863",
+      "title": "割礼GIRL / family name",
+      "date": "2021-11-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%89%B2%E7%A4%BCgirl-family-name-single/1590293863?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%89%B2%E7%A4%BCgirl-family-name-single/1590293863?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · 割礼GIRL / family name - Single · 2021-11-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/da/af/72daaf95-f8eb-cef1-a73e-f3be3cef2497/NPKS-00048.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%89%B2%E7%A4%BCgirl-family-name-single/1590293863?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "割礼GIRL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%89%B2%E7%A4%BCGIRL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%89%B2%E7%A4%BCGIRL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "family name",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20family%20name%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20family%20name",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1595514776",
+      "title": "Yuki Kashiwagi nari no BiS - ANYTiME ANYTHiNG",
+      "date": "2021-11-30",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/yuki-kashiwagi-nari-no-bis-anytime-anything-ep/1595514776?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/yuki-kashiwagi-nari-no-bis-anytime-anything-ep/1595514776?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 柏木由紀 & BiS · Yuki Kashiwagi nari no BiS - ANYTiME ANYTHiNG - EP · 2021-11-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/4d/de/8f4dde06-2cae-5482-1f7e-d2ed8db145ae/NOPA-2986.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/yuki-kashiwagi-nari-no-bis-anytime-anything-ep/1595514776?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "柏木由紀なりのBiS -ANYTiME ANYTHiNG-",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%E3%81%AA%E3%82%8A%E3%81%AEBiS%20-ANYTiME%20ANYTHiNG-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%E3%81%AA%E3%82%8A%E3%81%AEBiS%20-ANYTiME%20ANYTHiNG-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPiD <KASHiWACK version>",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20STUPiD%20%3CKASHiWACK%20version%3E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20STUPiD%20%3CKASHiWACK%20version%3E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "柏木由紀なりのBiS -ANYTiME ANYTHiNG- (off vocal version)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%E3%81%AA%E3%82%8A%E3%81%AEBiS%20-ANYTiME%20ANYTHiNG-%20%28off%20vocal%20version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%E3%81%AA%E3%82%8A%E3%81%AEBiS%20-ANYTiME%20ANYTHiNG-%20%28off%20vocal%20version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STUPiD <KASHiWACK version> (off vocal version)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20STUPiD%20%3CKASHiWACK%20version%3E%20%28off%20vocal%20version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%20%26%20BiS%20STUPiD%20%3CKASHiWACK%20version%3E%20%28off%20vocal%20version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1592422247",
+      "title": "BiS DiVE into ROCKS",
+      "date": "2021-12-01",
+      "kind": "cover",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/bis-dive-into-rocks/1592422247?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/bis-dive-into-rocks/1592422247?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · BiS DiVE into ROCKS · 2021-12-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/9b/d0/6c9bd0a4-f14f-bba5-f3a1-ad7be3a8a285/CRCP-40631.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/bis-dive-into-rocks/1592422247?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "スモーキン・ビリー",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%B3%E3%83%BB%E3%83%93%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%B3%E3%83%BB%E3%83%93%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MAGIC",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20MAGIC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20MAGIC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "赤いタンバリン",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E8%B5%A4%E3%81%84%E3%82%BF%E3%83%B3%E3%83%90%E3%83%AA%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E8%B5%A4%E3%81%84%E3%82%BF%E3%83%B3%E3%83%90%E3%83%AA%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PMA (Positive Mental Attitude)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20PMA%20%28Positive%20Mental%20Attitude%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20PMA%20%28Positive%20Mental%20Attitude%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NUM-AMI-DABUTZ",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20NUM-AMI-DABUTZ%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20NUM-AMI-DABUTZ",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BASIS",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20BASIS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20BASIS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "GOOD GIRL",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20GOOD%20GIRL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20GOOD%20GIRL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "浮き雲",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%B5%AE%E3%81%8D%E9%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%B5%AE%E3%81%8D%E9%9B%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Fantasista",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Fantasista%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Fantasista",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Eric. W",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Eric.%20W%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Eric.%20W",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "IMAGINE?",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20IMAGINE%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20IMAGINE%3F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1607046827",
+      "title": "DA DA DA DANCE SONG",
+      "date": "2022-02-23",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/da-da-da-dance-song-ep/1607046827?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/da-da-da-dance-song-ep/1607046827?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · DA DA DA DANCE SONG - EP · 2022-02-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/5d/53/ab5d53f5-67bf-99d8-f72e-9b9926aedb79/CRCP-10473.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/da-da-da-dance-song-ep/1607046827?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "DA DA DA DANCE SONG",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DA%20DA%20DA%20DANCE%20SONG%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DA%20DA%20DA%20DANCE%20SONG",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "とまらない歌",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%A8%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%A8%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E6%AD%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DA DA DA DANCE SONG (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20DA%20DA%20DA%20DANCE%20SONG%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20DA%20DA%20DA%20DANCE%20SONG%20%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "とまらない歌 (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%A8%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E6%AD%8C%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%A8%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E6%AD%8C%20%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1617049705",
+      "title": "BELiEVE",
+      "date": "2022-04-25",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/believe-single/1617049705?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/believe-single/1617049705?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS with STUPiD BOYS for ARABAKI · BELiEVE - Single · 2022-04-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/ef/df/d7efdffd-9945-0f35-79f7-dafca8ca8d01/NPKS-00078.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/believe-single/1617049705?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BELiEVE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20with%20STUPiD%20BOYS%20for%20ARABAKI%20BELiEVE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20with%20STUPiD%20BOYS%20for%20ARABAKI%20BELiEVE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BELiEVE (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20with%20STUPiD%20BOYS%20for%20ARABAKI%20BELiEVE%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20with%20STUPiD%20BOYS%20for%20ARABAKI%20BELiEVE%20%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1628458220",
+      "title": "Hey boy hey girl",
+      "date": "2022-07-06",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/hey-boy-hey-girl-ep/1628458220?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hey-boy-hey-girl-ep/1628458220?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Hey boy hey girl - EP · 2022-07-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/83/b3/ee/83b3eeb8-4c1e-32eb-1100-943435fdba5e/CRCP-10478.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hey-boy-hey-girl-ep/1628458220?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Hey boy hey girl",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hey%20boy%20hey%20girl%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hey%20boy%20hey%20girl",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ONCE AGAiN",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ONCE%20AGAiN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ONCE%20AGAiN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hey boy hey girl (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Hey%20boy%20hey%20girl%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Hey%20boy%20hey%20girl%20%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ONCE AGAiN (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20ONCE%20AGAiN%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20ONCE%20AGAiN%20%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1692292426",
+      "title": "E-R-T-H-C-Na-H-Q-ka-H-K-M-B-Ne-Z-Om",
+      "date": "2023-07-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/e-r-t-h-c-na-h-q-ka-h-k-m-b-ne-z-om-ep/1692292426?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/e-r-t-h-c-na-h-q-ka-h-k-m-b-ne-z-om-ep/1692292426?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · E-R-T-H-C-Na-H-Q-ka-H-K-M-B-Ne-Z-Om - EP · 2023-07-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/a8/83/b8a88380-6ff3-b0af-4f2e-257b4fed0cc7/CRCP-10479.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/e-r-t-h-c-na-h-q-ka-h-k-m-b-ne-z-om-ep/1692292426?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の目を見つめて 君の世界になりたい",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0%20%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の目を見つめて 君の世界になりたい (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%20%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1711145221",
+      "title": "LAZY DANCE",
+      "date": "2023-11-08",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/lazy-dance-ep/1711145221?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/lazy-dance-ep/1711145221?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · LAZY DANCE - EP · 2023-11-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/df/8c/aadf8c73-75ce-f7ea-d926-8d7be828239e/CRCP-10482.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/lazy-dance-ep/1711145221?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "LAZY DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LAZY%20DANCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LAZY%20DANCE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なまえをよんで",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LAZY DANCE (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LAZY%20DANCE%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LAZY%20DANCE%20%28instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なまえをよんで (instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20%28instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20%28instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1727983585",
+      "title": "NEVER MiND",
+      "date": "2024-02-28",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/never-mind/1727983585?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/never-mind/1727983585?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · NEVER MiND · 2024-02-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/48/a3/d048a3ac-b5b9-9725-9224-9a16fa1c6175/CRCP-40676.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/never-mind/1727983585?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "R.U.N",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20R.U.N%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20R.U.N",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STiLL BE CHiLD",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STiLL%20BE%20CHiLD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STiLL%20BE%20CHiLD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Olenimorph, Ole",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Olenimorph%2C%20Ole%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Olenimorph%2C%20Ole",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LAZY DANCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LAZY%20DANCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LAZY%20DANCE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なまえをよんで",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青風",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E9%9D%92%E9%A2%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E9%9D%92%E9%A2%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の目を見つめて 君の世界になりたい",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "悲しみを纏う男たちの行進",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sakura",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Sakura%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Sakura",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NO CHOiCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20NO%20CHOiCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20NO%20CHOiCE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · BiS · NEVER MiND (NEW TYPE Ver.) · 2024-09-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/44/4f/57444ff1-9fd3-c44f-2def-b71b91e12e7f/NPKA-00133.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/never-mind-new-type-ver/1764216648?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "R.U.N (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20R.U.N%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20R.U.N%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STiLL BE CHiLD (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STiLL%20BE%20CHiLD%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STiLL%20BE%20CHiLD%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Olenimorph, Ole (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Olenimorph%2C%20Ole%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Olenimorph%2C%20Ole%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%82%A4%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%A8%E3%82%A4%E3%83%81%E3%82%B1%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%BA%E3%82%A3%E3%83%BC%E3%82%A6%E3%83%BC%E3%82%AA%E3%83%A0%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LAZY DANCE (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LAZY%20DANCE%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LAZY%20DANCE%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なまえをよんで (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青風 (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E9%9D%92%E9%A2%A8%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E9%9D%92%E9%A2%A8%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の目を見つめて 君の世界になりたい (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E5%83%95%E3%81%AE%E7%9B%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%20%E5%90%9B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "悲しみを纏う男たちの行進 (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sakura (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Sakura%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Sakura%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NO CHOiCE (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20NO%20CHOiCE%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20NO%20CHOiCE%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1741903036",
+      "title": "Sakura (NEW TYPE Ver.)",
+      "date": "2024-05-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/sakura-new-type-ver-single/1741903036?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sakura-new-type-ver-single/1741903036?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · Sakura (NEW TYPE Ver.) - Single · 2024-05-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/4f/63/084f6395-1f96-984d-a78c-fc2c6c46290f/NPKS-00374.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/sakura-new-type-ver-single/1741903036?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Sakura (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20Sakura%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20Sakura%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1741902927",
+      "title": "R.U.N (NEW TYPE Ver.)",
+      "date": "2024-05-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/r-u-n-new-type-ver-single/1741902927?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/r-u-n-new-type-ver-single/1741902927?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · R.U.N (NEW TYPE Ver.) - Single · 2024-05-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/45/11/11451107-f8fb-5f9d-ce17-00b0cf0569a1/NPKS-00375.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/r-u-n-new-type-ver-single/1741902927?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "R.U.N (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20R.U.N%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20R.U.N%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1741904559",
+      "title": "悲しみを纏う男たちの行進 (NEW TYPE Ver.)",
+      "date": "2024-05-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2-new-type-ver-single/1741904559?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2-new-type-ver-single/1741904559?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · 悲しみを纏う男たちの行進 (NEW TYPE Ver.) - Single · 2024-05-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/e7/99/60e799a5-76ac-3477-1106-926455e79248/NPKS-00376.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2-new-type-ver-single/1741904559?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "悲しみを纏う男たちの行進 (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E7%BA%8F%E3%81%86%E7%94%B7%E3%81%9F%E3%81%A1%E3%81%AE%E8%A1%8C%E9%80%B2%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1752410639",
+      "title": "STiLL BE CHiLD (NEW TYPE Ver.)",
+      "date": "2024-07-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/still-be-child-new-type-ver-single/1752410639?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/still-be-child-new-type-ver-single/1752410639?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · STiLL BE CHiLD (NEW TYPE Ver.) - Single · 2024-07-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/10/2e/13102e53-e097-6ca7-b840-ea30b30a4050/NPKS-00392.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/still-be-child-new-type-ver-single/1752410639?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "STiLL BE CHiLD (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20STiLL%20BE%20CHiLD%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20STiLL%20BE%20CHiLD%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1752409430",
+      "title": "LAZY DANCE (NEW TYPE Ver.)",
+      "date": "2024-07-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/lazy-dance-new-type-ver-single/1752409430?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/lazy-dance-new-type-ver-single/1752409430?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · LAZY DANCE (NEW TYPE Ver.) - Single · 2024-07-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/19/64/f81964d2-357f-7ab3-4016-705194be5f1b/NPKS-00390.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/lazy-dance-new-type-ver-single/1752409430?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "LAZY DANCE (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20LAZY%20DANCE%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20LAZY%20DANCE%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1752410429",
+      "title": "NO CHOiCE (NEW TYPE Ver.)",
+      "date": "2024-07-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/no-choice-new-type-ver-single/1752410429?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/no-choice-new-type-ver-single/1752410429?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · NO CHOiCE (NEW TYPE Ver.) - Single · 2024-07-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/8b/9f/1c8b9f2a-d6f3-111b-7d73-4d721a82e162/NPKS-00393.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/no-choice-new-type-ver-single/1752410429?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "NO CHOiCE (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20NO%20CHOiCE%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20NO%20CHOiCE%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bis-1752409945",
+      "title": "なまえをよんで (NEW TYPE Ver.)",
+      "date": "2024-07-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7-new-type-ver-single/1752409945?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7-new-type-ver-single/1752409945?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BiS · なまえをよんで (NEW TYPE Ver.) - Single · 2024-07-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/7d/6b/f87d6b1b-123d-4ab5-8ad9-94616dbf4ad6/NPKS-00391.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7-new-type-ver-single/1752409945?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "なまえをよんで (NEW TYPE Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20%28NEW%20TYPE%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BiS%20%E3%81%AA%E3%81%BE%E3%81%88%E3%82%92%E3%82%88%E3%82%93%E3%81%A7%20%28NEW%20TYPE%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unverified": [],
+  "profiles": [
+    {
+      "name": "Toggy",
+      "japanese": "トギー",
+      "bio": "Componente della terza generazione dal 2019 e della formazione finale."
+    },
+    {
+      "name": "Nano3",
+      "japanese": "ナノ3",
+      "bio": "Entra nella terza generazione nel 2021 e resta fino al concerto conclusivo."
+    },
+    {
+      "name": "Hyuga",
+      "japanese": "ヒューガー",
+      "bio": "Entra nel gruppo nel 2022 e fa parte della formazione finale."
+    },
+    {
+      "name": "Iko Mugen no Kanata",
+      "japanese": "イコ・ムゲンノカナタ",
+      "bio": "Entra nel 2023 e partecipa all’ultima fase della terza generazione."
+    },
+    {
+      "name": "Kurenai Worlds End",
+      "japanese": "クレナイ・ワールズエンド",
+      "bio": "Entra nel 2023 e resta nella formazione fino a gennaio 2025."
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://www.brandnewidolsociety.tokyo/"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://www.crownrecord.co.jp/artist/bis/profile.html"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://www.crownrecord.co.jp/artist/bis/discography.html"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/424808774"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/c/ULTRASTUPiDRECORDS"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX"
+    },
+    {
+      "label": "Finale of third BiS · concerto conclusivo",
+      "url": "https://www.brandnewidolsociety.tokyo/posts/55165877/"
+    },
+    {
+      "label": "Annuncio della conclusione del terzo periodo",
+      "url": "https://www.brandnewidolsociety.tokyo/posts/54931774/"
+    },
+    {
+      "label": "Videografia ufficiale",
+      "url": "https://www.brandnewidolsociety.tokyo/pages/2974920/page_201906111402"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}
