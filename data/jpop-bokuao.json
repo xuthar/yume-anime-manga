@@ -1,0 +1,988 @@
+{
+  "artist": "BokuAo",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/bokuao/group.jpg",
+  "members": [
+    {
+      "name": "Yuho Aoki",
+      "japanese": "青木 宙帆",
+      "bio": "Nata il 13/6/2003. Provenienza: Okinawa. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_aoki_yuho",
+      "image": "assets/jpop/bokuao/aoki-yuho.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Rian Akita",
+      "japanese": "秋田 莉杏",
+      "bio": "Nata il 9/7/2007. Provenienza: Hyōgo. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_akita_rian",
+      "image": "assets/jpop/bokuao/akita-rian.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Aoi Anno",
+      "japanese": "安納 蒼衣",
+      "bio": "Nata il 30/1/2007. Provenienza: Saitama. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_anno_aoi",
+      "image": "assets/jpop/bokuao/anno-aoi.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Yuzu Ito",
+      "japanese": "伊藤 ゆず",
+      "bio": "Nata il 11/8/2001. Provenienza: Chiba. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_ito_yuzu",
+      "image": "assets/jpop/bokuao/ito-yuzu.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Yuki Imai",
+      "japanese": "今井 優希",
+      "bio": "Nata il 28/8/2005. Provenienza: Aichi. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_imai_yuki",
+      "image": "assets/jpop/bokuao/imai-yuki.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Riko Iwamoto",
+      "japanese": "岩本 理瑚",
+      "bio": "Nata il 25/11/2007. Provenienza: Tokyo. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_iwamoto_riko",
+      "image": "assets/jpop/bokuao/iwamoto-riko.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Ami Kanazawa",
+      "japanese": "金澤 亜美",
+      "bio": "Nata il 14/2/2007. Provenienza: Kanagawa. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_kanazawa_ami",
+      "image": "assets/jpop/bokuao/kanazawa-ami.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Ai Kinoshita",
+      "japanese": "木下 藍",
+      "bio": "Nata il 19/8/2009. Provenienza: Tokyo. Profilo e ritratto dal sito ufficiale. Attività nel gruppo attualmente sospesa.",
+      "link": "https://bokuao.com/feature/profile_kinoshita_ai",
+      "image": "assets/jpop/bokuao/kinoshita-ai.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Yua Kudo",
+      "japanese": "工藤 唯愛",
+      "bio": "Nata il 4/8/2009. Provenienza: Hokkaidō. Profilo e ritratto dal sito ufficiale. Attività nel gruppo attualmente sospesa.",
+      "link": "https://bokuao.com/feature/profile_kudo_yua",
+      "image": "assets/jpop/bokuao/kudo-yua.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Nana Shiogama",
+      "japanese": "塩釜 菜那",
+      "bio": "Nata il 7/7/2002. Provenienza: Kagoshima. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_shiogama_nana",
+      "image": "assets/jpop/bokuao/shiogama-nana.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Eren Sugiura",
+      "japanese": "杉浦 英恋",
+      "bio": "Nata il 19/6/2008. Provenienza: Aichi. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_sugiura_eren",
+      "image": "assets/jpop/bokuao/sugiura-eren.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Miuna Sunaga",
+      "japanese": "須永 心海",
+      "bio": "Nata il 11/4/2005. Provenienza: Saitama. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_sunaga_miuna",
+      "image": "assets/jpop/bokuao/sunaga-miuna.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Aya Nishimori",
+      "japanese": "西森 杏弥",
+      "bio": "Nata il 18/7/2003. Provenienza: 高知県. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_nishimori_aya",
+      "image": "assets/jpop/bokuao/nishimori-aya.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Kokoka Hagiwara",
+      "japanese": "萩原 心花",
+      "bio": "Nata il 30/6/2006. Provenienza: Shizuoka. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_hagiwara_kokoka",
+      "image": "assets/jpop/bokuao/hagiwara-kokoka.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Hitomi Hasegawa",
+      "japanese": "長谷川 稀未",
+      "bio": "Nata il 24/3/2003. Provenienza: Saitama. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_hasegawa_hitomi",
+      "image": "assets/jpop/bokuao/hasegawa-hitomi.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Suzuki Hayasaki",
+      "japanese": "早﨑 すずき",
+      "bio": "Nata il 13/3/2005. Provenienza: Tokyo. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_hayasaki_suzuki",
+      "image": "assets/jpop/bokuao/hayasaki-suzuki.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Yuria Miyakoshi",
+      "japanese": "宮腰 友里亜",
+      "bio": "Nata il 24/10/2004. Provenienza: Fukui. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_miyakoshi_yuria",
+      "image": "assets/jpop/bokuao/miyakoshi-yuria.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Miisa Yaegashi",
+      "japanese": "八重樫 美伊咲",
+      "bio": "Nata il 5/3/2010. Provenienza: 宮城県. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_yaegashi_miisa",
+      "image": "assets/jpop/bokuao/yaegashi-miisa.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Toa Yagi",
+      "japanese": "八木 仁愛",
+      "bio": "Nata il 1/5/2007. Provenienza: Tokyo. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_yagi_toa",
+      "image": "assets/jpop/bokuao/yagi-toa.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Karen Yanagihori",
+      "japanese": "柳堀 花怜",
+      "bio": "Nata il 24/7/2005. Provenienza: Tokyo. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_yanagihori_karen",
+      "image": "assets/jpop/bokuao/yanagihori-karen.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    },
+    {
+      "name": "Cocona Yoshimoto",
+      "japanese": "吉本 此那",
+      "bio": "Nata il 5/12/2005. Provenienza: Ishikawa. Profilo e ritratto dal sito ufficiale.",
+      "link": "https://bokuao.com/feature/profile_yoshimoto_cocona",
+      "image": "assets/jpop/bokuao/yoshimoto-cocona.jpg",
+      "imageSource": "https://bokuao.com/feature/profile"
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "HW6U6QMLzP4",
+      "title": "青空について考える · Music Video",
+      "url": "https://www.youtube.com/watch?v=HW6U6QMLzP4",
+      "source": "https://www.youtube.com/watch?v=HW6U6QMLzP4",
+      "author": "BokuAo · canale ufficiale"
+    },
+    {
+      "id": "4Mhu2VA4vmQ",
+      "title": "FUNKY SUMMER · Music Video",
+      "url": "https://www.youtube.com/watch?v=4Mhu2VA4vmQ",
+      "source": "https://www.youtube.com/watch?v=4Mhu2VA4vmQ",
+      "author": "BokuAo · canale ufficiale"
+    },
+    {
+      "id": "nTvIxSRQ57U",
+      "title": "視線のラブレター · Music Video",
+      "url": "https://www.youtube.com/watch?v=nTvIxSRQ57U",
+      "source": "https://www.youtube.com/watch?v=nTvIxSRQ57U",
+      "author": "BokuAo · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "HW6U6QMLzP4",
+      "title": "青空について考える · Music Video",
+      "url": "https://www.youtube.com/watch?v=HW6U6QMLzP4",
+      "source": "https://www.youtube.com/watch?v=HW6U6QMLzP4",
+      "author": "BokuAo · canale ufficiale"
+    },
+    {
+      "id": "4Mhu2VA4vmQ",
+      "title": "FUNKY SUMMER · Music Video",
+      "url": "https://www.youtube.com/watch?v=4Mhu2VA4vmQ",
+      "source": "https://www.youtube.com/watch?v=4Mhu2VA4vmQ",
+      "author": "BokuAo · canale ufficiale"
+    },
+    {
+      "id": "nTvIxSRQ57U",
+      "title": "視線のラブレター · Music Video",
+      "url": "https://www.youtube.com/watch?v=nTvIxSRQ57U",
+      "source": "https://www.youtube.com/watch?v=nTvIxSRQ57U",
+      "author": "BokuAo · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "bokuao-1694251844",
+      "title": "青空について考える",
+      "date": "2023-07-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E7%A9%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-single/1694251844?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E7%A9%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-single/1694251844?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青空について考える - Single · 2023-07-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/6f/b3/5d6fb3a2-d871-8d90-04c1-ba2fe637fbe3/ANTCD-A0000010717.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E7%A9%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-single/1694251844?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青空について考える",
+                  "youtube": "https://www.youtube.com/watch?v=HW6U6QMLzP4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9D%92%E7%A9%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 青空について考える(Special Edition) - EP · 2023-08-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f9/02/13/f90213fe-5f37-14b1-1ea6-e0f41c5ca538/ANTCD-A0000011124.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E7%A9%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B-special-edition-ep/1701375861?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青空について考える",
+                  "youtube": "https://www.youtube.com/watch?v=HW6U6QMLzP4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9D%92%E7%A9%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "制服のパラシュート",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%88%B6%E6%9C%8D%E3%81%AE%E3%83%91%E3%83%A9%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%88%B6%E6%9C%8D%E3%81%AE%E3%83%91%E3%83%A9%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出尻切れとんぼ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%80%9D%E3%81%84%E5%87%BA%E5%B0%BB%E5%88%87%E3%82%8C%E3%81%A8%E3%82%93%E3%81%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%80%9D%E3%81%84%E5%87%BA%E5%B0%BB%E5%88%87%E3%82%8C%E3%81%A8%E3%82%93%E3%81%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きになりなさい",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "飛ばなかった紙飛行機",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%A3%9B%E3%81%B0%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E7%B4%99%E9%A3%9B%E8%A1%8C%E6%A9%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%A3%9B%E3%81%B0%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E7%B4%99%E9%A3%9B%E8%A1%8C%E6%A9%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1720324450",
+      "title": "卒業まで",
+      "date": "2023-12-13",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7-single/1720324450?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7-single/1720324450?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 卒業まで - Single · 2023-12-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/74/2e/6e742e2f-f559-0f0d-0874-679734d3e794/ANTCD-A0000012263.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7-single/1720324450?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "卒業まで",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 卒業まで (Special Edition) - EP · 2024-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/1c/03/921c0367-3c27-6e3a-008b-c8adc780e5d6/ANTCD-A0000012441.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7-special-edition-ep/1725948357?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "卒業まで",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君のための歌",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%90%9B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%90%9B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%AD%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇の哲学者",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%9A%97%E9%97%87%E3%81%AE%E5%93%B2%E5%AD%A6%E8%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%9A%97%E9%97%87%E3%81%AE%E5%93%B2%E5%AD%A6%E8%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "微かな希望",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%BE%AE%E3%81%8B%E3%81%AA%E5%B8%8C%E6%9C%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%BE%AE%E3%81%8B%E3%81%AA%E5%B8%8C%E6%9C%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真っ白に塗り直せ!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%9C%9F%E3%81%A3%E7%99%BD%E3%81%AB%E5%A1%97%E3%82%8A%E7%9B%B4%E3%81%9B%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%9C%9F%E3%81%A3%E7%99%BD%E3%81%AB%E5%A1%97%E3%82%8A%E7%9B%B4%E3%81%9B%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1750878899",
+      "title": "スペアのない恋",
+      "date": "2024-06-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B-single/1750878899?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B-single/1750878899?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · スペアのない恋 - Single · 2024-06-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/c3/53/b9c35330-f156-fd88-d105-4223ac3f7be3/ANTCD-A0000013765.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B-single/1750878899?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "スペアのない恋",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · スペアのない恋 (Special Edition) - EP · 2024-08-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/65/7d/b2657dd3-97b7-74ec-8cb8-8d99612821f4/ANTCD-A0000014098.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B-special-edition-ep/1757623807?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "スペアのない恋",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%B9%E3%83%9A%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%84%E6%81%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "涙を流そう",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%B6%99%E3%82%92%E6%B5%81%E3%81%9D%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%B6%99%E3%82%92%E6%B5%81%E3%81%9D%E3%81%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "昇降口で会えたら",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%98%87%E9%99%8D%E5%8F%A3%E3%81%A7%E4%BC%9A%E3%81%88%E3%81%9F%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%98%87%E9%99%8D%E5%8F%A3%E3%81%A7%E4%BC%9A%E3%81%88%E3%81%9F%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "友よ ここでサヨナラだ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8F%8B%E3%82%88%20%E3%81%93%E3%81%93%E3%81%A7%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8F%8B%E3%82%88%20%E3%81%93%E3%81%93%E3%81%A7%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あの日 僕たちは泣いていた",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%81%AE%E6%97%A5%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E6%B3%A3%E3%81%84%E3%81%A6%E3%81%84%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%81%AE%E6%97%A5%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E6%B3%A3%E3%81%84%E3%81%A6%E3%81%84%E3%81%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕にとっては",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%83%95%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%83%95%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1752626220",
+      "title": "友よ ここでサヨナラだ",
+      "date": "2024-07-08",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%8F%8B%E3%82%88-%E3%81%93%E3%81%93%E3%81%A7%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A0-single/1752626220?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%8F%8B%E3%82%88-%E3%81%93%E3%81%93%E3%81%A7%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A0-single/1752626220?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 友よ ここでサヨナラだ - Single · 2024-07-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/76/c4/bd76c44a-7abb-ae37-be95-53f92e22ad32/ANTCD-A0000013793.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%8F%8B%E3%82%88-%E3%81%93%E3%81%93%E3%81%A7%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A0-single/1752626220?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "友よ ここでサヨナラだ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8F%8B%E3%82%88%20%E3%81%93%E3%81%93%E3%81%A7%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8F%8B%E3%82%88%20%E3%81%93%E3%81%93%E3%81%A7%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1770246149",
+      "title": "空色の水しぶき",
+      "date": "2024-10-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E7%A9%BA%E8%89%B2%E3%81%AE%E6%B0%B4%E3%81%97%E3%81%B6%E3%81%8D-single/1770246149?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%A9%BA%E8%89%B2%E3%81%AE%E6%B0%B4%E3%81%97%E3%81%B6%E3%81%8D-single/1770246149?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 空色の水しぶき - Single · 2024-10-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/3d/81/c53d81ce-b57f-793b-9981-4ad543030f50/ANTCD-A0000014658.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%A9%BA%E8%89%B2%E3%81%AE%E6%B0%B4%E3%81%97%E3%81%B6%E3%81%8D-single/1770246149?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "空色の水しぶき",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%A9%BA%E8%89%B2%E3%81%AE%E6%B0%B4%E3%81%97%E3%81%B6%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%A9%BA%E8%89%B2%E3%81%AE%E6%B0%B4%E3%81%97%E3%81%B6%E3%81%8D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1773012626",
+      "title": "好きすぎてUp and down",
+      "date": "2024-10-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6up-and-down-single/1773012626?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6up-and-down-single/1773012626?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 好きすぎてUp and down - Single · 2024-10-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/79/7d/16797d07-c1a0-f85a-5782-43029ed66146/ANTCD-A0000014991.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6up-and-down-single/1773012626?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "好きすぎてUp and down",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6Up%20and%20down%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6Up%20and%20down",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 好きすぎてUp and down (Special Edition) - EP · 2024-11-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/fa/ce/cfface45-5910-2b10-4953-ea9c6ce3d7c0/ANTCD-A0000015039.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6up-and-down-special-edition-ep/1775636131?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "好きすぎてUp and down",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6Up%20and%20down%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6Up%20and%20down",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "初めて好きになった人",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%88%9D%E3%82%81%E3%81%A6%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%88%9D%E3%82%81%E3%81%A6%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空色の水しぶき",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%A9%BA%E8%89%B2%E3%81%AE%E6%B0%B4%E3%81%97%E3%81%B6%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%A9%BA%E8%89%B2%E3%81%AE%E6%B0%B4%E3%81%97%E3%81%B6%E3%81%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マイフレンズ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%83%9E%E3%82%A4%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%83%9E%E3%82%A4%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "炭酸のせいじゃない",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%82%AD%E9%85%B8%E3%81%AE%E3%81%9B%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%82%AD%E9%85%B8%E3%81%AE%E3%81%9B%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1794053740",
+      "title": "恋は倍速",
+      "date": "2025-02-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F-single/1794053740?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F-single/1794053740?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 恋は倍速 - Single · 2025-02-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/dc/1c/41dc1c95-fa02-bc89-d9bb-c40d95009aab/ANTCD-A0000015916.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F-single/1794053740?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "恋は倍速",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 恋は倍速 (Special Edition) - EP · 2025-03-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/d6/ab/4dd6ab17-ad01-963a-9d82-df9792f88006/ANTCD-A0000016080.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F-special-edition-ep/1798608460?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "恋は倍速",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%81%8B%E3%81%AF%E5%80%8D%E9%80%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春の旅人よ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9D%92%E6%98%A5%E3%81%AE%E6%97%85%E4%BA%BA%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9D%92%E6%98%A5%E3%81%AE%E6%97%85%E4%BA%BA%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "臆病なカラス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E8%87%86%E7%97%85%E3%81%AA%E3%82%AB%E3%83%A9%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E8%87%86%E7%97%85%E3%81%AA%E3%82%AB%E3%83%A9%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キッシュ・ラブ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%A9%E3%83%96%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%A9%E3%83%96",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青空ディスコティック",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9D%92%E7%A9%BA%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9D%92%E7%A9%BA%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1823574203",
+      "title": "視線のラブレター",
+      "date": "2025-07-05",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E8%A6%96%E7%B7%9A%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC-single/1823574203?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%A6%96%E7%B7%9A%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC-single/1823574203?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 視線のラブレター - Single · 2025-07-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/19/33/e3193378-4498-95cb-e557-ac02f74e3afe/ANTCD-A0000017347.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%A6%96%E7%B7%9A%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC-single/1823574203?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "視線のラブレター",
+                  "youtube": "https://www.youtube.com/watch?v=nTvIxSRQ57U",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E8%A6%96%E7%B7%9A%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 視線のラブレター (Special Edition) - EP · 2025-08-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/4b/e7/c84be7b6-c388-620f-474b-a8245f07efd3/ANTCD-A0000017464.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%A6%96%E7%B7%9A%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC-special-edition-ep/1826095754?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "視線のラブレター",
+                  "youtube": "https://www.youtube.com/watch?v=nTvIxSRQ57U",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E8%A6%96%E7%B7%9A%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "虹を架けよう",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E8%99%B9%E3%82%92%E6%9E%B6%E3%81%91%E3%82%88%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E8%99%B9%E3%82%92%E6%9E%B6%E3%81%91%E3%82%88%E3%81%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "残り時間",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%AE%8B%E3%82%8A%E6%99%82%E9%96%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E6%AE%8B%E3%82%8A%E6%99%82%E9%96%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "偶然ルーレット",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%81%B6%E7%84%B6%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%81%B6%E7%84%B6%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あの頃のトライベッカ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%81%AE%E9%A0%83%E3%81%AE%E3%83%88%E3%83%A9%E3%82%A4%E3%83%99%E3%83%83%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%81%AE%E9%A0%83%E3%81%AE%E3%83%88%E3%83%A9%E3%82%A4%E3%83%99%E3%83%83%E3%82%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1851374381",
+      "title": "あれはフェアリー",
+      "date": "2025-11-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC-single/1851374381?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC-single/1851374381?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · あれはフェアリー - Single · 2025-11-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/10/a7/d510a79d-8191-6554-fb21-ab4a87f87924/ANTCD-A0000018649.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC-single/1851374381?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "あれはフェアリー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · あれはフェアリー (Special Edition) - EP · 2025-12-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/10/77/521077b9-a026-c7fa-3647-b32b5327a912/ANTCD-A0000018755.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC-special-edition-ep/1854317733?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "あれはフェアリー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%81%82%E3%82%8C%E3%81%AF%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カイロに月",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%AB%E3%82%A4%E3%83%AD%E3%81%AB%E6%9C%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E3%82%AB%E3%82%A4%E3%83%AD%E3%81%AB%E6%9C%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君と見た空は",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%90%9B%E3%81%A8%E8%A6%8B%E3%81%9F%E7%A9%BA%E3%81%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%90%9B%E3%81%A8%E8%A6%8B%E3%81%9F%E7%A9%BA%E3%81%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "This is heaven !",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20This%20is%20heaven%20%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20This%20is%20heaven%20%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "反響のティッピングポイント",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8F%8D%E9%9F%BF%E3%81%AE%E3%83%86%E3%82%A3%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%8F%8D%E9%9F%BF%E3%81%AE%E3%83%86%E3%82%A3%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-1895692806",
+      "title": "FUNKY SUMMER",
+      "date": "2026-05-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/funky-summer-single/1895692806?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/funky-summer-single/1895692806?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · FUNKY SUMMER - Single · 2026-05-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/69/a1/5a69a197-b13a-879f-6e6b-7cab08317b78/ANTCD-A0000020017.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/funky-summer-single/1895692806?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "FUNKY SUMMER",
+                  "youtube": "https://www.youtube.com/watch?v=4Mhu2VA4vmQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20FUNKY%20SUMMER",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · FUNKY SUMMER (Special Edition) - EP · 2026-06-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/43/cd/9543cdc2-f507-44f0-5e97-76175ad638a4/ANTCD-A0000020052.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/funky-summer-special-edition-ep/1896403633?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "FUNKY SUMMER",
+                  "youtube": "https://www.youtube.com/watch?v=4Mhu2VA4vmQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20FUNKY%20SUMMER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夏YASUMING!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A4%8FYASUMING%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%A4%8FYASUMING%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "美しい共犯者",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%BE%8E%E3%81%97%E3%81%84%E5%85%B1%E7%8A%AF%E8%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E7%BE%8E%E3%81%97%E3%81%84%E5%85%B1%E7%8A%AF%E8%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "風船は秒速3メートルで上昇する",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%A2%A8%E8%88%B9%E3%81%AF%E7%A7%92%E9%80%9F3%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%99%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%A2%A8%E8%88%B9%E3%81%AF%E7%A7%92%E9%80%9F3%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%99%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨かんむり",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9B%A8%E3%81%8B%E3%82%93%E3%82%80%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E9%9B%A8%E3%81%8B%E3%82%93%E3%82%80%E3%82%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bokuao-6820378465",
+      "title": "僕は味方だ",
+      "date": "2026-10-19",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%83%95%E3%81%AF%E5%91%B3%E6%96%B9%E3%81%A0-single/6820378465?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%83%95%E3%81%AF%E5%91%B3%E6%96%B9%E3%81%A0-single/6820378465?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 僕は味方だ - Single · 2026-10-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/83/08/b0830866-63ed-a986-adbc-1ecbe78f493b/ANTCD-A0000021461.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%83%95%E3%81%AF%E5%91%B3%E6%96%B9%E3%81%A0-single/6820378465?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "僕は味方だ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%83%95%E3%81%AF%E5%91%B3%E6%96%B9%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E5%83%95%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E9%9D%92%E7%A9%BA%20%E5%83%95%E3%81%AF%E5%91%B3%E6%96%B9%E3%81%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://bokuao.com/"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://bokuao.com/feature/about"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://avexnet.jp/contents/BOKUA-WORK-0001/discography"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/1814542524"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/@BOKUAO_official"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/0ZJdQMcIGWJn4Oh1O5Gku5"
+    },
+    {
+      "label": "Nono singolo · anticipo digitale e CD futuro",
+      "url": "https://bokuao.com/news/detail/6002"
+    },
+    {
+      "label": "Pause dall’attività · Yua Kudo e Ai Kinoshita",
+      "url": "https://natalie.mu/music/news/687381"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}

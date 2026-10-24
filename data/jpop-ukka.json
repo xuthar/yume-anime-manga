@@ -1,0 +1,2222 @@
+{
+  "artist": "ukka",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/ukka/group.jpg",
+  "members": [
+    {
+      "name": "Riju Murahoshi",
+      "japanese": "村星りじゅ",
+      "bio": "Componente della formazione finale di ukka. Ritratto e profilo conservati dalla label Teichiku.",
+      "link": "https://www.teichiku.co.jp/artist/ukka/profile/",
+      "image": "assets/jpop/ukka/riju.jpg",
+      "imageSource": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    },
+    {
+      "name": "Sora Akane",
+      "japanese": "茜空",
+      "bio": "Componente della formazione finale di ukka. Ritratto e profilo conservati dalla label Teichiku.",
+      "link": "https://www.teichiku.co.jp/artist/ukka/profile/",
+      "image": "assets/jpop/ukka/sora.jpg",
+      "imageSource": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    },
+    {
+      "name": "Moa Serizawa",
+      "japanese": "芹澤もあ",
+      "bio": "Componente della formazione finale di ukka. Ritratto e profilo conservati dalla label Teichiku.",
+      "link": "https://www.teichiku.co.jp/artist/ukka/profile/",
+      "image": "assets/jpop/ukka/moa.jpg",
+      "imageSource": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    },
+    {
+      "name": "Rina Yuuki",
+      "japanese": "結城りな",
+      "bio": "Componente della formazione finale di ukka. Ritratto e profilo conservati dalla label Teichiku.",
+      "link": "https://www.teichiku.co.jp/artist/ukka/profile/",
+      "image": "assets/jpop/ukka/rina.jpg",
+      "imageSource": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    },
+    {
+      "name": "Ruri Aoi",
+      "japanese": "葵るり",
+      "bio": "Componente della formazione finale di ukka. Ritratto e profilo conservati dalla label Teichiku.",
+      "link": "https://www.teichiku.co.jp/artist/ukka/profile/",
+      "image": "assets/jpop/ukka/ruri.jpg",
+      "imageSource": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    },
+    {
+      "name": "Yuu Miyazawa",
+      "japanese": "宮沢友",
+      "bio": "Componente della formazione finale di ukka. Ritratto e profilo conservati dalla label Teichiku.",
+      "link": "https://www.teichiku.co.jp/artist/ukka/profile/",
+      "image": "assets/jpop/ukka/yuu.jpg",
+      "imageSource": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    },
+    {
+      "name": "Koharu Wakana",
+      "japanese": "若菜こはる",
+      "bio": "Componente della formazione finale di ukka. Ritratto e profilo conservati dalla label Teichiku.",
+      "link": "https://www.teichiku.co.jp/artist/ukka/profile/",
+      "image": "assets/jpop/ukka/koharu.jpg",
+      "imageSource": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "2oTaKPXcZvk",
+      "title": "Re:RAY · Music Video",
+      "url": "https://www.youtube.com/watch?v=2oTaKPXcZvk",
+      "source": "https://www.teichiku.co.jp/artist/ukka/",
+      "author": "ukka · canale ufficiale"
+    },
+    {
+      "id": "wfuWxjCMz3U",
+      "title": "リボンのひみつ · Music Video",
+      "url": "https://www.youtube.com/watch?v=wfuWxjCMz3U",
+      "source": "https://www.teichiku.co.jp/artist/ukka/",
+      "author": "ukka · canale ufficiale"
+    },
+    {
+      "id": "C3u1hXhZhsk",
+      "title": "それは月曜日の9時のように (10th ver.) · Music Video",
+      "url": "https://www.youtube.com/watch?v=C3u1hXhZhsk",
+      "source": "https://www.teichiku.co.jp/artist/ukka/",
+      "author": "ukka · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "2oTaKPXcZvk",
+      "title": "Re:RAY · Music Video",
+      "url": "https://www.youtube.com/watch?v=2oTaKPXcZvk",
+      "source": "https://www.teichiku.co.jp/artist/ukka/",
+      "author": "ukka · canale ufficiale"
+    },
+    {
+      "id": "wfuWxjCMz3U",
+      "title": "リボンのひみつ · Music Video",
+      "url": "https://www.youtube.com/watch?v=wfuWxjCMz3U",
+      "source": "https://www.teichiku.co.jp/artist/ukka/",
+      "author": "ukka · canale ufficiale"
+    },
+    {
+      "id": "C3u1hXhZhsk",
+      "title": "それは月曜日の9時のように (10th ver.) · Music Video",
+      "url": "https://www.youtube.com/watch?v=C3u1hXhZhsk",
+      "source": "https://www.teichiku.co.jp/artist/ukka/",
+      "author": "ukka · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "ukka-1440568929",
+      "title": "sakraebis",
+      "date": "2018-03-21",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/sakraebis/1440568929?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sakraebis/1440568929?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · sakraebis · 2018-03-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/19/5c/f9/195cf9d8-8a69-2529-5346-1b2b9ccccd5f/4538182791608_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/sakraebis/1440568929?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "僕らのハジマリ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%8F%E3%82%B8%E3%83%9E%E3%83%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%8F%E3%82%B8%E3%83%9E%E3%83%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "わたしロマンス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%8F%E3%81%9F%E3%81%97%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%8F%E3%81%9F%E3%81%97%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "急なロマンティック",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E6%80%A5%E3%81%AA%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E6%80%A5%E3%81%AA%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "お年頃distance",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%8A%E5%B9%B4%E9%A0%83distance%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%8A%E5%B9%B4%E9%A0%83distance",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "オスグッド・コミュニケーション",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%AA%E3%82%B9%E3%82%B0%E3%83%83%E3%83%89%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%AA%E3%82%B9%E3%82%B0%E3%83%83%E3%83%89%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "みしてかしてさわらして",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%BF%E3%81%97%E3%81%A6%E3%81%8B%E3%81%97%E3%81%A6%E3%81%95%E3%82%8F%E3%82%89%E3%81%97%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%BF%E3%81%97%E3%81%A6%E3%81%8B%E3%81%97%E3%81%A6%E3%81%95%E3%82%8F%E3%82%89%E3%81%97%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "こころ予報",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%93%E3%81%93%E3%82%8D%E4%BA%88%E5%A0%B1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%93%E3%81%93%E3%82%8D%E4%BA%88%E5%A0%B1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "嘘とライラック",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%98%98%E3%81%A8%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%98%98%E3%81%A8%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "はっぴースキップ☆ジャンプ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%AF%E3%81%A3%E3%81%B4%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E2%98%86%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%AF%E3%81%A3%E3%81%B4%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E2%98%86%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エビ・バディ・ワナ・ビー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%A8%E3%83%93%E3%83%BB%E3%83%90%E3%83%87%E3%82%A3%E3%83%BB%E3%83%AF%E3%83%8A%E3%83%BB%E3%83%93%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%A8%E3%83%93%E3%83%BB%E3%83%90%E3%83%87%E3%82%A3%E3%83%BB%E3%83%AF%E3%83%8A%E3%83%BB%E3%83%93%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "タリルリラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%BF%E3%83%AA%E3%83%AB%E3%83%AA%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%BF%E3%83%AA%E3%83%AB%E3%83%AA%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Believe",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20Believe%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20Believe",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1406802500",
+      "title": "Lindbergh",
+      "date": "2018-07-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/lindbergh-single/1406802500?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/lindbergh-single/1406802500?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Lindbergh - Single · 2018-07-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/65/63/f16563ef-5871-eada-ae8d-fcf594c6ad26/4538182769140_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/lindbergh-single/1406802500?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "リンドバーグ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1411715226",
+      "title": "Shakunetsu To Ice Cream",
+      "date": "2018-07-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/shakunetsu-to-ice-cream-single/1411715226?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/shakunetsu-to-ice-cream-single/1411715226?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Shakunetsu To Ice Cream - Single · 2018-07-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/de/0e/fb/de0efb94-c1bf-b821-f7c0-628c0fbbb8bf/4538182771174_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/shakunetsu-to-ice-cream-single/1411715226?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "灼熱とアイスクリーム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E7%81%BC%E7%86%B1%E3%81%A8%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E7%81%BC%E7%86%B1%E3%81%A8%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1433328866",
+      "title": "Mawaru Mawaru Mawaru",
+      "date": "2018-09-05",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/mawaru-mawaru-mawaru-single/1433328866?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mawaru-mawaru-mawaru-single/1433328866?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Mawaru Mawaru Mawaru - Single · 2018-09-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d2/59/f4/d259f49e-f10e-ef70-c7f5-66d6da8fa0f6/4538182778531_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/mawaru-mawaru-mawaru-single/1433328866?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "まわるまわるまわる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1436787488",
+      "title": "Magik Melody",
+      "date": "2018-09-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/magik-melody-single/1436787488?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/magik-melody-single/1436787488?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Magik Melody - Single · 2018-09-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/29/42/3f/29423f7d-1631-4190-1758-94dae28ae89e/4538182783634_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/magik-melody-single/1436787488?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Magik Melody",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20Magik%20Melody%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20Magik%20Melody",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1439389312",
+      "title": "Onegaiyo",
+      "date": "2018-10-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/onegaiyo-single/1439389312?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/onegaiyo-single/1439389312?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Onegaiyo - Single · 2018-10-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/a4/d5/99a4d518-dbd4-85a2-6400-9639d55e1d2d/4538182788875_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/onegaiyo-single/1439389312?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "おねがいよ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%82%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1442864574",
+      "title": "Gragene",
+      "date": "2018-11-28",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/gragene-single/1442864574?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/gragene-single/1442864574?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Gragene - Single · 2018-11-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/78/8c/fc/788cfc5b-18fd-3f25-20a8-85df76e37ee4/4538182795071_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/gragene-single/1442864574?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "グラジェネ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%B0%E3%83%A9%E3%82%B8%E3%82%A7%E3%83%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%B0%E3%83%A9%E3%82%B8%E3%82%A7%E3%83%8D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1445423966",
+      "title": "Kirakira",
+      "date": "2018-12-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/kirakira-single/1445423966?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kirakira-single/1445423966?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kirakira - Single · 2018-12-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6f/f6/68/6ff66883-8201-427d-8a3d-518b3309e628/4538182797938_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kirakira-single/1445423966?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "キラキラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1449940730",
+      "title": "Not Go Back",
+      "date": "2019-01-31",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/not-go-back-single/1449940730?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/not-go-back-single/1449940730?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Not Go Back - Single · 2019-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/6b/71/146b71ba-a905-12c4-edd3-15a5712fcc7e/4538182804407_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/not-go-back-single/1449940730?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "帰れない!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%B8%B0%E3%82%8C%E3%81%AA%E3%81%84%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%B8%B0%E3%82%8C%E3%81%AA%E3%81%84%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1452765715",
+      "title": "214",
+      "date": "2019-02-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/214-single/1452765715?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/214-single/1452765715?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 214 - Single · 2019-02-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/18/df/9718df58-e281-1fce-e7b9-1b0c5e39901e/4538182808474_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/214-single/1452765715?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "214",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20214%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20214",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1456204697",
+      "title": "It's Like Nine O'clock Monday",
+      "date": "2019-03-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/its-like-nine-oclock-monday-single/1456204697?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/its-like-nine-oclock-monday-single/1456204697?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · It's Like Nine O'clock Monday - Single · 2019-03-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/4a/4a/e54a4a1b-1969-d022-2a0a-3ceaee9aba9e/4538182813140_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/its-like-nine-oclock-monday-single/1456204697?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "それは月曜日の9時のように",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1459346491",
+      "title": "Nee Loafers",
+      "date": "2019-04-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/nee-loafers-single/1459346491?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/nee-loafers-single/1459346491?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Nee Loafers - Single · 2019-04-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/62/a3/72/62a372e5-c854-6b7b-4a8a-dfdb98c03961/4538182817988_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/nee-loafers-single/1459346491?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ねぇ、ローファー。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%AD%E3%81%87%E3%80%81%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%AD%E3%81%87%E3%80%81%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%80%82",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1463432966",
+      "title": "Saisyo No Saisyo",
+      "date": "2019-05-31",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/saisyo-no-saisyo-single/1463432966?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/saisyo-no-saisyo-single/1463432966?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Saisyo No Saisyo - Single · 2019-05-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/ef/4f/78ef4f9d-e970-330d-c26e-fb256b017903/4538182821909_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/saisyo-no-saisyo-single/1463432966?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "さいしょのさいしょ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%95%E3%81%84%E3%81%97%E3%82%87%E3%81%AE%E3%81%95%E3%81%84%E3%81%97%E3%82%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%95%E3%81%84%E3%81%97%E3%82%87%E3%81%AE%E3%81%95%E3%81%84%E3%81%97%E3%82%87",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1477418934",
+      "title": "Octave",
+      "date": "2019-08-21",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/octave/1477418934?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/octave/1477418934?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Octave · 2019-08-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b8/3a/b7/b83ab789-ebd0-03a1-0971-a392ad932868/4538182836989_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/octave/1477418934?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "帰れない!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%B8%B0%E3%82%8C%E3%81%AA%E3%81%84%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E5%B8%B0%E3%82%8C%E3%81%AA%E3%81%84%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "214",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20214%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20214",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Magik Melody",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20Magik%20Melody%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20Magik%20Melody",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "灼熱とアイスクリーム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E7%81%BC%E7%86%B1%E3%81%A8%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E7%81%BC%E7%86%B1%E3%81%A8%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "まわるまわるまわる",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%BE%E3%82%8F%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "リンドバーグ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おねがいよ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "グラジェネ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%B0%E3%83%A9%E3%82%B8%E3%82%A7%E3%83%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%B0%E3%83%A9%E3%82%B8%E3%82%A7%E3%83%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ねぇ、ローファー。",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%AD%E3%81%87%E3%80%81%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%AD%E3%81%87%E3%80%81%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "それは月曜日の9時のように",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キラキラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "さいしょのさいしょ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%95%E3%81%84%E3%81%97%E3%82%87%E3%81%AE%E3%81%95%E3%81%84%E3%81%97%E3%82%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%95%E3%81%84%E3%81%97%E3%82%87%E3%81%AE%E3%81%95%E3%81%84%E3%81%97%E3%82%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "せつないや",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%9B%E3%81%A4%E3%81%AA%E3%81%84%E3%82%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20%E3%81%9B%E3%81%A4%E3%81%AA%E3%81%84%E3%82%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1479519370",
+      "title": "Can't Go Back Summer",
+      "date": "2019-10-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione del periodo Sakura Ebis (桜エビ〜ず), prima del nome ukka.",
+      "source": "https://music.apple.com/jp/album/cant-go-back-summer-single/1479519370?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/cant-go-back-summer-single/1479519370?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Can't Go Back Summer - Single · 2019-10-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0e/8a/87/0e8a877d-8b30-e60e-ae1f-f9557748d95b/4538182841273_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/cant-go-back-summer-single/1479519370?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "can't go back summer",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20can%27t%20go%20back%20summer%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%A1%9C%E3%82%A8%E3%83%93~%E3%81%9A%20can%27t%20go%20back%20summer",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1507803332",
+      "title": "Koi-Ichibanme",
+      "date": "2020-05-06",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/koi-ichibanme-single/1507803332?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/koi-ichibanme-single/1507803332?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Koi-Ichibanme - Single · 2020-05-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4d/0c/e9/4d0ce931-cca3-78ba-983e-fe3782f25045/4538182880784_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/koi-ichibanme-single/1507803332?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "恋、いちばんめ",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · Koi-Ichibanme (Special Edition) - EP · 2020-07-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/2e/e3/a12ee389-eb75-1396-4a10-8f3491c05993/4538182898383_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/koi-ichibanme-special-edition-ep/1522396945?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "恋、いちばんめ",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ウノ-ウノ",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%A6%E3%83%8E-%E3%82%A6%E3%83%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%A6%E3%83%8E-%E3%82%A6%E3%83%8E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Poppin'love!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Poppin%27love%21%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Poppin%27love%21%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "時間。光り輝く螺旋の球。",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%99%82%E9%96%93%E3%80%82%E5%85%89%E3%82%8A%E8%BC%9D%E3%81%8F%E8%9E%BA%E6%97%8B%E3%81%AE%E7%90%83%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%99%82%E9%96%93%E3%80%82%E5%85%89%E3%82%8A%E8%BC%9D%E3%81%8F%E8%9E%BA%E6%97%8B%E3%81%AE%E7%90%83%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "can't go back summer",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20can%27t%20go%20back%20summer%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20can%27t%20go%20back%20summer",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1551573537",
+      "title": "Wings",
+      "date": "2021-02-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/wings-single/1551573537?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/wings-single/1551573537?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Wings - Single · 2021-02-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/a2/ab/c3a2ab90-34a9-c4d0-5720-17dc7214516c/4538182938553_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/wings-single/1551573537?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "WINGS",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20WINGS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20WINGS",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1570551823",
+      "title": "T.O.N.E",
+      "date": "2021-06-21",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/t-o-n-e-ep/1570551823?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/t-o-n-e-ep/1570551823?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · T.O.N.E - EP · 2021-06-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/48/a0/76/48a076f2-90e1-86fa-427d-10f3d9e1570a/4538182961438_cov.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/t-o-n-e-ep/1570551823?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ファンファーレ",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Shining City Lights",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Shining%20City%20Lights%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Shining%20City%20Lights",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ガールズナイト",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%8A%E3%82%A4%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%8A%E3%82%A4%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Party goes on.",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Party%20goes%20on.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Party%20goes%20on.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WINGS",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20WINGS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20WINGS",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1592995861",
+      "title": "MORE!×3",
+      "date": "2021-11-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/more-3-single/1592995861?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/more-3-single/1592995861?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · MORE!×3 - Single · 2021-11-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/3a/4e/e43a4e46-595f-2734-ed76-7d8628fb3503/4580789429132.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/more-3-single/1592995861?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "MORE!×3",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20MORE%21%C3%973%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20MORE%21%C3%973",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · MORE!×3 - EP · 2022-04-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4b/79/32/4b79322d-a492-ae05-26a7-623e0f025c66/4580789461002.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/more-3-ep/1615964713?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "MORE!×3",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20MORE%21%C3%973%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20MORE%21%C3%973",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "AM0805の交差点",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ニューフィクション",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MORE!×3 (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20MORE%21%C3%973%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20MORE%21%C3%973%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "AM0805の交差点 (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ニューフィクション (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864939727",
+      "title": "Viva La Vida",
+      "date": "2022-08-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/viva-la-vida-single/1864939727?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/viva-la-vida-single/1864939727?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Viva La Vida - Single · 2022-08-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/e2/7d/cce27d62-43a4-af78-80b9-b083678776c6/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/viva-la-vida-single/1864939727?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Viva La Vida",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Viva%20La%20Vida%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Viva%20La%20Vida",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864939933",
+      "title": "空想トラベル",
+      "date": "2022-09-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E7%A9%BA%E6%83%B3%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB-single/1864939933?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%A9%BA%E6%83%B3%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB-single/1864939933?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 空想トラベル - Single · 2022-09-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/3f/71/6c3f7123-8917-3d7a-0e5c-9308775d4ad3/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%A9%BA%E6%83%B3%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB-single/1864939933?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "空想トラベル",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E7%A9%BA%E6%83%B3%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E7%A9%BA%E6%83%B3%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864941241",
+      "title": "青春小節",
+      "date": "2022-11-16",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-ep/1864941241?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-ep/1864941241?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青春小節 - EP · 2022-11-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/06/e9/d506e92d-6453-4957-0872-0cb8fabdd99a/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-ep/1864941241?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アフタヌーン・グラフィティ",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空想トラベル",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E7%A9%BA%E6%83%B3%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E7%A9%BA%E6%83%B3%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Killer Lips",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Killer%20Lips%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Killer%20Lips",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コリオリ",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%B3%E3%83%AA%E3%82%AA%E3%83%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%B3%E3%83%AA%E3%82%AA%E3%83%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Viva La Vida",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Viva%20La%20Vida%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Viva%20La%20Vida",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラブパレード",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%A9%E3%83%96%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%A9%E3%83%96%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864952980",
+      "title": "コズミック・フロート",
+      "date": "2023-01-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF-%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88-single/1864952980?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF-%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88-single/1864952980?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · コズミック・フロート - Single · 2023-01-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/c1/1c/52c11c0d-8793-1f65-20f6-9c8e7bfc98f5/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF-%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88-single/1864952980?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "コズミック・フロート",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864056281",
+      "title": "TAiLWiND",
+      "date": "2023-04-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/tailwind-single/1864056281?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/tailwind-single/1864056281?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · TAiLWiND - Single · 2023-04-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/41/66/ae41663a-f1e7-f089-b96f-13d5d6466176/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/tailwind-single/1864056281?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TAiLWiND",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20TAiLWiND%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20TAiLWiND",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864055881",
+      "title": "wonder little love",
+      "date": "2023-05-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/wonder-little-love-single/1864055881?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/wonder-little-love-single/1864055881?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · wonder little love - Single · 2023-05-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/f2/dd/52f2ddb1-b0e0-02ee-0f25-45a41ce954f4/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/wonder-little-love-single/1864055881?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "wonder little love",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20wonder%20little%20love%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20wonder%20little%20love",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · wonder little love - EP · 2023-06-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/5e/3f/155e3f66-8378-1789-1200-a39436bf8b8d/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/wonder-little-love-ep/1865146724?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "wonder little love",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20wonder%20little%20love%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20wonder%20little%20love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TAiLWiND",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20TAiLWiND%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20TAiLWiND",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Glow-up-Days",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Glow-up-Days%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Glow-up-Days",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "wonder little love (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20wonder%20little%20love%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20wonder%20little%20love%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TAiLWiND (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20TAiLWiND%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20TAiLWiND%20%28Instrumental%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Glow-up-Days (Instrumental)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Glow-up-Days%20%28Instrumental%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Glow-up-Days%20%28Instrumental%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864056720",
+      "title": "ティーンスピリット",
+      "date": "2023-10-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88-single/1864056720?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88-single/1864056720?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ティーンスピリット - Single · 2023-10-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/8f/6e/358f6ec1-9108-61ec-1c7f-b267394b5784/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88-single/1864056720?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ティーンスピリット",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864057023",
+      "title": "Rising dream",
+      "date": "2023-11-08",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/rising-dream-single/1864057023?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/rising-dream-single/1864057023?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Rising dream - Single · 2023-11-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/5a/4e/5b5a4ec5-e7fc-7efd-392a-4f8d0e847831/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/rising-dream-single/1864057023?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Rising dream",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Rising%20dream%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Rising%20dream",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864057641",
+      "title": "青春小節～音楽紀行～",
+      "date": "2023-12-20",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-%E9%9F%B3%E6%A5%BD%E7%B4%80%E8%A1%8C/1864057641?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-%E9%9F%B3%E6%A5%BD%E7%B4%80%E8%A1%8C/1864057641?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青春小節～音楽紀行～ · 2023-12-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/11/7e/b0117e57-69a1-da7a-7d90-4b51495b2960/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-%E9%9F%B3%E6%A5%BD%E7%B4%80%E8%A1%8C/1864057641?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "We are...",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20We%20are...%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20We%20are...",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Rising dream",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Rising%20dream%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Rising%20dream",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "wonder little love",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20wonder%20little%20love%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20wonder%20little%20love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TAiLWiND",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20TAiLWiND%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20TAiLWiND",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カノープス",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%AB%E3%83%8E%E3%83%BC%E3%83%97%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%AB%E3%83%8E%E3%83%BC%E3%83%97%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "don't say Love",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20don%27t%20say%20Love%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20don%27t%20say%20Love",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コズミック・フロート",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ティーンスピリット",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スーパーガール★センセーション",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E2%98%85%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E2%98%85%E3%82%BB%E3%83%B3%E3%82%BB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Glow-up-Days",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Glow-up-Days%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Glow-up-Days",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "つなぐ",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%81%A4%E3%81%AA%E3%81%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%81%A4%E3%81%AA%E3%81%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "We are... (reprise)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20We%20are...%20%28reprise%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20We%20are...%20%28reprise%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1865146607",
+      "title": "Overnight Rainbow",
+      "date": "2024-01-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/overnight-rainbow-single/1865146607?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/overnight-rainbow-single/1865146607?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Overnight Rainbow - Single · 2024-01-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/29/28/51292888-25fb-af30-5494-0d1ac6f4bdba/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/overnight-rainbow-single/1865146607?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Overnight Rainbow",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Overnight%20Rainbow%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Overnight%20Rainbow",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · Overnight Rainbow - EP · 2024-03-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/de/b3/b4deb3b1-b2b9-94a3-e08e-1f66deb3dbbc/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/overnight-rainbow-ep/1864057230?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Overnight Rainbow",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Overnight%20Rainbow%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Overnight%20Rainbow",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "透明",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E9%80%8F%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E9%80%8F%E6%98%8E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マーマレード・フレイバー",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Overnight Rainbow Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Overnight%20Rainbow%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Overnight%20Rainbow%20Instrumental",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "透明 Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E9%80%8F%E6%98%8E%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E9%80%8F%E6%98%8E%20Instrumental",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マーマレード・フレイバー Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC%20Instrumental",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864056044",
+      "title": "透明",
+      "date": "2024-02-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E9%80%8F%E6%98%8E-single/1864056044?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%80%8F%E6%98%8E-single/1864056044?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 透明 - Single · 2024-02-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/7e/1f/447e1f6f-6555-12c8-8ca7-7ebdc89aa5df/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%80%8F%E6%98%8E-single/1864056044?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "透明",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E9%80%8F%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E9%80%8F%E6%98%8E",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864055924",
+      "title": "推≒恋",
+      "date": "2024-08-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%8E%A8-%E6%81%8B-single/1864055924?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%8E%A8-%E6%81%8B-single/1864055924?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 推≒恋 - Single · 2024-08-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/e3/ba/8fe3baed-f2b3-a8d2-e417-8311ec8f3d2d/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%8E%A8-%E6%81%8B-single/1864055924?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "推≒恋",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%8E%A8%E2%89%92%E6%81%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%8E%A8%E2%89%92%E6%81%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864953020",
+      "title": "yummy!!",
+      "date": "2024-09-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/yummy-ep/1864953020?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/yummy-ep/1864953020?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · yummy!! - EP · 2024-09-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/5a/b1/b65ab1cd-03b1-59e3-d210-4a2e6a9caae4/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/yummy-ep/1864953020?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "推≒恋",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%8E%A8%E2%89%92%E6%81%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%8E%A8%E2%89%92%E6%81%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "結び目",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E7%B5%90%E3%81%B3%E7%9B%AE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E7%B5%90%E3%81%B3%E7%9B%AE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マリオネットガール",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "推≒恋 Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%8E%A8%E2%89%92%E6%81%8B%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%8E%A8%E2%89%92%E6%81%8B%20Instrumental",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "結び目 Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E7%B5%90%E3%81%B3%E7%9B%AE%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E7%B5%90%E3%81%B3%E7%9B%AE%20Instrumental",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マリオネットガール Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB%20Instrumental",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864055371",
+      "title": "TOUTOI",
+      "date": "2025-01-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/toutoi-single/1864055371?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/toutoi-single/1864055371?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · TOUTOI - Single · 2025-01-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/1b/86/691b8664-dbb4-b592-97e5-7c4f164d3397/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/toutoi-single/1864055371?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TOUTOI",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20TOUTOI%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20TOUTOI",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1864055352",
+      "title": "Trip To The TKY",
+      "date": "2025-02-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/trip-to-the-tky-single/1864055352?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/trip-to-the-tky-single/1864055352?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Trip To The TKY - Single · 2025-02-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/77/18/527718c2-a5a2-be7f-82c5-69322930533e/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/trip-to-the-tky-single/1864055352?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Trip To The TKY",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Trip%20To%20The%20TKY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Trip%20To%20The%20TKY",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1865148487",
+      "title": "T",
+      "date": "2025-03-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/t-ep/1865148487?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/t-ep/1865148487?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · T - EP · 2025-03-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/81/02/6d810210-421c-0ea0-e607-8bcee84b955d/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/t-ep/1865148487?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TOUTOI",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20TOUTOI%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20TOUTOI",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Trip To The TKY",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Trip%20To%20The%20TKY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Trip%20To%20The%20TKY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Tokyo Landed Girl",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Tokyo%20Landed%20Girl%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Tokyo%20Landed%20Girl",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TOUTOI Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20TOUTOI%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20TOUTOI%20Instrumental",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Trip To The TKY Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Trip%20To%20The%20TKY%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Trip%20To%20The%20TKY%20Instrumental",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Tokyo Landed Girl Instrumental",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Tokyo%20Landed%20Girl%20Instrumental%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Tokyo%20Landed%20Girl%20Instrumental",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1826003287",
+      "title": "それは月曜日の9時のように (10th ver.)",
+      "date": "2025-07-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB-10th-ver-single/1826003287?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB-10th-ver-single/1826003287?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · それは月曜日の9時のように (10th ver.) - Single · 2025-07-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/d0/25/44d02513-6539-fa61-be6f-a97b670f46ca/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB-10th-ver-single/1826003287?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "それは月曜日の9時のように (10th ver.)",
+                  "youtube": "https://www.youtube.com/watch?v=C3u1hXhZhsk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1827689189",
+      "title": "Aonity",
+      "date": "2025-08-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/aonity-single/1827689189?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/aonity-single/1827689189?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Aonity - Single · 2025-08-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/93/b7/eb93b70d-8b25-4a65-5961-26a8a999b93c/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/aonity-single/1827689189?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Aonity",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Aonity%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Aonity",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1835716625",
+      "title": "Re:RAY",
+      "date": "2025-09-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/re-ray-single/1835716625?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/re-ray-single/1835716625?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Re:RAY - Single · 2025-09-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/30/28/923028fe-26b8-120c-849f-f56fc54f18dd/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/re-ray-single/1835716625?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Re:RAY",
+                  "youtube": "https://www.youtube.com/watch?v=2oTaKPXcZvk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ukka%20Re%3ARAY",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1839156283",
+      "title": "AM0805の交差点 (10th ver.)",
+      "date": "2025-09-24",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/am0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9-10th-ver-single/1839156283?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/am0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9-10th-ver-single/1839156283?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · AM0805の交差点 (10th ver.) - Single · 2025-09-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/48/65/9d48650a-2c19-fe1a-f360-77e88093175e/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/am0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9-10th-ver-single/1839156283?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "AM0805の交差点 (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1839237118",
+      "title": "アフタヌーン・グラフィティ (10th ver.)",
+      "date": "2025-10-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3-10th-ver-single/1839237118?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3-10th-ver-single/1839237118?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · アフタヌーン・グラフィティ (10th ver.) - Single · 2025-10-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/12/11/8212115e-4e6a-dc05-c389-0b006d7e027f/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3-10th-ver-single/1839237118?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アフタヌーン・グラフィティ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1839241611",
+      "title": "キラキラ (10th ver.)",
+      "date": "2025-10-08",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9-10th-ver-single/1839241611?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9-10th-ver-single/1839241611?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · キラキラ (10th ver.) - Single · 2025-10-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/4c/fc/744cfc7e-7900-86f2-b4b0-e313a4c7a9d7/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9-10th-ver-single/1839241611?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "キラキラ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1842293798",
+      "title": "恋、いちばんめ (10th ver.)",
+      "date": "2025-10-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%81%8B-%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81-10th-ver-single/1842293798?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%81%8B-%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81-10th-ver-single/1842293798?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 恋、いちばんめ (10th ver.) - Single · 2025-10-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/35/b2/4c35b210-7e2d-1881-d549-98e854c4b377/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%81%8B-%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81-10th-ver-single/1842293798?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "恋、いちばんめ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1843591489",
+      "title": "リンドバーグ (10th ver.)",
+      "date": "2025-10-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0-10th-ver-single/1843591489?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0-10th-ver-single/1843591489?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · リンドバーグ (10th ver.) - Single · 2025-10-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/72/72/18727278-7b1a-a132-8832-aa8429288ea2/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0-10th-ver-single/1843591489?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "リンドバーグ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1845996344",
+      "title": "WINGS (10th ver.)",
+      "date": "2025-10-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/wings-10th-ver-single/1845996344?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/wings-10th-ver-single/1845996344?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · WINGS (10th ver.) - Single · 2025-10-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/28/04/562804ee-c2ef-da27-4385-0c93040d02bb/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/wings-10th-ver-single/1845996344?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "WINGS (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20WINGS%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20WINGS%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ukka-1839200577",
+      "title": "青春小節～約束と衝動～",
+      "date": "2025-11-19",
+      "kind": "compilation",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Album del decennale: undici reincisioni e tre nuovi brani.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-%E7%B4%84%E6%9D%9F%E3%81%A8%E8%A1%9D%E5%8B%95/1839200577?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-%E7%B4%84%E6%9D%9F%E3%81%A8%E8%A1%9D%E5%8B%95/1839200577?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青春小節～約束と衝動～ · 2025-11-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/09/fd/c009fd88-da82-1a7d-6732-259efc7fc658/cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E5%B0%8F%E7%AF%80-%E7%B4%84%E6%9D%9F%E3%81%A8%E8%A1%9D%E5%8B%95/1839200577?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Aonity",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Aonity%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Aonity",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "それは月曜日の9時のように (10th ver.)",
+                  "youtube": "https://www.youtube.com/watch?v=C3u1hXhZhsk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%81%9D%E3%82%8C%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE9%E6%99%82%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "AM0805の交差点 (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20AM0805%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アフタヌーン・グラフィティ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "コズミック・フロート (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キラキラ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "リンドバーグ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WINGS (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20WINGS%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20WINGS%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Glow-up-Days (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Glow-up-Days%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Glow-up-Days%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Rising dream (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20Rising%20dream%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20Rising%20dream%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラブパレード (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E3%83%A9%E3%83%96%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%A9%E3%83%96%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋、いちばんめ (10th ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81%20%2810th%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E6%81%8B%E3%80%81%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%81%20%2810th%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "リボンのひみつ",
+                  "youtube": "https://www.youtube.com/watch?v=wfuWxjCMz3U",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ukka%20%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%AE%E3%81%B2%E3%81%BF%E3%81%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Re:RAY",
+                  "youtube": "https://www.youtube.com/watch?v=2oTaKPXcZvk",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/ukka%20Re%3ARAY",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://www.teichiku.co.jp/artist/ukka/"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://www.teichiku.co.jp/artist/ukka/profile/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://www.teichiku.co.jp/artist/ukka/discography/"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/1551087168"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/@ukka"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/5ErVIz40xS7x1tcGVpOv7p"
+    },
+    {
+      "label": "Final Chapter · annuncio e playlist della label",
+      "url": "https://www.teichiku.co.jp/artist/ukka/"
+    },
+    {
+      "label": "Sakura Ebis · catalogo digitale precedente",
+      "url": "https://music.apple.com/jp/artist/1406802733"
+    },
+    {
+      "label": "Annuncio della conclusione dell’attività · blog ufficiale",
+      "url": "https://ameblo.jp/ukka-official/entry-12951660374.html"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}

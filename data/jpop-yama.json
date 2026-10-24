@@ -1,0 +1,3199 @@
+{
+  "artist": "yama",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/yama/portrait.jpg",
+  "members": [],
+  "officialVideos": [
+    {
+      "id": "aCTZOagjuGA",
+      "title": "mountain · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=aCTZOagjuGA",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    },
+    {
+      "id": "jFB4e8AHTfo",
+      "title": "U and I · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=jFB4e8AHTfo",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    },
+    {
+      "id": "WvXreqyK7rE",
+      "title": "UPSIDE DOWN · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=WvXreqyK7rE",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    },
+    {
+      "id": "vCrZrKbg-Us",
+      "title": "飛ぶ時 · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=vCrZrKbg-Us",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    },
+    {
+      "id": "8uRMfPTAhkU",
+      "title": "飛ぼうよ · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=8uRMfPTAhkU",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "aCTZOagjuGA",
+      "title": "mountain · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=aCTZOagjuGA",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    },
+    {
+      "id": "jFB4e8AHTfo",
+      "title": "U and I · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=jFB4e8AHTfo",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    },
+    {
+      "id": "8uRMfPTAhkU",
+      "title": "飛ぼうよ · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=8uRMfPTAhkU",
+      "source": "https://yamaofficial.com/",
+      "author": "yama · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "yama-1487906899",
+      "title": "ねむるまち (feat. yama)",
+      "date": "2019-11-15",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/%E3%81%AD%E3%82%80%E3%82%8B%E3%81%BE%E3%81%A1-feat-yama-single/1487906899?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%AD%E3%82%80%E3%82%8B%E3%81%BE%E3%81%A1-feat-yama-single/1487906899?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ねむるまち (feat. yama) - Single · 2019-11-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a4/5d/53/a45d53f7-7097-f15d-b10c-c55f2f41f883/859755238813_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%AD%E3%82%80%E3%82%8B%E3%81%BE%E3%81%A1-feat-yama-single/1487906899?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ねむるまち (feat. yama)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%81%8F%E3%81%98%E3%82%89%20%E3%81%AD%E3%82%80%E3%82%8B%E3%81%BE%E3%81%A1%20%28feat.%20yama%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%81%8F%E3%81%98%E3%82%89%20%E3%81%AD%E3%82%80%E3%82%8B%E3%81%BE%E3%81%A1%20%28feat.%20yama%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1506186425",
+      "title": "春を告げる",
+      "date": "2020-04-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-single/1506186425?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-single/1506186425?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 春を告げる - Single · 2020-04-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/f0/3c/1bf03cf2-9c8a-9055-6272-82c5d8e8bd38/859755578803_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-single/1506186425?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春を告げる",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1514044925",
+      "title": "クリーム",
+      "date": "2020-05-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-single/1514044925?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-single/1514044925?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · クリーム - Single · 2020-05-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/c3/52/e5c352a0-94fd-b8b4-17df-ee976f52e689/859755788752_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0-single/1514044925?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "クリーム",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1520213931",
+      "title": "Downtown",
+      "date": "2020-07-01",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/downtown-single/1520213931?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/downtown-single/1520213931?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Downtown - Single · 2020-07-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/7f/e8/e37fe87f-fe76-4019-73e4-459087b1d551/859755940648_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/downtown-single/1520213931?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Downtown",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Downtown%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Downtown",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1526821927",
+      "title": "A.M.3:21",
+      "date": "2020-08-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/a-m-3-21-single/1526821927?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/a-m-3-21-single/1526821927?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · A.M.3:21 - Single · 2020-08-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/28/02/08280293-86a6-3f94-653f-bc2829f2157c/859756048695_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/a-m-3-21-single/1526821927?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "a.m.3:21",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20a.m.3%3A21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20a.m.3%3A21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1529395757",
+      "title": "あるいは映画のような",
+      "date": "2020-09-07",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA-single/1529395757?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA-single/1529395757?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · あるいは映画のような - Single · 2020-09-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/78/cf/8c78cf33-1228-56d0-a405-869f5a28f346/859756101017_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA-single/1529395757?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "あるいは映画のような",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1534682685",
+      "title": "Masshiro",
+      "date": "2020-10-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/masshiro-single/1534682685?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/masshiro-single/1534682685?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Masshiro - Single · 2020-10-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/ff/ec/58ffeca1-222b-e5ea-c900-ebe684711364/4547366478792.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/masshiro-single/1534682685?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "真っ白",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%9C%9F%E3%81%A3%E7%99%BD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1545902974",
+      "title": "麻痺",
+      "date": "2021-01-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E9%BA%BB%E7%97%BA-single/1545902974?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%BA%BB%E7%97%BA-single/1545902974?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 麻痺 - Single · 2021-01-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/9c/ae/6d9cae1e-6199-0f32-4448-f2b8a246b530/4547366492699.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%BA%BB%E7%97%BA-single/1545902974?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "麻痺",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%BA%BB%E7%97%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%BA%BB%E7%97%BA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 麻痺 - EP · 2021-02-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/e7/3c/2fe73c72-ed00-8d3e-653a-ba810f7063a8/4547366497212.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%BA%BB%E7%97%BA-ep/1550758121?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "麻痺",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%BA%BB%E7%97%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%BA%BB%E7%97%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "クローバー",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ブルーマンデー",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%87%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%87%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "タルト",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%BF%E3%83%AB%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%BF%E3%83%AB%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "麻痺 (Jazz Arrange Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%BA%BB%E7%97%BA%20%28Jazz%20Arrange%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%BA%BB%E7%97%BA%20%28Jazz%20Arrange%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1548496856",
+      "title": "春を告げる - From THE FIRST TAKE",
+      "date": "2021-01-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-from-the-first-take-single/1548496856?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-from-the-first-take-single/1548496856?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 春を告げる - From THE FIRST TAKE - Single · 2021-01-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9f/4a/bd/9f4abded-e343-d765-cc49-9de9a898b56c/4547366495294.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-from-the-first-take-single/1548496856?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春を告げる - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1549864979",
+      "title": "Hello/Hello (feat. yama & 泣き虫)",
+      "date": "2021-02-03",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/hello-hello-feat-yama-%E6%B3%A3%E3%81%8D%E8%99%AB-single/1549864979?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hello-hello-feat-yama-%E6%B3%A3%E3%81%8D%E8%99%AB-single/1549864979?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Hello/Hello (feat. yama & 泣き虫) - Single · 2021-02-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/01/9e/20019e2d-3eb6-94ff-1705-dd1dff27db4d/4547366496888.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hello-hello-feat-yama-%E6%B3%A3%E3%81%8D%E8%99%AB-single/1549864979?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Hello/Hello (feat. yama & 泣き虫)",
+                  "youtube": "https://www.youtube.com/results?search_query=MAISONdes%20Hello/Hello%20%28feat.%20yama%20%26%20%E6%B3%A3%E3%81%8D%E8%99%AB%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/MAISONdes%20Hello/Hello%20%28feat.%20yama%20%26%20%E6%B3%A3%E3%81%8D%E8%99%AB%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1549865107",
+      "title": "真っ白 - From THE FIRST TAKE",
+      "date": "2021-02-05",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E7%9C%9F%E3%81%A3%E7%99%BD-from-the-first-take-single/1549865107?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%9C%9F%E3%81%A3%E7%99%BD-from-the-first-take-single/1549865107?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 真っ白 - From THE FIRST TAKE - Single · 2021-02-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/fb/11/17fb1136-5b14-1f13-21c0-f7e690e7ff11/4547366495225.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%9C%9F%E3%81%A3%E7%99%BD-from-the-first-take-single/1549865107?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "真っ白 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1551745590",
+      "title": "名前のない日々へ",
+      "date": "2021-02-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%81%B8-single/1551745590?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%81%B8-single/1551745590?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 名前のない日々へ - Single · 2021-02-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/28/85/e1/2885e1a2-f4d4-007c-e6df-bd41ef795490/4547366498066.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%81%B8-single/1551745590?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "名前のない日々へ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%81%B8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1557863842",
+      "title": "一寸の赤",
+      "date": "2021-03-25",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E4%B8%80%E5%AF%B8%E3%81%AE%E8%B5%A4-single/1557863842?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E4%B8%80%E5%AF%B8%E3%81%AE%E8%B5%A4-single/1557863842?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 一寸の赤 - Single · 2021-03-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/3c/45/cb3c4557-d462-4297-f120-606235a79074/4547366503203.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%80%E5%AF%B8%E3%81%AE%E8%B5%A4-single/1557863842?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "一寸の赤",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E4%B8%80%E5%AF%B8%E3%81%AE%E8%B5%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E4%B8%80%E5%AF%B8%E3%81%AE%E8%B5%A4",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1567199828",
+      "title": "カーテンコール",
+      "date": "2021-05-28",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB-single/1567199828?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB-single/1567199828?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · カーテンコール - Single · 2021-05-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/50/e7/fc50e775-c88a-e759-91aa-f87fd41c8f2f/4547366512830.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB-single/1567199828?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "カーテンコール",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1571234877",
+      "title": "Sleepless Night",
+      "date": "2021-06-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/sleepless-night-single/1571234877?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sleepless-night-single/1571234877?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Sleepless Night - Single · 2021-06-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/d1/b1/5bd1b1c5-3351-0106-9d28-f910578d94ea/4547366518191.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/sleepless-night-single/1571234877?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Sleepless Night",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Sleepless%20Night%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Sleepless%20Night",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1579454139",
+      "title": "the meaning of life",
+      "date": "2021-08-30",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/the-meaning-of-life/1579454139?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/the-meaning-of-life/1579454139?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · the meaning of life · 2021-08-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/2d/7f/0f2d7f4d-578b-46e8-ba8e-66d40df8732f/4547366524826.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/the-meaning-of-life/1579454139?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ランニングアウト",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "血流",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%A1%80%E6%B5%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%A1%80%E6%B5%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "麻痺",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%BA%BB%E7%97%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%BA%BB%E7%97%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カーテンコール",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真っ白",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%9C%9F%E3%81%A3%E7%99%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sleepless Night",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Sleepless%20Night%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Sleepless%20Night",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "クローバー",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一寸の赤",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E4%B8%80%E5%AF%B8%E3%81%AE%E8%B5%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E4%B8%80%E5%AF%B8%E3%81%AE%E8%B5%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "名前のない日々へ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%90%8D%E5%89%8D%E3%81%AE%E3%81%AA%E3%81%84%E6%97%A5%E3%80%85%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "希望論",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%B8%8C%E6%9C%9B%E8%AB%96%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%B8%8C%E6%9C%9B%E8%AB%96",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "天色",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%A4%A9%E8%89%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%A4%A9%E8%89%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春を告げる - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真っ白 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "a.m.3:21 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20a.m.3%3A21%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20a.m.3%3A21%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1581521418",
+      "title": "a.m.3:21 - From THE FIRST TAKE",
+      "date": "2021-08-30",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/a-m-3-21-from-the-first-take-single/1581521418?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/a-m-3-21-from-the-first-take-single/1581521418?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · a.m.3:21 - From THE FIRST TAKE - Single · 2021-08-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/cf/9e/aecf9e70-0379-525b-d178-ffbad684a3b0/4547366527834.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/a-m-3-21-from-the-first-take-single/1581521418?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "a.m.3:21 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20a.m.3%3A21%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20a.m.3%3A21%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1589026057",
+      "title": "Oz.",
+      "date": "2021-10-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/oz-single/1589026057?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/oz-single/1589026057?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Oz. - Single · 2021-10-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/af/c8/4cafc888-67aa-692c-2106-9c545c6196b3/4547366533927.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/oz-single/1589026057?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Oz.",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Oz.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Oz.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1590828090",
+      "title": "アブノーマリティー。 (feat. yama)",
+      "date": "2021-11-05",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%96%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC-feat-yama-single/1590828090?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%96%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC-feat-yama-single/1590828090?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · アブノーマリティー。 (feat. yama) - Single · 2021-11-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/fb/30/cbfb30d1-d423-ef64-6917-544c4398ab33/PCSP_03840_A.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%96%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC-feat-yama-single/1590828090?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アブノーマリティー。 (feat. yama)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E6%B3%A3%E3%81%8D%E8%99%AB%20%E3%82%A2%E3%83%96%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%80%82%20%28feat.%20yama%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E6%B3%A3%E3%81%8D%E8%99%AB%20%E3%82%A2%E3%83%96%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%80%82%20%28feat.%20yama%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1592088847",
+      "title": "麻痺 - From THE FIRST TAKE",
+      "date": "2021-11-16",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E9%BA%BB%E7%97%BA-from-the-first-take-single/1592088847?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%BA%BB%E7%97%BA-from-the-first-take-single/1592088847?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 麻痺 - From THE FIRST TAKE - Single · 2021-11-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/96/e5/2596e5b3-414a-8bda-d683-a6f900a5cc77/4547366537833.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%BA%BB%E7%97%BA-from-the-first-take-single/1592088847?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "麻痺 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%BA%BB%E7%97%BA%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%BA%BB%E7%97%BA%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1593512977",
+      "title": "Oz. / 世界は美しいはずなんだ / スモーキーヒロイン",
+      "date": "2021-11-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/oz-%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0-%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3-ep/1593512977?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/oz-%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0-%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3-ep/1593512977?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Oz. / 世界は美しいはずなんだ / スモーキーヒロイン - EP · 2021-11-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/f2/80/8bf28083-e3b8-56f8-e494-71d915d9ec03/4547366538663.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/oz-%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0-%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3-ep/1593512977?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Oz.",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Oz.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Oz.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界は美しいはずなんだ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スモーキーヒロイン",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "麻痺 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%BA%BB%E7%97%BA%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%BA%BB%E7%97%BA%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1612444868",
+      "title": "MoonWalker",
+      "date": "2022-03-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/moonwalker-single/1612444868?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/moonwalker-single/1612444868?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · MoonWalker - Single · 2022-03-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/2b/e0/5f2be019-6f61-f4c9-6c19-f6a8ac609767/4547366555684.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/moonwalker-single/1612444868?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "MoonWalker",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20MoonWalker%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20MoonWalker",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1628517349",
+      "title": "桃源郷",
+      "date": "2022-06-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%A1%83%E6%BA%90%E9%83%B7-single/1628517349?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%A1%83%E6%BA%90%E9%83%B7-single/1628517349?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 桃源郷 - Single · 2022-06-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/f7/16/7df7162f-fa7e-e2cf-0645-ac0f1f86dacb/4547366569926.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%A1%83%E6%BA%90%E9%83%B7-single/1628517349?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "桃源郷",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%A1%83%E6%BA%90%E9%83%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%A1%83%E6%BA%90%E9%83%B7",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1634363764",
+      "title": "くびったけ",
+      "date": "2022-07-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91-single/1634363764?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91-single/1634363764?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · くびったけ - Single · 2022-07-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/61/d4/22/61d42295-919d-49a4-b883-c05ed7748d0a/4547366575736.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91-single/1634363764?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "くびったけ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1636640199",
+      "title": "Lost",
+      "date": "2022-08-17",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/lost-single/1636640199?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/lost-single/1636640199?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Lost - Single · 2022-08-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3d/e5/e0/3de5e092-2be9-079f-4052-029d1da71605/4547366578546.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/lost-single/1636640199?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Lost",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Lost%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Lost",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1638668168",
+      "title": "Versus the night",
+      "date": "2022-08-31",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/versus-the-night/1638668168?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/versus-the-night/1638668168?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Versus the night · 2022-08-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/cb/32/afcb3257-b2b0-ddfe-9d75-086ce79bd8b1/4547366579987.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/versus-the-night/1638668168?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "桃源郷",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%A1%83%E6%BA%90%E9%83%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%A1%83%E6%BA%90%E9%83%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MoonWalker",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20MoonWalker%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20MoonWalker",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "くびったけ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スモーキーヒロイン",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Lost",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Lost%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Lost",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ライカ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%A9%E3%82%A4%E3%82%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%A9%E3%82%A4%E3%82%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ないの。",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%AA%E3%81%84%E3%81%AE%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%AA%E3%81%84%E3%81%AE%E3%80%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Oz.",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Oz.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Oz.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マスカレイド",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "存在証明",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%AD%98%E5%9C%A8%E8%A8%BC%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%AD%98%E5%9C%A8%E8%A8%BC%E6%98%8E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "光の夜",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%85%89%E3%81%AE%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%85%89%E3%81%AE%E5%A4%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界は美しいはずなんだ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "それでも僕は",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%83%95%E3%81%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%83%95%E3%81%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1644816106",
+      "title": "色彩",
+      "date": "2022-10-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-single/1644816106?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-single/1644816106?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 色彩 - Single · 2022-10-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/5a/ae/ad5aae5b-d1c6-93b9-6162-7232c008ff49/4547366585377.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-single/1644816106?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "色彩",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%89%B2%E5%BD%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%89%B2%E5%BD%A9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 色彩 - Single · 2022-11-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/b3/d7/8bb3d78d-ed7a-1caf-af66-ba3a0031742e/4547366592665.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-single/1651594368?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "色彩",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%89%B2%E5%BD%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%89%B2%E5%BD%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛を解く",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%84%9B%E3%82%92%E8%A7%A3%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%84%9B%E3%82%92%E8%A7%A3%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "新星",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%96%B0%E6%98%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%96%B0%E6%98%9F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1657343229",
+      "title": "色彩 - From THE FIRST TAKE",
+      "date": "2022-12-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-from-the-first-take-single/1657343229?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-from-the-first-take-single/1657343229?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 色彩 - From THE FIRST TAKE - Single · 2022-12-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e4/41/a7/e441a757-5971-bd51-0d0b-8536857c8366/4547366598933.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-from-the-first-take-single/1657343229?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "色彩 - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%89%B2%E5%BD%A9%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%89%B2%E5%BD%A9%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1661596619",
+      "title": "アイタリナイ (feat. yama & ニト。)",
+      "date": "2023-01-13",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%8A%E3%82%A4-feat-yama-%E3%83%8B%E3%83%88-single/1661596619?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%8A%E3%82%A4-feat-yama-%E3%83%8B%E3%83%88-single/1661596619?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · アイタリナイ (feat. yama & ニト。) - Single · 2023-01-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/91/22/fc/9122fce2-327b-1c7f-265a-05d80af07847/4547366600223.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%8A%E3%82%A4-feat-yama-%E3%83%8B%E3%83%88-single/1661596619?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アイタリナイ (feat. yama & ニト。)",
+                  "youtube": "https://www.youtube.com/results?search_query=MAISONdes%20%E3%82%A2%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%8A%E3%82%A4%20%28feat.%20yama%20%26%20%E3%83%8B%E3%83%88%E3%80%82%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/MAISONdes%20%E3%82%A2%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%8A%E3%82%A4%20%28feat.%20yama%20%26%20%E3%83%8B%E3%83%88%E3%80%82%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1670941096",
+      "title": "the meaning of life TOUR 2022 Live at Zepp DiverCity",
+      "date": "2023-02-22",
+      "kind": "live",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/the-meaning-of-life-tour-2022-live-at-zepp-divercity/1670941096?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/the-meaning-of-life-tour-2022-live-at-zepp-divercity/1670941096?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · the meaning of life TOUR 2022 Live at Zepp DiverCity · 2023-02-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/b7/15/95b71531-e06e-3db5-9fe2-c86535465d70/4547366609110.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/the-meaning-of-life-tour-2022-live-at-zepp-divercity/1670941096?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "桃源郷 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%A1%83%E6%BA%90%E9%83%B7%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%A1%83%E6%BA%90%E9%83%B7%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MoonWalker -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20MoonWalker%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20MoonWalker%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ないの。 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%AA%E3%81%84%E3%81%AE%E3%80%82%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%AA%E3%81%84%E3%81%AE%E3%80%82%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "a.m.3:21 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20a.m.3%3A21%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20a.m.3%3A21%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "存在証明 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%AD%98%E5%9C%A8%E8%A8%BC%E6%98%8E%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%AD%98%E5%9C%A8%E8%A8%BC%E6%98%8E%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マスカレイド -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "スモーキーヒロイン -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Lost -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Lost%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Lost%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "光の夜 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%85%89%E3%81%AE%E5%A4%9C%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%85%89%E3%81%AE%E5%A4%9C%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Oz. -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Oz.%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Oz.%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ライカ -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%A9%E3%82%A4%E3%82%AB%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%A9%E3%82%A4%E3%82%AB%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春を告げる -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "麻痺 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%BA%BB%E7%97%BA%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%BA%BB%E7%97%BA%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "くびったけ -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%8F%E3%81%B3%E3%81%A3%E3%81%9F%E3%81%91%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "それでも僕は -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%83%95%E3%81%AF%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%83%95%E3%81%AF%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hello/Hello -the meaning of life TOUR 2022 Live at Zepp DiverCity- (feat. yama & 泣き虫)",
+                  "youtube": "https://www.youtube.com/results?search_query=MAISONdes%20Hello/Hello%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20%28feat.%20yama%20%26%20%E6%B3%A3%E3%81%8D%E8%99%AB%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/MAISONdes%20Hello/Hello%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20%28feat.%20yama%20%26%20%E6%B3%A3%E3%81%8D%E8%99%AB%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "色彩 -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%89%B2%E5%BD%A9%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%89%B2%E5%BD%A9%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界は美しいはずなんだ -the meaning of life TOUR 2022 Live at Zepp DiverCity-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0%20-the%20meaning%20of%20life%20TOUR%202022%20Live%20at%20Zepp%20DiverCity-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1676053900",
+      "title": "Monster (feat. Yama)",
+      "date": "2023-03-22",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/monster-feat-yama-single/1676053900?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/monster-feat-yama-single/1676053900?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Monster (feat. Yama) - Single · 2023-03-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/84/24/678424c9-dc7b-aac1-2d7a-1871d8071d2f/5054197605642.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/monster-feat-yama-single/1676053900?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "モンスター (feat. yama)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%28feat.%20yama%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20%28feat.%20yama%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1676219283",
+      "title": "Oz. - With ensemble",
+      "date": "2023-03-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/oz-with-ensemble-single/1676219283?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/oz-with-ensemble-single/1676219283?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Oz. - With ensemble - Single · 2023-03-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/1a/b6/351ab632-2c00-80f0-23ed-b9d4b90e7337/4547366613308.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/oz-with-ensemble-single/1676219283?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Oz. - With ensemble",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Oz.%20-%20With%20ensemble%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Oz.%20-%20With%20ensemble",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1676218658",
+      "title": "春を告げる - With ensemble",
+      "date": "2023-03-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-with-ensemble-single/1676218658?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-with-ensemble-single/1676218658?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 春を告げる - With ensemble - Single · 2023-03-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/a6/35/dfa6355a-d94a-fd3f-31b2-156251e5c22b/4547366613353.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-with-ensemble-single/1676218658?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春を告げる - With ensemble",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-%20With%20ensemble%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-%20With%20ensemble",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1679873470",
+      "title": "slash",
+      "date": "2023-04-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/slash-single/1679873470?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/slash-single/1679873470?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · slash - Single · 2023-04-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/38/e5/75/38e57594-3fb3-b71c-55fd-6aa2e7ce6d7e/4547366615692.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/slash-single/1679873470?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "slash",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20slash%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20slash",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · slash - EP · 2023-05-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/78/41/1e78418b-fab5-7412-7f94-bc07477eee35/4547366621914.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/slash-ep/1684430696?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "slash",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20slash%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20slash",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いぶき",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%84%E3%81%B6%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%84%E3%81%B6%E3%81%8D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ストロボ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "slash(Anime Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20slash%28Anime%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20slash%28Anime%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1679903149",
+      "title": "いぶき",
+      "date": "2023-04-14",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%84%E3%81%B6%E3%81%8D-single/1679903149?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%84%E3%81%B6%E3%81%8D-single/1679903149?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · いぶき - Single · 2023-04-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/9c/cc/089ccc0c-da51-fa33-9b6d-7068c8658815/4547366616958.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%84%E3%81%B6%E3%81%8D-single/1679903149?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "いぶき",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%84%E3%81%B6%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%84%E3%81%B6%E3%81%8D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1682190111",
+      "title": "Lost - With ensemble",
+      "date": "2023-05-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/lost-with-ensemble-single/1682190111?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/lost-with-ensemble-single/1682190111?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Lost - With ensemble - Single · 2023-05-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f9/a2/96/f9a29675-6c22-fcb5-983b-1a0feffc23cc/4547366618679.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/lost-with-ensemble-single/1682190111?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Lost - With ensemble",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Lost%20-%20With%20ensemble%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Lost%20-%20With%20ensemble",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1682190098",
+      "title": "色彩 - With ensemble",
+      "date": "2023-05-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-with-ensemble-single/1682190098?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-with-ensemble-single/1682190098?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 色彩 - With ensemble - Single · 2023-05-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/4d/5d/764d5da9-f276-df00-6a11-b824a4d36f68/4547366618709.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%89%B2%E5%BD%A9-with-ensemble-single/1682190098?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "色彩 - With ensemble",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%89%B2%E5%BD%A9%20-%20With%20ensemble%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%89%B2%E5%BD%A9%20-%20With%20ensemble",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1696023683",
+      "title": "返光(Movie Edition)",
+      "date": "2023-07-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E8%BF%94%E5%85%89-movie-edition-single/1696023683?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%BF%94%E5%85%89-movie-edition-single/1696023683?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 返光(Movie Edition) - Single · 2023-07-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/50/e2/0250e20c-7322-b348-ed29-27da96ab2e37/4547366633498.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%BF%94%E5%85%89-movie-edition-single/1696023683?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "返光(Movie Edition)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%BF%94%E5%85%89%28Movie%20Edition%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%BF%94%E5%85%89%28Movie%20Edition%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1705880472",
+      "title": "憧れのままに",
+      "date": "2023-09-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB-single/1705880472?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB-single/1705880472?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 憧れのままに - Single · 2023-09-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6e/44/c5/6e44c5d2-1d79-e2c8-5f73-4cafabf394bc/4547366644876.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB-single/1705880472?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "憧れのままに",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4%20%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4%20%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1710708067",
+      "title": "パレットは透明",
+      "date": "2023-10-18",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E-single/1710708067?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E-single/1710708067?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · パレットは透明 - Single · 2023-10-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/e3/db/26e3db83-40f7-4782-5da1-db310131fab3/4547366650525.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E-single/1710708067?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "パレットは透明",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1711379065",
+      "title": "ハロ",
+      "date": "2023-10-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AD-single/1711379065?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AD-single/1711379065?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ハロ - Single · 2023-10-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/7a/fe/587afefe-6647-24fd-69ae-c5bc75c6fe5b/4547366651904.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AD-single/1711379065?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ハロ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%83%8F%E3%83%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%83%8F%E3%83%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · ハロ - Single · 2023-12-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/3c/ce/a63ccef6-8d04-eb01-3029-86c5c2436a84/4547366659764.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%8F%E3%83%AD-single/1719073625?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ハロ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%83%8F%E3%83%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%83%8F%E3%83%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パレットは透明",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イケてるパーカー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%82%A4%E3%82%B1%E3%81%A6%E3%82%8B%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%82%A4%E3%82%B1%E3%81%A6%E3%82%8B%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1713477628",
+      "title": "はなにあらし (feat. yama)",
+      "date": "2023-11-08",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%82%E3%82%89%E3%81%97-feat-yama-single/1713477628?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%82%E3%82%89%E3%81%97-feat-yama-single/1713477628?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · はなにあらし (feat. yama) - Single · 2023-11-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ee/82/96ee8205-5b1f-bbb4-eb2c-26a38772f2c5/4547366653847.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%82%E3%82%89%E3%81%97-feat-yama-single/1713477628?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "はなにあらし (feat. yama)",
+                  "youtube": "https://www.youtube.com/results?search_query=DURDN%20%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%82%E3%82%89%E3%81%97%20%28feat.%20yama%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/DURDN%20%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%82%E3%82%89%E3%81%97%20%28feat.%20yama%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1719963920",
+      "title": "沫雪",
+      "date": "2023-12-20",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%B2%AB%E9%9B%AA-single/1719963920?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%B2%AB%E9%9B%AA-single/1719963920?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 沫雪 - Single · 2023-12-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/76/2d/a1762da0-40e5-a98c-25d4-3f6d9c7d7f40/4547366661194.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%B2%AB%E9%9B%AA-single/1719963920?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "沫雪",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%B2%AB%E9%9B%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%B2%AB%E9%9B%AA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1723301927",
+      "title": "awake&build",
+      "date": "2024-01-24",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/awake-build/1723301927?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/awake-build/1723301927?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · awake&build · 2024-01-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/cd/0d/afcd0df4-3cfe-e8ab-dda9-b48df42793be/4547366664836.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/awake-build/1723301927?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "色彩",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%89%B2%E5%BD%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%89%B2%E5%BD%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "偽顔",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%81%BD%E9%A1%94%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%81%BD%E9%A1%94",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "沫雪",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%B2%AB%E9%9B%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%B2%AB%E9%9B%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "日々",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%97%A5%E3%80%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%97%A5%E3%80%85",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "slash",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20slash%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20slash",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "灰炎 (with cinema staff)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%81%B0%E7%82%8E%20%28with%20cinema%20staff%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%81%B0%E7%82%8E%20%28with%20cinema%20staff%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "独白",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%8B%AC%E7%99%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%8B%AC%E7%99%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パレットは透明",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E9%80%8F%E6%98%8E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "新星",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%96%B0%E6%98%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%96%B0%E6%98%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "イノセント",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%A4%E3%83%8E%E3%82%BB%E3%83%B3%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%A4%E3%83%8E%E3%82%BB%E3%83%B3%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ストロボ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "陽だまり",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%99%BD%E3%81%A0%E3%81%BE%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%99%BD%E3%81%A0%E3%81%BE%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "憧れのままに",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4%20%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4%20%E6%86%A7%E3%82%8C%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ハロ",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%83%8F%E3%83%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%BC%E3%82%8D%E3%81%BE%E3%82%8B%20%E3%83%8F%E3%83%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1726170270",
+      "title": "acoustic live tour 2023 「夜と閃き」(2023.5.12 @GORILLA HALL OSAKA)",
+      "date": "2024-01-31",
+      "kind": "live",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/acoustic-live-tour-2023-%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D-2023-5-12-gorilla-hall-osaka/1726170270?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/acoustic-live-tour-2023-%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D-2023-5-12-gorilla-hall-osaka/1726170270?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · acoustic live tour 2023 「夜と閃き」(2023.5.12 @GORILLA HALL OSAKA) · 2024-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/89/96/e18996d6-33f9-ac92-49e2-b065761e5279/4547366665468.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/acoustic-live-tour-2023-%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D-2023-5-12-gorilla-hall-osaka/1726170270?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "真っ白 -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%9C%9F%E3%81%A3%E7%99%BD%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "新星 -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%96%B0%E6%98%9F%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%96%B0%E6%98%9F%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いぶき -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%84%E3%81%B6%E3%81%8D%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%84%E3%81%B6%E3%81%8D%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "桃源郷 -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%A1%83%E6%BA%90%E9%83%B7%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%A1%83%E6%BA%90%E9%83%B7%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春を告げる -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あるいは映画のような -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "色彩 -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%89%B2%E5%BD%A9%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%89%B2%E5%BD%A9%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "優しい人 -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%84%AA%E3%81%97%E3%81%84%E4%BA%BA%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%84%AA%E3%81%97%E3%81%84%E4%BA%BA%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Lost -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Lost%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Lost%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "光の夜 -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%85%89%E3%81%AE%E5%A4%9C%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%85%89%E3%81%AE%E5%A4%9C%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界は美しいはずなんだ -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E4%B8%96%E7%95%8C%E3%81%AF%E7%BE%8E%E3%81%97%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AA%E3%82%93%E3%81%A0%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "slash -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20slash%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20slash%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ストロボ -acoustic live tour 2023 「夜と閃き」-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%20-acoustic%20live%20tour%202023%20%E3%80%8C%E5%A4%9C%E3%81%A8%E9%96%83%E3%81%8D%E3%80%8D-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1731993249",
+      "title": "こだま",
+      "date": "2024-02-28",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%93%E3%81%A0%E3%81%BE-single/1731993249?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%93%E3%81%A0%E3%81%BE-single/1731993249?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · こだま - Single · 2024-02-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/ba/dd/23badd70-f1a9-780b-72f8-3436bb9fcc16/4547366671155.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%93%E3%81%A0%E3%81%BE-single/1731993249?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "こだま",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%93%E3%81%A0%E3%81%BE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%93%E3%81%A0%E3%81%BE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1741427996",
+      "title": "声明",
+      "date": "2024-04-27",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%A3%B0%E6%98%8E-single/1741427996?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A3%B0%E6%98%8E-single/1741427996?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 声明 - Single · 2024-04-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/4d/8d/f54d8d19-8112-b101-3baa-70eb7b6ce04b/4547366682915.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A3%B0%E6%98%8E-single/1741427996?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "声明",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%A3%B0%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%A3%B0%E6%98%8E",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1775355122",
+      "title": "オリジン",
+      "date": "2024-10-31",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-single/1775355122?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-single/1775355122?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · オリジン - Single · 2024-10-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/5a/d5/615ad5b3-5e6b-cc99-01a8-658c6cea00a0/4547366715842.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3-single/1775355122?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "オリジン",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1784725753",
+      "title": "BURN",
+      "date": "2025-01-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/burn-single/1784725753?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/burn-single/1784725753?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · BURN - Single · 2025-01-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/23/fc/e823fca3-269d-60fb-fdc4-e78fa637b93f/4547366724837.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/burn-single/1784725753?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BURN",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20WurtS%20BURN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20WurtS%20BURN",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · BURN - Single · 2025-02-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/39/4c/35394c65-91af-804b-f505-5c403cabfe36/4547366731910.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/burn-single/1791928996?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BURN",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20WurtS%20BURN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20WurtS%20BURN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "偽顔 -“the meaning of life” TOUR 2024 at LINE CUBE SHIBUYA-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%81%BD%E9%A1%94%20-%E2%80%9Cthe%20meaning%20of%20life%E2%80%9D%20TOUR%202024%20at%20LINE%20CUBE%20SHIBUYA-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%81%BD%E9%A1%94%20-%E2%80%9Cthe%20meaning%20of%20life%E2%80%9D%20TOUR%202024%20at%20LINE%20CUBE%20SHIBUYA-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "陽だまり -“the meaning of life” TOUR 2024 at LINE CUBE SHIBUYA-",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%99%BD%E3%81%A0%E3%81%BE%E3%82%8A%20-%E2%80%9Cthe%20meaning%20of%20life%E2%80%9D%20TOUR%202024%20at%20LINE%20CUBE%20SHIBUYA-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%99%BD%E3%81%A0%E3%81%BE%E3%82%8A%20-%E2%80%9Cthe%20meaning%20of%20life%E2%80%9D%20TOUR%202024%20at%20LINE%20CUBE%20SHIBUYA-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1795882775",
+      "title": "雫 (feat. indigo la End)",
+      "date": "2025-02-26",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E9%9B%AB-feat-indigo-la-end-single/1795882775?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9B%AB-feat-indigo-la-end-single/1795882775?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 雫 (feat. indigo la End) - Single · 2025-02-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/aa/08/c3aa08ba-f759-b532-8e96-12f14a632b70/4547366735673.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9B%AB-feat-indigo-la-end-single/1795882775?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "雫 (feat. indigo la End)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%9B%AB%20%28feat.%20indigo%20la%20End%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%9B%AB%20%28feat.%20indigo%20la%20End%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1798399110",
+      "title": "; semicolon",
+      "date": "2025-03-05",
+      "kind": "studio",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/semicolon/1798399110?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/semicolon/1798399110?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ; semicolon · 2025-03-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/39/1a/0c391add-b674-001a-2f98-eccff8d9022d/4547366735871.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/semicolon/1798399110?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TORIHADA",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20TORIHADA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20TORIHADA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Film",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Film%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Film",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "こだま",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%93%E3%81%A0%E3%81%BE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%93%E3%81%A0%E3%81%BE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "声明",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%A3%B0%E6%98%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%A3%B0%E6%98%8E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BURN",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%26%20WurtS%20BURN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%26%20WurtS%20BURN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MUSE",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20MUSE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20MUSE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "オリジン",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "レコード (feat. Taka Perry)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%20%28feat.%20Taka%20Perry%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%20%28feat.%20Taka%20Perry%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "rain check",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20rain%20check%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20rain%20check",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雫 (feat. indigo la End)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E9%9B%AB%20%28feat.%20indigo%20la%20End%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%9B%AB%20%28feat.%20indigo%20la%20End%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "semicolon",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20semicolon%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20semicolon",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1803063206",
+      "title": "GRIDOUT",
+      "date": "2025-04-02",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/gridout-single/1803063206?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/gridout-single/1803063206?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · GRIDOUT - Single · 2025-04-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/3f/58/543f5852-4e9b-20bd-78b9-fea38c8494de/4547366740974.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/gridout-single/1803063206?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "GRIDOUT",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20GRIDOUT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20GRIDOUT",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · GRIDOUT - Single · 2025-06-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/ee/93/4eee93d6-5545-e118-da43-f65ff6027cd2/4547366750119.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/gridout-single/1813097440?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "GRIDOUT",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20GRIDOUT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20GRIDOUT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sugarveil",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Sugarveil%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Sugarveil",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "砂の城",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E7%A0%82%E3%81%AE%E5%9F%8E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E7%A0%82%E3%81%AE%E5%9F%8E",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1809049098",
+      "title": "春を告げる(☆Taku Takahashi Remix)",
+      "date": "2025-04-23",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-taku-takahashi-remix-single/1809049098?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-taku-takahashi-remix-single/1809049098?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 春を告げる(☆Taku Takahashi Remix) - Single · 2025-04-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/2f/99/162f99ab-1abb-810d-a5be-7682adeb815a/4547366746181.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B-taku-takahashi-remix-single/1809049098?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春を告げる(☆Taku Takahashi Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%28%E2%98%86Taku%20Takahashi%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%28%E2%98%86Taku%20Takahashi%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1822964467",
+      "title": "us",
+      "date": "2025-07-09",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/us-single/1822964467?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/us-single/1822964467?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · us - Single · 2025-07-09",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d4/99/27d49955-d4cb-03b0-1a14-492a4022845e/4547366760187.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/us-single/1822964467?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "us",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20us%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20us",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1825790269",
+      "title": "Ever",
+      "date": "2025-07-16",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/ever-single/1825790269?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ever-single/1825790269?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Ever - Single · 2025-07-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/26/e0/4226e0c4-d31c-a912-4acf-34897d509063/4547366761528.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ever-single/1825790269?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Ever",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Ever%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Ever",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1833178588",
+      "title": "doku",
+      "date": "2025-08-20",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/doku-ep/1833178588?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/doku-ep/1833178588?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · doku - EP · 2025-08-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/16/59/0f165901-6b59-46bf-3f78-744647779a0c/4547366773415.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/doku-ep/1833178588?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "doku",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20doku%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20doku",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あるいは映画のような(lazydoll Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%28lazydoll%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E6%98%A0%E7%94%BB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%28lazydoll%20Remix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "a.m.3:21(safmusic Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20a.m.3%3A21%28safmusic%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20a.m.3%3A21%28safmusic%20Remix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "クリーム(Carpainter Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%28Carpainter%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%28Carpainter%20Remix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Downtown(KO3 Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Downtown%28KO3%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Downtown%28KO3%20Remix%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春を告げる(☆Taku Takahashi Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%28%E2%98%86Taku%20Takahashi%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%28%E2%98%86Taku%20Takahashi%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1841093510",
+      "title": "アダルトチックチルドレン",
+      "date": "2025-10-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3-single/1841093510?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3-single/1841093510?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · アダルトチックチルドレン - Single · 2025-10-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/c6/7b/e1c67b6a-a57d-916a-87b5-e7f4e012c48d/4547366779042.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3-single/1841093510?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アダルトチックチルドレン",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · アダルトチックチルドレン - Single · 2025-12-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/0b/74/160b74df-8fe3-d859-7d8e-e8cf422fb300/4547366792966.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3-single/1856526323?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "アダルトチックチルドレン",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%81%E3%83%83%E3%82%AF%E3%83%81%E3%83%AB%E3%83%89%E3%83%AC%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "midnight (feat. Taka Perry)",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20midnight%20%28feat.%20Taka%20Perry%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20midnight%20%28feat.%20Taka%20Perry%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "shadow dance",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20shadow%20dance%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20shadow%20dance",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1844796064",
+      "title": "マジカルシンドローム",
+      "date": "2025-10-22",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0-single/1844796064?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0-single/1844796064?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · マジカルシンドローム - Single · 2025-10-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/cd/05/94cd05d2-af25-f8fd-aad1-1735bef5e240/4547366783278.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0-single/1844796064?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "マジカルシンドローム",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1846517149",
+      "title": "季節の灯",
+      "date": "2025-10-29",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E5%AD%A3%E7%AF%80%E3%81%AE%E7%81%AF-single/1846517149?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%AD%A3%E7%AF%80%E3%81%AE%E7%81%AF-single/1846517149?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 季節の灯 - Single · 2025-10-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/89/db/a489db7c-aba1-e7f5-2e7d-1507e6e3b5ce/4547366784718.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%AD%A3%E7%AF%80%E3%81%AE%E7%81%AF-single/1846517149?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "季節の灯",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E5%AD%A3%E7%AF%80%E3%81%AE%E7%81%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E5%AD%A3%E7%AF%80%E3%81%AE%E7%81%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1854683379",
+      "title": "TWILIGHT",
+      "date": "2025-12-03",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/twilight-single/1854683379?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/twilight-single/1854683379?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · TWILIGHT - Single · 2025-12-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/7d/20/337d206a-ffca-8fe7-fd32-8fc1bd6ddfbb/4547366790115.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/twilight-single/1854683379?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TWILIGHT",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20TWILIGHT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20TWILIGHT",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1863438640",
+      "title": "End roll",
+      "date": "2026-01-07",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/end-roll-single/1863438640?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/end-roll-single/1863438640?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · End roll - Single · 2026-01-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/0f/48/040f485e-b1ef-5081-3671-892ecb0087cb/4547366794779.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/end-roll-single/1863438640?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "End roll",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20End%20roll%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20End%20roll",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1867176480",
+      "title": "Dawn",
+      "date": "2026-01-21",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/dawn-single/1867176480?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/dawn-single/1867176480?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Dawn - Single · 2026-01-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/6d/40/486d4038-a6a2-442b-2cc5-9a7b23af5214/4547366799507.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/dawn-single/1867176480?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Dawn",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Dawn%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Dawn",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1869291648",
+      "title": "Nemophila (feat. yama)",
+      "date": "2026-01-28",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/nemophila-feat-yama-single/1869291648?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/nemophila-feat-yama-single/1869291648?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Nemophila (feat. yama) - Single · 2026-01-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/2b/d7/152bd73b-a7a6-97a9-a1df-6778d6e04384/4547366800098.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/nemophila-feat-yama-single/1869291648?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Nemophila (feat. yama)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E7%A7%8B%E5%B1%B1%E9%BB%84%E8%89%B2%20Nemophila%20%28feat.%20yama%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E7%A7%8B%E5%B1%B1%E9%BB%84%E8%89%B2%20Nemophila%20%28feat.%20yama%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1872967715",
+      "title": "蛹",
+      "date": "2026-02-11",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E8%9B%B9-single/1872967715?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%9B%B9-single/1872967715?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 蛹 - Single · 2026-02-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/c8/ec/5bc8ec3f-45c8-a7ca-53ce-407a5e5c086b/4547366802870.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%9B%B9-single/1872967715?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "蛹",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%9B%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%9B%B9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1882328330",
+      "title": "C.U.T",
+      "date": "2026-03-18",
+      "kind": "ep",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/c-u-t-ep/1882328330?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/c-u-t-ep/1882328330?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · C.U.T - EP · 2026-03-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/92/56/7b925657-a8e1-9300-3ca9-ecf72ba36f9f/4547366810691.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/c-u-t-ep/1882328330?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TWILIGHT",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20TWILIGHT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20TWILIGHT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "End roll",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20End%20roll%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20End%20roll",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hanamushiro",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Hanamushiro%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Hanamushiro",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Remember",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Remember%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Remember",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "UPSIDE DOWN",
+                  "youtube": "https://www.youtube.com/watch?v=WvXreqyK7rE",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/yama%20UPSIDE%20DOWN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蛹",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%9B%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%9B%B9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1890060754",
+      "title": "飛ぶ時 / 飛ぼうよ",
+      "date": "2026-04-12",
+      "kind": "collaboration",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio. Pubblicazione condivisa: le ricerche seguono gli interpreti accreditati per ciascun brano.",
+      "source": "https://music.apple.com/jp/album/%E9%A3%9B%E3%81%B6%E6%99%82-%E9%A3%9B%E3%81%BC%E3%81%86%E3%82%88-single/1890060754?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%A3%9B%E3%81%B6%E6%99%82-%E9%A3%9B%E3%81%BC%E3%81%86%E3%82%88-single/1890060754?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 飛ぶ時 / 飛ぼうよ - Single · 2026-04-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/6f/fe/406ffe67-b650-6f46-5aa6-c6dc947e23b5/4547366818246.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%A3%9B%E3%81%B6%E6%99%82-%E9%A3%9B%E3%81%BC%E3%81%86%E3%82%88-single/1890060754?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "飛ぶ時",
+                  "youtube": "https://www.youtube.com/watch?v=vCrZrKbg-Us",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Vaundy%20%E9%A3%9B%E3%81%B6%E6%99%82",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "飛ぼうよ",
+                  "youtube": "https://www.youtube.com/watch?v=8uRMfPTAhkU",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/yama%20%E9%A3%9B%E3%81%BC%E3%81%86%E3%82%88",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-1894781378",
+      "title": "C.U.T - Studio Live -",
+      "date": "2026-05-01",
+      "kind": "live",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/c-u-t-studio-live-ep/1894781378?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/c-u-t-studio-live-ep/1894781378?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · C.U.T - Studio Live - - EP · 2026-05-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/2b/e9/552be97c-25ff-5cf5-5cbe-bd9b2538ad9d/4547366820294.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/c-u-t-studio-live-ep/1894781378?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "TWILIGHT - Studio Live -",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20TWILIGHT%20-%20Studio%20Live%20-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20TWILIGHT%20-%20Studio%20Live%20-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "End roll - Studio Live -",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20End%20roll%20-%20Studio%20Live%20-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20End%20roll%20-%20Studio%20Live%20-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hanamushiro - Studio Live -",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Hanamushiro%20-%20Studio%20Live%20-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Hanamushiro%20-%20Studio%20Live%20-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Remember - Studio Live -",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20Remember%20-%20Studio%20Live%20-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20Remember%20-%20Studio%20Live%20-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "UPSIDE DOWN - Studio Live -",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20UPSIDE%20DOWN%20-%20Studio%20Live%20-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20UPSIDE%20DOWN%20-%20Studio%20Live%20-",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蛹 - Studio Live -",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E8%9B%B9%20-%20Studio%20Live%20-%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E8%9B%B9%20-%20Studio%20Live%20-",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-6786194253",
+      "title": "U and I",
+      "date": "2026-07-15",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/u-and-i-single/6786194253?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/u-and-i-single/6786194253?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · U and I - Single · 2026-07-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/9f/5c/3c9f5c50-33c8-d2b0-3a5c-064f1dfc1885/4547366836783.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/u-and-i-single/6786194253?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "U and I",
+                  "youtube": "https://www.youtube.com/watch?v=jFB4e8AHTfo",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/yama%20U%20and%20I",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-6795372818",
+      "title": "mountain",
+      "date": "2026-08-12",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/mountain-single/6795372818?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mountain-single/6795372818?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · mountain - Single · 2026-08-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/de/76/c4de764b-8887-2353-8f42-421bb2e6e0ee/4547366842142.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/mountain-single/6795372818?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "mountain",
+                  "youtube": "https://www.youtube.com/watch?v=aCTZOagjuGA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/yama%20mountain",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yama-6815690502",
+      "title": "さよならは言わない",
+      "date": "2026-10-07",
+      "kind": "single",
+      "note": "Edizione digitale giapponese: data, copertina e scaletta della fonte consultata. Date e bonus possono differire dal CD; i dischi video non sono conteggiati come tracce audio.",
+      "source": "https://music.apple.com/jp/album/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AF%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84-single/6815690502?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AF%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84-single/6815690502?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · さよならは言わない - Single · 2026-10-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/82/f9/4982f968-1314-0abc-7e55-5b6bf0e0747d/4547366856040.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AF%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84-single/6815690502?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "さよならは言わない",
+                  "youtube": "https://www.youtube.com/results?search_query=yama%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AF%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/yama%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AF%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://yamaofficial.com/"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://yamaofficial.com/biography/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://yamaofficial.com/music/"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/1506180365"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/channel/UClbieOB_NYcY9TlIthmyw-A"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+    },
+    {
+      "label": "Quarto album · ; semicolon",
+      "url": "https://www.sonymusic.co.jp/artist/yama/info/570552"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}
