@@ -1153,6 +1153,7 @@
       "manga-ac-20917",
       "manga-ac-22057",
       "manga-ac-24269",
+      "manga-ac-27320",
       "manga-ac-27594",
       "manga-ac-28184",
       "manga-ac-30984",
@@ -1160,8 +1161,11 @@
       "manga-ac-32053",
       "manga-ac-32601",
       "manga-ac-33237",
+      "manga-ac-33444",
+      "manga-ac-36674",
       "manga-ac-36856",
       "manga-ac-37376",
+      "manga-ac-38860",
       "manga-ac-39949",
       "manga-ac-40046",
       "manga-ac-41629",
@@ -1169,46 +1173,25 @@
       "manga-ac-42666",
       "manga-ac-43211",
       "manga-ac-44104",
+      "manga-ac-44853",
       "manga-ac-49902",
       "manga-ac-50604",
       "manga-ac-51429",
+      "manga-ac-51937",
       "manga-ac-58339",
       "manga-ac-9546",
       "manga-ac-9607",
       "manga-ac-9709"
     ],
     "confirmedEditionWorkIds": [
-      "manga-ac-34611"
+      "manga-ac-10033",
+      "manga-ac-28403",
+      "manga-ac-32729",
+      "manga-ac-33303",
+      "manga-ac-34611",
+      "manga-ac-60768"
     ],
     "remainingUnresolved": [
-      {
-        "id": "manga-ac-33303",
-        "title": "Dark Gathering",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-10033",
-        "title": "Due Come Noi",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-33444",
-        "title": "Endroll Back",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-60768",
-        "title": "Honeymoon Paradise",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
       {
         "id": "manga-ac-23235",
         "title": "Il monologo della speziale",
@@ -1224,13 +1207,6 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-28403",
-        "title": "Ishuzoku Reviewers",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-49863",
         "title": "Jinrui-Shoku: Blight of Man",
         "publisher": "",
@@ -1238,29 +1214,8 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-32729",
-        "title": "Kanojo mo Kanojo",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-10188",
         "title": "Ken il guerriero - Hokuto no Ken",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-38860",
-        "title": "Kijin Gentosho - Demon Hunter",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-36674",
-        "title": "Kono Healer Mendokusai",
         "publisher": "",
         "owned": 0,
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
@@ -1301,13 +1256,6 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-27320",
-        "title": "Mieruko-chan",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-34586",
         "title": "Morirò se non resto vergine",
         "publisher": "",
@@ -1315,22 +1263,8 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-51937",
-        "title": "MUJINA INTO THE DEEP",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-33765",
         "title": "Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-44853",
-        "title": "Mushoku Tensei - Depressed Magician",
         "publisher": "",
         "owned": 0,
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
@@ -1469,6 +1403,43 @@
         "reason": "Vecchio conteggio di 2 volumi: serve l’edizione Star Comics esatta"
       }
     ],
-    "note": "Rimozioni e identificazione edizione richieste da Xuthar dopo il controllo iniziale. Il resoconto iniziale è conservato come storico."
+    "note": "Rimozioni e identificazione edizione richieste da Xuthar dopo il controllo iniziale. Il resoconto iniziale è conservato come storico.",
+    "editionUpdates": [
+      {
+        "id": "manga-ac-33303",
+        "title": "Dark Gathering",
+        "edition": "Dark Gathering · VIZ Media · inglese",
+        "owned": 18,
+        "source": "https://www.viz.com/manga-books/manga/dark-gathering/all"
+      },
+      {
+        "id": "manga-ac-10033",
+        "title": "Due Come Noi",
+        "edition": "Due come noi · Goen · italiano",
+        "owned": 38,
+        "source": "https://www.animeclick.it/manga/10033/2-come-noi/edizioni"
+      },
+      {
+        "id": "manga-ac-60768",
+        "title": "Honeymoon Paradise",
+        "edition": "Honeymoon Paradise · Black Magic · italiano",
+        "owned": 1,
+        "source": "https://www.fumetto-online.it/anticipazioni/MAGIC%20PRESS/131/"
+      },
+      {
+        "id": "manga-ac-28403",
+        "title": "Interspecies Reviewers",
+        "edition": "Interspecies Reviewers · Yen Press · inglese",
+        "owned": 11,
+        "source": "https://yenpress.com/series/interspecies-reviewers"
+      },
+      {
+        "id": "manga-ac-32729",
+        "title": "Girlfriend, Girlfriend",
+        "edition": "Girlfriend, Girlfriend Omnibus · Kodansha USA · inglese",
+        "owned": 5,
+        "source": "https://kodansha.us/series/girlfriend-girlfriend-omnibus/"
+      }
+    ]
   }
 }
