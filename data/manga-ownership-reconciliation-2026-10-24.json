@@ -1138,23 +1138,41 @@
     "removedWorkIds": [
       "manga-ac-10548",
       "manga-ac-10567",
+      "manga-ac-10778",
       "manga-ac-10860",
       "manga-ac-10925",
+      "manga-ac-11529",
       "manga-ac-11721",
+      "manga-ac-11862",
+      "manga-ac-12578",
+      "manga-ac-12995",
       "manga-ac-13722",
       "manga-ac-14900",
+      "manga-ac-15726",
+      "manga-ac-16521",
+      "manga-ac-20917",
+      "manga-ac-22057",
       "manga-ac-24269",
+      "manga-ac-27594",
+      "manga-ac-28184",
       "manga-ac-30984",
+      "manga-ac-31950",
       "manga-ac-32053",
+      "manga-ac-32601",
+      "manga-ac-33237",
       "manga-ac-36856",
+      "manga-ac-37376",
       "manga-ac-39949",
       "manga-ac-40046",
       "manga-ac-41629",
+      "manga-ac-42125",
       "manga-ac-42666",
+      "manga-ac-43211",
       "manga-ac-44104",
       "manga-ac-49902",
       "manga-ac-50604",
       "manga-ac-51429",
+      "manga-ac-58339",
       "manga-ac-9546",
       "manga-ac-9607",
       "manga-ac-9709"
@@ -1339,29 +1357,8 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-12995",
-        "title": "One-Punch Man",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-12578",
-        "title": "Orange (Ichigo Takano)",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-39981",
         "title": "Ore wa Seikan Kokka no Akutoku Ryōshu!",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-31950",
-        "title": "Oshi no Ko - My Star",
         "publisher": "",
         "owned": 0,
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
@@ -1416,20 +1413,6 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-10778",
-        "title": "Rumic World",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-11862",
-        "title": "Sankarea",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-11087",
         "title": "Shin Vampire Princess Miyu",
         "publisher": "",
@@ -1444,71 +1427,8 @@
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
       },
       {
-        "id": "manga-ac-28184",
-        "title": "Spy X Family",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-58339",
-        "title": "Strani disegni",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-22057",
-        "title": "Super HXEROS",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-42125",
-        "title": "Takopi's Original Sin",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
         "id": "manga-ac-33247",
         "title": "That's My Space Opera!",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-16521",
-        "title": "The Case Study of Vanitas",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-33237",
-        "title": "The Decagon House Murders",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-43211",
-        "title": "The Isekai Doctor",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-32601",
-        "title": "The Poetry of Ran",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-15726",
-        "title": "Tomodachi Game",
         "publisher": "",
         "owned": 0,
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
@@ -1523,34 +1443,6 @@
       {
         "id": "manga-ac-10028",
         "title": "Vampire Hunter D",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-11529",
-        "title": "Vampire Princess Miyu",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-20917",
-        "title": "Voglio mangiare il tuo pancreas",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-37376",
-        "title": "Witch Watch",
-        "publisher": "",
-        "owned": 0,
-        "reason": "Nessuna edizione posseduta identificabile nella scheda"
-      },
-      {
-        "id": "manga-ac-27594",
-        "title": "Zombieland SAGA",
         "publisher": "",
         "owned": 0,
         "reason": "Nessuna edizione posseduta identificabile nella scheda"
