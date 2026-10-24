@@ -19328,6 +19328,81 @@
       "isbnSource": "https://www.libreriauniversitaria.it/casa-dove-tutti-fanno-sesso/libro/9788869139482",
       "isbnCheckedAt": "2026-10-24",
       "isbnStatus": "Catalogo verificato; ristampa fisica da accertare"
+    },
+    {
+      "edition": "The Ghost in the Shell Legacy Edition Manga Box Set",
+      "number": "1",
+      "publisher": "Kodansha",
+      "isbn": "9798888776711",
+      "isbnSource": "https://kodansha.us/book/the-ghost-in-the-shell-legacy-edition-manga-box-set/",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "ISBN del cofanetto; non del singolo volume",
+      "workId": "manga-ac-9967",
+      "language": "EN",
+      "key": "the ghost in the shell legacy edition manga box set|1|kodansha",
+      "isbnScope": "Cofanetto"
+    },
+    {
+      "edition": "The Ghost in the Shell Legacy Edition Manga Box Set",
+      "number": "1.5",
+      "publisher": "Kodansha",
+      "isbn": "9798888776711",
+      "isbnSource": "https://kodansha.us/book/the-ghost-in-the-shell-legacy-edition-manga-box-set/",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "ISBN del cofanetto; non del singolo volume",
+      "workId": "manga-ac-9967",
+      "language": "EN",
+      "key": "the ghost in the shell legacy edition manga box set|1.5|kodansha",
+      "isbnScope": "Cofanetto"
+    },
+    {
+      "edition": "The Ghost in the Shell Legacy Edition Manga Box Set",
+      "number": "2.0",
+      "publisher": "Kodansha",
+      "isbn": "9798888776711",
+      "isbnSource": "https://kodansha.us/book/the-ghost-in-the-shell-legacy-edition-manga-box-set/",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "ISBN del cofanetto; non del singolo volume",
+      "workId": "manga-ac-9967",
+      "language": "EN",
+      "key": "the ghost in the shell legacy edition manga box set|2.0|kodansha",
+      "isbnScope": "Cofanetto"
+    },
+    {
+      "edition": "Hokkaido Gals Are Super Adorable! (Omnibus)",
+      "number": "1–2",
+      "publisher": "Seven Seas Entertainment",
+      "isbn": "9798895617021",
+      "isbnSource": "https://sevenseasentertainment.com/series/hokkaido-gals-are-super-adorable/",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare",
+      "workId": "manga-collection-hokkaido-gals-omnibus",
+      "language": "EN",
+      "key": "hokkaido gals are super adorable! (omnibus)|1–2|seven seas entertainment"
+    },
+    {
+      "edition": "Hokkaido Gals Are Super Adorable! (Omnibus)",
+      "number": "3–4",
+      "publisher": "Seven Seas Entertainment",
+      "isbn": "9798895618639",
+      "isbnSource": "https://sevenseasentertainment.com/series/hokkaido-gals-are-super-adorable/",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare",
+      "workId": "manga-collection-hokkaido-gals-omnibus",
+      "language": "EN",
+      "key": "hokkaido gals are super adorable! (omnibus)|3–4|seven seas entertainment"
+    },
+    {
+      "edition": "Hokkaido Gals Are Super Adorable! (Omnibus)",
+      "number": "5–6",
+      "publisher": "Seven Seas Entertainment",
+      "isbn": "9798895618646",
+      "isbnSource": "https://sevenseasentertainment.com/series/hokkaido-gals-are-super-adorable/",
+      "isbnCheckedAt": "2026-10-24",
+      "isbnStatus": "Catalogo verificato; ristampa fisica da accertare",
+      "workId": "manga-collection-hokkaido-gals-omnibus",
+      "language": "EN",
+      "key": "hokkaido gals are super adorable! (omnibus)|5–6|seven seas entertainment"
     }
   ]
 }
