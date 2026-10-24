@@ -1,0 +1,596 @@
+{
+  "checkedAt": "2026-10-24",
+  "scope": "Italian and English editions only. Historical inventory values from connected Google Sheet; no new purchases inferred.",
+  "sourceSpreadsheet": "Lista anime di Xuthar",
+  "items": [
+    {
+      "title": "Silent Möbius",
+      "language": "IT",
+      "editorialNote": "Verifica editoriale 24/10/2026 (IT, Magic Press): Silent Möbius Complete Edition nn.1–12 risultano ora tutti registrati individualmente nell'inventario, incluso il n.12 inserito su indicazione esplicita di Xuthar. AnimeClick cataloga il n.12 conclusivo al 17/09/2026, prezzo di copertina €9,90. Silent Möbius 00 / Möbius Klein è un prequel separato, NON parte dei 12 volumi; la sua data effettiva resta da riconciliare. Nessun nuovo acquisto attribuito in questa verifica. Fonte: https://www.animeclick.it/manga/10070/silent-mobius/edizioni",
+      "editorialSource": "https://www.animeclick.it/manga/10070/silent-mobius/edizioni",
+      "owned": 12,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+      "status": "Completo",
+      "publisher": "Magic Press",
+      "volumes": [
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "12",
+          "format": "Manga",
+          "priceEur": 9.9
+        }
+      ],
+      "pricing": {
+        "lastVolumePrice": 9.9,
+        "knownTotal": 118.8,
+        "pricedVolumes": 12,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "1",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "2",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "3",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "4",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "5",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "6",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "7",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "8",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "9",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "10",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "11",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "12",
+            "price": 9.9
+          }
+        ]
+      }
+    },
+    {
+      "title": "Asumi-chan is Interested in Lesbian Brothels!",
+      "language": "EN",
+      "editorialNote": "Verifica editoriale 24/10/2026 (EN, Seven Seas): volumi inglesi 1–6 pubblicati, il n.6 il 10/03/2026; n.7 previsto per il 24/11/2026 ($14.99, non ancora pubblicato). Inventario aggiornato precedentemente su indicazione esplicita di Xuthar: ora sei righe individuali nn.1–6; il vecchio conteggio storico di 5 unità al 25/07/2025 è solo archivistico, non va sommato. Prezzi in euro non verificati. Fonte: https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
+      "editorialSource": "https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
+      "owned": 6,
+      "numbers": "1, 2, 3, 4, 5, 6",
+      "status": "Da verificare",
+      "publisher": "Seven Seas Entertainment",
+      "volumes": [
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "1",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "2",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "3",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "4",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "5",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "6",
+          "format": "Manga EN",
+          "priceEur": null
+        }
+      ],
+      "pricing": null
+    },
+    {
+      "title": "I diari della speziale",
+      "language": "IT",
+      "editorialNote": "Verifica editoriale 24/10/2026 (IT, J-POP): l'inventario contiene 18 unità fisiche, ossia numeri regolari 1–16 più due Deluxe distinte dei nn.13 e 14. Il n.17 è segnalato tra le uscite di ottobre da AnimeClick, ma senza data giornaliera verificata: non considerarlo automaticamente acquistato né aggiungerlo alle 18 unità. Prezzi storici invariati. Fonte: https://www.animeclick.it/manga/23236/kusuriya-no-hitorigoto/edizioni",
+      "editorialSource": "https://www.animeclick.it/manga/23236/kusuriya-no-hitorigoto/edizioni",
+      "owned": 18,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16",
+      "status": "Non completo",
+      "publisher": "JPOP",
+      "volumes": [
+        {
+          "edition": "I diari della speziale",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "12",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "13",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale Deluxe Edition",
+          "number": "13",
+          "format": "Manga",
+          "priceEur": 10
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "14",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale Deluxe Edition",
+          "number": "14",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "15",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "16",
+          "format": "Manga",
+          "priceEur": 6.5
+        }
+      ],
+      "pricing": {
+        "lastVolumePrice": 6.5,
+        "knownTotal": 123.9,
+        "pricedVolumes": 18,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "I diari della speziale",
+            "number": "1",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "2",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "3",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "4",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "5",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "6",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "7",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "8",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "9",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "10",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "11",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "12",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "13",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale Deluxe Edition",
+            "number": "13",
+            "price": 10
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "14",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale Deluxe Edition",
+            "number": "14",
+            "price": 9.9
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "15",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "16",
+            "price": 6.5
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grand Blue",
+      "language": "IT",
+      "editorialNote": "Verifica 21/10/2026: J-POP annuncia Grand Blue Variant Edition Cut Price n.1 per il 28/10/2026 (€ 2,90), n.2 per ottobre (€ 3,90, giorno non confermato), n.3 per novembre (€ 4,90, giorno non confermato). Sono edizioni diverse dai 4 volumi Goen già registrati: nessun acquisto aggiunto e prezzi di possesso invariati.",
+      "editorialSource": "https://www.animeclick.it/news/111867-manga-tutte-le-uscite-italiane-di-ottobre-2026",
+      "owned": 4,
+      "numbers": "1, 2, 3",
+      "status": "Non completo",
+      "publisher": "Goen",
+      "volumes": [
+        {
+          "edition": "Grand Blue",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "Grand Blue Variant",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 3.5
+        },
+        {
+          "edition": "Grand Blue",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "Grand Blue",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 6.5
+        }
+      ],
+      "pricing": {
+        "lastVolumePrice": 6.5,
+        "knownTotal": 23,
+        "pricedVolumes": 4,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Grand Blue",
+            "number": "1",
+            "price": 6.5
+          },
+          {
+            "edition": "Grand Blue Variant",
+            "number": "1",
+            "price": 3.5
+          },
+          {
+            "edition": "Grand Blue",
+            "number": "2",
+            "price": 6.5
+          },
+          {
+            "edition": "Grand Blue",
+            "number": "3",
+            "price": 6.5
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Dungeon of Black Company",
+      "language": "IT",
+      "editorialNote": "Controllo 23/10/2026 (EN, Seven Seas): The Dungeon of Black Company vol.14 INGLESE annunciato per il 27/10/2026, prezzo di copertina $13.99, ISBN 979-8-89765-366-9. Inventario: 5 unità dell'edizione IT Saldapress (starter pack, n.1 regolare e variant, nn.2-3). Non confondere il calendario inglese con l'edizione italiana né aggiungere il n.14 ai posseduti; prezzi in euro invariati.",
+      "editorialSource": "https://sevenseasentertainment.com/books/the-dungeon-of-black-company-vol-14/",
+      "owned": 5,
+      "numbers": "1, 2 (pack), 3",
+      "status": "Non completo",
+      "publisher": "Saldapress",
+      "volumes": [
+        {
+          "edition": "The Dungeon of Black Company Starter Pack",
+          "number": "Unico",
+          "format": "Manga",
+          "priceEur": 16
+        },
+        {
+          "edition": "The Dungeon of Black Company",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 7.9
+        },
+        {
+          "edition": "The Dungeon of Black Company Variant Exclusive",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 8.9
+        },
+        {
+          "edition": "The Dungeon of Black Company",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 7.9
+        },
+        {
+          "edition": "The Dungeon of Black Company",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 9.9
+        }
+      ],
+      "pricing": {
+        "lastVolumePrice": 9.9,
+        "knownTotal": 50.6,
+        "pricedVolumes": 5,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "The Dungeon of Black Company Starter Pack",
+            "number": "Unico",
+            "price": 16
+          },
+          {
+            "edition": "The Dungeon of Black Company",
+            "number": "1",
+            "price": 7.9
+          },
+          {
+            "edition": "The Dungeon of Black Company Variant Exclusive",
+            "number": "1",
+            "price": 8.9
+          },
+          {
+            "edition": "The Dungeon of Black Company",
+            "number": "2",
+            "price": 7.9
+          },
+          {
+            "edition": "The Dungeon of Black Company",
+            "number": "3",
+            "price": 9.9
+          }
+        ]
+      }
+    },
+    {
+      "title": "Magic Knight Rayearth 2",
+      "language": "IT",
+      "editorialNote": "Controllo 23/10/2026 (IT, Star Comics): Magic Knight Rayearth 2 - CLAMP Premium Collection n.2 in edizione singola pubblicato il 13/10/2026, € 9,90, ISBN 9788822659880; n.3 singolo previsto per il 17/11/2026. L'inventario contiene già il cofanetto completo (1 unità fisica, € 29,90): i singoli non sono ulteriori acquisti e non vanno sommati al totale.",
+      "editorialSource": "https://www.animeclick.it/news/112063-manga-uscite-italiane-settimana-dal-12-al-18-ottobre-2026",
+      "owned": 1,
+      "numbers": "Unico",
+      "status": "Completo",
+      "publisher": "Star Comics",
+      "volumes": [
+        {
+          "edition": "Magic Knight Rayearth 2 - CLAMP Premium Collection Box",
+          "number": "Unico",
+          "format": "Manga",
+          "priceEur": 29.9
+        }
+      ],
+      "pricing": {
+        "lastVolumePrice": 29.9,
+        "knownTotal": 29.9,
+        "pricedVolumes": 1,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Magic Knight Rayearth 2 - CLAMP Premium Collection Box",
+            "number": "Unico",
+            "price": 29.9
+          }
+        ]
+      }
+    }
+  ]
+}
