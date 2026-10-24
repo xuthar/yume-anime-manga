@@ -1,0 +1,2189 @@
+{
+  "artist": "Olivia Rodrigo",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/olivia-rodrigo/portrait.jpg",
+  "members": [],
+  "officialVideos": [
+    {
+      "id": "ZmDBbnmKpqQ",
+      "title": "drivers license · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
+      "source": "https://kommunikasjon.ntb.no/pressemelding/17921613/dette-er-arets-mest-populaere-youtube-videoer-i-norge?publisherId=8930805",
+      "author": "Olivia Rodrigo · canale ufficiale"
+    },
+    {
+      "id": "gNi_6U5Pm_o",
+      "title": "good 4 u · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+      "source": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+      "author": "Olivia Rodrigo · canale ufficiale"
+    },
+    {
+      "id": "RlPNh_PBZb4",
+      "title": "vampire · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+      "source": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+      "author": "Olivia Rodrigo · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "ZmDBbnmKpqQ",
+      "title": "drivers license · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
+      "source": "https://kommunikasjon.ntb.no/pressemelding/17921613/dette-er-arets-mest-populaere-youtube-videoer-i-norge?publisherId=8930805",
+      "author": "Olivia Rodrigo · canale ufficiale"
+    },
+    {
+      "id": "gNi_6U5Pm_o",
+      "title": "good 4 u · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+      "source": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+      "author": "Olivia Rodrigo · canale ufficiale"
+    },
+    {
+      "id": "RlPNh_PBZb4",
+      "title": "vampire · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+      "source": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+      "author": "Olivia Rodrigo · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "olivia-rodrigo-1444272530",
+      "title": "Let It Glow (From \"Frozen Northern Lights\")",
+      "date": "2016-11-11",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Brano del periodo televisivo, distinto dagli album originali.",
+      "source": "https://music.apple.com/us/album/let-it-glow-from-frozen-northern-lights-single/1444272530?uo=4",
+      "trackSource": "https://music.apple.com/us/album/let-it-glow-from-frozen-northern-lights-single/1444272530?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · Let It Glow (From \"Frozen Northern Lights\") - Single · Audio della fonte · 2016-11-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/18/f6/b518f69f-16b1-0767-fc33-c2ffb59f5c72/16UMGIM76850.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/let-it-glow-from-frozen-northern-lights-single/1444272530?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Let It Glow (From \"Frozen Northern Lights\")",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Madison%20Hu%20Let%20It%20Glow%20%28From%20%22Frozen%20Northern%20Lights%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Madison%20Hu%20Let%20It%20Glow%20%28From%20%22Frozen%20Northern%20Lights%22%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1501910787",
+      "title": "All I Want (Live at Vevo)",
+      "date": "2020-03-13",
+      "kind": "live",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/all-i-want-live-at-vevo-single/1501910787?uo=4",
+      "trackSource": "https://music.apple.com/us/album/all-i-want-live-at-vevo-single/1501910787?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · All I Want (Live at Vevo) - Single · Audio della fonte · 2020-03-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/db/a1/26dba103-8cef-650d-12c3-a14e19d74f35/20UMGIM17155.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/all-i-want-live-at-vevo-single/1501910787?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "All I Want (Live at Vevo)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20All%20I%20Want%20%28Live%20at%20Vevo%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20All%20I%20Want%20%28Live%20at%20Vevo%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1504163605",
+      "title": "I Think I Kinda, You Know – Just for a Moment Mashup (From \"High School Musical: The Musical: The Series\")",
+      "date": "2020-04-03",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Brano del periodo televisivo, distinto dagli album originali.",
+      "source": "https://music.apple.com/us/album/i-think-i-kinda-you-know-just-for-a-moment-mashup/1504163605?uo=4",
+      "trackSource": "https://music.apple.com/us/album/i-think-i-kinda-you-know-just-for-a-moment-mashup/1504163605?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · I Think I Kinda, You Know – Just for a Moment Mashup (From \"High School Musical: The Musical: The Series\") - Single · Audio della fonte · 2020-04-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/55/83/e3/5583e3cf-c4fa-b41d-5fa5-827f3d883a44/20UMGIM21151.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/i-think-i-kinda-you-know-just-for-a-moment-mashup/1504163605?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "I Think I Kinda, You Know – Just for a Moment Mashup (From \"High School Musical: The Musical: The Series\")",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Joshua%20Bassett%20I%20Think%20I%20Kinda%2C%20You%20Know%20%E2%80%93%20Just%20for%20a%20Moment%20Mashup%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Joshua%20Bassett%20I%20Think%20I%20Kinda%2C%20You%20Know%20%E2%80%93%20Just%20for%20a%20Moment%20Mashup%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%22%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1512826061",
+      "title": "All I Want (Love That Lasts Mix)",
+      "date": "2020-05-22",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/all-i-want-love-that-lasts-mix-single/1512826061?uo=4",
+      "trackSource": "https://music.apple.com/us/album/all-i-want-love-that-lasts-mix-single/1512826061?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · All I Want (Love That Lasts Mix) - Single · Audio della fonte · 2020-05-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/fe/09/47fe0902-c6d6-a747-c490-58ee09c04eab/20UMGIM37050.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/all-i-want-love-that-lasts-mix-single/1512826061?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "All I Want (Love That Lasts Mix)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20All%20I%20Want%20%28Love%20That%20Lasts%20Mix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20All%20I%20Want%20%28Love%20That%20Lasts%20Mix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1564208633",
+      "title": "Even When/The Best Part (From \"High School Musical: The Musical: The Series (Season 2)\")",
+      "date": "2021-04-30",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Brano del periodo televisivo, distinto dagli album originali.",
+      "source": "https://music.apple.com/us/album/even-when-the-best-part-from-high-school-musical/1564208633?uo=4",
+      "trackSource": "https://music.apple.com/us/album/even-when-the-best-part-from-high-school-musical/1564208633?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · Even When/The Best Part (From \"High School Musical: The Musical: The Series (Season 2)\") - Single · Audio della fonte · 2021-04-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/74/18/ab741897-a0d5-513c-9b35-3db23e3470e9/21UMGIM33680.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/even-when-the-best-part-from-high-school-musical/1564208633?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Even When/The Best Part (From \"High School Musical: The Musical: The Series (Season 2)\")",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%2C%20Joshua%20Bassett%20%26%20Disney%20Even%20When/The%20Best%20Part%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%20%28Season%202%29%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%2C%20Joshua%20Bassett%20%26%20Disney%20Even%20When/The%20Best%20Part%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%20%28Season%202%29%22%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1560735414",
+      "title": "SOUR",
+      "date": "2021-05-21",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/sour/1560735414?uo=4",
+      "trackSource": "https://music.apple.com/us/album/sour/1560735414?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · SOUR · Explicit · 2021-05-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/sour/1560735414?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "brutal",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20brutal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20brutal",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "traitor",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20traitor%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20traitor",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "drivers license",
+                  "youtube": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drivers%20license",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "1 step forward, 3 steps back",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "deja vu",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20deja%20vu%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20deja%20vu",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "good 4 u",
+                  "youtube": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20good%204%20u",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "enough for you",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20enough%20for%20you%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20enough%20for%20you",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "happier",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20happier%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20happier",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "jealousy, jealousy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20jealousy%2C%20jealousy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20jealousy%2C%20jealousy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "favorite crime",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20favorite%20crime%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20favorite%20crime",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hope ur ok",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20hope%20ur%20ok%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20hope%20ur%20ok",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · SOUR · Clean · 2021-05-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ed/8c/02ed8cab-c089-2fdd-7ce6-ab334a9a4e19/21UMGIM26093.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/sour/1560734944?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "brutal",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20brutal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20brutal",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "traitor",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20traitor%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20traitor",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "drivers license",
+                  "youtube": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drivers%20license",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "1 step forward, 3 steps back",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "deja vu",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20deja%20vu%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20deja%20vu",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "good 4 u",
+                  "youtube": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20good%204%20u",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "enough for you",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20enough%20for%20you%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20enough%20for%20you",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "happier",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20happier%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20happier",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "jealousy, jealousy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20jealousy%2C%20jealousy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20jealousy%2C%20jealousy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "favorite crime",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20favorite%20crime%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20favorite%20crime",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hope ur ok",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20hope%20ur%20ok%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20hope%20ur%20ok",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · SOUR (Video Version) · Explicit · 2021-05-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/63/06/ce6306bb-5830-af8f-8ebd-4eb7d3c14e1e/21UMGIM26092.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/sour-video-version/1582274783?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "brutal",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20brutal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20brutal",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "traitor",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20traitor%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20traitor",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "drivers license",
+                  "youtube": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drivers%20license",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "1 step forward, 3 steps back",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "deja vu",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20deja%20vu%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20deja%20vu",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "good 4 u",
+                  "youtube": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20good%204%20u",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "enough for you",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20enough%20for%20you%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20enough%20for%20you",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "happier",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20happier%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20happier",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "jealousy, jealousy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20jealousy%2C%20jealousy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20jealousy%2C%20jealousy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "favorite crime",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20favorite%20crime%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20favorite%20crime",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hope ur ok",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20hope%20ur%20ok%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20hope%20ur%20ok",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · SOUR (Video Version) · Clean · 2021-05-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/76/46/48/76464884-0e9c-1951-a3f6-ce02f74c2b19/21UMGIM26093.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/sour-video-version/1582277315?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "brutal",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20brutal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20brutal",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "traitor",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20traitor%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20traitor",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "drivers license",
+                  "youtube": "https://www.youtube.com/watch?v=ZmDBbnmKpqQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drivers%20license",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "1 step forward, 3 steps back",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%201%20step%20forward%2C%203%20steps%20back",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "deja vu",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20deja%20vu%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20deja%20vu",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "good 4 u",
+                  "youtube": "https://www.youtube.com/watch?v=gNi_6U5Pm_o",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20good%204%20u",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "enough for you",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20enough%20for%20you%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20enough%20for%20you",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "happier",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20happier%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20happier",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "jealousy, jealousy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20jealousy%2C%20jealousy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20jealousy%2C%20jealousy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "favorite crime",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20favorite%20crime%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20favorite%20crime",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "hope ur ok",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20hope%20ur%20ok%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20hope%20ur%20ok",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1568071362",
+      "title": "The Best Part (From \"High School Musical: The Musical: The Series (Season 2)\")",
+      "date": "2021-05-28",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Brano del periodo televisivo, distinto dagli album originali.",
+      "source": "https://music.apple.com/us/album/the-best-part-from-high-school-musical-the-musical/1568071362?uo=4",
+      "trackSource": "https://music.apple.com/us/album/the-best-part-from-high-school-musical-the-musical/1568071362?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · The Best Part (From \"High School Musical: The Musical: The Series (Season 2)\") - Single · Audio della fonte · 2021-05-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/2c/fb/102cfb22-a590-4760-20d2-f4a6ac2b03b2/21UMGIM42326.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/the-best-part-from-high-school-musical-the-musical/1568071362?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "The Best Part (From \"High School Musical: The Musical: The Series (Season 2)\")",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Disney%20The%20Best%20Part%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%20%28Season%202%29%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Disney%20The%20Best%20Part%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%20%28Season%202%29%22%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1569243398",
+      "title": "Granted (From \"High School Musical: The Musical: The Series\" Season 2)",
+      "date": "2021-06-04",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Brano del periodo televisivo, distinto dagli album originali.",
+      "source": "https://music.apple.com/us/album/granted-from-high-school-musical-the-musical-the/1569243398?uo=4",
+      "trackSource": "https://music.apple.com/us/album/granted-from-high-school-musical-the-musical-the/1569243398?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · Granted (From \"High School Musical: The Musical: The Series\" Season 2) - Single · Audio della fonte · 2021-06-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3c/0c/7e/3c0c7ed4-3094-c64c-0f13-78a2808a43da/21UMGIM45461.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/granted-from-high-school-musical-the-musical-the/1569243398?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Granted (From \"High School Musical: The Musical: The Series\" Season 2)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20Granted%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%22%20Season%202%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20Granted%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%22%20Season%202%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1569242251",
+      "title": "YAC Alma Mater (From \"High School Musical: The Musical: The Series\" Season 2 (Nini Version)",
+      "date": "2021-06-04",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Brano del periodo televisivo, distinto dagli album originali.",
+      "source": "https://music.apple.com/us/album/yac-alma-mater-from-high-school-musical-the-musical/1569242251?uo=4",
+      "trackSource": "https://music.apple.com/us/album/yac-alma-mater-from-high-school-musical-the-musical/1569242251?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · YAC Alma Mater (From \"High School Musical: The Musical: The Series\" Season 2 (Nini Version) - Single · Audio della fonte · 2021-06-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/7e/65/eb7e6574-4e6f-7f5a-0550-250ea04706e9/21UMGIM45459.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/yac-alma-mater-from-high-school-musical-the-musical/1569242251?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "YAC Alma Mater (From \"High School Musical: The Musical: The Series\" Season 2 (Nini Version))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20YAC%20Alma%20Mater%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%22%20Season%202%20%28Nini%20Version%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20YAC%20Alma%20Mater%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%22%20Season%202%20%28Nini%20Version%29%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1571215145",
+      "title": "The Rose Song (From \"High School Musical: The Musical: The Series (Season 2)\")",
+      "date": "2021-06-18",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Brano del periodo televisivo, distinto dagli album originali.",
+      "source": "https://music.apple.com/us/album/the-rose-song-from-high-school-musical-the-musical/1571215145?uo=4",
+      "trackSource": "https://music.apple.com/us/album/the-rose-song-from-high-school-musical-the-musical/1571215145?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · The Rose Song (From \"High School Musical: The Musical: The Series (Season 2)\") - Single · Audio della fonte · 2021-06-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a2/60/93/a2609390-71e9-7e3d-85f9-b0892e48dcd3/21UMGIM50658.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/the-rose-song-from-high-school-musical-the-musical/1571215145?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "The Rose Song (From \"High School Musical: The Musical: The Series (Season 2)\")",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20The%20Rose%20Song%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%20%28Season%202%29%22%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20The%20Rose%20Song%20%28From%20%22High%20School%20Musical%3A%20The%20Musical%3A%20The%20Series%20%28Season%202%29%22%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1694386825",
+      "title": "GUTS",
+      "date": "2023-09-08",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/guts/1694386825?uo=4",
+      "trackSource": "https://music.apple.com/us/album/guts/1694386825?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · GUTS · Explicit · 2023-09-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/d8/9c/9bd89c9e-b44d-ad25-1516-b9b30f64fd2a/23UMGIM71510.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/guts/1694386825?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "all-american bitch",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20all-american%20bitch%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20all-american%20bitch",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "bad idea right?",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20bad%20idea%20right%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20bad%20idea%20right%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "vampire",
+                  "youtube": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20vampire",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "lacy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20lacy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20lacy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ballad of a homeschooled girl",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "making the bed",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20making%20the%20bed%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20making%20the%20bed",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "logical",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20logical%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20logical",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "get him back!",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20get%20him%20back%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20get%20him%20back%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "love is embarrassing",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20love%20is%20embarrassing%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20love%20is%20embarrassing",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "the grudge",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20grudge%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20grudge",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "pretty isn’t pretty",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "teenage dream",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20teenage%20dream%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20teenage%20dream",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · GUTS (spilled) · Explicit · 2023-09-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/4c/6a/5a4c6aac-318a-b5a6-a481-15141d65fddc/24UMGIM30484.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/guts-spilled/1736994915?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "all-american bitch",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20all-american%20bitch%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20all-american%20bitch",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "bad idea right?",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20bad%20idea%20right%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20bad%20idea%20right%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "vampire",
+                  "youtube": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20vampire",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "lacy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20lacy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20lacy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ballad of a homeschooled girl",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "making the bed",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20making%20the%20bed%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20making%20the%20bed",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "logical",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20logical%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20logical",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "get him back!",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20get%20him%20back%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20get%20him%20back%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "love is embarrassing",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20love%20is%20embarrassing%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20love%20is%20embarrassing",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "the grudge",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20grudge%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20grudge",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "pretty isn’t pretty",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "teenage dream",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20teenage%20dream%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20teenage%20dream",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "obsessed",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20obsessed%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20obsessed",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "girl i’ve always been",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20girl%20i%E2%80%99ve%20always%20been%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20girl%20i%E2%80%99ve%20always%20been",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "scared of my guitar",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20scared%20of%20my%20guitar%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20scared%20of%20my%20guitar",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "stranger",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stranger%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20stranger",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "so american",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20so%20american%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20so%20american",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · GUTS · Clean · 2023-09-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/0d/17/9e0d17e0-c068-fbd9-fd85-610cc87c86aa/23UMGIM71511.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/guts/1694767605?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "bad idea right?",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20bad%20idea%20right%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20bad%20idea%20right%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "vampire",
+                  "youtube": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20vampire",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "lacy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20lacy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20lacy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ballad of a homeschooled girl",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "making the bed",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20making%20the%20bed%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20making%20the%20bed",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "logical",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20logical%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20logical",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "get him back!",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20get%20him%20back%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20get%20him%20back%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "love is embarrassing",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20love%20is%20embarrassing%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20love%20is%20embarrassing",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "the grudge",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20grudge%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20grudge",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "pretty isn’t pretty",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "teenage dream",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20teenage%20dream%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20teenage%20dream",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · GUTS (spilled) · Clean · 2023-09-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/9e/07/089e0799-b405-9e69-b648-e6a19df9879c/24UMGIM30485.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/guts-spilled/1736994853?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "all-american bitch",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20all-american%20bitch%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20all-american%20bitch",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "bad idea right?",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20bad%20idea%20right%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20bad%20idea%20right%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "vampire",
+                  "youtube": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20vampire",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "lacy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20lacy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20lacy",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ballad of a homeschooled girl",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "making the bed",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20making%20the%20bed%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20making%20the%20bed",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "logical",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20logical%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20logical",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "get him back!",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20get%20him%20back%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20get%20him%20back%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "love is embarrassing",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20love%20is%20embarrassing%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20love%20is%20embarrassing",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "the grudge",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20grudge%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20grudge",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "pretty isn’t pretty",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20pretty%20isn%E2%80%99t%20pretty",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "teenage dream",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20teenage%20dream%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20teenage%20dream",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "obsessed",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20obsessed%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20obsessed",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "girl i’ve always been",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20girl%20i%E2%80%99ve%20always%20been%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20girl%20i%E2%80%99ve%20always%20been",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "scared of my guitar",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20scared%20of%20my%20guitar%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20scared%20of%20my%20guitar",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "stranger",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stranger%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20stranger",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "so american",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20so%20american%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20so%20american",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1837860957",
+      "title": "Friday I'm In Love / Just Like Heaven (Live From Glastonbury) [A BBC Recording]",
+      "date": "2025-09-08",
+      "kind": "live",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/friday-im-in-love-just-like-heaven-live-from-glastonbury/1837860957?uo=4",
+      "trackSource": "https://music.apple.com/us/album/friday-im-in-love-just-like-heaven-live-from-glastonbury/1837860957?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · Friday I'm In Love / Just Like Heaven (Live From Glastonbury) [A BBC Recording] - Single · Audio della fonte · 2025-09-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/56/75/bb5675cd-b730-24c0-69b1-ad127187559b/25UM1IM35808.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/friday-im-in-love-just-like-heaven-live-from-glastonbury/1837860957?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Friday I'm In Love (Live From Glastonbury)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Robert%20Smith%20Friday%20I%27m%20In%20Love%20%28Live%20From%20Glastonbury%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Robert%20Smith%20Friday%20I%27m%20In%20Love%20%28Live%20From%20Glastonbury%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Just Like Heaven (Live From Glastonbury)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Robert%20Smith%20Just%20Like%20Heaven%20%28Live%20From%20Glastonbury%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Robert%20Smith%20Just%20Like%20Heaven%20%28Live%20From%20Glastonbury%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1854932670",
+      "title": "Live From Glastonbury (A BBC Recording)",
+      "date": "2025-12-05",
+      "kind": "live",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/live-from-glastonbury-a-bbc-recording/1854932670?uo=4",
+      "trackSource": "https://music.apple.com/us/album/live-from-glastonbury-a-bbc-recording/1854932670?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · Live From Glastonbury (A BBC Recording) · Explicit · 2025-12-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/56/03/1b5603be-df09-2f21-b65a-f61db92cc523/25UM1IM85406.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/live-from-glastonbury-a-bbc-recording/1854932670?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "obsessed (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20obsessed%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20obsessed%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ballad of a homeschooled girl (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20ballad%20of%20a%20homeschooled%20girl%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "vampire (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20vampire%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20vampire%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "drivers license (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drivers%20license%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drivers%20license%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "traitor (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20traitor%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20traitor%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "bad idea right? (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20bad%20idea%20right%3F%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20bad%20idea%20right%3F%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "love is embarrassing (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20love%20is%20embarrassing%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20love%20is%20embarrassing%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "pretty isn't pretty (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20pretty%20isn%27t%20pretty%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20pretty%20isn%27t%20pretty%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "happier (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20happier%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20happier%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "enough for you (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20enough%20for%20you%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20enough%20for%20you%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Friday I'm In Love (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Robert%20Smith%20Friday%20I%27m%20In%20Love%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Robert%20Smith%20Friday%20I%27m%20In%20Love%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Just Like Heaven (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Robert%20Smith%20Just%20Like%20Heaven%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Robert%20Smith%20Just%20Like%20Heaven%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "so american (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20so%20american%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20so%20american%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "jealousy, jealousy (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20jealousy%2C%20jealousy%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20jealousy%2C%20jealousy%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "favorite crime (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20favorite%20crime%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20favorite%20crime%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "deja vu (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20deja%20vu%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20deja%20vu%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "brutal (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20brutal%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20brutal%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "all-american bitch (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20all-american%20bitch%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20all-american%20bitch%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "good 4 u (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20good%204%20u%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20good%204%20u%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "get him back (Live From Glastonbury (A BBC Recording))",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20get%20him%20back%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20get%20him%20back%20%28Live%20From%20Glastonbury%20%28A%20BBC%20Recording%29%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1894362510",
+      "title": "drop dead (singalong pack)",
+      "date": "2026-04-17",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drop-dead-singalong-pack-single/1894362510?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drop-dead-singalong-pack-single/1894362510?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · drop dead (singalong pack) - Single · Audio della fonte · 2026-04-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/b0/f1/1eb0f1d8-84e4-3a66-be48-133f330b0153/26UMGIM21837.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drop-dead-singalong-pack-single/1894362510?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "drop dead (singalong audio)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20%28singalong%20audio%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead%20%28singalong%20audio%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1894962260",
+      "title": "drop dead (we can go real slow - slowed & reverbed)",
+      "date": "2026-04-17",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drop-dead-we-can-go-real-slow-slowed-reverbed-single/1894962260?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drop-dead-we-can-go-real-slow-slowed-reverbed-single/1894962260?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · drop dead (we can go real slow - slowed & reverbed) - Single · Audio della fonte · 2026-04-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/17/57/db175743-dfa3-10bf-ff01-02247fa85402/26UMGIM48235.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drop-dead-we-can-go-real-slow-slowed-reverbed-single/1894962260?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead (we can go real slow - slowed & reverbed)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20%28we%20can%20go%20real%20slow%20-%20slowed%20%26%20reverbed%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead%20%28we%20can%20go%20real%20slow%20-%20slowed%20%26%20reverbed%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1893996068",
+      "title": "drop dead",
+      "date": "2026-04-17",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drop-dead-single/1893996068?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drop-dead-single/1893996068?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · drop dead - Single · Audio della fonte · 2026-04-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/57/6b/36576b81-785b-d02c-00ed-d7362fec7688/26UMGIM21837.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drop-dead-single/1893996068?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1894963246",
+      "title": "drop dead (itunes limited cover)",
+      "date": "2026-04-20",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drop-dead-itunes-limited-cover-single/1894963246?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drop-dead-itunes-limited-cover-single/1894963246?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · drop dead (itunes limited cover) - Single · Audio della fonte · 2026-04-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/2d/b0/9d2db0d2-3656-6cf4-7c4c-21901f3d12f6/26UMGIM48177.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drop-dead-itunes-limited-cover-single/1894963246?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1894962129",
+      "title": "drop dead (the most alive i’ve ever been - sped up)",
+      "date": "2026-04-20",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drop-dead-the-most-alive-ive-ever-been-sped-up-single/1894962129?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drop-dead-the-most-alive-ive-ever-been-sped-up-single/1894962129?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · drop dead (the most alive i’ve ever been - sped up) - Single · Audio della fonte · 2026-04-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/27/ec/1227ec4d-59ef-1a68-cb99-216fed0fba9c/26UMGIM48234.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drop-dead-the-most-alive-ive-ever-been-sped-up-single/1894962129?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead (the most alive i’ve ever been - sped up)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20%28the%20most%20alive%20i%E2%80%99ve%20ever%20been%20-%20sped%20up%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead%20%28the%20most%20alive%20i%E2%80%99ve%20ever%20been%20-%20sped%20up%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1895071887",
+      "title": "drop dead (you know all the words - isolated vocals)",
+      "date": "2026-04-21",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drop-dead-you-know-all-the-words-isolated-vocals-single/1895071887?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drop-dead-you-know-all-the-words-isolated-vocals-single/1895071887?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · drop dead (you know all the words - isolated vocals) - Single · Audio della fonte · 2026-04-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/1e/26/981e2682-a303-70b5-8d1c-b6c0459d2af1/26UMGIM48939.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drop-dead-you-know-all-the-words-isolated-vocals-single/1895071887?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead (you know all the words - isolated vocals)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20%28you%20know%20all%20the%20words%20-%20isolated%20vocals%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead%20%28you%20know%20all%20the%20words%20-%20isolated%20vocals%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1895220899",
+      "title": "drop dead (acoustic)",
+      "date": "2026-04-22",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drop-dead-acoustic-single/1895220899?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drop-dead-acoustic-single/1895220899?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · drop dead (acoustic) - Single · Audio della fonte · 2026-04-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/fa/ac/03faace6-d482-1eff-7e39-1107a48a2223/26UMGIM50280.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drop-dead-acoustic-single/1895220899?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead (acoustic)",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20%28acoustic%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead%20%28acoustic%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-6771598352",
+      "title": "the cure",
+      "date": "2026-05-20",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/the-cure-single/6771598352?uo=4",
+      "trackSource": "https://music.apple.com/us/album/the-cure-single/6771598352?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · the cure - Single · Clean · 2026-05-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/cc/ad/eaccad77-3cb8-ddc2-a2e1-224c409aa26b/26UMGIM64019.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/the-cure-single/6771598352?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "the cure",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20cure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20cure",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · the cure - Single · Explicit · 2026-05-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/02/15/33021551-a7ea-ba68-0e92-f63d98c88bd8/26UMGIM64019.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/the-cure-single/6771566234?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "the cure",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20cure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20cure",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-6771995188",
+      "title": "the cure (behind the scenes)",
+      "date": "2026-05-25",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/the-cure-behind-the-scenes-single/6771995188?uo=4",
+      "trackSource": "https://music.apple.com/us/album/the-cure-behind-the-scenes-single/6771995188?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · the cure (behind the scenes) - Single · Explicit · 2026-05-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/3e/db/473edb51-b696-dd7e-8ef9-facddf3df09b/26UMGIM66615.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/the-cure-behind-the-scenes-single/6771995188?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "the cure",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20cure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20cure",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-6801305317",
+      "title": "stupid song",
+      "date": "2026-06-10",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/stupid-song-single/6801305317?uo=4",
+      "trackSource": "https://music.apple.com/us/album/stupid-song-single/6801305317?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · stupid song - Single · Clean · 2026-06-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/c9/f1/8ac9f12a-8752-a49d-737f-309d14bf31be/26UMGIM75556.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/stupid-song-single/6801305317?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "stupid song",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20stupid%20song",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-1889992111",
+      "title": "you seem pretty sad for a girl so in love",
+      "date": "2026-06-12",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/1889992111?uo=4",
+      "trackSource": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/1889992111?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · you seem pretty sad for a girl so in love · Explicit · 2026-06-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/1889992111?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "stupid song",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20stupid%20song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "honeybee",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20honeybee%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20honeybee",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "maggots for brains",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20maggots%20for%20brains%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20maggots%20for%20brains",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "u + me = <3",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20u%20%2B%20me%20%3D%20%3C3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20u%20%2B%20me%20%3D%20%3C3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "my way",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20my%20way%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20my%20way",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "purple",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20purple%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20purple",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "the cure",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20cure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20cure",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "begged",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20begged%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20begged",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "what’s wrong with me",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Robert%20Smith%20what%E2%80%99s%20wrong%20with%20me%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Robert%20Smith%20what%E2%80%99s%20wrong%20with%20me",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "less",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20less%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20less",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "expectations",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20expectations%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20expectations",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "cigarette smoke",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20cigarette%20smoke%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20cigarette%20smoke",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · you seem pretty sad for a girl so in love (with a bonus track) · Explicit · 2026-06-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/a1/65/dca1650a-a5a4-2bb3-952a-03fb9d770bfd/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love-with-a-bonus-track/6779846974?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "stupid song",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20stupid%20song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "honeybee",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20honeybee%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20honeybee",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "maggots for brains",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20maggots%20for%20brains%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20maggots%20for%20brains",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "u + me = <3",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20u%20%2B%20me%20%3D%20%3C3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20u%20%2B%20me%20%3D%20%3C3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "my way",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20my%20way%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20my%20way",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "purple",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20purple%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20purple",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "the cure",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20cure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20cure",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "begged",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20begged%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20begged",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "what’s wrong with me",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Robert%20Smith%20what%E2%80%99s%20wrong%20with%20me%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Robert%20Smith%20what%E2%80%99s%20wrong%20with%20me",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "less",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20less%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20less",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "expectations",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20expectations%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20expectations",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "cigarette smoke",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20cigarette%20smoke%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20cigarette%20smoke",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "never do",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20never%20do%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20never%20do",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale US · you seem pretty sad for a girl so in love · Clean · 2026-06-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/6779097512?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "drop dead",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20drop%20dead%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20drop%20dead",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "stupid song",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20stupid%20song%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20stupid%20song",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "honeybee",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20honeybee%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20honeybee",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "maggots for brains",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20maggots%20for%20brains%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20maggots%20for%20brains",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "u + me = <3",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20u%20%2B%20me%20%3D%20%3C3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20u%20%2B%20me%20%3D%20%3C3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "my way",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20my%20way%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20my%20way",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "purple",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20purple%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20purple",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "the cure",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20the%20cure%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20the%20cure",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "begged",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20begged%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20begged",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "what’s wrong with me",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Robert%20Smith%20what%E2%80%99s%20wrong%20with%20me%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Robert%20Smith%20what%E2%80%99s%20wrong%20with%20me",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "less",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20less%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20less",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "expectations",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20expectations%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20expectations",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "cigarette smoke",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20cigarette%20smoke%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20cigarette%20smoke",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-6803283190",
+      "title": "serena joy",
+      "date": "2026-08-24",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/serena-joy-single/6803283190?uo=4",
+      "trackSource": "https://music.apple.com/us/album/serena-joy-single/6803283190?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · serena joy - Single · Audio della fonte · 2026-08-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/88/51/748851f3-26da-36f5-65a3-d41fe0b292ec/26UM1IM06641.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/serena-joy-single/6803283190?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "serena joy",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20serena%20joy%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20serena%20joy",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "olivia-rodrigo-6822390423",
+      "title": "expectations",
+      "date": "2026-10-16",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/expectations-single/6822390423?uo=4",
+      "trackSource": "https://music.apple.com/us/album/expectations-single/6822390423?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · expectations - Single · Audio della fonte · 2026-10-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/expectations-single/6822390423?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "expectations",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20%26%20Chappell%20Roan%20expectations",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "expectations",
+                  "youtube": "https://www.youtube.com/results?search_query=Olivia%20Rodrigo%20expectations%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Olivia%20Rodrigo%20expectations",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unverified": [
+    {
+      "title": "drivers license - Single",
+      "url": "https://music.apple.com/us/album/drivers-license-single/1545051447?uo=4",
+      "reason": "La fonte elenca la pubblicazione, ma la scaletta audio non è verificabile."
+    },
+    {
+      "title": "drivers license - Single",
+      "url": "https://music.apple.com/us/album/drivers-license-single/1545042317?uo=4",
+      "reason": "La fonte elenca la pubblicazione, ma la scaletta audio non è verificabile."
+    },
+    {
+      "title": "drop dead (stalked you on the internet) - Single",
+      "url": "https://music.apple.com/us/album/drop-dead-stalked-you-on-the-internet-single/1894416447?uo=4",
+      "reason": "La fonte elenca la pubblicazione, ma la scaletta audio non è verificabile."
+    }
+  ],
+  "videoEditions": [
+    {
+      "title": "SOUR (Video Version)",
+      "url": "https://music.apple.com/us/album/sour-video-version/1582274783?uo=4",
+      "reason": "Edizione con video bonus, esclusi dal conteggio audio."
+    },
+    {
+      "title": "SOUR (Video Version)",
+      "url": "https://music.apple.com/us/album/sour-video-version/1582277315?uo=4",
+      "reason": "Edizione con video bonus, esclusi dal conteggio audio."
+    },
+    {
+      "title": "GUTS (spilled)",
+      "url": "https://music.apple.com/us/album/guts-spilled/1736994915?uo=4",
+      "reason": "Edizione con video bonus, esclusi dal conteggio audio."
+    },
+    {
+      "title": "GUTS (spilled)",
+      "url": "https://music.apple.com/us/album/guts-spilled/1736994853?uo=4",
+      "reason": "Edizione con video bonus, esclusi dal conteggio audio."
+    },
+    {
+      "title": "drop dead (singalong pack) - Single",
+      "url": "https://music.apple.com/us/album/drop-dead-singalong-pack-single/1894362510?uo=4",
+      "reason": "Edizione con video bonus, esclusi dal conteggio audio."
+    },
+    {
+      "title": "the cure (behind the scenes) - Single",
+      "url": "https://music.apple.com/us/album/the-cure-behind-the-scenes-single/6771995188?uo=4",
+      "reason": "Edizione con video bonus, esclusi dal conteggio audio."
+    },
+    {
+      "title": "you seem pretty sad for a girl so in love",
+      "url": "https://music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/1889992111?uo=4",
+      "reason": "Edizione con video bonus, esclusi dal conteggio audio."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://www.oliviarodrigo.com/"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://www.universalmusic.it/popular-music/artista/olivia-rodrigo_32004914487/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://store.oliviarodrigo.com/pages/music"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/979458609"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/channel/UCy3zgWom-5AGypGX_FVTKpg"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "label": "Fotografia promozionale · Universal Music Germany",
+      "url": "https://www.universal-music.de/olivia-rodrigo/fotos"
+    },
+    {
+      "label": "Il debutto originale drivers license · Universal Music Canada",
+      "url": "https://www.universalmusic.ca/2021/01/08/olivia-rodrigo-releases-drivers-license-her-debut-original-single-via-geffen-records/"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}

@@ -1,0 +1,1080 @@
+{
+  "artist": "BABYMONSTER",
+  "checkedAt": "2026-10-24",
+  "groupImage": "assets/jpop/babymonster/group.jpg",
+  "members": [
+    {
+      "name": "RUKA",
+      "japanese": "",
+      "bio": "Artista giapponese, nata il 20 marzo 2002. Ritratto dall’archivio ufficiale YG Entertainment.",
+      "image": "assets/jpop/babymonster/ruka.jpg",
+      "link": "https://ygfamily.com/en/artists/babymonster/profile"
+    },
+    {
+      "name": "PHARITA",
+      "japanese": "",
+      "bio": "Artista thailandese, nata il 26 agosto 2005. Ritratto dall’archivio ufficiale YG Entertainment.",
+      "image": "assets/jpop/babymonster/pharita.jpg",
+      "link": "https://ygfamily.com/en/artists/babymonster/profile"
+    },
+    {
+      "name": "ASA",
+      "japanese": "",
+      "bio": "Artista giapponese, nata il 17 aprile 2006. Ritratto dall’archivio ufficiale YG Entertainment.",
+      "image": "assets/jpop/babymonster/asa.jpg",
+      "link": "https://ygfamily.com/en/artists/babymonster/profile"
+    },
+    {
+      "name": "AHYEON",
+      "japanese": "",
+      "bio": "Artista sudcoreana, nata il 11 aprile 2007. Ritratto dall’archivio ufficiale YG Entertainment.",
+      "image": "assets/jpop/babymonster/ahyeon.jpg",
+      "link": "https://ygfamily.com/en/artists/babymonster/profile"
+    },
+    {
+      "name": "RAMI",
+      "japanese": "",
+      "bio": "Artista sudcoreana, nata il 17 ottobre 2007. Ritratto dall’archivio ufficiale YG Entertainment.",
+      "image": "assets/jpop/babymonster/rami.jpg",
+      "link": "https://ygfamily.com/en/artists/babymonster/profile"
+    },
+    {
+      "name": "RORA",
+      "japanese": "",
+      "bio": "Artista sudcoreana, nata il 14 agosto 2008. Ritratto dall’archivio ufficiale YG Entertainment.",
+      "image": "assets/jpop/babymonster/rora.jpg",
+      "link": "https://ygfamily.com/en/artists/babymonster/profile"
+    },
+    {
+      "name": "CHIQUITA",
+      "japanese": "",
+      "bio": "Artista thailandese, nata il 17 febbraio 2009. Ritratto dall’archivio ufficiale YG Entertainment.",
+      "image": "assets/jpop/babymonster/chiquita.jpg",
+      "link": "https://ygfamily.com/en/artists/babymonster/profile"
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "2wA_b6YHjqQ",
+      "title": "SHEESH · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=2wA_b6YHjqQ",
+      "source": "https://weverse.io/babymonster/notice/18514",
+      "author": "BABYMONSTER · canale ufficiale"
+    },
+    {
+      "id": "Zp-Jhuhq0bQ",
+      "title": "DRIP · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=Zp-Jhuhq0bQ",
+      "source": "https://yg-babymonster-official.jp/news/release/524/",
+      "author": "BABYMONSTER · canale ufficiale"
+    },
+    {
+      "id": "olDWm2veCrM",
+      "title": "BATTER UP · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=olDWm2veCrM",
+      "source": "https://www.youtube.com/watch?v=olDWm2veCrM",
+      "author": "BABYMONSTER · canale ufficiale"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "2wA_b6YHjqQ",
+      "title": "SHEESH · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=2wA_b6YHjqQ",
+      "source": "https://weverse.io/babymonster/notice/18514",
+      "author": "BABYMONSTER · canale ufficiale"
+    },
+    {
+      "id": "Zp-Jhuhq0bQ",
+      "title": "DRIP · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=Zp-Jhuhq0bQ",
+      "source": "https://yg-babymonster-official.jp/news/release/524/",
+      "author": "BABYMONSTER · canale ufficiale"
+    },
+    {
+      "id": "olDWm2veCrM",
+      "title": "BATTER UP · video ufficiale",
+      "url": "https://www.youtube.com/watch?v=olDWm2veCrM",
+      "source": "https://www.youtube.com/watch?v=olDWm2veCrM",
+      "author": "BABYMONSTER · canale ufficiale"
+    }
+  ],
+  "albums": [
+    {
+      "id": "babymonster-1717533939",
+      "title": "BATTER UP",
+      "date": "2023-11-27",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Incisione precedente al debutto a sette; le successive versioni a sette restano identificabili nel titolo.",
+      "source": "https://music.apple.com/us/album/batter-up-single/1717533939?uo=4",
+      "trackSource": "https://music.apple.com/us/album/batter-up-single/1717533939?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · BATTER UP - Single · Audio della fonte · 2023-11-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/fd/ec/cffdec06-a89b-326f-f897-13a5a7c657f4/BABYMONSTER_BATTER_UP_Cover_4000.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/batter-up-single/1717533939?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BATTER UP",
+                  "youtube": "https://www.youtube.com/watch?v=olDWm2veCrM",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1727482937",
+      "title": "Stuck In The Middle",
+      "date": "2024-02-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio. Incisione precedente al debutto a sette; le successive versioni a sette restano identificabili nel titolo.",
+      "source": "https://music.apple.com/us/album/stuck-in-the-middle-single/1727482937?uo=4",
+      "trackSource": "https://music.apple.com/us/album/stuck-in-the-middle-single/1727482937?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · Stuck In The Middle - Single · Audio della fonte · 2024-02-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/ec/8a/fcec8ac9-47f7-f0b1-c777-0f5a96ba542a/BM_STIM_Cover_4000.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/stuck-in-the-middle-single/1727482937?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Stuck In The Middle",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Stuck%20In%20The%20Middle%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Stuck%20In%20The%20Middle",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1737962888",
+      "title": "BABYMONS7ER",
+      "date": "2024-04-01",
+      "kind": "ep",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/babymons7er-ep/1737962888?uo=4",
+      "trackSource": "https://music.apple.com/us/album/babymons7er-ep/1737962888?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · BABYMONS7ER - EP · Audio della fonte · 2024-04-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/babymons7er-ep/1737962888?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "MONSTERS (Intro)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20MONSTERS%20%28Intro%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20MONSTERS%20%28Intro%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SHEESH",
+                  "youtube": "https://www.youtube.com/watch?v=2wA_b6YHjqQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20SHEESH",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LIKE THAT",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20LIKE%20THAT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20LIKE%20THAT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Stuck In The Middle (7 ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Stuck%20In%20The%20Middle%20%287%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Stuck%20In%20The%20Middle%20%287%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BATTER UP (7 ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BATTER%20UP%20%287%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP%20%287%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DREAM",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20DREAM%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20DREAM",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Stuck In The Middle (Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Stuck%20In%20The%20Middle%20%28Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Stuck%20In%20The%20Middle%20%28Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1753210714",
+      "title": "FOREVER",
+      "date": "2024-07-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/forever-single/1753210714?uo=4",
+      "trackSource": "https://music.apple.com/us/album/forever-single/1753210714?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · FOREVER - Single · Audio della fonte · 2024-07-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/86/5b2a8611-2005-2287-1981-9edac10b795b/BABYMONSTER_FORVER.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/forever-single/1753210714?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "FOREVER",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20FOREVER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20FOREVER",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1762582747",
+      "title": "BATTER UP -JP Ver.",
+      "date": "2024-08-16",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/batter-up-jp-ver-single/1762582747?uo=4",
+      "trackSource": "https://music.apple.com/us/album/batter-up-jp-ver-single/1762582747?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · BATTER UP -JP Ver. - Single · Audio della fonte · 2024-08-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/ca/93/3dca9380-06dd-0d4a-9a3e-c0598a9eb200/4547366701937.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/batter-up-jp-ver-single/1762582747?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BATTER UP -JP Version",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BATTER%20UP%20-JP%20Version%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP%20-JP%20Version",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1773262053",
+      "title": "DRIP",
+      "date": "2024-11-01",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/drip/1773262053?uo=4",
+      "trackSource": "https://music.apple.com/us/album/drip/1773262053?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · DRIP · Audio della fonte · 2024-11-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/drip/1773262053?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "CLIK CLAK",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20CLIK%20CLAK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20CLIK%20CLAK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DRIP",
+                  "youtube": "https://www.youtube.com/watch?v=Zp-Jhuhq0bQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20DRIP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love, Maybe",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%2C%20Maybe%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%2C%20Maybe",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Really Like You",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Really%20Like%20You%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Really%20Like%20You",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BILLIONAIRE",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BILLIONAIRE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BILLIONAIRE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love In My Heart",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%20In%20My%20Heart%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%20In%20My%20Heart",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Woke Up In Tokyo (RUKA & ASA)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Woke%20Up%20In%20Tokyo%20%28RUKA%20%26%20ASA%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Woke%20Up%20In%20Tokyo%20%28RUKA%20%26%20ASA%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FOREVER",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20FOREVER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20FOREVER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BATTER UP (Remix) - Bonus Track",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BATTER%20UP%20%28Remix%29%20-%20Bonus%20Track%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP%20%28Remix%29%20-%20Bonus%20Track",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · DRIP · Audio della fonte · 2024-11-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/db/9b/e2db9b60-92b2-840c-a46a-dbf3c5cb1952/4547366718584.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/drip/1776969720?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "CLIK CLAK",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20CLIK%20CLAK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20CLIK%20CLAK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DRIP",
+                  "youtube": "https://www.youtube.com/watch?v=Zp-Jhuhq0bQ",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20DRIP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love,Maybe",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%2CMaybe%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%2CMaybe",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Really Like You",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Really%20Like%20You%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Really%20Like%20You",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BILLIONAIRE",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BILLIONAIRE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BILLIONAIRE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love In My Heart",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%20In%20My%20Heart%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%20In%20My%20Heart",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Woke Up In Tokyo [RUKA & ASA]",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Woke%20Up%20In%20Tokyo%20%5BRUKA%20%26%20ASA%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Woke%20Up%20In%20Tokyo%20%5BRUKA%20%26%20ASA%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FOREVER",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20FOREVER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20FOREVER",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BATTER UP [Remix]",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BATTER%20UP%20%5BRemix%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP%20%5BRemix%5D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1810613358",
+      "title": "Ghost",
+      "date": "2025-05-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/ghost-single/1810613358?uo=4",
+      "trackSource": "https://music.apple.com/us/album/ghost-single/1810613358?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · Ghost - Single · Audio della fonte · 2025-05-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/88/8f/5b888f67-7354-c59c-dbf1-0c9832d83378/4547366747492.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/ghost-single/1810613358?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Ghost",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Ghost%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Ghost",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1822714115",
+      "title": "HOT SAUCE",
+      "date": "2025-07-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/hot-sauce-single/1822714115?uo=4",
+      "trackSource": "https://music.apple.com/us/album/hot-sauce-single/1822714115?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · HOT SAUCE - Single · Audio della fonte · 2025-07-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/82/b4/d682b4f1-cc18-237f-361e-d735e36ae034/8809519880699_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/hot-sauce-single/1822714115?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "HOT SAUCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20HOT%20SAUCE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20HOT%20SAUCE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1838609746",
+      "title": "2025 BABYMONSTER 1st WORLD TOUR <HELLO MONSTERS> IN JAPAN ～2025.04.13 K-ARENA YOKOHAMA～",
+      "date": "2025-09-14",
+      "kind": "live",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/2025-babymonster-1st-world-tour-hello-monsters-in-japan/1838609746?uo=4",
+      "trackSource": "https://music.apple.com/us/album/2025-babymonster-1st-world-tour-hello-monsters-in-japan/1838609746?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · 2025 BABYMONSTER 1st WORLD TOUR <HELLO MONSTERS> IN JAPAN ～2025.04.13 K-ARENA YOKOHAMA～ · Audio della fonte · 2025-09-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/d7/43/98d7432a-65d7-dfa8-599c-541ca99ce893/4547366774078.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/2025-babymonster-1st-world-tour-hello-monsters-in-japan/1838609746?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "DRIP (Remix) [Live Version]",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20DRIP%20%28Remix%29%20%5BLive%20Version%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20DRIP%20%28Remix%29%20%5BLive%20Version%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BATTER UP (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BATTER%20UP%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CLIK CLAK (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20CLIK%20CLAK%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20CLIK%20CLAK%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LIKE THAT (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20LIKE%20THAT%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20LIKE%20THAT%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SHEESH (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20SHEESH%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20SHEESH%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Woke Up In Tokyo (RUKA & ASA) [Live Version]",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Woke%20Up%20In%20Tokyo%20%28RUKA%20%26%20ASA%29%20%5BLive%20Version%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Woke%20Up%20In%20Tokyo%20%28RUKA%20%26%20ASA%29%20%5BLive%20Version%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love, Maybe (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%2C%20Maybe%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%2C%20Maybe%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DREAM (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20DREAM%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20DREAM%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BILLIONAIRE (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BILLIONAIRE%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BILLIONAIRE%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Really Like You (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Really%20Like%20You%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Really%20Like%20You%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CLAP YOUR HANDS ~ Go Away (2NE1 Cover) [Live Version]",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20CLAP%20YOUR%20HANDS%20~%20Go%20Away%20%282NE1%20Cover%29%20%5BLive%20Version%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20CLAP%20YOUR%20HANDS%20~%20Go%20Away%20%282NE1%20Cover%29%20%5BLive%20Version%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FOREVER (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20FOREVER%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20FOREVER%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love In My Heart (Live Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%20In%20My%20Heart%20%28Live%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%20In%20My%20Heart%20%28Live%20Version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1843247940",
+      "title": "WE GO UP",
+      "date": "2025-10-10",
+      "kind": "ep",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/we-go-up-ep/1843247940?uo=4",
+      "trackSource": "https://music.apple.com/us/album/we-go-up-ep/1843247940?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · WE GO UP - EP · Audio della fonte · 2025-10-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/2c/91/dc2c911c-4860-2834-2fc8-3d1d55f077d8/8809519880989_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/we-go-up-ep/1843247940?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "WE GO UP",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20WE%20GO%20UP%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20WE%20GO%20UP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PSYCHO",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20PSYCHO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20PSYCHO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SUPA DUPA LUV",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20SUPA%20DUPA%20LUV%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20SUPA%20DUPA%20LUV",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WILD",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20WILD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20WILD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · WE GO UP - EP · Audio della fonte · 2025-10-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/13/f5/3413f53c-cb25-e0bc-b8dc-54cd90565edd/4547366782134.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/we-go-up-ep/1842817268?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "WE GO UP",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20WE%20GO%20UP%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20WE%20GO%20UP",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PSYCHO",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20PSYCHO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20PSYCHO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SUPA DUPA LUV",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20SUPA%20DUPA%20LUV%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20SUPA%20DUPA%20LUV",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WILD",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20WILD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20WILD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-love-monsters-2025",
+      "title": "LOVE MONSTERS · JAPAN FAN CONCERT 2025",
+      "date": "2026-03-25",
+      "kind": "live",
+      "note": "CD ufficiale del concerto del 3 dicembre 2025 all’Ariake Arena. La fonte elenca 17 tracce, compresi encore e doppio encore; i collegamenti di ricerca non garantiscono la stessa registrazione.",
+      "source": "https://yg-babymonster-official.jp/discography/album/livealbum-love-monsters-japan-fan-concert-2025/",
+      "trackSource": "https://yg-babymonster-official.jp/discography/album/livealbum-love-monsters-japan-fan-concert-2025/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "CD · SRCL-13609 · 25 marzo 2026",
+          "cover": "https://yg-babymonster-official.jp/wp/wp-content/uploads/2026/02/BM_LOVE_MONSTERS_LIVE_ALBUM_JKT-1024x1024.webp",
+          "source": "https://yg-babymonster-official.jp/discography/album/livealbum-love-monsters-japan-fan-concert-2025/",
+          "sourceLabel": "Scaletta del CD · sito ufficiale BABYMONSTER Japan",
+          "discs": [
+            {
+              "label": "Concerto, encore e doppio encore",
+              "tracks": [
+                {
+                  "title": "WE GO UP",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20WE%20GO%20UP%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20WE%20GO%20UP%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SHEESH",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20SHEESH%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20SHEESH%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DRIP",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20DRIP%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20DRIP%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CLIK CLAK",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20CLIK%20CLAK%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20CLIK%20CLAK%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love, Maybe",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%2C%20Maybe%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%2C%20Maybe%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Really Like You",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Really%20Like%20You%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Really%20Like%20You%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WILD",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20WILD%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20WILD%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BILLIONAIRE",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BILLIONAIRE%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BILLIONAIRE%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "PSYCHO",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20PSYCHO%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20PSYCHO%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BATTER UP",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BATTER%20UP%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HOT SAUCE",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20HOT%20SAUCE%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20HOT%20SAUCE%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FOREVER",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20FOREVER%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20FOREVER%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SUPA DUPA LUV",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20SUPA%20DUPA%20LUV%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20SUPA%20DUPA%20LUV%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Ghost",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Ghost%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Ghost%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "WE GO UP",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20WE%20GO%20UP%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20WE%20GO%20UP%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BATTER UP (Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20BATTER%20UP%20%28Remix%29%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20BATTER%20UP%20%28Remix%29%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Love In My Heart",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20Love%20In%20My%20Heart%20LOVE%20MONSTERS%20live%202025",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20Love%20In%20My%20Heart%20LOVE%20MONSTERS",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-1895588322",
+      "title": "춤 (CHOOM)",
+      "date": "2026-05-04",
+      "kind": "ep",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/%EC%B6%A4-choom-ep/1895588322?uo=4",
+      "trackSource": "https://music.apple.com/us/album/%EC%B6%A4-choom-ep/1895588322?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · 춤 (CHOOM) - EP · Audio della fonte · 2026-05-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/cb/8f/01cb8f4b-e6da-9898-6c66-c77fa5bc3c48/8809519881283_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/%EC%B6%A4-choom-ep/1895588322?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "MOON",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20MOON%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20MOON",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CHOOM",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20CHOOM%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20CHOOM",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I LIKE IT",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20I%20LIKE%20IT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20I%20LIKE%20IT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOCKED IN",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20LOCKED%20IN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20LOCKED%20IN",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 춤 (CHOOM) - EP · Audio della fonte · 2026-05-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/78/f8/6878f8a6-294b-e743-5296-33e4922d933a/4547366820348.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%EC%B6%A4-choom-ep/1895578319?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "MOON",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20MOON%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20MOON",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "춤 (CHOOM)",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20%EC%B6%A4%20%28CHOOM%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20%EC%B6%A4%20%28CHOOM%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "I LIKE IT",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20I%20LIKE%20IT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20I%20LIKE%20IT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "LOCKED IN",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20LOCKED%20IN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20LOCKED%20IN",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-6774417988",
+      "title": "SUGAR HONEY ICE TEA",
+      "date": "2026-06-08",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/sugar-honey-ice-tea-single/6774417988?uo=4",
+      "trackSource": "https://music.apple.com/us/album/sugar-honey-ice-tea-single/6774417988?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · SUGAR HONEY ICE TEA - Single · Audio della fonte · 2026-06-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/8e/36/778e36c9-909f-75f0-940a-91baf34e3a82/8809519881382_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/sugar-honey-ice-tea-single/6774417988?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "SUGAR HONEY ICE TEA",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20SUGAR%20HONEY%20ICE%20TEA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20SUGAR%20HONEY%20ICE%20TEA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "babymonster-6823611519",
+      "title": "DESERVE",
+      "date": "2026-10-23",
+      "kind": "single",
+      "note": "Data, copertina e scaletta seguono l’edizione digitale indicata nella fonte. Bonus e date delle confezioni fisiche possono differire; i video bonus restano distinti dalle tracce audio.",
+      "source": "https://music.apple.com/us/album/deserve-single/6823611519?uo=4",
+      "trackSource": "https://music.apple.com/us/album/deserve-single/6823611519?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale US · DESERVE - Single · Audio della fonte · 2026-10-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/57/b5/e557b507-2668-752b-4260-34af04ea0d7b/8809519881528_cover.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/us/album/deserve-single/6823611519?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "DESERVE",
+                  "youtube": "https://www.youtube.com/results?search_query=BABYMONSTER%20DESERVE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/BABYMONSTER%20DESERVE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unverified": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale / archivio della label",
+      "url": "https://ygfamily.com/en/artists/babymonster/main"
+    },
+    {
+      "label": "Profilo e biografia ufficiale",
+      "url": "https://ygfamily.com/en/artists/babymonster/profile"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://ygfamily.com/en/artists/babymonster/discography"
+    },
+    {
+      "label": "Apple Music JP · edizioni e scalette",
+      "url": "https://music.apple.com/jp/artist/1715981813"
+    },
+    {
+      "label": "YouTube · canale ufficiale",
+      "url": "https://www.youtube.com/@BABYMONSTER"
+    },
+    {
+      "label": "Spotify · profilo artista",
+      "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+    },
+    {
+      "label": "Discografia giapponese e album live",
+      "url": "https://yg-babymonster-official.jp/discography/"
+    },
+    {
+      "label": "DESERVE · singolo del 23 ottobre 2026",
+      "url": "https://ygfamily.com/en/artists/babymonster/discography/1672"
+    },
+    {
+      "label": "DRIP · video ufficiale",
+      "url": "https://yg-babymonster-official.jp/news/release/524/"
+    },
+    {
+      "label": "Presentazione e componenti · KBS World",
+      "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=451341&lang=j"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Confezioni fisiche e pubblicazioni collettive non ricostruite",
+      "reason": "Il catalogo digitale non certifica ogni edizione fisica o bonus fuori catalogo. Le scalette non verificabili non sono inventate; le soundtrack collettive non sono classificate come album originali."
+    }
+  ]
+}
