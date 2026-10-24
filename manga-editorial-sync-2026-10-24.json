@@ -207,7 +207,7 @@
     {
       "title": "I diari della speziale",
       "language": "IT",
-      "editorialNote": "Verifica editoriale 24/10/2026 (IT, J-POP): l'inventario contiene 18 unità fisiche, ossia numeri regolari 1–16 più due Deluxe distinte dei nn.13 e 14. Il n.17 è segnalato tra le uscite di ottobre da AnimeClick, ma senza data giornaliera verificata: non considerarlo automaticamente acquistato né aggiungerlo alle 18 unità. Prezzi storici invariati. Fonte: https://www.animeclick.it/manga/23236/kusuriya-no-hitorigoto/edizioni",
+      "editorialNote": "Verifica editoriale 24/10/2026 (IT, J-POP): AnimeClick scheda edizioni indica il n.17 per il 30/11/2026 (€6,50), quindi non ancora pubblicato alla data del controllo; il calendario mensile di ottobre lo segnalava senza data certa. Inventario invariato: 18 unità fisiche, nn.1–16 regolari e due Deluxe dei nn.13 e 14. Il n.17 non risulta posseduto. Fonte: https://www.animeclick.it/manga/23236/kusuriya-no-hitorigoto/edizioni",
       "editorialSource": "https://www.animeclick.it/manga/23236/kusuriya-no-hitorigoto/edizioni",
       "owned": 18,
       "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16",
@@ -592,5 +592,16 @@
         ]
       }
     }
+  ],
+  "unreconciledIndividualInventory": [
+    "Honeymoon Paradise",
+    "Interspecies Reviewers",
+    "Girlfriend, Girlfriend",
+    "AnoHana",
+    "ShindoL’s Cultural Anthropology",
+    "I Met You After the End of the World",
+    "Uzumaki - Spirale",
+    "Un sandwich a Ginza",
+    "Una bistecca nella Shitamachi"
   ]
 }
