@@ -38,3 +38,7 @@
 @media(max-width:600px){.sakura-fall:nth-child(n+11){display:none}.sakura-toggle{padding:7px 10px;font-size:10px}.home-explore>.section-heading{align-items:flex-start;flex-wrap:wrap;gap:8px}}
 @media(prefers-reduced-motion:reduce){.sakura-layer,.sakura-toggle{display:none!important}.sakura-fall,.sakura-petal{animation:none}}
 @media print{.sakura-layer,.sakura-toggle{display:none!important}}
+
+/* A quiet lotus seal marks the shared page-view counter. */
+.lotus-visits{display:flex;flex-direction:column;align-items:center;gap:8px;width:max-content;max-width:90%;margin:0 auto 30px;text-align:center;color:var(--muted)}
+.lotus-flower{position:relative;width:128px;height:88px}.lotus-flower svg{display:block}.lotus-kanji{position:absolute;inset:47px 0 auto;font:18px serif;color:#ebcbd8;text-shadow:0 1px 8px #e8b5cf22}.lotus-label{font-size:8px;letter-spacing:2px;color:#d4bdce}.lotus-count{display:block;max-width:100%;object-fit:contain;border-radius:10px;background:#24273c}.lotus-visits small{font-size:9px;color:var(--muted)}.lotus-info{font-size:9px;color:#a5b9bc}.lotus-info:hover{text-decoration:underline}
