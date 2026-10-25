@@ -24,3 +24,17 @@
 @media(max-width:600px){.home-page .home-destination{min-height:290px}.home-destination h3{padding-top:62px}.home-destination .home-symbol{top:22px}.home-destination .eyebrow{padding:5px 6px}.home-tonight{min-height:125px}}
 @media(prefers-reduced-motion:reduce){.home-destination::before{transition:none}.home-destination:hover::before,.home-destination:focus-visible::before{transform:none}}
 @media print{.home-destination::before,.home-destination::after,.home-tonight::before,.home-tonight::after{display:none}}
+
+/* Sakura petals use only compositor transforms and never intercept clicks. */
+.sakura-layer{position:fixed;inset:0;overflow:hidden;pointer-events:none;z-index:12;contain:strict}
+.sakura-layer[hidden]{display:none}
+.sakura-fall{position:absolute;top:-30px;left:var(--left);width:var(--size);height:var(--size);animation:sakura-fall var(--fall) linear var(--delay) infinite;pointer-events:none}
+.sakura-petal{display:block;width:100%;height:75%;border-radius:75% 15% 70% 35%;background:linear-gradient(135deg,#ffe6ef,#f2a7c1 70%,#da85a7);box-shadow:inset 1px 1px 2px #fff8;opacity:.72;animation:sakura-sway var(--sway) ease-in-out var(--delay) infinite alternate;transform-origin:50% 40%}
+.sakura-toggle{flex-shrink:0;padding:8px 13px;border:1px solid #e8b5cf40;border-radius:20px;background:#e8b5cf0a;color:#d4bdce;font-size:11px;cursor:pointer}
+.sakura-toggle:hover{border-color:#e8b5cf80;background:#e8b5cf14}.sakura-toggle[hidden]{display:none}
+.sakura-layer[data-paused="true"] .sakura-fall,.sakura-layer[data-paused="true"] .sakura-petal{animation-play-state:paused}
+@keyframes sakura-fall{0%{transform:translate3d(0,-4vh,0);opacity:0}7%{opacity:1}90%{opacity:1}100%{transform:translate3d(var(--drift),110vh,0);opacity:0}}
+@keyframes sakura-sway{from{transform:translateX(-15px) rotate(var(--tilt)) rotateY(0deg)}to{transform:translateX(15px) rotate(calc(var(--tilt) + 160deg)) rotateY(65deg)}}
+@media(max-width:600px){.sakura-fall:nth-child(n+11){display:none}.sakura-toggle{padding:7px 10px;font-size:10px}.home-explore>.section-heading{align-items:flex-start;flex-wrap:wrap;gap:8px}}
+@media(prefers-reduced-motion:reduce){.sakura-layer,.sakura-toggle{display:none!important}.sakura-fall,.sakura-petal{animation:none}}
+@media print{.sakura-layer,.sakura-toggle{display:none!important}}
