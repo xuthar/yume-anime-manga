@@ -1,0 +1,2 @@
+// Preserve links shared before the homepage became a navigation hub.
+(()=>{function route(){const q=new URLSearchParams(location.search),h=location.hash;if(q.has('anime')||['#anime','#manga','#catalogo','#tonight','#preferiti'].includes(h)){location.replace('libreria.html'+location.search+h)}else if(h==='#episode-calendar'){location.replace('calendario-anime.html')}}route();window.addEventListener('hashchange',route)})();
