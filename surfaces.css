@@ -1,0 +1,15 @@
+/* Quiet surface hierarchy, shared across Yume. Keep accent and selected states intact. */
+:root{--surface:#202338;--surface-raised:#282c43;--surface-border:#ffffff1c}
+@media screen{
+body{--panel:#22253b}
+body .card,body .season-card{background:var(--surface);border:1px solid var(--surface-border);border-radius:12px;padding:10px}
+body .season-home{background:linear-gradient(110deg,#91ddd009,#ff8e8109),var(--surface)}
+body .music-member,body .music-video,body .music-filters,body .music-artist-card,body .music-anime-links article,body .book-filters,body .book-empty,body .visitor-anime,body .visitor-book,body .list-empty,body .owned-work,body .themes-podium-card,body .themes-filters,body .ost-filters,body .ost-notes{background:var(--surface);border-color:var(--surface-border)}
+body .music-album,body .book-release,body .theme-card{background:linear-gradient(140deg,var(--surface-raised),var(--surface));border-color:var(--surface-border)}
+body .ost-card{background:var(--surface);border-color:var(--surface-border)}
+body .music-info{background:var(--surface)}
+body .calendar-day{background:#1b1e32;border-color:var(--surface-border)}
+body .calendar-day.is-today{background:#26383f}
+body .detail-facts>div,body .voice-cast>div,body .theme-list li,body .dossier-facts div{background:var(--surface-raised)}
+body .dossier-note{background:#23333c}
+}
