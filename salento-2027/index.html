@@ -6,7 +6,7 @@ document.getElementById('toggle').addEventListener('click',()=>{const hidden=inp
 const fromB64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
 form.addEventListener('submit',async e=>{e.preventDefault();const pwd=input.value;if(!pwd)return;openBtn.disabled=true;status.style.color='#cfeeed';status.textContent='Decifrazione del progetto in corso…';try{
 if(!crypto.subtle||!('DecompressionStream' in window))throw new Error('Browser non compatibile: usa una versione recente di Edge, Chrome, Firefox o Safari.');
-const res=await fetch('./site.enc.json?version=20261025f',{cache:'no-store'});if(!res.ok)throw new Error('Dati cifrati non disponibili.');const p=await res.json();
+const res=await fetch('./site.enc.json?version=20261025g',{cache:'no-store'});if(!res.ok)throw new Error('Dati cifrati non disponibili.');const p=await res.json();
 const keyMaterial=await crypto.subtle.importKey('raw',new TextEncoder().encode(pwd),'PBKDF2',false,['deriveKey']);
 const key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:fromB64(p.salt),iterations:p.rounds,hash:'SHA-256'},keyMaterial,{name:'AES-GCM',length:256},false,['decrypt']);
 const raw=await crypto.subtle.decrypt({name:'AES-GCM',iv:fromB64(p.iv),additionalData:new TextEncoder().encode('salento-2027-v1')},key,fromB64(p.data));
