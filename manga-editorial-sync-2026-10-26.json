@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-26",
+  "scope": "Controllo editoriale IT/EN; nessuna modifica a possesso, prezzi storici, ISBN di copie o stato personale; edizioni giapponesi escluse.",
+  "sourceSpreadsheet": "Lista anime di Xuthar",
+  "items": [
+    {
+      "title": "Grand Blue",
+      "language": "IT",
+      "editorialNote": "J-POP Grand Blue Variant Edition Cut Price n.1 previsto per 28/10/2026, prezzo di listino €2,90; non ancora pubblicato al 26/10. Edizione separata dai 4 volumi Goen registrati (1 regolare, 1 variant, 2, 3). Nessun acquisto aggiunto.",
+      "editorialSource": "https://www.animeclick.it/news/111867-manga-tutte-le-uscite-italiane-di-ottobre-2026"
+    },
+    {
+      "title": "I diari della speziale",
+      "language": "IT",
+      "editorialNote": "DATA DISCORDANTE n.17 J-POP: calendario AnimeClick mensile 28/10/2026; scheda edizioni AnimeClick 30/11/2026, prezzo listino €6,50. Non dichiarare pubblicato né posseduto. Inventario invariato: 16 regolari + 2 Deluxe (13,14) = 18 copie. Fonti: https://www.animeclick.it/news/111867-manga-tutte-le-uscite-italiane-di-ottobre-2026 ; https://www.animeclick.it/manga/23236/kusuriya-no-hitorigoto/edizioni",
+      "editorialSource": "https://www.animeclick.it/manga/23236/kusuriya-no-hitorigoto/edizioni"
+    },
+    {
+      "title": "The Dungeon of Black Company",
+      "language": "EN (edizione futura) / IT (possesso)",
+      "editorialNote": "Seven Seas EN n.14 previsto 27/10/2026, listino $13.99, ISBN editoriale 979-8-89765-366-9. Inventario personale distinto: 5 unità IT Saldapress (starter pack, n.1 regolare e variant, nn.2-3). Nessuna nuova copia, conversione EUR o modifica dei prezzi.",
+      "editorialSource": "https://sevenseasentertainment.com/books/the-dungeon-of-black-company-vol-14/"
+    },
+    {
+      "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+      "language": "EN",
+      "editorialNote": "ATTENZIONE: per l'adattamento MANGA EN n.9 Seven Seas mostra date discordanti: 27/10/2026 nella scheda del volume, 03/11/2026 nel calendario generale. Data effettiva da verificare. MANGA separato dalla LIGHT NOVEL Airship, di cui 11 volumi già registrati. Manga n.9 non posseduto e non aggiunto. Fonti: https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-manga-vol-9/ ; https://sevenseasentertainment.com/release-dates/",
+      "editorialSource": "https://sevenseasentertainment.com/release-dates/"
+    }
+  ]
+}
