@@ -1,0 +1,590 @@
+{
+  "checkedAt": "2026-10-26",
+  "entriesChecked": 139,
+  "approved": 3,
+  "note": "Verifica editoriale delle immagini e della provenienza, non certificazione legale o licenza di riproduzione. Solo le immagini approvate sono incluse nel sito.",
+  "records": {
+    "anime-63310": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63248": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: HTTPError"
+    },
+    "anime-61694": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-41261": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-2341": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-2345": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-2344": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-2343": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-21521": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "anime-62379": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-52717": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: HTTPError"
+    },
+    "anime-62897": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-44524": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-40010": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-57470": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: HTTPError"
+    },
+    "anime-57969": {
+      "status": "approved",
+      "reason": "Immagine ufficiale non esplicita, controllata visivamente; nessuna autorizzazione generale sui diritti dedotta."
+    },
+    "anime-2342": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-49637": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: HTTPError"
+    },
+    "anime-41946": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-62316": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-62369": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-62145": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-62537": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-62353": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-62406": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-62380": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-62315": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-62314": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "manga-ac-38455": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-34611": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-25938": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-61464": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: HTTPError"
+    },
+    "manga-ac-54939": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: HTTPError"
+    },
+    "manga-ac-53488": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-68433": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-27996": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-15546": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-56631": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "manga-ac-50478": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-29253": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-33024": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-24274": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-60768": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-52466": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-51916": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-39148": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-46776": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "manga-ac-45438": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-28403": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-33192": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-43705": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-22874": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-49455": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-59221": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-63580": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-26532": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "manga-ac-64705": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-60170": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-55490": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-14836": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "manga-ac-46784": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-24588": {
+      "status": "approved",
+      "reason": "Immagine ufficiale non esplicita, controllata visivamente; nessuna autorizzazione generale sui diritti dedotta."
+    },
+    "manga-ac-37624": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-32921": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-33276": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-44862": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-10908": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-67082": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-42005": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-11861": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-48421": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-10561": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-18620": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-14272": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-1353": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-2359": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-2360": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-28779": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "anime-30583": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "anime-40436": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-50469": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: HTTPError"
+    },
+    "anime-52281": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-55309": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-63046": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-63330": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "manga-ac-37251": {
+      "status": "approved",
+      "reason": "Immagine ufficiale non esplicita, controllata visivamente; nessuna autorizzazione generale sui diritti dedotta."
+    },
+    "manga-collection-cultural-anthropology": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-collection-not-succubus": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-59939": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-57040": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-photo-makina-love-bot": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-photo-amours-impures": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "manga-ac-25472": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-photo-cuckolding-wizard": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-photo-virgin-ventures": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-photo-zombie-world": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-10538": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "manga-ac-20028": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-63468": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63619": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: UnicodeEncodeError"
+    },
+    "anime-64542": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-32587": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "anime-55003": {
+      "status": "excluded",
+      "reason": "Immagine non idonea alla pubblicazione"
+    },
+    "anime-64373": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64250": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63765": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64531": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64095": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64292": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64404": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64405": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64291": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64530": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64053": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64529": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63509": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64131": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64298": {
+      "status": "unverified",
+      "reason": "Fonte non verificabile: UnicodeEncodeError"
+    },
+    "anime-63381": {
+      "status": "not-approved",
+      "reason": "Copertina esplicita, troppo allusiva, non specifica per l’edizione o non verificata visivamente: segnaposto conservato."
+    },
+    "anime-64899": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64884": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-64823": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-64729": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-65035": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-65020": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-65038": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-65116": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-65117": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-61599": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-63074": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-62686": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63159": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63158": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63026": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63232": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63027": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-63084": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    },
+    "anime-65129": {
+      "status": "unverified",
+      "reason": "Fonte ufficiale non verificata"
+    },
+    "anime-65234": {
+      "status": "unverified",
+      "reason": "Pagina ufficiale senza copertina verificabile"
+    }
+  },
+  "approvedImages": {
+    "anime-57969": {
+      "image": "assets/covers/reviewed/anime-57969.webp",
+      "source": "https://nukiani.com",
+      "checkedAt": "2026-10-26",
+      "kind": "Locandina ufficiale",
+      "edition": "",
+      "sha256": "6f5feca67761870e0e7c370891e7a4cf9c1984aeaee402630499ae3d3a3c3600"
+    },
+    "manga-ac-24588": {
+      "image": "assets/covers/reviewed/manga-ac-24588.webp",
+      "source": "https://b2c.magicpressedizioni.it/ragazzi-ragazze/4231-redo-of-healer-vol17-9791256723577.html",
+      "checkedAt": "2026-10-26",
+      "kind": "Copertina dell’edizione posseduta",
+      "edition": "Redo of healer vol.17",
+      "sha256": "fd04d0a6e37d4acd6b2eb19b4aacbfe35ed3e98c09feaaedd934265e8c233449"
+    },
+    "manga-ac-37251": {
+      "image": "assets/covers/reviewed/manga-ac-37251.webp",
+      "source": "https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
+      "checkedAt": "2026-10-26",
+      "kind": "Copertina dell’edizione posseduta",
+      "edition": "Volume 1",
+      "sha256": "acc0d8028317b1de26dc29d78f88e820ce209f45909e6208a0624185ecff2842"
+    }
+  }
+}
