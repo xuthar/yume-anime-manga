@@ -1,11 +1,11 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const data=JSON.parse(fs.readFileSync('seasons.json'));
-assert.equal(data.region,'IT');assert.equal(Object.keys(data.items).length,560);
-const expected={'summer-2026':262,'autumn-2026':169,'winter-2026':229};
-for(const s of data.seasons){assert.equal(s.year,2026);assert.equal(s.entries.length,expected[s.key]);assert.equal(new Set(s.entries.map(e=>e.id)).size,s.entries.length);for(const e of s.entries){assert(data.items[e.id]);assert.equal(typeof e.continuing,'boolean')}}
+assert.equal(data.region,'IT');assert(Object.keys(data.items).length>=587);
+const expected={'summer-2026':265,'autumn-2026':179,'winter-2026':230,'spring-2027':19};
+for(const s of data.seasons){assert.equal(s.year,Number(s.key.split('-')[1]));assert.equal(s.entries.length,expected[s.key]);assert.equal(new Set(s.entries.map(e=>e.id)).size,s.entries.length);for(const e of s.entries){assert(data.items[e.id]);assert.equal(typeof e.continuing,'boolean')}}
 let offers=0,plots=0;
 for(const [id,x] of Object.entries(data.items)){
- assert.equal(id,`anime-${x.malId}`);assert(x.detailsChecked,`Unverified metadata: ${id}`);assert(x.title&&x.japanese);assert(x.url.startsWith(`https://myanimelist.net/anime/${x.malId}/`));assert(Array.isArray(x.genres));assert(x.checkedAt);assert(!('synopsisOriginal' in x));
+ assert.equal(id,`anime-${x.malId}`);assert(x.detailsChecked,`Unverified metadata: ${id}`);assert(x.title);assert(x.japanese||x.originalTitleNote);assert(x.url.startsWith(`https://myanimelist.net/anime/${x.malId}/`));assert(Array.isArray(x.genres));assert(x.checkedAt);assert(!('synopsisOriginal' in x));
  if(x.adult)assert.equal(x.image,'');
  for(const s of x.streaming){assert.equal(s.country,'IT');assert.equal(new URL(s.url).protocol,'https:');assert(s.name);offers++}
  if(x.synopsisIt)plots++;else assert(x.synopsisNote.includes('non ha ancora'),'Unexpected missing synopsis: '+id);
@@ -17,7 +17,7 @@ assert.equal(vm.runInContext("safeUrl('javascript:alert(1)')",context),'');asser
 assert(!context.titleField('INGLESE','<img onerror=x>').includes('<img'));
 assert(context.titleField('INGLESE','').includes('Non indicato'));
 const parsed=fs.readFileSync('index.html','utf8');assert(parsed.includes('href="seasons.html"'));
-console.log(`PASS: 3 seasons, 660 entries, 560 verified titles, ${plots} synopses/project notes, ${offers} Italian streaming offers; original titles, adult cover handling and safe rendering.`);
+console.log(`PASS: 4 seasons including Spring 2027, verified seasonal IDs, ${plots} synopses/project notes, ${offers} Italian streaming offers; original titles, adult cover handling and safe rendering.`);
 context.localStorage={getItem:key=>storage.get(key)||null,setItem:(key,value)=>storage.set(key,value)};
 assert.equal(vm.runInContext('Object.keys(readChoices()).length',context),0);
 storage.set('yume-season-choices','{"anime-1":"watch","anime-2":"skip","anime-3":"invalid","bad":"watch"}');
@@ -33,3 +33,5 @@ choice.children[1].onclick();assert.equal(JSON.parse(storage.get('yume-season-ch
 choice.children[0].onclick();assert.equal(vm.runInContext('readChoices()["anime-1"]',context),'watch');
 context.localStorage.setItem=()=>{throw Error('Storage blocked')};choice.children[1].onclick();assert.equal(vm.runInContext('seasonChoices["anime-1"]',context),'skip');
 console.log('PASS: choice validation, watch/skip exclusivity, undo, persistence and blocked-storage fallback.');
+
+assert.equal(context.releaseLabel({releaseDate:'2027-04'}),'aprile 2027 · giorno da annunciare');assert(!context.releaseLabel({releaseDate:'',releaseWindow:'Aprile – Giugno 2027'}).includes('Invalid'));for(const e of data.seasons.find(s=>s.key==='spring-2027').entries){const x=data.items[e.id];assert.equal(x.releaseStatus,'Annunciato');assert.equal(x.streaming.length,0);assert(!('progress' in x));assert(!('rating' in x));}

@@ -1,0 +1,2238 @@
+{
+  "checkedAt": "2026-10-26T19:28:55.173960+00:00",
+  "new": [
+    "anime-65216",
+    "anime-65129",
+    "anime-65256",
+    "anime-65209",
+    "anime-65261",
+    "anime-65234",
+    "anime-61813",
+    "anime-65203",
+    "anime-62841",
+    "anime-60548",
+    "anime-64058",
+    "anime-65070",
+    "anime-62613",
+    "anime-64006",
+    "anime-61944",
+    "anime-63958",
+    "anime-65023",
+    "anime-64501",
+    "anime-64667",
+    "anime-61199",
+    "anime-63997",
+    "anime-61461",
+    "anime-62024",
+    "anime-65080",
+    "anime-63811",
+    "anime-65205",
+    "anime-58849"
+  ],
+  "changed": [
+    {
+      "id": "anime-59193",
+      "changes": {
+        "score": {
+          "before": "8.67",
+          "after": "8.66"
+        }
+      }
+    },
+    {
+      "id": "anime-49233",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-49233.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1917/158371.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-62076",
+      "changes": {
+        "score": {
+          "before": "8.21",
+          "after": "8.20"
+        },
+        "image": {
+          "before": "assets/covers/anime-62076.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-60636",
+      "changes": {
+        "score": {
+          "before": "9.00",
+          "after": "8.97"
+        }
+      }
+    },
+    {
+      "id": "anime-63403",
+      "changes": {
+        "score": {
+          "before": "7.52",
+          "after": "7.51"
+        }
+      }
+    },
+    {
+      "id": "anime-63832",
+      "changes": {
+        "score": {
+          "before": "8.53",
+          "after": "8.52"
+        }
+      }
+    },
+    {
+      "id": "anime-59741",
+      "changes": {
+        "score": {
+          "before": "6.83",
+          "after": "6.80"
+        }
+      }
+    },
+    {
+      "id": "anime-61126",
+      "changes": {
+        "score": {
+          "before": "7.55",
+          "after": "7.54"
+        }
+      }
+    },
+    {
+      "id": "anime-62811",
+      "changes": {
+        "score": {
+          "before": "8.05",
+          "after": "8.04"
+        },
+        "image": {
+          "before": "assets/covers/anime-62811.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1755/159708.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-63508",
+      "changes": {
+        "score": {
+          "before": "6.17",
+          "after": "6.18"
+        }
+      }
+    },
+    {
+      "id": "anime-62876",
+      "changes": {
+        "score": {
+          "before": "6.88",
+          "after": "6.87"
+        }
+      }
+    },
+    {
+      "id": "anime-62617",
+      "changes": {
+        "score": {
+          "before": "6.18",
+          "after": "6.17"
+        }
+      }
+    },
+    {
+      "id": "anime-62322",
+      "changes": {
+        "score": {
+          "before": "6.11",
+          "after": "6.12"
+        }
+      }
+    },
+    {
+      "id": "anime-63316",
+      "changes": {
+        "score": {
+          "before": "6.80",
+          "after": "6.82"
+        }
+      }
+    },
+    {
+      "id": "anime-58878",
+      "changes": {
+        "score": {
+          "before": "7.64",
+          "after": "7.63"
+        }
+      }
+    },
+    {
+      "id": "anime-60059",
+      "changes": {
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1289/156329.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1105/160712.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61814",
+      "changes": {
+        "score": {
+          "before": "6.82",
+          "after": "6.81"
+        }
+      }
+    },
+    {
+      "id": "anime-56736",
+      "changes": {
+        "score": {
+          "before": "6.60",
+          "after": "6.61"
+        }
+      }
+    },
+    {
+      "id": "anime-63082",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-63082.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1170/155761.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-63537",
+      "changes": {
+        "score": {
+          "before": "6.79",
+          "after": "6.78"
+        }
+      }
+    },
+    {
+      "id": "anime-62102",
+      "changes": {
+        "score": {
+          "before": "7.19",
+          "after": "7.20"
+        }
+      }
+    },
+    {
+      "id": "anime-63489",
+      "changes": {
+        "score": {
+          "before": "5.66",
+          "after": "5.67"
+        }
+      }
+    },
+    {
+      "id": "anime-62051",
+      "changes": {
+        "score": {
+          "before": "7.39",
+          "after": "7.40"
+        }
+      }
+    },
+    {
+      "id": "anime-62683",
+      "changes": {
+        "score": {
+          "before": "7.01",
+          "after": "7.02"
+        }
+      }
+    },
+    {
+      "id": "anime-63514",
+      "changes": {
+        "score": {
+          "before": "6.30",
+          "after": "6.29"
+        }
+      }
+    },
+    {
+      "id": "anime-63878",
+      "changes": {
+        "score": {
+          "before": "5.91",
+          "after": "5.92"
+        }
+      }
+    },
+    {
+      "id": "anime-63802",
+      "changes": {
+        "score": {
+          "before": "5.26",
+          "after": "5.24"
+        }
+      }
+    },
+    {
+      "id": "anime-63418",
+      "changes": {
+        "score": {
+          "before": "5.75",
+          "after": "5.74"
+        }
+      }
+    },
+    {
+      "id": "anime-64543",
+      "changes": {
+        "score": {
+          "before": "5.97",
+          "after": "5.93"
+        }
+      }
+    },
+    {
+      "id": "anime-64435",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "5.89"
+        }
+      }
+    },
+    {
+      "id": "anime-64378",
+      "changes": {
+        "score": {
+          "before": "6.06",
+          "after": "6.08"
+        }
+      }
+    },
+    {
+      "id": "anime-21",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-21.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61316",
+      "changes": {
+        "score": {
+          "before": "9.09",
+          "after": "9.07"
+        }
+      }
+    },
+    {
+      "id": "anime-59970",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-59970.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1695/156389.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-62001",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-62001.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1171/156397.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-60310",
+      "changes": {
+        "score": {
+          "before": "8.09",
+          "after": "8.08"
+        }
+      }
+    },
+    {
+      "id": "anime-62331",
+      "changes": {
+        "score": {
+          "before": "6.87",
+          "after": "6.88"
+        }
+      }
+    },
+    {
+      "id": "anime-62171",
+      "changes": {
+        "score": {
+          "before": "6.78",
+          "after": "6.79"
+        },
+        "image": {
+          "before": "assets/covers/anime-62171.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1716/153989.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61269",
+      "changes": {
+        "score": {
+          "before": "7.48",
+          "after": "7.47"
+        }
+      }
+    },
+    {
+      "id": "anime-62981",
+      "changes": {
+        "score": {
+          "before": "6.16",
+          "after": "6.17"
+        }
+      }
+    },
+    {
+      "id": "anime-63042",
+      "changes": {
+        "score": {
+          "before": "7.69",
+          "after": "7.67"
+        }
+      }
+    },
+    {
+      "id": "anime-60534",
+      "changes": {
+        "score": {
+          "before": "7.60",
+          "after": "7.61"
+        }
+      }
+    },
+    {
+      "id": "anime-60153",
+      "changes": {
+        "score": {
+          "before": "6.57",
+          "after": "6.58"
+        }
+      }
+    },
+    {
+      "id": "anime-63352",
+      "changes": {
+        "score": {
+          "before": "6.11",
+          "after": "6.08"
+        }
+      }
+    },
+    {
+      "id": "anime-62875",
+      "changes": {
+        "episodes": {
+          "before": null,
+          "after": 26
+        },
+        "releaseDate": {
+          "before": "2025-10-08",
+          "after": "2025-12-10"
+        }
+      }
+    },
+    {
+      "id": "anime-61469",
+      "changes": {
+        "score": {
+          "before": "9.05",
+          "after": "9.04"
+        }
+      }
+    },
+    {
+      "id": "anime-61607",
+      "changes": {
+        "duration": {
+          "before": "22 min",
+          "after": "24 min"
+        },
+        "score": {
+          "before": "8.54",
+          "after": "8.46"
+        }
+      }
+    },
+    {
+      "id": "anime-63138",
+      "changes": {
+        "score": {
+          "before": "6.62",
+          "after": "6.61"
+        }
+      }
+    },
+    {
+      "id": "anime-64012",
+      "changes": {
+        "score": {
+          "before": "6.63",
+          "after": "6.62"
+        }
+      }
+    },
+    {
+      "id": "anime-63468",
+      "changes": {
+        "score": {
+          "before": "6.31",
+          "after": "6.30"
+        }
+      }
+    },
+    {
+      "id": "anime-51836",
+      "changes": {
+        "score": {
+          "before": "8.02",
+          "after": "8.03"
+        }
+      }
+    },
+    {
+      "id": "anime-62957",
+      "changes": {
+        "score": {
+          "before": "7.07",
+          "after": "7.09"
+        }
+      }
+    },
+    {
+      "id": "anime-60651",
+      "changes": {
+        "score": {
+          "before": "6.44",
+          "after": "6.45"
+        }
+      }
+    },
+    {
+      "id": "anime-64979",
+      "changes": {
+        "score": {
+          "before": "7.84",
+          "after": "7.85"
+        }
+      }
+    },
+    {
+      "id": "anime-63619",
+      "changes": {
+        "score": {
+          "before": "6.30",
+          "after": "6.35"
+        }
+      }
+    },
+    {
+      "id": "anime-64867",
+      "changes": {
+        "score": {
+          "before": "6.88",
+          "after": "6.90"
+        }
+      }
+    },
+    {
+      "id": "anime-64683",
+      "changes": {
+        "score": {
+          "before": "7.68",
+          "after": "7.71"
+        }
+      }
+    },
+    {
+      "id": "anime-61642",
+      "changes": {
+        "score": {
+          "before": "7.15",
+          "after": "7.16"
+        }
+      }
+    },
+    {
+      "id": "anime-62241",
+      "changes": {
+        "score": {
+          "before": "7.62",
+          "after": "7.64"
+        }
+      }
+    },
+    {
+      "id": "anime-63987",
+      "changes": {
+        "score": {
+          "before": "6.82",
+          "after": "6.87"
+        }
+      }
+    },
+    {
+      "id": "anime-62248",
+      "changes": {
+        "score": {
+          "before": "7.58",
+          "after": "7.54"
+        }
+      }
+    },
+    {
+      "id": "anime-62234",
+      "changes": {
+        "score": {
+          "before": "7.87",
+          "after": "7.89"
+        }
+      }
+    },
+    {
+      "id": "anime-63240",
+      "changes": {
+        "score": {
+          "before": "8.04",
+          "after": "8.05"
+        }
+      }
+    },
+    {
+      "id": "anime-62651",
+      "changes": {
+        "score": {
+          "before": "7.74",
+          "after": "7.76"
+        }
+      }
+    },
+    {
+      "id": "anime-61634",
+      "changes": {
+        "score": {
+          "before": "6.75",
+          "after": "6.72"
+        }
+      }
+    },
+    {
+      "id": "anime-64398",
+      "changes": {
+        "score": {
+          "before": "8.15",
+          "after": "8.17"
+        }
+      }
+    },
+    {
+      "id": "anime-61557",
+      "changes": {
+        "score": {
+          "before": "7.42",
+          "after": "7.44"
+        }
+      }
+    },
+    {
+      "id": "anime-63967",
+      "changes": {
+        "score": {
+          "before": "7.36",
+          "after": "7.37"
+        }
+      }
+    },
+    {
+      "id": "anime-60571",
+      "changes": {
+        "score": {
+          "before": "7.37",
+          "after": "7.39"
+        }
+      }
+    },
+    {
+      "id": "anime-64542",
+      "changes": {
+        "score": {
+          "before": "6.30",
+          "after": "6.31"
+        }
+      }
+    },
+    {
+      "id": "anime-62723",
+      "changes": {
+        "score": {
+          "before": "7.32",
+          "after": "7.30"
+        }
+      }
+    },
+    {
+      "id": "anime-61626",
+      "changes": {
+        "score": {
+          "before": "6.86",
+          "after": "6.87"
+        }
+      }
+    },
+    {
+      "id": "anime-61619",
+      "changes": {
+        "score": {
+          "before": "6.89",
+          "after": "6.90"
+        }
+      }
+    },
+    {
+      "id": "anime-62789",
+      "changes": {
+        "score": {
+          "before": "7.17",
+          "after": "7.19"
+        }
+      }
+    },
+    {
+      "id": "anime-62707",
+      "changes": {
+        "score": {
+          "before": "6.48",
+          "after": "6.47"
+        }
+      }
+    },
+    {
+      "id": "anime-60426",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "20 min"
+        }
+      }
+    },
+    {
+      "id": "anime-63439",
+      "changes": {
+        "score": {
+          "before": "6.71",
+          "after": "6.70"
+        }
+      }
+    },
+    {
+      "id": "anime-64840",
+      "changes": {
+        "score": {
+          "before": "6.00",
+          "after": "6.02"
+        }
+      }
+    },
+    {
+      "id": "anime-64510",
+      "changes": {
+        "duration": {
+          "before": "8 min",
+          "after": "9 min"
+        }
+      }
+    },
+    {
+      "id": "anime-64250",
+      "changes": {
+        "score": {
+          "before": "7.05",
+          "after": "7.06"
+        }
+      }
+    },
+    {
+      "id": "anime-63765",
+      "changes": {
+        "studio": {
+          "before": "Queen Bee",
+          "after": "Blue bread"
+        },
+        "duration": {
+          "before": "0 min",
+          "after": "19 min"
+        },
+        "score": {
+          "before": "6.34",
+          "after": "6.37"
+        }
+      }
+    },
+    {
+      "id": "anime-64531",
+      "changes": {
+        "score": {
+          "before": "6.89",
+          "after": "6.90"
+        }
+      }
+    },
+    {
+      "id": "anime-64292",
+      "changes": {
+        "score": {
+          "before": "6.90",
+          "after": "6.89"
+        }
+      }
+    },
+    {
+      "id": "anime-64404",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "6.40"
+        }
+      }
+    },
+    {
+      "id": "anime-64530",
+      "changes": {
+        "score": {
+          "before": "7.02",
+          "after": "7.08"
+        }
+      }
+    },
+    {
+      "id": "anime-64405",
+      "changes": {
+        "score": {
+          "before": "6.28",
+          "after": "6.35"
+        }
+      }
+    },
+    {
+      "id": "anime-64779",
+      "changes": {
+        "releaseDate": {
+          "before": "2026-07-00",
+          "after": "2026-07"
+        }
+      }
+    },
+    {
+      "id": "anime-64291",
+      "changes": {
+        "score": {
+          "before": "6.44",
+          "after": "6.42"
+        }
+      }
+    },
+    {
+      "id": "anime-64053",
+      "changes": {
+        "score": {
+          "before": "5.85",
+          "after": "5.84"
+        }
+      }
+    },
+    {
+      "id": "anime-64529",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "5.93"
+        }
+      }
+    },
+    {
+      "id": "anime-48820",
+      "changes": {
+        "score": {
+          "before": "8.13",
+          "after": "8.12"
+        }
+      }
+    },
+    {
+      "id": "anime-63819",
+      "changes": {
+        "score": {
+          "before": "6.96",
+          "after": "6.95"
+        }
+      }
+    },
+    {
+      "id": "anime-63736",
+      "changes": {
+        "score": {
+          "before": "6.18",
+          "after": "6.17"
+        }
+      }
+    },
+    {
+      "id": "anime-64019",
+      "changes": {
+        "score": {
+          "before": "7.46",
+          "after": "7.49"
+        }
+      }
+    },
+    {
+      "id": "anime-63011",
+      "changes": {
+        "score": {
+          "before": "8.11",
+          "after": "8.13"
+        }
+      }
+    },
+    {
+      "id": "anime-64382",
+      "changes": {
+        "score": {
+          "before": "7.45",
+          "after": "7.49"
+        }
+      }
+    },
+    {
+      "id": "anime-65200",
+      "changes": {
+        "studio": {
+          "before": "",
+          "after": "Shin-Ei Animation"
+        }
+      }
+    },
+    {
+      "id": "anime-64913",
+      "changes": {
+        "score": {
+          "before": "7.29",
+          "after": "7.30"
+        }
+      }
+    },
+    {
+      "id": "anime-64802",
+      "changes": {
+        "score": {
+          "before": "6.64",
+          "after": "6.65"
+        }
+      }
+    },
+    {
+      "id": "anime-61987",
+      "changes": {
+        "score": {
+          "before": "8.66",
+          "after": "8.65"
+        }
+      }
+    },
+    {
+      "id": "anime-61967",
+      "changes": {
+        "score": {
+          "before": "8.80",
+          "after": "8.81"
+        }
+      }
+    },
+    {
+      "id": "anime-53913",
+      "changes": {
+        "score": {
+          "before": "7.56",
+          "after": "7.52"
+        }
+      }
+    },
+    {
+      "id": "anime-61323",
+      "changes": {
+        "score": {
+          "before": "8.18",
+          "after": "8.15"
+        }
+      }
+    },
+    {
+      "id": "anime-59088",
+      "changes": {
+        "score": {
+          "before": "7.79",
+          "after": "7.80"
+        }
+      }
+    },
+    {
+      "id": "anime-63293",
+      "changes": {
+        "score": {
+          "before": "7.90",
+          "after": "7.77"
+        }
+      }
+    },
+    {
+      "id": "anime-64534",
+      "changes": {
+        "score": {
+          "before": "8.34",
+          "after": "8.35"
+        }
+      }
+    },
+    {
+      "id": "anime-52480",
+      "changes": {
+        "score": {
+          "before": "7.11",
+          "after": "7.04"
+        }
+      }
+    },
+    {
+      "id": "anime-57612",
+      "changes": {
+        "score": {
+          "before": "7.13",
+          "after": "7.07"
+        }
+      }
+    },
+    {
+      "id": "anime-60601",
+      "changes": {
+        "score": {
+          "before": "7.42",
+          "after": "7.41"
+        }
+      }
+    },
+    {
+      "id": "anime-64340",
+      "changes": {
+        "score": {
+          "before": "7.45",
+          "after": "7.48"
+        }
+      }
+    },
+    {
+      "id": "anime-63409",
+      "changes": {
+        "score": {
+          "before": "7.41",
+          "after": "7.47"
+        }
+      }
+    },
+    {
+      "id": "anime-63367",
+      "changes": {
+        "score": {
+          "before": "8.31",
+          "after": "8.30"
+        }
+      }
+    },
+    {
+      "id": "anime-61603",
+      "changes": {
+        "score": {
+          "before": "8.18",
+          "after": "8.22"
+        }
+      }
+    },
+    {
+      "id": "anime-63431",
+      "changes": {
+        "score": {
+          "before": "7.51",
+          "after": "7.41"
+        }
+      }
+    },
+    {
+      "id": "anime-63140",
+      "changes": {
+        "score": {
+          "before": "7.54",
+          "after": "7.52"
+        }
+      }
+    },
+    {
+      "id": "anime-63801",
+      "changes": {
+        "score": {
+          "before": "7.92",
+          "after": "7.91"
+        }
+      }
+    },
+    {
+      "id": "anime-60948",
+      "changes": {
+        "score": {
+          "before": "6.89",
+          "after": "6.87"
+        }
+      }
+    },
+    {
+      "id": "anime-58518",
+      "changes": {
+        "score": {
+          "before": "7.25",
+          "after": "7.23"
+        }
+      }
+    },
+    {
+      "id": "anime-64254",
+      "changes": {
+        "score": {
+          "before": "6.64",
+          "after": "6.56"
+        }
+      }
+    },
+    {
+      "id": "anime-63098",
+      "changes": {
+        "score": {
+          "before": "7.09",
+          "after": "6.99"
+        }
+      }
+    },
+    {
+      "id": "anime-56733",
+      "changes": {
+        "score": {
+          "before": "6.89",
+          "after": "6.90"
+        }
+      }
+    },
+    {
+      "id": "anime-63754",
+      "changes": {
+        "score": {
+          "before": "6.90",
+          "after": "6.87"
+        }
+      }
+    },
+    {
+      "id": "anime-61153",
+      "changes": {
+        "score": {
+          "before": "6.98",
+          "after": "7.03"
+        }
+      }
+    },
+    {
+      "id": "anime-63337",
+      "changes": {
+        "score": {
+          "before": "7.16",
+          "after": "7.08"
+        }
+      }
+    },
+    {
+      "id": "anime-62484",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "23 min"
+        },
+        "score": {
+          "before": "7.61",
+          "after": "7.63"
+        }
+      }
+    },
+    {
+      "id": "anime-59787",
+      "changes": {
+        "episodes": {
+          "before": null,
+          "after": 24
+        }
+      }
+    },
+    {
+      "id": "anime-62922",
+      "changes": {
+        "score": {
+          "before": "6.24",
+          "after": "6.25"
+        }
+      }
+    },
+    {
+      "id": "anime-61014",
+      "changes": {
+        "score": {
+          "before": "7.45",
+          "after": "7.44"
+        }
+      }
+    },
+    {
+      "id": "anime-63712",
+      "changes": {
+        "score": {
+          "before": "6.79",
+          "after": "6.71"
+        }
+      }
+    },
+    {
+      "id": "anime-61999",
+      "changes": {
+        "score": {
+          "before": "7.10",
+          "after": "7.02"
+        }
+      }
+    },
+    {
+      "id": "anime-63292",
+      "changes": {
+        "score": {
+          "before": "6.63",
+          "after": "6.66"
+        }
+      }
+    },
+    {
+      "id": "anime-64084",
+      "changes": {
+        "score": {
+          "before": "6.95",
+          "after": "6.98"
+        }
+      }
+    },
+    {
+      "id": "anime-62753",
+      "changes": {
+        "score": {
+          "before": "7.04",
+          "after": "6.91"
+        }
+      }
+    },
+    {
+      "id": "anime-59204",
+      "changes": {
+        "score": {
+          "before": "7.32",
+          "after": "7.25"
+        }
+      }
+    },
+    {
+      "id": "anime-64503",
+      "changes": {
+        "score": {
+          "before": "7.49",
+          "after": "7.45"
+        }
+      }
+    },
+    {
+      "id": "anime-62524",
+      "changes": {
+        "score": {
+          "before": "6.67",
+          "after": "6.66"
+        }
+      }
+    },
+    {
+      "id": "anime-54344",
+      "changes": {
+        "score": {
+          "before": "6.69",
+          "after": "6.67"
+        }
+      }
+    },
+    {
+      "id": "anime-63751",
+      "changes": {
+        "score": {
+          "before": "6.41",
+          "after": "6.37"
+        }
+      }
+    },
+    {
+      "id": "anime-61140",
+      "changes": {
+        "score": {
+          "before": "6.73",
+          "after": "6.60"
+        }
+      }
+    },
+    {
+      "id": "anime-62696",
+      "changes": {
+        "score": {
+          "before": "6.81",
+          "after": "6.77"
+        }
+      }
+    },
+    {
+      "id": "anime-62907",
+      "changes": {
+        "score": {
+          "before": "6.59",
+          "after": "6.57"
+        }
+      }
+    },
+    {
+      "id": "anime-63753",
+      "changes": {
+        "score": {
+          "before": "6.46",
+          "after": "6.44"
+        }
+      }
+    },
+    {
+      "id": "anime-64326",
+      "changes": {
+        "genres": {
+          "before": [
+            "Comedy"
+          ],
+          "after": [
+            "Fantasy"
+          ]
+        },
+        "score": {
+          "before": "6.35",
+          "after": "6.36"
+        }
+      }
+    },
+    {
+      "id": "anime-64505",
+      "changes": {
+        "score": {
+          "before": "7.77",
+          "after": "7.87"
+        }
+      }
+    },
+    {
+      "id": "anime-62615",
+      "changes": {
+        "score": {
+          "before": "6.63",
+          "after": "6.57"
+        }
+      }
+    },
+    {
+      "id": "anime-62590",
+      "changes": {
+        "score": {
+          "before": "6.97",
+          "after": "6.89"
+        }
+      }
+    },
+    {
+      "id": "anime-63764",
+      "changes": {
+        "score": {
+          "before": "5.84",
+          "after": "5.76"
+        }
+      }
+    },
+    {
+      "id": "anime-63053",
+      "changes": {
+        "score": {
+          "before": "5.93",
+          "after": "5.74"
+        }
+      }
+    },
+    {
+      "id": "anime-64180",
+      "changes": {
+        "score": {
+          "before": "6.57",
+          "after": "6.61"
+        }
+      }
+    },
+    {
+      "id": "anime-59415",
+      "changes": {
+        "score": {
+          "before": "6.00",
+          "after": "5.72"
+        }
+      }
+    },
+    {
+      "id": "anime-63157",
+      "changes": {
+        "score": {
+          "before": "6.44",
+          "after": "6.45"
+        }
+      }
+    },
+    {
+      "id": "anime-64344",
+      "changes": {
+        "episodes": {
+          "before": null,
+          "after": 12
+        },
+        "score": {
+          "before": "5.47",
+          "after": "5.57"
+        }
+      }
+    },
+    {
+      "id": "anime-64718",
+      "changes": {
+        "score": {
+          "before": "6.05",
+          "after": "6.01"
+        }
+      }
+    },
+    {
+      "id": "anime-65009",
+      "changes": {
+        "score": {
+          "before": "6.36",
+          "after": "6.26"
+        }
+      }
+    },
+    {
+      "id": "anime-62534",
+      "changes": {
+        "score": {
+          "before": "6.65",
+          "after": "6.66"
+        }
+      }
+    },
+    {
+      "id": "anime-63818",
+      "changes": {
+        "score": {
+          "before": "5.67",
+          "after": "5.59"
+        }
+      }
+    },
+    {
+      "id": "anime-63667",
+      "changes": {
+        "score": {
+          "before": "6.63",
+          "after": "6.67"
+        }
+      }
+    },
+    {
+      "id": "anime-65167",
+      "changes": {
+        "releaseDate": {
+          "before": "2026-10-08",
+          "after": "2026-10-18"
+        }
+      }
+    },
+    {
+      "id": "anime-61990",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "28 min"
+        },
+        "score": {
+          "before": "0",
+          "after": "8.24"
+        }
+      }
+    },
+    {
+      "id": "anime-63509",
+      "changes": {
+        "score": {
+          "before": "6.92",
+          "after": "6.86"
+        }
+      }
+    },
+    {
+      "id": "anime-64131",
+      "changes": {
+        "score": {
+          "before": "5.72",
+          "after": "5.66"
+        }
+      }
+    },
+    {
+      "id": "anime-60597",
+      "changes": {
+        "score": {
+          "before": "7.28",
+          "after": "7.30"
+        }
+      }
+    },
+    {
+      "id": "anime-64298",
+      "changes": {
+        "episodes": {
+          "before": null,
+          "after": 8
+        },
+        "score": {
+          "before": "6.52",
+          "after": "6.80"
+        }
+      }
+    },
+    {
+      "id": "anime-60348",
+      "changes": {
+        "releaseDate": {
+          "before": "2026-12-00",
+          "after": "2026-12"
+        }
+      }
+    },
+    {
+      "id": "anime-63381",
+      "changes": {
+        "genres": {
+          "before": [
+            "Erotica"
+          ],
+          "after": [
+            "Hentai"
+          ]
+        },
+        "score": {
+          "before": "5.74",
+          "after": "5.72"
+        }
+      }
+    },
+    {
+      "id": "anime-64445",
+      "changes": {
+        "score": {
+          "before": "8.03",
+          "after": "8.07"
+        }
+      }
+    },
+    {
+      "id": "anime-65179",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "1 min"
+        }
+      }
+    },
+    {
+      "id": "anime-65020",
+      "changes": {
+        "studio": {
+          "before": "Queen Bee",
+          "after": "Blue bread"
+        }
+      }
+    },
+    {
+      "id": "anime-54250",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "71 min"
+        }
+      }
+    },
+    {
+      "id": "anime-62844",
+      "changes": {
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1656/158840.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1751/160650.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-62582",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "7.76"
+        }
+      }
+    },
+    {
+      "id": "anime-63423",
+      "changes": {
+        "score": {
+          "before": "7.15",
+          "after": "7.26"
+        }
+      }
+    },
+    {
+      "id": "anime-64266",
+      "changes": {
+        "title": {
+          "before": "Takopii no Genzai: Arigatou, Mata Ashita",
+          "after": "Takopii no Genzai Movie: Arigatou, Mata Ashita"
+        },
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1874/158180.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1691/160653.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-62270",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "60 min"
+        },
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1237/159287.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1080/160621.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-63323",
+      "changes": {
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1557/157677.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1974/160684.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-63772",
+      "changes": {
+        "duration": {
+          "before": "120 min",
+          "after": "117 min"
+        }
+      }
+    },
+    {
+      "id": "anime-63221",
+      "changes": {
+        "releaseDate": {
+          "before": "2026-12-00",
+          "after": "2026-12"
+        }
+      }
+    },
+    {
+      "id": "anime-61440",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "7.62"
+        }
+      }
+    },
+    {
+      "id": "anime-65111",
+      "changes": {
+        "studio": {
+          "before": "",
+          "after": "feel."
+        },
+        "score": {
+          "before": "0",
+          "after": "6.62"
+        }
+      }
+    },
+    {
+      "id": "anime-59978",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-59978.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-55825",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-55825.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1772/154456.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-56009",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-56009.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-60371",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-60371.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1140/154457.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-59229",
+      "changes": {
+        "score": {
+          "before": "8.10",
+          "after": "8.09"
+        }
+      }
+    },
+    {
+      "id": "anime-55830",
+      "changes": {
+        "score": {
+          "before": "8.26",
+          "after": "8.25"
+        },
+        "image": {
+          "before": "assets/covers/anime-55830.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61128",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-61128.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-58788",
+      "changes": {
+        "score": {
+          "before": "8.71",
+          "after": "8.70"
+        }
+      }
+    },
+    {
+      "id": "anime-58505",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-58505.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1668/148737.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61983",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-61983.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1573/152828.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61211",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-61211.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1769/152823.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-60692",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-60692.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1629/153722.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61587",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-61587.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1360/153435.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61196",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-61196.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1622/154192.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-59853",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-59853.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1559/154695.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61886",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-61886.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1721/153380.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61969",
+      "changes": {
+        "score": {
+          "before": "5.78",
+          "after": "5.77"
+        }
+      }
+    },
+    {
+      "id": "anime-62804",
+      "changes": {
+        "score": {
+          "before": "5.65",
+          "after": "5.66"
+        }
+      }
+    },
+    {
+      "id": "anime-63087",
+      "changes": {
+        "score": {
+          "before": "5.79",
+          "after": "5.80"
+        }
+      }
+    },
+    {
+      "id": "anime-62987",
+      "changes": {
+        "score": {
+          "before": "5.65",
+          "after": "5.66"
+        }
+      }
+    },
+    {
+      "id": "anime-62649",
+      "changes": {
+        "score": {
+          "before": "6.53",
+          "after": "6.55"
+        }
+      }
+    },
+    {
+      "id": "anime-62521",
+      "changes": {
+        "score": {
+          "before": "5.76",
+          "after": "5.77"
+        }
+      }
+    },
+    {
+      "id": "anime-59517",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-59517.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1015/151233.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-61159",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-61159.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-60427",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-60427.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1257/152352.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-62126",
+      "changes": {
+        "image": {
+          "before": "assets/covers/anime-62126.webp",
+          "after": "https://cdn.myanimelist.net/images/anime/1421/154342.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-62896",
+      "changes": {
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1758/153953.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1951/160671.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-54697",
+      "changes": {
+        "score": {
+          "before": "6.69",
+          "after": "6.68"
+        }
+      }
+    },
+    {
+      "id": "anime-62897",
+      "changes": {
+        "score": {
+          "before": "6.15",
+          "after": "6.16"
+        }
+      }
+    },
+    {
+      "id": "anime-62340",
+      "changes": {
+        "score": {
+          "before": "8.41",
+          "after": "8.42"
+        }
+      }
+    },
+    {
+      "id": "anime-63396",
+      "changes": {
+        "score": {
+          "before": "7.24",
+          "after": "7.29"
+        }
+      }
+    },
+    {
+      "id": "anime-60191",
+      "changes": {
+        "score": {
+          "before": "7.75",
+          "after": "7.76"
+        }
+      }
+    },
+    {
+      "id": "anime-62728",
+      "changes": {
+        "score": {
+          "before": "8.02",
+          "after": "8.09"
+        }
+      }
+    },
+    {
+      "id": "anime-64008",
+      "changes": {
+        "score": {
+          "before": "6.20",
+          "after": "6.21"
+        }
+      }
+    },
+    {
+      "id": "anime-62911",
+      "changes": {
+        "score": {
+          "before": "7.66",
+          "after": "7.67"
+        }
+      }
+    },
+    {
+      "id": "anime-62280",
+      "changes": {
+        "score": {
+          "before": "7.06",
+          "after": "7.05"
+        }
+      }
+    },
+    {
+      "id": "anime-63151",
+      "changes": {
+        "score": {
+          "before": "6.81",
+          "after": "6.83"
+        }
+      }
+    },
+    {
+      "id": "anime-62955",
+      "changes": {
+        "score": {
+          "before": "7.27",
+          "after": "7.28"
+        }
+      }
+    },
+    {
+      "id": "anime-63558",
+      "changes": {
+        "score": {
+          "before": "6.54",
+          "after": "6.55"
+        }
+      }
+    },
+    {
+      "id": "anime-63360",
+      "changes": {
+        "score": {
+          "before": "6.35",
+          "after": "6.38"
+        }
+      }
+    },
+    {
+      "id": "anime-63074",
+      "changes": {
+        "score": {
+          "before": "7.56",
+          "after": "7.57"
+        }
+      }
+    },
+    {
+      "id": "anime-62686",
+      "changes": {
+        "duration": {
+          "before": "19 min",
+          "after": "18 min"
+        },
+        "score": {
+          "before": "6.73",
+          "after": "6.68"
+        }
+      }
+    },
+    {
+      "id": "anime-63158",
+      "changes": {
+        "score": {
+          "before": "6.63",
+          "after": "6.62"
+        }
+      }
+    },
+    {
+      "id": "anime-63026",
+      "changes": {
+        "score": {
+          "before": "5.83",
+          "after": "5.84"
+        }
+      }
+    },
+    {
+      "id": "anime-63232",
+      "changes": {
+        "score": {
+          "before": "5.96",
+          "after": "5.97"
+        }
+      }
+    },
+    {
+      "id": "anime-63027",
+      "changes": {
+        "score": {
+          "before": "6.24",
+          "after": "6.23"
+        }
+      }
+    },
+    {
+      "id": "anime-63084",
+      "changes": {
+        "score": {
+          "before": "5.43",
+          "after": "5.44"
+        }
+      }
+    },
+    {
+      "id": "anime-59985",
+      "changes": {
+        "score": {
+          "before": "7.76",
+          "after": "7.75"
+        }
+      }
+    },
+    {
+      "id": "anime-62277",
+      "changes": {
+        "score": {
+          "before": "8.79",
+          "after": "8.78"
+        }
+      }
+    },
+    {
+      "id": "anime-62193",
+      "changes": {
+        "score": {
+          "before": "7.06",
+          "after": "7.04"
+        }
+      }
+    },
+    {
+      "id": "anime-61418",
+      "changes": {
+        "score": {
+          "before": "6.82",
+          "after": "6.81"
+        }
+      }
+    },
+    {
+      "id": "anime-62508",
+      "changes": {
+        "score": {
+          "before": "6.98",
+          "after": "6.94"
+        }
+      }
+    },
+    {
+      "id": "anime-63827",
+      "changes": {
+        "score": {
+          "before": "6.23",
+          "after": "6.22"
+        }
+      }
+    },
+    {
+      "id": "anime-63504",
+      "changes": {
+        "score": {
+          "before": "6.53",
+          "after": "6.54"
+        }
+      }
+    },
+    {
+      "id": "anime-63806",
+      "changes": {
+        "score": {
+          "before": "6.06",
+          "after": "6.07"
+        }
+      }
+    }
+  ],
+  "seasons": [
+    [
+      "summer-2026",
+      265
+    ],
+    [
+      "autumn-2026",
+      179
+    ],
+    [
+      "winter-2026",
+      230
+    ],
+    [
+      "spring-2027",
+      19
+    ]
+  ]
+}
