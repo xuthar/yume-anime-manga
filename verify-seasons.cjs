@@ -35,3 +35,5 @@ context.localStorage.setItem=()=>{throw Error('Storage blocked')};choice.childre
 console.log('PASS: choice validation, watch/skip exclusivity, undo, persistence and blocked-storage fallback.');
 
 assert.equal(context.releaseLabel({releaseDate:'2027-04'}),'aprile 2027 · giorno da annunciare');assert(!context.releaseLabel({releaseDate:'',releaseWindow:'Aprile – Giugno 2027'}).includes('Invalid'));for(const e of data.seasons.find(s=>s.key==='spring-2027').entries){const x=data.items[e.id];assert.equal(x.releaseStatus,'Annunciato');assert.equal(x.streaming.length,0);assert(!('progress' in x));assert(!('rating' in x));}
+
+assert(context.matchesCategory({genres:['Hentai']},'hentai'));assert(!context.matchesCategory({genres:['Ecchi']},'hentai'));assert(!context.matchesCategory({genres:['Hentai']},'anime'));assert(context.matchesCategory({genres:['Hentai']},'all'));
