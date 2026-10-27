@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-27",
+  "portraits": [
+    {
+      "path": "assets/jpop/babymetal/su-metal.webp",
+      "author": "DragonFury",
+      "source": "https://commons.wikimedia.org/wiki/File:Su-metal_performing_with_Babymetal_in_Amsterdam_13_May_2025.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Acquisizione della miniatura visualizzata nel browser, rimozione margine e conversione WebP."
+    },
+    {
+      "path": "assets/jpop/babymetal/moametal.webp",
+      "author": "DragonFury",
+      "source": "https://commons.wikimedia.org/wiki/File:Moametal_performing_with_Babymetal_in_Amsterdam_13_May_2025.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Acquisizione della miniatura visualizzata nel browser, rimozione margine e conversione WebP."
+    },
+    {
+      "path": "assets/jpop/babymetal/momometal.webp",
+      "author": "DragonFury",
+      "source": "https://commons.wikimedia.org/wiki/File:Momometal_performing_with_Babymetal_in_Amsterdam_13_May_2025.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Acquisizione della miniatura visualizzata nel browser, rimozione margine e conversione WebP."
+    },
+    {
+      "path": "assets/jpop/babymetal/yuimetal.webp",
+      "author": "Fuguito",
+      "source": "https://commons.wikimedia.org/wiki/File:Yui_Mizuno_(YUIMETAL)_November_2014.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Acquisizione della miniatura visualizzata nel browser, rimozione margine e conversione WebP. Ritaglio preesistente documentato su Commons."
+    }
+  ],
+  "group": {
+    "path": "assets/jpop/babymetal/group.webp",
+    "source": "https://www.babymetal.com/mob/news/diarKiji.php?site=TO&cd=BIOGRAPHY_TO&lang=en",
+    "credit": "Immagine promozionale BABYMETAL / AMUSE, ridimensionata; non inclusa nelle licenze Creative Commons dei ritratti."
+  }
+}

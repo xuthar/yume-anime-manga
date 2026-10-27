@@ -1,31 +1,37 @@
 {
   "artist": "BABYMETAL",
   "checkedAt": "2026-10-27",
-  "groupImage": "https://www.babymetal.com/img/1/kiji/1/BIO/GRA/PHY/BIOGRAPHY_TO_302895_1_jpg.jpg",
+  "groupImage": "assets/jpop/babymetal/group.webp",
   "members": [
     {
       "name": "SU-METAL",
       "japanese": "SU-METAL",
       "bio": "Voce e danza.",
-      "image": "",
+      "image": "assets/jpop/babymetal/su-metal.webp",
       "link": "https://www.babymetal.com/mob/news/diarKiji.php?site=TO&cd=BIOGRAPHY_TO&lang=en",
-      "imageSource": ""
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Su-metal_performing_with_Babymetal_in_Amsterdam_13_May_2025.jpg",
+      "imageCredit": "Foto: DragonFury · Amsterdam, 13 maggio 2025 · CC BY-SA 4.0. Anteprima acquisita, rifilata e convertita in WebP.",
+      "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "name": "MOAMETAL",
       "japanese": "MOAMETAL",
       "bio": "Scream e danza.",
-      "image": "",
+      "image": "assets/jpop/babymetal/moametal.webp",
       "link": "https://www.babymetal.com/mob/news/diarKiji.php?site=TO&cd=BIOGRAPHY_TO&lang=en",
-      "imageSource": ""
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Moametal_performing_with_Babymetal_in_Amsterdam_13_May_2025.jpg",
+      "imageCredit": "Foto: DragonFury · Amsterdam, 13 maggio 2025 · CC BY-SA 4.0. Anteprima acquisita, rifilata e convertita in WebP.",
+      "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "name": "MOMOMETAL",
       "japanese": "MOMOMETAL",
       "bio": "Scream e danza.",
-      "image": "",
+      "image": "assets/jpop/babymetal/momometal.webp",
       "link": "https://www.babymetal.com/mob/news/diarKiji.php?site=TO&cd=BIOGRAPHY_TO&lang=en",
-      "imageSource": ""
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Momometal_performing_with_Babymetal_in_Amsterdam_13_May_2025.jpg",
+      "imageCredit": "Foto: DragonFury · Amsterdam, 13 maggio 2025 · CC BY-SA 4.0. Anteprima acquisita, rifilata e convertita in WebP.",
+      "imageLicense": "https://creativecommons.org/licenses/by-sa/4.0/"
     }
   ],
   "officialVideos": [
@@ -3329,6 +3335,10 @@
     {
       "label": "Apple Music JP · catalogo audio consultato",
       "url": "https://music.apple.com/jp/artist/477101776"
+    },
+    {
+      "label": "Crediti dei ritratti · dati e licenze",
+      "url": "https://xuthar.github.io/yume-anime-manga/data/babymetal-image-credits.json"
     }
   ]
 }
