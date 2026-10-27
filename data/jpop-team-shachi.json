@@ -1,0 +1,2869 @@
+{
+  "artist": "TEAM SHACHI",
+  "checkedAt": "2026-10-27",
+  "groupImage": "assets/jpop/team-shachi/group.webp",
+  "members": [
+    {
+      "name": "Honoka Akimoto",
+      "japanese": "秋本帆華",
+      "bio": "Componente dell’ultima formazione del gruppo. Il ritratto, se disponibile, segue il profilo individuale consultato.",
+      "image": "assets/jpop/team-shachi/honoka-akimoto.webp",
+      "link": "https://www.stardust.co.jp/talent/section3/akimotohonoka/",
+      "imageSource": "https://www.stardust.co.jp/talent/section3/akimotohonoka/"
+    },
+    {
+      "name": "Nao Sakura",
+      "japanese": "咲良菜緒",
+      "bio": "Componente dell’ultima formazione del gruppo. Il ritratto, se disponibile, segue il profilo individuale consultato.",
+      "image": "",
+      "link": "https://wmg.jp/team-shachi/",
+      "imageSource": ""
+    },
+    {
+      "name": "Yuzuki Oguro",
+      "japanese": "大黒柚姫",
+      "bio": "Componente dell’ultima formazione del gruppo. Il ritratto, se disponibile, segue il profilo individuale consultato.",
+      "image": "assets/jpop/team-shachi/yuzuki-oguro.webp",
+      "link": "https://www.stardust.co.jp/talent/rookie/oguroyuzuki/",
+      "imageSource": "https://www.stardust.co.jp/talent/rookie/oguroyuzuki/"
+    },
+    {
+      "name": "Haruna Sakamoto",
+      "japanese": "坂本遥奈",
+      "bio": "Componente dell’ultima formazione del gruppo. Il ritratto, se disponibile, segue il profilo individuale consultato.",
+      "image": "assets/jpop/team-shachi/haruna-sakamoto.webp",
+      "link": "https://www.stardust.co.jp/talent/rookie/sakamotoharuna/",
+      "imageSource": "https://www.stardust.co.jp/talent/rookie/sakamotoharuna/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "team-shachi-570552975",
+      "title": "ザ・スターダストボウリング",
+      "date": "2012-10-07",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%82%B6-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0-ep/570552975?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%B6-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0-ep/570552975?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ザ・スターダストボウリング - EP · 2012-10-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/a2/4c/ffa24c4b-561d-1bd2-f75a-7297ea0c23c0/825646540600.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%B6-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0-ep/570552975?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ザ・スターダストボウリング",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "お願い!unBORDE",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E9%A1%98%E3%81%84%21unBORDE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E9%A1%98%E3%81%84%21unBORDE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "でらディスコ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ザ・スターダストボウリング (Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "お願い!unBORDE (Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E9%A1%98%E3%81%84%21unBORDE%20%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E9%A1%98%E3%81%84%21unBORDE%20%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "でらディスコ (Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%20%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%20%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · ザ・スターダストボウリング - Single · 2012-10-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c9/93/49/c9934940-5c62-9773-3753-55717a56d05d/825646545902.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%B6-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0-single/565285685?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ザ・スターダストボウリング",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-586103747",
+      "title": "乙女受験戦争",
+      "date": "2012-12-19",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89-ep/586103747?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89-ep/586103747?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 乙女受験戦争 - EP · 2012-12-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/7b/3e/67/7b3e6709-2a9b-2532-416c-b45fa037ae10/825646509614.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89-ep/586103747?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "乙女受験戦争",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もーちょっと走れ!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "乙女受験戦争(off vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%28off%20vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%28off%20vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もーちょっと走れ!!!(off vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21%28off%20vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21%28off%20vocal%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-649554248",
+      "title": "首都移転計画<ジャパニーズ・エディション>",
+      "date": "2013-05-26",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA-%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3-ep/649554248?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA-%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3-ep/649554248?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 首都移転計画<ジャパニーズ・エディション> - EP · 2013-05-26",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/9c/93/27/9c9327c0-86ee-d230-65a7-b8dd6b3d86a4/825646438327.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA-%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3-ep/649554248?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "首都移転計画",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そこそこプレミアム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マジ感謝",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%9E%E3%82%B8%E6%84%9F%E8%AC%9D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%9E%E3%82%B8%E6%84%9F%E8%AC%9D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "首都移転計画(off vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB%28off%20vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB%28off%20vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そこそこプレミアム(off vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%28off%20vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%28off%20vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マジ感謝(off vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%9E%E3%82%B8%E6%84%9F%E8%AC%9D%28off%20vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%9E%E3%82%B8%E6%84%9F%E8%AC%9D%28off%20vocal%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-716861395",
+      "title": "愛の地球祭",
+      "date": "2013-10-12",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD-ep/716861395?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD-ep/716861395?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 愛の地球祭 - EP · 2013-10-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d9/48/80/d9488086-ccf1-4d6e-d925-3db6472bfecd/825646371655.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD-ep/716861395?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "愛の地球祭",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勝手にハイブリッド",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "尾張の華",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛の地球祭(Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勝手にハイブリッド(Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "尾張の華(Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-865474891",
+      "title": "いいくらし",
+      "date": "2014-05-11",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97-ep/865474891?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97-ep/865474891?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · いいくらし - EP · 2014-05-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/d0/a8/72/d0a87260-7d42-8657-12da-5a97cfbd4030/825646282531.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97-ep/865474891?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "いいくらし",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エンジョイ人生",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きっ!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A3%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A3%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いいくらし off vocal",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97%20off%20vocal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97%20off%20vocal",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エンジョイ人生 off vocal",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F%20off%20vocal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F%20off%20vocal",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きっ! off vocal",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A3%21%20off%20vocal%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A3%21%20off%20vocal",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-890050730",
+      "title": "チームしゃちほこ入門編",
+      "date": "2014-07-02",
+      "kind": "compilation",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E5%85%A5%E9%96%80%E7%B7%A8/890050730?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E5%85%A5%E9%96%80%E7%B7%A8/890050730?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · チームしゃちほこ入門編 · 2014-07-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/9b/68/fa/9b68fa3f-9756-1f1a-4f67-b88790c278bd/825646244713.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E5%85%A5%E9%96%80%E7%B7%A8/890050730?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "恋人はスナイパー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%81%8B%E4%BA%BA%E3%81%AF%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%81%8B%E4%BA%BA%E3%81%AF%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ごぶれい!しゃちほこでらックス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%94%E3%81%B6%E3%82%8C%E3%81%84%21%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E3%81%A7%E3%82%89%E3%83%83%E3%82%AF%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%94%E3%81%B6%E3%82%8C%E3%81%84%21%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E3%81%A7%E3%82%89%E3%83%83%E3%82%AF%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トリプルセブン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%BB%E3%83%96%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%BB%E3%83%96%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "待つわ〜DD大歓迎!〜",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%BE%85%E3%81%A4%E3%82%8F%E3%80%9CDD%E5%A4%A7%E6%AD%93%E8%BF%8E%21%E3%80%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%BE%85%E3%81%A4%E3%82%8F%E3%80%9CDD%E5%A4%A7%E6%AD%93%E8%BF%8E%21%E3%80%9C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ピザです!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%94%E3%82%B6%E3%81%A7%E3%81%99%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%94%E3%82%B6%E3%81%A7%E3%81%99%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ザ・スターダストボウリング",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "お願い!unBORDE",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E9%A1%98%E3%81%84%21unBORDE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E9%A1%98%E3%81%84%21unBORDE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "でらディスコ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もーちょっと走れ!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "乙女受験戦争 The LASTTRAK remix with shout out to soucuts",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%20The%20LASTTRAK%20remix%20with%20shout%20out%20to%20soucuts%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%20The%20LASTTRAK%20remix%20with%20shout%20out%20to%20soucuts",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-903121243",
+      "title": "ひまつぶし",
+      "date": "2014-08-20",
+      "kind": "studio",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%81%B2%E3%81%BE%E3%81%A4%E3%81%B6%E3%81%97/903121243?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%B2%E3%81%BE%E3%81%A4%E3%81%B6%E3%81%97/903121243?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ひまつぶし · 2014-08-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/28/fd/87/28fd87d1-f2d6-f6f0-4272-f602c4d71d89/825646224685.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%B2%E3%81%BE%E3%81%A4%E3%81%B6%E3%81%97/903121243?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "SPACEひつまぶし supported by ZEN-LA-ROCK",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20SPACE%E3%81%B2%E3%81%A4%E3%81%BE%E3%81%B6%E3%81%97%20supported%20by%20ZEN-LA-ROCK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20SPACE%E3%81%B2%E3%81%A4%E3%81%BE%E3%81%B6%E3%81%97%20supported%20by%20ZEN-LA-ROCK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "首都移転計画",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱きしめてアンセム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "んだって!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%93%E3%81%A0%E3%81%A3%E3%81%A6%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%93%E3%81%A0%E3%81%A3%E3%81%A6%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛の地球祭",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%84%9B%E3%81%AE%E5%9C%B0%E7%90%83%E7%A5%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いいくらし",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アイドンケア",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%B3%E3%82%B1%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%B3%E3%82%B1%E3%82%A2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "赤味噌Blood",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E8%B5%A4%E5%91%B3%E5%99%8CBlood%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E8%B5%A4%E5%91%B3%E5%99%8CBlood",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "colors",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20colors%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20colors",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "明け星",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%98%8E%E3%81%91%E6%98%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%98%8E%E3%81%91%E6%98%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "よろしく人類",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E4%BA%BA%E9%A1%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E4%BA%BA%E9%A1%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カントリーガール",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%AB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%AB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "乙女受験戦争",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-936123337",
+      "title": "シャンプーハット",
+      "date": "2014-12-10",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88-ep/936123337?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88-ep/936123337?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · シャンプーハット - EP · 2014-12-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/fb/1a/04/fb1a04a0-1aee-f4f1-5287-6e6ad9398380/dj.vplbrgzb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88-ep/936123337?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "シャンプーハット",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sweet Memories",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Sweet%20Memories%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Sweet%20Memories",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "It's New 世界",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20It%27s%20New%20%E4%B8%96%E7%95%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20It%27s%20New%20%E4%B8%96%E7%95%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャンプーハット (Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88%20%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88%20%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sweet Memories (Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Sweet%20Memories%20%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Sweet%20Memories%20%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "It's New 世界 (Off Vocal)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20It%27s%20New%20%E4%B8%96%E7%95%8C%20%28Off%20Vocal%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20It%27s%20New%20%E4%B8%96%E7%95%8C%20%28Off%20Vocal%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-987090893",
+      "title": "天才バカボン",
+      "date": "2015-05-06",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3-ep/987090893?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3-ep/987090893?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 天才バカボン - EP · 2015-05-06",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/e8/45/4b/e8454b35-0be6-4533-559c-7d5291081370/825646104161.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3-ep/987090893?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "天才バカボン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いけいけハリウッド",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%91%E3%81%84%E3%81%91%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%91%E3%81%84%E3%81%91%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Twilight",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Twilight%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Twilight",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "天才バカボン (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いけいけハリウッド (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%91%E3%81%84%E3%81%91%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%91%E3%81%84%E3%81%91%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Twilight (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Twilight%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Twilight%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1016273148",
+      "title": "チームしゃちほこ実用編",
+      "date": "2015-07-24",
+      "kind": "compilation",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E5%AE%9F%E7%94%A8%E7%B7%A8/1016273148?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E5%AE%9F%E7%94%A8%E7%B7%A8/1016273148?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · チームしゃちほこ実用編 · 2015-07-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ec/05/e8/ec05e8fb-4e5b-8030-809d-585374b8abc6/825646118274.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%E5%AE%9F%E7%94%A8%E7%B7%A8/1016273148?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "そこそこプレミアム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "マジ感謝",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%9E%E3%82%B8%E6%84%9F%E8%AC%9D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%9E%E3%82%B8%E6%84%9F%E8%AC%9D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勝手にハイブリッド",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "尾張の華",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エンジョイ人生",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱きしめてアンセム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "んだって!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%93%E3%81%A0%E3%81%A3%E3%81%A6%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%93%E3%81%A0%E3%81%A3%E3%81%A6%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おっとりガールの憂鬱",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%AC%E3%83%BC%E3%83%AB%E3%81%AE%E6%86%82%E9%AC%B1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%8A%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%AC%E3%83%BC%E3%83%AB%E3%81%AE%E6%86%82%E9%AC%B1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "私がセンター",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E7%A7%81%E3%81%8C%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E7%A7%81%E3%81%8C%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱きしめてアンセム(Makoto REMIX)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%28Makoto%20REMIX%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%28Makoto%20REMIX%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1037514913",
+      "title": "いいじゃないか",
+      "date": "2015-09-25",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B-ep/1037514913?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B-ep/1037514913?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · いいじゃないか - EP · 2015-09-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/57/5b/6c/575b6c97-f0af-454b-005a-3e6256510b73/mzm.wrtbwtyy.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B-ep/1037514913?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "BASYAUMA ROCK",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20BASYAUMA%20ROCK%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20BASYAUMA%20ROCK",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "JOINT",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20JOINT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20JOINT",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NIGI2 WONDERLAND",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20NIGI2%20WONDERLAND%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20NIGI2%20WONDERLAND",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ちぐはぐ・ランナーズ・ハイ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A1%E3%81%90%E3%81%AF%E3%81%90%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A1%E3%81%90%E3%81%AF%E3%81%90%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢の途中",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A2%E3%81%AE%E9%80%94%E4%B8%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A2%E3%81%AE%E9%80%94%E4%B8%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1048150526",
+      "title": "ええじゃないか",
+      "date": "2015-10-23",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%81%88%E3%81%88%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B-ep/1048150526?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%88%E3%81%88%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B-ep/1048150526?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ええじゃないか - EP · 2015-10-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/20/52/6a/20526a32-61ba-919a-3523-9dcaf58ad999/825646921720.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%88%E3%81%88%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B-ep/1048150526?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "J.A.N.A.I.C.A.",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20J.A.N.A.I.C.A.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20J.A.N.A.I.C.A.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラリラリホー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%A9%E3%83%AA%E3%83%A9%E3%83%AA%E3%83%9B%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%A9%E3%83%AA%E3%83%A9%E3%83%AA%E3%83%9B%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Shanga Lang",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Shanga%20Lang%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Shanga%20Lang",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無重力で〜と",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E7%84%A1%E9%87%8D%E5%8A%9B%E3%81%A7%E3%80%9C%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E7%84%A1%E9%87%8D%E5%8A%9B%E3%81%A7%E3%80%9C%E3%81%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ノッてけめんそーれ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%8E%E3%83%83%E3%81%A6%E3%81%91%E3%82%81%E3%82%93%E3%81%9D%E3%83%BC%E3%82%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%8E%E3%83%83%E3%81%A6%E3%81%91%E3%82%81%E3%82%93%E3%81%9D%E3%83%BC%E3%82%8C",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1091297466",
+      "title": "Chérie!",
+      "date": "2016-04-07",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/ch%C3%A9rie-ep/1091297466?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ch%C3%A9rie-ep/1091297466?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Chérie! - EP · 2016-04-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6c/ce/d2/6cced2cf-fcc3-ec75-ff80-0f4d544fcd7d/190295976422.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ch%C3%A9rie-ep/1091297466?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Chérie!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Ch%C3%A9rie%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Ch%C3%A9rie%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Wow Oh! Oh!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Wow%20Oh%21%20Oh%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Wow%20Oh%21%20Oh%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Chérie!(Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Ch%C3%A9rie%21%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Ch%C3%A9rie%21%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Wow Oh! Oh!(Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Wow%20Oh%21%20Oh%21%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Wow%20Oh%21%20Oh%21%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1133253535",
+      "title": "ULTRA 超 MIRACLE SUPER VERY POWER BALL",
+      "date": "2016-08-03",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/ultra-%E8%B6%85-miracle-super-very-power-ball-ep/1133253535?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ultra-%E8%B6%85-miracle-super-very-power-ball-ep/1133253535?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ULTRA 超 MIRACLE SUPER VERY POWER BALL - EP · 2016-08-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/57/6f/5b/576f5ba8-a741-f9ea-488e-875117a25c7a/dj.ijhlzilw.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ultra-%E8%B6%85-miracle-super-very-power-ball-ep/1133253535?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ULTRA 超 MIRACLE SUPER VERY POWER BALL",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "最上級の愛の言葉",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%9C%80%E4%B8%8A%E7%B4%9A%E3%81%AE%E6%84%9B%E3%81%AE%E8%A8%80%E8%91%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%9C%80%E4%B8%8A%E7%B4%9A%E3%81%AE%E6%84%9B%E3%81%AE%E8%A8%80%E8%91%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ULTRA 超 MIRACLE SUPER VERY POWER BALL (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "最上級の愛の言葉 (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%9C%80%E4%B8%8A%E7%B4%9A%E3%81%AE%E6%84%9B%E3%81%AE%E8%A8%80%E8%91%89%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%9C%80%E4%B8%8A%E7%B4%9A%E3%81%AE%E6%84%9B%E3%81%AE%E8%A8%80%E8%91%89%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1171128950",
+      "title": "夢でもいいの",
+      "date": "2016-11-16",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E5%A4%A2%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%81%AE-single/1171128950?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%A2%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%81%AE-single/1171128950?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 夢でもいいの - Single · 2016-11-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/aa/f0/e5/aaf0e526-47ce-ab20-7e03-bdba5cbd341a/190295877453.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A4%A2%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%81%AE-single/1171128950?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "夢でもいいの",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A2%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%81%AE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A2%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%81%AE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1194027769",
+      "title": "Owari to Hajimari",
+      "date": "2017-02-21",
+      "kind": "studio",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/owari-to-hajimari/1194027769?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/owari-to-hajimari/1194027769?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Owari to Hajimari · 2017-02-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/ed/88/28/ed882836-b82d-7a4e-a5d4-88b7671f2bdd/190295852238.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/owari-to-hajimari/1194027769?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "プロフェッショナル思春期",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E6%80%9D%E6%98%A5%E6%9C%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E6%80%9D%E6%98%A5%E6%9C%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "START",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20START%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20START",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "完全満足NGY",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%AE%8C%E5%85%A8%E6%BA%80%E8%B6%B3NGY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%AE%8C%E5%85%A8%E6%BA%80%E8%B6%B3NGY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャンプーハット (おわりとはじまり ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88%20%28%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%A8%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88%20%28%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%A8%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ロードムービー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%AD%E3%83%BC%E3%83%89%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%AD%E3%83%BC%E3%83%89%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Chérie!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Ch%C3%A9rie%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Ch%C3%A9rie%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "天才バカボン (おわりとはじまり ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3%20%28%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%A8%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A9%E6%89%8D%E3%83%90%E3%82%AB%E3%83%9C%E3%83%B3%20%28%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%A8%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Kissy-麺",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Kissy-%E9%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Kissy-%E9%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢でもいいの",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A2%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%81%AE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%A4%A2%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%81%AE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ワタシノユウキ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8E%E3%83%A6%E3%82%A6%E3%82%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%AF%E3%82%BF%E3%82%B7%E3%83%8E%E3%83%A6%E3%82%A6%E3%82%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パレードは夜空を翔ける",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ULTRA 超 MIRACLE SUPER VERY POWER BALL",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なくしもの",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%AA%E3%81%8F%E3%81%97%E3%82%82%E3%81%AE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%AA%E3%81%8F%E3%81%97%E3%82%82%E3%81%AE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "なくしもの (アコギ1本全員1発録り ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%AA%E3%81%8F%E3%81%97%E3%82%82%E3%81%AE%20%28%E3%82%A2%E3%82%B3%E3%82%AE1%E6%9C%AC%E5%85%A8%E5%93%A11%E7%99%BA%E9%8C%B2%E3%82%8A%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%AA%E3%81%8F%E3%81%97%E3%82%82%E3%81%AE%20%28%E3%82%A2%E3%82%B3%E3%82%AE1%E6%9C%AC%E5%85%A8%E5%93%A11%E7%99%BA%E9%8C%B2%E3%82%8A%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1282051149",
+      "title": "Syachi Best 2012-2017",
+      "date": "2017-10-17",
+      "kind": "compilation",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/syachi-best-2012-2017/1282051149?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/syachi-best-2012-2017/1282051149?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Syachi Best 2012-2017 · 2017-10-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/3a/c0/ea3ac060-e972-a3f8-0a53-922509fd58b7/190295732875.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/syachi-best-2012-2017/1282051149?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "colors",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20colors%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20colors",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "乙女受験戦争",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そこそこプレミアム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エンジョイ人生",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋人はスナイパー",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%81%8B%E4%BA%BA%E3%81%AF%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%81%8B%E4%BA%BA%E3%81%AF%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "OEOEO",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20OEOEO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20OEOEO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱きしめてアンセム",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "トリプルセブン",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%BB%E3%83%96%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%82%BB%E3%83%96%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ザ・スターダストボウリング",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "尾張の華",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E5%B0%BE%E5%BC%B5%E3%81%AE%E8%8F%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            },
+            {
+              "label": "Disco 2",
+              "tracks": [
+                {
+                  "title": "ちぐはぐ・ランナーズ・ハイ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A1%E3%81%90%E3%81%AF%E3%81%90%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A1%E3%81%90%E3%81%AF%E3%81%90%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "START",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20START%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20START",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "プロフェッショナル思春期",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E6%80%9D%E6%98%A5%E6%9C%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E6%80%9D%E6%98%A5%E6%9C%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sweet Memories",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Sweet%20Memories%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20Sweet%20Memories",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "いいくらし",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%84%E3%81%84%E3%81%8F%E3%82%89%E3%81%97",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もーちょっと走れ!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%82%E3%83%BC%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%B5%B0%E3%82%8C%21%21%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ULTRA 超 MIRACLE SUPER VERY POWER BALL(おわりとはじまりver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%28%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%A8%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Aver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%28%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%A8%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8Aver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "It's New 世界",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20It%27s%20New%20%E4%B8%96%E7%95%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20It%27s%20New%20%E4%B8%96%E7%95%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パレードは夜空を翔ける",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "でらディスコ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%81%A7%E3%82%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "colors (しゃちサマ2016 at 日本武道館) [Live]",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20colors%20%28%E3%81%97%E3%82%83%E3%81%A1%E3%82%B5%E3%83%9E2016%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20%5BLive%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20colors%20%28%E3%81%97%E3%82%83%E3%81%A1%E3%82%B5%E3%83%9E2016%20at%20%E6%97%A5%E6%9C%AC%E6%AD%A6%E9%81%93%E9%A4%A8%29%20%5BLive%5D",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1326088846",
+      "title": "Jump Man",
+      "date": "2018-02-27",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/jump-man-ep/1326088846?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/jump-man-ep/1326088846?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Jump Man - EP · 2018-02-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/33/4b/9d/334b9d0f-e0bf-94f7-be72-983679d6ece2/190295690625.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/jump-man-ep/1326088846?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "JUMP MAN",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20JUMP%20MAN%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20JUMP%20MAN",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カラカラ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%AB%E3%83%A9%E3%82%AB%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%AB%E3%83%A9%E3%82%AB%E3%83%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨天決行",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%9B%A8%E5%A4%A9%E6%B1%BA%E8%A1%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%9B%A8%E5%A4%A9%E6%B1%BA%E8%A1%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "JUMP MAN (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20JUMP%20MAN%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20JUMP%20MAN%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カラカラ (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%AB%E3%83%A9%E3%82%AB%E3%83%A9%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E3%82%AB%E3%83%A9%E3%82%AB%E3%83%A9%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨天決行 (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%9B%A8%E5%A4%A9%E6%B1%BA%E8%A1%8C%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%97%E3%82%83%E3%81%A1%E3%81%BB%E3%81%93%20%E9%9B%A8%E5%A4%A9%E6%B1%BA%E8%A1%8C%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1439081614",
+      "title": "Dreamer",
+      "date": "2018-10-24",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/dreamer-single/1439081614?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/dreamer-single/1439081614?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Dreamer - Single · 2018-10-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7f/86/c9/7f86c905-1ce9-a87d-e733-7ae54c45e78d/190295524296.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/dreamer-single/1439081614?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "DREAMER",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20DREAMER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20DREAMER",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1446050749",
+      "title": "Zensokuzenshin (Live at Zepp Nagoya, 2018.10.23)",
+      "date": "2018-12-19",
+      "kind": "live",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/zensokuzenshin-live-at-zepp-nagoya-2018-10-23-single/1446050749?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/zensokuzenshin-live-at-zepp-nagoya-2018-10-23-single/1446050749?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Zensokuzenshin (Live at Zepp Nagoya, 2018.10.23) - Single · 2018-12-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/93/96/f9/9396f953-ed54-356a-0999-96e55894047d/190295490997.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/zensokuzenshin-live-at-zepp-nagoya-2018-10-23-single/1446050749?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "よろしく人類 (Live at Zepp Nagoya、2018.10.23)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E4%BA%BA%E9%A1%9E%20%28Live%20at%20Zepp%20Nagoya%E3%80%812018.10.23%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E4%BA%BA%E9%A1%9E%20%28Live%20at%20Zepp%20Nagoya%E3%80%812018.10.23%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パレードは夜空を翔ける (Live at Zepp Nagoya、2018.10.23)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B%20%28Live%20at%20Zepp%20Nagoya%E3%80%812018.10.23%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B%20%28Live%20at%20Zepp%20Nagoya%E3%80%812018.10.23%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "START (Live at Zepp Nagoya、2018.10.23)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20START%20%28Live%20at%20Zepp%20Nagoya%E3%80%812018.10.23%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20START%20%28Live%20at%20Zepp%20Nagoya%E3%80%812018.10.23%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1446288203",
+      "title": "Team Shachi",
+      "date": "2019-02-13",
+      "kind": "ep",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/team-shachi-ep/1446288203?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/team-shachi-ep/1446288203?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Team Shachi - EP · 2019-02-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2c/f9/4f/2cf94fbe-bb43-8aa2-634a-797b17275d6f/190295490867.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/team-shachi-ep/1446288203?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "OVERTURE~ORCA~",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20OVERTURE~ORCA~%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20OVERTURE~ORCA~",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ROSE FIGHTERS",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20ROSE%20FIGHTERS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20ROSE%20FIGHTERS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hello, TEAM SHACHI",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Hello%2C%20TEAM%20SHACHI%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Hello%2C%20TEAM%20SHACHI",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "グラブジャムン",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%B0%E3%83%A9%E3%83%96%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%B0%E3%83%A9%E3%83%96%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "You!",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20You%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20You%21",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DREAMER",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20DREAMER%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20DREAMER",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1454500556",
+      "title": "Zensoku Zenshin Seinaru Honpen (Live at Zepp Tokyo, 2018.12.18)",
+      "date": "2019-03-08",
+      "kind": "live",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/zensoku-zenshin-seinaru-honpen-live-at-zepp-tokyo-2018-12-18/1454500556?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/zensoku-zenshin-seinaru-honpen-live-at-zepp-tokyo-2018-12-18/1454500556?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Zensoku Zenshin Seinaru Honpen (Live at Zepp Tokyo, 2018.12.18) · 2019-03-08",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ea/7b/a0/ea7ba012-4417-a3a0-c292-10a5219f41ae/190295459826.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/zensoku-zenshin-seinaru-honpen-live-at-zepp-tokyo-2018-12-18/1454500556?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "OVERTURE〜PING-PONG〜 (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20OVERTURE%E3%80%9CPING-PONG%E3%80%9C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20OVERTURE%E3%80%9CPING-PONG%E3%80%9C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "We are… (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20We%20are%E2%80%A6%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20We%20are%E2%80%A6%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "START (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20START%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20START%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨天決行 (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E9%9B%A8%E5%A4%A9%E6%B1%BA%E8%A1%8C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E9%9B%A8%E5%A4%A9%E6%B1%BA%E8%A1%8C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "DREAMER (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20DREAMER%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20DREAMER%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Hello, TEAM SHACHI (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Hello%2C%20TEAM%20SHACHI%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Hello%2C%20TEAM%20SHACHI%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ULTRA 超 MIRACLE SUPER VERY POWER BALL (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20ULTRA%20%E8%B6%85%20MIRACLE%20SUPER%20VERY%20POWER%20BALL%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "よろしく人類 (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E4%BA%BA%E9%A1%9E%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E4%BA%BA%E9%A1%9E%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "OEOEO (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20OEOEO%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20OEOEO%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ザ・スターダストボウリング (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "BURNING FESTIVAL (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20BURNING%20FESTIVAL%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20BURNING%20FESTIVAL%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャンプーハット (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%E3%83%8F%E3%83%83%E3%83%88%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "パレードは夜空を翔ける (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AF%E5%A4%9C%E7%A9%BA%E3%82%92%E7%BF%94%E3%81%91%E3%82%8B%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "colors 〜part 1〜 (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20colors%20%E3%80%9Cpart%201%E3%80%9C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20colors%20%E3%80%9Cpart%201%E3%80%9C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おっとりガールの憂鬱 (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%8A%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%AC%E3%83%BC%E3%83%AB%E3%81%AE%E6%86%82%E9%AC%B1%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%8A%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%AC%E3%83%BC%E3%83%AB%E3%81%AE%E6%86%82%E9%AC%B1%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "グラブジャムン (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%B0%E3%83%A9%E3%83%96%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%B3%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%B0%E3%83%A9%E3%83%96%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%B3%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "colors 〜part 2〜 (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20colors%20%E3%80%9Cpart%202%E3%80%9C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20colors%20%E3%80%9Cpart%202%E3%80%9C%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "エンジョイ人生 (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%A7%E3%82%A4%E4%BA%BA%E7%94%9F%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そこそこプレミアム (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%9D%E3%81%93%E3%81%9D%E3%81%93%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ちぐはぐ・ランナーズ・ハイ (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%A1%E3%81%90%E3%81%AF%E3%81%90%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%A1%E3%81%90%E3%81%AF%E3%81%90%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ROSE FIGHTERS (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20ROSE%20FIGHTERS%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20ROSE%20FIGHTERS%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱きしめてアンセム (Live at Zepp Tokyo、2018.12.18)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%20%28Live%20at%20Zepp%20Tokyo%E3%80%812018.12.18%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1464900438",
+      "title": "Watashi Fever",
+      "date": "2019-06-14",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/watashi-fever-single/1464900438?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/watashi-fever-single/1464900438?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Watashi Fever - Single · 2019-06-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ad/1c/66/ad1c6696-a2f1-54d9-f1e4-c11de7acbd16/190295410230.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/watashi-fever-single/1464900438?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "わたしフィーバー",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%8F%E3%81%9F%E3%81%97%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%8F%E3%81%9F%E3%81%97%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1469112434",
+      "title": "Rock Away",
+      "date": "2019-07-05",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/rock-away-single/1469112434?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/rock-away-single/1469112434?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Rock Away - Single · 2019-07-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/31/df/56/31df56ae-b264-b39d-80c5-bfca5e85a277/190295396770.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/rock-away-single/1469112434?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Rock Away",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rock%20Away%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rock%20Away",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1478442062",
+      "title": "Rocket Queen (feat. MCU)",
+      "date": "2019-09-12",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-single/1478442062?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-single/1478442062?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Rocket Queen (feat. MCU) - Single · 2019-09-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/0a/1e/dc0a1ec5-de47-24a0-f59c-2b0e31c56258/190295353803.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-single/1478442062?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Rocket Queen feat. MCU",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1480845337",
+      "title": "Rocket Queen (feat. MCU) / Rock Away",
+      "date": "2019-10-02",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-rock-away-single/1480845337?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-rock-away-single/1480845337?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Rocket Queen (feat. MCU) / Rock Away - Single · 2019-10-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c1/21/ad/c121adaa-e338-b098-e00c-5c3a0257e742/190295343071.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-rock-away-single/1480845337?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Rocket Queen feat. MCU",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Rock Away",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rock%20Away%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rock%20Away",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "わたしフィーバー",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%8F%E3%81%9F%E3%81%97%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%8F%E3%81%9F%E3%81%97%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1483791213",
+      "title": "Rocket Queen (feat. MCU) [Nagaoka Chuetsu High School Marching Band Version]",
+      "date": "2019-10-25",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-nagaoka-chuetsu-high-school-marching/1483791213?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-nagaoka-chuetsu-high-school-marching/1483791213?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Rocket Queen (feat. MCU) [Nagaoka Chuetsu High School Marching Band Version] - Single · 2019-10-25",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/92/db/55/92db5589-a2a0-d6a2-de21-9d0539fc3926/190295323318.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/rocket-queen-feat-mcu-nagaoka-chuetsu-high-school-marching/1483791213?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Rocket Queen feat. MCU (長岡中越高等学校吹奏楽部 マーチングバンド ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU%20%28%E9%95%B7%E5%B2%A1%E4%B8%AD%E8%B6%8A%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%90%B9%E5%A5%8F%E6%A5%BD%E9%83%A8%20%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3%E3%82%B0%E3%83%90%E3%83%B3%E3%83%89%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU%20%28%E9%95%B7%E5%B2%A1%E4%B8%AD%E8%B6%8A%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%90%B9%E5%A5%8F%E6%A5%BD%E9%83%A8%20%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3%E3%82%B0%E3%83%90%E3%83%B3%E3%83%89%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1523739541",
+      "title": "SURVIVOR SURVIVOR / MAMA",
+      "date": "2020-08-29",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/survivor-survivor-mama/1523739541?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/survivor-survivor-mama/1523739541?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · SURVIVOR SURVIVOR / MAMA · 2020-08-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/63/c9/9663c945-10b9-8bbd-bd82-712fdb6c3cf2/190295181437.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/survivor-survivor-mama/1523739541?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Orcinus orca",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Orcinus%20orca%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Orcinus%20orca",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SURVIVOR SURVIVOR",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20SURVIVOR%20SURVIVOR%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20SURVIVOR%20SURVIVOR",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MAMA",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20MAMA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20MAMA",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1543719121",
+      "title": "JIBUNGOTO",
+      "date": "2020-12-31",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/jibungoto-single/1543719121?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/jibungoto-single/1543719121?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · JIBUNGOTO - Single · 2020-12-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/10/1f/36101f63-de2c-25d5-c5a1-74f4e433af02/190295055448.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/jibungoto-single/1543719121?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "JIBUNGOTO",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20JIBUNGOTO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20JIBUNGOTO",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1563396852",
+      "title": "HONEY / AWAKE",
+      "date": "2021-05-05",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/honey-awake-single/1563396852?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/honey-awake-single/1563396852?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · HONEY / AWAKE - Single · 2021-05-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c7/70/c5/c770c586-f8ec-c1a1-ee1e-670c304dae65/190296699351.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/honey-awake-single/1563396852?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "HONEY",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20HONEY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20HONEY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "AWAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20AWAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20AWAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1582193624",
+      "title": "ASANO EP",
+      "date": "2021-09-03",
+      "kind": "ep",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/asano-ep/1582193624?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/asano-ep/1582193624?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · ASANO EP · 2021-09-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/ea/77/55ea7716-165f-f017-cbe6-838aae5e85a1/190296488221.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/asano-ep/1582193624?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "番狂わせてGODDESS",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E7%95%AA%E7%8B%82%E3%82%8F%E3%81%9B%E3%81%A6GODDESS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E7%95%AA%E7%8B%82%E3%82%8F%E3%81%9B%E3%81%A6GODDESS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋人はスナイパー (TEAM SHACHI ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%81%8B%E4%BA%BA%E3%81%AF%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC%20%28TEAM%20SHACHI%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%81%8B%E4%BA%BA%E3%81%AF%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC%20%28TEAM%20SHACHI%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "乙女受験戦争 (TEAM SHACHI ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%20%28TEAM%20SHACHI%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E4%B9%99%E5%A5%B3%E5%8F%97%E9%A8%93%E6%88%A6%E4%BA%89%20%28TEAM%20SHACHI%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱きしめてアンセム (TEAM SHACHI ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%20%28TEAM%20SHACHI%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0%20%28TEAM%20SHACHI%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1600628164",
+      "title": "TEAM",
+      "date": "2022-02-16",
+      "kind": "studio",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/team/1600628164?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/team/1600628164?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · TEAM · 2022-02-16",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/fb/63/d7fb633e-9955-64f7-b673-ce990dba0894/190296295966.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/team/1600628164?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "POSITIVE BEAUTIFUL!～後ろ向きま宣言～",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20POSITIVE%20BEAUTIFUL%21%EF%BD%9E%E5%BE%8C%E3%82%8D%E5%90%91%E3%81%8D%E3%81%BE%E5%AE%A3%E8%A8%80%EF%BD%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20POSITIVE%20BEAUTIFUL%21%EF%BD%9E%E5%BE%8C%E3%82%8D%E5%90%91%E3%81%8D%E3%81%BE%E5%AE%A3%E8%A8%80%EF%BD%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HORIZON",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20HORIZON%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20HORIZON",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "番狂わせてGODDESS",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E7%95%AA%E7%8B%82%E3%82%8F%E3%81%9B%E3%81%A6GODDESS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E7%95%AA%E7%8B%82%E3%82%8F%E3%81%9B%E3%81%A6GODDESS",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "AWAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20AWAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20AWAKE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Rocket Queen feat. MCU",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rocket%20Queen%20feat.%20MCU",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "SURVIVOR SURVIVOR",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20SURVIVOR%20SURVIVOR%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20SURVIVOR%20SURVIVOR",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "MAMA",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20MAMA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20MAMA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "JIBUNGOTO",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20JIBUNGOTO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20JIBUNGOTO",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "HONEY",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20HONEY%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20HONEY",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "かなた",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%8B%E3%81%AA%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%8B%E3%81%AA%E3%81%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "こだま",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%93%E3%81%A0%E3%81%BE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%93%E3%81%A0%E3%81%BE",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Rock Away",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rock%20Away%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rock%20Away",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Today",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Today%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Today",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Rainbow",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Rainbow%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Rainbow",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1644030581",
+      "title": "舞頂破",
+      "date": "2022-09-23",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E8%88%9E%E9%A0%82%E7%A0%B4-single/1644030581?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%88%9E%E9%A0%82%E7%A0%B4-single/1644030581?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 舞頂破 - Single · 2022-09-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/7f/68/4f7f6865-fddf-5f6f-f008-435605a39d98/4580789496691.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%88%9E%E9%A0%82%E7%A0%B4-single/1644030581?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "舞頂破",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1648766408",
+      "title": "光",
+      "date": "2022-10-23",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E5%85%89-single/1648766408?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%85%89-single/1648766408?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 光 - Single · 2022-10-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7f/13/85/7f1385e7-2463-9f53-159a-25633f59dfb1/4580789503245.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%85%89-single/1648766408?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "光",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%85%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%85%89",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1653750052",
+      "title": "舞いの頂点を極めし時、私達は如何なる困難をも打ち破る",
+      "date": "2022-11-23",
+      "kind": "ep",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E8%88%9E%E3%81%84%E3%81%AE%E9%A0%82%E7%82%B9%E3%82%92%E6%A5%B5%E3%82%81%E3%81%97%E6%99%82-%E7%A7%81%E9%81%94%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%AA%E3%82%8B%E5%9B%B0%E9%9B%A3%E3%82%92%E3%82%82%E6%89%93%E3%81%A1%E7%A0%B4%E3%82%8B-%E3%83%88%E3%82%A6%E3%82%AB%E3%82%A4%E7%9B%A4-ep/1653750052?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E8%88%9E%E3%81%84%E3%81%AE%E9%A0%82%E7%82%B9%E3%82%92%E6%A5%B5%E3%82%81%E3%81%97%E6%99%82-%E7%A7%81%E9%81%94%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%AA%E3%82%8B%E5%9B%B0%E9%9B%A3%E3%82%92%E3%82%82%E6%89%93%E3%81%A1%E7%A0%B4%E3%82%8B-%E3%83%88%E3%82%A6%E3%82%AB%E3%82%A4%E7%9B%A4-ep/1653750052?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 舞いの頂点を極めし時、私達は如何なる困難をも打ち破る <トウカイ盤> - EP · 2022-11-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/6c/87/856c876a-81fa-01a8-d2ec-da2e585c9010/4580789509957.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%88%9E%E3%81%84%E3%81%AE%E9%A0%82%E7%82%B9%E3%82%92%E6%A5%B5%E3%82%81%E3%81%97%E6%99%82-%E7%A7%81%E9%81%94%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%AA%E3%82%8B%E5%9B%B0%E9%9B%A3%E3%82%92%E3%82%82%E6%89%93%E3%81%A1%E7%A0%B4%E3%82%8B-%E3%83%88%E3%82%A6%E3%82%AB%E3%82%A4%E7%9B%A4-ep/1653750052?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "江戸女",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%B1%9F%E6%88%B8%E5%A5%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%B1%9F%E6%88%B8%E5%A5%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "舞頂破",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "光",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%85%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%85%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "東海コンプライアンス",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%9D%B1%E6%B5%B7%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%9D%B1%E6%B5%B7%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 舞いの頂点を極めし時、私達は如何なる困難をも打ち破る <カイトウ盤> - EP · 2022-11-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/c4/a3/31c4a3aa-019c-5640-2ed7-28c192125ab8/4580789509964.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%88%9E%E3%81%84%E3%81%AE%E9%A0%82%E7%82%B9%E3%82%92%E6%A5%B5%E3%82%81%E3%81%97%E6%99%82-%E7%A7%81%E9%81%94%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%AA%E3%82%8B%E5%9B%B0%E9%9B%A3%E3%82%92%E3%82%82%E6%89%93%E3%81%A1%E7%A0%B4%E3%82%8B-%E3%82%AB%E3%82%A4%E3%83%88%E3%82%A6%E7%9B%A4-ep/1653745394?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "江戸女",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%B1%9F%E6%88%B8%E5%A5%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%B1%9F%E6%88%B8%E5%A5%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "舞頂破",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "光",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%85%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%85%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "解凍ガール",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E8%A7%A3%E5%87%8D%E3%82%AC%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E8%A7%A3%E5%87%8D%E3%82%AC%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 舞いの頂点を極めし時、私達は如何なる困難をも打ち破る(Playlist) - EP · 2022-11-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ec/6f/37/ec6f37d6-74c1-639c-613b-9a26cebc38c0/4580789510250.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E8%88%9E%E3%81%84%E3%81%AE%E9%A0%82%E7%82%B9%E3%82%92%E6%A5%B5%E3%82%81%E3%81%97%E6%99%82-%E7%A7%81%E9%81%94%E3%81%AF%E5%A6%82%E4%BD%95%E3%81%AA%E3%82%8B%E5%9B%B0%E9%9B%A3%E3%82%92%E3%82%82%E6%89%93%E3%81%A1%E7%A0%B4%E3%82%8B-playlist-ep/1653754730?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1712621684",
+      "title": "沸き曲",
+      "date": "2023-02-14",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E6%B2%B8%E3%81%8D%E6%9B%B2-single/1712621684?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%B2%B8%E3%81%8D%E6%9B%B2-single/1712621684?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 沸き曲 - Single · 2023-02-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/0b/e5/890be528-9893-81b5-3bd1-90e6539e7ccd/4580789592836.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%B2%B8%E3%81%8D%E6%9B%B2-single/1712621684?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "沸き曲",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%B2%B8%E3%81%8D%E6%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%B2%B8%E3%81%8D%E6%9B%B2",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1689982750",
+      "title": "AWAiTiNG BEAR",
+      "date": "2023-06-28",
+      "kind": "ep",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/awaiting-bear/1689982750?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/awaiting-bear/1689982750?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · AWAiTiNG BEAR · 2023-06-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/dd/e1/93dde1be-fd91-0574-68b0-297846894948/4580789552984.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/awaiting-bear/1689982750?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "あなたのトリコ～究極の愛～",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%88%E3%83%AA%E3%82%B3%EF%BD%9E%E7%A9%B6%E6%A5%B5%E3%81%AE%E6%84%9B%EF%BD%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%88%E3%83%AA%E3%82%B3%EF%BD%9E%E7%A9%B6%E6%A5%B5%E3%81%AE%E6%84%9B%EF%BD%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君にぴったりな歌",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%90%9B%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AA%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%90%9B%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AA%E6%AD%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アサガオ",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勲章",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%8B%B2%E7%AB%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%8B%B2%E7%AB%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あなたのトリコ～究極の愛～ (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%88%E3%83%AA%E3%82%B3%EF%BD%9E%E7%A9%B6%E6%A5%B5%E3%81%AE%E6%84%9B%EF%BD%9E%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%88%E3%83%AA%E3%82%B3%EF%BD%9E%E7%A9%B6%E6%A5%B5%E3%81%AE%E6%84%9B%EF%BD%9E%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君にぴったりな歌 (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%90%9B%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AA%E6%AD%8C%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%90%9B%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%AA%E6%AD%8C%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "アサガオ (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勲章 (Off Vocal Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%8B%B2%E7%AB%A0%20%28Off%20Vocal%20Ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%8B%B2%E7%AB%A0%20%28Off%20Vocal%20Ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1718476325",
+      "title": "おとなりさん",
+      "date": "2023-12-03",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%95%E3%82%93-single/1718476325?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%95%E3%82%93-single/1718476325?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · おとなりさん - Single · 2023-12-03",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/b0/bf/a6b0bf2d-5a15-3759-e873-075fbc7fc0e1/4580789602221.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%95%E3%82%93-single/1718476325?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "おとなりさん",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%8A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%95%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%8A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%95%E3%82%93",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1729118910",
+      "title": "笑う門には服着る",
+      "date": "2024-02-14",
+      "kind": "studio",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E7%AC%91%E3%81%86%E9%96%80%E3%81%AB%E3%81%AF%E6%9C%8D%E7%9D%80%E3%82%8B/1729118910?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%AC%91%E3%81%86%E9%96%80%E3%81%AB%E3%81%AF%E6%9C%8D%E7%9D%80%E3%82%8B/1729118910?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 笑う門には服着る · 2024-02-14",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/db/0d/d5db0d69-472a-f394-68ea-908ff046866a/4580789619342.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%AC%91%E3%81%86%E9%96%80%E3%81%AB%E3%81%AF%E6%9C%8D%E7%9D%80%E3%82%8B/1729118910?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Voyage",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20Voyage%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20Voyage",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "おとなりさん",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%8A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%95%E3%82%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%8A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%95%E3%82%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛のニルバーナ",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%84%9B%E3%81%AE%E3%83%8B%E3%83%AB%E3%83%90%E3%83%BC%E3%83%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%84%9B%E3%81%AE%E3%83%8B%E3%83%AB%E3%83%90%E3%83%BC%E3%83%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "沸き曲",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%B2%B8%E3%81%8D%E6%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%B2%B8%E3%81%8D%E6%9B%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "FANTASTIC MIRAI",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20FANTASTIC%20MIRAI%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20FANTASTIC%20MIRAI",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "舞頂破",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E8%88%9E%E9%A0%82%E7%A0%B4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "勲章",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%8B%B2%E7%AB%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%8B%B2%E7%AB%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "NEO首都移転計画",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20NEO%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20NEO%E9%A6%96%E9%83%BD%E7%A7%BB%E8%BB%A2%E8%A8%88%E7%94%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "江戸女",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%B1%9F%E6%88%B8%E5%A5%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%B1%9F%E6%88%B8%E5%A5%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "縁爛",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E7%B8%81%E7%88%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E7%B8%81%E7%88%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "だれかのために生きる今日を",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%A0%E3%82%8C%E3%81%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B%E4%BB%8A%E6%97%A5%E3%82%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%A0%E3%82%8C%E3%81%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B%E4%BB%8A%E6%97%A5%E3%82%92",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1752615820",
+      "title": "のんあるすいけん feat.炒飯",
+      "date": "2024-06-30",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E3%81%AE%E3%82%93%E3%81%82%E3%82%8B%E3%81%99%E3%81%84%E3%81%91%E3%82%93-feat-%E7%82%92%E9%A3%AF-single/1752615820?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E3%81%AE%E3%82%93%E3%81%82%E3%82%8B%E3%81%99%E3%81%84%E3%81%91%E3%82%93-feat-%E7%82%92%E9%A3%AF-single/1752615820?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · のんあるすいけん feat.炒飯 - Single · 2024-06-30",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/41/a0/0141a08a-afb0-cc02-d863-d069d8592412/4580789648489.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E3%81%AE%E3%82%93%E3%81%82%E3%82%8B%E3%81%99%E3%81%84%E3%81%91%E3%82%93-feat-%E7%82%92%E9%A3%AF-single/1752615820?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "のんあるすいけん feat.炒飯",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%AE%E3%82%93%E3%81%82%E3%82%8B%E3%81%99%E3%81%84%E3%81%91%E3%82%93%20feat.%E7%82%92%E9%A3%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%AE%E3%82%93%E3%81%82%E3%82%8B%E3%81%99%E3%81%84%E3%81%91%E3%82%93%20feat.%E7%82%92%E9%A3%AF",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1757031714",
+      "title": "待ち合わせに、飽きもと。",
+      "date": "2024-08-07",
+      "kind": "ep",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E5%BE%85%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AB-%E9%A3%BD%E3%81%8D%E3%82%82%E3%81%A8-ep/1757031714?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%BE%85%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AB-%E9%A3%BD%E3%81%8D%E3%82%82%E3%81%A8-ep/1757031714?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 待ち合わせに、飽きもと。 - EP · 2024-08-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/24/27/432427cc-3baf-1f0c-9461-f687c62f4f39/4580789653674.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%BE%85%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AB-%E9%A3%BD%E3%81%8D%E3%82%82%E3%81%A8-ep/1757031714?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "のんあるすいけん feat.炒飯",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%AE%E3%82%93%E3%81%82%E3%82%8B%E3%81%99%E3%81%84%E3%81%91%E3%82%93%20feat.%E7%82%92%E9%A3%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%AE%E3%82%93%E3%81%82%E3%82%8B%E3%81%99%E3%81%84%E3%81%91%E3%82%93%20feat.%E7%82%92%E9%A3%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "TEAM SHACHIのソーラン節(南中ソーラン)",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20TEAM%20SHACHI%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%AF%80%28%E5%8D%97%E4%B8%AD%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20TEAM%20SHACHI%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%AF%80%28%E5%8D%97%E4%B8%AD%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "まつりびと～カキツバタ～",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%B3%E3%81%A8%EF%BD%9E%E3%82%AB%E3%82%AD%E3%83%84%E3%83%90%E3%82%BF%EF%BD%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%B3%E3%81%A8%EF%BD%9E%E3%82%AB%E3%82%AD%E3%83%84%E3%83%90%E3%82%BF%EF%BD%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "沸き曲",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%B2%B8%E3%81%8D%E6%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%B2%B8%E3%81%8D%E6%9B%B2",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1787250763",
+      "title": "友達万博",
+      "date": "2025-01-01",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E5%8F%8B%E9%81%94%E4%B8%87%E5%8D%9A-single/1787250763?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%8F%8B%E9%81%94%E4%B8%87%E5%8D%9A-single/1787250763?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 友達万博 - Single · 2025-01-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/6a/28/086a2835-75d4-f0b1-cc68-7b728eea9f1a/4580789687280.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%8F%8B%E9%81%94%E4%B8%87%E5%8D%9A-single/1787250763?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "友達万博",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%8F%8B%E9%81%94%E4%B8%87%E5%8D%9A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%8F%8B%E9%81%94%E4%B8%87%E5%8D%9A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1827186610",
+      "title": "翔け抜けてスターマイン",
+      "date": "2025-07-22",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E7%BF%94%E3%81%91%E6%8A%9C%E3%81%91%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3-single/1827186610?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%BF%94%E3%81%91%E6%8A%9C%E3%81%91%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3-single/1827186610?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 翔け抜けてスターマイン - Single · 2025-07-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/10/9a/78109a90-c390-cba4-c956-d40baaab5488/4580789724312.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%BF%94%E3%81%91%E6%8A%9C%E3%81%91%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3-single/1827186610?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "翔け抜けてスターマイン",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E7%BF%94%E3%81%91%E6%8A%9C%E3%81%91%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E7%BF%94%E3%81%91%E6%8A%9C%E3%81%91%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "team-shachi-1840075952",
+      "title": "DERA Journey!!!!",
+      "date": "2025-09-22",
+      "kind": "ep",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/dera-journey-ep/1840075952?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/dera-journey-ep/1840075952?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · DERA Journey!!!! - EP · 2025-09-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/e6/5f/f0e65fb9-73b2-9b5a-170d-f5a94fcec37c/4580789733376.png/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/dera-journey-ep/1840075952?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "翔け抜けてスターマイン",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E7%BF%94%E3%81%91%E6%8A%9C%E3%81%91%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E7%BF%94%E3%81%91%E6%8A%9C%E3%81%91%E3%81%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "晴れ晴れ",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E6%99%B4%E3%82%8C%E6%99%B4%E3%82%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E6%99%B4%E3%82%8C%E6%99%B4%E3%82%8C",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "友達万博",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E5%8F%8B%E9%81%94%E4%B8%87%E5%8D%9A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E5%8F%8B%E9%81%94%E4%B8%87%E5%8D%9A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "きっと神回クライマックス♡",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20%E3%81%8D%E3%81%A3%E3%81%A8%E7%A5%9E%E5%9B%9E%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E2%99%A1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20%E3%81%8D%E3%81%A3%E3%81%A8%E7%A5%9E%E5%9B%9E%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E2%99%A1",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "CABRIOLET",
+                  "youtube": "https://www.youtube.com/results?search_query=TEAM%20SHACHI%20CABRIOLET%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/TEAM%20SHACHI%20CABRIOLET",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [
+    {
+      "slug": "team-shachi",
+      "id": "bSIQOwoWVGg",
+      "title": "TEAM SHACHI 「HORIZON」【Official Music Video】",
+      "url": "https://www.youtube.com/watch?v=bSIQOwoWVGg",
+      "source": "https://wmg.jp/team-shachi/"
+    },
+    {
+      "slug": "team-shachi",
+      "id": "gvB9WaEzF9Q",
+      "title": "TEAM SHACHI 「JIBUNGOTO」【Official Music Video】",
+      "url": "https://www.youtube.com/watch?v=gvB9WaEzF9Q",
+      "source": "https://wmg.jp/team-shachi/"
+    }
+  ],
+  "officialVideos": [
+    {
+      "slug": "team-shachi",
+      "id": "bSIQOwoWVGg",
+      "title": "TEAM SHACHI 「HORIZON」【Official Music Video】",
+      "url": "https://www.youtube.com/watch?v=bSIQOwoWVGg",
+      "source": "https://wmg.jp/team-shachi/"
+    },
+    {
+      "slug": "team-shachi",
+      "id": "gvB9WaEzF9Q",
+      "title": "TEAM SHACHI 「JIBUNGOTO」【Official Music Video】",
+      "url": "https://www.youtube.com/watch?v=gvB9WaEzF9Q",
+      "source": "https://wmg.jp/team-shachi/"
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale",
+      "url": "https://wmg.jp/team-shachi/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://wmg.jp/team-shachi/discography/"
+    },
+    {
+      "label": "Concerto conclusivo · 13 dicembre 2025",
+      "url": "https://news.joysound.com/article/652278"
+    },
+    {
+      "label": "EP e percorso discografico · intervista alle componenti",
+      "url": "https://e.usen.com/interview/interview-original/teamshachi-awaitingbear.html"
+    }
+  ],
+  "excluded": []
+}

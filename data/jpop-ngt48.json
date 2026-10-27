@@ -1,0 +1,2074 @@
+{
+  "artist": "NGT48",
+  "checkedAt": "2026-10-27",
+  "groupImage": "assets/jpop/ngt48/group.webp",
+  "members": [
+    {
+      "name": "Reina Seiji",
+      "japanese": "清司麗菜",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/seiji_reina.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=542/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Marina Nishigata",
+      "japanese": "西潟茉莉奈",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/nishigata_marina.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=549/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Kairi Sato",
+      "japanese": "佐藤海里",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/sato_kairi.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=718/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Nanami Otsuka",
+      "japanese": "大塚七海",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/otsuka_nanami.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=724/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Hino Mimura",
+      "japanese": "三村妃乃",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/mimura_hino.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=736/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Rua Isobe",
+      "japanese": "磯部瑠紅",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/rua_isobe.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=971/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Hanae Kita",
+      "japanese": "喜多花恵",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/hanae_kita.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=972/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Yuha Kitamura",
+      "japanese": "北村優羽",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/yuha_kitamura.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=979/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Natsuki Suizu",
+      "japanese": "水津菜月",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/natsuki_suizu.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=975/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Moe Sugimoto",
+      "japanese": "杉本萌",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/moe_sugimoto.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=976/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Nana Isozaki",
+      "japanese": "磯崎菜々",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/isozaki_nana.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1032/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Anna Kimoto",
+      "japanese": "木本杏菜",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/kimoto_anna.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1044/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Hiroka Sato",
+      "japanese": "佐藤広花",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/sato_hiroka.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1038/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Aoi Shinzawa",
+      "japanese": "新沢葵唯",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/shinzawa_aoi.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1040/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Yua Takashima",
+      "japanese": "高島柚愛",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/takashima_yua.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1037/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Haruna Nishikawa",
+      "japanese": "西川晴菜",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/nishikawa_haruna.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1041/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Yui Azama",
+      "japanese": "安座間結",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/azama_yui.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1085/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Yume Adachi",
+      "japanese": "阿達夢",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/adachi_yume.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1084/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Mizuki Kai",
+      "japanese": "甲斐瑞季",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/kai_mizuki.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1087/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Mone Kitazawa",
+      "japanese": "北澤百音",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/kitazawa_mone.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1094/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Yuka Sato",
+      "japanese": "佐藤柚花",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/sato_yuka.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1088/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Rinka Suto",
+      "japanese": "須藤凜華",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/suto_rinka.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1089/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Asami Nakata",
+      "japanese": "中田麻実",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/nakata_asami.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1092/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Hiyori Minagawa",
+      "japanese": "皆川日和",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/minagawa_hiyori.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1086/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Maaya Aiki",
+      "japanese": "相木茉采",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/aiki_maaya.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1148/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Sana Inomata",
+      "japanese": "猪股咲那",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/inomata_sana.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1149/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Ayano Ohashi",
+      "japanese": "大橋彩乃",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/ohashi_ayano.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1150/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Shuri Katayama",
+      "japanese": "片山珠吏",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/katayama_shuri.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1151/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Mirei Kuga ",
+      "japanese": "久我水羚",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/kuga_mirei.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1152/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Honoka Sato",
+      "japanese": "佐藤歩夏",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/sato_honoka.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1153/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Yuzuha Hirai",
+      "japanese": "平井柚葉",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/hirai_yuzuha.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1154/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "name": "Naho Hosoya",
+      "japanese": "細矢夏帆",
+      "bio": "Presente nel directory del servizio ufficiale NGT48 LIVE!! ON DEMAND.",
+      "image": "https://pics.dmm.com/digital/ngt48/list/hosoya_naho.jpg",
+      "link": "https://www.dmm.com/lod/ngt48/-/list/=/article=ngt48member/id=1155/sort=date/",
+      "imageSource": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "ngt48-1538120258",
+      "title": "青春時計",
+      "date": "2017-04-11",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-special-edition-ep/1538120258?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-special-edition-ep/1538120258?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青春時計 (Special Edition) - EP · 2017-04-11",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/2c/13/8c2c1300-073f-0030-bc3a-16d88fc299b2/jacket_BVXX00979B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-special-edition-ep/1538120258?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出陣",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%87%BA%E9%99%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%87%BA%E9%99%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "純情よろしく",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%B4%94%E6%83%85%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%B4%94%E6%83%85%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇求む",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%9A%97%E9%97%87%E6%B1%82%E3%82%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%9A%97%E9%97%87%E6%B1%82%E3%82%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "下の名で呼べたのは・・・",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 青春時計(Type-C) - EP · 2017-12-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/a9/c4/f3a9c4b0-34b6-6ff1-ef96-16c7a1da7941/jacket_BVXX01064B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-type-c-ep/1536025168?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇求む",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%9A%97%E9%97%87%E6%B1%82%E3%82%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%9A%97%E9%97%87%E6%B1%82%E3%82%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春時計 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇求む off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%9A%97%E9%97%87%E6%B1%82%E3%82%80%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%9A%97%E9%97%87%E6%B1%82%E3%82%80%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 青春時計(Type-A) - EP · 2017-12-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/54/46/54/5446543e-05e5-6ae4-fa4e-8febfe66ed5b/jacket_BVXX01062B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-type-a-ep/1536024752?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出陣",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%87%BA%E9%99%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%87%BA%E9%99%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春時計 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出陣 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%87%BA%E9%99%A3%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%87%BA%E9%99%A3%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 青春時計 - EP · 2017-04-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/c9/c7/abc9c701-ba31-1aed-66b2-6f1b429b870c/jacket_BVCL00802B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-ep/1535820714?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "下の名で呼べたのは・・・",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春時計 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "下の名で呼べたのは・・・ off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 青春時計(Type-B) - EP · 2017-12-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/00/fd/2400fddc-de07-ea01-d228-97fc86d1ca76/jacket_BVXX01063B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-type-b-ep/1536025271?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "純情よろしく",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%B4%94%E6%83%85%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%B4%94%E6%83%85%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春時計 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "空き缶パンク off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A9%BA%E3%81%8D%E7%BC%B6%E3%83%91%E3%83%B3%E3%82%AF%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "純情よろしく off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%B4%94%E6%83%85%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%B4%94%E6%83%85%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1536024120",
+      "title": "青春時計(豆腐メンタル Remix by tofubeats)",
+      "date": "2017-07-24",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-%E8%B1%86%E8%85%90%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB-remix-by-tofubeats-single/1536024120?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-%E8%B1%86%E8%85%90%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB-remix-by-tofubeats-single/1536024120?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青春時計(豆腐メンタル Remix by tofubeats) - Single · 2017-07-24",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/91/ae/fa/91aefae6-31a5-b8a7-c127-b89644996e9c/jacket_BVXX01013B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-%E8%B1%86%E8%85%90%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB-remix-by-tofubeats-single/1536024120?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青春時計(豆腐メンタル Remix by tofubeats)",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%28%E8%B1%86%E8%85%90%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%20Remix%20by%20tofubeats%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%28%E8%B1%86%E8%85%90%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%20Remix%20by%20tofubeats%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1536024390",
+      "title": "青春時計(フランスパン Remix by happy machine)",
+      "date": "2017-08-23",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%91%E3%83%B3-remix-by-happy-machine-single/1536024390?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%91%E3%83%B3-remix-by-happy-machine-single/1536024390?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 青春時計(フランスパン Remix by happy machine) - Single · 2017-08-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/91/29/fe9129e2-cf78-812c-4fed-e06956fd95af/jacket_BVXX01019B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%91%E3%83%B3-remix-by-happy-machine-single/1536024390?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青春時計(フランスパン Remix by happy machine)",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%28%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%91%E3%83%B3%20Remix%20by%20happy%20machine%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%28%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%91%E3%83%B3%20Remix%20by%20happy%20machine%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1538121573",
+      "title": "世界はどこまで青空なのか?",
+      "date": "2017-12-05",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B-special-edition-ep/1538121573?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B-special-edition-ep/1538121573?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 世界はどこまで青空なのか?(Special Edition) - EP · 2017-12-05",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/89/2d/67892d8c-e915-1ce3-45a6-e4e3d42e22b7/jacket_BVXX01059B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B-special-edition-ep/1538121573?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "世界はどこまで青空なのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大人になる前に",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱いてやっちゃ桜木町",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%8A%B1%E3%81%84%E3%81%A6%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E6%A1%9C%E6%9C%A8%E7%94%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%8A%B1%E3%81%84%E3%81%A6%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E6%A1%9C%E6%9C%A8%E7%94%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナニカガイル",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぎこちない通学電車",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%8E%E3%81%93%E3%81%A1%E3%81%AA%E3%81%84%E9%80%9A%E5%AD%A6%E9%9B%BB%E8%BB%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%8E%E3%81%93%E3%81%A1%E3%81%AA%E3%81%84%E9%80%9A%E5%AD%A6%E9%9B%BB%E8%BB%8A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 世界はどこまで青空なのか? (Type-A) - EP · 2018-04-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/21/4f/19214fe2-4ee2-0bb8-483e-7da3cf53d7e2/jacket_BVCL00847B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B-type-a-ep/1535979406?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "世界はどこまで青空なのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大人になる前に",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界はどこまで青空なのか? off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大人になる前に off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 世界はどこまで青空なのか? (Type-B) - EP · 2018-04-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b3/3c/b9/b33cb934-6384-ab66-1451-7cf26c89b1cf/jacket_BVCL00849B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B-type-b-ep/1535979508?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "世界はどこまで青空なのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱いてやっちゃ桜木町",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%8A%B1%E3%81%84%E3%81%A6%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E6%A1%9C%E6%9C%A8%E7%94%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%8A%B1%E3%81%84%E3%81%A6%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E6%A1%9C%E6%9C%A8%E7%94%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界はどこまで青空なのか? off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "抱いてやっちゃ桜木町 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%8A%B1%E3%81%84%E3%81%A6%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E6%A1%9C%E6%9C%A8%E7%94%BA%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%8A%B1%E3%81%84%E3%81%A6%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E6%A1%9C%E6%9C%A8%E7%94%BA%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 世界はどこまで青空なのか? - EP · 2018-04-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/9f/f8/069ff8c1-e27a-18cf-34f3-538410d0ea19/jacket_BVCL00853B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B-ep/1535979598?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "世界はどこまで青空なのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぎこちない通学電車",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%8E%E3%81%93%E3%81%A1%E3%81%AA%E3%81%84%E9%80%9A%E5%AD%A6%E9%9B%BB%E8%BB%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%8E%E3%81%93%E3%81%A1%E3%81%AA%E3%81%84%E9%80%9A%E5%AD%A6%E9%9B%BB%E8%BB%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界はどこまで青空なのか? off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ぎこちない通学電車 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%8E%E3%81%93%E3%81%A1%E3%81%AA%E3%81%84%E9%80%9A%E5%AD%A6%E9%9B%BB%E8%BB%8A%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%8E%E3%81%93%E3%81%A1%E3%81%AA%E3%81%84%E9%80%9A%E5%AD%A6%E9%9B%BB%E8%BB%8A%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 世界はどこまで青空なのか? (Type-C) - EP · 2018-04-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/2f/fd/302ffdc7-3132-7609-8263-6b8bae7a4a08/jacket_BVCL00851B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B-type-c-ep/1535979729?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "世界はどこまで青空なのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナニカガイル",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界はどこまで青空なのか? off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%3F%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕の涙は流れない off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AE%E6%B6%99%E3%81%AF%E6%B5%81%E3%82%8C%E3%81%AA%E3%81%84%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナニカガイル off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1538121944",
+      "title": "春はどこから来るのか?",
+      "date": "2018-04-10",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-special-edition-ep/1538121944?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-special-edition-ep/1538121944?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 春はどこから来るのか? (Special Edition) - EP · 2018-04-10",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d3/6b/75/d36b750d-7fd9-f249-1588-5b24c493a44a/jacket_BVXX01077B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-special-edition-ep/1538121944?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春はどこから来るのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "私のために",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A7%81%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A7%81%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あとで",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%82%E3%81%A8%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%82%E3%81%A8%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Whatcha Gonna Do",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Whatcha%20Gonna%20Do%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Whatcha%20Gonna%20Do",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "反省ソーダ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%8F%8D%E7%9C%81%E3%82%BD%E3%83%BC%E3%83%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%8F%8D%E7%9C%81%E3%82%BD%E3%83%BC%E3%83%80",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 春はどこから来るのか? (Type-B) - EP · 2018-10-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/40/81/dc40817b-f0d4-b583-51bd-fbb2edba6be5/jacket_BVCL00877B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-type-b-ep/1535980402?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春はどこから来るのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あとで",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%82%E3%81%A8%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%82%E3%81%A8%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春はどこから来るのか?off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あとで off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%82%E3%81%A8%E3%81%A7%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%82%E3%81%A8%E3%81%A7%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 春はどこから来るのか? (Type-A) - EP · 2018-10-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/90/50/ee/9050ee29-5900-0cac-0fc4-433209ad6554/jacket_BVCL00875B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-type-a-ep/1535980377?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春はどこから来るのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "私のために",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A7%81%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A7%81%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春はどこから来るのか?off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "私のために off vacal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A7%81%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%20off%20vacal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A7%81%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%20off%20vacal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 春はどこから来るのか? - EP · 2018-10-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/94/12/d69412df-3db0-fc96-85b5-d78d1b619185/jacket_BVCL00881B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-ep/1535980887?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春はどこから来るのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "反省ソーダ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%8F%8D%E7%9C%81%E3%82%BD%E3%83%BC%E3%83%80%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%8F%8D%E7%9C%81%E3%82%BD%E3%83%BC%E3%83%80",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春はどこから来るのか?off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "反省ソーダ off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%8F%8D%E7%9C%81%E3%82%BD%E3%83%BC%E3%83%80%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%8F%8D%E7%9C%81%E3%82%BD%E3%83%BC%E3%83%80%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 春はどこから来るのか? (Type-C) - EP · 2018-10-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/30/76/2030769e-e113-702e-6730-30911291ac4d/jacket_BVCL00879B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-type-c-ep/1535980838?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "春はどこから来るのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Whatcha Gonna Do",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Whatcha%20Gonna%20Do%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Whatcha%20Gonna%20Do",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春はどこから来るのか?off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%3Foff%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "蒸発した水分 off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%92%B8%E7%99%BA%E3%81%97%E3%81%9F%E6%B0%B4%E5%88%86%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Whatcha Gonna Do off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Whatcha%20Gonna%20Do%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Whatcha%20Gonna%20Do%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1536027096",
+      "title": "世界の人へ",
+      "date": "2018-10-02",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8-special-edition-ep/1536027096?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8-special-edition-ep/1536027096?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 世界の人へ (Special Edition) - EP · 2018-10-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/e0/ba/e7e0ba35-87b5-4df5-80d3-629d32856f70/jacket_BVXX01135B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8-special-edition-ep/1536027096?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "世界の人へ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Soft Serve",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Soft%20Serve%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Soft%20Serve",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "心に太陽",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%BF%83%E3%81%AB%E5%A4%AA%E9%99%BD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%BF%83%E3%81%AB%E5%A4%AA%E9%99%BD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "カーテンの柄",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%81%AE%E6%9F%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%81%AE%E6%9F%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "泣きべそかくまで",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%B3%A3%E3%81%8D%E3%81%B9%E3%81%9D%E3%81%8B%E3%81%8F%E3%81%BE%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%B3%A3%E3%81%8D%E3%81%B9%E3%81%9D%E3%81%8B%E3%81%8F%E3%81%BE%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "今日は負けでもいい",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%BB%8A%E6%97%A5%E3%81%AF%E8%B2%A0%E3%81%91%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%BB%8A%E6%97%A5%E3%81%AF%E8%B2%A0%E3%81%91%E3%81%A7%E3%82%82%E3%81%84%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1536027288",
+      "title": "世界の人へ(happy machine Remix)",
+      "date": "2018-12-28",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8-happy-machine-remix-single/1536027288?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8-happy-machine-remix-single/1536027288?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 世界の人へ(happy machine Remix) - Single · 2018-12-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/6e/1f/266e1f2f-431b-28ae-72d9-f122026a3c41/jacket_BVXX01167B00Z_550.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8-happy-machine-remix-single/1536027288?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "世界の人へ(happy machine Remix)",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8%28happy%20machine%20Remix%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8%28happy%20machine%20Remix%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1522392146",
+      "title": "Sherbet Pink",
+      "date": "2020-07-21",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/sherbet-pink-special-edition-ep/1522392146?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sherbet-pink-special-edition-ep/1522392146?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Sherbet Pink (Special Edition) - EP · 2020-07-21",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/76/00/24760011-5280-3b45-10cf-85e218ef7b9c/20UMGIM51344.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/sherbet-pink-special-edition-ep/1522392146?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "シャーベットピンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "絶望の後で",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%B5%B6%E6%9C%9B%E3%81%AE%E5%BE%8C%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%B5%B6%E6%9C%9B%E3%81%AE%E5%BE%8C%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "後悔ばっかり",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%BE%8C%E6%82%94%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%BE%8C%E6%82%94%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "嫌いなのかもしれない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%AB%8C%E3%81%84%E3%81%AA%E3%81%AE%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%AB%8C%E3%81%84%E3%81%AA%E3%81%AE%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1570746407",
+      "title": "Awesome",
+      "date": "2021-06-23",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/awesome-special-edition-ep/1570746407?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/awesome-special-edition-ep/1570746407?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Awesome (Special Edition) - EP · 2021-06-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6f/8a/a2/6f8aa243-b188-a2c6-a773-711f37eb7b2d/21UMGIM46309.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/awesome-special-edition-ep/1570746407?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "Awesome",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Awesome%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Awesome",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "はっきり言って欲しい",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E8%A8%80%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E8%A8%80%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ラーメンワンダーランド",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "踵を鳴らせ!",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%B8%B5%E3%82%92%E9%B3%B4%E3%82%89%E3%81%9B%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%B8%B5%E3%82%92%E9%B3%B4%E3%82%89%E3%81%9B%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1597432488",
+      "title": "Ponkotsuna Kimiga Sukida",
+      "date": "2021-12-22",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/ponkotsuna-kimiga-sukida-special-edition-ep/1597432488?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ponkotsuna-kimiga-sukida-special-edition-ep/1597432488?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Ponkotsuna Kimiga Sukida (Special Edition) - EP · 2021-12-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/aa/95/86aa95f8-44b6-1101-22a5-10976b63ab7e/21UM1IM47005.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ponkotsuna-kimiga-sukida-special-edition-ep/1597432488?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ポンコツな君が好きだ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "私が一番言いたかったこと",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A7%81%E3%81%8C%E4%B8%80%E7%95%AA%E8%A8%80%E3%81%84%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A7%81%E3%81%8C%E4%B8%80%E7%95%AA%E8%A8%80%E3%81%84%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕らのトチオンガー",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%88%E3%83%81%E3%82%AA%E3%83%B3%E3%82%AC%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%82%89%E3%81%AE%E3%83%88%E3%83%81%E3%82%AA%E3%83%B3%E3%82%AC%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "情熱の電源",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%83%85%E7%86%B1%E3%81%AE%E9%9B%BB%E6%BA%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%83%85%E7%86%B1%E3%81%AE%E9%9B%BB%E6%BA%90",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1628764979",
+      "title": "未完成の未来",
+      "date": "2022-06-29",
+      "kind": "studio",
+      "note": "Un solo album con tre scalette CD ufficiali da 14 tracce e l’edizione digitale New Songs Edition da 6 brani. I DVD allegati non sono presentati come dischi audio.",
+      "source": "https://music.apple.com/jp/album/mikanseinomirai-new-songs-edition-ep/1628764979?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/mikanseinomirai-new-songs-edition-ep/1628764979?uo=4",
+      "defaultEdition": 1,
+      "editions": [
+        {
+          "label": "Digitale JP · Mikanseinomirai (New Songs Edition) - EP · 2022-06-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e1/8d/16/e18d1682-9115-f4e0-5402-4b590e04f10b/22UMGIM61932.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/mikanseinomirai-new-songs-edition-ep/1628764979?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "しそうでしないキス",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "昨日よりも今日 今日よりも明日",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A8%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E4%BB%8A%E6%97%A5%20%E4%BB%8A%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E6%98%8E%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A8%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E4%BB%8A%E6%97%A5%20%E4%BB%8A%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E6%98%8E%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "どうしようもないこと",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%A9%E3%81%86%E3%81%97%E3%82%88%E3%81%86%E3%82%82%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%A9%E3%81%86%E3%81%97%E3%82%88%E3%81%86%E3%82%82%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "自然渋滞",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%87%AA%E7%84%B6%E6%B8%8B%E6%BB%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%87%AA%E7%84%B6%E6%B8%8B%E6%BB%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きなんて・・・",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A6%E3%83%BB%E3%83%BB%E3%83%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A6%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "片想いのままじゃ終われない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%98%E3%82%83%E7%B5%82%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%98%E3%82%83%E7%B5%82%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CD · Type-A",
+          "cover": "https://www.universal-music.co.jp/ngt48/wp-content/uploads/sites/3651/2022/06/MicrosoftTeams-image-300x296.jpg",
+          "source": "https://www.universal-music.co.jp/ngt48/news/2022-06-02/",
+          "sourceLabel": "Scaletta CD ufficiale Universal Music",
+          "discs": [
+            {
+              "label": "CD · 14 brani",
+              "tracks": [
+                {
+                  "title": "しそうでしないキス",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界はどこまで青空なのか？",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春はどこから来るのか？",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界の人へ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャーベットピンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Awesome",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Awesome%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Awesome",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ポンコツな君が好きだ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Maxとき315号",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Max%E3%81%A8%E3%81%8D315%E5%8F%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Max%E3%81%A8%E3%81%8D315%E5%8F%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "みどりと森の運動公園",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%A8%E6%A3%AE%E3%81%AE%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%BF%E3%81%A9%E3%82%8A%E3%81%A8%E6%A3%AE%E3%81%AE%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "はっきり言って欲しい",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E8%A8%80%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E8%A8%80%E3%81%A3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "踵を鳴らせ！",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%B8%B5%E3%82%92%E9%B3%B4%E3%82%89%E3%81%9B%EF%BC%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%B8%B5%E3%82%92%E9%B3%B4%E3%82%89%E3%81%9B%EF%BC%81",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "昨日よりも今日 今日よりも明日",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A8%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E4%BB%8A%E6%97%A5%20%E4%BB%8A%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E6%98%8E%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A8%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E4%BB%8A%E6%97%A5%20%E4%BB%8A%E6%97%A5%E3%82%88%E3%82%8A%E3%82%82%E6%98%8E%E6%97%A5",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "どうしようもないこと",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%A9%E3%81%86%E3%81%97%E3%82%88%E3%81%86%E3%82%82%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%A9%E3%81%86%E3%81%97%E3%82%88%E3%81%86%E3%82%82%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CD · Type-B",
+          "cover": "https://www.universal-music.co.jp/ngt48/wp-content/uploads/sites/3651/2022/06/MicrosoftTeams-image-1-300x296.jpg",
+          "source": "https://www.universal-music.co.jp/ngt48/news/2022-06-02/",
+          "sourceLabel": "Scaletta CD ufficiale Universal Music",
+          "discs": [
+            {
+              "label": "CD · 14 brani",
+              "tracks": [
+                {
+                  "title": "しそうでしないキス",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界はどこまで青空なのか？",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春はどこから来るのか？",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界の人へ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャーベットピンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Awesome",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Awesome%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Awesome",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ポンコツな君が好きだ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Maxとき315号",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Max%E3%81%A8%E3%81%8D315%E5%8F%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Max%E3%81%A8%E3%81%8D315%E5%8F%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ナニカガイル",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%8A%E3%83%8B%E3%82%AB%E3%82%AC%E3%82%A4%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "絶望の後で",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%B5%B6%E6%9C%9B%E3%81%AE%E5%BE%8C%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%B5%B6%E6%9C%9B%E3%81%AE%E5%BE%8C%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "情熱の電源",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%83%85%E7%86%B1%E3%81%AE%E9%9B%BB%E6%BA%90%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%83%85%E7%86%B1%E3%81%AE%E9%9B%BB%E6%BA%90",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "自然渋滞",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%87%AA%E7%84%B6%E6%B8%8B%E6%BB%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%87%AA%E7%84%B6%E6%B8%8B%E6%BB%9E",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きなんて・・・",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A6%E3%83%BB%E3%83%BB%E3%83%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A6%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CD · Teatro · Official CD Shop",
+          "cover": "https://www.universal-music.co.jp/ngt48/wp-content/uploads/sites/3651/2022/06/MicrosoftTeams-image-2-300x296.jpg",
+          "source": "https://www.universal-music.co.jp/ngt48/news/2022-06-02/",
+          "sourceLabel": "Scaletta CD ufficiale Universal Music",
+          "discs": [
+            {
+              "label": "CD · 14 brani",
+              "tracks": [
+                {
+                  "title": "しそうでしないキス",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%97%E3%81%9D%E3%81%86%E3%81%A7%E3%81%97%E3%81%AA%E3%81%84%E3%82%AD%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春時計",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E9%9D%92%E6%98%A5%E6%99%82%E8%A8%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界はどこまで青空なのか？",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E9%9D%92%E7%A9%BA%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "春はどこから来るのか？",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%98%A5%E3%81%AF%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "世界の人へ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%96%E7%95%8C%E3%81%AE%E4%BA%BA%E3%81%B8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "シャーベットピンク",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E3%83%94%E3%83%B3%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Awesome",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Awesome%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Awesome",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ポンコツな君が好きだ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%81%AA%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Maxとき315号",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20Max%E3%81%A8%E3%81%8D315%E5%8F%B7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20Max%E3%81%A8%E3%81%8D315%E5%8F%B7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "下の名で呼べたのは…",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E2%80%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%8B%E3%81%AE%E5%90%8D%E3%81%A7%E5%91%BC%E3%81%B9%E3%81%9F%E3%81%AE%E3%81%AF%E2%80%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "今日は負けでもいい",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%BB%8A%E6%97%A5%E3%81%AF%E8%B2%A0%E3%81%91%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%BB%8A%E6%97%A5%E3%81%AF%E8%B2%A0%E3%81%91%E3%81%A7%E3%82%82%E3%81%84%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "後悔ばっかり",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%BE%8C%E6%82%94%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%BE%8C%E6%82%94%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "私が一番言いたかったこと",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%A7%81%E3%81%8C%E4%B8%80%E7%95%AA%E8%A8%80%E3%81%84%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%A7%81%E3%81%8C%E4%B8%80%E7%95%AA%E8%A8%80%E3%81%84%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "片想いのままじゃ終われない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%98%E3%82%83%E7%B5%82%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%98%E3%82%83%E7%B5%82%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1656338078",
+      "title": "Wataridoritachini Sorahamienai",
+      "date": "2022-12-28",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/wataridoritachini-sorahamienai-special-edition-ep/1656338078?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/wataridoritachini-sorahamienai-special-edition-ep/1656338078?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Wataridoritachini Sorahamienai (Special Edition) - EP · 2022-12-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ab/c4/45/abc4459a-b7a8-9eb0-95f4-7a6b4478a890/22UM1IM35969.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/wataridoritachini-sorahamienai-special-edition-ep/1656338078?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "渡り鳥たちに空は見えない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%B8%A1%E3%82%8A%E9%B3%A5%E3%81%9F%E3%81%A1%E3%81%AB%E7%A9%BA%E3%81%AF%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%B8%A1%E3%82%8A%E9%B3%A5%E3%81%9F%E3%81%A1%E3%81%AB%E7%A9%BA%E3%81%AF%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "やさしさの重さ",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%84%E3%81%95%E3%81%97%E3%81%95%E3%81%AE%E9%87%8D%E3%81%95%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%84%E3%81%95%E3%81%97%E3%81%95%E3%81%AE%E9%87%8D%E3%81%95",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "キスをちょうだい",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%AD%E3%82%B9%E3%82%92%E3%81%A1%E3%82%87%E3%81%86%E3%81%A0%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%AD%E3%82%B9%E3%82%92%E3%81%A1%E3%82%87%E3%81%86%E3%81%A0%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "チョコレートで眠れない",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A7%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A7%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1695857231",
+      "title": "Anosa Iyabetsuni...",
+      "date": "2023-08-02",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/anosa-iyabetsuni-special-edition-ep/1695857231?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/anosa-iyabetsuni-special-edition-ep/1695857231?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Anosa Iyabetsuni... (Special Edition) - EP · 2023-08-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/45/0f/58450f74-0a9b-913c-709e-402ac2318c3b/23UMGIM76926.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/anosa-iyabetsuni-special-edition-ep/1695857231?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "あのさ、いや別に…",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%81%82%E3%81%AE%E3%81%95%E3%80%81%E3%81%84%E3%82%84%E5%88%A5%E3%81%AB%E2%80%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%81%82%E3%81%AE%E3%81%95%E3%80%81%E3%81%84%E3%82%84%E5%88%A5%E3%81%AB%E2%80%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕はもう少年ではなくなった",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%83%95%E3%81%AF%E3%82%82%E3%81%86%E5%B0%91%E5%B9%B4%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%83%95%E3%81%AF%E3%82%82%E3%81%86%E5%B0%91%E5%B9%B4%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "角田浜にて",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E8%A7%92%E7%94%B0%E6%B5%9C%E3%81%AB%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E8%A7%92%E7%94%B0%E6%B5%9C%E3%81%AB%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "命を懸けろ!",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%91%BD%E3%82%92%E6%87%B8%E3%81%91%E3%82%8D%21%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%91%BD%E3%82%92%E6%87%B8%E3%81%91%E3%82%8D%21",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1762790790",
+      "title": "Isshunno Hanabi",
+      "date": "2024-07-22",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/isshunno-hanabi-special-edition-ep/1762790790?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/isshunno-hanabi-special-edition-ep/1762790790?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Isshunno Hanabi (Special Edition) - EP · 2024-08-28",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/03/87/d60387bb-a562-308d-8497-2d8b28b65729/24UMGIM72097.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/isshunno-hanabi-special-edition-ep/1762790790?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "一瞬の花火",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E8%8A%B1%E7%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E8%8A%B1%E7%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "季節外れのアイスレモネード",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%AD%A3%E7%AF%80%E5%A4%96%E3%82%8C%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%AD%A3%E7%AF%80%E5%A4%96%E3%82%8C%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "もう一度 手を繋ぎたい",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%20%E6%89%8B%E3%82%92%E7%B9%8B%E3%81%8E%E3%81%9F%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%20%E6%89%8B%E3%82%92%E7%B9%8B%E3%81%8E%E3%81%9F%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "涙が枯れるまでそばにいる",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%B6%99%E3%81%8C%E6%9E%AF%E3%82%8C%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%B6%99%E3%81%8C%E6%9E%AF%E3%82%8C%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%9D%E3%81%B0%E3%81%AB%E3%81%84%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · Isshunno Hanabi - Single · 2024-07-22",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/25/f0/a425f0d4-a8f4-90b8-19a1-298e3e4ffc08/24UMGIM72096.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/isshunno-hanabi-single/1756664077?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "一瞬の花火",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E8%8A%B1%E7%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E8%8A%B1%E7%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngt48-1814769026",
+      "title": "Kibô Ressha",
+      "date": "2025-06-04",
+      "kind": "single",
+      "note": "Data e scaletta dell’edizione digitale consultata; possono differire dal CD. Le edizioni audio diverse restano selezionabili. I pulsanti Cerca aprono ricerche per titolo e artista.",
+      "source": "https://music.apple.com/jp/album/kib%C3%B4-ressha-special-edition-ep/1814769026?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kib%C3%B4-ressha-special-edition-ep/1814769026?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kibô Ressha (Special Edition) - EP · 2025-06-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/92/cd/ff92cdac-bbc6-4cfa-7ea1-9d8164dbfeaf/25UMGIM69539.rgb.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kib%C3%B4-ressha-special-edition-ep/1814769026?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "希望列車",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%B8%8C%E6%9C%9B%E5%88%97%E8%BB%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%B8%8C%E6%9C%9B%E5%88%97%E8%BB%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出をゼロにして",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%82%92%E3%82%BC%E3%83%AD%E3%81%AB%E3%81%97%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%82%92%E3%82%BC%E3%83%AD%E3%81%AB%E3%81%97%E3%81%A6",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夕立雲",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%A4%95%E7%AB%8B%E9%9B%B2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%A4%95%E7%AB%8B%E9%9B%B2",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "境界線",
+                  "youtube": "https://www.youtube.com/results?search_query=NGT48%20%E5%A2%83%E7%95%8C%E7%B7%9A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/NGT48%20%E5%A2%83%E7%95%8C%E7%B7%9A",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale",
+      "url": "https://ngt48.jp/profile"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://www.universal-music.co.jp/ngt48/discography/"
+    },
+    {
+      "label": "Profili · distributore ufficiale NGT48 LIVE!! ON DEMAND",
+      "url": "https://www.dmm.com/lod/ngt48/-/ngt48member/"
+    },
+    {
+      "label": "Dodicesimo singolo · annuncio e scalette ufficiali",
+      "url": "https://www.universal-music.co.jp/ngt48/news/2026-09-24-2/"
+    }
+  ],
+  "excluded": []
+}
