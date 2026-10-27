@@ -1,0 +1,2997 @@
+{
+  "artist": "STU48",
+  "checkedAt": "2026-10-27",
+  "groupImage": "https://stu.kingrecords.co.jp/images/mainimg260902.jpg",
+  "members": [
+    {
+      "name": "Kai Cocoa",
+      "japanese": "甲斐 心愛",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/kai_cocoa_original.jpg",
+      "link": "https://sp.stu48.com/feature/kai_cocoa_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Taniguchi Mahina",
+      "japanese": "谷口 茉妃菜",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/taniguchi_mahina_original.jpg",
+      "link": "https://sp.stu48.com/feature/taniguchi_mahina_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Hyodo Aoi",
+      "japanese": "兵頭 葵",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/hyodo_aoi_original.jpg",
+      "link": "https://sp.stu48.com/feature/hyodo_aoi_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Fukuda Akari",
+      "japanese": "福田 朱里",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/fukuda_akari_original.jpg",
+      "link": "https://sp.stu48.com/feature/fukuda_akari_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Shinano Soraha",
+      "japanese": "信濃 宙花",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/shinano_soraha_original.jpg",
+      "link": "https://sp.stu48.com/feature/shinano_soraha_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Nakamura Mai",
+      "japanese": "中村 舞",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/nakamura_mai_original.jpg",
+      "link": "https://sp.stu48.com/feature/nakamura_mai_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Ikeda Yura",
+      "japanese": "池田 裕楽",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/ikeda_yura_original.jpg",
+      "link": "https://sp.stu48.com/feature/ikeda_yura_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Utsumi Rine",
+      "japanese": "内海 里音",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/utsumi_rine_original.jpg",
+      "link": "https://sp.stu48.com/feature/utsumi_rine_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Osaki Serika",
+      "japanese": "尾崎 世里花",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/osaki_serika_original.jpg",
+      "link": "https://sp.stu48.com/feature/osaki_serika_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Kawamata Yuuna",
+      "japanese": "川又 優菜",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/kawamata_yuuna_original.jpg",
+      "link": "https://sp.stu48.com/feature/kawamata_yuuna_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Kudo Riko",
+      "japanese": "工藤 理子",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/kudou_riko_original.jpg",
+      "link": "https://sp.stu48.com/feature/kudou_riko_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Sako Himeka",
+      "japanese": "迫 姫華",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/sako_himeka_original.jpg",
+      "link": "https://sp.stu48.com/feature/sako_himeka_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Takao Sayaka",
+      "japanese": "高雄 さやか",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/takao_sayaka_original.jpg",
+      "link": "https://sp.stu48.com/feature/takao_sayaka_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Harada Sayaka",
+      "japanese": "原田 清花",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/harada_sayaka_original.jpg",
+      "link": "https://sp.stu48.com/feature/harada_sayaka_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Muneyuki Rika",
+      "japanese": "宗雪 里香",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/muneyuki_rika_original.jpg",
+      "link": "https://sp.stu48.com/feature/muneyuki_rika_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Yoshida Sara",
+      "japanese": "吉田 彩良",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/yoshida_sara_original.jpg",
+      "link": "https://sp.stu48.com/feature/yoshida_sara_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Watanabe Natsuki",
+      "japanese": "渡辺 菜月",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/watanabe_natsuki_original.jpg",
+      "link": "https://sp.stu48.com/feature/watanabe_natsuki_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Okada Azumi",
+      "japanese": "岡田 あずみ",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/okada_azumi_original.jpg",
+      "link": "https://sp.stu48.com/feature/okada_azumi_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Okamura Rio",
+      "japanese": "岡村 梨央",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/okamura_rio_original.jpg",
+      "link": "https://sp.stu48.com/feature/okamura_rio_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Kurushima Yuka",
+      "japanese": "久留島 優果",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/kurushima_yuka_original.jpg",
+      "link": "https://sp.stu48.com/feature/kurushima_yuka_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Morokuzu Noa",
+      "japanese": "諸葛 望愛",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/morokuzu_noa_original.jpg",
+      "link": "https://sp.stu48.com/feature/morokuzu_noa_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Arai Ria",
+      "japanese": "新井梨杏",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/arai_ria_original.jpg",
+      "link": "https://sp.stu48.com/feature/arai_ria_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Ishihara Yuuna",
+      "japanese": "石原侑奈",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/ishihara_yuuna_original.jpg",
+      "link": "https://sp.stu48.com/feature/ishihara_yuuna_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Okuda Yuina",
+      "japanese": "奥田唯菜",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/okuda_yuina_original.jpg",
+      "link": "https://sp.stu48.com/feature/okuda_yuina_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Kitazawa Ichigo",
+      "japanese": "北澤苺",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/kitazawa_ichigo_original.jpg",
+      "link": "https://sp.stu48.com/feature/kitazawa_ichigo_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Hamada Hibiki",
+      "japanese": "濵田響",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/hamada_hibiki_original.jpg",
+      "link": "https://sp.stu48.com/feature/hamada_hibiki_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Morisue Himena",
+      "japanese": "森末妃奈",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/morisue_himena_original.jpg",
+      "link": "https://sp.stu48.com/feature/morisue_himena_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Ishimatsu Haruna",
+      "japanese": "石松 陽菜",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/ishimatsu_haruna_original.jpg",
+      "link": "https://sp.stu48.com/feature/ishimatsu_haruna_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Inoue Kurea",
+      "japanese": "井上 久伶杏",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/inoue_kurea_original.jpg",
+      "link": "https://sp.stu48.com/feature/inoue_kurea_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Kabutake Mana",
+      "japanese": "蕪竹 真奈",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/kabutake_mana_original.jpg",
+      "link": "https://sp.stu48.com/feature/kabutake_mana_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Kihara Hinayo",
+      "japanese": "木原 姫花世",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/kihara_hinayo_original.jpg",
+      "link": "https://sp.stu48.com/feature/kihara_hinayo_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Komatsu Nayu",
+      "japanese": "小松 奈侑",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/komatsu_nayu_original.jpg",
+      "link": "https://sp.stu48.com/feature/komatsu_nayu_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Sakaki Towana",
+      "japanese": "坂木 叶愛",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/sakaki_towana_original.jpg",
+      "link": "https://sp.stu48.com/feature/sakaki_towana_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Sakazaki Ai",
+      "japanese": "坂崎 愛",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/sakazaki_ai_original.jpg",
+      "link": "https://sp.stu48.com/feature/sakazaki_ai_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Shimada Sayaka",
+      "japanese": "島田 紗香",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/shimada_sayaka_original.jpg",
+      "link": "https://sp.stu48.com/feature/shimada_sayaka_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Sogabe Ako",
+      "japanese": "曽我部 あこ",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/sogabe_ako_original.jpg",
+      "link": "https://sp.stu48.com/feature/sogabe_ako_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Takamura Shiori",
+      "japanese": "髙村 栞里",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/takamura_shiori_original.jpg",
+      "link": "https://sp.stu48.com/feature/takamura_shiori_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Tanaka Nanako",
+      "japanese": "田中 奈菜子",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/tanaka_nanako_original.jpg",
+      "link": "https://sp.stu48.com/feature/tanaka_nanako_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Douho Runa",
+      "japanese": "道保 琉南",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/douho_runa_original.jpg",
+      "link": "https://sp.stu48.com/feature/douho_runa_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Nonaka Rio",
+      "japanese": "野中 莉央",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/nonaka_rio_original.jpg",
+      "link": "https://sp.stu48.com/feature/nonaka_rio_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Hamada Mii",
+      "japanese": "濵田 美惟",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/hamada_mii_original.jpg",
+      "link": "https://sp.stu48.com/feature/hamada_mii_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Fujita Amu",
+      "japanese": "藤田 愛結",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/fujita_amu_original.jpg",
+      "link": "https://sp.stu48.com/feature/fujita_amu_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Miyoshi Maaya",
+      "japanese": "三好 真綺",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/miyoshi_maaya_original.jpg",
+      "link": "https://sp.stu48.com/feature/miyoshi_maaya_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Yagi Yuuna",
+      "japanese": "屋木 優菜",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/yagi_yuuna_original.jpg",
+      "link": "https://sp.stu48.com/feature/yagi_yuuna_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "name": "Yokoi Yuina",
+      "japanese": "横井 結菜",
+      "bio": "Profilo presente nel directory ufficiale del gruppo; stato e generazione sono indicati nella pagina personale.",
+      "image": "https://sp.stu48.com/image/profile/yokoi_yuina_original.jpg",
+      "link": "https://sp.stu48.com/feature/yokoi_yuina_fs",
+      "imageSource": "https://sp.stu48.com/feature/profile_fs"
+    }
+  ],
+  "officialVideos": [
+    {
+      "slug": "stu48",
+      "id": "NAE2nHK0qpk",
+      "title": "STU48 13th Single 『好きすぎて泣く』Music Video",
+      "url": "https://www.youtube.com/watch?v=NAE2nHK0qpk",
+      "source": "https://stu.kingrecords.co.jp/"
+    },
+    {
+      "slug": "stu48",
+      "id": "n4Il_E_tuY0",
+      "title": "【MV】STU48 12th single 「傷つくことが青春だ」 MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=n4Il_E_tuY0",
+      "source": "https://stu.kingrecords.co.jp/"
+    },
+    {
+      "slug": "stu48",
+      "id": "6cdvjCr6SnU",
+      "title": "【MV】STU48 11th Single 「地平線を見ているか？」MUSIC VIDEO YouTube Edit",
+      "url": "https://www.youtube.com/watch?v=6cdvjCr6SnU",
+      "source": "https://stu.kingrecords.co.jp/"
+    }
+  ],
+  "spotlight": [
+    {
+      "slug": "stu48",
+      "id": "NAE2nHK0qpk",
+      "title": "STU48 13th Single 『好きすぎて泣く』Music Video",
+      "url": "https://www.youtube.com/watch?v=NAE2nHK0qpk",
+      "source": "https://stu.kingrecords.co.jp/"
+    },
+    {
+      "slug": "stu48",
+      "id": "n4Il_E_tuY0",
+      "title": "【MV】STU48 12th single 「傷つくことが青春だ」 MUSIC VIDEO",
+      "url": "https://www.youtube.com/watch?v=n4Il_E_tuY0",
+      "source": "https://stu.kingrecords.co.jp/"
+    },
+    {
+      "slug": "stu48",
+      "id": "6cdvjCr6SnU",
+      "title": "【MV】STU48 11th Single 「地平線を見ているか？」MUSIC VIDEO YouTube Edit",
+      "url": "https://www.youtube.com/watch?v=6cdvjCr6SnU",
+      "source": "https://stu.kingrecords.co.jp/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "stu48-1337538421",
+      "title": "暗闇",
+      "date": "2018-01-31",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-%E5%8A%87%E5%A0%B4%E7%9B%A4/1337538421?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-%E5%8A%87%E5%A0%B4%E7%9B%A4/1337538421?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 暗闇 (劇場盤) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/b6/15/b9b6157c-0ff0-e7d1-41c9-7b85b707c1f8/NMAX-1289-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-%E5%8A%87%E5%A0%B4%E7%9B%A4/1337538421?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(瀬戸内ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E7%80%AC%E6%88%B8%E5%86%85ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E7%80%AC%E6%88%B8%E5%86%85ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰かがいつか 好きだと言ってくれる日まで",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(瀬戸内ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E7%80%AC%E6%88%B8%E5%86%85ver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E7%80%AC%E6%88%B8%E5%86%85ver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰かがいつか 好きだと言ってくれる日まで (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 暗闇 (Type A) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c6/05/5d/c6055d98-bc10-6c25-15bd-34ea091f1282/KIZM-525-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-type-a/1336392013?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(兵庫ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%85%B5%E5%BA%ABver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%85%B5%E5%BA%ABver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "非全力",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(兵庫ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%85%B5%E5%BA%ABver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%85%B5%E5%BA%ABver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "非全力 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 暗闇 (Type C) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f3/78/73/f3787315-06c7-f7cb-2c2c-38cabe5225fc/KIZM-529-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-type-c/1336900352?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(広島ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%BA%83%E5%B3%B6ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%BA%83%E5%B3%B6ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "片想いの入り口",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(広島ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%BA%83%E5%B3%B6ver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%BA%83%E5%B3%B6ver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "片想いの入り口 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 暗闇 (Type D) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f3/b0/99/f3b099e6-465f-00ff-fd5b-b52da3e6a6e5/KIZM-531-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-type-d/1336905962?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(山口ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%B1%B1%E5%8F%A3ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%B1%B1%E5%8F%A3ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "片想いの入り口",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(山口ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%B1%B1%E5%8F%A3ver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%B1%B1%E5%8F%A3ver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "片想いの入り口 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%89%87%E6%83%B3%E3%81%84%E3%81%AE%E5%85%A5%E3%82%8A%E5%8F%A3%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 暗闇 (Type B) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/6b/cd/bc/6bcdbc59-b946-68e3-7e04-5840cb83de16/KIZM-527-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-type-b/1336404932?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(岡山ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%B2%A1%E5%B1%B1ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%B2%A1%E5%B1%B1ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "非全力",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(岡山ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%B2%A1%E5%B1%B1ver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%B2%A1%E5%B1%B1ver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "非全力 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%9E%E5%85%A8%E5%8A%9B%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 暗闇 (Type E) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6e/03/a9/6e03a962-8f65-cdd7-c9e0-9f751616cdaa/KIZM-533-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-type-e/1336919614?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(徳島ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%BE%B3%E5%B3%B6ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%BE%B3%E5%B3%B6ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕たちはシンドバッドだ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(徳島ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E5%BE%B3%E5%B3%B6ver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E5%BE%B3%E5%B3%B6ver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕たちはシンドバッドだ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 暗闇 (Type G) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f9/df/69/f9df69b4-89ed-26ce-8c2f-448ae1e55d0f/KIZM-537-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-type-g/1337466258?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(愛媛ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E6%84%9B%E5%AA%9Bver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E6%84%9B%E5%AA%9Bver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰かがいつか 好きだと言ってくれる日まで",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(愛媛ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E6%84%9B%E5%AA%9Bver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E6%84%9B%E5%AA%9Bver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰かがいつか 好きだと言ってくれる日まで (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%AA%B0%E3%81%8B%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%20%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%97%A5%E3%81%BE%E3%81%A7%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 暗闇 (Type F) · 2018-01-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/89/1d/81/891d810f-f4b1-e255-354c-3e4ac75b729e/KIZM-535-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%9A%97%E9%97%87-type-f/1337459767?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(香川ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E9%A6%99%E5%B7%9Dver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E9%A6%99%E5%B7%9Dver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕たちはシンドバッドだ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "暗闇 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の声 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A3%B0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "STU48(香川ver.) [off vocal ver.]",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20STU48%28%E9%A6%99%E5%B7%9Dver.%29%20%5Boff%20vocal%20ver.%5D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20STU48%28%E9%A6%99%E5%B7%9Dver.%29%20%5Boff%20vocal%20ver.%5D",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕たちはシンドバッドだ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%83%89%E3%81%A0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1451040381",
+      "title": "風を待つ",
+      "date": "2019-02-13",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4-type-a-ep/1451040381?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4-type-a-ep/1451040381?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 風を待つ (Type A) - EP · 2019-02-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3f/99/a0/3f99a0c0-ebb7-0406-d65e-5dd5b5830d1f/KIZM-90567-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4-type-a-ep/1451040381?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "風を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢力",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A2%E5%8A%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A2%E5%8A%9B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "風を待つ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢力 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A2%E5%8A%9B%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A2%E5%8A%9B%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 風を待つ (劇場盤) - EP · 2019-02-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/b2/f1/0eb2f1c5-2773-38b8-81e4-22401d86138c/NMAX-1305-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1451567156?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "風を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰かといたい",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%AA%B0%E3%81%8B%E3%81%A8%E3%81%84%E3%81%9F%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%AA%B0%E3%81%8B%E3%81%A8%E3%81%84%E3%81%9F%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "風を待つ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "誰かといたい (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%AA%B0%E3%81%8B%E3%81%A8%E3%81%84%E3%81%9F%E3%81%84%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%AA%B0%E3%81%8B%E3%81%A8%E3%81%84%E3%81%9F%E3%81%84%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 風を待つ (Type C) - EP · 2019-02-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/05/18/8e05180b-9ef2-3931-b347-08bb8e14511b/KIZM-90571-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4-type-c-ep/1451565238?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "風を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "原点",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%8E%9F%E7%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%8E%9F%E7%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "風を待つ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "原点 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%8E%9F%E7%82%B9%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%8E%9F%E7%82%B9%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 風を待つ (Type B) - EP · 2019-02-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/4a/74/a54a74a0-f6e7-e0af-8ab4-6979c1e6494d/KIZM-90569-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4-type-b-ep/1451564449?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "風を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "制服の重さ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%88%B6%E6%9C%8D%E3%81%AE%E9%87%8D%E3%81%95%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%88%B6%E6%9C%8D%E3%81%AE%E9%87%8D%E3%81%95",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "風を待つ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "制服の重さ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%88%B6%E6%9C%8D%E3%81%AE%E9%87%8D%E3%81%95%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%88%B6%E6%9C%8D%E3%81%AE%E9%87%8D%E3%81%95%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 風を待つ (Type D) - EP · 2019-02-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/b5/4a/a2b54a01-5ac4-5024-8133-dcbfc096de8e/KIZM-90573-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4-type-d-ep/1451565449?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "風を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "やがて 菜の花が咲く頃",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%82%84%E3%81%8C%E3%81%A6%20%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%81%8C%E5%92%B2%E3%81%8F%E9%A0%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%82%84%E3%81%8C%E3%81%A6%20%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%81%8C%E5%92%B2%E3%81%8F%E9%A0%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "風を待つ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "出航 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%87%BA%E8%88%AA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "やがて 菜の花が咲く頃 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%82%84%E3%81%8C%E3%81%A6%20%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%81%8C%E5%92%B2%E3%81%8F%E9%A0%83%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%82%84%E3%81%8C%E3%81%A6%20%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%81%8C%E5%92%B2%E3%81%8F%E9%A0%83%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1472467131",
+      "title": "大好きな人",
+      "date": "2019-07-31",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA-type-a-ep/1472467131?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA-type-a-ep/1472467131?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 大好きな人 (Type A) - EP · 2019-07-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0f/ce/f7/0fcef7ef-081c-8506-9f76-aeb750ecfc59/KIZM-90623-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA-type-a-ep/1472467131?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "大好きな人",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Which is which?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20Which%20is%20which%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20Which%20is%20which%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きな人 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか? (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Which is which? (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20Which%20is%20which%3F%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20Which%20is%20which%3F%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 大好きな人 (劇場盤) - EP · 2019-07-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0d/df/00/0ddf0016-6a52-8ceb-0874-6efdc7823abe/NMAX-1334-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1473089993?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "大好きな人",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青い檸檬",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%92%E3%81%84%E6%AA%B8%E6%AA%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%92%E3%81%84%E6%AA%B8%E6%AA%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きな人 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか? (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青い檸檬 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%92%E3%81%84%E6%AA%B8%E6%AA%AC%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%92%E3%81%84%E6%AA%B8%E6%AA%AC%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 大好きな人 (Type C) - EP · 2019-07-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/83/fa/e2/83fae283-eb83-c129-1991-299df83dd873/KIZM-90627-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA-type-c-ep/1473082309?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "大好きな人",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一杯の水",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E4%B8%80%E6%9D%AF%E3%81%AE%E6%B0%B4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E4%B8%80%E6%9D%AF%E3%81%AE%E6%B0%B4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きな人 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか? (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一杯の水 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E4%B8%80%E6%9D%AF%E3%81%AE%E6%B0%B4%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E4%B8%80%E6%9D%AF%E3%81%AE%E6%B0%B4%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 大好きな人 (Type D) - EP · 2019-07-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a8/ca/d9/a8cad94a-9823-a4a7-ec42-ea9c83f5e15a/KIZM-90629-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA-type-d-ep/1473088457?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "大好きな人",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きになれただけで幸せだ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%81%A0%E3%81%91%E3%81%A7%E5%B9%B8%E3%81%9B%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%81%A0%E3%81%91%E3%81%A7%E5%B9%B8%E3%81%9B%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きな人 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか? (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "好きになれただけで幸せだ (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%81%A0%E3%81%91%E3%81%A7%E5%B9%B8%E3%81%9B%E3%81%A0%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%81%A0%E3%81%91%E3%81%A7%E5%B9%B8%E3%81%9B%E3%81%A0%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 大好きな人 (Type B) - EP · 2019-07-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f7/02/9c/f7029c70-5c90-dac9-4b3f-8c960d876865/KIZM-90625-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA-type-b-ep/1472717663?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "大好きな人",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋は仮病中",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%81%8B%E3%81%AF%E4%BB%AE%E7%97%85%E4%B8%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%81%8B%E3%81%AF%E4%BB%AE%E7%97%85%E4%B8%AD",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きな人 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "海の色を知っているか? (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B5%B7%E3%81%AE%E8%89%B2%E3%82%92%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "恋は仮病中 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%81%8B%E3%81%AF%E4%BB%AE%E7%97%85%E4%B8%AD%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%81%8B%E3%81%AF%E4%BB%AE%E7%97%85%E4%B8%AD%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1494846519",
+      "title": "無謀な夢は覚めることがない",
+      "date": "2020-01-29",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1494846519?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1494846519?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 無謀な夢は覚めることがない (劇場盤) - EP · 2020-01-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/93/cc/1a/93cc1aef-5b2f-42b0-c95d-c4597fb3b3bd/NMAX-1345-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1494846519?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "無謀な夢は覚めることがない",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇跡という名のストーリー",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A5%87%E8%B7%A1%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A5%87%E8%B7%A1%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無謀な夢は覚めることがない (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "奇跡という名のストーリー (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A5%87%E8%B7%A1%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A5%87%E8%B7%A1%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 無謀な夢は覚めることがない (Type A) - EP · 2020-01-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/be/72/90be72bb-10e6-775b-31ea-c38e1597b75f/KIZM-653-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84-type-a-ep/1494830507?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "無謀な夢は覚めることがない",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一瞬のスリル",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E3%82%B9%E3%83%AA%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E3%82%B9%E3%83%AA%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無謀な夢は覚めることがない (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "一瞬のスリル (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E3%82%B9%E3%83%AA%E3%83%AB%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E4%B8%80%E7%9E%AC%E3%81%AE%E3%82%B9%E3%83%AA%E3%83%AB%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 無謀な夢は覚めることがない (Type B) - EP · 2020-01-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8e/1c/da/8e1cda21-dcef-fdec-a7d7-a30076329b00/KIZM-655-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84-type-b-ep/1494830878?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "無謀な夢は覚めることがない",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕らの春夏秋冬",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%82%89%E3%81%AE%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%82%89%E3%81%AE%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無謀な夢は覚めることがない (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕らの春夏秋冬 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%82%89%E3%81%AE%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%82%89%E3%81%AE%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · 無謀な夢は覚めることがない (Type C) - EP · 2020-01-29",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/fa/c0/5cfac002-1575-69e8-1b4d-e663ea6d3f08/KIZM-657-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84-type-c-ep/1494831733?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "無謀な夢は覚めることがない",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の妹",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A6%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A6%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無謀な夢は覚めることがない (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "瀬戸内の妹 (off vocal ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A6%B9%20%28off%20vocal%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%80%AC%E6%88%B8%E5%86%85%E3%81%AE%E5%A6%B9%20%28off%20vocal%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1526790334",
+      "title": "思い出せる恋をしよう",
+      "date": "2020-08-19",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-single/1526790334?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-single/1526790334?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 思い出せる恋をしよう - Single · 2020-08-19",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/1e/39/f81e39e0-1474-58ee-dbe0-6318376737a6/NOPA-2308-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-single/1526790334?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "思い出せる恋をしよう (1期生・ドラフト3期生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう (2期研究生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう (Mix ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20%28Mix%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20%28Mix%20ver.%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1528317620",
+      "title": "思い出せる恋をしよう【劇場盤】",
+      "date": "2020-09-02",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1528317620?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1528317620?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 思い出せる恋をしよう【劇場盤】 - EP · 2020-09-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/6e/cd/066ecd8f-dda0-691c-3953-61ab91e62b91/NMAX-1352-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-%E5%8A%87%E5%A0%B4%E7%9B%A4-ep/1528317620?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "思い出せる恋をしよう(1期生・ドラフト3期生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう(2期研究生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "短日植物(ふうちほ)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%9F%AD%E6%97%A5%E6%A4%8D%E7%89%A9%28%E3%81%B5%E3%81%86%E3%81%A1%E3%81%BB%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%9F%AD%E6%97%A5%E6%A4%8D%E7%89%A9%28%E3%81%B5%E3%81%86%E3%81%A1%E3%81%BB%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "短日植物(ふうちほ) off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%9F%AD%E6%97%A5%E6%A4%8D%E7%89%A9%28%E3%81%B5%E3%81%86%E3%81%A1%E3%81%BB%29%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%9F%AD%E6%97%A5%E6%A4%8D%E7%89%A9%28%E3%81%B5%E3%81%86%E3%81%A1%E3%81%BB%29%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1528317852",
+      "title": "思い出せる恋をしよう<Type A>",
+      "date": "2020-09-02",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-type-a-ep/1528317852?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-type-a-ep/1528317852?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 思い出せる恋をしよう<Type A> - EP · 2020-09-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/be/5a/61/be5a61a1-8955-0314-f08e-278e7a5da23c/KIZM-90667-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-type-a-ep/1528317852?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "思い出せる恋をしよう(1期生・ドラフト3期生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう(2期研究生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春各駅停車(青い向日葵)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%92%E6%98%A5%E5%90%84%E9%A7%85%E5%81%9C%E8%BB%8A%28%E9%9D%92%E3%81%84%E5%90%91%E6%97%A5%E8%91%B5%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%92%E6%98%A5%E5%90%84%E9%A7%85%E5%81%9C%E8%BB%8A%28%E9%9D%92%E3%81%84%E5%90%91%E6%97%A5%E8%91%B5%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青春各駅停車(青い向日葵) off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%92%E6%98%A5%E5%90%84%E9%A7%85%E5%81%9C%E8%BB%8A%28%E9%9D%92%E3%81%84%E5%90%91%E6%97%A5%E8%91%B5%29%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%92%E6%98%A5%E5%90%84%E9%A7%85%E5%81%9C%E8%BB%8A%28%E9%9D%92%E3%81%84%E5%90%91%E6%97%A5%E8%91%B5%29%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1528317929",
+      "title": "思い出せる恋をしよう<Type B>",
+      "date": "2020-09-02",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-type-b-ep/1528317929?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-type-b-ep/1528317929?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · 思い出せる恋をしよう<Type B> - EP · 2020-09-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/76/96/1e7696e2-d3df-09b4-a3e5-4b0cf356a695/KIZM-90669-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86-type-b-ep/1528317929?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "思い出せる恋をしよう(2期研究生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%282%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう(1期生・ドラフト3期生ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%281%E6%9C%9F%E7%94%9F%E3%83%BB%E3%83%89%E3%83%A9%E3%83%95%E3%83%883%E6%9C%9F%E7%94%9Fver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あの日から僕は変わった(瀧野由美子・田中皓子・中村 舞・薮下 楓)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%81%82%E3%81%AE%E6%97%A5%E3%81%8B%E3%82%89%E5%83%95%E3%81%AF%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%28%E7%80%A7%E9%87%8E%E7%94%B1%E7%BE%8E%E5%AD%90%E3%83%BB%E7%94%B0%E4%B8%AD%E7%9A%93%E5%AD%90%E3%83%BB%E4%B8%AD%E6%9D%91%20%E8%88%9E%E3%83%BB%E8%96%AE%E4%B8%8B%20%E6%A5%93%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%81%82%E3%81%AE%E6%97%A5%E3%81%8B%E3%82%89%E5%83%95%E3%81%AF%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%28%E7%80%A7%E9%87%8E%E7%94%B1%E7%BE%8E%E5%AD%90%E3%83%BB%E7%94%B0%E4%B8%AD%E7%9A%93%E5%AD%90%E3%83%BB%E4%B8%AD%E6%9D%91%20%E8%88%9E%E3%83%BB%E8%96%AE%E4%B8%8B%20%E6%A5%93%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あの日から僕は変わった(瀧野由美子・田中皓子・中村 舞・薮下 楓) off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%81%82%E3%81%AE%E6%97%A5%E3%81%8B%E3%82%89%E5%83%95%E3%81%AF%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%28%E7%80%A7%E9%87%8E%E7%94%B1%E7%BE%8E%E5%AD%90%E3%83%BB%E7%94%B0%E4%B8%AD%E7%9A%93%E5%AD%90%E3%83%BB%E4%B8%AD%E6%9D%91%20%E8%88%9E%E3%83%BB%E8%96%AE%E4%B8%8B%20%E6%A5%93%29%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%81%82%E3%81%AE%E6%97%A5%E3%81%8B%E3%82%89%E5%83%95%E3%81%AF%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%28%E7%80%A7%E9%87%8E%E7%94%B1%E7%BE%8E%E5%AD%90%E3%83%BB%E7%94%B0%E4%B8%AD%E7%9A%93%E5%AD%90%E3%83%BB%E4%B8%AD%E6%9D%91%20%E8%88%9E%E3%83%BB%E8%96%AE%E4%B8%8B%20%E6%A5%93%29%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1551263738",
+      "title": "hitorigotodekatarukurainara",
+      "date": "2021-02-17",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/hitorigotodekatarukurainara-type-a-ep/1551263738?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hitorigotodekatarukurainara-type-a-ep/1551263738?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · hitorigotodekatarukurainara (Type A) - EP · 2021-02-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/c9/33/57c93396-8ef6-d0e4-07c7-014b86d34cb1/KIZM-90681-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hitorigotodekatarukurainara-type-a-ep/1551263738?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "独り言で語るくらいなら",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サングラスデイズ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "独り言で語るくらいなら (off vocal version)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20%28off%20vocal%20version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20%28off%20vocal%20version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "サングラスデイズ (off vocal version)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA%20%28off%20vocal%20version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%87%E3%82%A4%E3%82%BA%20%28off%20vocal%20version%29",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Digitale JP · hitorigotodekatarukurainara (Type B) - EP · 2021-02-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/24/9a/e6/249ae695-8878-860c-8d5a-f6bd7e286b05/KIZM-90683-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hitorigotodekatarukurainara-type-b-ep/1551264306?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "独り言で語るくらいなら",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕はこの海を眺めてる",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%81%AF%E3%81%93%E3%81%AE%E6%B5%B7%E3%82%92%E7%9C%BA%E3%82%81%E3%81%A6%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%81%AF%E3%81%93%E3%81%AE%E6%B5%B7%E3%82%92%E7%9C%BA%E3%82%81%E3%81%A6%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "独り言で語るくらいなら off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕はこの海を眺めてる off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%81%AF%E3%81%93%E3%81%AE%E6%B5%B7%E3%82%92%E7%9C%BA%E3%82%81%E3%81%A6%E3%82%8B%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%81%AF%E3%81%93%E3%81%AE%E6%B5%B7%E3%82%92%E7%9C%BA%E3%82%81%E3%81%A6%E3%82%8B%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1551260894",
+      "title": "hitorigotodekatarukurainara (Gekijyoba)",
+      "date": "2021-02-17",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/hitorigotodekatarukurainara-gekijyoba-ep/1551260894?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hitorigotodekatarukurainara-gekijyoba-ep/1551260894?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · hitorigotodekatarukurainara (Gekijyoba) - EP · 2021-02-17",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/03/ff/73/03ff73d7-1577-5617-bf6f-37e1a70218e0/NMAX-1366-1400.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hitorigotodekatarukurainara-gekijyoba-ep/1551260894?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "独り言で語るくらいなら",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そして僕は僕じゃなくなる",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%81%AF%E5%83%95%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%81%AF%E5%83%95%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "独り言で語るくらいなら off vocal ver. (off vocal Version)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20off%20vocal%20ver.%20%28off%20vocal%20Version%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20off%20vocal%20ver.%20%28off%20vocal%20Version%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そして僕は僕じゃなくなる off vocal ver.",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%81%AF%E5%83%95%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%20off%20vocal%20ver.%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%81%9D%E3%81%97%E3%81%A6%E5%83%95%E3%81%AF%E5%83%95%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%20off%20vocal%20ver.",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1589012794",
+      "title": "Hetaretachiyo (Special Edition)",
+      "date": "2021-10-20",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/hetaretachiyo-special-edition-ep/1589012794?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hetaretachiyo-special-edition-ep/1589012794?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Hetaretachiyo (Special Edition) - EP · 2021-10-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/e6/a3/80e6a3d8-7993-6586-c643-1a9b14bab293/NOPA-2816.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hetaretachiyo-special-edition-ep/1589012794?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "ヘタレたちよ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%83%98%E3%82%BF%E3%83%AC%E3%81%9F%E3%81%A1%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%83%98%E3%82%BF%E3%83%AC%E3%81%9F%E3%81%A1%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "後悔なんかあるわけない",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%BE%8C%E6%82%94%E3%81%AA%E3%82%93%E3%81%8B%E3%81%82%E3%82%8B%E3%82%8F%E3%81%91%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%BE%8C%E6%82%94%E3%81%AA%E3%82%93%E3%81%8B%E3%81%82%E3%82%8B%E3%82%8F%E3%81%91%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "夢をガラス瓶の中に",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A2%E3%82%92%E3%82%AC%E3%83%A9%E3%82%B9%E7%93%B6%E3%81%AE%E4%B8%AD%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A2%E3%82%92%E3%82%AC%E3%83%A9%E3%82%B9%E7%93%B6%E3%81%AE%E4%B8%AD%E3%81%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "気にならない孤独",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E5%AD%A4%E7%8B%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E5%AD%A4%E7%8B%AC",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1615909762",
+      "title": "Hana wa Darenomono?",
+      "date": "2022-04-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/hana-wa-darenomono-single/1615909762?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hana-wa-darenomono-single/1615909762?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Hana wa Darenomono? - Single · 2022-04-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/e1/7c/ffe17c40-390a-0180-bace-64baf11a3074/NOPA-3210.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hana-wa-darenomono-single/1615909762?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "花は誰のもの?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1616820916",
+      "title": "Hana wa Darenomono? Special Edition",
+      "date": "2022-04-13",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/hana-wa-darenomono-special-edition-ep/1616820916?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hana-wa-darenomono-special-edition-ep/1616820916?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Hana wa Darenomono? Special Edition - EP · 2022-04-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8b/af/2f/8baf2f33-cd51-879f-7156-e2311b0aadd5/NOPA-3157.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hana-wa-darenomono-special-edition-ep/1616820916?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "花は誰のもの?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "船から降りた僕たちは・・・",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%88%B9%E3%81%8B%E3%82%89%E9%99%8D%E3%82%8A%E3%81%9F%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%88%B9%E3%81%8B%E3%82%89%E9%99%8D%E3%82%8A%E3%81%9F%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%E3%83%BB%E3%83%BB%E3%83%BB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ポニーテールをほどいた君を見た",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%83%9D%E3%83%8B%E3%83%BC%E3%83%86%E3%83%BC%E3%83%AB%E3%82%92%E3%81%BB%E3%81%A9%E3%81%84%E3%81%9F%E5%90%9B%E3%82%92%E8%A6%8B%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%83%9D%E3%83%8B%E3%83%BC%E3%83%86%E3%83%BC%E3%83%AB%E3%82%92%E3%81%BB%E3%81%A9%E3%81%84%E3%81%9F%E5%90%9B%E3%82%92%E8%A6%8B%E3%81%9F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sure、じゃあね",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20Sure%E3%80%81%E3%81%98%E3%82%83%E3%81%82%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20Sure%E3%80%81%E3%81%98%E3%82%83%E3%81%82%E3%81%AD",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1634382659",
+      "title": "Hana wa Darenomono? Kouen \"Natsu no \"Suki\" wa Goyoujin\" \"Soshite Hito wa Muryoku to Omoishiru\"",
+      "date": "2022-07-31",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/hana-wa-darenomono-kouen-natsu-no-suki-wa-goyoujin/1634382659?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hana-wa-darenomono-kouen-natsu-no-suki-wa-goyoujin/1634382659?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Hana wa Darenomono? Kouen \"Natsu no \"Suki\" wa Goyoujin\" \"Soshite Hito wa Muryoku to Omoishiru\" - Single · 2022-07-31",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e7/28/f3/e728f3ab-4cf8-a691-e975-e64528e365a6/NOPA-3527.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hana-wa-darenomono-kouen-natsu-no-suki-wa-goyoujin/1634382659?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "夏の“好き\"はご用心",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%8F%E3%81%AE%E2%80%9C%E5%A5%BD%E3%81%8D%22%E3%81%AF%E3%81%94%E7%94%A8%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%8F%E3%81%AE%E2%80%9C%E5%A5%BD%E3%81%8D%22%E3%81%AF%E3%81%94%E7%94%A8%E5%BF%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "そして人間は無力と思い知る",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%81%9D%E3%81%97%E3%81%A6%E4%BA%BA%E9%96%93%E3%81%AF%E7%84%A1%E5%8A%9B%E3%81%A8%E6%80%9D%E3%81%84%E7%9F%A5%E3%82%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%81%9D%E3%81%97%E3%81%A6%E4%BA%BA%E9%96%93%E3%81%AF%E7%84%A1%E5%8A%9B%E3%81%A8%E6%80%9D%E3%81%84%E7%9F%A5%E3%82%8B",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1660512637",
+      "title": "Hana wa Dare no Mono? - From THE FIRST TAKE",
+      "date": "2023-01-20",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/hana-wa-dare-no-mono-from-the-first-take-single/1660512637?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/hana-wa-dare-no-mono-from-the-first-take-single/1660512637?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Hana wa Dare no Mono? - From THE FIRST TAKE - Single · 2023-01-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/55/1a/d1/551ad1fc-ef80-6daa-154a-911378c2d952/NOPA-4094.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/hana-wa-dare-no-mono-from-the-first-take-single/1660512637?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "花は誰のもの? - From THE FIRST TAKE",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F%20-%20From%20THE%20FIRST%20TAKE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F%20-%20From%20THE%20FIRST%20TAKE",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1671938844",
+      "title": "Iki wo Suru Kokoro",
+      "date": "2023-03-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/iki-wo-suru-kokoro-single/1671938844?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/iki-wo-suru-kokoro-single/1671938844?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Iki wo Suru Kokoro - Single · 2023-03-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/f1/cb/46f1cb30-8f70-b956-33eb-ab935a4e54d8/NOPA-4092.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/iki-wo-suru-kokoro-single/1671938844?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "息をする心",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%81%AF%E3%82%92%E3%81%99%E3%82%8B%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%81%AF%E3%82%92%E3%81%99%E3%82%8B%E5%BF%83",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1675294316",
+      "title": "Iki wo Suru Kokoro Special Edition",
+      "date": "2023-03-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/iki-wo-suru-kokoro-special-edition-ep/1675294316?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/iki-wo-suru-kokoro-special-edition-ep/1675294316?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Iki wo Suru Kokoro Special Edition - EP · 2023-03-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/77/1e/fc/771efcb3-c093-681c-e7aa-5471a4aa91c1/NOPA-4093.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/iki-wo-suru-kokoro-special-edition-ep/1675294316?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "息をする心",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%81%AF%E3%82%92%E3%81%99%E3%82%8B%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%81%AF%E3%82%92%E3%81%99%E3%82%8B%E5%BF%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "自然淘汰主義",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%87%AA%E7%84%B6%E6%B7%98%E6%B1%B0%E4%B8%BB%E7%BE%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%87%AA%E7%84%B6%E6%B7%98%E6%B1%B0%E4%B8%BB%E7%BE%A9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "笑顔のチャンス",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%AC%91%E9%A1%94%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "神様も呆れるくらいに",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%A5%9E%E6%A7%98%E3%82%82%E5%91%86%E3%82%8C%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%A5%9E%E6%A7%98%E3%82%82%E5%91%86%E3%82%8C%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AB",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1712478771",
+      "title": "Kimi wa Nani wo Koukai Surunoka?",
+      "date": "2023-11-01",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/kimi-wa-nani-wo-koukai-surunoka-single/1712478771?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kimi-wa-nani-wo-koukai-surunoka-single/1712478771?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kimi wa Nani wo Koukai Surunoka? - Single · 2023-11-01",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/10/4b/21104bf6-5a2e-b458-e126-f90bef589858/NOPA-5284.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kimi-wa-nani-wo-koukai-surunoka-single/1712478771?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "君は何を後悔するのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%90%9B%E3%81%AF%E4%BD%95%E3%82%92%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%90%9B%E3%81%AF%E4%BD%95%E3%82%92%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1714585003",
+      "title": "Kimi wa Nani wo Koukai Surunoka? Special Edition",
+      "date": "2023-11-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/kimi-wa-nani-wo-koukai-surunoka-special-edition-ep/1714585003?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kimi-wa-nani-wo-koukai-surunoka-special-edition-ep/1714585003?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kimi wa Nani wo Koukai Surunoka? Special Edition - EP · 2023-11-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bb/c1/31/bbc13101-c2aa-d8e6-4e3c-2c4bcccac90f/NOPA-5285.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kimi-wa-nani-wo-koukai-surunoka-special-edition-ep/1714585003?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "君は何を後悔するのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%90%9B%E3%81%AF%E4%BD%95%E3%82%92%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%90%9B%E3%81%AF%E4%BD%95%E3%82%92%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨とか涙とか",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9B%A8%E3%81%A8%E3%81%8B%E6%B6%99%E3%81%A8%E3%81%8B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9B%A8%E3%81%A8%E3%81%8B%E6%B6%99%E3%81%A8%E3%81%8B",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "楡の木陰の下で",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%A5%A1%E3%81%AE%E6%9C%A8%E9%99%B0%E3%81%AE%E4%B8%8B%E3%81%A7%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%A5%A1%E3%81%AE%E6%9C%A8%E9%99%B0%E3%81%AE%E4%B8%8B%E3%81%A7",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "幽体離脱と金縛り",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%B9%BD%E4%BD%93%E9%9B%A2%E8%84%B1%E3%81%A8%E9%87%91%E7%B8%9B%E3%82%8A%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%B9%BD%E4%BD%93%E9%9B%A2%E8%84%B1%E3%81%A8%E9%87%91%E7%B8%9B%E3%82%8A",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛をもらったこともあげたこともない",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%84%9B%E3%82%92%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%81%92%E3%81%9F%E3%81%93%E3%81%A8%E3%82%82%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%84%9B%E3%82%92%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%81%92%E3%81%9F%E3%81%93%E3%81%A8%E3%82%82%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1746472660",
+      "title": "Ai no Omosa",
+      "date": "2024-06-02",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/ai-no-omosa-single/1746472660?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/ai-no-omosa-single/1746472660?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Ai no Omosa - Single · 2024-06-02",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/69/3f/b7693f67-bee4-42a3-452e-0a5351e6a67f/NOPA-5891.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/ai-no-omosa-single/1746472660?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "愛の重さ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%84%9B%E3%81%AE%E9%87%8D%E3%81%95%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%84%9B%E3%81%AE%E9%87%8D%E3%81%95",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1748960052",
+      "title": "Natsukashii Ashita Special Edition",
+      "date": "2024-06-12",
+      "kind": "studio",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/natsukashii-ashita-special-edition/1748960052?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/natsukashii-ashita-special-edition/1748960052?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Natsukashii Ashita Special Edition · 2024-06-12",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/cb/fb/08cbfb7c-ff10-93ce-707d-809f67bbc9ff/NOPA-5892.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/natsukashii-ashita-special-edition/1748960052?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "暗闇",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9A%97%E9%97%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9A%97%E9%97%87",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "風を待つ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%A2%A8%E3%82%92%E5%BE%85%E3%81%A4",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "大好きな人",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "無謀な夢は覚めることがない",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%84%A1%E8%AC%80%E3%81%AA%E5%A4%A2%E3%81%AF%E8%A6%9A%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "思い出せる恋をしよう(Mix ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%28Mix%20ver.%29%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B%E3%82%8B%E6%81%8B%E3%82%92%E3%81%97%E3%82%88%E3%81%86%28Mix%20ver.%29",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "独り言で語るくらいなら",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%8B%AC%E3%82%8A%E8%A8%80%E3%81%A7%E8%AA%9E%E3%82%8B%E3%81%8F%E3%82%89%E3%81%84%E3%81%AA%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ヘタレたちよ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%83%98%E3%82%BF%E3%83%AC%E3%81%9F%E3%81%A1%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%83%98%E3%82%BF%E3%83%AC%E3%81%9F%E3%81%A1%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "花は誰のもの?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "息をする心",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%81%AF%E3%82%92%E3%81%99%E3%82%8B%E5%BF%83%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%81%AF%E3%82%92%E3%81%99%E3%82%8B%E5%BF%83",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君は何を後悔するのか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%90%9B%E3%81%AF%E4%BD%95%E3%82%92%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%90%9B%E3%81%AF%E4%BD%95%E3%82%92%E5%BE%8C%E6%82%94%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "愛の重さ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%84%9B%E3%81%AE%E9%87%8D%E3%81%95%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%84%9B%E3%81%AE%E9%87%8D%E3%81%95",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Sweaty Smell",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20Sweaty%20Smell%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20Sweaty%20Smell",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "花は誰のもの? 合唱Ver. STU48 feat. 島谷ひとみ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F%20%E5%90%88%E5%94%B1Ver.%20STU48%20feat.%20%E5%B3%B6%E8%B0%B7%E3%81%B2%E3%81%A8%E3%81%BF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%8A%B1%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%3F%20%E5%90%88%E5%94%B1Ver.%20STU48%20feat.%20%E5%B3%B6%E8%B0%B7%E3%81%B2%E3%81%A8%E3%81%BF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "月と僕と新しい自分",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9C%88%E3%81%A8%E5%83%95%E3%81%A8%E6%96%B0%E3%81%97%E3%81%84%E8%87%AA%E5%88%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9C%88%E3%81%A8%E5%83%95%E3%81%A8%E6%96%B0%E3%81%97%E3%81%84%E8%87%AA%E5%88%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "小豆島へ行こう",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%B0%8F%E8%B1%86%E5%B3%B6%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%B0%8F%E8%B1%86%E5%B3%B6%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1783302085",
+      "title": "Chiheisen wo Miteiruka?",
+      "date": "2024-12-23",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/chiheisen-wo-miteiruka-single/1783302085?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/chiheisen-wo-miteiruka-single/1783302085?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Chiheisen wo Miteiruka? - Single · 2024-12-23",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e3/7e/14e37e3b-1509-7285-4db6-4832246ee96b/NOPA-7087.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/chiheisen-wo-miteiruka-single/1783302085?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "地平線を見ているか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%9C%B0%E5%B9%B3%E7%B7%9A%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%9C%B0%E5%B9%B3%E7%B7%9A%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1786009836",
+      "title": "Chiheisen wo Miteiruka? Special Edition",
+      "date": "2025-01-15",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/chiheisen-wo-miteiruka-special-edition-ep/1786009836?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/chiheisen-wo-miteiruka-special-edition-ep/1786009836?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Chiheisen wo Miteiruka? Special Edition - EP · 2025-01-15",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/48/f9/7248f9d4-fb20-0854-00e8-0de816e5efb2/NOPA-7088.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/chiheisen-wo-miteiruka-special-edition-ep/1786009836?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "地平線を見ているか?",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%9C%B0%E5%B9%B3%E7%B7%9A%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%9C%B0%E5%B9%B3%E7%B7%9A%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%3F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "雨のノック",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9B%A8%E3%81%AE%E3%83%8E%E3%83%83%E3%82%AF%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9B%A8%E3%81%AE%E3%83%8E%E3%83%83%E3%82%AF",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "真冬のプール",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%9C%9F%E5%86%AC%E3%81%AE%E3%83%97%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%9C%9F%E5%86%AC%E3%81%AE%E3%83%97%E3%83%BC%E3%83%AB",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "鬼ごっこ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%AC%BC%E3%81%94%E3%81%A3%E3%81%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%AC%BC%E3%81%94%E3%81%A3%E3%81%93",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "Be honest",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20Be%20honest%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20Be%20honest",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "僕は言う",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%83%95%E3%81%AF%E8%A8%80%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%83%95%E3%81%AF%E8%A8%80%E3%81%86",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1830139158",
+      "title": "Aozora wo Katariaou",
+      "date": "2025-08-13",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/aozora-wo-katariaou-single/1830139158?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/aozora-wo-katariaou-single/1830139158?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Aozora wo Katariaou - Single · 2025-08-13",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/a4/14/a4a414da-c695-1007-f814-1ee525edb4e3/NOPA-7841.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/aozora-wo-katariaou-single/1830139158?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "青空を語り合おう",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%92%E7%A9%BA%E3%82%92%E8%AA%9E%E3%82%8A%E5%90%88%E3%81%8A%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%92%E7%A9%BA%E3%82%92%E8%AA%9E%E3%82%8A%E5%90%88%E3%81%8A%E3%81%86",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1830139012",
+      "title": "Kizutsuku Koto ga Seishun da",
+      "date": "2025-08-20",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/kizutsuku-koto-ga-seishun-da-single/1830139012?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kizutsuku-koto-ga-seishun-da-single/1830139012?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kizutsuku Koto ga Seishun da - Single · 2025-08-20",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/a4/5b/afa45b49-f399-1d13-10b0-15cf653f1c68/NOPA-7840.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kizutsuku-koto-ga-seishun-da-single/1830139012?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "傷つくことが青春だ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%82%B7%E3%81%A4%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E9%9D%92%E6%98%A5%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%82%B7%E3%81%A4%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E9%9D%92%E6%98%A5%E3%81%A0",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1831714013",
+      "title": "Kizutsuku Koto ga Seishun da Special Edition",
+      "date": "2025-08-27",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/kizutsuku-koto-ga-seishun-da-special-edition-ep/1831714013?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/kizutsuku-koto-ga-seishun-da-special-edition-ep/1831714013?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Kizutsuku Koto ga Seishun da Special Edition - EP · 2025-08-27",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/1e/e5/e01ee567-4980-a319-004e-97f3535d6582/NOPA-7842.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/kizutsuku-koto-ga-seishun-da-special-edition-ep/1831714013?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "傷つくことが青春だ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%82%B7%E3%81%A4%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E9%9D%92%E6%98%A5%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%82%B7%E3%81%A4%E3%81%8F%E3%81%93%E3%81%A8%E3%81%8C%E9%9D%92%E6%98%A5%E3%81%A0",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "青空を語り合おう",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%9D%92%E7%A9%BA%E3%82%92%E8%AA%9E%E3%82%8A%E5%90%88%E3%81%8A%E3%81%86%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%9D%92%E7%A9%BA%E3%82%92%E8%AA%9E%E3%82%8A%E5%90%88%E3%81%8A%E3%81%86",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "人の隣を走るな",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E4%BA%BA%E3%81%AE%E9%9A%A3%E3%82%92%E8%B5%B0%E3%82%8B%E3%81%AA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E4%BA%BA%E3%81%AE%E9%9A%A3%E3%82%92%E8%B5%B0%E3%82%8B%E3%81%AA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "あの頃のBGM",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%81%82%E3%81%AE%E9%A0%83%E3%81%AEBGM%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%81%82%E3%81%AE%E9%A0%83%E3%81%AEBGM",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "生口島の瀬戸田レモンじゃけぇ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E7%94%9F%E5%8F%A3%E5%B3%B6%E3%81%AE%E7%80%AC%E6%88%B8%E7%94%B0%E3%83%AC%E3%83%A2%E3%83%B3%E3%81%98%E3%82%83%E3%81%91%E3%81%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E7%94%9F%E5%8F%A3%E5%B3%B6%E3%81%AE%E7%80%AC%E6%88%B8%E7%94%B0%E3%83%AC%E3%83%A2%E3%83%B3%E3%81%98%E3%82%83%E3%81%91%E3%81%87",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1874566479",
+      "title": "Sukisugite Naku",
+      "date": "2026-02-18",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/sukisugite-naku-single/1874566479?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sukisugite-naku-single/1874566479?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Sukisugite Naku - Single · 2026-02-18",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/4a/09/154a09cc-48c3-289a-efde-2770524e7cd8/NOPA-8403.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/sukisugite-naku-single/1874566479?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "好きすぎて泣く",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%B3%A3%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%B3%A3%E3%81%8F",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-1878399166",
+      "title": "Sukisugite Naku Special Edition",
+      "date": "2026-03-04",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/sukisugite-naku-special-edition-ep/1878399166?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/sukisugite-naku-special-edition-ep/1878399166?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Sukisugite Naku Special Edition - EP · 2026-03-04",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/a3/7d/70a37d49-d37f-d996-4a19-f6a7fe4de84e/NOPA-8404.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/sukisugite-naku-special-edition-ep/1878399166?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "好きすぎて泣く",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%B3%A3%E3%81%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%B3%A3%E3%81%8F",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "未来へ続く者よ",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%9C%AA%E6%9D%A5%E3%81%B8%E7%B6%9A%E3%81%8F%E8%80%85%E3%82%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%9C%AA%E6%9D%A5%E3%81%B8%E7%B6%9A%E3%81%8F%E8%80%85%E3%82%88",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "ごめんねニュートン",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E3%81%94%E3%82%81%E3%82%93%E3%81%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "檸檬とレモン",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E6%AA%B8%E6%AA%AC%E3%81%A8%E3%83%AC%E3%83%A2%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E6%AA%B8%E6%AA%AC%E3%81%A8%E3%83%AC%E3%83%A2%E3%83%B3",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "告白JUMP",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%91%8A%E7%99%BDJUMP%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%91%8A%E7%99%BDJUMP",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stu48-6810160096",
+      "title": "Fuyufuku ni Kigaetara Special Edition",
+      "date": "2026-10-07",
+      "kind": "single",
+      "note": "Data, copertina e scaletta dell’edizione digitale giapponese consultata; possono differire dal CD. I pulsanti Cerca non certificano una specifica registrazione.",
+      "source": "https://music.apple.com/jp/album/fuyufuku-ni-kigaetara-special-edition-ep/6810160096?uo=4",
+      "trackSource": "https://music.apple.com/jp/album/fuyufuku-ni-kigaetara-special-edition-ep/6810160096?uo=4",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digitale JP · Fuyufuku ni Kigaetara Special Edition - EP · 2026-10-07",
+          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/a9/ed/5ba9ed48-55c4-ba1b-cebb-ce9e854007f8/NOPA-8989.jpg/600x600bb.jpg",
+          "source": "https://music.apple.com/jp/album/fuyufuku-ni-kigaetara-special-edition-ep/6810160096?uo=4",
+          "discs": [
+            {
+              "label": "Disco 1",
+              "tracks": [
+                {
+                  "title": "冬服に着替えたら",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%86%AC%E6%9C%8D%E3%81%AB%E7%9D%80%E6%9B%BF%E3%81%88%E3%81%9F%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%86%AC%E6%9C%8D%E3%81%AB%E7%9D%80%E6%9B%BF%E3%81%88%E3%81%9F%E3%82%89",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "逢おう空",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E9%80%A2%E3%81%8A%E3%81%86%E7%A9%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E9%80%A2%E3%81%8A%E3%81%86%E7%A9%BA",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "18歳最強説",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%2018%E6%AD%B3%E6%9C%80%E5%BC%B7%E8%AA%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%2018%E6%AD%B3%E6%9C%80%E5%BC%B7%E8%AA%AC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "茜色のラブレター",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E8%8C%9C%E8%89%B2%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E8%8C%9C%E8%89%B2%E3%81%AE%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC",
+                  "spotifyType": "search"
+                },
+                {
+                  "title": "君を名前で呼んだ日",
+                  "youtube": "https://www.youtube.com/results?search_query=STU48%20%E5%90%9B%E3%82%92%E5%90%8D%E5%89%8D%E3%81%A7%E5%91%BC%E3%82%93%E3%81%A0%E6%97%A5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/STU48%20%E5%90%9B%E3%82%92%E5%90%8D%E5%89%8D%E3%81%A7%E5%91%BC%E3%82%93%E3%81%A0%E6%97%A5",
+                  "spotifyType": "search"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoEditions": [],
+  "excluded": [],
+  "sources": [
+    {
+      "label": "Profilo e immagine ufficiali",
+      "url": "https://sp.stu48.com/feature/profile_fs"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://stu.kingrecords.co.jp/discography/index.html"
+    },
+    {
+      "label": "Sito ufficiale",
+      "url": "https://www.stu48.com/"
+    },
+    {
+      "label": "Apple Music JP · catalogo audio consultato",
+      "url": "https://music.apple.com/jp/artist/1234490758"
+    }
+  ]
+}
