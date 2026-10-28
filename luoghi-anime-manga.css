@@ -1,0 +1,70 @@
+/* Yume · Giappone attraverso anime e manga · 28.10.2026 */
+:root{--jp-ink:#e9edf8;--jp-muted:#aebbd0;--jp-mint:#91ddd0;--jp-peach:#ffc0bf;--jp-bg:#111729;--jp-card:#1c2438}
+body.jp-locations-page{background:radial-gradient(ellipse at top right,#292a4a 0,#111729 38%,#101626 100%);color:var(--jp-ink);min-height:100vh}
+.jp-locations-page a{scroll-margin-top:90px}
+.jp-locations-page .jp-main{max-width:1300px;width:90%;margin:0 auto 85px}
+.jp-location-hero{display:grid;grid-template-columns:1.06fr .94fr;min-height:390px;overflow:hidden;margin:32px 0 22px;border:1px solid #ffffff26;border-radius:21px;background:#20233e;position:relative}
+.jp-hero-content{padding:clamp(28px,5vw,68px);align-self:center;z-index:1;background:radial-gradient(circle at top left,#3b314b,#20243d 78%)}
+.jp-eyebrow{display:block;font-size:10px;letter-spacing:.24em;color:#d2aac7;text-transform:uppercase;font-weight:700;margin-bottom:15px}
+.jp-hero-content h1{font:600 clamp(37px,5.2vw,71px)/1.08 Outfit,sans-serif;letter-spacing:-.045em;margin:0 0 19px}
+.jp-hero-content h1 em{color:var(--jp-mint);font-weight:400;font-style:normal}
+.jp-hero-content p{color:#c3c9dd;line-height:1.8;font-size:15px;max-width:530px;margin:0}
+.jp-hero-picture{margin:0;min-width:0;position:relative;overflow:hidden;background:#2c3246}
+.jp-hero-picture img{width:100%;height:100%;position:absolute;inset:0;object-fit:cover;object-position:53% 55%}
+.jp-hero-picture figcaption{position:absolute;bottom:0;right:0;left:0;padding:32px 15px 14px;background:linear-gradient(transparent,#080d1dbd);text-align:right;color:white;font-size:11px}
+.jp-hero-picture figcaption a{color:#d7f6ee}
+.jp-stats{display:flex;gap:9px;flex-wrap:wrap;margin-top:22px}
+.jp-stats span{padding:9px 13px;border:1px solid #ffffff35;border-radius:999px;color:#dce8ee;background:#ffffff0a;font-size:12px}
+.jp-stats strong{color:var(--jp-mint);font:700 17px Outfit,sans-serif;margin-right:5px}
+.jp-introline{margin:14px 0 30px;max-width:910px;font-size:13px;line-height:1.85;color:var(--jp-muted)}
+.jp-introline a{color:#a4e6d9}
+.jp-controls{position:sticky;top:0;z-index:6;background:#151c2bf2;border:1px solid #ffffff27;border-radius:15px;backdrop-filter:blur(12px);padding:15px 17px;margin:24px 0 23px;box-shadow:0 7px 26px #080b1e48}
+.jp-search-row{display:grid;grid-template-columns:minmax(200px,1fr) auto auto;gap:10px;align-items:center}
+.jp-search{display:flex;align-items:center;background:#111828;border:1px solid #ffffff3b;border-radius:10px;padding:0 13px;gap:8px;color:#b9e9e0;min-height:41px}
+.jp-search:focus-within{outline:2px solid var(--jp-mint);outline-offset:2px}
+.jp-search input{border:0;background:transparent;color:#f8f9ff;outline:0;min-width:0;width:100%;font-size:13px;font-family:inherit}
+.jp-search input::placeholder{color:#99a9bf}
+.jp-controls select{min-width:148px;max-width:100%;border-radius:10px;padding:11px 12px;background:#20283c;border:1px solid #ffffff36;color:#f0f4f9;font:500 12px 'DM Sans',sans-serif;cursor:pointer}
+.jp-control-tabs{display:flex;gap:7px;flex-wrap:wrap;margin-top:11px}
+.jp-control-tabs button,.jp-reset{padding:8px 11px;border:1px solid #ffffff32;border-radius:100px;background:#1f283c;color:#cbd5e6;cursor:pointer;font:600 11px 'DM Sans',sans-serif;transition:background .15s}
+.jp-control-tabs button[aria-pressed="true"]{background:#b8f5e5;border-color:#b8f5e5;color:#153044}
+.jp-control-tabs button:hover,.jp-reset:hover{border-color:#b8f5e5}
+.jp-controls-summary{display:flex;gap:14px;align-items:center;justify-content:space-between;margin-top:11px;color:#abb8cc;font-size:11px}
+.jp-controls-summary strong{color:#edfcf8}
+.jp-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;align-items:stretch}
+.jp-place{background:linear-gradient(145deg,#1b2539,#1b2132);border:1px solid #ffffff20;border-radius:17px;overflow:hidden;display:flex;flex-direction:column;min-width:0;transition:transform .2s,border-color .2s}
+.jp-place:hover{transform:translateY(-4px);border-color:#91ddd08c}
+.jp-place[hidden]{display:none}
+.jp-place-media{height:210px;aspect-ratio:auto;overflow:hidden;position:relative;background:radial-gradient(circle at 30% 20%,#4b5474,#172238);display:grid;place-items:center}
+.jp-place-media img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s}
+.jp-place:hover .jp-place-media img{transform:scale(1.03)}
+.jp-place-media .jp-number{position:absolute;top:12px;left:12px;border-radius:6px;background:#101625cf;padding:6px 9px;font:700 11px Outfit,sans-serif;color:#e9f7f7;letter-spacing:.06em}
+.jp-placeholder{color:#bdc9dc;font-size:13px;padding:20px;text-align:center}
+.jp-place-body{padding:21px 21px 19px;display:flex;flex-direction:column;flex:1}
+.jp-place-tags{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-bottom:12px}
+.jp-place-tags span{display:inline-flex;border-radius:5px;background:#353c52;color:#d9e3f0;padding:5px 8px;font-size:10px;line-height:1.1}
+.jp-place-tags .jp-relation{background:#3b3c51;color:#f5c7df}
+.jp-place h2{font:600 clamp(19px,2vw,24px)/1.23 Outfit,sans-serif;letter-spacing:-.02em;margin:0 0 9px}
+.jp-place .jp-work{font-size:12px;color:var(--jp-mint);font-weight:650;line-height:1.5;margin:0 0 15px}
+.jp-place h3{font:700 10px/1.3 'DM Sans',sans-serif;letter-spacing:.12em;color:#e6b5cb;text-transform:uppercase;margin:12px 0 5px}
+.jp-place p{color:#c5cddd;font-size:12.5px;line-height:1.75;margin:0}
+.jp-story{margin:0 0 10px}
+.jp-story .jp-literary{color:#d1dbec}
+.jp-note{font-size:11px!important;color:#f1c9b1!important;background:#fff2cc0c;border-left:2px solid #dba885;padding:6px 9px;margin-top:10px!important}
+.jp-place-links{margin-top:auto;display:flex;gap:9px;flex-wrap:wrap;border-top:1px solid #ffffff1c;padding-top:14px}
+.jp-place-links a{display:inline-flex;align-items:center;gap:4px;color:#a3eadf;font:600 11px 'DM Sans',sans-serif;text-decoration:none;padding:2px 0}
+.jp-place-links a:last-child{color:#aebcce}
+.jp-place-links a:hover{text-decoration:underline}
+.jp-image-credit{font-size:10px!important;color:#8e9cb4!important;line-height:1.5!important;margin:13px 0 0!important}
+.jp-image-credit a{color:#b6bde1;text-decoration:underline;text-decoration-color:#ffffff40}
+.jp-image-credit a:hover{color:white}
+.jp-empty{padding:60px 25px;border:1px dashed #ffffff47;border-radius:15px;text-align:center;color:#e4e5f6}
+.jp-empty[hidden]{display:none}
+.jp-closing{margin:42px 0;border-top:1px solid #ffffff25;padding-top:25px;color:#b6c3d6;font:400 12.5px/1.9 'DM Sans',sans-serif}
+.jp-closing h2{font:600 22px Outfit,sans-serif;color:#f6edf5;margin:5px 0}
+.jp-closing a{color:#9bdfd4}
+.jp-location-home-link{display:inline-block;margin:12px 0 0;color:#a5dfd7;font-size:12px;text-decoration:none}
+.jp-location-home-link:hover{text-decoration:underline}
+@media(max-width:1000px){.jp-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}.jp-location-hero{min-height:340px}.jp-place-media{height:210px}}
+@media(max-width:680px){.jp-locations-page .jp-main{width:92%;margin-bottom:55px}.jp-location-hero{grid-template-columns:1fr;margin:18px 0 14px}.jp-hero-content{padding:28px 22px}.jp-hero-content h1{font-size:clamp(35px,9vw,50px)}.jp-hero-picture{height:180px;grid-row:1}.jp-hero-picture img{object-position:50% 45%}.jp-search-row{grid-template-columns:minmax(0,1fr) auto}.jp-search-row select{grid-column:1;grid-row:2}.jp-search-row select:last-child{grid-column:2;grid-row:2}.jp-controls{padding:12px;top:0}.jp-gallery{grid-template-columns:1fr;gap:13px}.jp-place-media{height:215px}.jp-place-body{padding:17px}.jp-control-tabs button{font-size:10px;padding:7px 9px}.jp-controls select{min-width:0;width:100%}.jp-stats{gap:6px}.jp-stats span{font-size:11px;padding:6px 9px}}
+@media(prefers-reduced-motion:reduce){.jp-place,.jp-place-media img{transition:none}.jp-place:hover{transform:none}.jp-place:hover .jp-place-media img{transform:none}}
