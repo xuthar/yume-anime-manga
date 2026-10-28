@@ -1,0 +1,843 @@
+{
+  "artist": "Jams Collection",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://pbs.twimg.com/media/HIv7uswbQAEUULr.jpg",
+  "members": [
+    {
+      "name": "Mizuki Tsushiro",
+      "japanese": "津代美月",
+      "bio": "Profilo delle componenti pubblicato dall'etichetta Tokuma Japan.",
+      "image": "",
+      "link": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    },
+    {
+      "name": "Lin Hoshina",
+      "japanese": "保科凜",
+      "bio": "Profilo delle componenti pubblicato dall'etichetta Tokuma Japan.",
+      "image": "",
+      "link": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    },
+    {
+      "name": "Sarara Minase",
+      "japanese": "水瀬さらら",
+      "bio": "Profilo delle componenti pubblicato dall'etichetta Tokuma Japan.",
+      "image": "",
+      "link": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    },
+    {
+      "name": "Ruka Okonogi",
+      "japanese": "小此木流花",
+      "bio": "Profilo delle componenti pubblicato dall'etichetta Tokuma Japan.",
+      "image": "",
+      "link": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    },
+    {
+      "name": "Tamaki Hanasaka",
+      "japanese": "花坂環",
+      "bio": "Profilo delle componenti pubblicato dall'etichetta Tokuma Japan.",
+      "image": "",
+      "link": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    },
+    {
+      "name": "Saku Kitano",
+      "japanese": "北乃咲久",
+      "bio": "Profilo delle componenti pubblicato dall'etichetta Tokuma Japan.",
+      "image": "",
+      "link": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    },
+    {
+      "name": "Komaki Mineshima",
+      "japanese": "峰島こまき",
+      "bio": "Profilo delle componenti pubblicato dall'etichetta Tokuma Japan.",
+      "image": "",
+      "link": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    }
+  ],
+  "albums": [
+    {
+      "id": "jams-collection-0",
+      "title": "JamMode",
+      "date": "2022-02-02",
+      "kind": "ep",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2022-02-02",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-1",
+      "title": "キケンなサンサンSummer！／ノーヒットノーラブ",
+      "date": "2022-07-13",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2022-07-13",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "キケンなサンサンSummer！",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%AD%E3%82%B1%E3%83%B3%E3%81%AA%E3%82%B5%E3%83%B3%E3%82%B5%E3%83%B3Summer%EF%BC%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%AD%E3%82%B1%E3%83%B3%E3%81%AA%E3%82%B5%E3%83%B3%E3%82%B5%E3%83%B3Summer%EF%BC%81"
+                },
+                {
+                  "title": "ノーヒットノーラブ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%8E%E3%83%BC%E3%83%92%E3%83%83%E3%83%88%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%96%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%8E%E3%83%BC%E3%83%92%E3%83%83%E3%83%88%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%96"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-2",
+      "title": "誰かのヒーローになれたなら",
+      "date": "2023-02-22",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2023-02-22",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "誰かのヒーローになれたなら",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E8%AA%B0%E3%81%8B%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%81%AA%E3%82%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E8%AA%B0%E3%81%8B%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%81%AA%E3%82%89"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-3",
+      "title": "Jam Vacation",
+      "date": "2023-09-27",
+      "kind": "ep",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2023-09-27",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-4",
+      "title": "冬空ラプソディー／トキメキNEW WORLD",
+      "date": "2024-02-21",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2024-02-21",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "冬空ラプソディー",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E5%86%AC%E7%A9%BA%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E5%86%AC%E7%A9%BA%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3%E3%83%BC"
+                },
+                {
+                  "title": "トキメキNEW WORLD",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%88%E3%82%AD%E3%83%A1%E3%82%ADNEW%20WORLD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%88%E3%82%AD%E3%83%A1%E3%82%ADNEW%20WORLD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-5",
+      "title": "ナツソラ",
+      "date": "2024-06-15",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2024-06-15",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "ナツソラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%8A%E3%83%84%E3%82%BD%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%8A%E3%83%84%E3%82%BD%E3%83%A9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-6",
+      "title": "LOVEです。",
+      "date": "2024-06-15",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2024-06-15",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "LOVEです。",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20LOVE%E3%81%A7%E3%81%99%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20LOVE%E3%81%A7%E3%81%99%E3%80%82"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-7",
+      "title": "涙、ふわり。",
+      "date": "2024-09-25",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2024-09-25",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "涙、ふわり。",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E6%B6%99%E3%80%81%E3%81%B5%E3%82%8F%E3%82%8A%E3%80%82%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E6%B6%99%E3%80%81%E3%81%B5%E3%82%8F%E3%82%8A%E3%80%82"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-8",
+      "title": "シンデレラマインド",
+      "date": "2025-03-01",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2025-03-01",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "シンデレラマインド",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-9",
+      "title": "剥がれたペンキ",
+      "date": "2025-05-25",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2025-05-25",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "剥がれたペンキ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E5%89%A5%E3%81%8C%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%82%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E5%89%A5%E3%81%8C%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%82%AD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-10",
+      "title": "FLAME",
+      "date": "2025-06-19",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2025-06-19",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "FLAME",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20FLAME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20FLAME"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-11",
+      "title": "サマーリボン",
+      "date": "2025-08-18",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2025-08-18",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "サマーリボン",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-12",
+      "title": "夏影のカンタービレ",
+      "date": "2025-09-01",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2025-09-01",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "夏影のカンタービレ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E5%A4%8F%E5%BD%B1%E3%81%AE%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E5%A4%8F%E5%BD%B1%E3%81%AE%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-13",
+      "title": "Jam Emotion",
+      "date": "2025-10-29",
+      "kind": "ep",
+      "note": "Due edizioni CD con scaletta documentata; la Type-C è presente nel catalogo ufficiale ma non ancora ricostruita in questa scheda.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Type-A · 2025-10-29",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release_detail/Jams.html?rid=18159",
+          "sourceLabel": "Tracklist ufficiale Tokuma Japan",
+          "discs": [
+            {
+              "label": "CD · Type-A",
+              "tracks": [
+                {
+                  "title": "Overture – Unstoppable –",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20Overture%20%E2%80%93%20Unstoppable%20%E2%80%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20Overture%20%E2%80%93%20Unstoppable%20%E2%80%93"
+                },
+                {
+                  "title": "サマーリボン",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3"
+                },
+                {
+                  "title": "シンデレラマインド",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89"
+                },
+                {
+                  "title": "FLAME",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20FLAME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20FLAME"
+                },
+                {
+                  "title": "恋してアホみたい",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E6%81%8B%E3%81%97%E3%81%A6%E3%82%A2%E3%83%9B%E3%81%BF%E3%81%9F%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E6%81%8B%E3%81%97%E3%81%A6%E3%82%A2%E3%83%9B%E3%81%BF%E3%81%9F%E3%81%84"
+                },
+                {
+                  "title": "夏影のカンタービレ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E5%A4%8F%E5%BD%B1%E3%81%AE%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E5%A4%8F%E5%BD%B1%E3%81%AE%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC"
+                },
+                {
+                  "title": "剥がれたペンキ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E5%89%A5%E3%81%8C%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%82%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E5%89%A5%E3%81%8C%E3%82%8C%E3%81%9F%E3%83%9A%E3%83%B3%E3%82%AD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Type-B · 2025-10-29",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release_detail/Jams.html?rid=18158",
+          "sourceLabel": "Tracklist ufficiale Tokuma Japan",
+          "discs": [
+            {
+              "label": "CD · Type-B",
+              "tracks": [
+                {
+                  "title": "Overture – Unstoppable –",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20Overture%20%E2%80%93%20Unstoppable%20%E2%80%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20Overture%20%E2%80%93%20Unstoppable%20%E2%80%93"
+                },
+                {
+                  "title": "サマーリボン",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%9C%E3%83%B3"
+                },
+                {
+                  "title": "シンデレラマインド",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89"
+                },
+                {
+                  "title": "FLAME",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20FLAME%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20FLAME"
+                },
+                {
+                  "title": "恋してアホみたい",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E6%81%8B%E3%81%97%E3%81%A6%E3%82%A2%E3%83%9B%E3%81%BF%E3%81%9F%E3%81%84%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E6%81%8B%E3%81%97%E3%81%A6%E3%82%A2%E3%83%9B%E3%81%BF%E3%81%9F%E3%81%84"
+                },
+                {
+                  "title": "夏影のカンタービレ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E5%A4%8F%E5%BD%B1%E3%81%AE%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E5%A4%8F%E5%BD%B1%E3%81%AE%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC"
+                },
+                {
+                  "title": "恋リハ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E6%81%8B%E3%83%AA%E3%83%8F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E6%81%8B%E3%83%AA%E3%83%8F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-14",
+      "title": "あこがれプリンセス",
+      "date": "2026-03-31",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2026-03-31",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "あこがれプリンセス",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%81%82%E3%81%93%E3%81%8C%E3%82%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%81%82%E3%81%93%E3%81%8C%E3%82%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-15",
+      "title": "アオノカケラ",
+      "date": "2026-07-31",
+      "kind": "single",
+      "note": "Data e tipologia verificate sul catalogo Tokuma Japan. La scaletta potrebbe essere incompleta; per le edizioni CD consultare la fonte ufficiale.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Pubblicazione · 2026-07-31",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+          "sourceLabel": "Catalogo ufficiale",
+          "discs": [
+            {
+              "label": "Tracce documentate (parziale)",
+              "tracks": [
+                {
+                  "title": "アオノカケラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jams-collection-16",
+      "title": "Jam Wonder",
+      "date": "2026-10-07",
+      "kind": "ep",
+      "note": "Tre edizioni CD con sei brani comuni e una traccia differente; un solo mini-album, tre scalette distinte.",
+      "source": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "trackSource": "https://www.tkma.co.jp/jpop_release/Jams.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Type-A · 2026-10-07",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release_detail/Jams.html?rid=19271",
+          "sourceLabel": "Tracklist ufficiale Tokuma Japan",
+          "discs": [
+            {
+              "label": "CD · Type-A",
+              "tracks": [
+                {
+                  "title": "レモネード・リプライ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4"
+                },
+                {
+                  "title": "アオノカケラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9"
+                },
+                {
+                  "title": "ファイヤライダー",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC"
+                },
+                {
+                  "title": "キミちゅき",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%AD%E3%83%9F%E3%81%A1%E3%82%85%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%AD%E3%83%9F%E3%81%A1%E3%82%85%E3%81%8D"
+                },
+                {
+                  "title": "オレンジ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
+                },
+                {
+                  "title": "恋愛ストリーム",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E6%81%8B%E6%84%9B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E6%81%8B%E6%84%9B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0"
+                },
+                {
+                  "title": "あこがれプリンセス",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%81%82%E3%81%93%E3%81%8C%E3%82%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%81%82%E3%81%93%E3%81%8C%E3%82%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Type-B · 2026-10-07",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release_detail/Jams.html?rid=19270",
+          "sourceLabel": "Tracklist ufficiale Tokuma Japan",
+          "discs": [
+            {
+              "label": "CD · Type-B",
+              "tracks": [
+                {
+                  "title": "レモネード・リプライ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4"
+                },
+                {
+                  "title": "アオノカケラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9"
+                },
+                {
+                  "title": "ファイヤライダー",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC"
+                },
+                {
+                  "title": "キミちゅき",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%AD%E3%83%9F%E3%81%A1%E3%82%85%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%AD%E3%83%9F%E3%81%A1%E3%82%85%E3%81%8D"
+                },
+                {
+                  "title": "オレンジ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
+                },
+                {
+                  "title": "恋愛ストリーム",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E6%81%8B%E6%84%9B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E6%81%8B%E6%84%9B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0"
+                },
+                {
+                  "title": "Go Fight Win!!",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20Go%20Fight%20Win!!%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20Go%20Fight%20Win!!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Type-C · 2026-10-07",
+          "cover": "",
+          "source": "https://www.tkma.co.jp/jpop_release_detail/Jams.html?rid=19269",
+          "sourceLabel": "Tracklist ufficiale Tokuma Japan",
+          "discs": [
+            {
+              "label": "CD · Type-C",
+              "tracks": [
+                {
+                  "title": "レモネード・リプライ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4"
+                },
+                {
+                  "title": "アオノカケラ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%A2%E3%82%AA%E3%83%8E%E3%82%AB%E3%82%B1%E3%83%A9"
+                },
+                {
+                  "title": "ファイヤライダー",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC"
+                },
+                {
+                  "title": "キミちゅき",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%AD%E3%83%9F%E3%81%A1%E3%82%85%E3%81%8D%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%AD%E3%83%9F%E3%81%A1%E3%82%85%E3%81%8D"
+                },
+                {
+                  "title": "オレンジ",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
+                },
+                {
+                  "title": "恋愛ストリーム",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E6%81%8B%E6%84%9B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E6%81%8B%E6%84%9B%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0"
+                },
+                {
+                  "title": "青春JAM",
+                  "youtube": "https://www.youtube.com/results?search_query=Jams%20Collection%20%E9%9D%92%E6%98%A5JAM%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Jams%20Collection%20%E9%9D%92%E6%98%A5JAM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale",
+      "url": "https://jamscollection.jp/"
+    },
+    {
+      "label": "Componenti — Tokuma Japan",
+      "url": "https://www.tkma.co.jp/jpop_profile/Jams.html"
+    },
+    {
+      "label": "Catalogo completo Tokuma Japan",
+      "url": "https://www.tkma.co.jp/jpop_release/Jams.html"
+    },
+    {
+      "label": "YouTube ufficiale",
+      "url": "https://www.youtube.com/c/jamscollection"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "17 titoli audio verificati dalla discografia Tokuma Japan, non un catalogo completo di tutti i brani e le confezioni fisiche. Sette componenti dal profilo dell'etichetta; la fotografia promozionale può riferirsi a una formazione storica."
+}
