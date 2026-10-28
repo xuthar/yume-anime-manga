@@ -1,0 +1,91 @@
+{
+  "artist": "OCHA NORMA",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://prcdn.freetls.fastly.net/release_image/68296/110/68296-110-e029258739f0d05b5edfd6cb7c690c77-3900x2619.jpg",
+  "members": [],
+  "albums": [
+    {
+      "id": "ocha-norma-0",
+      "title": "女の愛想は武器じゃない/学校では教えてくれないこと",
+      "date": "2025-08-27",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://helloproject.com/ochanorma/release/",
+      "trackSource": "https://helloproject.com/ochanorma/release/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2025-08-27",
+          "cover": "",
+          "source": "https://helloproject.com/ochanorma/release/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "女の愛想は武器じゃない/学校では教えてくれないこと",
+                  "youtube": "https://www.youtube.com/results?search_query=OCHA%20NORMA%20%E5%A5%B3%E3%81%AE%E6%84%9B%E6%83%B3%E3%81%AF%E6%AD%A6%E5%99%A8%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%2F%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%AF%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/OCHA%20NORMA%20%E5%A5%B3%E3%81%AE%E6%84%9B%E6%83%B3%E3%81%AF%E6%AD%A6%E5%99%A8%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%2F%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%AF%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ocha-norma-1",
+      "title": "ダントツで愛して/また、あなたに恋焦がれているんだ",
+      "date": "2026-07-08",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://helloproject.com/ochanorma/release/",
+      "trackSource": "https://helloproject.com/ochanorma/release/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-07-08",
+          "cover": "",
+          "source": "https://helloproject.com/ochanorma/release/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ダントツで愛して",
+                  "youtube": "https://www.youtube.com/results?search_query=OCHA%20NORMA%20%E3%83%80%E3%83%B3%E3%83%88%E3%83%84%E3%81%A7%E6%84%9B%E3%81%97%E3%81%A6%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/OCHA%20NORMA%20%E3%83%80%E3%83%B3%E3%83%88%E3%83%84%E3%81%A7%E6%84%9B%E3%81%97%E3%81%A6"
+                },
+                {
+                  "title": "また、あなたに恋焦がれているんだ",
+                  "youtube": "https://www.youtube.com/results?search_query=OCHA%20NORMA%20%E3%81%BE%E3%81%9F%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%81%8B%E7%84%A6%E3%81%8C%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%93%E3%81%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/OCHA%20NORMA%20%E3%81%BE%E3%81%9F%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%81%8B%E7%84%A6%E3%81%8C%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%93%E3%81%A0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito / profilo ufficiale",
+      "url": "https://helloproject.com/ochanorma/"
+    },
+    {
+      "label": "Catalogo e pubblicazioni",
+      "url": "https://helloproject.com/ochanorma/release/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "L'immagine 2026 proviene da un comunicato per un festival; l'organico esatto va ricontrollato sulla fonte ufficiale."
+}
