@@ -1,0 +1,62 @@
+{
+  "artist": "enon",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://enon-idol.com/images/hero.jpg",
+  "members": [
+    {
+      "name": "Tsukuyomi Honoka",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://enon-idol.com/members.html"
+    },
+    {
+      "name": "Ichinose Yuna",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://enon-idol.com/members.html"
+    },
+    {
+      "name": "Chiba Rin",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://enon-idol.com/members.html"
+    },
+    {
+      "name": "Sorano Fuwari",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://enon-idol.com/members.html"
+    },
+    {
+      "name": "Hoshie Mori",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://enon-idol.com/members.html"
+    }
+  ],
+  "albums": [],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito / profilo ufficiale",
+      "url": "https://enon-idol.com/"
+    },
+    {
+      "label": "Catalogo e pubblicazioni",
+      "url": "https://enon-idol.com/"
+    },
+    {
+      "label": "Profili delle componenti",
+      "url": "https://enon-idol.com/members.html"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Tutti e cinque i profili provengono dal sito ufficiale. Nessuna uscita audio con data verificabile è stata trovata, pertanto il catalogo iniziale non inventa singoli."
+}
