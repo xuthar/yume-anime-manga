@@ -1,0 +1,179 @@
+{
+  "artist": "≠ME",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://not-equal-me.kingrecords.co.jp/assets/images/mainimg/mainimg20240219.jpg",
+  "members": [
+    {
+      "name": "尾木波菜",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "落合希来里",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "蟹沢萌子",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "河口夏音",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "川中子奈月心",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "櫻井もも",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "鈴木瞳美",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "谷崎早耶",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "冨田菜々風",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "永田詩央里",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    },
+    {
+      "name": "本田珠由記",
+      "japanese": "",
+      "bio": "Componente documentata dalla fonte di formazione indicata; la composizione può cambiare.",
+      "image": "",
+      "link": "https://not-equal-me.jp/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "not-equal-me-0",
+      "date": "2025-12-10",
+      "title": "排他的ファイター",
+      "kind": "single",
+      "note": "Archivio parziale verificato al 28/10/2026. Le versioni fisiche e digitali possono avere tracce differenti: sono indicate solo le canzoni accertate. I collegamenti di ascolto avviano una ricerca.",
+      "source": "https://not-equal-me.jp/discography/",
+      "trackSource": "https://not-equal-me.jp/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione verificata · 2025-12-10",
+          "source": "https://not-equal-me.jp/discography/",
+          "sourceLabel": "Fonte della pubblicazione",
+          "cover": "",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "排他的ファイター",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%A0ME%20%E6%8E%92%E4%BB%96%E7%9A%84%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%A0ME%20%E6%8E%92%E4%BB%96%E7%9A%84%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "not-equal-me-1",
+      "date": "2026-06-24",
+      "title": "愛くださいませ/ここでファーストキッス",
+      "kind": "single",
+      "note": "Archivio parziale verificato al 28/10/2026. Le versioni fisiche e digitali possono avere tracce differenti: sono indicate solo le canzoni accertate. I collegamenti di ascolto avviano una ricerca.",
+      "source": "https://not-equal-me.jp/discography/detail/76/",
+      "trackSource": "https://not-equal-me.jp/discography/detail/76/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione verificata · 2026-06-24",
+          "source": "https://not-equal-me.jp/discography/detail/76/",
+          "sourceLabel": "Fonte della pubblicazione",
+          "cover": "",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "愛くださいませ",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%A0ME%20%E6%84%9B%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%9B%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%A0ME%20%E6%84%9B%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%9B"
+                },
+                {
+                  "title": "ここでファーストキッス",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%A0ME%20%E3%81%93%E3%81%93%E3%81%A7%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AD%E3%83%83%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%A0ME%20%E3%81%93%E3%81%93%E3%81%A7%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AD%E3%83%83%E3%82%B9"
+                },
+                {
+                  "title": "Summer haze",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%A0ME%20Summer%20haze%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%A0ME%20Summer%20haze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale",
+      "url": "https://not-equal-me.jp/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://not-equal-me.jp/discography/"
+    },
+    {
+      "label": "Profili e informazioni",
+      "url": "https://not-equal-me.jp/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Elenco delle undici componenti presenti nelle comunicazioni ufficiali delle attività del 2026, dopo l'uscita di Mirei Suganami. Immagine promozionale storica."
+}
