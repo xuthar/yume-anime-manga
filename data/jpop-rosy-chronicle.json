@@ -1,0 +1,91 @@
+{
+  "artist": "ROSY CHRONICLE",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://img.hmv.co.jp/hybridimage/news/images/26/0119/205/body_104139.jpeg",
+  "members": [],
+  "albums": [
+    {
+      "id": "rosy-chronicle-0",
+      "title": "Misery ～愛の天秤～/なんとかなるでしょ",
+      "date": "2026-03-18",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://helloproject.com/rosychronicle/release/",
+      "trackSource": "https://helloproject.com/rosychronicle/release/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-03-18",
+          "cover": "",
+          "source": "https://helloproject.com/rosychronicle/release/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "Misery ～愛の天秤～",
+                  "youtube": "https://www.youtube.com/results?search_query=ROSY%20CHRONICLE%20Misery%20%EF%BD%9E%E6%84%9B%E3%81%AE%E5%A4%A9%E7%A7%A4%EF%BD%9E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ROSY%20CHRONICLE%20Misery%20%EF%BD%9E%E6%84%9B%E3%81%AE%E5%A4%A9%E7%A7%A4%EF%BD%9E"
+                },
+                {
+                  "title": "なんとかなるでしょ",
+                  "youtube": "https://www.youtube.com/results?search_query=ROSY%20CHRONICLE%20%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%AA%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ROSY%20CHRONICLE%20%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%AA%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rosy-chronicle-1",
+      "title": "ニンミンフレンズ",
+      "date": "2026-07-18",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://helloproject.com/rosychronicle/release/",
+      "trackSource": "https://helloproject.com/rosychronicle/release/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-07-18",
+          "cover": "",
+          "source": "https://helloproject.com/rosychronicle/release/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ニンミンフレンズ",
+                  "youtube": "https://www.youtube.com/results?search_query=ROSY%20CHRONICLE%20%E3%83%8B%E3%83%B3%E3%83%9F%E3%83%B3%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ROSY%20CHRONICLE%20%E3%83%8B%E3%83%B3%E3%83%9F%E3%83%B3%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito / profilo ufficiale",
+      "url": "https://helloproject.com/rosychronicle/"
+    },
+    {
+      "label": "Catalogo e pubblicazioni",
+      "url": "https://helloproject.com/rosychronicle/release/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Ritratto pubblicato da HMV nel 2026; le componenti individuali restano da confrontare con la pagina Hello! Project aggiornata."
+}
