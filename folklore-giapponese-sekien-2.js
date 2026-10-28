@@ -1395,7 +1395,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Takarabune",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1425,7 +1425,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Chirizuka-kaiō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1455,7 +1455,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Fuguruma-yōhi",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1485,7 +1485,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Osakōburi",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1515,7 +1515,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Kutsutsura",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1545,7 +1545,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Bake-no-kawagoromo",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1575,7 +1575,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Kinutanuki",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1605,7 +1605,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Korōka",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1635,7 +1635,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Tenjōname",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1665,7 +1665,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Shirouneri",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1695,7 +1695,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Honekarakasa",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1725,7 +1725,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Shōgorō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1755,7 +1755,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Hossumori",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1785,7 +1785,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Sazae-oni",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1815,7 +1815,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Kurayarō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1845,7 +1845,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Abumiguchi",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1875,7 +1875,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Taimatsu-maru",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1905,7 +1905,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Burabura",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1935,7 +1935,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Kaichigo",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1965,7 +1965,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Kami-oni",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -1995,7 +1995,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Tsunohanzō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2025,7 +2025,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Fukuro-mujina",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2055,7 +2055,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Shamichōrō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2085,7 +2085,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Eritategoromo",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2115,7 +2115,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Kyōrinrin",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2145,7 +2145,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Nyūbachibō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2175,7 +2175,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Hyōtankozō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2205,7 +2205,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Mokugyodaruma",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2235,7 +2235,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Nyoijizai",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2265,7 +2265,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Hahakigami",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2295,7 +2295,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Minowaraji",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2325,7 +2325,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Menreiki",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2355,7 +2355,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Heiroku",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2385,7 +2385,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Ungaikyō",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2415,7 +2415,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Suzuhikohime",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2445,7 +2445,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Furu-utsubo",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2475,7 +2475,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Mukumukabaki",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2505,7 +2505,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Chokuboron",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2535,7 +2535,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Gotokuneko",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2565,7 +2565,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Narigama",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
@@ -2595,7 +2595,7 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "query": "Toriyama Sekien Yamaoroshi",
     "source": {
       "name": "Toriyama Sekien · elenco 1781 o 1784",
-      "url": "https://yokai.jp/en/collections/hyakki-tsurezure-bukuro"
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio del folklore",
