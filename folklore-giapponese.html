@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="it">
+<head>
+ <meta charset="utf-8"><meta name="robots" content="noindex">
+ <meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>Yōkai, fantasmi e leggende del Giappone · Yume</title>
+ <meta name="description" content="BEstiario illustrato del folklore giapponese: yōkai, yūrei, oni, kitsune, tengu, spiriti, fantasmi, tsukumogami e leggende urbane con storie e riferimenti storici.">
+ <meta name="theme-color" content="#111322">
+ <link rel="canonical" href="https://xuthar.github.io/yume-anime-manga/folklore-giapponese.html">
+ <link rel="icon" href="favicon.svg">
+ <link rel="stylesheet" href="style.css?v=20261025-privacy">
+ <link rel="stylesheet" href="world-clocks.css?v=20261026-compact">
+ <link rel="stylesheet" href="folklore-giapponese.css?v=20261028">
+ <script src="world-clocks.js?v=20261022" defer></script>
+ <script src="folklore-giapponese-data.js?v=20261028" defer></script>
+ <script src="folklore-giapponese.js?v=20261028" defer></script>
+</head>
+<body class="yokai-page">
+ <a class="skip" href="#yokai-main">Vai al bestiario</a>
+ <header>
+   <a class="brand" href="index.html" aria-label="Yume homepage"><span class="mark">夢</span><span>yume<span class="brand-dot">.</span><small>ANIME &amp; MANGA</small></span></a>
+   <nav aria-label="Menu principale"><a href="index.html">Esplora</a><a href="libreria.html#anime">Anime</a><a href="libreria.html#manga">Manga</a><a href="seasons.html">Seasons</a><a href="mie-liste.html">Le mie liste</a><a href="uscite-manga.html">Uscite manga</a><a href="calendario-anime.html">Episodi anime</a><a href="jpop.html">J-pop</a><a href="tv-giapponese.html">TV e Radio Giappone</a></nav>
+   <a class="nav-cta" href="index.html">Home ↗</a>
+ </header>
+ <aside class="world-clocks" aria-label="Ora in Italia e Giappone"></aside>
+ <main class="yokai-main" id="yokai-main">
+  <a href="index.html" class="yokai-back">← Torna alla home di Yume</a>
+  <section class="yokai-hero" aria-labelledby="yokai-heading">
+   <div class="yokai-hero-copy">
+    <span class="yokai-eyebrow">百鬼夜行 · IL MONDO NASCOSTO DEL GIAPPONE</span>
+    <h1>Yōkai,<br>fantasmi e <em>leggende.</em></h1>
+    <p>Un viaggio nell'immaginario soprannaturale giapponese, fra creature dei fiumi, spiriti dei boschi, demoni, oggetti incantati e fantasmi senza pace. Le storie tramandate per secoli, raccontate attraverso l'arte, il teatro e la cultura popolare.</p>
+    <div class="yokai-stats"><span><strong id="yokai-total">104</strong> creature e racconti</span><span><strong id="yokai-categories">11</strong> categorie</span><span><strong>1776</strong> l'atlante di Sekien</span></div>
+   </div>
+   <figure class="yokai-hero-art">
+     <img src="https://images.metmuseum.org/CRDImages/as/original/2013_803_21.jpg" alt="Illustrazione storica del 1781 dal libro illustrato di yōkai di Toriyama Sekien, con figure soprannaturali" fetchpriority="high" decoding="async" onerror="this.hidden=true">
+     <figcaption>Toriyama Sekien · <i>Hyakki shūi</i> (1781), Metropolitan Museum of Art · <a href="https://www.metmuseum.org/art/collection/search/78693" target="_blank" rel="noopener noreferrer">Opera originale, pubblico dominio ↗</a></figcaption>
+   </figure>
+  </section>
+  <p class="yokai-lede"><strong>Non sono tutti «demoni».</strong> La parola 妖怪 (*yōkai*) indica una grande famiglia di presenze, esseri ed eventi misteriosi. Gli <strong>yūrei</strong> sono spiriti dei morti, gli <strong>oni</strong> esseri spesso minacciosi, i <strong>tsukumogami</strong> oggetti diventati animati, mentre i <strong>kami</strong> appartengono alla sfera dei culti e dei miti. Le distinzioni possono sovrapporsi. Qui le storie vengono presentate come <strong>tradizioni, leggende e narrazioni</strong>, non come fatti soprannaturali accertati.</p>
+  <section class="yokai-eras" aria-label="Breve storia del folklore soprannaturale giapponese">
+   <article class="yokai-era"><span class="year">VIII–XII secolo</span><h2>Miti e corte Heian</h2><p>Il <i>Kojiki</i>, il <i>Nihon Shoki</i> e le raccolte medievali trasmettono dèi, prodigi, spiriti e racconti moralizzanti.</p></article>
+   <article class="yokai-era"><span class="year">XIV–XVI secolo</span><h2>Rotoli e teatro</h2><p>Gli <i>emaki</i> della parata notturna, il nō e le fiabe danno corpi e forme ai mostri che prima erano soprattutto presenze.</p></article>
+   <article class="yokai-era"><span class="year">1603–1868</span><h2>Lo splendore Edo</h2><p>Stampe, giochi di cento racconti e libri illustrati diffondono gli yōkai. Il <i>Gazu Hyakki Yagyō</i> di Sekien è del 1776.</p></article>
+   <article class="yokai-era"><span class="year">XX–XXI secolo</span><h2>Folklore e città</h2><p>Studiosi come Yanagita e artisti come Mizuki rinnovano il patrimonio; nascono anche leggende scolastiche e storie diffuse su internet.</p></article>
+  </section>
+  <section class="yokai-searchtools" aria-label="Filtri dell'enciclopedia">
+    <div class="yokai-queryrow">
+      <label class="yokai-search" for="yokai-search">⌕ <input type="search" id="yokai-search" placeholder="Cerca nome, creatura, leggenda, luogo…" autocomplete="off"></label>
+      <select id="yokai-type" class="yokai-classification" aria-label="Filtra per epoca e tipo di tradizione">
+        <option value="all">Tutte le tradizioni</option><option value="traditional">Folklore tradizionale</option><option value="myth">Miti e figure sacre</option><option value="modern">Leggende urbane moderne</option>
+      </select>
+    </div>
+    <div id="yokai-tabs" class="yokai-tabs" role="group" aria-label="Categorie di mostri e spiriti"></div>
+    <div class="yokai-tools-bottom"><span role="status" aria-live="polite" id="yokai-count">104 voci</span><button id="yokai-reset" class="yokai-clear" type="button">Azzera i filtri ↻</button></div>
+  </section>
+  <section id="yokai-grid" class="yokai-grid" aria-label="Schede del folklore giapponese"></section>
+  <p class="yokai-empty" id="yokai-empty" hidden>Nessuna creatura trovata. Cerca un'altra parola o cambia categoria.</p>
+  <noscript><p class="yokai-empty">Abilita JavaScript per esplorare tutte le schede e vedere le illustrazioni.</p></noscript>
+  <section class="yokai-notes" aria-labelledby="yokai-notes-title">
+   <span class="yokai-eyebrow">FONTI · ARTE · STORIA</span>
+   <h2 id="yokai-notes-title">La storia dietro l'immagine</h2>
+   <p>Questo bestiario è una <strong>selezione editoriale di 104 figure, varianti e motivi narrativi</strong>, non un elenco esaustivo: le tradizioni locali giapponesi sono migliaia e cambiano fra epoche e comunità. Alcune creature sono antichissime, altre sono invenzioni iconografiche di artisti Edo o leggende moderne. Quando un'origine è dibattuta, la scheda non pretende di fissare una versione definitiva.</p>
+   <p>Il punto di partenza delle illustrazioni storiche è il <i>Gazu Hyakki Yagyō</i> (1776), che diede una forma riconoscibile a molte presenze. La <a href="https://www.ndl.go.jp/en/imagebank/column/sekienyokai" target="_blank" rel="noopener noreferrer">Biblioteca Nazionale giapponese</a> documenta queste opere e le successive. Per il contesto accademico e le varianti regionali è fondamentale il database <a href="https://www.nichibun.ac.jp/en/db/category/yokai/" target="_blank" rel="noopener noreferrer">Nichibunken</a>, basato sulla letteratura folklorica.</p>
+   <div class="yokai-note-links">
+      <a href="https://www.ndl.go.jp/en/imagebank/column/sekienyokai" target="_blank" rel="noopener noreferrer">Biblioteca Nazionale del Giappone ↗</a>
+      <a href="https://www.nichibun.ac.jp/en/db/category/yokai/" target="_blank" rel="noopener noreferrer">Database universitario Nichibunken ↗</a>
+      <a href="https://www.metmuseum.org/art/collection/search/78693" target="_blank" rel="noopener noreferrer">Sekien al Metropolitan Museum ↗</a>
+      <a href="https://catalogo.museidigenova.it/oggetti/2572-hyakki-yagyo-serie-parata-notturna-dei-cento-demoni?i=0" target="_blank" rel="noopener noreferrer">Musei di Genova · Parata notturna ↗</a>
+      <a href="https://www.nippon.com/en/japan-topics/g02276/" target="_blank" rel="noopener noreferrer">Studio sugli oni ↗</a>
+      <a href="https://www.bookmark.jpf.go.jp/media/2024/10/JBNPDF53.pdf" target="_blank" rel="noopener noreferrer">Japan Foundation · Yōkai ↗</a>
+   </div>
+   <p><strong>Immagini e diritti:</strong> le schede cercano, dove disponibile, una stampa o illustrazione pertinente tramite Wikimedia Commons e Wikipedia. Ciascuna immagine caricata ha un collegamento alla pagina di origine per verificare autore e licenza. Non riproduciamo tavole o illustrazioni contemporanee protette senza autorizzazione. Quando non c'è un'immagine adeguata, viene mostrato un segnaposto calligrafico. Le fotografie e illustrazioni delle fonti esterne possono cambiare o non caricarsi.</p>
+   <p>La presentazione segue criteri storico-culturali: non afferma che creature o apparizioni soprannaturali esistano. Redazione iniziale: 28 ottobre 2026.</p>
+   <p><a href="index.html">← Torna alla home di Yume</a> · <a href="luoghi-anime-manga.html">Luoghi degli anime</a> · <a href="cucina-giapponese.html">Cucina giapponese</a> · <a href="giappone-da-visitare.html">Viaggiare in Giappone</a></p>
+  </section>
+ </main>
+ <footer><a class="footer-brand" href="index.html">yume<span class="brand-dot">.</span></a><p>La libreria personale di Xuthar.</p><span>百鬼夜行 · LEGGENDE DAL GIAPPONE ✦</span><nav class="legal-links" aria-label="Altre sezioni di Yume"><a href="index.html">Home</a><a href="luoghi-anime-manga.html">Luoghi anime</a><a href="cucina-giapponese.html">Cucina</a><a href="giappone-da-visitare.html">Viaggi</a><a href="privacy.html">Privacy</a></nav></footer>
+</body>
+</html>
