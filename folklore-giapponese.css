@@ -1,0 +1,78 @@
+/* Yume · Bestiario del Giappone soprannaturale, 2026-10-28 */
+:root{--yk-bg:#101223;--yk-ink:#f3eaf1;--yk-muted:#c2bacb;--yk-accent:#e9b8d1;--yk-mint:#a9ded4}
+body.yokai-page{min-height:100vh;background:radial-gradient(ellipse 65% 40% at 100% 0,#37243d 0,#111322 75%),#111322;color:var(--yk-ink)}
+.yokai-main{max-width:1310px;width:90%;margin:18px auto 80px}
+.yokai-back{display:inline-flex;gap:5px;padding:8px 0;color:#9fe6d9;text-decoration:none;font-size:12px}
+.yokai-hero{min-height:395px;display:grid;grid-template-columns:1.08fr .92fr;border-radius:20px;overflow:hidden;background:#272037;border:1px solid #ffffff29;margin:17px 0 24px;box-shadow:0 24px 70px #08091269}
+.yokai-hero-copy{padding:clamp(28px,5vw,63px);align-self:center;background:radial-gradient(ellipse at 20% 5%,#4b2f4f,#222338)}
+.yokai-eyebrow{display:block;font:750 10px/1.5 'DM Sans',sans-serif;letter-spacing:.21em;color:#e2b4d8;text-transform:uppercase}
+.yokai-hero h1{font:650 clamp(38px,5.2vw,70px)/1.08 Outfit,sans-serif;letter-spacing:-.05em;margin:16px 0 19px}
+.yokai-hero h1 em{font-style:normal;color:#f4c3d9}
+.yokai-hero p{font:400 14px/1.85 'DM Sans',sans-serif;max-width:580px;color:#e1d6e3}
+.yokai-hero-art{margin:0;position:relative;min-height:270px;overflow:hidden;background:#c9ae83}
+.yokai-hero-art img{width:100%;height:100%;position:absolute;inset:0;object-fit:cover;object-position:56% 46%;filter:sepia(.2) contrast(1.04);display:block}
+.yokai-hero-art figcaption{position:absolute;right:0;left:0;bottom:0;background:linear-gradient(transparent,#100b16da);color:#fff;font-size:10px;line-height:1.6;padding:30px 15px 13px;text-align:right}
+.yokai-hero-art a{color:#efffe9}
+.yokai-stats{display:flex;gap:9px;flex-wrap:wrap;margin-top:22px}
+.yokai-stats span{border:1px solid #f5e0f54f;border-radius:100px;background:#ffffff09;padding:7px 12px;font-size:11px;color:#eadfea}
+.yokai-stats strong{font:700 19px Outfit,sans-serif;color:#b9f8e8;margin-right:6px}
+.yokai-lede{max-width:1060px;margin:16px 0 30px;font:400 13px/1.85 'DM Sans',sans-serif;color:#c2bfd1}
+.yokai-lede strong{color:#f2c7d8}
+.yokai-eras{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:20px 0 33px}
+.yokai-era{border:1px solid #ffffff26;background:linear-gradient(145deg,#2e2a41,#1e2536);padding:15px;border-radius:10px}
+.yokai-era .year{font:750 11px 'DM Sans',sans-serif;color:#eec4df;margin-bottom:7px;display:block}
+.yokai-era h2{font:600 17px Outfit,sans-serif;margin:0 0 8px}
+.yokai-era p{font:400 11.5px/1.75 'DM Sans',sans-serif;color:#d2c9d8;margin:0}
+.yokai-searchtools{position:sticky;top:0;z-index:9;background:#151a2cf3;backdrop-filter:blur(15px);border:1px solid #ffffff3a;border-radius:14px;margin:12px 0 22px;padding:13px 15px}
+.yokai-queryrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.yokai-search{flex:1 1 220px;display:flex;align-items:center;background:#12182a;border-radius:9px;padding:0 13px;min-height:43px;border:1px solid #ffffff33;color:#c8d3de}
+.yokai-search:focus-within{outline:2px solid #a8e5db}
+.yokai-search input{font:400 13px 'DM Sans',sans-serif;color:#f7eff9;width:100%;outline:none;border:0;background:transparent}
+.yokai-search input::placeholder{color:#a2a9be}
+.yokai-classification{border-radius:9px;border:1px solid #ffffff33;background:#2a2d45;color:#e4e5f3;font:500 12px 'DM Sans',sans-serif;min-height:43px;padding:0 10px;min-width:160px}
+.yokai-tabs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;padding:4px 0 8px;margin:7px 0 0}
+.yokai-tabs button,.yokai-clear{flex:none;cursor:pointer;white-space:nowrap;padding:7px 11px;border-radius:20px;border:1px solid #ffffff32;background:#292c45;color:#e0d9e5;font:600 11px 'DM Sans',sans-serif}
+.yokai-tabs button:hover,.yokai-clear:hover{border-color:#e2b4d8}
+.yokai-tabs button[aria-pressed=true]{background:#f5cce0;color:#39243a;border-color:#f5cce0}
+.yokai-tools-bottom{display:flex;gap:12px;justify-content:space-between;align-items:center;margin-top:5px;font:500 11px 'DM Sans',sans-serif;color:#b7bccc}
+.yokai-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:17px;align-items:stretch}
+.yokai-card{min-width:0;display:flex;flex-direction:column;border:1px solid #ffffff29;border-radius:16px;overflow:hidden;background:linear-gradient(155deg,#242a40,#201e31);transition:border-color .18s,transform .18s}
+.yokai-card:hover{transform:translateY(-3px);border-color:#f7c4dd6c}
+.yokai-card[hidden]{display:none!important}
+.yokai-picture{height:230px;position:relative;overflow:hidden;display:grid;place-items:center;background:radial-gradient(ellipse at 50% 25%,#b59c80,#6d5b60 55%,#2f263a)}
+.yokai-picture img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#e3d7bc;filter:sepia(.11);display:block}
+.yokai-picture .yokai-fallback{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:7px;position:absolute;inset:0;padding:13px;text-align:center;color:#fce5ef}
+.yokai-symbol{font:500 clamp(58px,7vw,85px)/1.2 serif;opacity:.75;text-shadow:0 4px 30px #180b24}
+.yokai-fallback small{font:500 10px 'DM Sans',sans-serif;opacity:.8}
+.yokai-seal{position:absolute;top:12px;left:12px;z-index:1;border-radius:6px;background:#151629d9;padding:6px 9px;color:#e9f3f3;font:650 10px 'DM Sans',sans-serif}
+.yokai-content{flex:1;display:flex;flex-direction:column;padding:19px}
+.yokai-labels{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 11px}
+.yokai-labels span{display:inline-flex;font:600 10px/1.3 'DM Sans',sans-serif;border-radius:5px;background:#41405b;color:#f0d5e3;padding:5px 7px}
+.yokai-labels span:last-child{background:#2c4a4c;color:#bceadb}
+.yokai-card h2{font:650 clamp(20px,2vw,25px)/1.2 Outfit,sans-serif;letter-spacing:-.03em;margin:0 0 6px}
+.yokai-kanji{font:500 17px serif;color:#ffd3e2;margin:0 0 11px}
+.yokai-description{font:400 12.5px/1.75 'DM Sans',sans-serif;color:#e0dbe5;margin:0 0 12px}
+.yokai-era-label{font:400 11px/1.7 'DM Sans',sans-serif;color:#b8b9d1;margin:0 0 11px}
+.yokai-era-label strong{color:#efd6e5}
+.yokai-story{margin-top:auto;border-top:1px solid #ffffff26;padding-top:12px}
+.yokai-story summary{display:flex;justify-content:space-between;gap:12px;align-items:center;cursor:pointer;list-style:none;color:#a9e9d9;font:650 12px 'DM Sans',sans-serif}
+.yokai-story summary::-webkit-details-marker{display:none}
+.yokai-story summary:after{content:'＋';font-size:18px}
+.yokai-story[open] summary:after{content:'−'}
+.yokai-story h3{font:700 10px/1.4 'DM Sans',sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#eac1d4;margin:15px 0 5px}
+.yokai-story p{font:400 12px/1.8 'DM Sans',sans-serif;color:#dce0ee;margin:0 0 7px}
+.yokai-story .yokai-caveat{color:#c3b9c5;font-size:11px}
+.yokai-links{display:flex;gap:10px;flex-wrap:wrap;border-top:1px solid #ffffff20;padding-top:11px;margin-top:15px}
+.yokai-links a{font:600 10.5px/1.5 'DM Sans',sans-serif;color:#b1e9de;text-decoration:none}
+.yokai-links a:hover{text-decoration:underline}
+.yokai-links a.yokai-credit{color:#d2c3dc}
+.yokai-empty{border:1px dashed #ffffff3d;border-radius:13px;text-align:center;padding:50px 20px;color:#d5cadd}
+.yokai-empty[hidden]{display:none}
+.yokai-notes{margin-top:38px;border-top:1px solid #ffffff33;padding:28px 0;color:#c8c5d4;font:400 12px/1.9 'DM Sans',sans-serif}
+.yokai-notes h2{font:600 25px Outfit,sans-serif;color:#f7e5f2;margin:5px 0}
+.yokai-notes a{color:#a9eada}
+.yokai-note-links{display:flex;gap:12px 20px;flex-wrap:wrap}
+.yokai-note-links a{display:inline-flex;gap:4px}
+@media(max-width:1030px){.yokai-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.yokai-eras{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:665px){.yokai-main{width:92%;margin:10px auto 50px}.yokai-hero{grid-template-columns:1fr;min-height:0}.yokai-hero-art{grid-row:1;min-height:175px}.yokai-hero-copy{padding:27px 22px}.yokai-hero h1{font-size:clamp(36px,9vw,50px)}.yokai-eras{gap:8px}.yokai-era{padding:12px}.yokai-era h2{font-size:15px}.yokai-searchtools{position:relative;padding:11px}.yokai-classification{min-width:0;width:100%}.yokai-grid{grid-template-columns:1fr;gap:13px}.yokai-picture{height:235px}.yokai-content{padding:17px}}
+@media(prefers-reduced-motion:reduce){.yokai-card{transition:none}.yokai-card:hover{transform:none}}
