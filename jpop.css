@@ -27,3 +27,10 @@
 .music-piggs{--music-accent:#e9a0c1}.music-piggs .music-hero>img{object-position:center 30%}.music-piggs .music-hero:after{background:linear-gradient(90deg,#131524 0%,#131524e8 27%,#1315241a 68%),linear-gradient(0deg,#131524,transparent 45%)}.music-piggs .member-portrait{height:350px}.music-piggs .member-portrait img{object-position:center top}@media(max-width:650px){.music-piggs .music-hero:after{display:none}.music-piggs .member-portrait{height:280px}}
 
 .music-uru{--music-accent:#b6d9d6}.music-uru .music-hero>img{object-position:center 35%}.music-uru .music-hero:after{background:linear-gradient(90deg,#131524 0%,#131524e8 28%,#13152408 65%),linear-gradient(0deg,#131524,transparent 50%)}@media(max-width:650px){.music-uru .music-hero:after{display:none}}
+
+/* Graceful fallback for external images across every artist page */
+.yume-cover-fallback{display:grid;place-items:center;min-height:95px;width:100%;height:100%;background:radial-gradient(circle at 20% 15%,#53496c,#202438);color:#e9d4fa;font:700 38px Outfit,sans-serif}
+.music-hero--no-photo{background:radial-gradient(ellipse at 70% 30%,#5d4b7d,#202236 68%)}
+.music-hero--no-photo .music-hero-text{max-width:920px}
+.music-new-idols .music-hero--no-photo{display:flex;align-items:end}
+.music-new-idols .music-hero--no-photo .music-hero-text{max-width:900px}
