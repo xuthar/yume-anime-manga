@@ -4,16 +4,19 @@
  <meta charset="utf-8"><meta name="robots" content="noindex">
  <meta name="viewport" content="width=device-width,initial-scale=1">
  <title>Yōkai, fantasmi e leggende del Giappone · Yume</title>
- <meta name="description" content="BEstiario illustrato del folklore giapponese: yōkai, yūrei, oni, kitsune, tengu, spiriti, fantasmi, tsukumogami e leggende urbane con storie e riferimenti storici.">
+ <meta name="description" content="Bestiario illustrato del folklore giapponese: yōkai, yūrei, oni, kitsune, tengu, spiriti, fantasmi, tsukumogami e leggende urbane con storie e riferimenti storici.">
  <meta name="theme-color" content="#111322">
  <link rel="canonical" href="https://xuthar.github.io/yume-anime-manga/folklore-giapponese.html">
  <link rel="icon" href="favicon.svg">
  <link rel="stylesheet" href="style.css?v=20261025-privacy">
  <link rel="stylesheet" href="world-clocks.css?v=20261026-compact">
- <link rel="stylesheet" href="folklore-giapponese.css?v=20261028">
+ <link rel="stylesheet" href="folklore-giapponese.css?v=20261028-large">
  <script src="world-clocks.js?v=20261022" defer></script>
  <script src="folklore-giapponese-data.js?v=20261028" defer></script>
- <script src="folklore-giapponese.js?v=20261028" defer></script>
+ <script src="folklore-giapponese-sekien-1.js?v=20261028" defer></script>
+ <script src="folklore-giapponese-sekien-2.js?v=20261028" defer></script>
+ <script src="folklore-giapponese-regioni.js?v=20261028" defer></script>
+ <script src="folklore-giapponese-v2.js?v=20261028" defer></script>
 </head>
 <body class="yokai-page">
  <a class="skip" href="#yokai-main">Vai al bestiario</a>
@@ -30,7 +33,7 @@
     <span class="yokai-eyebrow">百鬼夜行 · IL MONDO NASCOSTO DEL GIAPPONE</span>
     <h1>Yōkai,<br>fantasmi e <em>leggende.</em></h1>
     <p>Un viaggio nell'immaginario soprannaturale giapponese, fra creature dei fiumi, spiriti dei boschi, demoni, oggetti incantati e fantasmi senza pace. Le storie tramandate per secoli, raccontate attraverso l'arte, il teatro e la cultura popolare.</p>
-    <div class="yokai-stats"><span><strong id="yokai-total">104</strong> creature e racconti</span><span><strong id="yokai-categories">11</strong> categorie</span><span><strong>1776</strong> l'atlante di Sekien</span></div>
+    <div class="yokai-stats"><span><strong id="yokai-total">340</strong> creature e racconti</span><span><strong id="yokai-categories">15</strong> categorie</span><span><strong>1776</strong> l'atlante di Sekien</span></div>
    </div>
    <figure class="yokai-hero-art">
      <img src="https://images.metmuseum.org/CRDImages/as/original/2013_803_21.jpg" alt="Illustrazione storica del 1781 dal libro illustrato di yōkai di Toriyama Sekien, con figure soprannaturali" fetchpriority="high" decoding="async" onerror="this.hidden=true">
@@ -41,26 +44,50 @@
   <section class="yokai-eras" aria-label="Breve storia del folklore soprannaturale giapponese">
    <article class="yokai-era"><span class="year">VIII–XII secolo</span><h2>Miti e corte Heian</h2><p>Il <i>Kojiki</i>, il <i>Nihon Shoki</i> e le raccolte medievali trasmettono dèi, prodigi, spiriti e racconti moralizzanti.</p></article>
    <article class="yokai-era"><span class="year">XIV–XVI secolo</span><h2>Rotoli e teatro</h2><p>Gli <i>emaki</i> della parata notturna, il nō e le fiabe danno corpi e forme ai mostri che prima erano soprattutto presenze.</p></article>
-   <article class="yokai-era"><span class="year">1603–1868</span><h2>Lo splendore Edo</h2><p>Stampe, giochi di cento racconti e libri illustrati diffondono gli yōkai. Il <i>Gazu Hyakki Yagyō</i> di Sekien è del 1776.</p></article>
+   <article class="yokai-era"><span class="year">1603–1868</span><h2>Lo splendore Edo</h2><p>Stampe, giochi di cento racconti e libri illustrati diffondono gli yōkai. Il <i>Gazu Hyakki Yagyō</i> di Sekien è del 1776: i successivi cataloghi illustrati sono del 1779, 1781 e 1784.</p></article>
    <article class="yokai-era"><span class="year">XX–XXI secolo</span><h2>Folklore e città</h2><p>Studiosi come Yanagita e artisti come Mizuki rinnovano il patrimonio; nascono anche leggende scolastiche e storie diffuse su internet.</p></article>
   </section>
-  <section class="yokai-searchtools" aria-label="Filtri dell'enciclopedia">
+<section class="yokai-guide" aria-labelledby="yokai-guide-heading">
+   <div class="yokai-guide-heading"><span class="yokai-eyebrow">QUATTRO STRADE PER ENTRARE NELLA NOTTE</span><h2 id="yokai-guide-heading">Un’enciclopedia da esplorare.</h2><p>Questa raccolta include creature, tradizioni, riti e racconti: non tutti i nomi indicano una specie di mostro e molte storie hanno origini e varianti differenti.</p></div>
+   <div class="yokai-guide-grid">
+    <article class="yokai-guide-card"><span>01 · 1776–1784</span><h3>L'atelier di Toriyama Sekien</h3><p>Quattro cataloghi Edo riuniscono animali misteriosi, fantasmi, scherzi linguistici e strumenti animati. Sekien non si limita a raccogliere: trasforma i racconti in un linguaggio visivo, talvolta creando figure nuove.</p><button type="button" data-yokai-category="Oggetti animati">Esplora gli oggetti viventi ↗</button></article>
+    <article class="yokai-guide-card"><span>02 · MONACI, DEI E OMBRE</span><h3>La paura e la devozione</h3><p>Un morto ingiustamente trattato può diventare uno spirito inquieto, ma anche ricevere culto e placazione. Per questo gli onryō, i kami e gli spiriti buddhisti non sono semplici «demoni» intercambiabili.</p><button type="button" data-yokai-category="Fantasmi e yūrei">Scopri i fantasmi ↗</button></article>
+    <article class="yokai-guide-card"><span>03 · ISOLE E REGIONI</span><h3>Oltre la capitale</h3><p>Ogni costa, montagna e isola custodisce racconti differenti. La guida include il folklore delle Ryūkyū e le tradizioni Ainu, presentate come patrimoni culturali specifici, non come varianti indistinte del mondo Edo.</p><button type="button" data-yokai-category="Tradizioni Ryūkyū">Viaggia nelle isole ↗</button></article>
+    <article class="yokai-guide-card"><span>04 · MEIJI–OGGI</span><h3>Le nuove paure</h3><p>Scuole, treni e forum internet hanno prodotto spettri moderni. Kuchisake-onna, Hanako-san e Kisaragi Station parlano del loro tempo, proprio come i kaidan del periodo Edo parlavano delle sue strade.</p><button type="button" data-yokai-category="Leggende urbane moderne">Leggende contemporanee ↗</button></article>
+   </div>
+  </section>
+  <section class="yokai-illustrated-shelf" aria-labelledby="yokai-shelf-heading">
+    <div class="yokai-guide-heading"><span class="yokai-eyebrow">ARCHIVIO D'ARTE · EDO</span><h2 id="yokai-shelf-heading">Le creature viste dagli artisti.</h2><p>Una piccola galleria di stampe storiche di Toriyama Sekien, oggi nel pubblico dominio. La singola scheda di Wikimedia Commons indica provenienza e dettagli dell'immagine.</p></div>
+    <div class="yokai-art-strip">
+      <figure><a href="https://commons.wikimedia.org/wiki/File:Sekien_Ubagabi.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sekien_Ubagabi.jpg?width=520" loading="lazy" alt="Ubagabi, illustrazione di Toriyama Sekien del 1776"><figcaption>Ubagabi <span>姥ヶ火</span></figcaption></a></figure>
+      <figure><a href="https://commons.wikimedia.org/wiki/File:SekienOuni.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/SekienOuni.jpg?width=520" loading="lazy" alt="Ouni, creatura dei boschi illustrata da Toriyama Sekien"><figcaption>Ouni <span>苧うに</span></figcaption></a></figure>
+      <figure><a href="https://commons.wikimedia.org/wiki/File:Sekien_Sogenbi.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sekien_Sogenbi.jpg?width=520" loading="lazy" alt="Sōgenbi, fuoco spettrale secondo una stampa di Sekien"><figcaption>Sōgenbi <span>叢原火</span></figcaption></a></figure>
+      <figure><a href="https://commons.wikimedia.org/wiki/File:SekienAobouzu.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/SekienAobouzu.jpg?width=520" loading="lazy" alt="Aobōzu, monaco misterioso di Sekien"><figcaption>Aobōzu <span>青坊主</span></figcaption></a></figure>
+      <figure><a href="https://commons.wikimedia.org/wiki/File:SekienMikoshi.jpg" target="_blank" rel="noopener noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/SekienMikoshi.jpg?width=520" loading="lazy" alt="Mikoshi-nyūdō, gigante dal collo allungato secondo Sekien"><figcaption>Mikoshi-nyūdō <span>見越入道</span></figcaption></a></figure>
+    </div>
+  </section>
+  <section class="yokai-searchtools" id="yokai-searchtools" aria-label="Filtri dell'enciclopedia">
     <div class="yokai-queryrow">
       <label class="yokai-search" for="yokai-search">⌕ <input type="search" id="yokai-search" placeholder="Cerca nome, creatura, leggenda, luogo…" autocomplete="off"></label>
       <select id="yokai-type" class="yokai-classification" aria-label="Filtra per epoca e tipo di tradizione">
         <option value="all">Tutte le tradizioni</option><option value="traditional">Folklore tradizionale</option><option value="myth">Miti e figure sacre</option><option value="modern">Leggende urbane moderne</option>
       </select>
+      <select id="yokai-sort" class="yokai-classification" aria-label="Ordina le creature"><option value="original">Ordine della raccolta</option><option value="az">Nome A–Z</option><option value="za">Nome Z–A</option><option value="new">Nuovi ingressi</option></select>
+      <select id="yokai-letter" class="yokai-classification" aria-label="Lettera iniziale"><option value="all">Qualsiasi lettera</option></select>
+      <select id="yokai-region" class="yokai-classification" aria-label="Cataloghi originali di Sekien"><option value="all">Tutte le fonti</option></select>
+      <button type="button" id="yokai-random" class="yokai-clear yokai-random">✦ Sorprendimi</button>
     </div>
     <div id="yokai-tabs" class="yokai-tabs" role="group" aria-label="Categorie di mostri e spiriti"></div>
-    <div class="yokai-tools-bottom"><span role="status" aria-live="polite" id="yokai-count">104 voci</span><button id="yokai-reset" class="yokai-clear" type="button">Azzera i filtri ↻</button></div>
+    <div class="yokai-tools-bottom"><span role="status" aria-live="polite" id="yokai-count">340 voci</span><span class="yokai-fav-status">♥ Preferiti: <strong id="yokai-favorite-count">0</strong></span><button id="yokai-reset" class="yokai-clear" type="button">Azzera i filtri ↻</button></div>
   </section>
   <section id="yokai-grid" class="yokai-grid" aria-label="Schede del folklore giapponese"></section>
+  <div class="yokai-pagination"><button id="yokai-more" class="yokai-more" type="button" hidden>Mostra altre creature ↓</button></div>
   <p class="yokai-empty" id="yokai-empty" hidden>Nessuna creatura trovata. Cerca un'altra parola o cambia categoria.</p>
   <noscript><p class="yokai-empty">Abilita JavaScript per esplorare tutte le schede e vedere le illustrazioni.</p></noscript>
   <section class="yokai-notes" aria-labelledby="yokai-notes-title">
    <span class="yokai-eyebrow">FONTI · ARTE · STORIA</span>
    <h2 id="yokai-notes-title">La storia dietro l'immagine</h2>
-   <p>Questo bestiario è una <strong>selezione editoriale di 104 figure, varianti e motivi narrativi</strong>, non un elenco esaustivo: le tradizioni locali giapponesi sono migliaia e cambiano fra epoche e comunità. Alcune creature sono antichissime, altre sono invenzioni iconografiche di artisti Edo o leggende moderne. Quando un'origine è dibattuta, la scheda non pretende di fissare una versione definitiva.</p>
+   <p>Questo bestiario è una <strong>selezione editoriale di <span data-yokai-total>340</span> figure, varianti e motivi narrativi</strong>, non un elenco esaustivo: le tradizioni locali giapponesi sono migliaia e cambiano fra epoche e comunità. Alcune creature sono antichissime, altre sono invenzioni iconografiche di artisti Edo o leggende moderne. Quando un'origine è dibattuta, la scheda non pretende di fissare una versione definitiva.</p>
    <p>Il punto di partenza delle illustrazioni storiche è il <i>Gazu Hyakki Yagyō</i> (1776), che diede una forma riconoscibile a molte presenze. La <a href="https://www.ndl.go.jp/en/imagebank/column/sekienyokai" target="_blank" rel="noopener noreferrer">Biblioteca Nazionale giapponese</a> documenta queste opere e le successive. Per il contesto accademico e le varianti regionali è fondamentale il database <a href="https://www.nichibun.ac.jp/en/db/category/yokai/" target="_blank" rel="noopener noreferrer">Nichibunken</a>, basato sulla letteratura folklorica.</p>
    <div class="yokai-note-links">
       <a href="https://www.ndl.go.jp/en/imagebank/column/sekienyokai" target="_blank" rel="noopener noreferrer">Biblioteca Nazionale del Giappone ↗</a>
@@ -71,7 +98,7 @@
       <a href="https://www.bookmark.jpf.go.jp/media/2024/10/JBNPDF53.pdf" target="_blank" rel="noopener noreferrer">Japan Foundation · Yōkai ↗</a>
    </div>
    <p><strong>Immagini e diritti:</strong> le schede cercano, dove disponibile, una stampa o illustrazione pertinente tramite Wikimedia Commons e Wikipedia. Ciascuna immagine caricata ha un collegamento alla pagina di origine per verificare autore e licenza. Non riproduciamo tavole o illustrazioni contemporanee protette senza autorizzazione. Quando non c'è un'immagine adeguata, viene mostrato un segnaposto calligrafico. Le fotografie e illustrazioni delle fonti esterne possono cambiare o non caricarsi.</p>
-   <p>La presentazione segue criteri storico-culturali: non afferma che creature o apparizioni soprannaturali esistano. Redazione iniziale: 28 ottobre 2026.</p>
+   <p>La presentazione segue criteri storico-culturali: non afferma che creature o apparizioni soprannaturali esistano. I preferiti sono salvati soltanto in questo browser. Redazione iniziale: 28 ottobre 2026.</p>
    <p><a href="index.html">← Torna alla home di Yume</a> · <a href="luoghi-anime-manga.html">Luoghi degli anime</a> · <a href="cucina-giapponese.html">Cucina giapponese</a> · <a href="giappone-da-visitare.html">Viaggiare in Giappone</a></p>
   </section>
  </main>
