@@ -1,7 +1,7 @@
 {
   "artist": "myojou",
   "checkedAt": "2026-10-28",
-  "groupImage": "https://baseec-img-mng.akamaized.net/images/user/logo/0fb0d705a49634c8d6944586068f8945.png",
+  "groupImage": "https://official.idolfes.com/files/57/tif2026/assets/img/news/10052/tif2026-082.jpg",
   "members": [
     {
       "name": "Maki Shino",
@@ -110,8 +110,13 @@
     {
       "label": "Formazione e profili (fonte indicata)",
       "url": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    },
+    {
+      "label": "Foto ufficiale myojou · Tokyo Idol Festival",
+      "url": "https://official.idolfes.com/s/tif2026/news/detail/10052?ima=0000"
     }
   ],
   "excluded": [],
-  "note": "La formazione è in evoluzione. Profili incrociati con la banca dati idol aggiornata il 26 ottobre 2026, non equivalgono a conferma ufficiale individuale. Date digitali da ricontrollare."
+  "note": "La formazione è in evoluzione. Profili incrociati con la banca dati idol aggiornata il 26 ottobre 2026, non equivalgono a conferma ufficiale individuale. Date digitali da ricontrollare.",
+  "imageNote": "Foto promozionale tratta da TOKYO IDOL FESTIVAL 2026; il gruppo ritratto potrebbe non coincidere con una successiva formazione."
 }
