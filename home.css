@@ -50,3 +50,11 @@
 .home-page footer .footer-anime-world{font:600 11px/1.5 'DM Sans',sans-serif;letter-spacing:.01em;color:#a5e7db;text-decoration:none;padding:7px 12px;border:1px solid #a5e7db48;border-radius:7px;background:#a5e7db0b;white-space:normal}
 .home-page footer .footer-anime-world:hover,.home-page footer .footer-anime-world:focus-visible{background:#a5e7db1e;border-color:#a5e7db;text-decoration:underline}
 @media(max-width:650px){.home-page footer .footer-anime-world{flex:0 0 100%;width:fit-content;text-align:center;margin:3px auto 0}}
+
+/* Three compact footer gateways: anime places, Japanese food, Japan destinations. */
+.home-page footer .footer-discoveries{display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap;flex:1 1 100%;margin:2px auto 0}
+.home-page footer .footer-discoveries>a{display:inline-flex;align-items:center;justify-content:center;gap:5px;font:600 11px/1.45 'DM Sans',sans-serif;letter-spacing:0;color:#b9f2e6;text-decoration:none;padding:8px 12px;border:1px solid #a5e7db46;border-radius:8px;background:#a5e7db0c;white-space:normal;min-height:36px;text-align:center;flex:0 1 auto}
+.home-page footer .footer-discoveries .footer-food-world{color:#f5d6bb;border-color:#f5cdbb55;background:#f5cdbb0b}
+.home-page footer .footer-discoveries .footer-travel-world{color:#d2c8ff;border-color:#c4b2ff55;background:#c4b2ff09}
+.home-page footer .footer-discoveries>a:hover,.home-page footer .footer-discoveries>a:focus-visible{background:#ffffff19;border-color:#c8f5ec;text-decoration:underline}
+@media(max-width:650px){.home-page footer .footer-discoveries{gap:7px}.home-page footer .footer-discoveries>a{flex:1 1 100%;margin:0;min-width:0;font-size:11px;padding:9px}}
