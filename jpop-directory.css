@@ -1,0 +1,47 @@
+/* J-pop compact directory. Keeps original theme and accessible no-JS cards. */
+.music-page.music-hub{max-width:1260px}
+.music-hub .music-hub-heading{margin:34px 0 26px}
+.music-hub .music-hub-heading h1{font-size:clamp(2.35rem,5.8vw,4.8rem);line-height:1.09;letter-spacing:-.045em}
+.music-hub .music-hub-heading p{max-width:740px}
+.music-extras{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0 38px}
+.music-extras .themes-promo{margin:0!important;min-width:0;padding:22px!important;border-radius:16px;display:flex;flex-direction:column;gap:9px;min-height:0!important}
+.music-extras .themes-promo .eyebrow{font-size:10px;letter-spacing:.09em}
+.music-extras .themes-promo h2{font-size:clamp(17px,1.7vw,23px);line-height:1.22;margin:0}
+.music-extras .themes-promo p{font-size:12px;line-height:1.55;margin:0;flex:1}
+.music-extras .themes-promo a{font-size:12px;align-self:flex-start;margin-top:6px}
+.music-directory{position:relative;scroll-margin-top:105px;margin:30px 0 20px}
+.music-directory-head{display:flex;align-items:end;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:17px}
+.music-directory-head h2{font:600 clamp(25px,3vw,36px)/1.12 Outfit,sans-serif;margin:8px 0}
+.music-directory-head p{margin:0;color:#b7bbce;font-size:13px}
+.music-directory-count{display:inline-flex;align-items:center;border:1px solid #ffffff25;background:#262942;border-radius:100px;padding:8px 13px;font-size:12px;font-variant-numeric:tabular-nums;color:#d7e4eb}
+.music-searchbar{display:grid;grid-template-columns:minmax(190px,1fr) auto;gap:12px;align-items:center;margin:15px 0 12px}
+.music-searchbar label{display:flex;align-items:center;gap:9px;padding:0 14px;min-height:44px;background:#202438;border:1px solid #ffffff3d;border-radius:12px;color:#d4d9e9}
+.music-searchbar input{background:transparent;border:0;outline:0;color:#f9f8ff;min-width:0;width:100%;font:inherit;font-size:14px}
+.music-searchbar input::placeholder{color:#afb1c5}
+.music-searchbar label:focus-within{outline:2px solid #9bddd8;outline-offset:2px}
+.music-searchbar button,.music-filter-buttons button{font:inherit;border:1px solid #ffffff30;background:#24283d;border-radius:999px;padding:10px 16px;color:#e4e5f1;cursor:pointer}
+.music-searchbar button:hover,.music-filter-buttons button:hover{border-color:#a3d9d9}
+.music-filter-buttons{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding:0 0 14px}
+.music-filter-buttons button{font-size:12px;padding:8px 14px;transition:background .16s ease}
+.music-filter-buttons button[aria-pressed="true"]{background:#d1f4ee;border-color:#d1f4ee;color:#122d37;font-weight:700}
+.music-hub .music-artists{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin:10px 0 70px}
+.music-hub .music-artist-card{display:flex;flex-direction:column;min-width:0;border-radius:14px;transition:border-color .18s,transform .18s}
+.music-hub .music-artist-card:hover{transform:translateY(-3px);border-color:#8cd4d2}
+.music-hub .music-artist-card:focus-visible{outline:2px solid #91ddd0}
+.music-hub .music-artist-card>img,.music-hub .music-image-fallback{width:100%;height:auto;aspect-ratio:16/10;object-fit:contain;background:#151b2a}
+.music-hub .music-artist-card>div:not(.music-image-fallback){padding:14px 15px 17px;flex:1;display:flex;flex-direction:column}
+.music-hub .music-artist-card span{font-size:9px;letter-spacing:.05em;line-height:1.4;color:#bdb7e7}
+.music-hub .music-artist-card h2{font:600 clamp(15px,1.5vw,20px)/1.3 Outfit,sans-serif;margin:8px 0 6px;overflow-wrap:anywhere}
+.music-hub .music-artist-card p{font-size:12px;line-height:1.45;margin:0 0 10px;flex:1;color:#adb6c8}
+.music-hub .music-artist-card strong{font-size:11px;margin-top:auto;line-height:1.35}
+.music-hub .music-artist-card[hidden]{display:none}
+.music-image-fallback{display:grid!important;place-items:center;min-height:120px;padding:12px;text-align:center;background:radial-gradient(circle at top left,#63537e,#252b44 72%)!important;color:#f4ddf7;font:650 clamp(16px,2vw,25px)/1.22 Outfit,sans-serif;letter-spacing:-.025em}
+.music-image-fallback small{display:block;font:400 10px/1.4 sans-serif;color:#c4c8db;margin-top:8px}
+.music-empty-result{border:1px dashed #ffffff3d;padding:28px;text-align:center;color:#c4c5d2;border-radius:12px;margin-top:12px}
+.music-hub .music-artist-card.is-new{border-color:#9a85d955}
+.music-hub .music-artist-card.is-new h2:after{content:'NUOVO';display:inline-block;vertical-align:middle;margin-left:7px;font:700 8px/1 sans-serif;letter-spacing:.04em;padding:4px 5px;border-radius:4px;background:#5d4d78;color:#f3e3ff}
+#nuove-idol{scroll-margin-top:110px}
+@media(max-width:1040px){.music-hub .music-artists{grid-template-columns:repeat(3,minmax(0,1fr))}.music-extras{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.music-extras{grid-template-columns:1fr 1fr;gap:10px}.music-extras .themes-promo{padding:15px!important}.music-extras .themes-promo h2{font-size:17px}.music-extras .themes-promo p{display:none}.music-hub .music-artists{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.music-hub .music-artist-card>div:not(.music-image-fallback){padding:11px}.music-hub .music-artist-card h2{font-size:15px}.music-hub .music-artist-card p{font-size:11px}.music-hub .music-artist-card>img,.music-hub .music-image-fallback{aspect-ratio:4/3}.music-searchbar{grid-template-columns:minmax(0,1fr) auto}.music-searchbar button{padding:10px 12px}.music-filter-buttons{gap:6px}.music-filter-buttons button{font-size:11px;padding:7px 10px}}
+@media(max-width:370px){.music-extras{grid-template-columns:1fr}.music-hub .music-artists{grid-template-columns:1fr 1fr}}
+@media(prefers-reduced-motion:reduce){.music-hub .music-artist-card{transition:none}.music-hub .music-artist-card:hover{transform:none}}
