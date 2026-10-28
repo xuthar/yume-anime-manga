@@ -1,0 +1,59 @@
+/* Yume · Cucina giapponese 2.0: ricette regionali e ingredienti.
+   Specifico della pagina food; l'atlante viaggi resta intatto. */
+.food-page .atlas{max-width:1390px}
+.food-page .atlas-hero{background:linear-gradient(120deg,#24283d,#342735)}
+.food-page .atlas-hero h1{font-size:clamp(38px,5vw,66px)}
+.food-in-page{display:flex;flex-wrap:wrap;gap:9px;margin:14px 0 24px}
+.food-in-page a{font:650 11px/1.5 'DM Sans',sans-serif;text-decoration:none;color:#bcebe5;border:1px solid #9cece354;background:#9cece310;border-radius:100px;padding:10px 14px}
+.food-in-page a:hover,.food-in-page a:focus-visible{background:#9cece326;border-color:#b2f8eb}
+.food-regions,.food-pillars,.food-recipes-section,.food-ingredients-section{scroll-margin-top:70px;margin:28px 0 33px}
+.food-regions h2,.food-pillars h2,.food-recipes-section h2,.food-ingredients-section h2{font:650 clamp(23px,3vw,35px)/1.25 Outfit,sans-serif;letter-spacing:-.03em;margin:8px 0 10px;color:#fff2f1}
+.food-regions>p,.food-recipes-section>p,.food-ingredients-section>p{font:400 12.5px/1.85 'DM Sans',sans-serif;color:#bbc8d8;max-width:1000px;margin:0 0 18px}
+.food-region-grid{display:grid;grid-template-columns:repeat(9,minmax(0,1fr));gap:9px;margin:20px 0}
+.food-region-card{cursor:pointer;display:flex;flex-direction:column;align-items:flex-start;min-width:0;gap:6px;background:linear-gradient(150deg,#282d47,#1e2d3d);border:1px solid #ffffff2f;color:#f2eaf6;border-radius:11px;padding:15px 12px;text-align:left;transition:border-color .2s,transform .2s}
+.food-region-card:hover,.food-region-card:focus-visible{border-color:#b5ede3;transform:translateY(-2px)}
+.food-region-card>span{font-size:22px}
+.food-region-card strong{font:650 12px/1.25 Outfit,sans-serif;overflow-wrap:anywhere}
+.food-region-card small{font:500 10px 'DM Sans',sans-serif;color:#a9d8cf}
+.food-pillars-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:11px;margin:19px 0}
+.food-pillars-grid article{border:1px solid #ffffff29;border-radius:11px;padding:17px;background:linear-gradient(150deg,#28344a,#20273a)}
+.food-pillars-grid span{font:650 10px 'DM Sans',sans-serif;color:#d7adcd}
+.food-pillars-grid h3{font:650 17px Outfit,sans-serif;color:#f6e7f2;margin:8px 0}
+.food-pillars-grid p{font:400 11.5px/1.75 'DM Sans',sans-serif;color:#ccd2dd;margin:0}
+.food-page .atlas-controls{scroll-margin-top:68px}
+.food-page .atlas-controls-bar{display:flex;gap:8px;flex-wrap:wrap}
+.food-page .atlas-controls-bar .atlas-select{flex:1 1 135px;min-width:0;max-width:none}
+.food-page .atlas-search{flex:3 1 250px}
+.food-page .atlas-controls .atlas-pills{display:flex;overflow-x:auto;scrollbar-width:thin;padding-bottom:8px;flex-wrap:nowrap}
+.food-page .atlas-controls .atlas-pills button{white-space:nowrap;flex:0 0 auto}
+.food-page .atlas-card .atlas-photo{height:195px}
+.food-page .atlas-card .atlas-photo img{object-fit:cover}
+.food-page .atlas-card .atlas-cats span:first-child{background:#314b48;color:#b4f2e2}
+.food-page .atlas-card .atlas-cats span:last-child{background:#41394d;color:#eed0e7}
+.food-page .atlas-card h2{font-size:clamp(20px,2vw,24px)}
+.food-page .atlas-recipe{padding-top:12px}
+.food-page .atlas-recipe[open]{margin-bottom:8px}
+.food-page .atlas-recipe ol li,.food-page .atlas-recipe ul li{padding:3px 0}
+.food-copy{border:1px solid #a3e6db72;border-radius:7px;background:#a3e6db13;color:#bbf0e8;cursor:pointer;padding:8px 10px;font:650 11px 'DM Sans',sans-serif;margin:8px 0 0}
+.food-copy:hover{border-color:#c7f6ee;background:#a3e6db2c}
+.food-show-more{display:flex;justify-content:center;margin:25px 0}
+.food-more{cursor:pointer;padding:13px 24px;border-radius:99px;background:#afebe0;color:#17313c;border:1px solid #afebe0;font:700 12px 'DM Sans',sans-serif}
+.food-more:hover{background:#d2fbf3}
+.food-more[hidden]{display:none}
+.food-ingredients-section{border-top:1px solid #ffffff32;padding-top:35px;margin-top:46px}
+.food-ingredient-stats{display:flex;gap:9px;flex-wrap:wrap;margin:20px 0}
+.food-ingredient-stats span{padding:8px 13px;border-radius:100px;border:1px solid #afcce24c;background:#ffffff0b;font:500 12px 'DM Sans',sans-serif;color:#e4e8f2}
+.food-ingredient-stats strong{font:700 17px Outfit,sans-serif;color:#bcefe5;margin-right:5px}
+.food-ingredient-controls{margin-top:18px!important}
+.food-ingredients-grid .atlas-card{background:linear-gradient(145deg,#203043,#1a2538)}
+.food-ingredients-grid .atlas-photo{height:165px!important}
+.food-ingredients-grid .atlas-card .atlas-desc{margin-bottom:6px}
+.food-ingredients-grid .atlas-card h3{margin-top:8px}
+.food-ingredients-grid .atlas-card-content{padding:17px}
+.food-ingredients-grid .atlas-card .atlas-links{margin-top:auto}
+.food-ingredients-grid .atlas-card h2{font-size:21px}
+.food-page .atlas-notes a{color:#b2e9df}
+@media(max-width:1250px){.food-region-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}
+@media(max-width:950px){.food-region-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.food-pillars-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.food-in-page{gap:6px}.food-in-page a{flex:1 1 46%;font-size:10px;text-align:center}.food-region-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.food-region-card{padding:12px 9px}.food-region-card strong{font-size:11px}.food-pillars-grid{grid-template-columns:1fr}.food-page .atlas-controls-bar .atlas-select{flex:1 1 45%;max-width:none}.food-page .atlas-search{flex:1 1 100%}.food-page .atlas-card .atlas-photo{height:210px}.food-ingredients-grid .atlas-photo{height:175px!important}.food-ingredients-section{padding-top:25px}}
+@media(prefers-reduced-motion:reduce){.food-region-card{transition:none}.food-region-card:hover{transform:none}}
