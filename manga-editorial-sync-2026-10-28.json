@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-28",
+  "scope": "Controllo IT/EN 28 ottobre 2026; solo dati editoriali, senza nuovi acquisti, numerazioni presunte o modifiche ai prezzi storici. Edizioni JP escluse.",
+  "sourceSpreadsheet": "Lista anime di Xuthar",
+  "items": [
+    {
+      "title": "Grand Blue",
+      "language": "IT",
+      "editorialNote": "J-POP conferma Grand Blue 1 Cut Price (n.1, listino €2,90) tra le uscite cartacee 26/10–01/11/2026; AnimeClick indica 28/10. È un'edizione J-POP distinta dalle 4 copie Goen possedute (regolare 1–3 e variant n.1). Disponibilità in fumetteria non verificata; nessun nuovo acquisto o prezzo di possesso inserito.",
+      "editorialSource": "https://j-pop.it/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-26-ottobre-all1-novembre-2026"
+    },
+    {
+      "title": "I diari della speziale",
+      "language": "IT",
+      "editorialNote": "J-POP conferma il n.17 regolare (listino €6,50) tra le uscite cartacee 26/10–01/11/2026; AnimeClick lo elenca per 28/10. La vecchia scheda edizioni AnimeClick riportava 30/11: il comunicato ufficiale settimanale è più recente per la programmazione, ma la consegna effettiva resta non verificata. Inventario invariato: 18 copie (regolari 1–16, Deluxe 13 e 14), n.17 non posseduto.",
+      "editorialSource": "https://j-pop.it/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-26-ottobre-all1-novembre-2026"
+    },
+    {
+      "title": "The Dungeon of Black Company",
+      "language": "EN",
+      "editorialNote": "Seven Seas registra data editoriale 27/10/2026 per il n.14 manga inglese, listino $13,99, ISBN 979-8-89765-366-9. Edizione distinta dalle 5 copie italiane Saldapress (starter pack, regolare e variant, nn.2–3); nessun volume inglese aggiunto e nessuna conversione in euro.",
+      "editorialSource": "https://sevenseasentertainment.com/books/the-dungeon-of-black-company-vol-14/"
+    },
+    {
+      "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+      "language": "EN",
+      "editorialNote": "La scheda Seven Seas del MANGA adattato inglese n.9 indica data editoriale 27/10/2026, $13,99, ISBN 979-8-89863-194-9; calendario generale non allineato. Il MANGA è distinto dalla LIGHT NOVEL Airship inglese, di cui sono registrati 11 volumi. Nessun manga attribuito come posseduto.",
+      "editorialSource": "https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-manga-vol-9/"
+    }
+  ],
+  "checkedOther": [
+    {
+      "title": "I diari della speziale",
+      "status": "Data di effettiva disponibilità presso i rivenditori non verificata; il comunicato J-POP 23/10 prevale sulla vecchia data di scheda 30/11 per la programmazione della settimana."
+    },
+    {
+      "title": "Grand Blue",
+      "status": "Il n.1 Cut Price J-POP è un'edizione separata dalla regolare e dalla variant Goen. Nessuna unità posseduta aggiunta."
+    }
+  ]
+}
