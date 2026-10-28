@@ -1,7 +1,6 @@
-/* Yume · Enciclopedia delle creature del folklore giapponese.
- Prima compilazione: 2026-10-28. Le storie sono riassunti editoriali di credenze e leggende, NON fatti storici.
- Fonti generali: NDL, Nichibunken, Ca' Foscari, Japan Foundation, Musei di Genova, Nippon.com.
- Le illustrazioni originali eventualmente mostrate sono rintracciate via Wikimedia Commons con crediti.
+/* Yume — Bestiario di 104 figure del folklore giapponese.
+ Fonti: National Diet Library Japan, Nichibunken, Ca' Foscari, Smithsonian, Japanese Foundation.
+ I racconti sono tradizioni e motivi letterari, NON fatti soprannaturali.
  */
 window.YumeYokai=[
   {
@@ -820,17 +819,17 @@ window.YumeYokai=[
   },
   {
     "id": "y038",
-    "name": "Funayūrei / spiriti naufraghi",
-    "japanese": "舟幽霊",
+    "name": "Hone-onna",
+    "japanese": "骨女",
     "category": "Fantasmi e yūrei",
-    "era": "Racconti marittimi regionali",
-    "region": "Mare interno e coste",
-    "description": "Versioni di anime e racconti regionali raccontano di morti in mare che non trovano riposo.",
-    "story": "A volte compaiono sotto forme di imbarcazioni fantasma o voci in mezzo alla nebbia: una delle tante varianti degli spiriti delle navi.",
-    "historicalNote": "Tradizione orale e/o iconografica: il racconto ha più varianti, non una versione canonica.",
+    "era": "Racconti e illustrazioni dell'epoca Edo",
+    "region": "Case e quartieri notturni",
+    "description": "Donna dall'aspetto seducente che può mostrare un corpo scheletrico, figura della bellezza e della morte.",
+    "story": "Nelle varianti più note torna dal mondo dei morti per incontrare un amante. Il motivo ha molte versioni teatrali e letterarie, e non identifica una sola donna storica.",
+    "historicalNote": "L'immagine dello scheletro femminile appartiene a una tradizione artistica e narrativa: non tutti i racconti usano il nome Hone-onna.",
     "type": "traditional",
-    "wiki": "Funayūrei",
-    "query": "Funayurei woodblock illustration",
+    "wiki": "Hone-onna",
+    "query": "Hone onna Sekien",
     "source": {
       "name": "Biblioteca nazionale giapponese · Sekien",
       "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
@@ -2052,20 +2051,20 @@ window.YumeYokai=[
   },
   {
     "id": "y094",
-    "name": "Kuchisake-onna · varianti",
-    "japanese": "口裂け女の異説",
-    "category": "Processioni e racconti",
-    "era": "Diffusione mediatica dal 1979",
-    "region": "Città e prefetture",
-    "description": "La leggenda della donna dalla bocca tagliata varia notevolmente: numero delle domande, oggetti protettivi e motivi della ferita.",
-    "story": "Il modo in cui la voce viaggia fra scuole e giornali è parte della storia; la scheda rimanda alla figura principale senza affermare una versione canonica.",
-    "historicalNote": "Tradizione orale e/o iconografica: il racconto ha più varianti, non una versione canonica.",
+    "name": "Wanyūdō",
+    "japanese": "輪入道",
+    "category": "Luci e fenomeni",
+    "era": "Gazu Hyakki Yagyō e racconti Edo",
+    "region": "Strade e villaggi notturni",
+    "description": "Ruota in fiamme con un volto umano grottesco al centro, simbolo di punizione e paura del fuoco.",
+    "story": "Scende lungo la strada emanando fiamme e terrore, portando talvolta via le anime di chi la guarda. Le versioni popolari associano il suo aspetto a colpe passate.",
+    "historicalNote": "Figura attestata nelle immagini antiche; i dettagli narrativi sulla punizione variano nelle versioni regionali.",
     "type": "traditional",
-    "wiki": "Kuchisake-onna",
-    "query": "Kuchisake onna Japanese urban legend illustration",
+    "wiki": "Wanyūdō",
+    "query": "Toriyama Sekien Wanyudo",
     "source": {
-      "name": "Musei di Genova · Hyakki Yagyō",
-      "url": "https://catalogo.museidigenova.it/oggetti/2572-hyakki-yagyo-serie-parata-notturna-dei-cento-demoni?i=0"
+      "name": "Biblioteca nazionale giapponese · Sekien",
+      "url": "https://www.ndl.go.jp/en/imagebank/column/sekienyokai"
     },
     "research": {
       "name": "Nichibunken · archivio della tradizione",
