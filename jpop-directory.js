@@ -2,7 +2,7 @@
 (()=>{'use strict';
 const root=document.querySelector('.music-hub');if(!root)return;
 const grid=root.querySelector('#jpop-artists'),cards=[...grid.querySelectorAll('.music-artist-card')],ctrl=root.querySelector('#jpop-controls'),search=root.querySelector('#jpop-search'),count=root.querySelector('#jpop-count'),empty=root.querySelector('#jpop-no-results'),clear=root.querySelector('#jpop-clear');
-const news=new Set('more-star cutie-street avam phantom-siita inuwasi fav-me log-you myojou takane-no-nadeshiko'.split(' '));
+const news=new Set('more-star cutie-street avam phantom-siita inuwasi fav-me log-you myojou takane-no-nadeshiko fruits-zipper candy-tune sweet-steady not-equal-me nearly-equal-joy ilife rosy-chronicle ocha-norma palette-parade utage full-course enon scramble-smile'.split(' '));
 const rockRe=/rock|punk|metal|band|alt|dark|horror|loud/i;
 for(const c of cards){
  const meta=c.querySelector('span')?.textContent||'',name=c.querySelector('h2')?.textContent||'',desc=c.querySelector('p')?.textContent||'';
