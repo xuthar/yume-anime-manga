@@ -1,0 +1,117 @@
+{
+  "artist": "myojou",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://baseec-img-mng.akamaized.net/images/user/logo/0fb0d705a49634c8d6944586068f8945.png",
+  "members": [
+    {
+      "name": "Maki Shino",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    },
+    {
+      "name": "Kurihara Cocone",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    },
+    {
+      "name": "Miona Yun",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    },
+    {
+      "name": "Hinata Miu",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    },
+    {
+      "name": "Himeno Ruka",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    },
+    {
+      "name": "Nene Sakuraba",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "myojou-0",
+      "title": "星景讃歌",
+      "date": "2026-01-19",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://www.youtube.com/watch?v=T-7cDOlY8xw",
+      "trackSource": "https://www.youtube.com/watch?v=T-7cDOlY8xw",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-01-19",
+          "cover": "",
+          "source": "https://www.youtube.com/watch?v=T-7cDOlY8xw",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "星景讃歌",
+                  "youtube": "https://www.youtube.com/results?search_query=myojou%20%E6%98%9F%E6%99%AF%E8%AE%83%E6%AD%8C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/myojou%20%E6%98%9F%E6%99%AF%E8%AE%83%E6%AD%8C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "T-7cDOlY8xw",
+      "title": "星景讃歌 / myojou — MV ufficiale",
+      "url": "https://www.youtube.com/watch?v=T-7cDOlY8xw",
+      "slug": "myojou",
+      "source": "https://myojou.base.shop/"
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "T-7cDOlY8xw",
+      "title": "星景讃歌 / myojou — MV ufficiale",
+      "url": "https://www.youtube.com/watch?v=T-7cDOlY8xw",
+      "slug": "myojou",
+      "source": "https://myojou.base.shop/"
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale e notizie",
+      "url": "https://myojou.base.shop/"
+    },
+    {
+      "label": "Discografia / archivio ufficiale",
+      "url": "https://myojou.base.shop/"
+    },
+    {
+      "label": "Formazione e profili (fonte indicata)",
+      "url": "https://jpop-idol.live/idol-group/girls/myojou-71793718/"
+    }
+  ],
+  "excluded": [],
+  "note": "La formazione è in evoluzione. Profili incrociati con la banca dati idol aggiornata il 26 ottobre 2026, non equivalgono a conferma ufficiale individuale. Date digitali da ricontrollare."
+}
