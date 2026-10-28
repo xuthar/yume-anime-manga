@@ -1,0 +1,146 @@
+{
+  "artist": "log you",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://pbs.twimg.com/media/HBaGQDobcAMQxDc.jpg",
+  "members": [
+    {
+      "name": "Kurumi Tsukishiro",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    },
+    {
+      "name": "Umi Yamashita",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    },
+    {
+      "name": "Tsukine Takeuchi",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    },
+    {
+      "name": "Remi Fukumoto",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    },
+    {
+      "name": "Kana Ide",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    },
+    {
+      "name": "Reina Matsumoto",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    },
+    {
+      "name": "Natsumi Obama",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    },
+    {
+      "name": "Satone Kubo",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://logyou.asobisystem.com/news/detail/57943"
+    }
+  ],
+  "albums": [
+    {
+      "id": "log-you-0",
+      "title": "Beyond the Dream",
+      "date": "2025-11-14",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://logyou.asobisystem.com/",
+      "trackSource": "https://logyou.asobisystem.com/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2025-11-14",
+          "cover": "",
+          "source": "https://logyou.asobisystem.com/",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "Beyond the Dream",
+                  "youtube": "https://www.youtube.com/results?search_query=log%20you%20Beyond%20the%20Dream%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/log%20you%20Beyond%20the%20Dream"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "log-you-1",
+      "title": "幸福論",
+      "date": "2026-09-14",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://logyou.asobisystem.com/",
+      "trackSource": "https://logyou.asobisystem.com/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-09-14",
+          "cover": "",
+          "source": "https://logyou.asobisystem.com/",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "幸福論",
+                  "youtube": "https://www.youtube.com/results?search_query=log%20you%20%E5%B9%B8%E7%A6%8F%E8%AB%96%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/log%20you%20%E5%B9%B8%E7%A6%8F%E8%AB%96"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale e notizie",
+      "url": "https://logyou.asobisystem.com/"
+    },
+    {
+      "label": "Discografia / archivio ufficiale",
+      "url": "https://logyou.asobisystem.com/"
+    },
+    {
+      "label": "Formazione e profili (fonte indicata)",
+      "url": "https://logyou.asobisystem.com/news/detail/57943"
+    }
+  ],
+  "excluded": [],
+  "note": "I nomi provengono dalla presentazione ufficiale del 2025: la composizione andrà ricontrollata periodicamente sul sito ufficiale."
+}
