@@ -96,10 +96,15 @@
      banner.title=(holiday.type==='tradition'?'Ricorrenza tradizionale, non festività nazionale':'Festività pubblica o giorno festivo in Giappone')+' · '+today;
    }
    update();
-   let timer=setInterval(update,60000);
-   document.addEventListener('visibilitychange',()=>{if(!document.hidden)update()});
-   window.addEventListener('pageshow',update);
-   window.addEventListener('pagehide',()=>{clearInterval(timer);timer=null},{once:true});
+   let timer=null;
+   function resume(){
+     clearInterval(timer);update();
+     if(!document.hidden)timer=setInterval(update,60000);
+   }
+   document.addEventListener('visibilitychange',resume);
+   window.addEventListener('pageshow',resume);
+   window.addEventListener('pagehide',()=>{clearInterval(timer);timer=null});
+   resume();
  }
  if(typeof document==='undefined')return;
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);
