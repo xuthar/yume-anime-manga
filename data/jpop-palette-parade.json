@@ -1,0 +1,66 @@
+{
+  "artist": "Palette Parade",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://www.galpo.info/sites/default/files/2022-04/Palette%20Parade%E6%96%B0%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E5%86%99%E7%9C%9F.jpg",
+  "members": [],
+  "albums": [
+    {
+      "id": "palette-parade-0",
+      "title": "夏がほどく夜",
+      "date": "2026-07-21",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://paletteparade-idol.com/news/113012/",
+      "trackSource": "https://paletteparade-idol.com/news/113012/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-07-21",
+          "cover": "",
+          "source": "https://paletteparade-idol.com/news/113012/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "夏がほどく夜",
+                  "youtube": "https://www.youtube.com/results?search_query=Palette%20Parade%20%E5%A4%8F%E3%81%8C%E3%81%BB%E3%81%A9%E3%81%8F%E5%A4%9C%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Palette%20Parade%20%E5%A4%8F%E3%81%8C%E3%81%BB%E3%81%A9%E3%81%8F%E5%A4%9C"
+                },
+                {
+                  "title": "ネイビーレゾナンス",
+                  "youtube": "https://www.youtube.com/results?search_query=Palette%20Parade%20%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC%E3%83%AC%E3%82%BE%E3%83%8A%E3%83%B3%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Palette%20Parade%20%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC%E3%83%AC%E3%82%BE%E3%83%8A%E3%83%B3%E3%82%B9"
+                },
+                {
+                  "title": "JAM JAM JAM !!!!!!!",
+                  "youtube": "https://www.youtube.com/results?search_query=Palette%20Parade%20JAM%20JAM%20JAM%20!!!!!!!%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Palette%20Parade%20JAM%20JAM%20JAM%20!!!!!!!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito / profilo ufficiale",
+      "url": "https://paletteparade-idol.com/"
+    },
+    {
+      "label": "Catalogo e pubblicazioni",
+      "url": "https://paletteparade-idol.com/news/113012/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Fotografia promozionale storica del 2022: potrebbe non corrispondere alla formazione attuale. Le uscite sono tratte dal sito ufficiale."
+}
