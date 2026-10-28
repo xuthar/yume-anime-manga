@@ -1,0 +1,75 @@
+/* Yume — Giappone da visitare 2.0; mappa SVG geografica, 141 mete e nuovi filtri */
+.travel-page .atlas{max-width:1370px}
+.travel-page .atlas-hero{background:linear-gradient(125deg,#202d43,#25233c)}
+.travel-page .atlas-hero h1{font-size:clamp(42px,5vw,70px)}
+.travel-page .atlas-hero-photo{background:linear-gradient(130deg,#174e66,#9ad8cc)}
+.travel-intro-nav{display:flex;gap:9px;flex-wrap:wrap;margin:15px 0 28px}
+.travel-intro-nav a{font:650 11px/1.4 'DM Sans',sans-serif;display:inline-flex;align-items:center;color:#b4ebe4;text-decoration:none;border:1px solid #95e8e053;border-radius:100px;background:#95e8e00c;padding:10px 14px}
+.travel-intro-nav a:hover,.travel-intro-nav a:focus-visible{background:#95e8e02a}
+.travel-highlights{margin:23px 0 33px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.travel-highlight{border:1px solid #ffffff26;border-radius:13px;min-width:0;padding:17px 20px;background:linear-gradient(140deg,#2b304c,#18293e)}
+.travel-highlight .emoji{font-size:25px;margin-bottom:7px}
+.travel-highlight h2{font:650 19px Outfit,sans-serif;margin:7px 0;color:#faf5f6}
+.travel-highlight p{font:400 11.5px/1.7 'DM Sans',sans-serif;color:#c5cfdf;margin:0 0 15px}
+.travel-highlight strong{font:700 20px Outfit,sans-serif;color:#aaecdf}
+.travel-highlight button{cursor:pointer;background:transparent;border:1px solid #95e8e052;border-radius:100px;padding:7px 10px;color:#b3e8e0;font:600 10.5px 'DM Sans',sans-serif}
+.travel-highlight button:hover{border-color:#c1f5e7;background:#ffffff0d}
+.travel-map-section{scroll-margin-top:58px;margin:32px 0 39px}
+.travel-map-section>p{font:400 12.5px/1.8 'DM Sans',sans-serif;color:#c6d3e2;max-width:960px}
+.travel-map-section h2,.travel-catalog-intro h2{font:650 clamp(25px,3.2vw,36px)/1.22 Outfit,sans-serif;margin:9px 0;color:#f4f0f8}
+.travel-map-grid{display:grid;grid-template-columns:minmax(0,1.75fr) minmax(250px,.72fr);gap:14px;margin:18px 0 14px;align-items:stretch}
+.travel-map-panel{border:1px solid #a4dadc41;background:linear-gradient(160deg,#172e45,#101e36);border-radius:17px;padding:12px;min-width:0;overflow:hidden}
+.travel-map-header{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:5px 6px 8px;font:600 11px 'DM Sans',sans-serif;color:#d8eff0}
+.travel-map-header button{cursor:pointer;border-radius:100px;color:#b9eee2;background:#233950;border:1px solid #9de2d763;font:600 11px 'DM Sans',sans-serif;padding:8px 11px}
+.travel-map-header button[aria-pressed=true]{color:#173743;background:#b5eee3;border-color:#b5eee3}
+.travel-map-header button:hover{border-color:#d0faf1}
+#japan-map-svg{width:100%;height:auto;max-height:700px;display:block;overflow:visible;border-radius:12px;touch-action:manipulation}
+#japan-map-svg path[data-region]{cursor:pointer;transition:opacity .13s,fill .13s,stroke .13s;vector-effect:non-scaling-stroke;outline:none}
+#japan-map-svg path[data-region]:hover,#japan-map-svg path[data-region]:focus-visible{stroke:#ffffff;stroke-width:3.5;filter:brightness(1.1)}
+#japan-map-svg path[data-region].is-active{stroke:#fbfcff;stroke-width:3.8;fill:#f0f7bc}
+#japan-map-svg path[data-region].is-dimmed{opacity:.36}
+#japan-map-svg .japan-map-label{cursor:pointer;outline:none}
+#japan-map-svg .japan-map-label text{pointer-events:none}
+#japan-map-svg .japan-map-label.is-active text{fill:#f8ffc0}
+#japan-map-svg .japan-map-label:focus-visible text{text-decoration:underline}
+#japan-map-svg .japan-map-label.is-dimmed{opacity:.5}
+.travel-map-aside{padding:24px 19px;background:linear-gradient(145deg,#2d3348,#1d2a3c);border:1px solid #ffffff28;border-radius:16px;display:flex;flex-direction:column;min-width:0}
+.travel-map-aside small{font:750 10px 'DM Sans',sans-serif;letter-spacing:.14em;color:#c9a8cc}
+.travel-map-aside h3{font:650 26px Outfit,sans-serif;color:#eff5f4;margin:12px 0}
+.travel-map-aside p{font:400 12px/1.8 'DM Sans',sans-serif;color:#c7d2e1;margin:2px 0 13px}
+.travel-map-aside .travel-map-number{display:flex;gap:11px;align-items:center;margin-bottom:18px;color:#afecdd;font:500 12px 'DM Sans',sans-serif}
+.travel-map-aside .travel-map-number strong{font:750 28px Outfit,sans-serif}
+.travel-map-picks{display:flex;flex-direction:column;gap:7px;margin-top:8px}
+.travel-map-picks button{display:block;width:100%;cursor:pointer;text-align:left;padding:10px 10px;background:#ffffff0e;border:1px solid #ffffff2e;border-radius:8px;color:#e8f1f4;font:500 11.5px/1.5 'DM Sans',sans-serif}
+.travel-map-picks button:hover{background:#a1dad32a;border-color:#b1e9dc}
+.travel-map-legend{font:400 10.5px/1.7 'DM Sans',sans-serif;color:#aabecf;margin:8px 6px 2px}
+.travel-map-legend a{color:#a8eadd}
+.travel-region-chips{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}
+.travel-region-chip{cursor:pointer;background:#26374c;border:1px solid #ffffff31;color:#d6e1ee;border-radius:100px;padding:8px 12px;font:650 11px 'DM Sans',sans-serif}
+.travel-region-chip:hover{border-color:#a6e9dc}
+.travel-region-chip[aria-pressed=true]{color:#15303a;background:#b4f1df;border-color:#b4f1df}
+.travel-catalog-intro{scroll-margin-top:70px;margin:38px 0 15px}
+.travel-catalog-intro p{font:400 12.5px/1.8 'DM Sans',sans-serif;color:#c8d2df}
+.travel-page .atlas-controls{scroll-margin-top:70px}
+.travel-page .atlas-controls-bar select{min-width:120px}
+.travel-page .atlas-controls-bar .atlas-select{flex:1 1 160px;max-width:240px}
+.travel-page .atlas-controls-bar .atlas-search{flex:3 1 230px}
+.travel-page .atlas-pills{flex-wrap:nowrap;overflow-x:auto;padding-bottom:7px}
+.travel-page .atlas-pills button{flex:0 0 auto;white-space:nowrap}
+.travel-card .atlas-photo{height:205px}
+.travel-card .atlas-photo img{object-fit:cover}
+.travel-card h2{font-size:23px}
+.travel-card .atlas-memo{margin-top:10px}
+.travel-favorite{cursor:pointer;align-self:flex-start;background:#ffffff0b;border:1px solid #ffffff30;border-radius:99px;color:#e6d6e7;padding:8px 12px;font:600 11px 'DM Sans',sans-serif}
+.travel-favorite[aria-pressed=true]{color:#ffd7df;background:#cf769633;border-color:#d69aac}
+.travel-favorite:hover{border-color:#dcb5c9}
+.travel-card .atlas-links{margin-top:auto}
+.travel-pagination{display:flex;justify-content:center;margin:28px 0 35px}
+.travel-more{cursor:pointer;background:#aeebdf;color:#19323c;border:1px solid #aeebdf;border-radius:100px;padding:13px 22px;font:700 12px 'DM Sans',sans-serif}
+.travel-more:hover{background:#d2faf3}
+.travel-more[hidden]{display:none}
+.travel-page .atlas-note a,.travel-page .atlas-notes a{color:#b6ebdd}
+@media(max-width:1100px){.travel-map-grid{grid-template-columns:minmax(0,1.55fr) minmax(220px,.8fr)}.travel-highlights{grid-template-columns:repeat(3,minmax(0,1fr))}.travel-map-aside{padding:18px 13px}.travel-map-aside h3{font-size:22px}}
+@media(max-width:800px){.travel-map-grid{grid-template-columns:1fr}.travel-map-aside{padding:19px}.travel-highlights{grid-template-columns:1fr 1fr}.travel-highlight:last-child{grid-column:span 2}.travel-map-picks{display:grid;grid-template-columns:1fr 1fr}}
+@media(max-width:650px){.travel-intro-nav a{flex:1 1 45%;justify-content:center;padding:9px}.travel-highlights{grid-template-columns:1fr;gap:9px}.travel-highlight:last-child{grid-column:auto}.travel-highlight{padding:14px}.travel-highlight p{margin-bottom:10px}.travel-map-panel{padding:6px}.travel-map-header{flex-wrap:wrap}.travel-map-grid{gap:10px}.travel-map-picks{grid-template-columns:1fr 1fr}.travel-map-aside h3{margin:7px 0}.travel-region-chip{padding:8px 9px}.travel-card .atlas-photo{height:230px}.travel-page .atlas-controls-bar .atlas-select{max-width:none;flex:1 1 46%}.travel-page .atlas-controls-bar .atlas-search{flex:1 1 100%}}
+@media(prefers-reduced-motion:reduce){#japan-map-svg path[data-region]{transition:none}}
