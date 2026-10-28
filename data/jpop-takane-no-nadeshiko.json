@@ -1,0 +1,146 @@
+{
+  "artist": "Takane no Nadeshiko",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://prcdn.freetls.fastly.net/release_image/25517/806/25517-806-8abcab51811bb9a229374cd274387680-3900x2786.jpg",
+  "members": [
+    {
+      "name": "Nao Kizuki",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "name": "Su Suzumi",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "name": "Momoko Hashimoto",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "name": "Saara Hazuki",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "name": "Erisa Higashiyama",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "name": "Hina Hinahata",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "name": "Momona Matsumoto",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "name": "Himeri Momiyama",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://takanenonadeshiko.jp/members/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "takane-no-nadeshiko-0",
+      "title": "僕らの青",
+      "date": "2026-08-12",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
+      "trackSource": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-08-12",
+          "cover": "",
+          "source": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "僕らの青",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E5%83%95%E3%82%89%E3%81%AE%E9%9D%92%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E5%83%95%E3%82%89%E3%81%AE%E9%9D%92"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "takane-no-nadeshiko-1",
+      "title": "約束",
+      "date": "2026-10-28",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
+      "trackSource": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-10-28",
+          "cover": "",
+          "source": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "約束",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E7%B4%84%E6%9D%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E7%B4%84%E6%9D%9F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale e notizie",
+      "url": "https://takanenonadeshiko.jp/"
+    },
+    {
+      "label": "Discografia / archivio ufficiale",
+      "url": "https://www.jvcmusic.co.jp/takanenonadeshiko/"
+    },
+    {
+      "label": "Formazione e profili (fonte indicata)",
+      "url": "https://takanenonadeshiko.jp/members/"
+    }
+  ],
+  "excluded": [],
+  "note": "Album A World in Our Colors annunciato per il 18 novembre 2026: non è ancora classificato tra le uscite già pubblicate."
+}
