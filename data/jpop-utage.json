@@ -1,0 +1,54 @@
+{
+  "artist": "UtaGe!",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://ogre.natalie.mu/media/pp/utage/p_all1.jpg?imdensity=1&imwidth=1200",
+  "members": [],
+  "albums": [
+    {
+      "id": "utage-0",
+      "title": "Bokura no Uta",
+      "date": "2026-04-06",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://music.apple.com/us/album/bokura-no-uta-single/1890479766",
+      "trackSource": "https://music.apple.com/us/album/bokura-no-uta-single/1890479766",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-04-06",
+          "cover": "",
+          "source": "https://music.apple.com/us/album/bokura-no-uta-single/1890479766",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "Bokura no Uta",
+                  "youtube": "https://www.youtube.com/results?search_query=UtaGe!%20Bokura%20no%20Uta%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/UtaGe!%20Bokura%20no%20Uta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito / profilo ufficiale",
+      "url": "https://utageidol.info/"
+    },
+    {
+      "label": "Catalogo e pubblicazioni",
+      "url": "https://utageidol.info/discography/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Ritratto collettivo pubblicato da Music Natalie; la formazione in foto potrebbe essere storica. Samamama (2025) figura nella discografia ufficiale, ma senza data completa in questa selezione."
+}
