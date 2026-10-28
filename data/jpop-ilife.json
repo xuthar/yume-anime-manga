@@ -1,0 +1,89 @@
+{
+  "artist": "iLiFE!",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://prcdn.freetls.fastly.net/release_image/6972/2/6972-2-8c9aee5107c7f7e7a4ce537e3bead238-3900x2600.jpg",
+  "members": [],
+  "albums": [
+    {
+      "id": "ilife-0",
+      "date": "2026-01-24",
+      "title": "メロメラ",
+      "kind": "single",
+      "note": "Archivio parziale verificato al 28/10/2026. Le versioni fisiche e digitali possono avere tracce differenti: sono indicate solo le canzoni accertate. I collegamenti di ascolto avviano una ricerca.",
+      "source": "https://ilife-heroines.com/discography/",
+      "trackSource": "https://ilife-heroines.com/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione verificata · 2026-01-24",
+          "source": "https://ilife-heroines.com/discography/",
+          "sourceLabel": "Fonte della pubblicazione",
+          "cover": "",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "メロメラ",
+                  "youtube": "https://www.youtube.com/results?search_query=iLiFE!%20%E3%83%A1%E3%83%AD%E3%83%A1%E3%83%A9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/iLiFE!%20%E3%83%A1%E3%83%AD%E3%83%A1%E3%83%A9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ilife-1",
+      "date": "2026-03-27",
+      "title": "BRAVE GROOVE",
+      "kind": "single",
+      "note": "Archivio parziale verificato al 28/10/2026. Le versioni fisiche e digitali possono avere tracce differenti: sono indicate solo le canzoni accertate. I collegamenti di ascolto avviano una ricerca.",
+      "source": "https://ilife-heroines.com/discography/",
+      "trackSource": "https://ilife-heroines.com/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione verificata · 2026-03-27",
+          "source": "https://ilife-heroines.com/discography/",
+          "sourceLabel": "Fonte della pubblicazione",
+          "cover": "",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "BRAVE GROOVE",
+                  "youtube": "https://www.youtube.com/results?search_query=iLiFE!%20BRAVE%20GROOVE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/iLiFE!%20BRAVE%20GROOVE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale",
+      "url": "https://ilife-heroines.com/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://ilife-heroines.com/discography/"
+    },
+    {
+      "label": "Profili e informazioni",
+      "url": "https://ilife-heroines.com/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Foto promozionale da una collaborazione del 2026; l'organico va ricontrollato sul sito ufficiale prima di aggiungere i singoli profili."
+}
