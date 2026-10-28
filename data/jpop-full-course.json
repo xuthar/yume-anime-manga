@@ -1,0 +1,244 @@
+{
+  "artist": "フルコース",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://prcdn.freetls.fastly.net/release_image/25517/870/25517-870-437c11468398571f45ea3ecc01d247f7-3900x2600.jpg",
+  "members": [
+    {
+      "name": "Nanami Abe",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://www.tp-e.jp/talent/fullcourse/"
+    },
+    {
+      "name": "Mihane Osaki",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://www.tp-e.jp/talent/fullcourse/"
+    },
+    {
+      "name": "Maki Kaneshiro",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://www.tp-e.jp/talent/fullcourse/"
+    },
+    {
+      "name": "Cona Konoha",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://www.tp-e.jp/talent/fullcourse/"
+    },
+    {
+      "name": "Haruka Suzuki",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://www.tp-e.jp/talent/fullcourse/"
+    },
+    {
+      "name": "Cocoro Nakagawa",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://www.tp-e.jp/talent/fullcourse/"
+    },
+    {
+      "name": "Rimika Mizukami",
+      "japanese": "",
+      "bio": "Profilo dichiarato dalla fonte ufficiale consultata al 28 ottobre 2026; la formazione può cambiare.",
+      "image": "",
+      "link": "https://www.tp-e.jp/talent/fullcourse/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "full-course-0",
+      "title": "ターニングポイント",
+      "date": "2026-02-28",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://www.tp-e.jp/news/fullcourse-jyoho/",
+      "trackSource": "https://www.tp-e.jp/news/fullcourse-jyoho/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-02-28",
+          "cover": "",
+          "source": "https://www.tp-e.jp/news/fullcourse-jyoho/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ターニングポイント",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "full-course-1",
+      "title": "イヤイヤイヤ！",
+      "date": "2026-03-03",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://twinplanet.co.jp/project/4872/",
+      "trackSource": "https://twinplanet.co.jp/project/4872/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-03-03",
+          "cover": "",
+          "source": "https://twinplanet.co.jp/project/4872/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "イヤイヤイヤ！",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%82%A4%E3%83%A4%E3%82%A4%E3%83%A4%E3%82%A4%E3%83%A4%EF%BC%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%82%A4%E3%83%A4%E3%82%A4%E3%83%A4%E3%82%A4%E3%83%A4%EF%BC%81"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "full-course-2",
+      "title": "ガールズスコア",
+      "date": "2026-03-03",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://twinplanet.co.jp/project/4872/",
+      "trackSource": "https://twinplanet.co.jp/project/4872/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-03-03",
+          "cover": "",
+          "source": "https://twinplanet.co.jp/project/4872/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ガールズスコア",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%82%B9%E3%82%B3%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%82%B9%E3%82%B3%E3%82%A2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "full-course-3",
+      "title": "ハイ！オールオッケー！",
+      "date": "2026-03-03",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://twinplanet.co.jp/project/4872/",
+      "trackSource": "https://twinplanet.co.jp/project/4872/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-03-03",
+          "cover": "",
+          "source": "https://twinplanet.co.jp/project/4872/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ハイ！オールオッケー！",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%83%8F%E3%82%A4%EF%BC%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%83%E3%82%B1%E3%83%BC%EF%BC%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20%E3%83%8F%E3%82%A4%EF%BC%81%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%83%E3%82%B1%E3%83%BC%EF%BC%81"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "full-course-4",
+      "title": "White ROSE",
+      "date": "2026-06-24",
+      "kind": "single",
+      "note": "Selezione verificata al 28 ottobre 2026; le scalette non sono necessariamente complete. I link musicali sono ricerche, non garantiscono il brano in un'esatta edizione.",
+      "source": "https://twinplanet.co.jp/project/4872/",
+      "trackSource": "https://twinplanet.co.jp/project/4872/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione documentata · 2026-06-24",
+          "cover": "",
+          "source": "https://twinplanet.co.jp/project/4872/",
+          "sourceLabel": "Fonte ufficiale / scheda digitale",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "White ROSE",
+                  "youtube": "https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20White%20ROSE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E3%83%95%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9%20White%20ROSE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [
+    {
+      "id": "-aafoM8OJoQ",
+      "title": "ターニングポイント — MV ufficiale",
+      "url": "https://www.youtube.com/watch?v=-aafoM8OJoQ",
+      "slug": "full-course",
+      "source": "https://twinplanet.co.jp/project/4872/"
+    }
+  ],
+  "officialVideos": [
+    {
+      "id": "-aafoM8OJoQ",
+      "title": "ターニングポイント — MV ufficiale",
+      "url": "https://www.youtube.com/watch?v=-aafoM8OJoQ",
+      "slug": "full-course",
+      "source": "https://twinplanet.co.jp/project/4872/"
+    }
+  ],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito / profilo ufficiale",
+      "url": "https://www.tp-e.jp/talent/fullcourse/"
+    },
+    {
+      "label": "Catalogo e pubblicazioni",
+      "url": "https://twinplanet.co.jp/project/4872/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Sette componenti originarie documentate dalla pagina TWIN PLANET. Nell'autunno 2026 è stata annunciata un'audizione per nuovi membri."
+}
