@@ -64,3 +64,9 @@
 .home-page footer .footer-discoveries .footer-yokai-world:hover,.home-page footer .footer-discoveries .footer-yokai-world:focus-visible{border-color:#ffdae9;background:#f7d6e621}
 @media(min-width:651px){.home-page footer .footer-discoveries .footer-yokai-world{margin-inline:calc(50% - 175px);max-width:350px}}
 @media(max-width:650px){.home-page footer .footer-discoveries .footer-yokai-world{flex:1 1 100%;max-width:none;margin:0}}
+
+/* Quinta porta di Yume: il grande atlante di storia del Giappone attraverso anime e manga. */
+.home-page footer .footer-discoveries .footer-history-world{flex:0 1 350px;max-width:350px;color:#c3edda;border-color:#b2ead064;background:#9ae0c212;min-height:36px}
+.home-page footer .footer-discoveries .footer-history-world:hover,.home-page footer .footer-discoveries .footer-history-world:focus-visible{border-color:#d0fbe8;background:#a8e7d42a}
+@media(min-width:651px){.home-page footer .footer-discoveries .footer-yokai-world{margin-inline:0;max-width:350px}.home-page footer .footer-discoveries .footer-history-world{margin-inline:0}}
+@media(max-width:650px){.home-page footer .footer-discoveries .footer-history-world{flex:1 1 100%;max-width:none;margin:0}}
