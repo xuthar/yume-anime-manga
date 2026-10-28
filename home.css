@@ -45,3 +45,8 @@
 
 /* Compact catalogue totals; count works, not owned volumes. */
 .home-catalog-counts{display:flex;flex-wrap:wrap;gap:12px 24px;margin:24px 0 0;padding:0;color:#c8cad8}.home-catalog-counts>div{display:flex;align-items:baseline;gap:8px}.home-catalog-counts>div+div{padding-left:24px;border-left:1px solid #ffffff24}.home-catalog-counts dt{font-size:12px;letter-spacing:.02em}.home-catalog-counts dd{order:-1;margin:0;font-size:23px;font-weight:600;line-height:1.2;color:#edeaf0;font-variant-numeric:tabular-nums}@media(max-width:420px){.home-catalog-counts{gap:12px 18px}.home-catalog-counts>div+div{padding-left:18px}.home-catalog-counts dd{font-size:20px}.home-catalog-counts dt{font-size:11px}}
+
+/* Discreet footer gateway into the photo atlas of real anime places. */
+.home-page footer .footer-anime-world{font:600 11px/1.5 'DM Sans',sans-serif;letter-spacing:.01em;color:#a5e7db;text-decoration:none;padding:7px 12px;border:1px solid #a5e7db48;border-radius:7px;background:#a5e7db0b;white-space:normal}
+.home-page footer .footer-anime-world:hover,.home-page footer .footer-anime-world:focus-visible{background:#a5e7db1e;border-color:#a5e7db;text-decoration:underline}
+@media(max-width:650px){.home-page footer .footer-anime-world{flex:0 0 100%;width:fit-content;text-align:center;margin:3px auto 0}}
