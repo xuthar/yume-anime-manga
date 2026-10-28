@@ -1,0 +1,211 @@
+{
+  "artist": "INUWASI",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://official.idolfes.com/images/57/79a/cedc93d54be9bdb1c1930bcd4c60a/1200_1200_102400.jpg",
+  "members": [
+    {
+      "name": "RAIKA",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://inuwasi.jp/"
+    },
+    {
+      "name": "HANONMAYU",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://inuwasi.jp/"
+    },
+    {
+      "name": "GARUMU",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://inuwasi.jp/"
+    },
+    {
+      "name": "KARIWORI",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://inuwasi.jp/"
+    },
+    {
+      "name": "SUZUME",
+      "japanese": "",
+      "bio": "Componente riportata nella fonte indicata; le formazioni possono cambiare.",
+      "image": "",
+      "link": "https://inuwasi.jp/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "inuwasi-0",
+      "title": "ERMA",
+      "date": "2022-06-30",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://inuwasi.jp/discography/",
+      "trackSource": "https://inuwasi.jp/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2022-06-30",
+          "cover": "",
+          "source": "https://inuwasi.jp/discography/",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ERMA",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20ERMA%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20ERMA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inuwasi-1",
+      "title": "X.O.S",
+      "date": "2022-07-29",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://inuwasi.jp/discography/",
+      "trackSource": "https://inuwasi.jp/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2022-07-29",
+          "cover": "",
+          "source": "https://inuwasi.jp/discography/",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "X.O.S",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20X.O.S%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20X.O.S"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inuwasi-2",
+      "title": "Fike in the light",
+      "date": "2022-08-31",
+      "kind": "single",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://inuwasi.jp/discography/",
+      "trackSource": "https://inuwasi.jp/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2022-08-31",
+          "cover": "",
+          "source": "https://inuwasi.jp/discography/",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "Fike in the light",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20Fike%20in%20the%20light%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20Fike%20in%20the%20light"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inuwasi-3",
+      "title": "SIRAHA",
+      "date": "2026-09-16",
+      "kind": "ep",
+      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "source": "https://inuwasi.jp/event/detail.php?eid=5468",
+      "trackSource": "https://inuwasi.jp/event/detail.php?eid=5468",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-09-16",
+          "cover": "",
+          "source": "https://inuwasi.jp/event/detail.php?eid=5468",
+          "sourceLabel": "Fonte della pubblicazione / discografia",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "Ride on sky",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20Ride%20on%20sky%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20Ride%20on%20sky"
+                },
+                {
+                  "title": "SCAR",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20SCAR%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20SCAR"
+                },
+                {
+                  "title": "STAY THE NIGHT",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20STAY%20THE%20NIGHT%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20STAY%20THE%20NIGHT"
+                },
+                {
+                  "title": "Eternity",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20Eternity%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20Eternity"
+                },
+                {
+                  "title": "Butterfly",
+                  "youtube": "https://www.youtube.com/results?search_query=INUWASI%20Butterfly%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/INUWASI%20Butterfly"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale e notizie",
+      "url": "https://inuwasi.jp/"
+    },
+    {
+      "label": "Discografia / archivio ufficiale",
+      "url": "https://inuwasi.jp/discography/"
+    },
+    {
+      "label": "Formazione e profili (fonte indicata)",
+      "url": "https://inuwasi.jp/"
+    }
+  ],
+  "excluded": [],
+  "note": "L'immagine promozionale potrebbe mostrare un organico precedente; nomi attuali ricavati dal sito ufficiale."
+}
