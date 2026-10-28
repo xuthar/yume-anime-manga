@@ -1,0 +1,497 @@
+{
+  "artist": "SCRAMBLE SMILE",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://prcdn.freetls.fastly.net/release_image/11710/4027/11710-4027-c20f6fc2ce658602601b9f6d64a8ce5d-1567x1045.jpg",
+  "members": [
+    {
+      "name": "Rena Doi",
+      "japanese": "土居 麗菜",
+      "bio": "Componente nella formazione ufficiale di ottobre 2026.",
+      "image": "",
+      "link": "https://scramblesmile.jp/"
+    },
+    {
+      "name": "Kana Sakuragi",
+      "japanese": "桜木 果奈",
+      "bio": "Componente nella formazione ufficiale di ottobre 2026.",
+      "image": "",
+      "link": "https://scramblesmile.jp/"
+    },
+    {
+      "name": "Mimi Takahashi",
+      "japanese": "髙橋 美海",
+      "bio": "Componente nella formazione ufficiale di ottobre 2026.",
+      "image": "",
+      "link": "https://scramblesmile.jp/"
+    },
+    {
+      "name": "Eme Yoshida",
+      "japanese": "好田 恵芽",
+      "bio": "Componente nella formazione ufficiale di ottobre 2026.",
+      "image": "",
+      "link": "https://scramblesmile.jp/"
+    },
+    {
+      "name": "Moana Chihama",
+      "japanese": "千浜 もあな",
+      "bio": "Componente nella formazione ufficiale di ottobre 2026.",
+      "image": "",
+      "link": "https://scramblesmile.jp/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "scramble-smile-0",
+      "title": "AGE⇔DECHI",
+      "date": "2024-09-14",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2024-09-14",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "AGE⇔DECHI",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20AGE%E2%87%94DECHI%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20AGE%E2%87%94DECHI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-1",
+      "title": "SCRAMBLE SMILE",
+      "date": "2024-09-21",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2024-09-21",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "SCRAMBLE SMILE",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20SCRAMBLE%20SMILE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20SCRAMBLE%20SMILE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-2",
+      "title": "今日から運命！",
+      "date": "2024-09-28",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2024-09-28",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "今日から運命！",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E9%81%8B%E5%91%BD%EF%BC%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E9%81%8B%E5%91%BD%EF%BC%81"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-3",
+      "title": "わざとだよ？",
+      "date": "2024-10-05",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2024-10-05",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "わざとだよ？",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20%E3%82%8F%E3%81%96%E3%81%A8%E3%81%A0%E3%82%88%EF%BC%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20%E3%82%8F%E3%81%96%E3%81%A8%E3%81%A0%E3%82%88%EF%BC%9F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-4",
+      "title": "LOVE ME ONEGAI",
+      "date": "2025-02-14",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2025-02-14",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "LOVE ME ONEGAI",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20LOVE%20ME%20ONEGAI%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20LOVE%20ME%20ONEGAI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-5",
+      "title": "焼きたてパンタシア",
+      "date": "2025-03-08",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2025-03-08",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "焼きたてパンタシア",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20%E7%84%BC%E3%81%8D%E3%81%9F%E3%81%A6%E3%83%91%E3%83%B3%E3%82%BF%E3%82%B7%E3%82%A2%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20%E7%84%BC%E3%81%8D%E3%81%9F%E3%81%A6%E3%83%91%E3%83%B3%E3%82%BF%E3%82%B7%E3%82%A2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-6",
+      "title": "ひとことでいうなら恋かもね",
+      "date": "2025-04-21",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2025-04-21",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ひとことでいうなら恋かもね",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8%E3%81%A7%E3%81%84%E3%81%86%E3%81%AA%E3%82%89%E6%81%8B%E3%81%8B%E3%82%82%E3%81%AD%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8%E3%81%A7%E3%81%84%E3%81%86%E3%81%AA%E3%82%89%E6%81%8B%E3%81%8B%E3%82%82%E3%81%AD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-7",
+      "title": "ハチャメチャFuture!?",
+      "date": "2025-05-21",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2025-05-21",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ハチャメチャFuture!?",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20%E3%83%8F%E3%83%81%E3%83%A3%E3%83%A1%E3%83%81%E3%83%A3Future!%3F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20%E3%83%8F%E3%83%81%E3%83%A3%E3%83%A1%E3%83%81%E3%83%A3Future!%3F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-8",
+      "title": "SSS",
+      "date": "2025-06-29",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2025-06-29",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "SSS",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20SSS%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20SSS"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-9",
+      "title": "Dream Ride",
+      "date": "2025-09-22",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2025-09-22",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "Dream Ride",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20Dream%20Ride%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20Dream%20Ride"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-10",
+      "title": "カラフルコンパス",
+      "date": "2026-01-06",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2026-01-06",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "カラフルコンパス",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-11",
+      "title": "Shining Smile",
+      "date": "2026-06-30",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2026-06-30",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "Shining Smile",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20Shining%20Smile%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20Shining%20Smile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-12",
+      "title": "MORE MORE",
+      "date": "2026-08-08",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2026-08-08",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "MORE MORE",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20MORE%20MORE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20MORE%20MORE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scramble-smile-13",
+      "title": "恋の音",
+      "date": "2026-10-07",
+      "kind": "single",
+      "note": "Data e titolo verificati sui comunicati ufficiali o sui cataloghi musicali. La scaletta elencata è iniziale, non garantisce tutte le versioni o gli strumentali.",
+      "source": "https://scramblesmile.jp/news",
+      "trackSource": "https://scramblesmile.jp/news",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2026-10-07",
+          "cover": "",
+          "source": "https://scramblesmile.jp/news",
+          "sourceLabel": "Annuncio ufficiale e archivio delle uscite",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "恋の音",
+                  "youtube": "https://www.youtube.com/results?search_query=SCRAMBLE%20SMILE%20%E6%81%8B%E3%81%AE%E9%9F%B3%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/SCRAMBLE%20SMILE%20%E6%81%8B%E3%81%AE%E9%9F%B3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale e componenti",
+      "url": "https://scramblesmile.jp/"
+    },
+    {
+      "label": "Annunci ufficiali delle pubblicazioni",
+      "url": "https://scramblesmile.jp/news"
+    },
+    {
+      "label": "Discografia Apple Music",
+      "url": "https://music.apple.com/us/artist/scramble-smile/1766208560"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Formazione confermata da scramblesmile.jp in data 28 ottobre 2026. Foto di gruppo tratta da comunicato ufficiale del marzo 2026. Il catalogo è una selezione, non un censimento completo."
+}
