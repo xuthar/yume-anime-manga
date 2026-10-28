@@ -1,0 +1,140 @@
+/* YUME · STORIA DEL GIAPPONE × ANIME · Editorial historical atlas (2026).
+   Standalone, scoped to .jhistory-page, responsive and keyboard-friendly. */
+.jhistory-page{background:radial-gradient(ellipse 90% 620px at 70% 0%,#28394e,#13192a 72%);color:#e9e9f4}
+.jhistory-page *{box-sizing:border-box}
+.jhistory-page a{color:#a5ebdb}
+.jhistory-page a:hover{text-decoration:underline}
+.jhistory-main{max-width:1430px;width:min(94%,1430px);margin:0 auto;padding:23px 0 65px}
+.jhistory-back{display:inline-block;margin:6px 0 20px;font:550 12px 'DM Sans',sans-serif;text-decoration:none;color:#a2e9da}
+.jhistory-eyebrow{font:750 10px/1.4 'DM Sans',sans-serif;color:#bcd9d9;letter-spacing:.13em}
+.jhistory-hero{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,.85fr);min-height:370px;gap:30px;padding:32px 33px;border:1px solid #c8e4de3b;border-radius:20px;background:linear-gradient(140deg,#26364e,#20273b 53%,#2a263e)}
+.jhistory-hero-text{display:flex;flex-direction:column;justify-content:center;min-width:0}
+.jhistory-hero h1{font:680 clamp(36px,4.5vw,67px)/1.08 Outfit,'DM Sans',sans-serif;letter-spacing:-.035em;color:#f7f5fb;margin:16px 0 21px}
+.jhistory-hero h1 em{color:#aedfd7;font-style:normal}
+.jhistory-hero-text>p{font:400 14px/1.85 'DM Sans',sans-serif;max-width:690px;color:#d7dbe8;margin:0 0 20px}
+.jhistory-hero-text strong{color:#f6e9ec}
+.jhistory-stats{display:flex;gap:9px;flex-wrap:wrap;margin-top:auto}
+.jhistory-stats span{display:flex;align-items:center;gap:7px;padding:8px 11px;border:1px solid #ffffff35;border-radius:100px;background:#ffffff0a;font:450 10.5px/1.5 'DM Sans',sans-serif;color:#cbdbe2}
+.jhistory-stats strong{font:720 16px Outfit,sans-serif;color:#a8f0dd}
+.jhistory-hero-art{position:relative;min-width:0;min-height:310px;overflow:hidden;display:flex;align-items:center;justify-content:center;flex-direction:column;margin:0;border-radius:12px;border:1px solid #faf3d629;background:#c9bd99;color:#2d3641}
+.jhistory-hero-art>img{position:absolute;width:100%;height:100%;object-fit:cover;inset:0}
+.jhistory-hero-art .atlas-photo-placeholder{padding:20px;color:#394454;text-align:center;font-size:13px}
+.jhistory-hero-art figcaption{position:absolute;bottom:0;left:0;right:0;z-index:1;background:#151e2deb;backdrop-filter:blur(8px);padding:12px;font:400 10px/1.7 'DM Sans',sans-serif;color:#e8ebed}
+.jhistory-hero-art figcaption strong{display:block;color:#f1efe5}
+.jhistory-hero-art>a{position:absolute;top:12px;right:12px;z-index:2;border-radius:50px;background:#13283ce8;color:#dbf5ef;padding:6px 9px;font:600 10px 'DM Sans',sans-serif;text-decoration:none}
+.jhistory-nav{position:sticky;top:0;z-index:30;display:flex;gap:8px;overflow-x:auto;scrollbar-width:thin;background:#111c31f0;backdrop-filter:blur(14px);margin:18px 0 35px;padding:12px 9px;border:1px solid #b0d8dc37;border-radius:10px}
+.jhistory-nav a{flex:0 0 auto;text-decoration:none;white-space:nowrap;border:1px solid #ffffff2c;border-radius:80px;padding:8px 12px;color:#d8e8eb;font:600 10.5px 'DM Sans',sans-serif}
+.jhistory-nav a:hover,.jhistory-nav a:focus-visible{border-color:#b1edde;background:#ffffff0e}
+.jhistory-section,.jhistory-intro,.jhistory-sources{margin:44px 0;scroll-margin-top:95px}
+.jhistory-section>h2,.jhistory-intro>h2,.jhistory-sources>h2{font:650 clamp(27px,3.25vw,39px)/1.2 Outfit,sans-serif;color:#f4f2fb;margin:9px 0 14px;letter-spacing:-.025em}
+.jhistory-section>p,.jhistory-intro>p,.jhistory-sources>p{font:400 12.7px/1.85 'DM Sans',sans-serif;color:#c5d0e0;max-width:1080px;margin:0 0 20px}
+.jhistory-intro-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin-top:21px}
+.jhistory-intro article{border:1px solid #ffffff29;border-radius:12px;padding:19px;background:linear-gradient(142deg,#2a354b,#1c283b)}
+.jhistory-intro article>span{font:750 11px 'DM Sans',sans-serif;color:#a4e6dc}
+.jhistory-intro h3{font:600 18px Outfit,sans-serif;color:#f5e9f1;margin:9px 0}
+.jhistory-intro article p{font:400 12px/1.8 'DM Sans',sans-serif;color:#c7cedd;margin:0}
+.jhistory-filters{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin:18px 0}
+.jhistory-filters label{flex:2 1 250px;display:flex;align-items:center;gap:9px;border:1px solid #ffffff35;background:#1d2b40;border-radius:8px;color:#cde2e3;padding:10px 12px}
+.jhistory-filters input{border:0;outline:0;background:transparent;color:#f2f4fa;font:500 12px 'DM Sans',sans-serif;width:100%;min-width:0}
+.jhistory-filters input::placeholder{color:#9cabbf}
+.jhistory-filters select{flex:1 1 170px;max-width:330px;min-height:41px;border:1px solid #ffffff32;background:#273247;color:#ecf1f6;padding:9px;border-radius:8px;font:550 11px 'DM Sans',sans-serif}
+.jhistory-filters button{border:1px solid #a9e5db67;border-radius:9px;background:#b4ead40a;color:#c5eee7;cursor:pointer;padding:11px 14px;font:650 11px 'DM Sans',sans-serif}
+.jhistory-filters button:hover{border-color:#cffbf0}
+.jhistory-period-tabs,.jhistory-topic-tabs{display:flex;flex-wrap:wrap;gap:7px;margin:15px 0 19px}
+.jhistory-period-tabs button,.jhistory-topic-tabs button{cursor:pointer;border-radius:100px;border:1px solid #ffffff2d;background:#242f44;color:#dce3ed;padding:8px 12px;font:580 10.5px 'DM Sans',sans-serif}
+.jhistory-period-tabs button:hover,.jhistory-topic-tabs button:hover{border-color:#a5ecdf}
+.jhistory-period-tabs button[aria-pressed=true],.jhistory-topic-tabs button[aria-pressed=true]{color:#182d3b;background:#bae9db;border-color:#bae9db}
+.jhistory-period-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:start}
+.jhistory-period-card{display:grid;grid-template-columns:160px minmax(0,1fr);border:1px solid #ffffff2c;border-radius:13px;background:linear-gradient(148deg,#26334b,#1b283a);overflow:hidden;min-width:0}
+.jhistory-period-art{position:relative;margin:0;min-height:100%;background:radial-gradient(circle at 50% 30%,#b3b0a3,#5d6f72);display:flex;align-items:center;justify-content:center;overflow:hidden}
+.jhistory-period-art>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.jhistory-period-art .atlas-photo-placeholder{padding:16px;text-align:center;color:#f0f4ed;font:600 13px/1.6 'DM Sans',sans-serif}
+.jhistory-period-art .jhistory-art-credit{position:absolute;bottom:6px;left:6px;right:6px;z-index:2;text-align:center;background:#14263ecf;color:#e2f4ec;padding:6px;border-radius:6px;font:500 9px 'DM Sans',sans-serif;text-decoration:none}
+.jhistory-period-main{padding:17px;min-width:0}
+.jhistory-period-meta{display:flex;gap:7px;flex-wrap:wrap;justify-content:space-between;color:#bce1db;font:650 10px 'DM Sans',sans-serif}
+.jhistory-period-meta span:last-child{color:#d7c5df}
+.jhistory-period-main h3{font:650 22px/1.24 Outfit,sans-serif;color:#f8eff7;margin:11px 0 2px}
+.jhistory-jp{color:#c5add0!important;font:500 15px/1.45 system-ui,sans-serif!important;margin:0 0 11px!important}
+.jhistory-period-teaser{font:450 12px/1.7 'DM Sans',sans-serif;color:#cdd6e2;margin:0 0 10px}
+.jhistory-period-details summary{cursor:pointer;color:#afe7de;font:700 11.5px/1.6 'DM Sans',sans-serif;padding:10px 0}
+.jhistory-period-details[open] summary{border-bottom:1px solid #ffffff30;margin-bottom:10px}
+.jhistory-period-section{border-top:1px solid #ffffff16;padding-top:9px;margin-top:9px}
+.jhistory-period-section h4{font:650 12px 'DM Sans',sans-serif;color:#f5d9e9;margin:0 0 6px}
+.jhistory-period-section p{font:400 11.7px/1.85 'DM Sans',sans-serif;color:#d2d9e5;margin:0}
+.jhistory-period-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.jhistory-period-links a,.jhistory-period-links button,.jhistory-event-era,.jhistory-work-actions a,.jhistory-work-actions button{border:1px solid #a2ddd25e;background:#ffffff0a;border-radius:8px;padding:8px 10px;color:#bae9e2;cursor:pointer;text-decoration:none;font:600 10.5px/1.4 'DM Sans',sans-serif}
+.jhistory-period-links a:hover,.jhistory-period-links button:hover{background:#ffffff1c}
+.jhistory-year{background:linear-gradient(140deg,#28364d,#1a2f3f);border:1px solid #97e2d442;border-radius:18px;padding:25px}
+.jhistory-year-form{display:flex;flex-wrap:wrap;gap:11px;align-items:center;margin:19px 0}
+.jhistory-year-form label{font:700 12px 'DM Sans',sans-serif;color:#e1e9ed}
+.jhistory-year-form input{max-width:220px;width:160px;background:#121e34;color:#ffffff;border:1px solid #ffffff54;border-radius:8px;padding:11px 12px;font:650 16px Outfit,sans-serif}
+.jhistory-year-form button,.jhistory-more{border:1px solid #a0e5d5;border-radius:100px;color:#18303c;background:#b3e7da;cursor:pointer;padding:12px 20px;font:750 11.5px 'DM Sans',sans-serif}
+.jhistory-year-form button:hover,.jhistory-more:hover{background:#d1faed}
+.jhistory-year-result{border-top:1px solid #ffffff32;padding-top:15px}
+.jhistory-year-result h3{font:650 18px Outfit,sans-serif;color:#f4e8f0;margin:0 0 7px}
+.jhistory-year-result>p{font:450 12px/1.8 'DM Sans',sans-serif;color:#c9d8e0}
+.jhistory-year-results{display:flex;gap:9px;flex-wrap:wrap;margin-top:13px}
+.jhistory-year-chip{cursor:pointer;border:1px solid #a9e2d378;border-radius:9px;background:#ffffff10;color:#f5edf4;padding:12px 14px;text-align:left;display:flex;flex-direction:column;gap:4px}
+.jhistory-year-chip strong{font:650 14px Outfit,sans-serif}
+.jhistory-year-chip small{color:#b1dace}
+.jhistory-events{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:17px;row-gap:10px}
+.jhistory-event{display:grid;grid-template-columns:93px minmax(0,1fr);gap:12px;border:1px solid #ffffff26;background:#202b40;border-radius:10px;padding:13px}
+.jhistory-event-date{color:#b5efde;font:700 14px Outfit,sans-serif}
+.jhistory-event-body h3{color:#f4ebf2;font:650 15px/1.4 Outfit,sans-serif;margin:0 0 6px}
+.jhistory-event-body p{font:420 11.5px/1.7 'DM Sans',sans-serif;color:#cbd5e2;margin:0 0 7px}
+.jhistory-event-body .jhistory-event-caveat{color:#e4bcce;font-style:italic}
+.jhistory-event-era{padding:5px 9px}
+.jhistory-more-wrap{text-align:center;margin:20px 0}
+.jhistory-more[hidden]{display:none}
+.jhistory-count{color:#b7c5d8;font:550 11px 'DM Sans',sans-serif;text-align:center}
+.jhistory-work-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;align-items:stretch}
+.jhistory-work-card{display:flex;flex-direction:column;min-width:0;background:linear-gradient(145deg,#2d2c44,#1e283b);padding:18px;border:1px solid #ffffff2a;border-radius:12px}
+.jhistory-work-period{font:700 10px 'DM Sans',sans-serif;letter-spacing:.04em;color:#a9eada}
+.jhistory-work-card h3{font:650 19px/1.35 Outfit,sans-serif;margin:10px 0 5px;color:#f6effa}
+.jhistory-work-type{color:#e7c2d8!important;font-weight:650!important}
+.jhistory-work-card>p{font:400 11.7px/1.75 'DM Sans',sans-serif;color:#d7d7e4;margin:3px 0 11px}
+.jhistory-work-caution{border-left:2px solid #e0a4bb;padding-left:10px;color:#eac9d4!important}
+.jhistory-work-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:auto;padding-top:12px}
+.jhistory-quiz{padding:24px;border:1px solid #e2b7d452;background:linear-gradient(145deg,#302b43,#1a2b40);border-radius:16px}
+.jhistory-quiz-panel{border:1px solid #ffffff28;background:#18273c;border-radius:13px;padding:21px;max-width:900px;margin-top:18px}
+.jhistory-quiz-top{display:flex;gap:12px;justify-content:space-between;color:#b7e8dd;font:700 11px 'DM Sans',sans-serif}
+.jhistory-quiz-panel h3{font:650 clamp(17px,2.5vw,23px)/1.5 Outfit,sans-serif;color:#f7ecf3;margin:22px 0}
+.jhistory-quiz-answers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:17px 0}
+.jhistory-quiz-answer{cursor:pointer;border:1px solid #ffffff3e;background:#2b3c54;padding:12px;text-align:left;border-radius:8px;color:#edf3f6;font:600 12px 'DM Sans',sans-serif}
+.jhistory-quiz-answer:hover:not(:disabled){border-color:#a7edde;background:#3b4c5f}
+.jhistory-quiz-answer.correct{background:#184f45;border-color:#7ce1bf;color:#e0fff3}
+.jhistory-quiz-answer.incorrect{background:#6a334b;border-color:#e0a4b7}
+.jhistory-quiz-answer:disabled{cursor:default}
+.jhistory-quiz-feedback{font:500 12px/1.8 'DM Sans',sans-serif;min-height:38px;color:#d3e2e8}
+.jhistory-quiz-feedback.right{color:#a5eed5}
+.jhistory-quiz-feedback.wrong{color:#f1c7cf}
+.jhistory-quiz-panel>.jhistory-more:disabled{opacity:.4;cursor:not-allowed}
+.jhistory-quiz-restart{background:transparent;color:#b8e5da;border:0;cursor:pointer;margin-left:12px;font:600 11px 'DM Sans',sans-serif}
+.jhistory-topic-tabs{margin:17px 0}
+.jhistory-topic-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px;align-items:start}
+.jhistory-topic-card{border-radius:11px;border:1px solid #ffffff2b;background:#222e43;padding:17px}
+.jhistory-topic-category{display:block;font:750 10px 'DM Sans',sans-serif;color:#bde3dd;letter-spacing:.08em;margin-bottom:6px}
+.jhistory-topic-card details summary{cursor:pointer;color:#fae9f0;font:650 18px/1.4 Outfit,sans-serif}
+.jhistory-topic-card details[open] summary{margin-bottom:10px}
+.jhistory-topic-card p{font:400 12px/1.85 'DM Sans',sans-serif;color:#d1d8e6;margin:0 0 12px}
+.jhistory-topic-question{border-left:3px solid #cda8c2;padding-left:11px;color:#f0d6e5!important}
+.jhistory-topic-card a{font:650 11px 'DM Sans',sans-serif}
+.jhistory-glossary-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.jhistory-glossary-card{padding:17px;border:1px solid #ffffff28;border-radius:11px;background:linear-gradient(140deg,#212f43,#22283d)}
+.jhistory-glossary-group{font:700 9px 'DM Sans',sans-serif;color:#b2eadd;letter-spacing:.07em}
+.jhistory-glossary-card h3{font:650 18px Outfit,sans-serif;color:#f7e6f1;margin:10px 0 3px}
+.jhistory-glossary-card>p{font:400 11.5px/1.75 'DM Sans',sans-serif;color:#cbd5e0;margin:9px 0}
+.jhistory-glossary-card .jhistory-jp{margin:0!important}
+.jhistory-glossary-note{color:#e5c9da!important;border-top:1px solid #ffffff23;padding-top:10px}
+.jhistory-sources{background:linear-gradient(135deg,#27374a,#1b293c);border:1px solid #a8d5d038;padding:23px;border-radius:14px}
+.jhistory-sources-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:19px 0}
+.jhistory-sources-grid a{display:flex;flex-direction:column;gap:7px;min-width:0;background:#ffffff0d;border:1px solid #ffffff27;border-radius:10px;padding:15px;text-decoration:none}
+.jhistory-sources-grid a:hover{border-color:#b3e8d8}
+.jhistory-sources-grid strong{font:650 12px 'DM Sans',sans-serif;color:#e9f0f1}
+.jhistory-sources-grid span{color:#b3c9d2;font:400 10.5px/1.7 'DM Sans',sans-serif}
+.jhistory-empty{font:550 12px 'DM Sans',sans-serif;color:#e8c9d4}
+.jhistory-page button:focus-visible,.jhistory-page a:focus-visible,.jhistory-page summary:focus-visible,.jhistory-page input:focus-visible,.jhistory-page select:focus-visible{outline:2px solid #9af0df;outline-offset:3px}
+@media(max-width:1250px){.jhistory-period-grid{grid-template-columns:1fr}.jhistory-period-card{grid-template-columns:210px 1fr}.jhistory-work-grid,.jhistory-glossary-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.jhistory-sources-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:850px){.jhistory-hero{grid-template-columns:1fr;gap:17px}.jhistory-hero-art{height:250px;min-height:250px}.jhistory-intro-grid{grid-template-columns:1fr}.jhistory-events{grid-template-columns:1fr}.jhistory-hero h1{font-size:clamp(34px,7vw,52px)}}
+@media(max-width:650px){.jhistory-main{width:94%;padding:14px 0 38px}.jhistory-hero{padding:19px}.jhistory-hero-text>p{font-size:12px}.jhistory-hero-art{height:200px;min-height:200px}.jhistory-stats{gap:6px}.jhistory-stats span{font-size:9px}.jhistory-nav{margin:12px 0 22px;padding:8px;top:0}.jhistory-section,.jhistory-intro,.jhistory-sources{margin:30px 0;scroll-margin-top:76px}.jhistory-filters select{max-width:none;flex:1 1 100%}.jhistory-period-tabs{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:thin}.jhistory-period-tabs button{flex:0 0 auto}.jhistory-period-card{display:flex;flex-direction:column}.jhistory-period-art{height:180px;min-height:180px}.jhistory-period-main{padding:15px}.jhistory-work-grid,.jhistory-glossary-grid,.jhistory-topic-grid{grid-template-columns:1fr}.jhistory-year,.jhistory-quiz,.jhistory-sources{padding:16px}.jhistory-quiz-answers{grid-template-columns:1fr}.jhistory-event{grid-template-columns:78px 1fr}.jhistory-sources-grid{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.jhistory-page *{scroll-behavior:auto!important}}
