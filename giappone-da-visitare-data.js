@@ -11,7 +11,7 @@ window.YumeJapanDestinations=[
     "desc": "Il tempio più conosciuto di Asakusa, con la grande porta Kaminarimon, la via Nakamise e le tradizioni del periodo Edo.",
     "experience": "Attraversa il portale, osserva le bancarelle storiche e ammira la pagoda.",
     "season": "Tutto l'anno",
-    "wp": "Sensō-ji",
+    "wiki": "Sensō-ji",
     "query": "Sensoji temple Asakusa",
     "link": "https://www.japan.travel/en/spot/1691/",
     "note": ""
@@ -26,7 +26,7 @@ window.YumeJapanDestinations=[
     "desc": "La torre di broadcasting aperta nel 2012 domina la metropoli e offre terrazze panoramiche.",
     "experience": "Sali alle piattaforme d'osservazione quando il cielo è limpido.",
     "season": "Tutto l'anno",
-    "wp": "Tokyo Skytree",
+    "wiki": "Tokyo Skytree",
     "query": "Tokyo Skytree tower",
     "link": "https://www.japan.travel/en/spot/1690/",
     "note": ""
@@ -41,7 +41,7 @@ window.YumeJapanDestinations=[
     "desc": "Uno degli incroci pedonali più fotografati del pianeta, davanti a Shibuya Station.",
     "experience": "Osserva il via vai urbano dal livello della strada o dai punti panoramici.",
     "season": "Tutto l'anno",
-    "wp": "Shibuya Crossing",
+    "wiki": "Shibuya Crossing",
     "query": "Shibuya Crossing pedestrians",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -56,7 +56,7 @@ window.YumeJapanDestinations=[
     "desc": "Grande giardino con paesaggi giapponesi, francesi e inglesi, oasi di quiete nella metropoli.",
     "experience": "Passeggia fra laghetti e giardini, specialmente sotto i ciliegi.",
     "season": "Primavera / autunno",
-    "wp": "Shinjuku Gyo-en",
+    "wiki": "Shinjuku Gyo-en",
     "query": "Shinjuku Gyoen garden",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -71,7 +71,7 @@ window.YumeJapanDestinations=[
     "desc": "Santuario immerso in una foresta artificiale nel cuore della città, dedicato all'imperatore Meiji e all'imperatrice Shōken.",
     "experience": "Percorri i viali tra i grandi torii prima di arrivare al santuario.",
     "season": "Tutto l'anno",
-    "wp": "Meiji Shrine",
+    "wiki": "Meiji Shrine",
     "query": "Meiji Jingu shrine Tokyo",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -86,7 +86,7 @@ window.YumeJapanDestinations=[
     "desc": "Isola artificiale con promenade, viste sul Rainbow Bridge, musei e architettura contemporanea.",
     "experience": "Cammina sul lungomare di sera e osserva le luci della baia.",
     "season": "Tutto l'anno",
-    "wp": "Odaiba",
+    "wiki": "Odaiba",
     "query": "Odaiba Tokyo bay Rainbow Bridge",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -101,7 +101,7 @@ window.YumeJapanDestinations=[
     "desc": "Esperienza artistica contemporanea fatta di ambienti immersivi e installazioni digitali.",
     "experience": "Prenota un ingresso e lascia spazio al percorso sensoriale.",
     "season": "Tutto l'anno",
-    "wp": "teamLab",
+    "wiki": "teamLab",
     "query": "teamLab Planets Toyosu",
     "link": "https://www.japan.travel/it/",
     "note": "Le esposizioni possono cambiare: verifica il programma e le modalità d'accesso."
@@ -116,7 +116,7 @@ window.YumeJapanDestinations=[
     "desc": "Centro dell'elettronica, del gaming, dei manga e della cultura otaku contemporanea.",
     "experience": "Esplora negozi specializzati, sale giochi e piccoli locali tematici.",
     "season": "Tutto l'anno",
-    "wp": "Akihabara",
+    "wiki": "Akihabara",
     "query": "Akihabara electric town night",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -131,7 +131,7 @@ window.YumeJapanDestinations=[
     "desc": "Complesso di santuari monumentali decorati, legato al mausoleo di Tokugawa Ieyasu.",
     "experience": "Cerca i rilievi delle tre scimmie e le elaborate sculture in legno.",
     "season": "Primavera / autunno",
-    "wp": "Nikkō Tōshō-gū",
+    "wiki": "Nikkō Tōshō-gū",
     "query": "Nikko Toshogu Shrine",
     "link": "https://www.japan.travel/en/spot/1486/",
     "note": ""
@@ -146,7 +146,7 @@ window.YumeJapanDestinations=[
     "desc": "Vulcano simbolo del Giappone, venerato nell'arte e nella religione e riconosciuto patrimonio mondiale.",
     "experience": "Ammiralo dai laghi; per salire servono preparazione, regole e periodo autorizzato.",
     "season": "Tutto l'anno per i panorami",
-    "wp": "Mount Fuji",
+    "wiki": "Mount Fuji",
     "query": "Mount Fuji",
     "link": "https://www.japan.travel/en/fuji-guide/",
     "note": "La salita alla vetta non è aperta tutto l'anno; verificare regole e accessi aggiornati."
@@ -161,7 +161,7 @@ window.YumeJapanDestinations=[
     "desc": "Uno dei cinque laghi del Fuji, con magnifiche vedute del vulcano, musei e passeggiate.",
     "experience": "Fotografa il Fuji dalle rive e visita l'area di Oishi Park.",
     "season": "Primavera / autunno",
-    "wp": "Lake Kawaguchi",
+    "wiki": "Lake Kawaguchi",
     "query": "Lake Kawaguchi Mount Fuji",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -176,7 +176,7 @@ window.YumeJapanDestinations=[
     "desc": "Pagoda su una collina di Fujiyoshida: l'accostamento tra tetto rosso e Monte Fuji è iconico.",
     "experience": "Sali il percorso di gradini per il panorama, rispettando le limitazioni locali.",
     "season": "Primavera / autunno",
-    "wp": "Chureito Pagoda",
+    "wiki": "Chureito Pagoda",
     "query": "Chureito pagoda Mount Fuji",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -191,7 +191,7 @@ window.YumeJapanDestinations=[
     "desc": "Due antiche stazioni della via Nakasendō, fra case di legno, locande e vecchie vie di montagna.",
     "experience": "Percorri un tratto dell'antica strada tra boschi e borghi.",
     "season": "Primavera / autunno",
-    "wp": "Magome-juku",
+    "wiki": "Magome-juku",
     "query": "Magome Tsumago Nakasendo",
     "link": "https://www.japan.travel/en/spot/1244/",
     "note": ""
@@ -206,7 +206,7 @@ window.YumeJapanDestinations=[
     "desc": "Borgo UNESCO celebre per le case gasshō-zukuri dai tetti di paglia molto inclinati.",
     "experience": "Osserva il villaggio dal punto panoramico e visita le case aperte al pubblico.",
     "season": "Inverno / tutte le stagioni",
-    "wp": "Shirakawa-gō",
+    "wiki": "Shirakawa-gō",
     "query": "Shirakawa go snow",
     "link": "https://www.japan.travel/en/spot/2031/",
     "note": "Alcune abitazioni sono private: non oltrepassare recinzioni e proprietà."
@@ -221,7 +221,7 @@ window.YumeJapanDestinations=[
     "desc": "Strade storiche, botteghe di legno e festival con carri riccamente decorati nella regione montana di Hida.",
     "experience": "Passeggia a Sanmachi Suji e prova le specialità di Hida.",
     "season": "Primavera / autunno",
-    "wp": "Takayama, Gifu",
+    "wiki": "Takayama, Gifu",
     "query": "Takayama old town Japan",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -236,7 +236,7 @@ window.YumeJapanDestinations=[
     "desc": "Uno dei celebri tre grandi giardini del Giappone, con laghetti, lanterne e protezioni invernali degli alberi.",
     "experience": "Visita il giardino in inverno per gli yukitsuri o in primavera per i ciliegi.",
     "season": "Tutte le stagioni",
-    "wp": "Kenroku-en",
+    "wiki": "Kenroku-en",
     "query": "Kenrokuen Kanazawa garden",
     "link": "https://www.japan.travel/en/spot/1429/",
     "note": ""
@@ -251,7 +251,7 @@ window.YumeJapanDestinations=[
     "desc": "Distretto storico di Kanazawa con case da tè tradizionali e facciate in legno.",
     "experience": "Passeggia nelle vie di mattina e visita una casa da tè accessibile.",
     "season": "Tutto l'anno",
-    "wp": "Higashi Chaya District",
+    "wiki": "Higashi Chaya District",
     "query": "Higashi Chaya Kanazawa",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -266,7 +266,7 @@ window.YumeJapanDestinations=[
     "desc": "Complesso zen Sōtō fondato nel XIII secolo dal maestro Dōgen, ancora luogo di pratica monastica.",
     "experience": "Percorri gli edifici collegati da corridoi e osserva i giardini.",
     "season": "Tutto l'anno",
-    "wp": "Eihei-ji",
+    "wiki": "Eihei-ji",
     "query": "Eiheiji zen temple Fukui",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -281,7 +281,7 @@ window.YumeJapanDestinations=[
     "desc": "Santuario principale del culto di Inari, noto per migliaia di torii vermigli che risalgono il monte.",
     "experience": "Cammina sotto i portali e scopri i piccoli santuari lungo il sentiero.",
     "season": "Tutto l'anno",
-    "wp": "Fushimi Inari-taisha",
+    "wiki": "Fushimi Inari-taisha",
     "query": "Fushimi Inari torii gates",
     "link": "https://www.japan.travel/en/spot/1128/",
     "note": ""
@@ -296,7 +296,7 @@ window.YumeJapanDestinations=[
     "desc": "Tempio buddhista antico e celebre per la grande terrazza lignea affacciata sulle colline di Higashiyama.",
     "experience": "Ammira la vista sulla città e percorri le vie storiche Sannenzaka.",
     "season": "Primavera / autunno",
-    "wp": "Kiyomizu-dera",
+    "wiki": "Kiyomizu-dera",
     "query": "Kiyomizu dera Kyoto",
     "link": "https://www.japan.travel/it/things-to-do/history/temples-and-shrines/",
     "note": ""
@@ -311,7 +311,7 @@ window.YumeJapanDestinations=[
     "desc": "Il padiglione rivestito d'oro si riflette in un laghetto paesaggistico, fra i simboli di Kyoto.",
     "experience": "Percorri il sentiero tra giardini, pini e specchi d'acqua.",
     "season": "Tutto l'anno",
-    "wp": "Kinkaku-ji",
+    "wiki": "Kinkaku-ji",
     "query": "Kinkakuji Golden Pavilion Kyoto",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -326,7 +326,7 @@ window.YumeJapanDestinations=[
     "desc": "Boschetto di bambù che sale lungo i sentieri di Sagano, vicino a Tenryū-ji.",
     "experience": "Esplora presto al mattino per apprezzare il paesaggio in tranquillità.",
     "season": "Tutto l'anno",
-    "wp": "Arashiyama",
+    "wiki": "Arashiyama",
     "query": "Arashiyama bamboo grove",
     "link": "https://www.japan.travel/en/spot/1142/",
     "note": ""
@@ -341,7 +341,7 @@ window.YumeJapanDestinations=[
     "desc": "Distretto di vie storiche e tradizioni delle arti performative, con case da tè e botteghe.",
     "experience": "Percorri le vie pubbliche di Hanamikoji con discrezione.",
     "season": "Tutto l'anno",
-    "wp": "Gion",
+    "wiki": "Gion",
     "query": "Gion Kyoto traditional street",
     "link": "https://www.japan.travel/it/",
     "note": "Rispettare la privacy delle geiko e le strade private; nessuna fotografia invasiva."
@@ -356,7 +356,7 @@ window.YumeJapanDestinations=[
     "desc": "Mercato coperto storico nel centro di Kyoto, famoso per ingredienti, conservati e piccoli assaggi.",
     "experience": "Scopri spezie, tsukemono e prodotti tipici nelle botteghe.",
     "season": "Tutto l'anno",
-    "wp": "Nishiki Market",
+    "wiki": "Nishiki Market",
     "query": "Nishiki Market Kyoto",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -371,7 +371,7 @@ window.YumeJapanDestinations=[
     "desc": "Canale urbano fra insegne al neon, teatro e una concentrazione di street food.",
     "experience": "Passeggia dopo il tramonto e osserva le insegne luminose.",
     "season": "Tutto l'anno",
-    "wp": "Dōtonbori",
+    "wiki": "Dōtonbori",
     "query": "Dotonbori Osaka night",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -386,7 +386,7 @@ window.YumeJapanDestinations=[
     "desc": "Ricostruzione monumentale del castello legato all'unificazione del Giappone e alla figura di Toyotomi Hideyoshi.",
     "experience": "Visita il museo nella torre e il vasto parco circostante.",
     "season": "Primavera / autunno",
-    "wp": "Osaka Castle",
+    "wiki": "Osaka Castle",
     "query": "Osaka castle cherry blossoms",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -401,7 +401,7 @@ window.YumeJapanDestinations=[
     "desc": "Grande parco di attrazioni noto per mondi fantastici e aree tematiche.",
     "experience": "Controlla disponibilità e prenotazioni delle attrazioni più richieste.",
     "season": "Tutto l'anno",
-    "wp": "Universal Studios Japan",
+    "wiki": "Universal Studios Japan",
     "query": "Universal Studios Japan Super Nintendo World",
     "link": "https://www.japan.travel/it/",
     "note": "Aree e condizioni d'accesso possono cambiare."
@@ -416,7 +416,7 @@ window.YumeJapanDestinations=[
     "desc": "Parco attorno agli antichi templi della città, famoso per i cervi liberi.",
     "experience": "Passeggia nei pressi di Tōdai-ji senza inseguire o nutrire impropriamente gli animali.",
     "season": "Primavera / autunno",
-    "wp": "Nara Park",
+    "wiki": "Nara Park",
     "query": "Nara Park deer Japan",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -431,7 +431,7 @@ window.YumeJapanDestinations=[
     "desc": "Uno dei grandi complessi buddhisti del Giappone, con la colossale statua del Buddha Vairocana.",
     "experience": "Visita la Daibutsuden, uno dei più notevoli edifici in legno della tradizione giapponese.",
     "season": "Tutto l'anno",
-    "wp": "Tōdai-ji",
+    "wiki": "Tōdai-ji",
     "query": "Todaiji Nara great Buddha hall",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -446,7 +446,7 @@ window.YumeJapanDestinations=[
     "desc": "Fortezza UNESCO dalla silhouette bianca, celebre per il mastio originario dell'età feudale.",
     "experience": "Esplora il percorso difensivo e aggiungi il giardino Kōko-en.",
     "season": "Primavera / autunno",
-    "wp": "Himeji Castle",
+    "wiki": "Himeji Castle",
     "query": "Himeji castle Japan",
     "link": "https://www.japan.travel/en/spot/1030/",
     "note": ""
@@ -461,7 +461,7 @@ window.YumeJapanDestinations=[
     "desc": "Centro spirituale del buddhismo Shingon con templi, cimiteri monumentali e foreste secolari.",
     "experience": "Visita Okunoin e valuta un soggiorno in un alloggio templare.",
     "season": "Tutto l'anno",
-    "wp": "Mount Kōya",
+    "wiki": "Mount Kōya",
     "query": "Koyasan Okunoin cemetery",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -476,7 +476,7 @@ window.YumeJapanDestinations=[
     "desc": "Antica rete di vie di pellegrinaggio nella penisola di Kii, collegata ai santuari Kumano.",
     "experience": "Percorri un tratto segnalato fra boschi, gradini e piccole comunità.",
     "season": "Primavera / autunno",
-    "wp": "Kumano Kodō",
+    "wiki": "Kumano Kodō",
     "query": "Kumano Kodo pilgrimage trail",
     "link": "https://www.japan.travel/it/",
     "note": "Il livello di difficoltà varia; valuta meteo e percorso."
@@ -491,7 +491,7 @@ window.YumeJapanDestinations=[
     "desc": "Santuario UNESCO di Miyajima noto per il torii vermiglio che sembra galleggiare durante l'alta marea.",
     "experience": "Osserva il portale con maree diverse e visita il complesso sull'acqua.",
     "season": "Tutto l'anno",
-    "wp": "Itsukushima Shrine",
+    "wiki": "Itsukushima Shrine",
     "query": "Itsukushima Miyajima floating torii",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -506,7 +506,7 @@ window.YumeJapanDestinations=[
     "desc": "Luogo della memoria dedicato alle vittime della bomba atomica e all'impegno per la pace.",
     "experience": "Visita il Museo della Pace con rispetto e raccoglimento.",
     "season": "Tutto l'anno",
-    "wp": "Hiroshima Peace Memorial Park",
+    "wiki": "Hiroshima Peace Memorial Park",
     "query": "Hiroshima Peace Memorial Park A Bomb Dome",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -521,7 +521,7 @@ window.YumeJapanDestinations=[
     "desc": "Uno dei tre grandi giardini paesaggistici del Giappone, con ampi prati e laghetti.",
     "experience": "Abbina la visita al vicino castello di Okayama.",
     "season": "Primavera / autunno",
-    "wp": "Kōraku-en",
+    "wiki": "Kōraku-en",
     "query": "Korakuen garden Okayama",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -536,7 +536,7 @@ window.YumeJapanDestinations=[
     "desc": "Vie di magazzini bianchi, salici e canali che conservano l'aspetto di una città mercantile.",
     "experience": "Cammina lungo il canale e visita gallerie e botteghe.",
     "season": "Tutto l'anno",
-    "wp": "Kurashiki Bikan Historical Quarter",
+    "wiki": "Kurashiki Bikan Historical Quarter",
     "query": "Kurashiki Bikan canal",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -551,7 +551,7 @@ window.YumeJapanDestinations=[
     "desc": "Ampio sistema di dune costiere modellato dal vento, affacciato sul Mare del Giappone.",
     "experience": "Cammina sulle dune all'alba o al tramonto e osserva le forme nella sabbia.",
     "season": "Primavera / autunno",
-    "wp": "Tottori Sand Dunes",
+    "wiki": "Tottori Sand Dunes",
     "query": "Tottori Sand Dunes",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -566,7 +566,7 @@ window.YumeJapanDestinations=[
     "desc": "Fila di torii rossi che scende verso le scogliere affacciate sul Mare del Giappone.",
     "experience": "Percorri le scale e ammira il contrasto fra torii e oceano.",
     "season": "Primavera / autunno",
-    "wp": "Motonosumi Shrine",
+    "wiki": "Motonosumi Shrine",
     "query": "Motonosumi shrine red torii cliffs",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -581,7 +581,7 @@ window.YumeJapanDestinations=[
     "desc": "Giardino storico di Takamatsu, con laghetti, pini modellati e scenari ispirati al giardinaggio Edo.",
     "experience": "Passeggia sulle sponde, attraversa i ponticelli e osserva il monte Shiun.",
     "season": "Tutte le stagioni",
-    "wp": "Ritsurin Garden",
+    "wiki": "Ritsurin Garden",
     "query": "Ritsurin Garden Takamatsu",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -596,7 +596,7 @@ window.YumeJapanDestinations=[
     "desc": "Isola del Mare Interno di Seto trasformata in una destinazione di arte contemporanea e architettura.",
     "experience": "Esplora musei, installazioni e il paesaggio marittimo.",
     "season": "Primavera / autunno",
-    "wp": "Naoshima",
+    "wiki": "Naoshima",
     "query": "Naoshima yellow pumpkin Yayoi Kusama",
     "link": "https://www.japan.travel/it/",
     "note": "Le opere d'arte possono avere regole fotografiche e diritti specifici."
@@ -611,7 +611,7 @@ window.YumeJapanDestinations=[
     "desc": "Storico edificio termale di Matsuyama con architettura lignea e lunga tradizione dei bagni pubblici.",
     "experience": "Scopri le sale del bagno e le vie commerciali circostanti.",
     "season": "Tutto l'anno",
-    "wp": "Dōgo Onsen",
+    "wiki": "Dōgo Onsen",
     "query": "Dogo Onsen Honkan Matsuyama",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -626,7 +626,7 @@ window.YumeJapanDestinations=[
     "desc": "Profonda valle boschiva con un ponte sospeso tradizionale di liane, uno dei panorami più spettacolari di Shikoku.",
     "experience": "Attraversa il ponte e fermati a osservare il fiume dalla riva.",
     "season": "Primavera / autunno",
-    "wp": "Iya Valley",
+    "wiki": "Iya Valley",
     "query": "Iya Kazurabashi vine bridge",
     "link": "https://www.japan.travel/it/",
     "note": "Il ponte non è adatto a chi soffre particolarmente di vertigini."
@@ -641,7 +641,7 @@ window.YumeJapanDestinations=[
     "desc": "Castello di collina con mastio storico e panorami sulla città e sul Mare Interno.",
     "experience": "Sali nel parco del castello per le viste e i ciliegi primaverili.",
     "season": "Primavera",
-    "wp": "Matsuyama Castle (Iyo)",
+    "wiki": "Matsuyama Castle (Iyo)",
     "query": "Matsuyama castle Ehime",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -656,7 +656,7 @@ window.YumeJapanDestinations=[
     "desc": "Canyon vulcanico di colonne basaltiche attraversato da un corso d'acqua verde e cascate.",
     "experience": "Percorri il sentiero sopra la gola; per la barca verifica le condizioni.",
     "season": "Primavera / autunno",
-    "wp": "Takachiho Gorge",
+    "wiki": "Takachiho Gorge",
     "query": "Takachiho Gorge boats waterfall",
     "link": "https://www.japan.travel/en/spot/615/",
     "note": "Le barche possono fermarsi con maltempo o condizioni di piena."
@@ -671,7 +671,7 @@ window.YumeJapanDestinations=[
     "desc": "Complesso vulcanico attivo con grande caldera e pascoli su altipiani scenografici.",
     "experience": "Ammira le praterie e informati sul livello di allerta prima di avvicinarti al cratere.",
     "season": "Primavera / autunno",
-    "wp": "Mount Aso",
+    "wiki": "Mount Aso",
     "query": "Mount Aso volcano crater",
     "link": "https://www.japan.travel/en/spot/642/",
     "note": "Accesso al cratere soggetto ad attività vulcanica e restrizioni."
@@ -686,7 +686,7 @@ window.YumeJapanDestinations=[
     "desc": "Santuario dedicato a Sugawara no Michizane, associato agli studi e alla conoscenza.",
     "experience": "Scopri il complesso, i ponti e i dolci umegae mochi lungo la via d'accesso.",
     "season": "Primavera",
-    "wp": "Dazaifu Tenmangū",
+    "wiki": "Dazaifu Tenmangū",
     "query": "Dazaifu Tenmangu shrine Fukuoka",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -701,7 +701,7 @@ window.YumeJapanDestinations=[
     "desc": "Isola UNESCO di cedri millenari, montagne muschiose e vegetazione umida.",
     "experience": "Percorri i sentieri autorizzati rispettando il fragilissimo ecosistema.",
     "season": "Primavera / autunno",
-    "wp": "Yakushima",
+    "wiki": "Yakushima",
     "query": "Yakushima moss forest cedars",
     "link": "https://www.japan.travel/it/",
     "note": "Sentieri e meteo possono essere impegnativi; non sottovalutare la pioggia."
@@ -716,7 +716,7 @@ window.YumeJapanDestinations=[
     "desc": "Dimore storiche e giardini che raccontano gli scambi commerciali internazionali del Giappone dell'Ottocento.",
     "experience": "Ammira la vista sul porto e l'architettura in stile occidentale.",
     "season": "Tutto l'anno",
-    "wp": "Glover Garden",
+    "wiki": "Glover Garden",
     "query": "Glover Garden Nagasaki",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -731,7 +731,7 @@ window.YumeJapanDestinations=[
     "desc": "Insieme di sorgenti geotermali colorate e fumanti, visitabili per osservazione.",
     "experience": "Visita i diversi bacini bollenti e scopri l'attività vulcanica.",
     "season": "Tutto l'anno",
-    "wp": "Hells of Beppu",
+    "wiki": "Hells of Beppu",
     "query": "Beppu Jigoku Meguri sea hell",
     "link": "https://www.japan.travel/it/",
     "note": "Non sono vasche balneabili: l'acqua è estremamente calda."
@@ -746,7 +746,7 @@ window.YumeJapanDestinations=[
     "desc": "Grande fortezza con mura curve, legata al periodo feudale e al restauro dopo i terremoti del 2016.",
     "experience": "Scopri le torri e gli interventi di recupero del complesso.",
     "season": "Primavera / autunno",
-    "wp": "Kumamoto Castle",
+    "wiki": "Kumamoto Castle",
     "query": "Kumamoto Castle Japan",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -761,7 +761,7 @@ window.YumeJapanDestinations=[
     "desc": "Ex area portuale con magazzini in pietra e lampioni, particolarmente suggestiva dopo il tramonto.",
     "experience": "Passeggia lungo il canale illuminato, soprattutto d'inverno.",
     "season": "Inverno / tutto l'anno",
-    "wp": "Otaru Canal",
+    "wiki": "Otaru Canal",
     "query": "Otaru canal snow night",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -776,7 +776,7 @@ window.YumeJapanDestinations=[
     "desc": "Viale verde che attraversa il centro di Sapporo e ospita il celebre Festival della Neve.",
     "experience": "Visita i giardini in estate o le sculture di neve in stagione.",
     "season": "Inverno / estate",
-    "wp": "Odori Park",
+    "wiki": "Odori Park",
     "query": "Sapporo Odori Park snow festival",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -791,7 +791,7 @@ window.YumeJapanDestinations=[
     "desc": "Lago vulcanico profondo celebre per il colore blu intenso e le nebbie che lo avvolgono.",
     "experience": "Ammira la caldera dai belvedere autorizzati.",
     "season": "Estate / autunno",
-    "wp": "Lake Mashū",
+    "wiki": "Lake Mashū",
     "query": "Lake Mashu Hokkaido blue",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -806,7 +806,7 @@ window.YumeJapanDestinations=[
     "desc": "Penisola UNESCO con foreste, montagne, cascate e fauna selvatica, sul Mare di Okhotsk.",
     "experience": "Scegli passeggiate attrezzate o escursioni guidate nella natura.",
     "season": "Estate / autunno",
-    "wp": "Shiretoko National Park",
+    "wiki": "Shiretoko National Park",
     "query": "Shiretoko Five Lakes Hokkaido",
     "link": "https://www.japan.travel/it/",
     "note": "Zona con orsi: seguire le prescrizioni del parco e le eventuali guide obbligatorie."
@@ -821,7 +821,7 @@ window.YumeJapanDestinations=[
     "desc": "Bacino dall'acqua turchese nato da opere di contenimento e fenomeni minerali.",
     "experience": "Osserva il colore dell'acqua e i tronchi emergenti dalla riva.",
     "season": "Estate / autunno",
-    "wp": "Blue Pond (Biei)",
+    "wiki": "Blue Pond (Biei)",
     "query": "Biei Blue Pond Japan",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -836,7 +836,7 @@ window.YumeJapanDestinations=[
     "desc": "Torrente di montagna fra cascate e alberi ricoperti di muschio, collegato al lago Towada.",
     "experience": "Segui un tratto del sentiero fluviale a piedi o in bicicletta.",
     "season": "Autunno",
-    "wp": "Oirase Gorge",
+    "wiki": "Oirase Gorge",
     "query": "Oirase Gorge autumn river",
     "link": "https://www.japan.travel/en/spot/1833/",
     "note": ""
@@ -851,7 +851,7 @@ window.YumeJapanDestinations=[
     "desc": "Castello storico famoso per il parco e migliaia di ciliegi che fioriscono in primavera.",
     "experience": "Assisti al festival dei sakura e osserva il fossato ricoperto di petali.",
     "season": "Primavera",
-    "wp": "Hirosaki Castle",
+    "wiki": "Hirosaki Castle",
     "query": "Hirosaki Castle cherry blossoms",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -866,7 +866,7 @@ window.YumeJapanDestinations=[
     "desc": "Baia costellata di isolotti ricoperti di pini, celebrata nella poesia giapponese.",
     "experience": "Osserva le isole da un belvedere o da un battello turistico.",
     "season": "Primavera / autunno",
-    "wp": "Matsushima",
+    "wiki": "Matsushima",
     "query": "Matsushima Bay islands",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -881,7 +881,7 @@ window.YumeJapanDestinations=[
     "desc": "Complesso templare arroccato sui monti, raggiungibile per gradini tra alberi e rocce.",
     "experience": "Sali fino ai punti panoramici e osserva la vallata.",
     "season": "Estate / autunno",
-    "wp": "Risshaku-ji",
+    "wiki": "Risshaku-ji",
     "query": "Yamadera Risshakuji temple",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -896,7 +896,7 @@ window.YumeJapanDestinations=[
     "desc": "Canyon di pareti rocciose e corsi d'acqua attraversati da barche tradizionali.",
     "experience": "Naviga lentamente tra le scogliere e la vegetazione.",
     "season": "Autunno / primavera",
-    "wp": "Geibikei",
+    "wiki": "Geibikei",
     "query": "Geibikei Gorge boat Japan",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -911,7 +911,7 @@ window.YumeJapanDestinations=[
     "desc": "Cittadina con dimore di antiche famiglie samurai e splendidi ciliegi piangenti.",
     "experience": "Percorri la strada delle residenze storiche e visita una casa accessibile.",
     "season": "Primavera / autunno",
-    "wp": "Kakunodate",
+    "wiki": "Kakunodate",
     "query": "Kakunodate samurai street sakura",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -926,7 +926,7 @@ window.YumeJapanDestinations=[
     "desc": "Simbolo della cultura del regno delle Ryūkyū, fortemente danneggiato da un incendio nel 2019 e in ricostruzione.",
     "experience": "Visita il parco del castello e segui i progetti di recupero del patrimonio.",
     "season": "Tutto l'anno",
-    "wp": "Shuri Castle",
+    "wiki": "Shuri Castle",
     "query": "Shuri Castle Okinawa reconstruction",
     "link": "https://www.japan.travel/it/",
     "note": "Verifica quali parti del castello siano accessibili durante i restauri."
@@ -941,7 +941,7 @@ window.YumeJapanDestinations=[
     "desc": "Promontorio di roccia calcarea che si affaccia sul mare turchese della costa occidentale.",
     "experience": "Passeggia sul percorso panoramico lungo le scogliere.",
     "season": "Primavera / estate",
-    "wp": "Cape Manzamo",
+    "wiki": "Cape Manzamo",
     "query": "Manzamo Okinawa elephant rock",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -956,7 +956,7 @@ window.YumeJapanDestinations=[
     "desc": "Celebre acquario dell'Ocean Expo Park, noto per la grande vasca con squali balena e mante.",
     "experience": "Scopri la biodiversità marina delle Ryūkyū e le esposizioni educative.",
     "season": "Tutto l'anno",
-    "wp": "Okinawa Churaumi Aquarium",
+    "wiki": "Okinawa Churaumi Aquarium",
     "query": "Okinawa Churaumi Aquarium whale shark",
     "link": "https://www.japan.travel/it/",
     "note": ""
@@ -971,7 +971,7 @@ window.YumeJapanDestinations=[
     "desc": "Isola subtropicale con spiagge, coralli e coltivazioni, porta delle isole Yaeyama.",
     "experience": "Esplora la costa e i punti panoramici rispettando il corallo.",
     "season": "Primavera / autunno",
-    "wp": "Ishigaki Island",
+    "wiki": "Ishigaki Island",
     "query": "Ishigaki island Kabira Bay",
     "link": "https://www.japan.travel/it/",
     "note": "Proteggi la barriera corallina e segui le indicazioni locali per il mare."
@@ -986,7 +986,7 @@ window.YumeJapanDestinations=[
     "desc": "Isola celebre per le spiagge di sabbia chiara, il mare trasparente e i lunghi ponti panoramici.",
     "experience": "Visita le spiagge balneabili e osserva i colori del mare dalla costa.",
     "season": "Primavera / autunno",
-    "wp": "Miyakojima",
+    "wiki": "Miyakojima",
     "query": "Miyakojima Okinawa Yonaha Maehama beach",
     "link": "https://www.japan.travel/it/",
     "note": ""
