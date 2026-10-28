@@ -8,7 +8,7 @@ const get=id=>document.getElementById(id),main=get('atlas-grid'),svg=get('japan-
 if(!main||!svg||!data.length)return;
 const names=['Hokkaidō','Tōhoku','Kantō','Chūbu','Kansai','Chūgoku','Shikoku','Kyūshū','Okinawa'];
 const palette={'Hokkaidō':'#a0d7b4','Tōhoku':'#9bbce0','Kantō':'#b9b5ef','Chūbu':'#d1c1e8','Kansai':'#f3bfc8','Chūgoku':'#edca9c','Shikoku':'#f5bd9b','Kyūshū':'#a5cde0','Okinawa':'#98e5de'};
-const coords={'Hokkaidō':[780,110],'Tōhoku':[714,280],'Kantō':[676,440],'Chūbu':[560,435],'Kansai':[452,495],'Chūgoku':[335,525],'Shikoku':[390,588],'Kyūshū':[256,595],'Okinawa':[173,780]};
+const coords={'Hokkaidō':[783,111],'Tōhoku':[691,269],'Kantō':[624,426],'Chūbu':[548,382],'Kansai':[463,458],'Chūgoku':[331,432],'Shikoku':[373,492],'Kyūshū':[232,544],'Okinawa':[170,770]};
 const nativeNS='http://www.w3.org/2000/svg';
 const el=(tag,klass,t)=>{const node=document.createElement(tag);if(klass)node.className=klass;if(t!==undefined)node.textContent=t;return node};
 const sv=(tag,attr)=>{const node=document.createElementNS(nativeNS,tag);for(const [k,v] of Object.entries(attr||{}))node.setAttribute(k,String(v));return node};
@@ -94,11 +94,11 @@ function updateRegionState(){
 function drawMap(){
  svg.replaceChildren();
  const bg=sv('g',{'aria-hidden':'true'}),map=sv('g',{}),labels=sv('g',{'class':'japan-map-labels'});
- bg.append(sv('rect',{x:0,y:0,width:1000,height:870,rx:24,fill:'#131c35'}));
+ bg.append(sv('rect',{x:0,y:0,width:1100,height:870,rx:24,fill:'#131c35'}));
  for(const [x,y,rx] of [[760,130,90],[620,315,120],[400,540,80],[168,748,120]]){
   bg.append(sv('ellipse',{cx:x,cy:y,rx,ry:rx*.65,fill:'#3b5679',opacity:'.15'}))
  }
- bg.append(sv('path',{d:'M15 665 H975',stroke:'#ffffff24','stroke-width':'1','stroke-dasharray':'6 8'}));
+ bg.append(sv('path',{d:'M15 665 H1085',stroke:'#ffffff24','stroke-width':'1','stroke-dasharray':'6 8'}));
  bg.append(sv('rect',{x:12,y:679,width:355,height:165,rx:16,fill:'#1b3145',stroke:'#7cb5b04a','stroke-width':'2'}));
  const islandLabel=sv('text',{x:30,y:707,fill:'#d8f5ee','font-size':18,'font-weight':700});islandLabel.textContent='沖縄 · Isole di Okinawa';bg.append(islandLabel);
  const sea=sv('text',{x:40,y:115,fill:'#6c9db4','font-size':23,opacity:.55,'font-weight':700});sea.textContent='MARE DEL GIAPPONE';bg.append(sea);
