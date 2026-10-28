@@ -146,5 +146,13 @@
  document.getElementById('yokai-categories').textContent=String(categoryList.length);
  document.querySelectorAll('[data-yokai-total]').forEach(x=>x.textContent=all.length.toLocaleString('it-IT'));
  document.querySelectorAll('[data-yokai-groupcount]').forEach(x=>x.textContent=String(categoryList.length));
+ document.querySelectorAll('[data-yokai-category]').forEach(button=>{
+   button.addEventListener('click',()=>{
+    selectedCategory=button.dataset.yokaiCategory;
+    search.value='';type.value='all';letter.value='all';region.value='all';
+    filter();
+    document.getElementById('yokai-searchtools')?.scrollIntoView({behavior:'smooth',block:'start'});
+   });
+ });
  updateFavoriteCount();filter();
 })();
