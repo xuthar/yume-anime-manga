@@ -1754,8 +1754,8 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Kijimuna",
     "query": "Kijimunā Okinawa",
     "source": {
-      "name": "Folklore regionale: ricerca Nichibunken",
-      "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
+      "name": "Ocean Expo Park · folclore di Okinawa (introduzione)",
+      "url": "https://oki-park.jp/kaiyohaku/en/inst/79/6889"
     },
     "research": {
       "name": "Nichibunken · archivio dei racconti regionali",
@@ -1784,8 +1784,8 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Kenmun",
     "query": "Kenmun Okinawa",
     "source": {
-      "name": "Folklore regionale: ricerca Nichibunken",
-      "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
+      "name": "Ocean Expo Park · folclore di Okinawa (introduzione)",
+      "url": "https://oki-park.jp/kaiyohaku/en/inst/79/6889"
     },
     "research": {
       "name": "Nichibunken · archivio dei racconti regionali",
@@ -1814,8 +1814,8 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Akamatā-Kuromatā",
     "query": "Akamatā-Kuromatā Okinawa",
     "source": {
-      "name": "Folklore regionale: ricerca Nichibunken",
-      "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
+      "name": "Ocean Expo Park · folclore di Okinawa (introduzione)",
+      "url": "https://oki-park.jp/kaiyohaku/en/inst/79/6889"
     },
     "research": {
       "name": "Nichibunken · archivio dei racconti regionali",
@@ -1844,8 +1844,8 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Paantu",
     "query": "Pāntū Okinawa",
     "source": {
-      "name": "Folklore regionale: ricerca Nichibunken",
-      "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
+      "name": "Ocean Expo Park · folclore di Okinawa (introduzione)",
+      "url": "https://oki-park.jp/kaiyohaku/en/inst/79/6889"
     },
     "research": {
       "name": "Nichibunken · archivio dei racconti regionali",
@@ -1874,8 +1874,8 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Mabui",
     "query": "Okinawan mabui soul ritual traditional",
     "source": {
-      "name": "Folklore regionale: ricerca Nichibunken",
-      "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
+      "name": "Ocean Expo Park · folclore di Okinawa (introduzione)",
+      "url": "https://oki-park.jp/kaiyohaku/en/inst/79/6889"
     },
     "research": {
       "name": "Nichibunken · archivio dei racconti regionali",
@@ -1904,8 +1904,8 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Hinukan",
     "query": "Hinukan Okinawa",
     "source": {
-      "name": "Folklore regionale: ricerca Nichibunken",
-      "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
+      "name": "Ocean Expo Park · folclore di Okinawa (introduzione)",
+      "url": "https://oki-park.jp/kaiyohaku/en/inst/79/6889"
     },
     "research": {
       "name": "Nichibunken · archivio dei racconti regionali",
@@ -1934,8 +1934,8 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Nirai Kanai",
     "query": "Nirai Kanai Okinawa",
     "source": {
-      "name": "Folklore regionale: ricerca Nichibunken",
-      "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
+      "name": "Ocean Expo Park · folclore di Okinawa (introduzione)",
+      "url": "https://oki-park.jp/kaiyohaku/en/inst/79/6889"
     },
     "research": {
       "name": "Nichibunken · archivio dei racconti regionali",
@@ -1964,11 +1964,11 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Koropokkur",
     "query": "Koropokkuru Ainu",
     "source": {
-      "name": "Studi sulle culture Ainu: JNTO / fonti regionali",
-      "url": "https://www.japan.travel/en/spot/15/"
+      "name": "Upopoy · Museo Nazionale Ainu (contesto culturale)",
+      "url": "https://ainu-upopoy.go.jp/en/museum/"
     },
     "research": {
-      "name": "Nichibunken · archivio dei racconti regionali",
+      "name": "Nichibunken · database delle tradizioni",
       "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
     },
     "collection": "Tradizioni Ainu",
@@ -1994,11 +1994,11 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Kamuy",
     "query": "Kimun-kamuy Ainu",
     "source": {
-      "name": "Studi sulle culture Ainu: JNTO / fonti regionali",
-      "url": "https://www.japan.travel/en/spot/15/"
+      "name": "Upopoy · Museo Nazionale Ainu (contesto culturale)",
+      "url": "https://ainu-upopoy.go.jp/en/museum/"
     },
     "research": {
-      "name": "Nichibunken · archivio dei racconti regionali",
+      "name": "Nichibunken · database delle tradizioni",
       "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
     },
     "collection": "Tradizioni Ainu",
@@ -2024,11 +2024,11 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Kamuy",
     "query": "Repun-kamuy Ainu",
     "source": {
-      "name": "Studi sulle culture Ainu: JNTO / fonti regionali",
-      "url": "https://www.japan.travel/en/spot/15/"
+      "name": "Upopoy · Museo Nazionale Ainu (contesto culturale)",
+      "url": "https://ainu-upopoy.go.jp/en/museum/"
     },
     "research": {
-      "name": "Nichibunken · archivio dei racconti regionali",
+      "name": "Nichibunken · database delle tradizioni",
       "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
     },
     "collection": "Tradizioni Ainu",
@@ -2054,11 +2054,11 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Kamuy",
     "query": "Ape-huci-kamuy Ainu",
     "source": {
-      "name": "Studi sulle culture Ainu: JNTO / fonti regionali",
-      "url": "https://www.japan.travel/en/spot/15/"
+      "name": "Upopoy · Museo Nazionale Ainu (contesto culturale)",
+      "url": "https://ainu-upopoy.go.jp/en/museum/"
     },
     "research": {
-      "name": "Nichibunken · archivio dei racconti regionali",
+      "name": "Nichibunken · database delle tradizioni",
       "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
     },
     "collection": "Tradizioni Ainu",
@@ -2084,11 +2084,11 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Kamuy",
     "query": "Kanna-kamuy Ainu",
     "source": {
-      "name": "Studi sulle culture Ainu: JNTO / fonti regionali",
-      "url": "https://www.japan.travel/en/spot/15/"
+      "name": "Upopoy · Museo Nazionale Ainu (contesto culturale)",
+      "url": "https://ainu-upopoy.go.jp/en/museum/"
     },
     "research": {
-      "name": "Nichibunken · archivio dei racconti regionali",
+      "name": "Nichibunken · database delle tradizioni",
       "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
     },
     "collection": "Tradizioni Ainu",
@@ -2114,11 +2114,11 @@ window.YumeYokai=[...(window.YumeYokai||[]),...[
     "wiki": "Kamuy",
     "query": "Kotankor-kamuy Ainu",
     "source": {
-      "name": "Studi sulle culture Ainu: JNTO / fonti regionali",
-      "url": "https://www.japan.travel/en/spot/15/"
+      "name": "Upopoy · Museo Nazionale Ainu (contesto culturale)",
+      "url": "https://ainu-upopoy.go.jp/en/museum/"
     },
     "research": {
-      "name": "Nichibunken · archivio dei racconti regionali",
+      "name": "Nichibunken · database delle tradizioni",
       "url": "https://www.nichibun.ac.jp/en/db/category/yokai/"
     },
     "collection": "Tradizioni Ainu",
