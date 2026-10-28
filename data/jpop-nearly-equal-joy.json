@@ -1,0 +1,101 @@
+{
+  "artist": "≒JOY",
+  "checkedAt": "2026-10-28",
+  "groupImage": "https://idolrunwaycollection.jp/assets/images/lineup_nearly-equal-joy.jpg?v=20260625195856",
+  "members": [],
+  "albums": [
+    {
+      "id": "nearly-equal-joy-0",
+      "date": "2026-02-18",
+      "title": "電話番号教えて！",
+      "kind": "single",
+      "note": "Archivio parziale verificato al 28/10/2026. Le versioni fisiche e digitali possono avere tracce differenti: sono indicate solo le canzoni accertate. I collegamenti di ascolto avviano una ricerca.",
+      "source": "https://nearly-equal-joy.jp/discography/detail/45/",
+      "trackSource": "https://nearly-equal-joy.jp/discography/detail/45/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione verificata · 2026-02-18",
+          "source": "https://nearly-equal-joy.jp/discography/detail/45/",
+          "sourceLabel": "Fonte della pubblicazione",
+          "cover": "",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "電話番号教えて！",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%92JOY%20%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E6%95%99%E3%81%88%E3%81%A6%EF%BC%81%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%92JOY%20%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E6%95%99%E3%81%88%E3%81%A6%EF%BC%81"
+                },
+                {
+                  "title": "アマガミガール feat. DJ ALICE",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%92JOY%20%E3%82%A2%E3%83%9E%E3%82%AC%E3%83%9F%E3%82%AC%E3%83%BC%E3%83%AB%20feat.%20DJ%20ALICE%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%92JOY%20%E3%82%A2%E3%83%9E%E3%82%AC%E3%83%9F%E3%82%AC%E3%83%BC%E3%83%AB%20feat.%20DJ%20ALICE"
+                },
+                {
+                  "title": "愛が痛かった",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%92JOY%20%E6%84%9B%E3%81%8C%E7%97%9B%E3%81%8B%E3%81%A3%E3%81%9F%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%92JOY%20%E6%84%9B%E3%81%8C%E7%97%9B%E3%81%8B%E3%81%A3%E3%81%9F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nearly-equal-joy-1",
+      "date": "2026-08-05",
+      "title": "サマーツインテール",
+      "kind": "single",
+      "note": "Archivio parziale verificato al 28/10/2026. Le versioni fisiche e digitali possono avere tracce differenti: sono indicate solo le canzoni accertate. I collegamenti di ascolto avviano una ricerca.",
+      "source": "https://www.sonymusic.co.jp/artist/nearly-equal-joy/",
+      "trackSource": "https://www.sonymusic.co.jp/artist/nearly-equal-joy/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Selezione verificata · 2026-08-05",
+          "source": "https://www.sonymusic.co.jp/artist/nearly-equal-joy/",
+          "sourceLabel": "Fonte della pubblicazione",
+          "cover": "",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "サマーツインテール",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%92JOY%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%84%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%92JOY%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%84%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale",
+      "url": "https://nearly-equal-joy.jp/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://nearly-equal-joy.jp/discography/"
+    },
+    {
+      "label": "Profili e informazioni",
+      "url": "https://nearly-equal-joy.jp/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "La foto ritrae una formazione promozionale 2026; si rimanda ai profili ufficiali per eventuali variazioni."
+}
