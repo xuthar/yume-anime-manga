@@ -112,3 +112,20 @@ body.yokai-page{min-height:100vh;background:radial-gradient(ellipse 65% 40% at 1
 .yokai-picture img{background:#eadbc0!important}
 @media(max-width:1200px){.yokai-guide-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.yokai-guide-card{min-height:205px}.yokai-art-strip img{height:150px}}
 @media(max-width:680px){.yokai-guide,.yokai-illustrated-shelf{margin:25px 0 28px}.yokai-guide-grid{grid-template-columns:1fr}.yokai-guide-card{min-height:0;padding:16px}.yokai-guide-card h3{margin-top:8px}.yokai-guide-card p{margin-bottom:9px}.yokai-art-strip{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}.yokai-art-strip figure{flex:0 0 40%;scroll-snap-align:start}.yokai-art-strip img{height:150px}.yokai-queryrow>.yokai-classification{flex:1 1 42%;max-width:none;min-width:0}.yokai-queryrow>.yokai-random{width:100%}.yokai-tools-bottom{flex-wrap:wrap}.yokai-fav-status{margin-right:auto}}
+
+/* Cultural connections, glossary and secondary essays. */
+.yokai-culture,.yokai-glossary{margin:38px 0;padding:25px 0;border-top:1px solid #ffffff29}
+.yokai-culture h2,.yokai-glossary h2{font:620 clamp(23px,3.2vw,32px)/1.2 Outfit,sans-serif;margin:11px 0 12px;color:#f2e4ef}
+.yokai-culture>p{max-width:930px;color:#cabfd1;font:400 12.5px/1.85 'DM Sans',sans-serif}
+.yokai-culture-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}
+.yokai-culture-grid article{border:1px solid #ffffff26;background:linear-gradient(145deg,#2d283f,#1a2636);border-radius:12px;padding:18px}
+.yokai-culture-grid strong{font:500 13px serif;color:#ebbcd6}
+.yokai-culture-grid h3{font:600 17px/1.35 Outfit,sans-serif;color:#f5e8ed;margin:8px 0}
+.yokai-culture-grid p{font:400 12px/1.75 'DM Sans',sans-serif;color:#d6cede;margin:0}
+.yokai-glossary-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:18px;align-items:start}
+.yokai-glossary-grid details{border:1px solid #ffffff2a;background:#25283e;border-radius:10px;padding:14px}
+.yokai-glossary-grid summary{cursor:pointer;color:#eed5e4;font:600 12.5px/1.6 'DM Sans',sans-serif}
+.yokai-glossary-grid details[open]{border-color:#d8a6c066}
+.yokai-glossary-grid p{font:400 12px/1.75 'DM Sans',sans-serif;color:#d0c9db;margin:10px 0 0}
+@media(max-width:1000px){.yokai-culture-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.yokai-glossary-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.yokai-culture,.yokai-glossary{margin:28px 0;padding:22px 0}.yokai-culture-grid,.yokai-glossary-grid{grid-template-columns:1fr}.yokai-culture-grid article{padding:16px}}
