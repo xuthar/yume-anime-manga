@@ -58,3 +58,9 @@
 .home-page footer .footer-discoveries .footer-travel-world{color:#d2c8ff;border-color:#c4b2ff55;background:#c4b2ff09}
 .home-page footer .footer-discoveries>a:hover,.home-page footer .footer-discoveries>a:focus-visible{background:#ffffff19;border-color:#c8f5ec;text-decoration:underline}
 @media(max-width:650px){.home-page footer .footer-discoveries{gap:7px}.home-page footer .footer-discoveries>a{flex:1 1 100%;margin:0;min-width:0;font-size:11px;padding:9px}}
+
+/* Fourth Japan gateway: folklore & illustrated yokai, on its own subtle line. */
+.home-page footer .footer-discoveries .footer-yokai-world{flex:0 1 350px;color:#f0c3d9;border-color:#e7b3d05b;background:#e7b3d00e}
+.home-page footer .footer-discoveries .footer-yokai-world:hover,.home-page footer .footer-discoveries .footer-yokai-world:focus-visible{border-color:#ffdae9;background:#f7d6e621}
+@media(min-width:651px){.home-page footer .footer-discoveries .footer-yokai-world{margin-inline:calc(50% - 175px);max-width:350px}}
+@media(max-width:650px){.home-page footer .footer-discoveries .footer-yokai-world{flex:1 1 100%;max-width:none;margin:0}}
