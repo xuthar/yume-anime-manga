@@ -7,3 +7,7 @@ body>header.y3-header>nav{display:flex;flex-wrap:nowrap;justify-content:center;a
 body>header.y3-header>nav a{flex:0 0 auto;display:inline-flex;align-items:center;justify-content:center;min-height:37px;padding:8px 12px;border-radius:9px;white-space:nowrap;color:var(--soft);font-size:12px}
 body>header.y3-header>nav a:hover,body>header.y3-header>nav a:focus-visible,body>header.y3-header>nav a[aria-current="page"]{color:var(--text);background:rgba(139,227,220,.13);text-decoration:none}
 @media(max-width:750px){body>header.y3-header{padding:14px 16px 10px;row-gap:9px}body>header.y3-header>nav{justify-content:flex-start;gap:4px}body>header.y3-header>nav a{padding:9px 11px}}
+
+/* Link back to the Yume 3.0 gateway, above each experience. */
+.y3-back-hub{display:inline-flex;align-items:center;min-height:38px;padding:8px 13px;margin:0 0 17px;border:1px solid rgba(145,221,208,.32);border-radius:30px;background:rgba(145,221,208,.07);color:#aee8df;font-size:12px;text-decoration:none}
+.y3-back-hub:hover,.y3-back-hub:focus-visible{color:#fff;border-color:#aee8df;text-decoration:none}

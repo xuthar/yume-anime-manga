@@ -1,1 +1,23 @@
-.y3-feature-header{text-align:center;color:#9adbd5;font-weight:700;letter-spacing:.08em;font-size:.85rem;margin:32px 0 12px}.y3-feature-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;max-width:1220px;margin:10px auto 52px;padding:0 24px}.y3-feature-grid a{display:block;background:linear-gradient(135deg,#28344f,#19273d);color:#e9f7f7;border:1px solid #5b718d;border-radius:17px;padding:22px;text-decoration:none;transition:border-color .2s,transform .2s}.y3-feature-grid h3{margin:8px 0;font-size:1.25rem;color:#f0ffff}.y3-feature-grid p{font-size:.9rem;color:#c8d3e5}.y3-feature-grid a:hover{border-color:#84dbcf;transform:translateY(-2px)}@media(max-width:700px){.y3-feature-grid{grid-template-columns:1fr}}@media(prefers-reduced-motion:reduce){.y3-feature-grid a{transition:none}.y3-feature-grid a:hover{transform:none}}
+
+/* Annuncio speciale Yume 3.0 · dopo la hero */
+.y3-announcement{max-width:1350px;margin:clamp(20px,3.2vw,44px) auto clamp(35px,5vw,65px);display:grid;grid-template-columns:minmax(0,1.15fr) minmax(340px,.85fr);overflow:hidden;border:1px solid rgba(204,156,238,.5);border-radius:24px;min-height:420px;background:linear-gradient(135deg,#151a35,#151126 65%,#20204d);box-shadow:0 26px 64px rgba(6,8,25,.4),0 0 0 1px rgba(227,189,255,.07) inset;isolation:isolate}
+.y3-announcement-art{position:relative;min-height:440px;overflow:hidden;background:radial-gradient(ellipse at 53% 42%,#452a75,#131329 78%)}
+.y3-announcement-art:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent 70%,#15152a 100%);pointer-events:none}
+.y3-announcement-art img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+.y3-art-stamp{position:absolute;top:25px;left:25px;z-index:1;background:rgba(15,16,43,.62);border:1px solid rgba(249,195,233,.5);border-radius:30px;padding:8px 13px;color:#ffe3f5;font-size:10px;letter-spacing:.12em;font-weight:800;backdrop-filter:blur(8px)}
+.y3-announcement-copy{display:flex;flex-direction:column;justify-content:center;align-items:flex-start;padding:clamp(26px,3.5vw,55px);position:relative}
+.y3-announcement-copy:before{content:"";position:absolute;inset:auto -60px -170px auto;width:280px;height:280px;border-radius:50%;background:#bd64d530;filter:blur(50px);pointer-events:none}
+.y3-announcement-eyebrow{display:inline-flex;gap:9px;align-items:center;letter-spacing:.11em;font-size:11px;font-weight:750;color:#e2b5ee}
+.y3-live-dot{width:8px;height:8px;border-radius:50%;background:#f6a4d9;box-shadow:0 0 12px #f6a4d9}
+.y3-announcement-copy h2{font:600 clamp(40px,4.4vw,68px)/1.08 Outfit,system-ui,sans-serif;letter-spacing:-.045em;color:#fff;margin:20px 0 18px}
+.y3-announcement-copy h2 em{font-style:normal;background:linear-gradient(100deg,#c9e4ff,#f8a6de 65%,#ffbad8);background-clip:text;-webkit-background-clip:text;color:transparent}
+.y3-announcement-copy p{font-size:clamp(14px,1.2vw,17px);line-height:1.72;color:#d7d8ef;max-width:480px;margin:0 0 22px}
+.y3-announcement-pills{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 25px}
+.y3-announcement-pills span{border:1px solid #bcb7e05c;border-radius:30px;padding:7px 10px;background:#ffffff0a;font-size:12px;color:#f4ebff}
+a.y3-announcement-button{display:inline-flex;align-items:center;justify-content:center;gap:18px;min-height:53px;padding:13px 25px;border-radius:50px;background:linear-gradient(105deg,#efb5ea,#bba9ff);font:700 14px Outfit,system-ui,sans-serif;text-decoration:none;color:#17152c;box-shadow:0 10px 30px #ce84ed50;transition:transform .2s,box-shadow .2s}
+a.y3-announcement-button:hover{transform:translateY(-2px);box-shadow:0 13px 37px #ce84ed75}
+.y3-announcement-button span{font-size:20px}
+.y3-announcement-copy small{font-size:11px;color:#aeb7d0;line-height:1.6;margin-top:16px}
+@media(max-width:1100px){.y3-announcement{margin-inline:3%;grid-template-columns:1.05fr 1fr}.y3-announcement-art{min-height:400px}}
+@media(max-width:740px){.y3-announcement{grid-template-columns:1fr;margin:22px 4% 40px;border-radius:17px}.y3-announcement-art{min-height:0;aspect-ratio:1.68}.y3-announcement-art:after{background:linear-gradient(0deg,#17152b,transparent 32%)}.y3-announcement-copy{padding:25px 24px 32px}.y3-announcement-copy h2{margin:14px 0}.y3-art-stamp{top:14px;left:14px}.y3-announcement-copy p{font-size:14px}}
+@media(prefers-reduced-motion:reduce){a.y3-announcement-button{transition:none}a.y3-announcement-button:hover{transform:none}}
