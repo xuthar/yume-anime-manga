@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-10-29",
+  "scope": "Verifica delle uscite IT/EN pertinenti alla collezione, senza aggiunta di acquisti, prezzi, volumi o identificativi presunti. JP escluso.",
+  "sourceSpreadsheet": "Lista anime di Xuthar",
+  "items": [
+    {
+      "title": "Fist of the North Star",
+      "language": "IT/EN",
+      "editorialNote": "AnimeClick calendario ottobre indica per il 29/10/2026 Ken il guerriero - Deluxe Edition n.5, Panini Comics IT, prezzo di listino €50. È una diversa edizione rispetto ai 18 hardcover inglesi VIZ Media registrati come posseduti. La data di distribuzione effettiva resta da confermare nel riepilogo settimanale; nessun acquisto, prezzo o ISBN del posseduto modificato.",
+      "editorialSource": "https://www.animeclick.it/news/111867-manga-tutte-le-uscite-italiane-di-ottobre-2026"
+    },
+    {
+      "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+      "language": "EN",
+      "editorialNote": "Rettifica del 29/10/2026: Seven Seas ha aggiornato la data della scheda ufficiale del MANGA inglese n.9 al 03/11/2026, ora coerente col calendario generale (prima indicava 27/10). Prezzo editoriale $13.99 e ISBN 979-8-89863-194-9; il MANGA non è ancora pubblicato al 29/10 ed è distinto dalle 11 LIGHT NOVEL Airship inglesi registrate. Nessuna copia aggiunta e nessun prezzo EUR attribuito.",
+      "editorialSource": "https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-manga-vol-9/"
+    }
+  ],
+  "checkedOther": [
+    {
+      "title": "The Dungeon of Black Company",
+      "status": "Seven Seas conferma data editoriale EN n.14 27/10/2026; 5 unità Saldapress italiane già registrate, senza modifiche."
+    },
+    {
+      "title": "Grand Blue / I diari della speziale",
+      "status": "Le uscite J-POP della settimana 26/10–01/11 risultano già annotate nell'audit del 28/10. Nessuna nuova attribuzione di possesso."
+    }
+  ],
+  "limits": "Controllo incrementale delle uscite recenti, non verifica esaustiva dei singoli volumi di tutte le 233 opere."
+}
