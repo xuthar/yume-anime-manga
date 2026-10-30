@@ -11,6 +11,7 @@ const read=(k,fallback)=>{try{const x=JSON.parse(localStorage.getItem(k)||'null'
 const store=(k,value)=>{try{localStorage.setItem(k,JSON.stringify(value))}catch{}};
 let favorites=new Set(Array.isArray(read(favoriteKey,[]))?read(favoriteKey,[]):[]),readMode=read(readingKey,false)===true;
 const articleLink=a=>'magazine-article.html?id='+encodeURIComponent(a.slug);
+const pdfLink=(issue,label)=>{const path='assets/yume-magazine-numero-'+String(issue.number).padStart(2,'0')+'.pdf';const a=link(label||'↓ Scarica PDF completo',path,'ye-pdf-download');a.download='Yume-Magazine-Numero-'+String(issue.number).padStart(2,'0')+'.pdf';a.type='application/pdf';return a};
 const sourceURL=s=>{try{const u=new URL(s);return u.protocol==='https:'?u.href:null}catch{return null}};
 function favoriteButton(a){
  const b=make('button','ye-fav');
@@ -28,7 +29,7 @@ function homePage(data){
  const issue=data.issues[0],articles=data.articles,featured=articles.find(a=>a.slug===issue.featuredSlug)||articles[0];
  const issueBlock=make('section','ye-issue-cover');issueBlock.append(make('p','ye-kicker','YUME MAGAZINE · NUMERO 00 · '+dateString(issue.date)),make('h2','',issue.title),make('p','ye-lead',issue.theme));
  const cover=make('div','ye-issue-feature'),art=make('div','ye-issue-art');append(art,make('span','ye-art-kanji','夢'),make('span','ye-art-sub','YUME / STORIES'));
- const body=make('div','ye-issue-feature-copy');append(body,make('span','ye-kicker','IN COPERTINA'),make('h3','',featured.title),make('p','',featured.subtitle),link('Leggi la cover story →',articleLink(featured),'ye-cta'));cover.append(art,body);issueBlock.append(cover);root.append(issueBlock);
+ const body=make('div','ye-issue-feature-copy');append(body,make('span','ye-kicker','IN COPERTINA'),make('h3','',featured.title),make('p','',featured.subtitle),link('Leggi la cover story →',articleLink(featured),'ye-cta'));cover.append(art,body);issueBlock.append(cover,pdfLink(issue,'↓ Scarica il Numero '+issue.number+' illustrato · PDF'));root.append(issueBlock);
  const section=make('section','ye-mag-index');append(section,make('h2','','Sfoglia il Numero Zero'),make('p','ye-muted','Otto articoli originali: adattamenti, storia delle opere, musica, collezionismo e Giappone. Non è un feed di notizie automatiche.'));
  const bar=make('div','ye-toolbar'),q=make('input'),category=make('select'),onlySaved=make('label','ye-checkbox'),tick=make('input');q.type='search';q.placeholder='Cerca una rubrica o un articolo…';q.setAttribute('aria-label','Cerca articoli');tick.type='checkbox';onlySaved.append(tick,document.createTextNode('Solo preferiti'));
  const cats=['Tutte le rubriche',...new Set(articles.map(a=>a.category))];cats.forEach((c,i)=>{const o=make('option','',c);o.value=i?c:'all';category.append(o)});category.setAttribute('aria-label','Filtra rubriche');
@@ -38,14 +39,23 @@ function homePage(data){
  count.textContent=filtered.length+' articoli nel numero 00';filtered.forEach((a,i)=>grid.append(card(a,i)));if(!filtered.length)grid.append(make('p','ye-empty','Nessun articolo corrisponde ai filtri selezionati.'))}
  q.oninput=category.onchange=tick.onchange=render;render();
  const archive=make('section','ye-archive');append(archive,make('h2','','Archivio dei numeri'),make('p','ye-muted','Numero Zero — 30 ottobre 2026. I prossimi numeri verranno pubblicati soltanto quando saranno pronti: nessun contenuto futuro simulato.'));
- const tag=make('div','ye-archive-issue');append(tag,make('strong','','N° '+issue.number+' · '+issue.title),make('span','',dateString(issue.date)),make('span','',issue.articleSlugs.length+' articoli'));archive.append(tag);root.append(archive)
+ const tag=make('div','ye-archive-issue');append(tag,make('strong','','N° '+issue.number+' · '+issue.title),make('span','',dateString(issue.date)),make('span','',issue.articleSlugs.length+' articoli'));tag.append(pdfLink(issue,'↓ PDF completo'));archive.append(tag);root.append(archive);loadPdfArchive(archive,issue)
+}
+async function loadPdfArchive(archive,current){
+ try{
+  const r=await fetch('data/magazine/pdf-catalog.json?v=20261030');if(!r.ok)return;
+  const d=await r.json();
+  const extra=Array.isArray(d.issues)?d.issues.filter(i=>String(i.number)!==String(current.number)):[];
+  extra.forEach(i=>{const row=make('div','ye-archive-issue');
+   append(row,make('strong','','N° '+i.number+' · '+i.title),make('span','',dateString(i.date)),make('span','',i.articles+' articoli'),pdfLink(i,'↓ PDF completo'));archive.append(row)})
+ }catch(e){}
 }
 function articlePage(data){
  const slug=new URLSearchParams(location.search).get('id'),a=data.articles.find(x=>x.slug===slug);
  if(!a){root.append(make('p','ye-empty','Articolo non trovato o non ancora pubblicato.'),link('← Torna al Magazine','yume-magazine.html'));return}
  document.title=a.title+' — Yume Magazine';
  const head=make('header','ye-article-head'),tools=make('div','ye-article-tools');
- tools.append(link('← Numero Zero','yume-magazine.html','ye-back'),readingButton(),favoriteButton(a));
+ tools.append(link('← Numero Zero','yume-magazine.html','ye-back'),readingButton(),favoriteButton(a),pdfLink(data.issues[0],'↓ PDF completo'));
  append(head,tools,make('p','ye-kicker',a.category.toUpperCase()+' · NUMERO 00'),make('h1','',a.title),make('p','ye-lead',a.subtitle),make('p','ye-muted',a.byline+' · '+dateString(a.publishedAt)+' · '+a.reading+' minuti'));
  root.append(head);
  const layout=make('div','ye-reader-layout'),aside=make('aside','ye-toc'),h=make('h2','','In questo articolo'),ol=make('ol');aside.append(h,ol);

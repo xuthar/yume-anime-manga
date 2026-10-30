@@ -129,3 +129,12 @@
 @media(max-width:530px){.ye-comparison-grid,.ye-mag-grid{grid-template-columns:1fr}.ye-compare-art{height:120px}.ye-toolbar{flex-direction:column;align-items:stretch}.ye-toolbar input,.ye-toolbar select{width:100%;min-width:0}.ye-mag-actions{gap:8px}.ye-archive-issue{gap:6px}.ye-hero h1{font-size:40px}.ye-article-head h1{font-size:35px}.ye-article-tools{gap:6px}}
 @media(prefers-reduced-motion:reduce){.ye-compare-card,.ye-mag-card{transition:none}.ye-compare-card:hover,.ye-mag-card:hover{transform:none}}
 @media print{body{background:white!important;color:black!important}.y3-header,.y3-footer,.ye-article-tools,.ye-toc,.ye-bottom-cta,.ye-mag-card,.ye-end-nav{display:none!important}.ye-main{max-width:100%;padding:0}.ye-reader-layout{display:block}.ye-story p,.ye-story h2{color:black!important}.ye-story>section{break-inside:avoid}a[href]:after{content:""}}
+
+/* Edition download */
+.ye-pdf-hero-link,.ye-pdf-download{display:inline-flex;align-items:center;justify-content:center;padding:11px 16px;border:1px solid #e4b5de;border-radius:11px;background:linear-gradient(105deg,#f6b8dc,#b4d7ed);color:#16223a!important;text-decoration:none;font-weight:850;font-size:12px;box-shadow:0 7px 19px #c773b52e}
+.ye-pdf-hero-link{margin-top:20px}
+.ye-pdf-hero-link:hover,.ye-pdf-download:hover{filter:brightness(1.05)}
+.ye-issue-cover>.ye-pdf-download{margin:18px 0 10px}
+.ye-archive-issue>.ye-pdf-download{margin-left:auto}
+@media(max-width:640px){.ye-pdf-hero-link{width:100%;text-align:center}.ye-archive-issue>.ye-pdf-download{margin-left:0}}
+@media print{.ye-pdf-hero-link,.ye-pdf-download{display:none!important}}
