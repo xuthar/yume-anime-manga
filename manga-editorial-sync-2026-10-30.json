@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-30",
+  "scope": "Programmazione novembre IT pertinente a opere inventariate; calendario non prova uscita effettiva o acquisto. Nessuna edizione JP. Nessun prezzo posseduto modificato.",
+  "sourceSpreadsheet": "Lista anime di Xuthar",
+  "items": [
+    {
+      "title": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "language": "IT",
+      "editorialNote": "AnimeClick calendario novembre 2026: n.5 conclusivo Panini Comics, €10,00, giorno non pervenuto. Possesso invariato: nn.1–4 (4 copie). Non attribuire il n.5.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026"
+    },
+    {
+      "title": "Il monologo della speziale",
+      "language": "IT",
+      "editorialNote": "AnimeClick calendario novembre 2026: light novel Dokusho n.10 programmata 18/11/2026, €13,00; precedente data incerta, distribuzione non confermata. Possesso invariato: 13 copie regolari/limited/doppio n.1, n.10 non presente.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026"
+    },
+    {
+      "title": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "language": "IT",
+      "editorialNote": "AnimeClick programma n.8 Magic Press per il 12/11/2026, €7,90; calendario indicativo. Possesso invariato: nn.1–7 regolari.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026"
+    },
+    {
+      "title": "Redo of Healer",
+      "language": "IT",
+      "editorialNote": "AnimeClick programma n.18 Magic Press per il 05/11/2026, €7,50; calendario indicativo. Possesso invariato: nn.1–17 regolari.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026"
+    },
+    {
+      "title": "Silent Möbius",
+      "language": "IT",
+      "editorialNote": "AnimeClick programma Silent Möbius Complete Edition – Tales n.13 Magic Press per il 19/11/2026, €9,90. Identità editoriale di Tales rispetto a Complete Edition nn.1–12 da verificare; prequel 00 distinto. Possesso invariato: 12 copie.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026"
+    }
+  ],
+  "checkedOther": [
+    {
+      "title": "The Dungeon of Black Company",
+      "status": "EN vol.14 Seven Seas 27/10/2026 già verificato nel controllo 28/10; nessuna nuova copia IT Saldapress attribuita."
+    },
+    {
+      "title": "I'm the Evil Lord of an Intergalactic Empire!",
+      "status": "Manga EN vol.9 Seven Seas annunciato 03/11/2026; distinto dalla light novel Airship EN 1–11 posseduta."
+    }
+  ],
+  "limits": "Verifica incrementale delle nuove uscite; date programmate indicative; non revisione esaustiva dei singoli volumi delle 233 opere."
+}
