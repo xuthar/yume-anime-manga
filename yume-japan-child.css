@@ -1,0 +1,26 @@
+/* Yume Japan shared editorial links: cross-navigation for five existing atlases. */
+.yj-child-nav{max-width:1330px;width:min(100%,1330px);margin:16px auto 25px;padding:12px 15px;border:1px solid #d0add07a;border-radius:13px;background:linear-gradient(110deg,#231f3dcf,#1c2b43db);box-shadow:0 10px 30px #080c244f;display:flex;align-items:center;gap:15px;justify-content:space-between;color:#f3ebf6;box-sizing:border-box}
+.yj-child-home{display:inline-flex;gap:8px;align-items:center;font-weight:850!important;font-size:13px!important;color:#f6b7df!important;white-space:nowrap;text-decoration:none!important}
+.yj-child-home span:first-child{font-size:21px}
+.yj-child-tabs{display:flex;gap:5px;overflow-x:auto;scrollbar-width:thin;align-items:center}
+.yj-child-tabs a{display:inline-flex;padding:8px 10px;border:1px solid #ffffff20;border-radius:20px;white-space:nowrap;background:#ffffff0b;color:#d9e2ed!important;font-size:11px!important;font-weight:700;text-decoration:none!important;transition:background .2s}
+.yj-child-tabs a:hover,.yj-child-tabs a[aria-current]{background:#8e557d71;border-color:#e9bcdf82;color:#fff!important}
+.yj-child-explore{margin:45px auto 15px;padding:32px clamp(17px,3vw,32px);max-width:1300px;border:1px solid #c6a6d36b;border-radius:19px;background:radial-gradient(ellipse at 90% 0%,#75488147,transparent 60%),linear-gradient(135deg,#25273f,#1b243a);color:#ecedf8;box-sizing:border-box}
+.yj-child-overline{font-size:10px!important;letter-spacing:.17em;color:#f2b5df!important;font-weight:850}
+.yj-child-explore h2{font:600 clamp(26px,3vw,37px)/1.23 Georgia,serif!important;letter-spacing:-.025em;margin:11px 0!important;color:#fff!important}
+.yj-child-explore>p{font-size:13px!important;line-height:1.7!important;color:#c7d0df!important;margin:0 0 21px!important}
+.yj-child-picks{display:flex;gap:9px;flex-wrap:wrap;margin:0 0 20px}
+.yj-child-picks a{display:inline-flex;align-items:center;padding:9px 13px;border:1px solid #a7a3cc7c;border-radius:22px;background:#ffffff11;color:#e8d9f2!important;font-size:12px!important;font-weight:750;text-decoration:none!important}
+.yj-child-picks a:hover{background:#c789c74b;border-color:#f0c5dc}
+.yj-child-crosslinks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:11px;margin:9px 0 23px}
+.yj-child-crosslinks a{display:flex;flex-direction:column;gap:9px;min-width:0;position:relative;overflow:hidden;border:1px solid #d0b5d064;border-radius:12px;background:#131b32;color:#fff!important;text-decoration:none!important}
+.yj-child-crosslinks img{display:block;width:100%;height:115px;object-fit:cover}
+.yj-child-crosslinks a span:nth-child(2){font-size:12px!important;font-weight:800;padding:0 10px 11px}
+.yj-child-crosslinks a span:last-child{position:absolute;bottom:6px;right:9px;color:#f1bddb}
+.yj-child-return{display:inline-flex;padding:10px 19px;border-radius:25px;border:1px solid #f2b4d6;background:#ffffff10;color:#f4d4ed!important;text-decoration:none!important;font-size:12px!important;font-weight:850}
+.yj-child-return:hover{background:#edb0dc2e}
+.yume-japan-child .jp-location-hero,.yume-japan-child .atlas-hero,.yume-japan-child .yokai-hero,.yume-japan-child .jhistory-hero{box-shadow:0 22px 48px #090c2660;border-color:#c9a6d46b}
+.yume-japan-child .yj-child-explore a:focus-visible,.yume-japan-child .yj-child-nav a:focus-visible{outline:2px solid #bdf4ec;outline-offset:3px}
+@media(max-width:1080px){.yj-child-nav{flex-direction:column;align-items:flex-start}.yj-child-tabs{max-width:100%;width:100%}.yj-child-crosslinks{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:590px){.yj-child-nav{padding:11px 10px}.yj-child-tabs a{padding:7px 8px;font-size:10px!important}.yj-child-explore{padding:22px 14px;margin-top:32px}.yj-child-crosslinks img{height:86px}.yj-child-crosslinks a span:nth-child(2){font-size:11px!important}}
+@media(prefers-reduced-motion:reduce){.yj-child-tabs a{transition:none}}
