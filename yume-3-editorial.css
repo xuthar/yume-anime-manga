@@ -138,3 +138,9 @@
 .ye-archive-issue>.ye-pdf-download{margin-left:auto}
 @media(max-width:640px){.ye-pdf-hero-link{width:100%;text-align:center}.ye-archive-issue>.ye-pdf-download{margin-left:0}}
 @media print{.ye-pdf-hero-link,.ye-pdf-download{display:none!important}}
+
+
+.ye-mag-cadence{margin:5px 0 24px;padding:12px 17px;border-radius:12px;border:1px solid #7993b272;background:#ffffff0b;color:#bddfd9;font-size:12px;line-height:1.65}
+.ye-archive-issue>a.ye-link{margin-left:auto}
+.ye-archive-issue>a.ye-pdf-download{margin-left:0}
+@media(max-width:650px){.ye-archive-issue>a.ye-link{margin-left:0}}

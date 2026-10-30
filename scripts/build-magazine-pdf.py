@@ -6,6 +6,8 @@ Requires reportlab. No modification to library.json or owner data.
 from __future__ import annotations
 import glob, html, json, math, os, random
 from pathlib import Path
+from datetime import datetime, date, timedelta
+from zoneinfo import ZoneInfo
 from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor, Color
 from reportlab.lib.pagesizes import A4
@@ -302,6 +304,7 @@ def back(c,issue,page):
 def build_all(root:Path):
     outdir=root/'assets';outdir.mkdir(parents=True,exist_ok=True)
     source_files=sorted((root/'data'/'magazine').glob('*.json'))
+    today=datetime.now(ZoneInfo('Europe/Rome')).date()
     built=[]
     manifest=[]
     for src in source_files:
@@ -311,6 +314,27 @@ def build_all(root:Path):
         byslug={a['slug']:a for a in obj['articles']}
         for issue in obj['issues']:
             issue_num=str(issue['number']).zfill(2)
+            issue_date=date.fromisoformat(str(issue['date']))
+            # The launch issue 00 is a one-time exception (2026-10-30).
+            # Every later issue must date the last day of its target month.
+            month_ended=(issue_date+timedelta(days=1)).month!=issue_date.month
+            if issue_num!='00' and not month_ended:
+                print('SKIP issue',issue_num,'not dated on the last day of the month')
+                continue
+            if issue_date>today:
+                print('SKIP unreleased issue',issue_num,'until',issue_date)
+                continue
+            if issue_num!='00':
+                article_index={a.get('slug'):a for a in obj.get('articles',[]) if isinstance(a,dict)}
+                slugs=issue.get('articleSlugs',[])
+                ready=len(slugs)>=6 and len(slugs)==len(set(slugs)) and all(
+                    k in article_index and len(article_index[k].get('sections',[]))>=3
+                    and bool(article_index[k].get('sources',[])) and bool(article_index[k].get('title'))
+                    for k in slugs
+                )
+                if not ready:
+                    print('SKIP incomplete issue',issue_num,'(requires 6 original articles with sources)')
+                    continue
             global ACTIVE_NUMBER, ACTIVE_DATE
             ACTIVE_NUMBER = issue_num
             raw_date = str(issue.get('date',''))

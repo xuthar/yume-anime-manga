@@ -1,6 +1,10 @@
 name: Genera e pubblica i PDF di Yume Magazine
 on:
   workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC: 18:15 UTC = 19:15/20:15 Europe/Rome.
+    # Every 28-31 is evaluated: only the actual LAST DAY can release.
+    - cron: '15 18 28-31 * *'
   push:
     branches: [main]
     paths:
@@ -15,7 +19,59 @@ concurrency:
   group: yume-magazine-pdf
   cancel-in-progress: false
 jobs:
+  eligibility:
+    runs-on: ubuntu-latest
+    outputs:
+      publish: ${{ steps.gate.outputs.publish }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verifica l'ultimo giorno del mese e il materiale editoriale pronto
+        id: gate
+        env:
+          YUME_EVENT: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import datetime as dt
+          import glob, json, os
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+          event = os.environ.get('YUME_EVENT','')
+          today = dt.datetime.now(ZoneInfo('Europe/Rome')).date()
+          last_day = (today + dt.timedelta(days=1)).month != today.month
+          eligible = event != 'schedule'
+          reason = 'Aggiornamento manuale o nuova fonte editoriale'
+          if event == 'schedule':
+              eligible = False
+              reason = 'Oggi non è l’ultimo giorno del mese'
+              if last_day:
+                  reason = 'Non è ancora presente un numero completo datato '+today.isoformat()
+                  for filename in glob.glob('data/magazine/*.json'):
+                      data = json.loads(Path(filename).read_text(encoding='utf-8'))
+                      if not isinstance(data,dict) or not isinstance(data.get('issues'),list):continue
+                      articles = {a.get('slug'):a for a in data.get('articles',[]) if isinstance(a,dict)}
+                      for issue in data['issues']:
+                          if issue.get('date') != today.isoformat():continue
+                          ids=issue.get('articleSlugs',[])
+                          complete = len(ids) >= 6 and len(set(ids)) == len(ids) and all(
+                              slug in articles and len(articles[slug].get('sections',[])) >= 3
+                              and bool(articles[slug].get('sources',[])) and bool(articles[slug].get('title'))
+                              for slug in ids
+                          )
+                          if complete:
+                              eligible = True
+                              reason = 'Numero '+str(issue.get('number'))+' pronto per '+today.isoformat()
+                              break
+                      if eligible:break
+          with open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as out:
+              out.write('publish='+('true' if eligible else 'false')+'\n')
+          print(reason+'. Pubblicazione '+('autorizzata' if eligible else 'non eseguita')+'.')
+          PY
   create-pdfs:
+    needs: eligibility
+    if: needs.eligibility.outputs.publish == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -38,18 +94,18 @@ jobs:
           assert p.read_bytes()[:5] == b'%PDF-', 'Firma PDF non valida'
           print('PDF pronto', p, p.stat().st_size, 'bytes')
           PY
-      - name: Registra i PDF e il catalogo degli abbonamenti
+      - name: Commit dei PDF e dell'archivio
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add assets/yume-magazine-numero-*.pdf data/magazine/pdf-catalog.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Pubblica PDF illustrati di Yume Magazine'
+            git commit -m 'Pubblica nuova edizione illustrata di Yume Magazine'
             git pull --rebase origin main
             git push
           fi
       - uses: actions/configure-pages@v5
-      - name: Prepara il sito completo per Pages
+      - name: Prepara sito GitHub Pages
         run: |
           mkdir -p _site
           cp *.html *.css *.js *.json favicon.svg robots.txt sitemap.xml _site/
@@ -64,6 +120,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Pubblica il sito e la collezione PDF
+      - name: Pubblica sito e numeri scaricabili
         id: deployment
         uses: actions/deploy-pages@v4
