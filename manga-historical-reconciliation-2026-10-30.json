@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2026-10-30",
+  "purpose": "Riconciliazione sei anomalie storiche, sola lettura del Google Sheets",
+  "source": "Lista anime di Xuthar: Manga e novel / Volumi in possesso",
+  "policy": "Nessun acquisto, prezzo, data o ISBN inferito; nessun campo relativo alla lettura.",
+  "items": [
+    {
+      "title": "AnoHana",
+      "historicalCount": 3,
+      "detailRows": 3,
+      "status": "riconciliato",
+      "edition": "Cofanetto J-Pop; numeri 1,2,3; cofanetto non contato come quarto libro",
+      "missing": "Prezzi e date delle singole copie non documentati"
+    },
+    {
+      "title": "I Met You After the End of the World",
+      "historicalCount": 5,
+      "detailRows": 5,
+      "status": "riconciliato",
+      "edition": "Light novel inglese numeri 1–5",
+      "missing": "Prezzi individuali non documentati"
+    },
+    {
+      "title": "Uzumaki - Spirale",
+      "historicalCount": 2,
+      "detailRows": 2,
+      "status": "riconciliato",
+      "edition": "Star Comics ristampa numeri 1 e 2",
+      "missing": "Numero esatto di ristampa delle copie non documentato"
+    },
+    {
+      "title": "ShindoL’s Cultural Anthropology",
+      "historicalCount": 1,
+      "detailRows": 0,
+      "status": "aperto",
+      "edition": "Francese, esclusa dal monitoraggio uscite IT/EN",
+      "missing": "Scheda individuale della copia"
+    },
+    {
+      "title": "Un sandwich a Ginza",
+      "historicalCount": 1,
+      "detailRows": 0,
+      "status": "aperto",
+      "edition": "Libro illustrato italiano, non manga",
+      "missing": "Scheda individuale della copia"
+    },
+    {
+      "title": "Una bistecca nella Shitamachi",
+      "historicalCount": 1,
+      "detailRows": 0,
+      "status": "aperto",
+      "edition": "Libro illustrato italiano, non manga",
+      "missing": "Scheda individuale della copia"
+    }
+  ],
+  "summary": {
+    "resolved": 3,
+    "open": 3,
+    "inventoryChanges": 0
+  }
+}
