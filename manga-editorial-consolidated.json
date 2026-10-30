@@ -1,0 +1,1289 @@
+{
+  "checkedAt": "2026-10-30",
+  "description": "Consolidamento incrementale degli audit dal 24 al 30 ottobre; l'ultima annotazione per opera prevale; i volumi editoriali già verificati restano distinti per edizione e numero. Nessuna variazione di possesso.",
+  "sourceFiles": [
+    "manga-editorial-sync-2026-10-24.json",
+    "manga-editorial-sync-2026-10-25.json",
+    "manga-editorial-sync-2026-10-26.json",
+    "manga-editorial-sync-2026-10-27.json",
+    "manga-editorial-sync-2026-10-28.json",
+    "manga-editorial-sync-2026-10-29.json",
+    "manga-editorial-sync-2026-10-30.json"
+  ],
+  "items": [
+    {
+      "title": "Silent Möbius",
+      "volumes": [
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "Silent Möbius Complete Edition",
+          "number": "12",
+          "format": "Manga",
+          "priceEur": 9.9
+        }
+      ],
+      "language": "IT",
+      "editorialNote": "AnimeClick programma Silent Möbius Complete Edition – Tales n.13 Magic Press per il 19/11/2026, €9,90. Identità editoriale di Tales rispetto a Complete Edition nn.1–12 da verificare; prequel 00 distinto. Possesso invariato: 12 copie.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "owned": 12,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+      "status": "Completo",
+      "publisher": "Magic Press",
+      "pricing": {
+        "lastVolumePrice": 9.9,
+        "knownTotal": 118.8,
+        "pricedVolumes": 12,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "1",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "2",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "3",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "4",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "5",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "6",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "7",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "8",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "9",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "10",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "11",
+            "price": 9.9
+          },
+          {
+            "edition": "Silent Möbius Complete Edition",
+            "number": "12",
+            "price": 9.9
+          }
+        ]
+      },
+      "lastCheckedAt": "2026-10-30"
+    },
+    {
+      "title": "Asumi-chan is Interested in Lesbian Brothels!",
+      "volumes": [
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "1",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "2",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "3",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "4",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "5",
+          "format": "Manga EN",
+          "priceEur": null
+        },
+        {
+          "edition": "Asumi-chan is Interested in Lesbian Brothels!",
+          "number": "6",
+          "format": "Manga EN",
+          "priceEur": null
+        }
+      ],
+      "language": "EN",
+      "editorialNote": "Verifica editoriale 24/10/2026 (EN, Seven Seas): volumi inglesi 1–6 pubblicati, il n.6 il 10/03/2026; n.7 previsto per il 24/11/2026 ($14.99, non ancora pubblicato). Inventario aggiornato precedentemente su indicazione esplicita di Xuthar: ora sei righe individuali nn.1–6; il vecchio conteggio storico di 5 unità al 25/07/2025 è solo archivistico, non va sommato. Prezzi in euro non verificati. Fonte: https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
+      "editorialSource": "https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
+      "owned": 6,
+      "numbers": "1, 2, 3, 4, 5, 6",
+      "status": "Da verificare",
+      "publisher": "Seven Seas Entertainment",
+      "pricing": null,
+      "lastCheckedAt": "2026-10-24"
+    },
+    {
+      "title": "I diari della speziale",
+      "volumes": [
+        {
+          "edition": "I diari della speziale",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "12",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "13",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale Deluxe Edition",
+          "number": "13",
+          "format": "Manga",
+          "priceEur": 10
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "14",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale Deluxe Edition",
+          "number": "14",
+          "format": "Manga",
+          "priceEur": 9.9
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "15",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "I diari della speziale",
+          "number": "16",
+          "format": "Manga",
+          "priceEur": 6.5
+        }
+      ],
+      "language": "IT",
+      "editorialNote": "J-POP conferma il n.17 regolare (listino €6,50) tra le uscite cartacee 26/10–01/11/2026; AnimeClick lo elenca per 28/10. La vecchia scheda edizioni AnimeClick riportava 30/11: il comunicato ufficiale settimanale è più recente per la programmazione, ma la consegna effettiva resta non verificata. Inventario invariato: 18 copie (regolari 1–16, Deluxe 13 e 14), n.17 non posseduto.",
+      "editorialSource": "https://j-pop.it/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-26-ottobre-all1-novembre-2026",
+      "owned": 18,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16",
+      "status": "Non completo",
+      "publisher": "JPOP",
+      "pricing": {
+        "lastVolumePrice": 6.5,
+        "knownTotal": 123.9,
+        "pricedVolumes": 18,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "I diari della speziale",
+            "number": "1",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "2",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "3",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "4",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "5",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "6",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "7",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "8",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "9",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "10",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "11",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "12",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "13",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale Deluxe Edition",
+            "number": "13",
+            "price": 10
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "14",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale Deluxe Edition",
+            "number": "14",
+            "price": 9.9
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "15",
+            "price": 6.5
+          },
+          {
+            "edition": "I diari della speziale",
+            "number": "16",
+            "price": 6.5
+          }
+        ]
+      },
+      "lastCheckedAt": "2026-10-28"
+    },
+    {
+      "title": "Grand Blue",
+      "volumes": [
+        {
+          "edition": "Grand Blue",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "Grand Blue Variant",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 3.5
+        },
+        {
+          "edition": "Grand Blue",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "Grand Blue",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 6.5
+        }
+      ],
+      "language": "IT",
+      "editorialNote": "J-POP conferma Grand Blue 1 Cut Price (n.1, listino €2,90) tra le uscite cartacee 26/10–01/11/2026; AnimeClick indica 28/10. È un'edizione J-POP distinta dalle 4 copie Goen possedute (regolare 1–3 e variant n.1). Disponibilità in fumetteria non verificata; nessun nuovo acquisto o prezzo di possesso inserito.",
+      "editorialSource": "https://j-pop.it/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-26-ottobre-all1-novembre-2026",
+      "owned": 4,
+      "numbers": "1, 2, 3",
+      "status": "Non completo",
+      "publisher": "Goen",
+      "pricing": {
+        "lastVolumePrice": 6.5,
+        "knownTotal": 23,
+        "pricedVolumes": 4,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Grand Blue",
+            "number": "1",
+            "price": 6.5
+          },
+          {
+            "edition": "Grand Blue Variant",
+            "number": "1",
+            "price": 3.5
+          },
+          {
+            "edition": "Grand Blue",
+            "number": "2",
+            "price": 6.5
+          },
+          {
+            "edition": "Grand Blue",
+            "number": "3",
+            "price": 6.5
+          }
+        ]
+      },
+      "lastCheckedAt": "2026-10-28"
+    },
+    {
+      "title": "The Dungeon of Black Company",
+      "volumes": [
+        {
+          "edition": "The Dungeon of Black Company Starter Pack",
+          "number": "Unico",
+          "format": "Manga",
+          "priceEur": 16
+        },
+        {
+          "edition": "The Dungeon of Black Company",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 7.9
+        },
+        {
+          "edition": "The Dungeon of Black Company Variant Exclusive",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 8.9
+        },
+        {
+          "edition": "The Dungeon of Black Company",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 7.9
+        },
+        {
+          "edition": "The Dungeon of Black Company",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 9.9
+        }
+      ],
+      "language": "EN",
+      "editorialNote": "Seven Seas registra data editoriale 27/10/2026 per il n.14 manga inglese, listino $13,99, ISBN 979-8-89765-366-9. Edizione distinta dalle 5 copie italiane Saldapress (starter pack, regolare e variant, nn.2–3); nessun volume inglese aggiunto e nessuna conversione in euro.",
+      "editorialSource": "https://sevenseasentertainment.com/books/the-dungeon-of-black-company-vol-14/",
+      "owned": 5,
+      "numbers": "1, 2 (pack), 3",
+      "status": "Non completo",
+      "publisher": "Saldapress",
+      "pricing": {
+        "lastVolumePrice": 9.9,
+        "knownTotal": 50.6,
+        "pricedVolumes": 5,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "The Dungeon of Black Company Starter Pack",
+            "number": "Unico",
+            "price": 16
+          },
+          {
+            "edition": "The Dungeon of Black Company",
+            "number": "1",
+            "price": 7.9
+          },
+          {
+            "edition": "The Dungeon of Black Company Variant Exclusive",
+            "number": "1",
+            "price": 8.9
+          },
+          {
+            "edition": "The Dungeon of Black Company",
+            "number": "2",
+            "price": 7.9
+          },
+          {
+            "edition": "The Dungeon of Black Company",
+            "number": "3",
+            "price": 9.9
+          }
+        ]
+      },
+      "lastCheckedAt": "2026-10-28"
+    },
+    {
+      "title": "Magic Knight Rayearth 2",
+      "volumes": [
+        {
+          "edition": "Magic Knight Rayearth 2 - CLAMP Premium Collection Box",
+          "number": "Unico",
+          "format": "Manga",
+          "priceEur": 29.9
+        }
+      ],
+      "language": "IT",
+      "editorialNote": "Controllo 23/10/2026 (IT, Star Comics): Magic Knight Rayearth 2 - CLAMP Premium Collection n.2 in edizione singola pubblicato il 13/10/2026, € 9,90, ISBN 9788822659880; n.3 singolo previsto per il 17/11/2026. L'inventario contiene già il cofanetto completo (1 unità fisica, € 29,90): i singoli non sono ulteriori acquisti e non vanno sommati al totale.",
+      "editorialSource": "https://www.animeclick.it/news/112063-manga-uscite-italiane-settimana-dal-12-al-18-ottobre-2026",
+      "owned": 1,
+      "numbers": "Unico",
+      "status": "Completo",
+      "publisher": "Star Comics",
+      "pricing": {
+        "lastVolumePrice": 29.9,
+        "knownTotal": 29.9,
+        "pricedVolumes": 1,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Magic Knight Rayearth 2 - CLAMP Premium Collection Box",
+            "number": "Unico",
+            "price": 29.9
+          }
+        ]
+      },
+      "lastCheckedAt": "2026-10-24"
+    },
+    {
+      "title": "Honeymoon Paradise",
+      "volumes": [
+        {
+          "edition": "Honeymoon Paradise",
+          "number": "Unico",
+          "format": "Manga",
+          "priceEur": 12
+        }
+      ],
+      "language": "IT",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura.",
+      "editorialSource": "",
+      "owned": 1,
+      "numbers": "Unico",
+      "status": "Completo",
+      "publisher": "Magic Press",
+      "pricing": {
+        "lastVolumePrice": 12,
+        "knownTotal": 12,
+        "pricedVolumes": 1,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Honeymoon Paradise",
+            "number": "Unico",
+            "price": 12
+          }
+        ]
+      },
+      "lastCheckedAt": "2026-10-24"
+    },
+    {
+      "title": "Interspecies Reviewers",
+      "volumes": [
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Interspecies Reviewers",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": null
+        }
+      ],
+      "language": "EN",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura. Registrata la serie manga principale; antologie Darkness e light novel non incluse.",
+      "editorialSource": "",
+      "owned": 11,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11",
+      "status": "Non completo",
+      "publisher": "Yen Press",
+      "pricing": null,
+      "lastCheckedAt": "2026-10-24"
+    },
+    {
+      "title": "Girlfriend, Girlfriend",
+      "volumes": [
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": null
+        },
+        {
+          "edition": "Girlfriend, Girlfriend Omnibus",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": null
+        }
+      ],
+      "language": "EN",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura. Omnibus 2-in-1: i 5 libri corrispondono ai volumi originali 1–10. Omnibus 6 del 10/11/2026 escluso perché futuro.",
+      "editorialSource": "",
+      "owned": 5,
+      "numbers": "1, 2, 3, 4, 5",
+      "status": "Non completo",
+      "publisher": "Kodansha USA",
+      "pricing": null,
+      "lastCheckedAt": "2026-10-24"
+    },
+    {
+      "title": "Due Come Noi",
+      "volumes": [
+        {
+          "edition": "Due Come Noi",
+          "number": "1",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "2",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "3",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "4",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "5",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "6",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "7",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "8",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "9",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "10",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "11",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "12",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "13",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "14",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "15",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "16",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "17",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "18",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "19",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "20",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "21",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "22",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "23",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "24",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "25",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "26",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "27",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "28",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "29",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "30",
+          "format": "Manga",
+          "priceEur": 4.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "31",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "32",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "33",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "34",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "35",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "36",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "37",
+          "format": "Manga",
+          "priceEur": 5.95
+        },
+        {
+          "edition": "Due Come Noi",
+          "number": "38",
+          "format": "Manga",
+          "priceEur": 5.95
+        }
+      ],
+      "language": "IT",
+      "editorialNote": "Edizione identificata da Xuthar il 24/10/2026. Possesso allineato su sua indicazione a tutti i numeri cartacei pubblicati fino al 24/10/2026, escluse le voci Da comprare. Non indica data o prezzo di acquisto né lettura. Numerazione Goen 1–38; nessuna ristampa aggiunta come seconda copia. Copertina commerciale/Kiosk della copia fisica da accertare.",
+      "editorialSource": "",
+      "owned": 38,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38",
+      "status": "Completo",
+      "publisher": "Goen",
+      "pricing": {
+        "lastVolumePrice": 5.95,
+        "knownTotal": 196.1,
+        "pricedVolumes": 38,
+        "complete": true,
+        "volumePrices": [
+          {
+            "edition": "Due Come Noi",
+            "number": "1",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "2",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "3",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "4",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "5",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "6",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "7",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "8",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "9",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "10",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "11",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "12",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "13",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "14",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "15",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "16",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "17",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "18",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "19",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "20",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "21",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "22",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "23",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "24",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "25",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "26",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "27",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "28",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "29",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "30",
+            "price": 4.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "31",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "32",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "33",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "34",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "35",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "36",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "37",
+            "price": 5.95
+          },
+          {
+            "edition": "Due Come Noi",
+            "number": "38",
+            "price": 5.95
+          }
+        ]
+      },
+      "lastCheckedAt": "2026-10-24"
+    },
+    {
+      "title": "Dandadan",
+      "volumes": [
+        {
+          "edition": "Dandadan",
+          "number": "23",
+          "format": "Manga",
+          "priceEur": 6.5
+        }
+      ],
+      "language": "IT",
+      "editorialNote": "Dandadan IT J-POP n.23 pubblicato il 07/10/2026 e già presente nell'inventario corrente (riga n.23, registrata su indicazione di Xuthar il 24/10/2026). Il totale di 28 copie comprende 23 regolari e 5 variant/deluxe; non sommare né ricreare il n.23.",
+      "editorialSource": "https://www.animeclick.it/news/111927-uscite-j-pop-manga-del-7-ottobre-2026",
+      "owned": 28,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23",
+      "status": "Non completo",
+      "publisher": "JPOP",
+      "lastCheckedAt": "2026-10-25"
+    },
+    {
+      "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel)",
+      "volumes": [],
+      "language": "EN",
+      "editorialNote": "Rettifica del 29/10/2026: Seven Seas ha aggiornato la data della scheda ufficiale del MANGA inglese n.9 al 03/11/2026, ora coerente col calendario generale (prima indicava 27/10). Prezzo editoriale $13.99 e ISBN 979-8-89863-194-9; il MANGA non è ancora pubblicato al 29/10 ed è distinto dalle 11 LIGHT NOVEL Airship inglesi registrate. Nessuna copia aggiunta e nessun prezzo EUR attribuito.",
+      "editorialSource": "https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-manga-vol-9/",
+      "owned": 11,
+      "numbers": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11",
+      "status": "Da verificare",
+      "publisher": "Seven Seas Entertainment / Airship",
+      "lastCheckedAt": "2026-10-29"
+    },
+    {
+      "title": "The Haunted Bookstore – Gateway to a Parallel Universe (Light Novel)",
+      "volumes": [],
+      "language": "EN",
+      "editorialNote": "The Haunted Bookstore EN Airship: inventario corrente 7 light novel nn.1–7 registrate su indicazione di Xuthar del 24/10/2026. Il n.7 finale è uscito il 23/01/2024. Il vecchio conteggio storico di 6 copie è superato; nessuna copia da aggiungere. Prezzi e ristampe dei singoli esemplari non verificati.",
+      "editorialSource": "https://sevenseasentertainment.com/books/the-haunted-bookstore-gateway-to-a-parallel-universe-light-novel-vol-7/",
+      "owned": 7,
+      "numbers": "1, 2, 3, 4, 5, 6, 7",
+      "status": "Da verificare",
+      "publisher": "Seven Seas Entertainment",
+      "lastCheckedAt": "2026-10-25"
+    },
+    {
+      "title": "Fist of the North Star",
+      "volumes": [],
+      "language": "IT/EN",
+      "editorialNote": "AnimeClick calendario ottobre indica per il 29/10/2026 Ken il guerriero - Deluxe Edition n.5, Panini Comics IT, prezzo di listino €50. È una diversa edizione rispetto ai 18 hardcover inglesi VIZ Media registrati come posseduti. La data di distribuzione effettiva resta da confermare nel riepilogo settimanale; nessun acquisto, prezzo o ISBN del posseduto modificato.",
+      "editorialSource": "https://www.animeclick.it/news/111867-manga-tutte-le-uscite-italiane-di-ottobre-2026",
+      "lastCheckedAt": "2026-10-29"
+    },
+    {
+      "title": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "volumes": [],
+      "language": "IT",
+      "editorialNote": "AnimeClick calendario novembre 2026: n.5 conclusivo Panini Comics, €10,00, giorno non pervenuto. Possesso invariato: nn.1–4 (4 copie). Non attribuire il n.5.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "lastCheckedAt": "2026-10-30"
+    },
+    {
+      "title": "Il monologo della speziale",
+      "volumes": [],
+      "language": "IT",
+      "editorialNote": "AnimeClick calendario novembre 2026: light novel Dokusho n.10 programmata 18/11/2026, €13,00; precedente data incerta, distribuzione non confermata. Possesso invariato: 13 copie regolari/limited/doppio n.1, n.10 non presente.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "lastCheckedAt": "2026-10-30"
+    },
+    {
+      "title": "L'epica ascesa del domatore fuorilegge e della sua donna gatto avventuriera di classe S",
+      "volumes": [],
+      "language": "IT",
+      "editorialNote": "AnimeClick programma n.8 Magic Press per il 12/11/2026, €7,90; calendario indicativo. Possesso invariato: nn.1–7 regolari.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "lastCheckedAt": "2026-10-30"
+    },
+    {
+      "title": "Redo of Healer",
+      "volumes": [],
+      "language": "IT",
+      "editorialNote": "AnimeClick programma n.18 Magic Press per il 05/11/2026, €7,50; calendario indicativo. Possesso invariato: nn.1–17 regolari.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "lastCheckedAt": "2026-10-30"
+    }
+  ],
+  "reconciliationFile": "manga-historical-reconciliation-2026-10-30.json"
+}
