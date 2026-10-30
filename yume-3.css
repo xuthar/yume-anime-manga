@@ -11,3 +11,53 @@ body>header.y3-header>nav a:hover,body>header.y3-header>nav a:focus-visible,body
 /* Link back to the Yume 3.0 gateway, above each experience. */
 .y3-back-hub{display:inline-flex;align-items:center;min-height:38px;padding:8px 13px;margin:0 0 17px;border:1px solid rgba(145,221,208,.32);border-radius:30px;background:rgba(145,221,208,.07);color:#aee8df;font-size:12px;text-decoration:none}
 .y3-back-hub:hover,.y3-back-hub:focus-visible{color:#fff;border-color:#aee8df;text-decoration:none}
+
+
+/* Yume 3.0: visual franchise connections, collector audits, itinerary and gateway search. */
+.y3-extra-box{display:block;margin:17px 0 22px;border:1px solid rgba(127,168,195,.42);border-radius:16px;background:rgba(18,30,51,.87);padding:0 17px 14px}
+.y3-extra-box>summary{min-height:51px;display:flex;align-items:center;cursor:pointer;font-size:14px;font-weight:750;color:#d8f3f4;list-style:none}
+.y3-extra-box>summary::-webkit-details-marker{display:none}
+.y3-extra-box>summary:after{content:"⌄";margin-left:auto;color:#89dace;font-size:20px}
+.y3-extra-box[open]>summary:after{content:"⌃"}
+.y3-extra-box h4{margin:15px 0 7px;font-size:14px}
+.y3-extra-hub{max-width:480px;margin:15px auto 0;padding:14px 20px;text-align:center;font-size:14px;font-weight:800;color:#fff;border:1px solid #d9b2f5aa;background:#3d3358;border-radius:16px}
+.y3-extra-nodes{position:relative;display:grid;grid-template-columns:repeat(auto-fill,minmax(143px,1fr));gap:10px;margin:25px 0 13px;padding-top:24px;border-top:1px dashed #a6b9d780}
+.y3-extra-node{display:flex!important;flex-direction:column;justify-content:center;gap:6px;min-height:73px;border:1px solid #78babb9c;border-radius:11px;padding:10px 8px;text-align:center;background:linear-gradient(140deg,#243a5d,#203045);color:#edf9ff!important;text-decoration:none;font-size:12px;overflow-wrap:anywhere}
+.y3-extra-node:hover{background:#355474}
+.y3-extra-node small{font-size:10px;color:#b4cadd}
+.y3-extra-links{display:flex;flex-wrap:wrap;gap:9px;margin:12px 0}
+.y3-extra-link{display:inline-flex;align-items:center;padding:8px 12px;border:1px solid #7ab8b29c;border-radius:9px;background:#20364d;color:#b9e8e9;text-decoration:none;font-weight:650;font-size:12px;overflow-wrap:anywhere}
+.y3-extra-link:hover{background:#33526a}
+.y3-extra-button,.y3-trip-add{font-size:12px;min-height:37px;padding:8px 12px;border-radius:9px;border:1px solid #88aeacb3;background:#274257;color:#e7f4f4;cursor:pointer}
+.y3-extra-button:hover:not(:disabled),.y3-trip-add:hover:not(:disabled){background:#375d71}
+.y3-extra-button:disabled,.y3-trip-add:disabled{opacity:.5;cursor:not-allowed}
+.y3-extra-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px}
+.y3-extra-stats>div{background:#ffffff0b;border:1px solid #ffffff26;border-radius:12px;padding:11px}
+.y3-extra-stats strong{display:block;font-size:23px;font-variant-numeric:tabular-nums}
+.y3-extra-stats span{display:block;font-size:11px;color:#b5c9d7}
+.y3-extra-nested{border-top:1px solid #ffffff26;margin:13px 0}
+.y3-extra-nested>summary{cursor:pointer;font-size:12px;padding:12px 0;color:#b9e6e1}
+.y3-extra-audit-list{padding-left:20px;max-height:240px;overflow:auto;font-size:12px;line-height:1.8}
+.y3-trip-list{padding:0;list-style:none;display:grid;gap:8px}
+.y3-trip-list li{display:flex;align-items:center;justify-content:space-between;gap:12px;background:#ffffff0d;border:1px solid #ffffff26;border-radius:9px;padding:9px;font-size:12px}
+.y3-trip-controls{display:flex;gap:4px;flex:none}
+.y3-trip-controls button{border:1px solid #7899ab;border-radius:6px;background:#26435b;color:#fff;min-width:28px;min-height:28px;cursor:pointer}
+.y3-trip-controls button:disabled{opacity:.35;cursor:not-allowed}
+.y3-trip-notes{display:block;width:100%;box-sizing:border-box;background:#111d34;color:#e8f4fa;border:1px solid #66849a;border-radius:10px;resize:vertical;padding:10px;font:inherit;font-size:13px;margin:14px 0}
+.y3-trip-counter{font-size:12px;font-weight:750;color:#b8e6d7}
+.y3-search-shell{margin:2px auto 58px;max-width:1100px;border:1px solid #8b93c868;border-radius:20px;padding:clamp(22px,3vw,34px);background:linear-gradient(150deg,#28324f,#1b253c)}
+.y3-search-shell h2{font-size:clamp(23px,3vw,31px);margin:0 0 7px}
+.y3-search-shell>p{color:#bfc9da;font-size:13px}
+.y3-search-form{display:flex;gap:10px;margin:17px 0}
+.y3-search-form input{flex:1;min-width:0;border-radius:11px;border:1px solid #879abe;background:#101a2e;color:#fff;min-height:44px;padding:10px 14px;font-size:14px}
+.y3-search-form button{border:0;border-radius:11px;padding:10px 23px;background:linear-gradient(110deg,#b2e5dd,#c7bbf3);color:#111b2d;font-weight:750;cursor:pointer}
+.y3-search-results{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.y3-search-group{background:#ffffff0b;border:1px solid #ffffff1f;border-radius:10px;padding:12px;min-width:0}
+.y3-search-group h3{font-size:13px;color:#e5f3f6;margin:0 0 9px}
+.y3-search-group ul{list-style:none;padding:0;margin:0}
+.y3-search-group li{padding:7px 0;border-top:1px solid #ffffff1c;font-size:12px;overflow-wrap:anywhere}
+.y3-search-group li a{color:#b1e6dd;text-decoration:none}
+.y3-search-group li a:hover{text-decoration:underline}
+.y3-search-group p{font-size:12px;color:#b7c4d0}
+#y3-search-status{font-size:12px;color:#d1dce9}
+@media(max-width:720px){.y3-search-results{grid-template-columns:1fr}.y3-search-form{flex-direction:column}.y3-search-form button{min-height:42px}.y3-trip-list li{flex-wrap:wrap}.y3-trip-controls{margin-left:auto}}
