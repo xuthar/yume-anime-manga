@@ -1,0 +1,13 @@
+{
+  "updatedBy": "scripts/build-magazine-pdf.py",
+  "issues": [
+    {
+      "number": "00",
+      "title": "Tra pagine e mondi",
+      "date": "2026-10-30",
+      "articles": 8,
+      "pages": 20,
+      "pdf": "assets/yume-magazine-numero-00.pdf"
+    }
+  ]
+}
