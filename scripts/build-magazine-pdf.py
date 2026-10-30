@@ -352,8 +352,10 @@ def build_all(root:Path):
             back(c,issue,4+len(articles)*2)
             c.save()
             built.append((target,len(articles),3+len(articles)*2+1))
-            manifest.append({'number':issue_num,'title':issue['title'],'date':issue.get('date'),'articles':len(articles),'pages':3+len(articles)*2+1,'pdf':'assets/'+target.name})
+            manifest.append({'number':issue_num,'title':issue['title'],'date':issue.get('date'),'articles':len(articles),'pages':3+len(articles)*2+1,'pdf':'assets/'+target.name,'source':'data/magazine/'+src.name})
     if not built:raise RuntimeError('No valid Magazine issues found')
+    manifest.sort(key=lambda x: (x.get('date') or '', x.get('number') or ''), reverse=True)
+    if len({x['number'] for x in manifest})!=len(manifest):raise ValueError('Duplicate issue numbers')
     index_path=root/'data'/'magazine'/'pdf-catalog.json'
     index_path.write_text(json.dumps({'updatedBy':'scripts/build-magazine-pdf.py','issues':manifest},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     return built
