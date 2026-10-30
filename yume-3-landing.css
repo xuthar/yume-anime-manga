@@ -57,3 +57,31 @@
 .y3-search-results{grid-template-columns:repeat(3,minmax(0,1fr))}
 @media(max-width:800px){.y3-search-results{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.y3-search-results{grid-template-columns:1fr}}
+
+
+/* Yume 3.0 cinematic card artwork and restrained motion. */
+.y3-hub-card{position:relative;overflow:hidden;isolation:isolate;box-shadow:0 12px 27px #050a224d,0 1px 0 #ffffff10 inset}
+.y3-hub-card-art{position:relative;width:100%;aspect-ratio:2.68;min-height:118px;max-height:169px;overflow:hidden;border:1px solid #ffffff24;border-radius:13px;margin:-5px 0 0;background:#1e2144}
+.y3-hub-card-art img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .55s cubic-bezier(.2,.8,.2,1),filter .55s ease;filter:saturate(.94) contrast(1.03)}
+.y3-hub-card-art:after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(0deg,rgba(12,19,40,.3),transparent 60%);opacity:.9}
+.y3-hub-card:hover .y3-hub-card-art img{transform:scale(1.085);filter:saturate(1.14) contrast(1.04)}
+.y3-hub-card .y3-hub-symbol{position:relative;z-index:1;width:51px;height:51px;font-size:25px;backdrop-filter:blur(12px);background:rgba(22,27,55,.78);border:1px solid #f5d2ef8c;border-radius:15px;margin:-25px 0 13px 12px;box-shadow:0 6px 16px #060b2c8c}
+.y3-hub-card h3{line-height:1.22}
+.y3-hub-card>a{transition:background .2s,border-color .2s,transform .2s}
+.y3-hub-card>a:hover{transform:translateY(-2px);background:rgba(225,191,246,.17);border-color:#f7d6ed}
+.y3-hub-art{isolation:isolate}
+.y3-hub-art:before{content:"";position:absolute;z-index:1;inset:-30%;background:radial-gradient(circle at 43% 44%,rgba(255,186,232,.13),transparent 45%);pointer-events:none;animation:y3-art-breathe 9s ease-in-out infinite alternate}
+.y3-hub-art img{transition:filter .7s ease,transform .7s ease}
+.y3-hub-hero:hover .y3-hub-art img{filter:saturate(1.13) contrast(1.08);transform:scale(1.025)}
+.y3-hub-hero{position:relative}
+.y3-hub-hero:after{content:"✧";position:absolute;right:21px;top:16px;font-size:43px;color:#ffcaef88;pointer-events:none;filter:drop-shadow(0 0 13px #eea5f5)}
+.y3-editorial-spotlight{position:relative;overflow:hidden;isolation:isolate;background:linear-gradient(100deg,rgba(23,26,52,.96),rgba(43,32,62,.89)),url('assets/yume3-compare-scene.svg') center/cover}
+.y3-editorial-spotlight:after{content:"";position:absolute;inset:0;z-index:-1;background:radial-gradient(ellipse at 88% 15%,rgba(232,168,218,.11),transparent 70%);pointer-events:none}
+.y3-editorial-links>a{backdrop-filter:blur(8px);box-shadow:0 8px 19px #0e0d2650;transition:transform .2s,background .2s}
+.y3-editorial-links>a:hover{transform:translateY(-3px)}
+.y3-search-shell{position:relative;isolation:isolate;overflow:hidden;background:linear-gradient(97deg,rgba(24,28,54,.95),rgba(27,29,56,.90)),url('assets/yume3-pilgrimage-scene.svg') center/cover;box-shadow:0 19px 50px #070a254f}
+.y3-search-shell:before{content:"✧";position:absolute;right:23px;top:9px;font-size:62px;line-height:1;color:#f7d2e36b;pointer-events:none}
+.y3-search-shell>*{position:relative}
+@keyframes y3-art-breathe{from{opacity:.35;transform:translateX(-3%) scale(.97)}to{opacity:1;transform:translateX(3%) scale(1.06)}}
+@media(max-width:560px){.y3-hub-card-art{aspect-ratio:3.1;max-height:160px}.y3-hub-hero:after{display:none}.y3-editorial-spotlight{background-position:center center}}
+@media(prefers-reduced-motion:reduce){.y3-hub-art:before{animation:none}.y3-hub-art img,.y3-hub-card-art img,.y3-editorial-links>a,.y3-hub-card>a{transition:none}.y3-hub-hero:hover .y3-hub-art img,.y3-hub-card:hover .y3-hub-card-art img,.y3-editorial-links>a:hover,.y3-hub-card>a:hover{transform:none}}

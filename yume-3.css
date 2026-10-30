@@ -61,3 +61,22 @@ body>header.y3-header>nav a:hover,body>header.y3-header>nav a:focus-visible,body
 .y3-search-group p{font-size:12px;color:#b7c4d0}
 #y3-search-status{font-size:12px;color:#d1dce9}
 @media(max-width:720px){.y3-search-results{grid-template-columns:1fr}.y3-search-form{flex-direction:column}.y3-search-form button{min-height:42px}.y3-trip-list li{flex-wrap:wrap}.y3-trip-controls{margin-left:auto}}
+
+
+/* Yume 3.0 shared visual refresh: themed editorial images and underlineless links. */
+body[data-y3] a,body[data-y3] a:link,body[data-y3] a:visited,body[data-y3] a:hover,body[data-y3] a:focus-visible{ text-decoration:none!important; }
+body[data-y3] a{ text-underline-offset:0; }
+body[data-y3] a:focus-visible{outline:2px solid #b0ece5;outline-offset:3px;border-radius:5px}
+body[data-y3] .y3-header{background:rgba(18,23,46,.91);backdrop-filter:blur(14px);box-shadow:0 5px 22px rgba(10,10,31,.35)}
+body[data-y3] .y3-header nav a{border-radius:9px;transition:background .2s ease,color .2s ease}
+body[data-y3] .y3-header nav a:hover{background:rgba(185,148,226,.16);color:#fce4fa}
+body[data-y3] .y3-hero{isolation:isolate;position:relative;overflow:hidden;background-size:cover;background-position:center 43%;box-shadow:0 20px 45px #090d2659;border:1px solid #b7a4d65e}
+body[data-y3="universe"] .y3-hero{background-image:linear-gradient(94deg,rgba(14,23,45,.94),rgba(18,25,52,.85) 53%,rgba(22,30,64,.5)),url('assets/yume3-universe-scene.svg')}
+body[data-y3="collector"] .y3-hero{background-image:linear-gradient(94deg,rgba(25,22,45,.95),rgba(32,26,54,.82) 53%,rgba(31,24,47,.5)),url('assets/yume3-collector-scene.svg')}
+body[data-y3="pilgrimage"] .y3-hero{background-image:linear-gradient(94deg,rgba(18,31,52,.94),rgba(19,38,57,.83) 53%,rgba(21,42,57,.46)),url('assets/yume3-pilgrimage-scene.svg')}
+body[data-y3] .y3-hero>*,body[data-y3] .y3-hero .y3-switch{position:relative;z-index:1}
+body[data-y3] .y3-hero:before{content:"";position:absolute;right:-60px;top:-95px;width:420px;height:320px;border-radius:50%;background:radial-gradient(ellipse,rgba(241,179,229,.21),transparent 69%);filter:blur(12px);pointer-events:none}
+body[data-y3] .y3-switch a:hover{background:rgba(228,193,243,.17);border-color:#e6b8ed}
+body[data-y3] .y3-card{box-shadow:0 11px 29px #060b2133}
+@media(max-width:560px){body[data-y3] .y3-hero{background-position:60% center}}
+@media(prefers-reduced-motion:reduce){body[data-y3] .y3-header nav a{transition:none}}

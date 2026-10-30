@@ -44,3 +44,12 @@ a.y3-announcement-button:hover{transform:translateY(-2px);box-shadow:0 8px 24px 
 .y3-home-editorial-nav a{font-size:11px;color:#d6f4eb;border:1px solid #ffffff24;border-radius:8px;padding:6px 11px;text-decoration:none;background:#ffffff09}
 .y3-home-editorial-nav a:hover{background:#ffffff1c}
 @media(max-width:530px){.y3-home-editorial-nav{margin:-11px auto 22px;gap:6px;padding:7px}.y3-home-editorial-nav a{font-size:10px;padding:6px}}
+
+/* Compact Yume 3.0 announcement placed directly before the visit counter. */
+.y3-bottom-launch{width:100%;padding:18px 0 0;background:radial-gradient(ellipse at 50% 90%,rgba(129,76,169,.13),transparent 67%);border-top:1px solid rgba(180,153,202,.12)}
+.y3-bottom-launch .y3-announcement{margin-top:8px;margin-bottom:30px}
+.y3-bottom-launch .y3-home-editorial-nav{margin-top:-18px;margin-bottom:35px}
+.y3-bottom-launch .y3-announcement-art img{transition:transform .6s ease,filter .6s ease}
+.y3-bottom-launch .y3-announcement:hover .y3-announcement-art img{transform:scale(1.035);filter:saturate(1.13)}
+@media(max-width:540px){.y3-bottom-launch{padding-top:10px}.y3-bottom-launch .y3-announcement{margin-bottom:18px}.y3-bottom-launch .y3-home-editorial-nav{margin-top:-8px;margin-bottom:26px}}
+@media(prefers-reduced-motion:reduce){.y3-bottom-launch .y3-announcement-art img{transition:none}.y3-bottom-launch .y3-announcement:hover .y3-announcement-art img{transform:none}}
