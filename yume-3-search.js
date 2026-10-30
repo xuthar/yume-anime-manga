@@ -1,31 +1,27 @@
-/* Yume 3.0: cross-catalog search, loaded only on submit. */
-(function(){
-'use strict';
+/* Yume 3.0 — search all five experiences. No data is fabricated. */
+(function(){'use strict';
 const form=document.getElementById('y3-unified-search');if(!form)return;
-const field=form.querySelector('input'),output=document.getElementById('y3-search-results'),status=document.getElementById('y3-search-status');
-const norm=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
-const make=(tag,text)=>{const e=document.createElement(tag);if(text!==undefined)e.textContent=String(text);return e};
-let dataPromise;
-function load(){if(!dataPromise)dataPromise=fetch('library.json?v=20261030-search').then(r=>{if(!r.ok)throw Error('Archivio temporaneamente non disponibile');return r.json()}).catch(e=>{dataPromise=null;throw e});return dataPromise}
-function resultGroup(title,entries){
- const box=make('section'),h=make('h3',title);box.className='y3-search-group';box.append(h);
- if(!entries.length){box.append(make('p','Nessuna corrispondenza'));return box}
- const ul=make('ul');
- entries.forEach(entry=>{const li=make('li'),a=make('a',entry.label);a.href=entry.href;li.append(a);ul.append(li)});
- box.append(ul);return box
-}
+const input=form.querySelector('input'),out=document.getElementById('y3-search-results'),message=document.getElementById('y3-search-status');
+const norm=s=>String(s||'').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').trim();
+const make=(tag,txt)=>{const n=document.createElement(tag);if(txt!==undefined)n.textContent=String(txt);return n};
+const section=(title,items)=>{const box=make('section');box.className='y3-search-group';box.append(make('h3',title));if(!items.length){box.append(make('p','Nessuna corrispondenza'));return box}const ul=make('ul');items.slice(0,8).forEach(x=>{const li=make('li'),a=make('a',x.title);a.href=x.url;li.append(a);ul.append(li)});box.append(ul);return box};
+const get=async u=>{const r=await fetch(u);if(!r.ok)throw Error(u);return r.json()};
 form.addEventListener('submit',async event=>{
- event.preventDefault();const query=field.value.trim();
- if(query.length<3){status.textContent='Inserisci almeno tre caratteri.';return}
- status.textContent='Ricerca in corso tra anime, manga e luoghi…';output.replaceChildren();
- try{
-  const library=await load(),items=Array.isArray(library.items)?library.items:[],needle=norm(query);
-  const results=items.filter(x=>norm([x.title,x.english,x.original,x.italian,x.franchiseTitle,x.publisher].join(' ')).includes(needle));
-  const anime=results.filter(x=>x.type==='anime').slice(0,10).map(x=>({label:x.title,href:'universe.html#franchise='+encodeURIComponent(x.franchiseId||x.id)}));
-  const manga=results.filter(x=>x.type==='manga').slice(0,10).map(x=>({label:x.title,href:'collector.html?q='+encodeURIComponent(x.title)}));
-  const places=(window.YumeAnimePlaces||[]).filter(p=>norm([p.place,p.pref,p.region,p.work].join(' ')).includes(needle)).slice(0,10).map(p=>({label:p.place+' · '+p.work,href:'anime-pilgrimage.html?q='+encodeURIComponent(p.place)}));
-  output.append(resultGroup('✦ Universe · anime',anime),resultGroup('▤ Collector · manga',manga),resultGroup('🗾 Pilgrimage · luoghi',places));
-  status.textContent='Risultati: '+anime.length+' anime, '+manga.length+' manga, '+places.length+' luoghi. Sono mostrate al massimo dieci corrispondenze per categoria.';
- }catch(e){status.textContent='Ricerca non disponibile: '+e.message}
+ event.preventDefault();const q=norm(input.value.trim());if(q.length<3){message.textContent='Inserisci almeno tre caratteri.';return}
+ out.replaceChildren();message.textContent='Ricerca tra le cinque esperienze di Yume 3.0…';
+ const [lib,compare,mag]=await Promise.allSettled([
+ get('library.json?v=20261030-editorial'),get('data/adaptations/yume-comparisons.json?v=20261030'),get('data/magazine/numero-zero.json?v=20261030')
+ ]);
+ const library=lib.status==='fulfilled'&&Array.isArray(lib.value.items)?lib.value.items:[];
+ const matches=library.filter(x=>!x.adult&&norm([x.title,x.english,x.original,x.italian,x.franchiseTitle,x.publisher].join(' ')).includes(q));
+ const anime=matches.filter(x=>x.type==='anime').slice(0,8).map(x=>({title:x.title,url:'universe.html#franchise='+encodeURIComponent(x.franchiseId||x.id)}));
+ const manga=matches.filter(x=>x.type==='manga').slice(0,8).map(x=>({title:x.title,url:'collector.html?q='+encodeURIComponent(x.title)}));
+ const places=(window.YumeAnimePlaces||[]).filter(p=>norm([p.place,p.pref,p.region,p.work].join(' ')).includes(q)).slice(0,8).map(p=>({title:p.place+' · '+p.work,url:'anime-pilgrimage.html?q='+encodeURIComponent(p.place)}));
+ const dossiers=compare.status==='fulfilled'&&Array.isArray(compare.value.items)?compare.value.items:[];
+ const comparisons=dossiers.filter(x=>norm([x.title,x.hook,...x.aliases].join(' ')).includes(q)).slice(0,8).map(x=>({title:x.title,url:'manga-vs-anime.html?opera='+encodeURIComponent(x.slug)}));
+ const stories=mag.status==='fulfilled'&&Array.isArray(mag.value.articles)?mag.value.articles:[];
+ const articles=stories.filter(x=>norm([x.title,x.subtitle,x.category,...x.tags].join(' ')).includes(q)).slice(0,8).map(x=>({title:x.title,url:'magazine-article.html?id='+encodeURIComponent(x.slug)}));
+ out.append(section('✦ Universe · anime',anime),section('▤ Collector · manga',manga),section('🗾 Pilgrimage · luoghi',places),section('本 Manga vs Anime',comparisons),section('誌 Yume Magazine',articles));
+ message.textContent='Trovati '+(anime.length+manga.length+places.length+comparisons.length+articles.length)+' risultati visibili (fino a 8 per categoria).'+(lib.status==='rejected'?' Catalogo principale temporaneamente non disponibile.':'')
 });
 })();

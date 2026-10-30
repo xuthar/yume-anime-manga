@@ -1,0 +1,424 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "publication": "Yume Magazine",
+  "issues": [
+    {
+      "id": "00-2026-10",
+      "number": "00",
+      "title": "Tra pagine e mondi",
+      "date": "2026-10-30",
+      "theme": "Anime, manga e Giappone: il nostro primo viaggio editoriale.",
+      "featuredSlug": "due-linguaggi-una-storia",
+      "articleSlugs": [
+        "due-linguaggi-una-storia",
+        "frieren-arte-del-tempo",
+        "maomao-tre-forme",
+        "manga-collezione-isbn",
+        "anime-pilgrimage-rispetto",
+        "dungeon-meshi-mondo-cibo",
+        "idol-e-mondo-anime",
+        "universi-e-cronologie"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "due-linguaggi-una-storia",
+      "category": "Cover Story",
+      "featured": true,
+      "title": "Due linguaggi, una storia: perché confrontare manga e anime",
+      "subtitle": "La fedeltà non basta: il confronto interessante comincia quando osserviamo come una storia cambia medium.",
+      "reading": 6,
+      "tags": [
+        "adattamenti",
+        "manga",
+        "anime"
+      ],
+      "sections": [
+        [
+          "La pagina non ha una durata imposta",
+          "Quando leggiamo un manga, siamo noi a decidere quanto tempo dedicare a una vignetta. Il disegno suggerisce un movimento che la nostra mente completa; un grande spazio bianco può diventare un silenzio lunghissimo o una frazione di secondo. Questo controllo sul ritmo rende la lettura un'esperienza personale. Non significa che ogni adattamento debba riprodurre la stessa sequenza di inquadrature: la pagina e lo schermo hanno vincoli e possibilità diversi."
+        ],
+        [
+          "Lo schermo aggiunge altri autori",
+          "Una serie animata porta nella stessa opera il lavoro di regia, animazione, composizione musicale, interpretazione vocale, fotografia e montaggio. Un volto può sembrare più ironico dopo una pausa, più tragico con una musica, più ambiguo se la regia sceglie di non mostrarlo subito. Domandarsi soltanto quanti capitoli siano stati adattati rischia quindi di cancellare il contributo specifico dell'animazione."
+        ],
+        [
+          "La fedeltà va documentata, non immaginata",
+          "Per verificare una differenza precisa occorrono riferimenti a capitoli, episodi e, quando possibile, dichiarazioni della produzione. Una somiglianza di titolo non basta a certificare che una versione derivata sia la fonte principale. The Apothecary Diaries, per esempio, mette in relazione una light novel, diversi manga e l'anime: chiamare genericamente un manga «l'originale» sarebbe fuorviante."
+        ],
+        [
+          "Un nuovo modo di usare Yume",
+          "Con Manga vs Anime si può partire da una serie conosciuta, consultare i dati produttivi, scoprire i punti che vale la pena confrontare e poi tornare al franchise su Yume Universe. Le note narrative più delicate restano protette da uno spoiler gate: la curiosità non deve diventare un'anticipazione involontaria."
+        ]
+      ],
+      "sources": [
+        [
+          "The Japan Foundation — la cultura del manga",
+          "https://www.jpf.go.jp/e/project/culture/exhibit/online/japanese_arts_and_culture/arts_and_culture.html"
+        ],
+        [
+          "VIZ — The Apothecary Diaries e le versioni manga",
+          "https://www.viz.com/apothecary-diaries"
+        ]
+      ],
+      "related": [
+        [
+          "Scopri tutti i confronti",
+          "manga-vs-anime.html"
+        ],
+        [
+          "Yume Universe",
+          "universe.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    },
+    {
+      "slug": "frieren-arte-del-tempo",
+      "category": "Anime",
+      "title": "Frieren e l'arte di raccontare il tempo",
+      "subtitle": "Il fantasy che comincia quando l'avventura più importante è già terminata.",
+      "reading": 5,
+      "tags": [
+        "frieren",
+        "fantasy",
+        "memoria"
+      ],
+      "sections": [
+        [
+          "Un inizio fuori dall'ordinario",
+          "Molti racconti fantasy puntano verso lo scontro finale. Frieren, invece, prende sul serio ciò che viene dopo: che cosa resta dei legami e dei viaggi quando la grande impresa è diventata un ricordo? Il tempo non è solo uno sfondo, ma una forza che cambia il significato dei gesti. Il manga di Kanehito Yamada e Tsukasa Abe mette questa idea al centro della vicenda."
+        ],
+        [
+          "Il valore dei silenzi",
+          "La dimensione temporale si presta particolarmente al confronto tra pagina e schermo. Un lettore può indugiare su una tavola; uno spettatore accompagna una pausa insieme alla regia. L'adattamento Madhouse, con musiche di Evan Call per la prima stagione, rende l'ascolto e il ritmo un elemento autonomo dell'esperienza. Non è necessario stabilire una versione vincitrice: è più interessante scoprire come ciascuna costruisce il senso dell'attesa."
+        ],
+        [
+          "Leggere oltre la scheda",
+          "Una buona analisi può collegare l'opera al suo universo narrativo, alle stagioni distinte e alle informazioni sulla colonna sonora. In Yume queste connessioni dovrebbero rimanere esplorabili senza confondere la data di uscita con la cronologia interna degli eventi."
+        ]
+      ],
+      "sources": [
+        [
+          "Madhouse — staff, origine e musica",
+          "https://madhouse.co.jp/english/works/tv_frieren-anime/"
+        ],
+        [
+          "Anime Frieren — introduzione",
+          "https://frieren-anime.jp/intro/"
+        ]
+      ],
+      "related": [
+        [
+          "Manga vs Anime — Frieren",
+          "manga-vs-anime.html?opera=frieren"
+        ],
+        [
+          "Yume Universe",
+          "universe.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    },
+    {
+      "slug": "maomao-tre-forme",
+      "category": "Manga vs Anime",
+      "title": "Maomao in tre forme: romanzo, manga, anime",
+      "subtitle": "The Apothecary Diaries dimostra perché una buona scheda deve distinguere le origini dalle trasposizioni.",
+      "reading": 5,
+      "tags": [
+        "maomao",
+        "light novel",
+        "adattamenti"
+      ],
+      "sections": [
+        [
+          "Partire dalla genealogia giusta",
+          "Nel parlare di adattamenti si sente spesso dire che un anime «viene dal manga». Per The Apothecary Diaries la formula è incompleta: l'opera nasce come narrativa di Hyuganatsu, esistono adattamenti manga differenti e c'è una produzione animata. Le relazioni sono editoriali, non una semplice scala dal fumetto alla TV."
+        ],
+        [
+          "Il caso come esperienza di lettura",
+          "Maomao affronta enigmi e osservazioni. In prosa il ragionamento può espandersi; nelle tavole una disposizione di sguardi o oggetti può guidare l'indizio; in animazione entrano in gioco durata, voce e montaggio. Un confronto ben fatto deve specificare quale edizione e quale versione mette a confronto, anziché inventare una fedeltà complessiva."
+        ],
+        [
+          "La lezione per Yume Collector",
+          "Riconoscere i diversi rami editoriali evita errori pratici. Due volumi con la stessa protagonista non sono necessariamente la medesima edizione, e l'ISBN documenta un prodotto bibliografico, non l'acquisto della copia fisica di qualcuno. La precisione è parte dell'esperienza di collezionismo."
+        ]
+      ],
+      "sources": [
+        [
+          "VIZ — adattamenti cartacei distinti",
+          "https://www.viz.com/apothecary-diaries"
+        ],
+        [
+          "Nippon TV — The Apothecary Diaries",
+          "https://www.ntv.co.jp/english/pc/2023/10/The-Apothecary-Diaries.html"
+        ]
+      ],
+      "related": [
+        [
+          "Confronta le versioni",
+          "manga-vs-anime.html?opera=apothecary"
+        ],
+        [
+          "Yume Collector",
+          "collector.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    },
+    {
+      "slug": "manga-collezione-isbn",
+      "category": "Collector",
+      "title": "Collezionare non significa soltanto contare i volumi",
+      "subtitle": "ISBN, ristampe, omnibus e dati storici: come leggere un inventario senza creare falsi doppioni.",
+      "reading": 6,
+      "tags": [
+        "isbn",
+        "collezione",
+        "edizioni"
+      ],
+      "sections": [
+        [
+          "Il codice identifica un'edizione",
+          "L'ISBN serve a individuare un titolo in una determinata edizione e forma editoriale, in un sistema bibliografico internazionale. Un omnibus può raccogliere più volumi originali in un unico prodotto: «volumi pubblicati», «volumi posseduti» e «numeri dell'edizione» non sono quantità equivalenti. Per questo un buon catalogo conserva i diversi conteggi."
+        ],
+        [
+          "Una ristampa non è automaticamente un'altra edizione",
+          "Un ISBN ricorrente non prova che siano state comprate due copie. In alcuni casi può comparire in più schede editoriali; una ristampa semplice può mantenere l'identificativo, mentre nuove edizioni o formati possono richiederne uno diverso. La verifica deve coinvolgere editore, lingua, formato e numerazione."
+        ],
+        [
+          "La memoria del collezionista",
+          "Yume Collector può essere un archivio rigoroso anche quando mancano dettagli dei vecchi acquisti. In questi casi è più utile mostrare «storico da verificare» che riempire celle con titoli, prezzi o ISBN immaginari. Un errore conservato come dato certo diventa molto più difficile da correggere in futuro."
+        ]
+      ],
+      "sources": [
+        [
+          "International ISBN Agency — ISBN e identificazione",
+          "https://www.isbn-international.org/index.php/content/what-isbn/10"
+        ],
+        [
+          "ISBN Italia — edizioni e ristampe",
+          "https://www.isbn.it/CODICEISBN.aspx"
+        ]
+      ],
+      "related": [
+        [
+          "Apri Yume Collector",
+          "collector.html"
+        ],
+        [
+          "Consulta le uscite manga",
+          "uscite-manga.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    },
+    {
+      "slug": "anime-pilgrimage-rispetto",
+      "category": "Japan Discovery",
+      "title": "Anime Pilgrimage: visitare un luogo, non invaderlo",
+      "subtitle": "Le emozioni dei seichi junrei e le buone abitudini da conoscere prima di partire.",
+      "reading": 5,
+      "tags": [
+        "giappone",
+        "viaggio",
+        "pellegrinaggio anime"
+      ],
+      "sections": [
+        [
+          "Quando una scena incontra una strada reale",
+          "Visitare i luoghi che hanno ispirato anime e manga può trasformare una passeggiata in un incontro con un ricordo visivo. Ma un incrocio, un quartiere residenziale o un tempio non smettono di essere luoghi vissuti da altre persone solo perché sono diventati famosi. Le associazioni con le opere devono essere presentate con precisione: scena riconoscibile, ambientazione, ispirazione e semplice associazione culturale non sono sinonimi."
+        ],
+        [
+          "La fotografia non dà ogni permesso",
+          "Prima di scattare una foto è necessario rispettare divieti, accessi privati e indicazioni del luogo. Nei santuari e nei templi è utile osservare il comportamento degli altri visitatori e mantenere un tono rispettoso. Non si dovrebbe bloccare la strada per ricreare un'inquadratura, specialmente se ci sono residenti o attività commerciali."
+        ],
+        [
+          "Pianificare senza inventare tempi",
+          "L'atlante di Yume Pilgrimage propone luoghi documentati e una lista personale di tappe. Un itinerario salvato nel browser non è un percorso ottimizzato: per i tempi reali occorre verificare trasporti, orari e disponibilità. La guida diventa migliore proprio quando distingue desiderio di viaggio e dati verificati."
+        ]
+      ],
+      "sources": [
+        [
+          "JNTO — anime tourism e luoghi reali (2026)",
+          "https://www.japan.travel/en/au/media-releases/japan-s-anime-locations-entice-fans-beyond-the-golden-route/"
+        ],
+        [
+          "Japan Guide — visita ai santuari",
+          "https://www.japan-guide.com/e/e2057.html"
+        ]
+      ],
+      "related": [
+        [
+          "Anime Pilgrimage",
+          "anime-pilgrimage.html"
+        ],
+        [
+          "Luoghi degli anime",
+          "luoghi-anime-manga.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    },
+    {
+      "slug": "dungeon-meshi-mondo-cibo",
+      "category": "Cultura & Cucina",
+      "title": "Dungeon Meshi: quando la cucina diventa worldbuilding",
+      "subtitle": "Dalla biologia immaginaria alla tavola: il cibo come strumento narrativo.",
+      "reading": 5,
+      "tags": [
+        "dungeon meshi",
+        "cucina",
+        "fantasy"
+      ],
+      "sections": [
+        [
+          "Non solo una gag",
+          "In Delicious in Dungeon il problema del cibo non è un diversivo dalla missione: è un modo per prendere sul serio le regole del mondo fantastico. Le creature del dungeon non sono soltanto avversari; diventano oggetto di osservazione, preparazione e scelte quotidiane. L'idea permette alla storia di parlare di risorse, gruppo e sopravvivenza senza abbandonare l'avventura."
+        ],
+        [
+          "La differenza fra disegnare e animare un piatto",
+          "Le tavole di Ryoko Kui invitano a osservare particolari e illustrazioni; la serie animata di TRIGGER aggiunge movimento e sonorità. Il risultato non è una ricetta da riprodurre con ingredienti reali, ma un esperimento narrativo che si presta anche ad approfondire la cucina autentica del Giappone, distinguendola da quella immaginaria."
+        ],
+        [
+          "Dal fantasy alla cucina reale",
+          "Yume può collegare questa analisi alla sua sezione gastronomica: tecniche di preparazione, ingredienti e tradizioni regionali documentate. Il collegamento è tematico, non una dichiarazione che i piatti del manga rappresentino ricette tradizionali."
+        ]
+      ],
+      "sources": [
+        [
+          "Delicious in Dungeon — produzione ufficiale",
+          "https://delicious-in-dungeon.com/en/"
+        ]
+      ],
+      "related": [
+        [
+          "Confronto manga e anime",
+          "manga-vs-anime.html?opera=dungeon-meshi"
+        ],
+        [
+          "Cucina giapponese",
+          "cucina-giapponese.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    },
+    {
+      "slug": "idol-e-mondo-anime",
+      "category": "J-Pop & Anisong",
+      "title": "Idol, opening e anime: una colonna sonora che racconta",
+      "subtitle": "Il legame fra immagine, personaggio e canzone oltre la semplice sigla iniziale.",
+      "reading": 5,
+      "tags": [
+        "idol",
+        "jpop",
+        "opening"
+      ],
+      "sections": [
+        [
+          "Una sigla è una porta d'ingresso",
+          "Le opening ed ending preparano il tono prima e dopo la visione. Possono presentare un mondo, suggerire un conflitto o restituire un'emozione al termine di un episodio. Non sono però sempre un riassunto letterale degli eventi: leggere ogni dettaglio come uno spoiler inevitabile appiattisce il lavoro creativo."
+        ],
+        [
+          "Oshi no Ko come caso di studio",
+          "Una serie che racconta il lavoro nello spettacolo rende particolarmente interessante il rapporto fra performance narrativa e performance musicale. Il confronto tra manga e anime permette di osservare come un gesto rappresentato su carta acquisisca voce e durata sullo schermo. La produzione Doga Kobo e i crediti musicali delle diverse stagioni vanno consultati separatamente."
+        ],
+        [
+          "La sezione J-Pop di Yume",
+          "La rivista può guidare verso i profili degli artisti, la raccolta di opening ed ending e le colonne sonore. È importante distinguere i video ufficiali realmente disponibili da una semplice ricerca YouTube. Così musica e archivio diventano percorsi affidabili, non un elenco di link che promettono contenuti inesistenti."
+        ]
+      ],
+      "sources": [
+        [
+          "KADOKAWA — Oshi no Ko, produzione e crediti",
+          "https://kadokawa-anime.com/titles/entry-183.html"
+        ]
+      ],
+      "related": [
+        [
+          "Manga vs Anime — Oshi no Ko",
+          "manga-vs-anime.html?opera=oshi-no-ko"
+        ],
+        [
+          "Musica J-Pop",
+          "jpop.html"
+        ],
+        [
+          "Sigle anime",
+          "sigle-anime.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    },
+    {
+      "slug": "universi-e-cronologie",
+      "category": "Yume Universe",
+      "title": "Una saga non è soltanto una lista di stagioni",
+      "subtitle": "Come distinguere sequel, prequel, spin-off e ordine di pubblicazione.",
+      "reading": 5,
+      "tags": [
+        "franchise",
+        "cronologia",
+        "universe"
+      ],
+      "sections": [
+        [
+          "La prima relazione è l'appartenenza",
+          "Quando due opere condividono personaggi o ambientazione, è ragionevole cercare un collegamento. Ma «appartenere allo stesso franchise» non prova che una sia il seguito diretto dell'altra. Le produzioni possono includere film, riassunti, storie parallele, reinterpretazioni e adattamenti di fonti diverse."
+        ],
+        [
+          "Cronologia e ordine consigliato sono cose diverse",
+          "L'ordine delle date di pubblicazione è un dato bibliografico. L'ordine degli eventi nella storia richiede invece una conoscenza delle opere e, per i casi complessi, fonti editoriali. Una guida al primo approccio può suggerire un percorso, ma dovrebbe presentarlo come criterio di lettura, non come verità assoluta."
+        ],
+        [
+          "La rete Yume",
+          "Universe è il punto di ingresso alle relazioni tra titoli, Manga vs Anime permette di confrontare i media, Collector approfondisce le edizioni e Magazine dà spazio alle letture critiche. Ogni sezione arricchisce le altre senza cambiare ciò che è stato registrato nella collezione originale."
+        ]
+      ],
+      "sources": [
+        [
+          "The Japan Foundation — manga e processi creativi",
+          "https://www.jpf.go.jp/e/project/culture/exhibit/online/japanese_arts_and_culture/arts_and_culture.html"
+        ]
+      ],
+      "related": [
+        [
+          "Esplora Yume Universe",
+          "universe.html"
+        ],
+        [
+          "Manga vs Anime",
+          "manga-vs-anime.html"
+        ]
+      ],
+      "issueId": "00-2026-10",
+      "publishedAt": "2026-10-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0
+    }
+  ]
+}

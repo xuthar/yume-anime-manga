@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-30",
+  "editorialNotice": "Confronti originali basati su dati produttivi e opere dichiarate dalle fonti ufficiali. Gli assi descrivono possibilità del linguaggio espressivo, non scene specifiche verificate. Non sono riportate equivalenze capitoli/episodi non accertate.",
+  "items": [
+    {
+      "slug": "frieren",
+      "title": "Frieren — Oltre la fine del viaggio",
+      "aliases": [
+        "Frieren",
+        "Sousou no Frieren",
+        "Sōsō no Frieren",
+        "Frieren: Beyond Journey's End",
+        "葬送のフリーレン"
+      ],
+      "category": "Fantasy",
+      "original": {
+        "kind": "Manga",
+        "creators": "Kanehito Yamada (storia), Tsukasa Abe (disegni)",
+        "publisher": "Shogakukan"
+      },
+      "anime": {
+        "studio": "Madhouse",
+        "format": "Serie TV",
+        "music": "Evan Call"
+      },
+      "hook": "Una storia in cui il passare del tempo conta più della vittoria finale.",
+      "intro": "Il manga costruisce il viaggio di Frieren intorno ai ricordi, alla durata della vita e ai legami che continuano a trasformarsi. L'anime porta questa prospettiva in un linguaggio fatto anche di suono, recitazione e attese.",
+      "axes": [
+        [
+          "Tempo e silenzi",
+          "La lettura permette di sostare su espressioni e passaggi fra i ricordi.",
+          "Durata delle inquadrature, recitazione e musica stabiliscono un ritmo condiviso.",
+          "La percezione del tempo cambia quando è il montaggio a decidere la pausa."
+        ],
+        [
+          "Atmosfera",
+          "I contrasti tra piccoli gesti e grandi eventi nascono dalla tavola.",
+          "Colori, paesaggi e accompagnamento musicale diventano una seconda voce.",
+          "Due esperienze complementari, non una graduatoria di fedeltà."
+        ],
+        [
+          "Personaggi",
+          "La pagina lascia immaginare voce e cadenza del dialogo.",
+          "Il cast e l'interpretazione modulano affetto, distanza e ironia.",
+          "Ottimo caso per confrontare lo stesso dialogo dopo la lettura."
+        ]
+      ],
+      "spoiler": "Le stagioni anime non coprono necessariamente tutto il materiale pubblicato. Prima di leggere in avanti, verifica l'arco narrativo raggiunto dalla stagione che hai visto.",
+      "sources": [
+        [
+          "Madhouse — scheda e staff ufficiali",
+          "https://madhouse.co.jp/english/works/tv_frieren-anime/"
+        ],
+        [
+          "Sito ufficiale — introduzione",
+          "https://frieren-anime.jp/intro/"
+        ]
+      ]
+    },
+    {
+      "slug": "apothecary",
+      "title": "The Apothecary Diaries — I diari della speziale",
+      "aliases": [
+        "The Apothecary Diaries",
+        "Kusuriya no Hitorigoto",
+        "薬屋のひとりごと",
+        "I diari della speziale"
+      ],
+      "category": "Mistero",
+      "original": {
+        "kind": "Light novel; anche adattamenti manga",
+        "creators": "Hyuganatsu (opera letteraria); diverse versioni manga",
+        "publisher": "Edizioni differenti a seconda del formato"
+      },
+      "anime": {
+        "studio": "TOHO animation STUDIO × OLM",
+        "format": "Serie TV",
+        "music": "Da verificare per stagione"
+      },
+      "hook": "Un caso particolare: non basta scrivere «manga originale».",
+      "intro": "Le avventure investigative di Maomao nascono come narrativa e hanno ricevuto adattamenti a fumetti oltre alla versione televisiva. È essenziale distinguere quale opera si sta comparando.",
+      "axes": [
+        [
+          "Origine dell'opera",
+          "La light novel conserva un ruolo centrale e i manga sono adattamenti distinti.",
+          "La serie animata ricostruisce la vicenda con voce, ritmo e interpretazioni.",
+          "Una stessa storia può avere più di due forme: il confronto deve esplicitarle."
+        ],
+        [
+          "Mistero",
+          "Il lettore può tornare indietro e ricomporre gli indizi al proprio ritmo.",
+          "Dettagli visivi e pause della regia orientano l'attenzione.",
+          "Le differenze di ritmo non equivalgono a tagli accertati."
+        ],
+        [
+          "Personaggi",
+          "La prosa può trattenersi sul ragionamento, le tavole sull'espressività.",
+          "Voci e animazione rendono immediate esitazioni e sottintesi.",
+          "Confronta sempre versioni identificabili e non genericamente «il manga»."
+        ]
+      ],
+      "spoiler": "Un indizio è spesso significativo solo dopo la soluzione. Meglio leggere le comparazioni avanzate dopo aver concluso il relativo caso.",
+      "sources": [
+        [
+          "VIZ — i diversi adattamenti manga",
+          "https://www.viz.com/apothecary-diaries"
+        ],
+        [
+          "Nippon TV — informazioni dell'anime",
+          "https://www.ntv.co.jp/english/pc/2023/10/The-Apothecary-Diaries.html"
+        ]
+      ]
+    },
+    {
+      "slug": "dungeon-meshi",
+      "title": "Delicious in Dungeon — Dungeon Food",
+      "aliases": [
+        "Delicious in Dungeon",
+        "Dungeon Meshi",
+        "ダンジョン飯",
+        "Dungeon Food"
+      ],
+      "category": "Fantasy",
+      "original": {
+        "kind": "Manga",
+        "creators": "Ryoko Kui",
+        "publisher": "KADOKAWA / Enterbrain"
+      },
+      "anime": {
+        "studio": "TRIGGER",
+        "format": "Serie TV",
+        "music": "Yasunori Mitsuda"
+      },
+      "hook": "Un fantasy in cui mangiare è parte del funzionamento del mondo.",
+      "intro": "La cucina dei mostri e le regole dell'ecosistema diventano una lente per leggere sia la costruzione dei dungeon sia le dinamiche del gruppo. La regia animata può dare un peso nuovo al gesto di preparare e condividere il cibo.",
+      "axes": [
+        [
+          "Worldbuilding",
+          "Le tavole aiutano a esaminare particolari, ricette e disegni delle creature.",
+          "Movimento e tempi comici orchestrano preparazione e reazioni.",
+          "Ideale per collegare il confronto alla cucina giapponese di Yume."
+        ],
+        [
+          "Commedia e tensione",
+          "Un cambio di vignetta può ribaltare il tono in un istante.",
+          "La recitazione e il montaggio creano attesa prima della battuta.",
+          "La stessa situazione può funzionare con meccanismi differenti."
+        ],
+        [
+          "Design",
+          "Le illustrazioni di Kui costruiscono la riconoscibilità del bestiario.",
+          "Colori e animazione rendono gli ingredienti visivamente concreti.",
+          "Non inventiamo una lista di scene tagliate senza riscontri diretti."
+        ]
+      ],
+      "spoiler": "Le informazioni sull'ecosistema del dungeon possono anticipare spiegazioni successive. Consulta la sezione avanzata solo dopo la parte che hai visto.",
+      "sources": [
+        [
+          "Delicious in Dungeon — sito anime ufficiale",
+          "https://delicious-in-dungeon.com/en/"
+        ]
+      ]
+    },
+    {
+      "slug": "kaiju-no-8",
+      "title": "Kaiju No. 8",
+      "aliases": [
+        "Kaiju No. 8",
+        "Kaiju n. 8",
+        "Kaijuu 8-gou",
+        "怪獣8号"
+      ],
+      "category": "Azione",
+      "original": {
+        "kind": "Manga",
+        "creators": "Naoya Matsumoto",
+        "publisher": "Shueisha / Jump+"
+      },
+      "anime": {
+        "studio": "Production I.G",
+        "format": "Serie TV",
+        "music": "Yuta Bandoh"
+      },
+      "hook": "Quando le grandi dimensioni diventano una questione di linguaggio.",
+      "intro": "Le tavole di un manga di mostri devono suggerire scala, velocità e impatto. Un adattamento animato può aggiungere massa sonora, movimento e montaggio. Questo è il cuore del confronto, senza inventare modifiche alla trama.",
+      "axes": [
+        [
+          "Azione",
+          "La composizione della pagina costruisce linee di movimento e differenze di scala.",
+          "Movimento, suono e inquadrature organizzano l'intensità di una sequenza.",
+          "Confrontare composizione e regia è più utile di un generico voto alla fedeltà."
+        ],
+        [
+          "Identità",
+          "Il tema di Kafka è leggibile nelle scelte espressive del personaggio.",
+          "Interpretazione vocale ed effetti enfatizzano la doppia identità.",
+          "La valutazione resta editoriale, non un dato oggettivo."
+        ],
+        [
+          "Produzione",
+          "Il manga è un lavoro di tavole e ritmo di lettura.",
+          "Production I.G cura l'animazione; Studio khara è accreditato nei lavori di design dei kaiju.",
+          "I ruoli produttivi sono distinti secondo i crediti ufficiali."
+        ]
+      ],
+      "spoiler": "Le forme e le abilità dei kaiju sono rivelazioni narrative. Evita confronti di trasformazioni oltre gli episodi che hai visto.",
+      "sources": [
+        [
+          "Sito ufficiale Kaiju No. 8 — staff e origine",
+          "https://www.kaiju-no8.net/en/"
+        ],
+        [
+          "VIZ — manga di Naoya Matsumoto",
+          "https://www.viz.com/kaiju-no-8"
+        ]
+      ]
+    },
+    {
+      "slug": "dandadan",
+      "title": "DAN DA DAN",
+      "aliases": [
+        "Dandadan",
+        "Dan Da Dan",
+        "ダンダダン"
+      ],
+      "category": "Soprannaturale",
+      "original": {
+        "kind": "Manga",
+        "creators": "Yukinobu Tatsu",
+        "publisher": "Shueisha / Jump+"
+      },
+      "anime": {
+        "studio": "Science SARU",
+        "format": "Serie TV",
+        "music": "Da verificare per stagione"
+      },
+      "hook": "Alieni, yokai e commedia romantica: energia in due formati.",
+      "intro": "La forza di DAN DA DAN sta nell'accostamento di registri lontani. Il manga può cambiare ritmo attraverso la tavola; l'anime sfrutta colori, montaggio, voci e animazione per rendere più esplosiva la stessa convivenza di toni.",
+      "axes": [
+        [
+          "Ritmo",
+          "La successione di vignette permette accelerazioni e pause imprevedibili.",
+          "La regia controlla durata, intensità sonora e transizioni visive.",
+          "Una domanda utile è come ogni versione passa dalla paura al comico."
+        ],
+        [
+          "Folklore",
+          "Le creature e i motivi soprannaturali possono essere studiati tornando sulle illustrazioni.",
+          "L'animazione modifica la percezione dell'incontro con l'insolito.",
+          "Collegamento naturale con l'atlante del folklore giapponese di Yume."
+        ],
+        [
+          "Relazioni",
+          "Il lettore decide quanto soffermarsi sui gesti dei protagonisti.",
+          "Voce e interpretazione costruiscono una diversa intimità.",
+          "Non attribuiamo differenze puntuali senza confronto scena per scena."
+        ]
+      ],
+      "spoiler": "Gli incontri soprannaturali successivi sono parte del piacere della scoperta. Rimanda l'analisi delle creature non ancora viste.",
+      "sources": [
+        [
+          "Sito ufficiale TV anime DAN DA DAN",
+          "https://anime-dandadan.com/"
+        ]
+      ]
+    },
+    {
+      "slug": "oshi-no-ko",
+      "title": "Oshi no Ko",
+      "aliases": [
+        "Oshi no Ko",
+        "【OSHI NO KO】",
+        "Oshi no Ko - My Star",
+        "推しの子"
+      ],
+      "category": "Dramma",
+      "original": {
+        "kind": "Manga",
+        "creators": "Aka Akasaka (storia), Mengo Yokoyari (disegni)",
+        "publisher": "Shueisha / Young Jump Comics"
+      },
+      "anime": {
+        "studio": "Doga Kobo",
+        "format": "Serie TV",
+        "music": "Da verificare per stagione"
+      },
+      "hook": "Raccontare l'industria dello spettacolo dall'interno.",
+      "intro": "Oshi no Ko affronta la performance, il lavoro creativo e l'immagine pubblica. Il passaggio dal manga all'anime è particolarmente interessante perché lo schermo mette in scena il mondo audiovisivo descritto sulla pagina.",
+      "axes": [
+        [
+          "Performance",
+          "Il manga mostra l'atto di esibirsi attraverso composizione, espressioni e dialoghi.",
+          "La musica e le voci rendono effettive molte performance rappresentate.",
+          "Il medium raccontato e il medium che racconta coincidono nell'anime."
+        ],
+        [
+          "Immagine e identità",
+          "Disegni e montaggio della pagina possono suggerire ciò che un personaggio nasconde.",
+          "L'adattamento aggiunge sfumature di recitazione, colore e durata.",
+          "Si può confrontare il sottotesto senza anticipare le svolte."
+        ],
+        [
+          "Edizioni",
+          "La presenza del manga nel mercato non indica automaticamente che sia nella collezione personale.",
+          "L'archivio anime documenta separatamente stagioni e crediti.",
+          "I dati del proprietario non vanno inventati o modificati."
+        ]
+      ],
+      "spoiler": "La storia contiene svolte importanti riguardanti l'identità e le motivazioni dei protagonisti. Apri gli approfondimenti avanzati soltanto dopo la visione.",
+      "sources": [
+        [
+          "KADOKAWA Animation — produzione e opera originale",
+          "https://kadokawa-anime.com/titles/entry-183.html"
+        ]
+      ]
+    },
+    {
+      "slug": "vinland-saga",
+      "title": "Vinland Saga",
+      "aliases": [
+        "Vinland Saga",
+        "ヴィンランド・サガ"
+      ],
+      "category": "Storico",
+      "original": {
+        "kind": "Manga",
+        "creators": "Makoto Yukimura",
+        "publisher": "Kodansha / Afternoon"
+      },
+      "anime": {
+        "studio": "WIT Studio (prima stagione), MAPPA (seconda)",
+        "format": "Serie TV",
+        "music": "Da verificare per stagione"
+      },
+      "hook": "Storia, conflitto e trasformazione personale.",
+      "intro": "La storia di Thorfinn può essere letta sia come racconto d'avventura sia come riflessione sulla violenza. Il manga offre la libertà di tornare sui dettagli del disegno; l'anime dà continuità emotiva attraverso suono e movimento.",
+      "axes": [
+        [
+          "Conflitto",
+          "Il peso di un gesto emerge dal contrasto fra le vignette.",
+          "La durata di uno sguardo o un silenzio può cambiare la ricezione emotiva.",
+          "La scelta di ritmo è materia critica, non un indice di fedeltà."
+        ],
+        [
+          "Contesto storico",
+          "La lettura permette di soffermarsi su ambienti, costumi e riferimenti.",
+          "Scenografia, effetti e paesaggi sonori valorizzano la ricostruzione.",
+          "Per le epoche storiche, collegarsi alla sezione Storia del Giappone solo come confronto di metodo, non come ambientazione equivalente."
+        ],
+        [
+          "Architettura delle stagioni",
+          "La serialità manga segue capitoli e volumi.",
+          "Le stagioni televisive hanno tempi e organizzazioni produttive specifici.",
+          "Serve una mappatura documentata per associare capitoli ed episodi."
+        ]
+      ],
+      "spoiler": "I grandi cambiamenti di prospettiva del protagonista sono snodi fondamentali. Mantieni protetti i commenti relativi alle stagioni successive.",
+      "sources": [
+        [
+          "Vinland Saga — informazioni sull'opera originale",
+          "https://vinlandsaga.jp/original/"
+        ]
+      ]
+    },
+    {
+      "slug": "spy-family",
+      "title": "SPY × FAMILY",
+      "aliases": [
+        "Spy x Family",
+        "SPY×FAMILY",
+        "SPY FAMILY",
+        "スパイファミリー"
+      ],
+      "category": "Commedia",
+      "original": {
+        "kind": "Manga",
+        "creators": "Tatsuya Endo",
+        "publisher": "Shueisha / Jump+"
+      },
+      "anime": {
+        "studio": "WIT Studio × CloverWorks",
+        "format": "Serie TV e film",
+        "music": "Da verificare per stagione"
+      },
+      "hook": "Una famiglia costruita su segreti e tempi comici.",
+      "intro": "Il manga fa funzionare molte gag attraverso sguardi e composizione della pagina; l'anime aggiunge pause, voci, gestualità e accompagnamento musicale. Il film originale va distinto da una trasposizione puntuale.",
+      "axes": [
+        [
+          "Commedia",
+          "Il lettore controlla il momento in cui scopre la battuta o la reazione.",
+          "La durata delle pause e il tempismo vocale guidano la gag.",
+          "Ottimo confronto tra effetto sorpresa della vignetta e montaggio animato."
+        ],
+        [
+          "Famiglia",
+          "Il fumetto alterna punti di vista e informazioni che i personaggi non condividono.",
+          "L'anime differenzia voci, spazi e espressioni in movimento.",
+          "La versione preferita dipende da che cosa si cerca nell'esperienza."
+        ],
+        [
+          "Film e continuità",
+          "Il manga e la serialità televisiva sono oggetti editoriali distinti.",
+          "Code: White è presentato come racconto cinematografico originale.",
+          "Non va automaticamente mappato su capitoli specifici del manga."
+        ]
+      ],
+      "spoiler": "Le identità segrete fanno parte del meccanismo narrativo. Non trattare le informazioni apprese dopo come se fossero note agli altri personaggi.",
+      "sources": [
+        [
+          "SPY×FAMILY — sito ufficiale, serie e comic",
+          "https://spy-family.net/"
+        ]
+      ]
+    }
+  ]
+}

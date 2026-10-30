@@ -1,0 +1,131 @@
+/* YUME 3.0 EDITORIAL · Manga vs Anime / Yume Magazine · 30 Oct 2026 */
+.ye-main{max-width:1320px;min-height:65vh;margin:auto;padding:22px clamp(16px,3vw,36px) 78px}
+.ye-main a:focus-visible,.ye-main button:focus-visible,.ye-main input:focus-visible,.ye-main select:focus-visible{outline:3px solid #9be2db;outline-offset:4px}
+.ye-hero{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(250px,.65fr);gap:20px;align-items:center;min-height:315px;margin:10px auto 43px;padding:clamp(25px,4vw,55px);border:1px solid #8f85b258;border-radius:23px;background:radial-gradient(ellipse at 83% 12%,#945aaf5a,transparent 48%),linear-gradient(125deg,#1d2346,#111a31);overflow:hidden}
+.ye-hero-magazine{background:radial-gradient(ellipse at 85% 8%,#ca6a9c57,transparent 50%),linear-gradient(120deg,#35203b,#15172d)}
+.ye-hero h1{margin:11px 0 12px;color:#fff;font-weight:850;line-height:1.08;font-size:clamp(40px,5.8vw,78px);letter-spacing:-.056em}
+.ye-hero h1 em{font-style:normal;color:#e8a7d9}
+.ye-hero p:not(.ye-kicker){margin:0;max-width:650px;color:#d9dbec;line-height:1.75;font-size:clamp(14px,1.5vw,17px)}
+.ye-kicker{color:#a4e4da;font-weight:800;font-size:10px;letter-spacing:.15em;line-height:1.5}
+.ye-back{display:inline-flex;margin-bottom:22px;padding:8px 13px;border-radius:20px;border:1px solid #a1bcd054;color:#c6e9e1;text-decoration:none;font-size:12px;font-weight:650}
+.ye-back:hover{border-color:#a8e1db;background:#ffffff0f}
+.ye-tag-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.ye-tag-row span,.ye-chip{display:inline-flex;align-items:center;padding:6px 10px;border-radius:40px;border:1px solid #ffffff2b;background:#ffffff0c;color:#e8e6ff;font-size:11px;font-weight:650}
+.ye-hero-visual{height:235px;display:flex;align-items:center;justify-content:center;gap:6px;filter:drop-shadow(0 16px 28px #060914b9)}
+.ye-hero-visual span{display:grid;place-items:center;width:115px;height:168px;border-radius:13px 6px 6px 13px;border:2px solid #c8b3f9a0;background:linear-gradient(130deg,#313963,#8c589e);color:#fff8ff;font-size:78px;transform:rotate(-8deg);box-shadow:inset -10px 0 0 #111a3c60,0 8px 20px #0007}
+.ye-hero-visual span:last-child{border-radius:11px;background:linear-gradient(135deg,#24596a,#6b64ba);transform:rotate(8deg)}
+.ye-hero-visual strong{z-index:2;padding:9px 7px;border-radius:50%;background:#e9a6e4;color:#24203a;font-weight:900;font-size:15px}
+.ye-mag-visual span{background:linear-gradient(140deg,#762b7c,#ad5c8e)}
+.ye-mag-visual strong{background:#ffe0b7;color:#382536}
+.ye-main h2{letter-spacing:-.025em}
+.ye-section-intro{max-width:900px;margin:10px auto 20px;text-align:center}
+.ye-section-intro h2{margin:10px 0;font-size:clamp(27px,4vw,40px);line-height:1.13}
+.ye-section-intro>p{color:#b4c4d8;font-size:14px}
+.ye-toolbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:20px 0}
+.ye-toolbar input,.ye-toolbar select{background:#101a2e;border:1px solid #6e809d;color:#f5f7fb;border-radius:11px;padding:12px 15px;min-height:45px;font-size:13px}
+.ye-toolbar input{flex:1;min-width:230px}
+.ye-toolbar select{min-width:170px}
+.ye-count,.ye-muted{color:#b6c8d8;font-size:13px;line-height:1.75}
+.ye-empty{padding:25px;border:1px solid #ffffff28;border-radius:13px;background:#ffffff09;color:#cad5e5}
+.ye-comparison-grid,.ye-mag-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:17px;margin:22px 0 40px}
+.ye-compare-card,.ye-mag-card{border:1px solid #6a7c9c70;border-radius:17px;background:linear-gradient(145deg,#242e49,#1d2539);overflow:hidden;display:flex;flex-direction:column;transition:transform .2s,border-color .2s}
+.ye-compare-card:hover,.ye-mag-card:hover{border-color:#b1e5df;transform:translateY(-3px)}
+.ye-compare-art{height:150px;display:flex;align-items:center;justify-content:center;gap:8px;background:radial-gradient(ellipse at 40% 10%,#8c6dbb85,transparent 80%),#273150}
+.ye-art-1{background:radial-gradient(ellipse at 80% 14%,#b778ad65,transparent 70%),#392844}
+.ye-art-2{background:radial-gradient(ellipse at 20% 10%,#8abec080,transparent 70%),#1e424c}
+.ye-art-3{background:radial-gradient(ellipse at 60% 20%,#dca97080,transparent 75%),#4c3540}
+.ye-art-4{background:radial-gradient(ellipse at 50% 15%,#9f78e16c,transparent 70%),#333150}
+.ye-left-book,.ye-right-screen{display:grid;place-items:center;width:83px;height:105px;border-radius:10px 3px 3px 10px;font-size:50px;color:#fbe9fa;background:linear-gradient(140deg,#733d86,#a37ab9);border:1px solid #f5d3e987;transform:rotate(-9deg);box-shadow:0 7px 16px #0006}
+.ye-right-screen{border-radius:10px;background:linear-gradient(140deg,#286778,#6e73ae);transform:rotate(9deg)}
+.ye-art-vs{font-size:14px;color:#ffe3b2;font-weight:900;text-shadow:0 2px 7px #000}
+.ye-compare-body,.ye-mag-card-copy{display:flex;flex-direction:column;gap:8px;padding:19px;flex:1}
+.ye-compare-body h3,.ye-mag-card h3{font-size:20px;line-height:1.27;margin:4px 0;color:#f2f7fc}
+.ye-compare-body p,.ye-mag-card-copy p{font-size:13px;line-height:1.66;margin:0;color:#becadd}
+.ye-compare-meta{display:grid;gap:4px;font-size:11px;color:#91cfc8;padding:7px 0}
+.ye-cta{display:inline-flex;align-items:center;justify-content:center;border-radius:12px;padding:10px 16px;min-height:41px;background:linear-gradient(110deg,#b9e9df,#c7b6ec);color:#181d35!important;font-size:12px;font-weight:850;text-decoration:none}
+.ye-compare-body>.ye-cta{margin-top:auto;align-self:flex-start}
+.ye-cta:hover{filter:brightness(1.06)}
+.ye-reading-hero{padding:25px clamp(20px,4vw,44px);margin-bottom:20px;border-radius:20px;background:radial-gradient(ellipse at 100% 20%,#6d458c5e,transparent 60%),#202740;border:1px solid #9f90b04d}
+.ye-reading-hero h2{margin:10px 0;font-size:clamp(30px,4.5vw,56px);line-height:1.12}
+.ye-lead{font-size:clamp(17px,2vw,22px)!important;line-height:1.53;color:#e4daef!important}
+.ye-duo{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px;margin-bottom:22px}
+.ye-side{border-radius:18px;padding:26px;border:1px solid #a4a6c361;min-height:165px;background:#25354a}
+.ye-paper{background:radial-gradient(ellipse at 100% 0,#8b59964d,transparent 80%),#292940}
+.ye-screen{background:radial-gradient(ellipse at 0 0,#467f8c55,transparent 80%),#203a4d}
+.ye-label{font-size:10px;font-weight:850;letter-spacing:.12em;color:#abddd6;display:inline-block}
+.ye-side h2{font-size:27px;margin:10px 0}
+.ye-side p{font-size:13px;color:#e5edff}
+.ye-side small{font-size:11px;color:#bacbd4}
+.ye-panel{padding:clamp(20px,3vw,34px);margin:17px 0 24px;border:1px solid #6e81a06a;border-radius:17px;background:#1a253b}
+.ye-panel>h2{margin:0 0 9px;font-size:clamp(22px,3vw,29px)}
+.ye-axis{padding:18px 0;border-top:1px solid #ffffff25}
+.ye-axis h3{font-size:18px;margin:6px 0 16px}
+.ye-axis-duo{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.ye-axis-duo>div{border:1px solid #ffffff24;border-radius:12px;padding:17px;background:#ffffff0c}
+.ye-axis-duo p{font-size:13px;line-height:1.7;color:#d5dfed;margin:7px 0 0}
+.ye-axis-note{font-size:12px;color:#b8ebdd;margin:12px 0 0}
+.ye-spoiler-toggle{margin:14px 0}
+.ye-button,.ye-fav{display:inline-flex;align-items:center;gap:8px;background:#28465c;color:#f0f6f8;border:1px solid #94bac3ad;border-radius:10px;min-height:38px;padding:8px 12px;cursor:pointer;font-size:12px}
+.ye-button:hover,.ye-fav:hover{background:#356176}
+.ye-actions{display:flex;gap:9px;flex-wrap:wrap;margin:17px 0}
+.ye-link{display:inline-flex;border:1px solid #7daab38c;border-radius:9px;background:#ffffff0b;padding:10px 12px;font-size:12px;text-decoration:none;color:#c9f0e4}
+.ye-link:hover{background:#294458;color:#fff}
+.ye-catalog-hits{border-top:1px solid #ffffff26;margin-top:20px;padding-top:14px}
+.ye-catalog-hits h3{font-size:16px}
+.ye-sources{line-height:1.85;font-size:13px;padding-left:22px}
+.ye-sources a{color:#b3f0df}
+.ye-up-next{margin:40px 0}
+.ye-up-next h2{font-size:22px}
+.ye-bottom-cta{border-top:1px solid #ffffff30;max-width:850px;margin:60px auto 20px;text-align:center;padding:30px}
+.ye-bottom-cta h2{font-size:25px;margin:0 0 8px}
+.ye-bottom-cta p{font-size:13px;color:#b3c2d4}
+.ye-bottom-cta .ye-cta{margin-top:10px}
+.ye-issue-cover{margin-bottom:35px}
+.ye-issue-cover>h2{font-size:clamp(33px,4vw,48px);margin:12px 0 6px}
+.ye-issue-cover>.ye-lead{margin:0 0 22px}
+.ye-issue-feature{display:grid;grid-template-columns:minmax(220px,.9fr) minmax(0,1.1fr);border:1px solid #976b9c7b;border-radius:22px;overflow:hidden;background:linear-gradient(120deg,#2a213d,#1b263b);min-height:255px}
+.ye-issue-art{min-height:270px;position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden;background:radial-gradient(circle at 35% 20%,#efacc3aa,transparent 36%),radial-gradient(circle at 86% 71%,#7ba7d88c,transparent 42%),linear-gradient(150deg,#422950,#191c42)}
+.ye-issue-art:before{content:"";position:absolute;inset:20px;border:1px solid #ffffff4d;border-radius:14px;transform:rotate(-5deg)}
+.ye-art-kanji{font-size:125px;color:#fff2ff;line-height:1;filter:drop-shadow(0 12px 15px #0008)}
+.ye-art-sub{font-size:10px;letter-spacing:.24em;color:#fce1f7;font-weight:800}
+.ye-issue-feature-copy{display:flex;flex-direction:column;justify-content:center;align-items:flex-start;padding:clamp(25px,3vw,45px)}
+.ye-issue-feature-copy h3{font-size:clamp(22px,2.8vw,36px);line-height:1.2;margin:10px 0}
+.ye-issue-feature-copy>p{font-size:14px;color:#cbd3e7;margin:0 0 24px}
+.ye-mag-index h2,.ye-archive h2{font-size:29px}
+.ye-mag-card-art{height:120px;display:grid;place-items:center;background:radial-gradient(ellipse at 25% 20%,#c385b570,transparent 60%),#303752}
+.ye-mag-card-art span{font-size:65px;color:#f9e9ff;transform:rotate(-8deg);text-shadow:0 4px 20px #0008}
+.ye-mag-card-copy small{display:block;font-size:11px;color:#92c4c4}
+.ye-mag-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;align-items:center}
+.ye-mag-actions .ye-cta{padding-inline:10px}
+.ye-checkbox{display:flex;gap:8px;align-items:center;font-size:12px;color:#d1dfec;cursor:pointer}
+.ye-checkbox input{min-width:16px;min-height:16px}
+.ye-archive{border-top:1px solid #ffffff2b;margin:36px 0;padding-top:25px}
+.ye-archive-issue{display:flex;gap:14px;flex-wrap:wrap;align-items:center;padding:18px 20px;background:#ffffff0b;border:1px solid #ffffff20;border-radius:14px;font-size:12px;color:#c5d3e0}
+.ye-archive-issue strong{font-size:15px;color:#fff}
+.ye-article-head{max-width:1000px;margin:12px auto 38px;border-bottom:1px solid #ffffff30;padding:10px 0 26px}
+.ye-article-tools{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:25px}
+.ye-article-head h1{font-size:clamp(36px,5.5vw,65px);line-height:1.12;letter-spacing:-.045em;margin:14px 0}
+.ye-reader-layout{display:grid;grid-template-columns:minmax(175px,.26fr) minmax(0,.74fr);gap:35px;max-width:1080px;margin:0 auto}
+.ye-toc{position:sticky;top:15px;align-self:start;border:1px solid #ffffff26;border-radius:15px;padding:17px;background:#ffffff0b}
+.ye-toc h2{font-size:14px}
+.ye-toc ol{padding-left:19px;font-size:12px;line-height:1.65}
+.ye-toc li{margin-bottom:10px}
+.ye-toc a{color:#c4e6db;text-decoration:none}
+.ye-toc a:hover{text-decoration:underline}
+.ye-story{width:100%;min-width:0}
+.ye-story>section{padding-bottom:17px;margin-bottom:19px;border-bottom:1px solid #ffffff1c;scroll-margin-top:35px}
+.ye-story h2{font-size:clamp(23px,2.5vw,29px);line-height:1.23}
+.ye-story p{font-size:clamp(15px,1.55vw,18px);line-height:1.95;color:#e0e4f0;max-width:74ch}
+.ye-story-sources ul{font-size:13px;line-height:1.8;padding-left:20px}
+.ye-story-sources a{color:#b3eee2}
+.ye-end-nav{max-width:1080px;margin:65px auto 5px;border-top:1px solid #ffffff2d;padding-top:25px}
+.ye-end-nav h2{font-size:25px}
+.ye-reader .ye-reader-layout{grid-template-columns:1fr;max-width:790px}
+.ye-reader .ye-toc{position:static}
+.ye-reader .ye-story p{font-size:clamp(17px,2vw,21px);line-height:2.1}
+.ye-reader .ye-main{max-width:1020px}
+@media(max-width:980px){.ye-comparison-grid,.ye-mag-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.ye-hero{grid-template-columns:1fr minmax(180px,.45fr)}.ye-hero-visual span{width:80px;height:130px;font-size:50px}.ye-reader-layout{gap:18px}}
+@media(max-width:700px){.ye-main{padding:12px 16px 45px}.ye-hero{grid-template-columns:1fr;min-height:0;margin:9px 0 28px;padding:24px;border-radius:16px}.ye-hero-visual{height:110px}.ye-hero-visual span{height:80px;width:70px;font-size:41px}.ye-back{margin-bottom:12px}.ye-hero h1{font-size:47px}.ye-duo,.ye-axis-duo{grid-template-columns:1fr}.ye-reader-layout{grid-template-columns:1fr}.ye-toc{position:static}.ye-issue-feature{grid-template-columns:1fr}.ye-issue-art{min-height:170px}.ye-art-kanji{font-size:82px}}
+@media(max-width:530px){.ye-comparison-grid,.ye-mag-grid{grid-template-columns:1fr}.ye-compare-art{height:120px}.ye-toolbar{flex-direction:column;align-items:stretch}.ye-toolbar input,.ye-toolbar select{width:100%;min-width:0}.ye-mag-actions{gap:8px}.ye-archive-issue{gap:6px}.ye-hero h1{font-size:40px}.ye-article-head h1{font-size:35px}.ye-article-tools{gap:6px}}
+@media(prefers-reduced-motion:reduce){.ye-compare-card,.ye-mag-card{transition:none}.ye-compare-card:hover,.ye-mag-card:hover{transform:none}}
+@media print{body{background:white!important;color:black!important}.y3-header,.y3-footer,.ye-article-tools,.ye-toc,.ye-bottom-cta,.ye-mag-card,.ye-end-nav{display:none!important}.ye-main{max-width:100%;padding:0}.ye-reader-layout{display:block}.ye-story p,.ye-story h2{color:black!important}.ye-story>section{break-inside:avoid}a[href]:after{content:""}}
