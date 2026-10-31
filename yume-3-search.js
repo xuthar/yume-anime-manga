@@ -25,6 +25,11 @@ const chronosTopics=[
  ['2003, Oscar, Spirited Away, La città incantata','chronos.html?q=2003'],
  ['2024, The Boy and the Heron, Dragon Ball DAIMA','chronos.html?q=2024']
 ];
+const atlasTopics=Object.entries(window.YumeAtlas?.modules||{}).map(([id,m])=>({
+ title:m.title+' · '+m.subtitle,
+ search:[m.title,m.subtitle,m.intro,m.world,id].join(' '),
+ url:m.url||'yume-explore.html?area='+encodeURIComponent(id)
+}));
 const norm=s=>String(s||'').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').trim();
 const make=(tag,txt)=>{const n=document.createElement(tag);if(txt!==undefined)n.textContent=String(txt);return n};
 const section=(title,items)=>{const box=make('section');box.className='y3-search-group';box.append(make('h3',title));if(!items.length){box.append(make('p','Nessuna corrispondenza'));return box}const ul=make('ul');items.slice(0,8).forEach(x=>{const li=make('li'),a=make('a',x.title);a.href=x.url;li.append(a);ul.append(li)});box.append(ul);return box};
@@ -44,9 +49,10 @@ form.addEventListener('submit',async event=>{
  const comparisons=dossiers.filter(x=>norm([x.title,x.hook,...x.aliases].join(' ')).includes(q)).slice(0,8).map(x=>({title:x.title,url:'manga-vs-anime.html?opera='+encodeURIComponent(x.slug)}));
  const stories=mag.status==='fulfilled'&&Array.isArray(mag.value.articles)?mag.value.articles:[];
  const articles=stories.filter(x=>norm([x.title,x.subtitle,x.category,...x.tags].join(' ')).includes(q)).slice(0,8).map(x=>({title:x.title,url:'magazine-article.html?id='+encodeURIComponent(x.slug)}));
+ const atlas=atlasTopics.filter(x=>norm(x.search).includes(q)).slice(0,8);
  const japan=japanTopics.filter(x=>norm(x[0]).includes(q)).slice(0,8).map(x=>({title:x[0].split(',')[0],url:x[1]}));
  const chronos=chronosTopics.filter(x=>norm(x[0]).includes(q)).slice(0,8).map(x=>({title:x[0].split(',')[0],url:x[1]}));
- out.append(section('✦ Universe · anime',anime),section('▤ Collector · manga',manga),section('🗾 Pilgrimage · luoghi',places),section('本 Manga vs Anime',comparisons),section('誌 Yume Magazine',articles),section('⛩ Yume Japan · cultura',japan),section('◷ Chronos · storia',chronos));
- message.textContent='Trovati '+(anime.length+manga.length+places.length+comparisons.length+articles.length+japan.length+chronos.length)+' risultati visibili (fino a 8 per categoria).'+(lib.status==='rejected'?' Catalogo principale temporaneamente non disponibile.':'')
+ out.append(section('✦ Universe · anime',anime),section('▤ Collector · manga',manga),section('🗾 Pilgrimage · luoghi',places),section('本 Manga vs Anime',comparisons),section('誌 Yume Magazine',articles),section('⛩ Yume Japan · cultura',japan),section('◷ Chronos · storia',chronos),section('✧ Yume Atlas · esperienze',atlas));
+ message.textContent='Trovati '+(anime.length+manga.length+places.length+comparisons.length+articles.length+japan.length+chronos.length+atlas.length)+' risultati visibili (fino a 8 per categoria).'+(lib.status==='rejected'?' Catalogo principale temporaneamente non disponibile.':'')
 });
 })();
