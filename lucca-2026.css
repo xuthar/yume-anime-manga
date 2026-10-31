@@ -54,3 +54,17 @@
 .lucca-footer{max-width:1160px;width:90%;margin:0 auto;padding:30px 0 45px;border-top:1px solid #ffffff20;display:flex;justify-content:space-between;gap:20px;color:#aeb6c9;font-size:11px}
 @media(max-width:900px){.lucca-news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:590px){.lucca-archive-page header{height:auto;min-height:90px;flex-wrap:wrap;padding-top:18px;padding-bottom:18px}.lucca-archive-page header nav{gap:10px;font-size:11px}.lucca-shell{width:94%!important}.lucca-page-hero{padding:25px 19px;border-radius:15px}.lucca-page-hero h1{font-size:37px}.lucca-news-grid{grid-template-columns:1fr}.lucca-novel-note{padding:18px;gap:13px}.lucca-novel-icon{width:45px;height:45px;font-size:24px}}
+
+/* Magazine-like vertical cover display: complete cover for every announcement */
+.lucca-news-card{overflow:hidden}
+.lucca-poster{margin:0 0 18px;width:100%;min-height:242px;border-radius:10px;border:1px solid #ffffff18;background:radial-gradient(ellipse at 50% 38%,#47527755,#101325 85%);display:flex;flex-direction:column;justify-content:center;align-items:center;gap:6px;padding:10px}
+.lucca-poster img{display:block;object-fit:contain;object-position:center;max-width:100%;width:auto;height:212px;max-height:212px;box-shadow:0 6px 15px #0005;border-radius:4px}
+.lucca-poster figcaption{font-size:9px;letter-spacing:.02em;text-align:center;line-height:1.3;color:#b5bccf}
+.lucca-poster--slide img{height:212px;width:150px;object-fit:cover;object-position:0 50%;max-width:150px}
+.lucca-poster--unavailable{position:relative;min-height:242px}
+.lucca-poster--unavailable:before{content:'Immagine non disponibile';font-size:12px;font-weight:700;color:#a8aeca;margin:80px auto}
+.lucca-poster--unavailable figcaption{display:none}
+.lucca-novel-intro{font-size:13px;line-height:1.8;color:#cfd3e2;margin:-2px 0 20px;padding:15px 20px;border-left:3px solid #e1aadd;background:#ffffff09;border-radius:0 10px 10px 0}
+.lucca-news-card--novel{border-color:#d5b1e13f}
+.lucca-news-card--novel .lucca-card-line span{color:#eeb8df}
+@media(max-width:590px){.lucca-poster{min-height:228px}.lucca-poster img,.lucca-poster--slide img{height:200px;max-height:200px}}
