@@ -27,7 +27,7 @@ C.renderers.nexus=async()=>{
  }catch(e){fail(p,e)}
 };
 C.renderers.creators=async()=>{
- root.append(group('L’atlante dei mangaka',[['Mangaka: biografie e bibliografie','38 autori, 143 opere e titoli JP/EN/IT con informazioni editoriali italiane documentate.','mangaka.html','Apri Mangaka Atlas ↗']]));
+ root.append(group('Gli autori dietro le opere',[['Mangaka: biografie e bibliografie','Autori e disegnatori manga, opere JP/EN/IT, edizioni italiane.','mangaka.html','Apri Mangaka Atlas ↗'],['Scrittori di light novel','18 autori e 32 opere, con illustratori, adattamenti e stato editoriale italiano.','light-novel-authors.html','Apri Light Novel Writers ↗'],['Registi e creatori anime','19 figure, 58 opere selezionate e ruoli creativi differenziati.','anime-directors.html','Apri Anime Directors ↗']]));
  root.append(group('Autori, registi e figure chiave · profili introduttivi',[
  ['Osamu Tezuka','Autore di Astro Boy e figura centrale della storia del manga e della televisione animata.','https://tezukaosamu.net/en/'],
  ['Hayao Miyazaki','Regista e cofondatore di Studio Ghibli, autore di numerosi lungometraggi.','https://www.ghibli.jp/'],
