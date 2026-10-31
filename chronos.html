@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8"><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#11152c"><meta name="description" content="Yume Chronos: un viaggio interattivo nella storia di anime e manga, dal 1917 a oggi, fra opere, creatori, cinema, riviste e rivoluzioni dell'animazione giapponese.">
+<link rel="canonical" href="https://xuthar.github.io/yume-anime-manga/chronos.html"><link rel="icon" href="favicon.svg">
+<title>Yume Chronos — La macchina del tempo di anime e manga</title>
+<link rel="stylesheet" href="yume-3.css?v=20261030-art2"><link rel="stylesheet" href="chronos.css?v=20261031-v1">
+<script src="chronos.js?v=20261031-v1" defer></script>
+</head>
+<body data-y3="chronos">
+<a class="skip" href="#chronos-main">Vai ai contenuti</a>
+<header class="y3-header chronos-header"><a class="y3-logo" href="yume-3.html"><span>✿</span> Yume <small>ANIME · MANGA · GIAPPONE</small></a>
+<nav aria-label="Navigazione Yume 3.0"><a href="yume-3.html">Portale 3.0</a><a href="universe.html">Universe</a><a href="collector.html">Collector</a><a href="yume-magazine.html">Magazine</a><a href="yume-japan.html">Yume Japan</a><a href="chronos.html" aria-current="page">Chronos</a><a href="index.html">Yume originale</a></nav></header>
+<main id="chronos-main" class="ch-main">
+<section class="ch-hero" aria-labelledby="ch-title"><div class="ch-stars" aria-hidden="true"></div>
+ <div class="ch-hero-content"><a href="yume-3.html" class="ch-back">← Torna a Yume 3.0</a><div class="ch-eyebrow">✦ L'ARCHIVIO DEL TEMPO</div>
+ <h1 id="ch-title">Yume <em>Chronos.</em></h1><p class="ch-kanji" lang="ja">時を越えて、物語のはじまりへ。</p>
+ <p class="ch-lead">Oltre un secolo di storie, idee e rivoluzioni. Attraversa le epoche, scopri come sono nati gli anime e i manga che conosci, e segui il loro viaggio nel tempo.</p>
+ <div class="ch-hero-actions"><a class="ch-primary" href="#esplora">Esplora la timeline <span aria-hidden="true">↓</span></a><a href="#come-leggere" class="ch-secondary">Come funziona</a></div>
+ </div><div class="ch-orbit" aria-hidden="true"><div class="ch-orbit-ring ch-ring-a"></div><div class="ch-orbit-ring ch-ring-b"></div><div class="ch-orbit-core"><span>時</span><small>CHRONOS</small></div><span class="ch-orbit-year ch-orbit-one">1917</span><span class="ch-orbit-year ch-orbit-two">1963</span><span class="ch-orbit-year ch-orbit-three">1988</span><span class="ch-orbit-year ch-orbit-four">2024</span></div>
+ </section>
+<section class="ch-stats" aria-label="Riepilogo archivio"><div><strong id="ch-count">—</strong><span>tappe documentate</span></div><div><strong id="ch-range">1917–2024</strong><span>periodo storico</span></div><div><strong id="ch-eras-count">—</strong><span>epoche da esplorare</span></div><div><strong>4</strong><span>percorsi tematici</span></div></section>
+<section id="esplora" class="ch-explorer" aria-labelledby="ch-explore-title"><div class="ch-section-title"><span>IL VIAGGIO COMINCIA QUI</span><h2 id="ch-explore-title">Scegli dove andare nel tempo.</h2><p>Seleziona un'epoca oppure cerca una data, un'opera o un fenomeno. I contenuti sono eventi editoriali e storici documentati, non date di uscita italiane.</p></div>
+<div class="ch-era-strip" id="ch-eras" aria-label="Seleziona un'epoca"></div>
+<div class="ch-toolbar"><label class="ch-search"><span aria-hidden="true">⌕</span><span class="ch-sr-only">Cerca nella cronologia</span><input id="ch-search" type="search" placeholder="Cerca: Gundam, Tezuka, 1984…" autocomplete="off"></label><label class="ch-select"><span>Ordina</span><select id="ch-sort"><option value="asc">Dal passato al presente</option><option value="desc">Dal presente al passato</option></select></label><button id="ch-reset" type="button" class="ch-reset">Azzera filtri</button></div>
+<div class="ch-filters" id="ch-filters" role="group" aria-label="Filtra per argomento">
+<button type="button" data-filter="all" aria-pressed="true">Tutti</button>
+<button type="button" data-filter="anime" aria-pressed="false">✧ Serie anime</button>
+<button type="button" data-filter="manga" aria-pressed="false">▤ Manga & riviste</button>
+<button type="button" data-filter="cinema" aria-pressed="false">◈ Cinema</button>
+<button type="button" data-filter="industria" aria-pressed="false">✦ Industria & cultura</button></div>
+<div class="ch-range-row"><label for="ch-year">Vai a un anno <strong id="ch-year-label">1917</strong></label><input type="range" id="ch-year" min="1917" max="2024" value="1917" step="1" aria-describedby="ch-year-help"><div class="ch-range-ends"><span>1917</span><span>2024</span></div><p id="ch-year-help">Sposta il cursore e apri l'anno scelto: la lista mostrerà gli eventi da quell'anno in poi.</p><button id="ch-year-clear" type="button" class="ch-clear-year" hidden>Mostra tutti gli anni</button></div>
+<div class="ch-results-heading"><h3 id="ch-results-label">Cronologia</h3><span id="ch-results-counter" aria-live="polite"></span></div>
+<div class="ch-timeline" id="ch-timeline" aria-live="polite"><noscript>Attiva JavaScript per navigare la timeline interattiva.</noscript></div>
+<div id="ch-empty" class="ch-empty" hidden>Nessun evento corrisponde ai filtri. Prova un'altra epoca o parola chiave.</div>
+</section>
+<section class="ch-understand" id="come-leggere" aria-labelledby="ch-understand-title"><div><span class="ch-mini">✿ IL CONTESTO</span><h2 id="ch-understand-title">Non solo date. Perché questi momenti contano?</h2><p>La storia degli anime non coincide con quella dei manga. Le riviste popolari, il cinema, la televisione, l'home video e più tardi lo streaming hanno seguito percorsi diversi, influenzandosi a vicenda. Chronos li riunisce senza confondere la prima serializzazione con l'uscita di un adattamento.</p><p>Le date indicano l'evento descritto e possono differire dalle distribuzioni italiane. Questa è una <strong>selezione editoriale</strong>, non una cronologia esaustiva. I collegamenti alle fonti sono inclusi nelle schede.</p></div><div class="ch-context-cards"><div><b>01</b><strong>Manga</strong><span>Il linguaggio della pagina, gli autori e le riviste.</span></div><div><b>02</b><strong>Anime</strong><span>Dagli esperimenti pionieristici alle serie televisive.</span></div><div><b>03</b><strong>Cinema</strong><span>La sperimentazione artistica sul grande schermo.</span></div><div><b>04</b><strong>Industria</strong><span>Studi, distribuzione, pubblico e cultura popolare.</span></div></div></section>
+<section class="ch-related" aria-labelledby="ch-related-title"><span class="ch-mini">CONTINUA IL VIAGGIO</span><h2 id="ch-related-title">Il passato vive nel resto di Yume.</h2><div class="ch-related-grid"><a href="universe.html"><span>✦</span><strong>Yume Universe</strong><small>Segue le connessioni tra saghe e adattamenti.</small></a><a href="manga-vs-anime.html"><span>本</span><strong>Manga vs Anime</strong><small>Scopri come cambia un'opera dalla pagina allo schermo.</small></a><a href="storia-giappone-anime.html"><span>⛩</span><strong>Storia del Giappone</strong><small>Riconosci le epoche storiche raccontate negli anime.</small></a><a href="yume-magazine.html"><span>誌</span><strong>Yume Magazine</strong><small>Approfondimenti e racconti editoriali.</small></a></div></section>
+</main><footer class="y3-footer ch-footer"><a href="yume-3.html">← Yume 3.0</a><span>Yume Chronos · Archivio editoriale · 31 ottobre 2026</span><a href="privacy.html">Privacy</a></footer>
+</body></html>
