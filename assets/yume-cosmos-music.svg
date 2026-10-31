@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520"><defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#221740"/><stop offset=".65" stop-color="#51317b"/><stop offset="1" stop-color="#a05aa1"/></linearGradient>
+<linearGradient id="glass" x2=".3" y2="1"><stop stop-color="#ffaee8"/><stop offset="1" stop-color="#745ccd"/></linearGradient>
+<radialGradient id="disc"><stop stop-color="#ffd7f1"/><stop offset=".14" stop-color="#543e86"/><stop offset=".16" stop-color="#171536"/><stop offset=".6" stop-color="#28224d"/><stop offset="1" stop-color="#090e22"/></radialGradient>
+<filter id="g"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect width="1200" height="520" fill="url(#sky)"/><ellipse cx="750" cy="210" rx="360" ry="210" fill="#d35fb6" opacity=".22"/><ellipse cx="200" cy="180" rx="260" ry="180" fill="#7478f0" opacity=".27"/>
+<path d="M0 450Q280 340 480 420T1200 350V520H0Z" fill="#1c1741"/>
+<g fill="#171634" stroke="#d8a2fd" stroke-width="2"><rect x="100" y="215" width="85" height="260"/><rect x="196" y="165" width="103" height="310"/><rect x="312" y="245" width="76" height="230"/><rect x="400" y="110" width="84" height="365"/><rect x="498" y="225" width="85" height="250"/><rect x="596" y="190" width="115" height="290"/><rect x="727" y="155" width="125" height="320"/><rect x="875" y="207" width="100" height="268"/><rect x="996" y="145" width="100" height="335"/></g>
+<g fill="#ee97e4" opacity=".85"><path d="M220 197h8v13h-8zm15 0h8v13h-8zm15 0h8v13h-8zM419 142h7v18h-7zm20 0h7v18h-7zM751 182h9v16h-9zm25 0h9v16h-9zM1016 180h8v14h-8zm25 0h8v14h-8z"/></g>
+<g transform="translate(575 225) rotate(-19)"><circle r="170" fill="#de9ed2" opacity=".45" filter="url(#g)"/><circle r="158" fill="url(#disc)" stroke="#ffd4f5" stroke-width="8"/><circle r="125" fill="none" stroke="#a66bcc" stroke-width="3" opacity=".75"/><circle r="95" fill="none" stroke="#c59fe2" stroke-width="2" opacity=".7"/><circle r="58" fill="#f3a5e5"/><circle r="21" fill="#311c54"/><path d="M-146 6A150 150 0 0 0 70 130" fill="none" stroke="#a3eaf1" stroke-width="6" opacity=".6"/></g>
+<g fill="#ffd3f2" font-family="Georgia,serif" font-size="78"><text x="205" y="105">♫</text><text x="903" y="113">♪</text><text x="1014" y="365">♬</text></g>
+</svg>

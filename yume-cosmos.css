@@ -1,0 +1,105 @@
+/* Yume 3.0 · interactive cosmos, inspired by the six-world concept. */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap');
+:root{color-scheme:dark;--c-ink:#f6f1ff;--c-soft:#d3d0e8;--c-pink:#f6b4e5;--c-mint:#a7f0e5;--c-border:rgba(229,192,239,.36)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body.cosmos-page{margin:0;background:#0c122a;color:var(--c-ink);font:15px/1.62 'DM Sans',system-ui,sans-serif}
+body.cosmos-page a{text-decoration:none}
+body.cosmos-page :is(a,button,input):focus-visible{outline:3px solid var(--c-mint);outline-offset:4px}
+.cosmos-skip,.cosmos-sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+.cosmos-skip:focus{width:auto;height:auto;clip:auto;left:12px;top:12px;padding:9px 16px;z-index:100;background:white;color:#182137}
+.cosmos-header{position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:74px;padding:10px clamp(14px,3vw,50px);background:rgba(9,12,31,.88);backdrop-filter:blur(18px);border-bottom:1px solid rgba(240,177,225,.24);box-shadow:0 4px 20px #070a1f44}
+.cosmos-logo{display:inline-flex;align-items:baseline;gap:5px;color:#fff;font:600 27px/1.1 'Playfair Display',Georgia,serif;white-space:nowrap}
+.cosmos-logo>span{font-size:24px;color:#f6aadf}.cosmos-logo em{font:800 12px 'DM Sans',sans-serif;color:#f6b6e2;font-style:normal}
+.cosmos-logo small{display:block;margin-left:9px;color:#b7b0d1;font:700 8px 'DM Sans',sans-serif;letter-spacing:.11em}
+.cosmos-header-nav{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+.cosmos-header-nav a{padding:8px 14px;border-radius:99px;border:1px solid transparent;color:#e7e2f1;font-size:12px;font-weight:700}
+.cosmos-header-nav a:hover,.cosmos-header-nav a[aria-current]{background:#eeafe91d;border-color:#f0b3df5a;color:#fff}
+.cosmos-hero{position:relative;isolation:isolate;min-height:850px;display:grid;grid-template-columns:minmax(260px,.31fr) minmax(0,.69fr);align-items:center;gap:6px;padding:33px clamp(15px,2.4vw,44px) 44px;overflow:hidden;background:#101635 url('assets/yume-cosmos-sky.svg') center/cover no-repeat;border-bottom:1px solid #ba8ac34d}
+.cosmos-hero:before{content:"";position:absolute;inset:0;pointer-events:none;z-index:-1;background:radial-gradient(ellipse at 73% 44%,transparent 10%,#12142d31 70%),linear-gradient(0deg,#2b214c69,transparent 30%)}
+.cosmos-hero-intro{position:relative;z-index:4;max-width:395px;align-self:center;padding:15px 4px 45px}
+.cosmos-kicker,.cosmos-eyebrow{display:block;color:#e9b8e7;font-size:10px;font-weight:800;letter-spacing:.19em}
+.cosmos-hero-intro h1{margin:16px 0 6px;font:600 clamp(66px,6.6vw,113px)/1 'Playfair Display',Georgia,serif;letter-spacing:-.06em;text-shadow:0 8px 32px #0908207d;white-space:nowrap}
+.cosmos-hero-intro h1 em{font-style:normal;color:#f8c1e4}
+.cosmos-tagline{font:500 clamp(21px,2.3vw,32px)/1.35 'Playfair Display',Georgia,serif;margin:17px 0;color:#faebfc}
+.cosmos-lead{max-width:345px;color:#d9d6eb;font-size:14px;line-height:1.85;margin:13px 0 23px}
+.cosmos-start{display:inline-flex;gap:22px;align-items:center;padding:13px 23px;border-radius:80px;background:linear-gradient(120deg,#f9bce5,#b6b3f3);color:#251a3b!important;box-shadow:0 0 32px #cf86d66b;border:1px solid #ffe2ef;font-weight:800;font-size:13px;transition:transform .18s,box-shadow .18s}
+.cosmos-start:hover{transform:translateY(-2px);box-shadow:0 0 47px #d99ee18a}
+.cosmos-hint{color:#c7c6e1;font-size:11px;margin-top:22px;line-height:1.7}
+.cosmos-map-wrap{position:relative;z-index:1;min-width:0}
+.cosmos-map{position:relative;width:100%;max-width:1060px;aspect-ratio:1000/720;margin:0 auto;overflow:visible}
+.cosmos-orbits{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none;filter:drop-shadow(0 0 11px #ffa9de69)}
+.cosmos-orbit-ring{fill:none;stroke:#e0bee9;stroke-width:1.65;stroke-dasharray:6 11;opacity:.55}
+.cosmos-orbit-ring.secondary{stroke:#9caeed;stroke-dasharray:3 12;opacity:.36}
+.cosmos-connection{fill:none;stroke:url(#lineGlow);stroke-width:2.3;stroke-linecap:round}
+.cosmos-node{fill:#f5c4e8;filter:drop-shadow(0 0 10px #ffb1e7)}
+.cosmos-core{position:absolute;z-index:3;left:50.5%;top:48.7%;width:22.5%;aspect-ratio:1;border-radius:50%;transform:translate(-50%,-50%);display:grid;place-items:center;color:#fff;background:radial-gradient(circle at 35% 31%,#8a628e,#4f3f78 44%,#221b45 68%,#121b3c 99%);border:2px solid #f3d2eda1;box-shadow:0 0 0 10px #eab4e215,0 0 0 21px #b6a8ed13,0 0 53px 20px #e9a5d15e,inset 0 0 37px #f0ceef41;transition:box-shadow .3s,filter .3s}
+.cosmos-core:before,.cosmos-core:after{content:"";position:absolute;width:158%;height:45%;border:2px solid #f5bcdf9f;border-radius:50%;transform:rotate(-26deg);pointer-events:none;box-shadow:0 0 14px #f8bde462}
+.cosmos-core:after{transform:rotate(41deg);width:137%;height:36%;border-color:#98ddf4a8}
+.cosmos-core:hover{filter:brightness(1.16);box-shadow:0 0 68px 25px #e9a5d193,inset 0 0 37px #f0ceef41}
+.cosmos-core-inner{text-align:center;display:grid;justify-items:center;gap:6px;transform:rotate(-1deg)}
+.cosmos-core-star{font-size:clamp(19px,2.4vw,36px);color:#ffdcf7}
+.cosmos-core strong{font:600 clamp(22px,2.75vw,45px)/1.1 'Playfair Display',Georgia,serif;white-space:nowrap}
+.cosmos-core strong em{font-style:normal;color:#ffcbef}
+.cosmos-core small{font-size:clamp(6px,.59vw,10px);letter-spacing:.16em;line-height:1.55;color:#ecdbef}
+.cosmos-world{position:absolute;z-index:2;width:23%;display:flex;align-items:center;flex-direction:column;text-align:center;transform:translate(-50%,-50%);color:#fff;transition:filter .2s}
+.cosmos-world-universe{left:27%;top:20%}
+.cosmos-world-collector{left:74.1%;top:19.3%}
+.cosmos-world-japan{left:15%;top:51%}
+.cosmos-world-music{left:85%;top:50.5%}
+.cosmos-world-magazine{left:28%;top:81.8%}
+.cosmos-world-discover{left:73.4%;top:80.8%}
+.cosmos-world-planet{position:relative;display:block;width:clamp(89px,10.5vw,156px);height:clamp(89px,10.5vw,156px);border-radius:50%;overflow:hidden;background:linear-gradient(145deg,#523a80,#222956);border:2px solid #ffd5eba8;box-shadow:0 0 0 7px #e3c0e116,0 0 27px #b894e664,inset 0 0 22px #dfc3f47d;animation:cosmos-bob 9s ease-in-out infinite;transition:transform .22s,box-shadow .22s}
+.cosmos-world:nth-of-type(2n) .cosmos-world-planet{animation-delay:-3.5s}
+.cosmos-world-planet img{display:block;width:100%;height:100%;object-fit:cover;filter:saturate(1.26) contrast(1.07)}
+.cosmos-world-planet:after{content:"";position:absolute;inset:0;border-radius:50%;background:radial-gradient(circle at 35% 20%,#fff8,transparent 45%),linear-gradient(135deg,transparent 48%,#12162c7d);pointer-events:none}
+.cosmos-world-icon{position:absolute;z-index:1;bottom:7px;right:8px;display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#18182fdf;color:#fff;border:1px solid #e4bce4b0;font-size:15px}
+.cosmos-world strong{display:block;margin:10px 0 1px;font:600 clamp(13px,1.36vw,21px)/1.13 'Playfair Display',Georgia,serif;text-shadow:0 3px 14px #10112c,0 1px 4px #080a21;white-space:nowrap}
+.cosmos-world small{color:#d4d8ed;font-size:clamp(8px,.76vw,11px);text-shadow:0 3px 8px #070820;white-space:nowrap}
+.cosmos-world:hover .cosmos-world-planet,.cosmos-world:focus-visible .cosmos-world-planet{animation-play-state:paused;transform:scale(1.08);box-shadow:0 0 0 8px #ecc6ed44,0 0 42px 8px #f9a4dbb3}
+.cosmos-world:hover strong,.cosmos-world:focus-visible strong{color:#ffe1f3}
+.cosmos-map-caption{margin:0;text-align:center;color:#c8c6e2;font-size:11px;letter-spacing:.12em}
+.cosmos-hero-bottom{position:absolute;left:20px;bottom:12px;right:20px;display:flex;justify-content:space-between;color:#dbbadd;font-size:11px;letter-spacing:.2em;opacity:.75}
+@keyframes cosmos-bob{0%,100%{translate:0 0}50%{translate:0 -7px}}
+.cosmos-destination{max-width:1220px;margin:56px auto 0;padding:0 22px;scroll-margin-top:96px}
+.cosmos-destination-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.cosmos-destination h2,.cosmos-search h2{font:600 clamp(31px,3.5vw,47px)/1.13 'Playfair Display',Georgia,serif;letter-spacing:-.04em;margin:7px 0}
+.cosmos-destination-top p,.cosmos-search>p{margin:0;color:#c4c8de;font-size:13px;max-width:680px;line-height:1.8}
+.cosmos-back-map{padding:10px 15px;border:1px solid #e3badc70;border-radius:80px;background:#302a49;color:#f4d5e9;font-weight:800;font-size:12px}
+.cosmos-back-map:hover{background:#594067}
+.cosmos-world-tabs{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px;margin:24px 0 15px}
+.cosmos-world-tab{padding:9px 8px;border:1px solid #e3c2dd52;border-radius:11px;background:#23223e;color:#d3d3e7;cursor:pointer;font:800 11px/1.4 'DM Sans',sans-serif}
+.cosmos-world-tab span{font-size:18px;display:block;color:#f5b9db}
+.cosmos-world-tab[aria-pressed=true]{background:#64416d;color:white;border-color:#f2b7dc;box-shadow:0 0 18px #ca88dc33}
+.cosmos-explore-inner{display:grid;grid-template-columns:.85fr 1.15fr;gap:18px;padding:20px;border:1px solid #b79fcd6c;border-radius:19px;background:linear-gradient(140deg,#21213d,#161b34)}
+.cosmos-world-focus{overflow:hidden;border-radius:12px;position:relative;background:#302648;min-height:280px}
+.cosmos-world-focus img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(1.12)}
+.cosmos-world-focus:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,#11172cf0,#11172c13 80%);pointer-events:none}
+.cosmos-world-focus-text{position:absolute;bottom:0;left:0;right:0;z-index:1;padding:24px}
+.cosmos-world-focus-text strong{font:600 24px 'Playfair Display',Georgia,serif}
+.cosmos-world-focus-text p{color:#ddd7e8;font-size:12px}
+.cosmos-world-experiences h3{font:600 24px 'Playfair Display',Georgia,serif;margin:4px 0 14px}
+.cosmos-experience-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+.cosmos-experience-links a{display:flex;align-items:center;justify-content:space-between;min-width:0;gap:5px;padding:12px 14px;color:#e6eaf5;background:#2c304a;border:1px solid #aba4c861;border-radius:11px;font-weight:700;font-size:12px}
+.cosmos-experience-links a:after{content:"↗";color:#a0f1e0}
+.cosmos-experience-links a:hover{border-color:#f5bde6;background:#3c3654}
+.cosmos-world-original{border-top:1px solid #ffffff2c;margin-top:17px;padding-top:14px}
+.cosmos-world-original span{display:block;color:#b9bad0;font-size:10px;font-weight:800;letter-spacing:.13em}
+#cosmos-original-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:9px}
+#cosmos-original-links a{font-size:12px;color:#a7eadf;font-weight:700;text-decoration:underline;text-decoration-color:#a7eadf88}
+.cosmos-search{max-width:1040px;margin:67px auto 58px;padding:33px clamp(16px,4vw,48px);border:1px solid #b68ec785;border-radius:21px;text-align:center;scroll-margin-top:95px;background:radial-gradient(ellipse at 48% 0,#694d8a63,transparent 60%),#1c213d}
+.cosmos-search-form{display:flex;gap:6px;align-items:center;margin:21px auto 11px;padding:5px;background:#faf7ff;border-radius:99px;max-width:670px}
+.cosmos-search-form input{flex:1;min-width:0;padding:13px 17px;border:0;outline:0;background:transparent;color:#221a37;font:14px 'DM Sans',sans-serif}
+.cosmos-search-form button{padding:12px 21px;border:0;border-radius:80px;background:linear-gradient(120deg,#bf79c8,#825fba);font-weight:800;color:white;cursor:pointer;font-size:12px}
+#y3-search-status{color:#d5bedc;font-size:11px}
+.y3-search-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:10px;text-align:left;margin-top:18px}
+.y3-search-group{padding:14px;background:#151a35;border:1px solid #bea3cd70;border-radius:12px;min-width:0}
+.y3-search-group h3{margin:0 0 8px;font:700 13px 'DM Sans',sans-serif;color:#f6bae2}
+.y3-search-group ul{list-style:none;margin:0;padding:0}.y3-search-group li{padding:7px 0;border-top:1px solid #ffffff18;font-size:12px;overflow-wrap:anywhere}.y3-search-group li a{color:#a6eddf}.y3-search-group p{font-size:12px;color:#bec2d9}
+.cosmos-footer{max-width:1220px;margin:0 auto;padding:25px 20px 42px;border-top:1px solid #f0c0e330;display:flex;align-items:center;justify-content:center;gap:18px 28px;flex-wrap:wrap;font-size:11px;color:#aeb1ce}
+.cosmos-footer a{color:#b7efdf;font-weight:800}
+@media(max-width:1200px){.cosmos-hero{grid-template-columns:minmax(245px,.29fr) minmax(0,.71fr);min-height:750px}.cosmos-world-planet{width:clamp(84px,10vw,136px);height:clamp(84px,10vw,136px)}.cosmos-world strong{font-size:clamp(12px,1.28vw,18px)}.cosmos-header{padding:9px 15px}}
+@media(max-width:920px){.cosmos-hero{display:flex;flex-direction:column;justify-content:center;min-height:0;padding:45px 15px 30px}.cosmos-hero-intro{align-self:stretch;max-width:710px;text-align:center;margin:0 auto;padding:10px 15px}.cosmos-hero-intro h1{font-size:clamp(64px,10vw,96px)}.cosmos-tagline br{display:none}.cosmos-tagline{font-size:23px}.cosmos-lead{max-width:620px}.cosmos-map-wrap{width:min(100%,950px)}.cosmos-map{width:100%}.cosmos-world-planet{width:clamp(88px,14vw,133px);height:clamp(88px,14vw,133px)}.cosmos-world strong{font-size:clamp(11px,1.7vw,17px)}.cosmos-header-nav a{padding:7px 10px}.cosmos-hero-bottom{display:none}.cosmos-destination{margin-top:35px}.cosmos-world-tabs{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:680px){.cosmos-header{min-height:61px;align-items:center}.cosmos-logo{font-size:22px}.cosmos-logo small{display:none}.cosmos-header-nav{gap:0}.cosmos-header-nav a{font-size:11px;padding:7px 8px}.cosmos-header-nav a:last-child{display:none}.cosmos-hero{padding:24px 7px 25px}.cosmos-hero-intro h1{font-size:64px;margin:9px 0}.cosmos-lead{font-size:12px}.cosmos-kicker{font-size:9px}.cosmos-tagline{font-size:20px;margin:10px 0}.cosmos-hint{margin:13px auto 0}.cosmos-map{height:650px;aspect-ratio:auto}.cosmos-orbits{display:none}.cosmos-core{width:154px;left:50%;top:50%;z-index:2}.cosmos-core strong{font-size:27px}.cosmos-core-star{font-size:23px}.cosmos-core small{font-size:7px}.cosmos-world{width:40%}.cosmos-world-universe{left:25%;top:15%}.cosmos-world-collector{left:75%;top:15%}.cosmos-world-japan{left:18%;top:48%}.cosmos-world-music{left:82%;top:48%}.cosmos-world-magazine{left:25%;top:84%}.cosmos-world-discover{left:75%;top:84%}.cosmos-world-planet{width:103px;height:103px}.cosmos-world strong{font-size:13px;white-space:normal;max-width:160px;line-height:1.1}.cosmos-world small{display:none}.cosmos-map-caption{margin:7px 0}.cosmos-explore-inner{grid-template-columns:1fr}.cosmos-world-focus{min-height:205px}.cosmos-world-tabs{grid-template-columns:repeat(3,1fr)}.cosmos-world-tab{font-size:10px}.cosmos-destination{padding:0 12px}.cosmos-destination h2{font-size:34px}.cosmos-search{margin:42px 10px 36px;padding:22px 14px}}
+@media(max-width:410px){.cosmos-map{height:610px}.cosmos-world-planet{width:88px;height:88px}.cosmos-world strong{font-size:12px}.cosmos-core{width:128px}.cosmos-core strong{font-size:22px}.cosmos-world-tabs{grid-template-columns:repeat(2,1fr)}.cosmos-experience-links{grid-template-columns:1fr}.cosmos-header-nav a{font-size:10px;padding:7px 5px}.cosmos-hero-intro h1{font-size:59px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.cosmos-world-planet{animation:none}.cosmos-core,.cosmos-world-planet,.cosmos-start{transition:none}}
