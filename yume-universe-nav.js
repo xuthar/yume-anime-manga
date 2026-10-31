@@ -43,7 +43,7 @@ let active='';
 const path=location.pathname.split('/').pop(),type=document.body.dataset.y3;
 if(path==='yume-explore.html'){const current=new URLSearchParams(location.search).get('area');active=(window.YumeAtlas?.modules?.[current]?.world)||''}
 else if(['universe','collector','japan','magazine'].includes(type))active=type;
-else if(path==='chronos.html'||path==='manga-vs-anime.html')active='universe';
+else if(path==='chronos.html'||path==='manga-vs-anime.html'||path==='mangaka.html')active='universe';
 else if(path==='anime-pilgrimage.html'||['cucina-giapponese.html','giappone-da-visitare.html','folklore-giapponese.html','storia-giappone-anime.html','luoghi-anime-manga.html'].includes(path))active='japan';
 else if(['jpop.html','sigle-anime.html','sigle-italiane.html','colonne-sonore-anime.html','top-canzoni-giapponesi.html','tv-giapponese.html'].includes(path))active='music';
 else if(['magazine-article.html'].includes(path))active='magazine';
