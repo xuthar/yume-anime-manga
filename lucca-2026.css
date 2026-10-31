@@ -84,3 +84,29 @@
 .lucca-social-links small{font-size:11px;color:#9de6da}
 .lucca-social-update p.lucca-social-footnote{font-size:11px;color:#c1bace;margin:17px 0 0}
 @media(max-width:600px){.lucca-social-links{grid-template-columns:1fr}}
+
+/* Lucca 2026 · miniature scrolling news bar at top of Yume home */
+.home-page .lucca-breaking-bar{display:flex;align-items:center;gap:0;width:94%;max-width:1380px;height:38px;margin:-3px auto 11px;border:1px solid #c7a8dc55;border-radius:9px;overflow:hidden;background:#211d34;color:#ece8fa;box-shadow:0 3px 15px #080a1a28;isolation:isolate}
+.lucca-breaking-label{display:flex;align-items:center;gap:6px;flex:none;height:100%;padding:0 13px;background:linear-gradient(110deg,#d49bcc,#b19beb);color:#17152c;font:800 10px Outfit,system-ui,sans-serif;white-space:nowrap;letter-spacing:.055em}
+.lucca-breaking-link{display:block;flex:1;min-width:0;overflow:hidden;white-space:nowrap;height:100%;position:relative;text-decoration:none!important;color:#eeebf4!important}
+.lucca-breaking-link:hover{background:#ffffff08}
+.lucca-breaking-scroll{display:flex;width:max-content;align-items:center;height:100%;animation:lucca-news-marquee 43s linear infinite;will-change:transform}
+.lucca-breaking-scroll>span{display:block;flex:none;padding-right:48px;white-space:nowrap;font:700 11px Outfit,system-ui,sans-serif;letter-spacing:.05em}
+.lucca-breaking-scroll b{color:#eeb0dc;font-size:12px;margin:0 9px}
+.lucca-breaking-more{flex:none;display:flex;height:100%;align-items:center;padding:0 13px;border-left:1px solid #ffffff24;background:#ffffff05;color:#a9ecdd!important;font-size:10px;font-weight:700;white-space:nowrap;text-decoration:none!important}
+.lucca-breaking-more:hover{background:#ffffff12}
+.home-page .lucca-breaking-bar:focus-within .lucca-breaking-scroll,.home-page .lucca-breaking-bar:hover .lucca-breaking-scroll{animation-play-state:paused}
+@keyframes lucca-news-marquee{to{transform:translateX(-50%)}}
+@media(max-width:650px){.home-page .lucca-breaking-bar{width:96%;height:34px;margin-top:0;margin-bottom:9px}.lucca-breaking-label{font-size:9px;letter-spacing:0;padding:0 7px}.lucca-breaking-more{padding:0 8px;font-size:9px}.lucca-breaking-scroll>span{font-size:10px}}
+@media(prefers-reduced-motion:reduce){.lucca-breaking-scroll{animation:none}}
+/* Dokusho 2026: confirmed new licences with covers from publisher's original announcement slides */
+.lucca-confirmed-news{margin:0 0 21px}
+.lucca-novel-group-head{margin:6px 0 20px;padding:19px 22px;border:1px solid #daacd94a;border-radius:13px;background:linear-gradient(120deg,#33213f,#1e2137)}
+.lucca-novel-group-head>span{font-size:10px;letter-spacing:.1em;color:#edbce2;font-weight:800}
+.lucca-novel-group-head h3{font:700 clamp(22px,3vw,29px)/1.2 Outfit,system-ui,sans-serif;color:#fff;margin:9px 0}
+.lucca-novel-group-head p{color:#c9cbe0;font-size:13px;line-height:1.7;margin:0}
+.lucca-novel-group-head p a{color:#a7eadc;text-decoration:underline;text-underline-offset:3px}
+.lucca-novel-group-head--old{margin-top:33px;border-color:#ffffff23;background:#ffffff08}
+.lucca-news-card--new{border-color:#ddafe066;background:linear-gradient(145deg,#2c2540,#181e32)}
+.lucca-genre-tags{font-size:10px!important;line-height:1.4!important;letter-spacing:.03em;color:#b5e9dd!important;font-weight:750;margin:0 0 11px!important}
+.lucca-news-card--new .lucca-poster{background:radial-gradient(circle at 50% 30%,#7471a255,transparent 72%),#17182c}
