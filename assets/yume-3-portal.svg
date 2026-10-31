@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 730" role="img" aria-labelledby="title desc">
+<title id="title">Il nuovo mondo di Yume 3.0</title>
+<desc id="desc">Tre portali magici illuminano un paesaggio giapponese notturno: l'universo degli anime, una biblioteca manga e il viaggio in Giappone.</desc>
+<defs>
+<linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15173A"/><stop offset=".48" stop-color="#151F52"/><stop offset="1" stop-color="#090E24"/></linearGradient>
+<radialGradient id="cosmic"><stop stop-color="#B472EE" stop-opacity=".72"/><stop offset=".50" stop-color="#386DE3" stop-opacity=".30"/><stop offset="1" stop-color="#1B214B" stop-opacity="0"/></radialGradient>
+<radialGradient id="moon"><stop stop-color="#FFECFD"/><stop offset=".6" stop-color="#C8E8FA"/><stop offset="1" stop-color="#90D6F0"/></radialGradient>
+<linearGradient id="sakura" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFB7DA"/><stop offset="1" stop-color="#D363B6"/></linearGradient>
+<linearGradient id="fuji" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#7AA7E4"/><stop offset=".5" stop-color="#364A82"/><stop offset="1" stop-color="#17234B"/></linearGradient>
+<linearGradient id="horizon" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#4C438D" stop-opacity=".35"/><stop offset="1" stop-color="#11152F"/></linearGradient>
+<linearGradient id="portalBlue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#96DFF7"/><stop offset=".5" stop-color="#8F80F2"/><stop offset="1" stop-color="#E993DB"/></linearGradient>
+<linearGradient id="portalGold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBE9C3"/><stop offset=".5" stop-color="#E6A47F"/><stop offset="1" stop-color="#CD74C1"/></linearGradient>
+<linearGradient id="portalGreen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#AFEFD7"/><stop offset=".5" stop-color="#6FCBE5"/><stop offset="1" stop-color="#E7C48E"/></linearGradient>
+<filter id="softGlow"><feGaussianBlur stdDeviation="9"/></filter>
+<filter id="bigGlow"><feGaussianBlur stdDeviation="27"/></filter>
+<clipPath id="circleU"><circle cx="338" cy="342" r="135"/></clipPath>
+<clipPath id="circleC"><circle cx="615" cy="342" r="135"/></clipPath>
+<clipPath id="circleP"><circle cx="892" cy="342" r="135"/></clipPath>
+<g id="petal"><path d="M0 0C6-21 28-21 26-3C27 11 12 15 0 0Z" fill="url(#sakura)"/></g>
+</defs>
+<rect width="1200" height="730" fill="url(#night)"/>
+<circle cx="600" cy="250" r="470" fill="url(#cosmic)" opacity=".76"/>
+<ellipse cx="620" cy="498" rx="450" ry="175" fill="#9E5AD4" opacity=".18" filter="url(#bigGlow)"/>
+<g fill="#E6E9FF"><circle cx="74" cy="98" r="2"/><circle cx="122" cy="183" r="1.5"/><circle cx="207" cy="95" r="1"/><circle cx="276" cy="141" r="2"/><circle cx="369" cy="81" r="1"/><circle cx="463" cy="123" r="1.5"/><circle cx="568" cy="64" r="2"/><circle cx="711" cy="124" r="1.4"/><circle cx="825" cy="84" r="2"/><circle cx="952" cy="130" r="1.5"/><circle cx="1045" cy="82" r="2"/><circle cx="1136" cy="170" r="1.3"/><circle cx="1152" cy="96" r="2.4"/><circle cx="98" cy="372" r="1"/><circle cx="1075" cy="309" r="1.5"/><circle cx="53" cy="435" r="1.2"/><circle cx="1164" cy="456" r="1.4"/><circle cx="132" cy="276" r="1"/></g>
+<path d="M70 163Q465 -39 900 127T1195 205" fill="none" stroke="#B98EE9" stroke-opacity=".28" stroke-width="2"/>
+<path d="M22 232Q500 42 1175 307" fill="none" stroke="#78C4E7" stroke-opacity=".18" stroke-width="1.7" stroke-dasharray="6 15"/>
+<!-- Celestial swirl -->
+<ellipse cx="615" cy="328" rx="525" ry="175" fill="none" stroke="#9D83F4" stroke-opacity=".20" stroke-width="2" transform="rotate(-11 615 328)"/>
+<!-- Distant Fuji -->
+<path d="M0 554L128 484L224 532L384 420L525 548L670 466L825 558L1044 407L1200 533V730H0Z" fill="url(#horizon)"/>
+<path d="M722 541L943 355L1144 542Z" fill="url(#fuji)" opacity=".85"/>
+<path d="M875 413L943 355L1018 424L973 411L944 394L921 416L901 410Z" fill="#D7E6F7" opacity=".9"/>
+<path d="M0 631Q231 520 434 612T837 589T1200 614V730H0Z" fill="#12172F" opacity=".92"/>
+<g opacity=".8" fill="#FFC989"><rect x="63" y="595" width="18" height="8" rx="2"/><rect x="104" y="576" width="16" height="7" rx="1"/><rect x="166" y="622" width="20" height="8" rx="1"/><rect x="1038" y="585" width="21" height="8" rx="2"/><rect x="1097" y="609" width="25" height="8" rx="2"/></g>
+<!-- Four or five sakura branches -->
+<path d="M-50 12Q100 51 250 19T443 -12M-5 17Q105 102 198 155M45 34Q93 61 150 76M91 50Q140 91 157 129" fill="none" stroke="#49304E" stroke-width="19" stroke-linecap="round"/>
+<path d="M1180 0Q1090 54 1050 158M1160 35Q1091 42 1021 58" fill="none" stroke="#47344D" stroke-width="15" stroke-linecap="round"/>
+<g><use href="#petal" x="46" y="40" transform="rotate(15 46 40)"/><use href="#petal" x="116" y="65" transform="rotate(83 116 65)"/><use href="#petal" x="170" y="87" transform="rotate(140 170 87)"/><use href="#petal" x="252" y="13" transform="rotate(65 252 13)"/><use href="#petal" x="312" y="5" transform="rotate(190 312 5)"/><use href="#petal" x="1034" y="75" transform="rotate(70 1034 75)"/><use href="#petal" x="1081" y="87" transform="rotate(143 1081 87)"/><use href="#petal" x="1059" y="129" transform="rotate(260 1059 129)"/><use href="#petal" x="160" y="178" transform="rotate(115 160 178)"/></g>
+<!-- Portals, triple themed discs -->
+<g>
+<circle cx="338" cy="342" r="152" fill="#66BBFC" opacity=".20" filter="url(#bigGlow)"/>
+<circle cx="338" cy="342" r="144" fill="none" stroke="url(#portalBlue)" stroke-opacity=".35" stroke-width="17" filter="url(#softGlow)"/>
+<circle cx="338" cy="342" r="141" fill="#1C2A5A" stroke="url(#portalBlue)" stroke-width="10"/>
+<g clip-path="url(#circleU)">
+<rect x="192" y="203" width="292" height="290" fill="#17235B"/>
+<ellipse cx="336" cy="331" rx="158" ry="85" fill="#7553D6" opacity=".25" transform="rotate(-27 336 331)"/>
+<circle cx="340" cy="334" r="70" fill="none" stroke="#8BE6F2" stroke-width="12" stroke-opacity=".68"/>
+<circle cx="340" cy="334" r="50" fill="#14214A" stroke="#D0E3FF" stroke-width="2"/>
+<path d="M340 283C365 295 374 317 366 337C364 356 348 367 331 371C345 353 346 334 329 318C320 306 319 292 340 283Z" fill="url(#moon)"/>
+<path d="M217 366Q272 304 328 370T465 320" fill="none" stroke="#D7A1FF" stroke-width="2.7" opacity=".7"/>
+<g fill="#F9F7FF"><circle cx="250" cy="282" r="4"/><circle cx="399" cy="277" r="4"/><circle cx="432" cy="398" r="3"/><circle cx="279" cy="411" r="4"/><circle cx="322" cy="246" r="2"/></g>
+</g></g>
+<g>
+<circle cx="615" cy="342" r="152" fill="#EDA5BE" opacity=".22" filter="url(#bigGlow)"/>
+<circle cx="615" cy="342" r="144" fill="none" stroke="url(#portalGold)" stroke-opacity=".46" stroke-width="18" filter="url(#softGlow)"/>
+<circle cx="615" cy="342" r="141" fill="#39243F" stroke="url(#portalGold)" stroke-width="10"/>
+<g clip-path="url(#circleC)">
+<rect x="473" y="201" width="285" height="290" fill="#513A48"/>
+<path d="M488 224H744V467H488Z" fill="#291F37"/>
+<g stroke="#BB8B69" stroke-width="9"><path d="M512 234V470M716 234V470M512 302H718M512 379H718M512 452H718"/></g>
+<g fill="#C780AD"><rect x="522" y="247" width="13" height="45"/><rect x="545" y="241" width="18" height="51"/><rect x="576" y="245" width="12" height="47"/><rect x="606" y="240" width="19" height="52"/></g>
+<g fill="#D9AC6F"><rect x="639" y="248" width="13" height="44"/><rect x="662" y="237" width="19" height="55"/><rect x="686" y="245" width="12" height="47"/><rect x="521" y="313" width="21" height="54"/><rect x="554" y="313" width="12" height="54"/><rect x="575" y="324" width="20" height="43"/><rect x="606" y="318" width="12" height="49"/></g>
+<g fill="#93B6BA"><rect x="639" y="317" width="17" height="50"/><rect x="666" y="321" width="13" height="46"/><rect x="686" y="313" width="16" height="54"/><rect x="525" y="392" width="17" height="49"/><rect x="552" y="392" width="21" height="49"/><rect x="582" y="396" width="15" height="45"/><rect x="611" y="385" width="14" height="56"/><rect x="637" y="391" width="17" height="50"/><rect x="668" y="397" width="15" height="44"/></g>
+<path d="M494 459H745" stroke="#E6B686" stroke-width="16"/>
+<path d="M565 449Q609 408 664 449" fill="none" stroke="#FFF0CC" stroke-width="6" opacity=".67"/>
+</g></g>
+<g>
+<circle cx="892" cy="342" r="152" fill="#6FDDC6" opacity=".19" filter="url(#bigGlow)"/>
+<circle cx="892" cy="342" r="144" fill="none" stroke="url(#portalGreen)" stroke-opacity=".5" stroke-width="18" filter="url(#softGlow)"/>
+<circle cx="892" cy="342" r="141" fill="#234759" stroke="url(#portalGreen)" stroke-width="10"/>
+<g clip-path="url(#circleP)">
+<rect x="749" y="198" width="286" height="286" fill="#7EB5C9"/>
+<circle cx="967" cy="265" r="42" fill="#E9D9B2"/>
+<path d="M745 410L824 305L872 372L941 286L1043 412Z" fill="#608DA2"/>
+<path d="M891 340L941 286L984 338L951 324L938 307L916 335Z" fill="#E1EFF2"/>
+<path d="M744 418Q811 397 882 420T1042 414V484H744Z" fill="#2A877B"/>
+<!-- Torii icon -->
+<path d="M815 358H967M825 365H959M836 366V454M947 366V454M835 397H949" fill="none" stroke="#E66F71" stroke-width="11" stroke-linecap="round"/>
+<path d="M802 348Q893 359 980 348" fill="none" stroke="#DF565F" stroke-width="13" stroke-linecap="round"/>
+<path d="M758 453Q840 439 901 462T1037 451" fill="none" stroke="#DBBF8F" stroke-width="5" opacity=".7"/>
+</g></g>
+<!-- glowing connecting route -->
+<path d="M169 508C294 558 389 558 504 524S707 503 759 528S952 558 1040 492" fill="none" stroke="#F8A4DE" stroke-width="5" stroke-linecap="round" opacity=".65" filter="url(#softGlow)"/>
+<path d="M169 508C294 558 389 558 504 524S707 503 759 528S952 558 1040 492" fill="none" stroke="#FADEFC" stroke-width="2.7" stroke-linecap="round" opacity=".8"/>
+<g fill="#FAE6F8"><circle cx="200" cy="520" r="5"/><circle cx="500" cy="525" r="5"/><circle cx="757" cy="528" r="5"/><circle cx="1004" cy="509" r="5"/></g>
+<!-- night pavilion silhouette -->
+<path d="M20 613L125 565L230 613Z" fill="#1A1933"/><path d="M43 612V699M206 612V699M27 617H225" stroke="#201C36" stroke-width="13"/>
+<rect x="72" y="633" width="115" height="44" rx="2" fill="#FFCB9A" opacity=".16"/>
+<g fill="#FFB1D1" opacity=".82"><circle cx="72" cy="516" r="4"/><circle cx="129" cy="464" r="5"/><circle cx="1092" cy="500" r="5"/><circle cx="1050" cy="576" r="4"/><circle cx="340" cy="586" r="3"/><circle cx="682" cy="585" r="4"/></g>
+</svg>

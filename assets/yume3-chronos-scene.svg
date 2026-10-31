@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+<title id="t">Yume Chronos — un orologio fra le epoche</title><desc id="d">Illustrazione originale di un orologio astronomico luminoso e di una cronologia di anime e manga.</desc>
+<defs><radialGradient id="bg"><stop stop-color="#594375"/><stop offset=".58" stop-color="#2e294f"/><stop offset="1" stop-color="#131d38"/></radialGradient>
+<radialGradient id="core"><stop stop-color="#885e91"/><stop offset=".6" stop-color="#43365e"/><stop offset="1" stop-color="#161e3c"/></radialGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a3eee4"/><stop offset=".45" stop-color="#f4b1dc"/><stop offset="1" stop-color="#c6abed"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="11"/></filter>
+<pattern id="stars" width="92" height="82" patternUnits="userSpaceOnUse"><circle cx="18" cy="29" r="1.8" fill="#f9e7fc" opacity=".53"/><circle cx="61" cy="71" r="1" fill="#f8d5ed" opacity=".47"/></pattern></defs>
+<rect width="1200" height="520" fill="url(#bg)"/><rect width="1200" height="520" fill="url(#stars)"/>
+<path d="M0 395Q270 310 580 402T1200 338" fill="none" stroke="#967dc4" opacity=".21" stroke-width="95"/>
+<g transform="translate(603 264)" fill="none"><circle r="219" stroke="#f5c3e3" stroke-opacity=".26" stroke-width="2"/><circle r="195" stroke="#c4eae6" stroke-opacity=".58" stroke-width="1.5" stroke-dasharray="7 14"/><circle r="160" stroke="#edb1e4" stroke-opacity=".57" stroke-width="2"/><circle r="135" stroke="#a1e7e2" stroke-opacity=".42" stroke-width="18"/><circle r="135" stroke="#a1e7e2" stroke-opacity=".3" stroke-width="28" filter="url(#glow)"/><circle r="117" fill="url(#core)" stroke="#f5c4eb" stroke-opacity=".8" stroke-width="3"/></g>
+<path d="M603 145v-43M603 426v-46M441 264h-44M809 264h-45" stroke="#f6c1e6" opacity=".85" stroke-width="4" stroke-linecap="round"/>
+<path d="M604 260l-45-70M604 260l67 39" stroke="#f6f0ff" stroke-width="7" stroke-linecap="round"/><circle cx="604" cy="260" r="12" fill="#c6f8e7"/>
+<text x="603" y="335" text-anchor="middle" font-family="Georgia,serif" font-size="55" fill="#f7d8ee" opacity=".9">時</text>
+<g fill="#f8d8f2" font-family="Georgia,serif" font-size="42" text-anchor="middle"><text x="252" y="137">1917</text><text x="959" y="151">1963</text><text x="236" y="410">1988</text><text x="969" y="403">2024</text></g>
+<g fill="#b8eee9" opacity=".8"><circle cx="309" cy="145" r="5"/><circle cx="877" cy="136" r="5"/><circle cx="316" cy="405" r="5"/><circle cx="894" cy="390" r="5"/></g>
+<path d="M0 466H1200" stroke="url(#line)" opacity=".7" stroke-width="3"/>
+<g fill="#f1d3ec"><circle cx="146" cy="466" r="8"/><circle cx="407" cy="466" r="8"/><circle cx="709" cy="466" r="8"/><circle cx="1044" cy="466" r="8"/></g>
+</svg>
