@@ -36,7 +36,7 @@ C.renderers.quest=()=>{
 };
 C.renderers.discover=async()=>{
  const p=panel('Che cosa guardo stasera?','Selezione casuale filtrata per genere e formato. Non modifica lo stato delle opere e non promette consigli basati su preferenze non registrate.');root.append(p);
- try{const anime=(await catalog()).filter(x=>x.type==='anime'&&!/completed|completato|visto|concluso/i.test(x.status||'')),g=select([['','Tutti i generi'],...D.genres.map(x=>[x[0],x[1]])]),f=select([['','Qualsiasi formato'],['TV','Serie TV'],['MOVIE','Film'],['ONA','Serie web'],['OVA','OVA']]),go=button('Sorprendimi ✧'),out=E('div');
+ try{const anime=(await catalog()).filter(x=>x.type==='anime'&&!/completed|completato|completo|visto|concluso/i.test(x.status||'')),g=select([['','Tutti i generi'],...D.genres.map(x=>[x[0],x[1]])]),f=select([['','Qualsiasi formato'],['TV','Serie TV'],['MOVIE','Film'],['ONA','Serie web'],['OVA','OVA']]),go=button('Sorprendimi ✧'),out=E('div');
  g.setAttribute('aria-label','Scegli un genere');f.setAttribute('aria-label','Scegli un formato');append(p,append(grid('at-toolbar'),g,f,go),out);
  function draw(){out.replaceChildren();const candidates=anime.filter(x=>(!g.value||(x.genres||[]).includes(g.value))&&(!f.value||String(x.mediaFormat||'').toUpperCase().includes(f.value)));
  if(!candidates.length){out.append(message('Nessuna opera soddisfa questi filtri.'));return}
@@ -57,10 +57,10 @@ C.renderers.newsroom=async()=>{
  const sources=[['Episodi anime','data/episode-calendar.json','calendario-anime.html'],['Calendario manga & novel','data/book-calendar.json','uscite-manga.html'],['Yume Magazine','data/magazine/numero-zero.json','yume-magazine.html']];
  const response=await Promise.allSettled(sources.map(x=>fetchJSON(x[1]))),g=grid();
  response.forEach((v,i)=>{const [title,url,href]=sources[i],box=tile(title,'',href,'Apri archivio ↗');
- if(v.status==='fulfilled'){const obj=v.value,rows=Array.isArray(obj.events)?obj.events:Array.isArray(obj.articles)?obj.articles:[];
+ if(v.status==='fulfilled'){const obj=v.value,rows=Array.isArray(obj.events)?obj.events:Array.isArray(obj.releases)?obj.releases:Array.isArray(obj.articles)?obj.articles:[];
  append(box,E('p','at-muted','Ultima osservazione o data editoriale: '+date(obj.updatedAt||obj.date)),
  E('p','',number(rows.length)+' record leggibili in questo archivio.'));
- rows.slice(0,3).forEach(x=>box.append(E('p','at-small',[x.date||x.releaseDate||'',x.title||x.name||'Voce editoriale'].filter(Boolean).join(' · '))))
+ const today=new Date().toISOString().slice(0,10),dated=rows.filter(x=>x.date).sort((a,b)=>String(a.date).localeCompare(String(b.date))),next=dated.filter(x=>x.date>=today);(next.length?next.slice(0,3):dated.slice(-3)).concat(dated.length?[]:rows.slice(0,3)).forEach(x=>box.append(E('p','at-small',[x.date||x.releaseDate||'',x.title||x.name||'Voce editoriale'].filter(Boolean).join(' · '))))
  }else box.append(message('La fonte non è accessibile ora.'));g.append(box)});p.append(g);
  root.append(group('Le altre scrivanie di Yume',[['Yume Magazine','Dossier, rubriche e articoli originali.','yume-magazine.html'],['Manga vs Anime','Analisi comparate con controllo degli spoiler.','manga-vs-anime.html'],['Chronos','Le date storiche della cultura anime.','chronos.html']]));
 };
