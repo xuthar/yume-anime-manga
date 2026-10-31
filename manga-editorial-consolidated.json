@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-30",
-  "description": "Consolidamento incrementale degli audit dal 24 al 30 ottobre; l'ultima annotazione per opera prevale; i volumi editoriali già verificati restano distinti per edizione e numero. Nessuna variazione di possesso.",
+  "checkedAt": "2026-10-31",
+  "description": "Audit IT/EN consolidati dal 24 al 31 ottobre. Le notizie editoriali non modificano gli acquisti, i volumi posseduti, le date e i prezzi storici.",
   "sourceFiles": [
     "manga-editorial-sync-2026-10-24.json",
     "manga-editorial-sync-2026-10-25.json",
@@ -8,7 +8,8 @@
     "manga-editorial-sync-2026-10-27.json",
     "manga-editorial-sync-2026-10-28.json",
     "manga-editorial-sync-2026-10-29.json",
-    "manga-editorial-sync-2026-10-30.json"
+    "manga-editorial-sync-2026-10-30.json",
+    "manga-editorial-sync-2026-10-31.json"
   ],
   "items": [
     {
@@ -205,14 +206,39 @@
         }
       ],
       "language": "EN",
-      "editorialNote": "Verifica editoriale 24/10/2026 (EN, Seven Seas): volumi inglesi 1–6 pubblicati, il n.6 il 10/03/2026; n.7 previsto per il 24/11/2026 ($14.99, non ancora pubblicato). Inventario aggiornato precedentemente su indicazione esplicita di Xuthar: ora sei righe individuali nn.1–6; il vecchio conteggio storico di 5 unità al 25/07/2025 è solo archivistico, non va sommato. Prezzi in euro non verificati. Fonte: https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
-      "editorialSource": "https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
+      "editorialNote": "Seven Seas n.7, ISBN 9798898631666, $14.99; data discordante nelle fonti ufficiali: scheda volume 10/11/2026, calendario generale 24/11/2026. Da riconfermare. Inventario: nn.1–6, n.7 non registrato; nessuna conversione in EUR.",
+      "editorialSource": "https://sevenseasentertainment.com/books/asumi-chan-is-interested-in-lesbian-brothels-vol-7/",
       "owned": 6,
       "numbers": "1, 2, 3, 4, 5, 6",
       "status": "Da verificare",
       "publisher": "Seven Seas Entertainment",
       "pricing": null,
-      "lastCheckedAt": "2026-10-24"
+      "lastCheckedAt": "2026-10-31",
+      "additionalSources": [
+        "https://sevenseasentertainment.com/release-dates/"
+      ],
+      "announcements": [
+        {
+          "edition": "Seven Seas regolare",
+          "number": "7",
+          "date": null,
+          "conflictingDates": [
+            "2026-11-10",
+            "2026-11-24"
+          ],
+          "priceUsd": 14.99,
+          "isbn": "9798898631666"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "editorialHistory": [
+        {
+          "checkedAt": "2026-10-24",
+          "note": "Verifica editoriale 24/10/2026 (EN, Seven Seas): volumi inglesi 1–6 pubblicati, il n.6 il 10/03/2026; n.7 previsto per il 24/11/2026 ($14.99, non ancora pubblicato). Inventario aggiornato precedentemente su indicazione esplicita di Xuthar: ora sei righe individuali nn.1–6; il vecchio conteggio storico di 5 unità al 25/07/2025 è solo archivistico, non va sommato. Prezzi in euro non verificati. Fonte: https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/",
+          "source": "https://sevenseasentertainment.com/series/asumi-chan-is-interested-in-lesbian-brothels/"
+        }
+      ]
     },
     {
       "title": "I diari della speziale",
@@ -462,8 +488,8 @@
         }
       ],
       "language": "IT",
-      "editorialNote": "J-POP conferma Grand Blue 1 Cut Price (n.1, listino €2,90) tra le uscite cartacee 26/10–01/11/2026; AnimeClick indica 28/10. È un'edizione J-POP distinta dalle 4 copie Goen possedute (regolare 1–3 e variant n.1). Disponibilità in fumetteria non verificata; nessun nuovo acquisto o prezzo di possesso inserito.",
-      "editorialSource": "https://j-pop.it/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-26-ottobre-all1-novembre-2026",
+      "editorialNote": "AnimeClick novembre 2026: nuova edizione J-POP regolare n.1 programmata 25/11 (€6,50); nn.2–3 regolari €6,50 ciascuno e Variant Edition Cut Price nn.2 (€3,90) e 3 (€4,90), senza giorno indicato. Distinte dalle 4 copie Goen regolare/variant già possedute; nessuna J-POP attribuita.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
       "owned": 4,
       "numbers": "1, 2, 3",
       "status": "Non completo",
@@ -496,7 +522,48 @@
           }
         ]
       },
-      "lastCheckedAt": "2026-10-28"
+      "lastCheckedAt": "2026-10-31",
+      "announcements": [
+        {
+          "edition": "J-POP regolare",
+          "number": "1",
+          "date": "2026-11-25",
+          "priceEur": 6.5
+        },
+        {
+          "edition": "J-POP regolare",
+          "number": "2",
+          "date": null,
+          "priceEur": 6.5
+        },
+        {
+          "edition": "J-POP regolare",
+          "number": "3",
+          "date": null,
+          "priceEur": 6.5
+        },
+        {
+          "edition": "J-POP Variant Edition Cut Price",
+          "number": "2",
+          "date": null,
+          "priceEur": 3.9
+        },
+        {
+          "edition": "J-POP Variant Edition Cut Price",
+          "number": "3",
+          "date": null,
+          "priceEur": 4.9
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "editorialHistory": [
+        {
+          "checkedAt": "2026-10-28",
+          "note": "J-POP conferma Grand Blue 1 Cut Price (n.1, listino €2,90) tra le uscite cartacee 26/10–01/11/2026; AnimeClick indica 28/10. È un'edizione J-POP distinta dalle 4 copie Goen possedute (regolare 1–3 e variant n.1). Disponibilità in fumetteria non verificata; nessun nuovo acquisto o prezzo di possesso inserito.",
+          "source": "https://j-pop.it/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-26-ottobre-all1-novembre-2026"
+        }
+      ]
     },
     {
       "title": "The Dungeon of Black Company",
@@ -1283,7 +1350,249 @@
       "editorialNote": "AnimeClick programma n.18 Magic Press per il 05/11/2026, €7,50; calendario indicativo. Possesso invariato: nn.1–17 regolari.",
       "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
       "lastCheckedAt": "2026-10-30"
+    },
+    {
+      "title": "Cosmos (Ryuuhei Tamura)",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: Cosmos n.8 J-POP, prezzo di listino €6,90, giorno non comunicato. Inventario: regolari 1–7 (7 copie); n.8 non posseduto.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "J-POP regolare",
+          "number": "8",
+          "date": null,
+          "priceEur": 6.9
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Hanako kun - I sette misteri dell'Accademia Kamome",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: n.26 J-POP, €5,90, giorno non comunicato. Inventario: 26 copie fisiche (regolari 1–25 e una Special Edition distinta); il regolare n.26 non è registrato.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "J-POP regolare",
+          "number": "26",
+          "date": null,
+          "priceEur": 5.9
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Il primo amore di Nezumi",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: n.9 J-POP, €7,50, giorno non comunicato. Inventario: regolari 1–8; n.9 non posseduto.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "J-POP regolare",
+          "number": "9",
+          "date": null,
+          "priceEur": 7.5
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Le 100 ragazze che ti amano tanto tanto tanto tanto tanto",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: n.23 J-POP, €6,90, giorno non comunicato. Inventario: 21 unità fisiche, inclusa una confezione bundle 1–2 e regolari fino al 22; n.23 non posseduto. Il bundle non vale due acquisti separati.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "J-POP regolare",
+          "number": "23",
+          "date": null,
+          "priceEur": 6.9
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Miss Kobayashi's Dragon Maid",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: n.18 J-POP, €6,50, giorno non comunicato. Inventario: 19 copie fisiche tra regolari fino al 17 e variant; n.18 non registrato. Le variant non estendono la numerazione regolare.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "J-POP regolare",
+          "number": "18",
+          "date": null,
+          "priceEur": 6.5
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Pumpkin Night",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: n.9 001 Edizioni, €7,50, giorno non comunicato. Inventario: regolari 1–8; n.9 non posseduto.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "001 Edizioni regolare",
+          "number": "9",
+          "date": null,
+          "priceEur": 7.5
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Gigant",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: Gigant Omnibus n.2 (ultimo), Panini Comics, €45,00, giorno non comunicato. Inventario: solo omnibus n.1; n.2 non posseduto. Non equiparare i numeri omnibus a quelli tankobon.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "Panini Comics Omnibus",
+          "number": "2",
+          "date": null,
+          "priceEur": 45,
+          "finalVolume": true
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Chainsaw Man",
+      "language": "IT",
+      "editorialNote": "AnimeClick novembre 2026: Chainsaw Man Christmas Variant n.1, Panini Comics, €10,00, giorno non comunicato. Edizione variant natalizia distinta dal regolare n.1 e dalle variant già registrate; nessuna copia natalizia attribuita.",
+      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "announcements": [
+        {
+          "edition": "Panini Comics Christmas Variant",
+          "number": "1",
+          "date": null,
+          "priceEur": 10
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Hokkaido Gals Are Super Adorable!",
+      "language": "EN",
+      "editorialNote": "Seven Seas annuncia omnibus inglese 7–8, ISBN 9798895618653, $24.99; fonti ufficiali discordanti: scheda volume 24/11/2026, calendario generale 01/12/2026. Data da riconfermare. Inventario: tre omnibus 1–2, 3–4, 5–6; 7–8 non posseduto. Prezzo USD non convertito in EUR.",
+      "editorialSource": "https://sevenseasentertainment.com/books/hokkaido-gals-are-super-adorable-omnibus-vol-7-8/",
+      "additionalSources": [
+        "https://sevenseasentertainment.com/release-dates/"
+      ],
+      "announcements": [
+        {
+          "edition": "Seven Seas 2-in-1 Omnibus",
+          "number": "7–8",
+          "date": null,
+          "conflictingDates": [
+            "2026-11-24",
+            "2026-12-01"
+          ],
+          "priceUsd": 24.99,
+          "isbn": "9798895618653"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Let’s Make a Harem in a Zombie World!",
+      "language": "EN",
+      "editorialNote": "Seven Seas Ghost Ship n.3, ISBN 9798897659258, $14.99: scheda volume indica 20/10/2026, calendario ufficiale indica 10/11/2026. Data/disponibilità da riconfermare; non dedurre pubblicazione o acquisto. Inventario: nn.1–2, n.3 non registrato.",
+      "editorialSource": "https://sevenseasentertainment.com/books/lets-make-a-harem-in-a-zombie-world-vol-3/",
+      "additionalSources": [
+        "https://sevenseasentertainment.com/release-dates/"
+      ],
+      "announcements": [
+        {
+          "edition": "Seven Seas Ghost Ship",
+          "number": "3",
+          "date": null,
+          "conflictingDates": [
+            "2026-10-20",
+            "2026-11-10"
+          ],
+          "priceUsd": 14.99,
+          "isbn": "9798897659258"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "The Cuckolding Wizard’s Adventure",
+      "language": "EN",
+      "editorialNote": "Seven Seas Ghost Ship n.4 previsto 01/12/2026, $14.99, ISBN 9798895617564. Inventario: nn.1–3, n.4 non registrato; prezzo in USD solo editoriale, non spesa o prezzo storico EUR.",
+      "editorialSource": "https://sevenseasentertainment.com/books/the-cuckolding-wizards-adventure-vol-4/",
+      "announcements": [
+        {
+          "edition": "Seven Seas Ghost Ship",
+          "number": "4",
+          "date": "2026-12-01",
+          "priceUsd": 14.99,
+          "isbn": "9798895617564"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Virgin Ventures: The Hilarious Hijinks of Erotic Amateurs",
+      "language": "EN",
+      "editorialNote": "Seven Seas Ghost Ship n.4 previsto 19/01/2027, $14.99, ISBN 9798898632694. Inventario: nn.1–3, n.4 non posseduto; nessuna conversione in EUR.",
+      "editorialSource": "https://sevenseasentertainment.com/books/virgin-ventures-the-hilarious-hijinks-of-erotic-amateurs-vol-4/",
+      "announcements": [
+        {
+          "edition": "Seven Seas Ghost Ship",
+          "number": "4",
+          "date": "2027-01-19",
+          "priceUsd": 14.99,
+          "isbn": "9798898632694"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "Makina-san’s a Love Bot?!",
+      "language": "EN",
+      "editorialNote": "Seven Seas Ghost Ship n.5 previsto 19/01/2027, $16.99, ISBN 9798897657445. Inventario: nn.1–4, n.5 non posseduto; nessuna conversione in EUR.",
+      "editorialSource": "https://sevenseasentertainment.com/books/makina-sans-a-love-bot-vol-5/",
+      "announcements": [
+        {
+          "edition": "Seven Seas Ghost Ship",
+          "number": "5",
+          "date": "2027-01-19",
+          "priceUsd": 16.99,
+          "isbn": "9798897657445"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-10-31"
     }
   ],
-  "reconciliationFile": "manga-historical-reconciliation-2026-10-30.json"
+  "reconciliationFile": "manga-historical-reconciliation-2026-10-30.json",
+  "policy": "No upcoming editions added to owned volumes; original currency kept; conflicting dates flagged."
 }
