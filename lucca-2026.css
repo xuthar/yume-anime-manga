@@ -1,0 +1,56 @@
+/* Lucca Comics & Games 2026 · Yume editorial special */
+.lucca-feature{width:88%;max-width:1220px;margin:-18px auto 56px;padding:19px clamp(18px,3vw,32px);border:1px solid #cf9de050;border-radius:15px;box-shadow:0 12px 30px #07091c38;background:radial-gradient(ellipse at 95% 0%,#af84d928,transparent 48%),linear-gradient(110deg,#1b1b36,#161d32);color:#f3edf9}
+.lucca-feature-top{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
+.lucca-feature .lucca-eyebrow{font-size:10px;font-weight:700;letter-spacing:.12em;color:#e6aee3}
+.lucca-feature .lucca-date{font-size:11px;color:#c2bcd0}
+.lucca-feature h2{font:650 clamp(22px,3vw,31px)/1.2 Outfit,system-ui,sans-serif;margin:8px 0 6px}
+.lucca-feature>p{font-size:13px;line-height:1.5;color:#d0cede;margin:0 0 13px}
+.lucca-feature-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}
+.lucca-feature-list>div{min-width:0;padding:11px 13px;border:1px solid #ffffff1a;border-radius:9px;background:#ffffff09}
+.lucca-feature-list strong{font-size:11px;color:#9ae2d7;display:block;margin-bottom:4px}
+.lucca-feature-list p{font-size:12px;line-height:1.48;margin:0;color:#eef0f7}
+.lucca-feature-bottom{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-top:14px}
+.lucca-feature-bottom small{font-size:10px;color:#aeb3c9}
+.lucca-feature-link{display:inline-flex;align-items:center;padding:10px 16px;border-radius:9px;color:#16172d;background:#f0b7e0;font-size:12px;font-weight:800;text-decoration:none}
+.lucca-feature-link:hover{filter:brightness(1.1)}
+@media(max-width:740px){.lucca-feature{margin:-8px auto 35px}.lucca-feature-list{grid-template-columns:1fr}.lucca-feature>p{font-size:12px}}
+.lucca-archive-page{background:radial-gradient(ellipse at 70% 0%,#35294d 0,#141627 50%);min-height:100vh}
+.lucca-archive-page header nav{gap:18px;flex-wrap:wrap}
+.lucca-archive-page .lucca-shell{max-width:1160px;width:90%;margin:20px auto 80px}
+.lucca-page-hero{padding:clamp(28px,5vw,68px);border:1px solid #b08cda5c;border-radius:24px;background:radial-gradient(circle at 90% 15%,#bb88d533,transparent 46%),linear-gradient(125deg,#26213f,#161c33 72%);box-shadow:0 25px 65px #090b1e55}
+.lucca-overline{color:#f4b0df!important;font-weight:750;letter-spacing:.17em;font-size:11px!important;margin:0 0 22px!important}
+.lucca-spark{font-size:19px}
+.lucca-page-hero h1{font:800 clamp(32px,5.9vw,76px)/1.05 Outfit,system-ui,sans-serif;letter-spacing:-.03em;margin:0 0 18px;max-width:800px}
+.lucca-page-hero h1 span{color:#f0b4df}.lucca-page-hero h1 em{color:#9ce9dc;font-style:normal}
+.lucca-page-hero>p:not(.lucca-overline){color:#d7d7e6;font-size:15px;line-height:1.7;max-width:720px}
+.lucca-meta{display:flex;gap:10px;flex-wrap:wrap;margin:25px 0}
+.lucca-meta span{font-size:11px;color:#e4deef;border:1px solid #ffffff30;border-radius:30px;padding:7px 12px;background:#ffffff08}
+.lucca-anchor-nav{display:flex;gap:9px;flex-wrap:wrap}
+.lucca-anchor-nav a{background:#f0b7e0;color:#17172e;padding:9px 16px;border-radius:30px;font-size:12px;font-weight:800}
+.lucca-anchor-nav a:hover{filter:brightness(1.08)}
+.lucca-category{margin-top:46px;scroll-margin-top:24px}
+.lucca-category-title{display:flex;align-items:end;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:18px}
+.lucca-category-title span{font-size:10px;font-weight:750;letter-spacing:.13em;color:#d7afdf}
+.lucca-category-title h2{font:700 clamp(26px,4vw,40px) Outfit,system-ui,sans-serif;margin:8px 0 0}
+.lucca-category-title .lucca-count{color:#a2e2d6;border:1px solid #8de2d53d;border-radius:20px;padding:7px 11px;font-size:10px;letter-spacing:0}
+.lucca-news-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}
+.lucca-news-card{min-width:0;display:flex;flex-direction:column;padding:20px;border:1px solid #ffffff21;border-radius:14px;background:linear-gradient(145deg,#22233b,#191c30)}
+.lucca-card-line{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;color:#a6e8dc;font-size:10px;font-weight:750}
+.lucca-card-line time{font-weight:500;color:#bfc3d2}
+.lucca-news-card h3{font:650 21px/1.2 Outfit,system-ui,sans-serif;margin:17px 0 7px;overflow-wrap:anywhere}
+.lucca-news-card p{font-size:12px;line-height:1.65;color:#bdc1d3;margin:0 0 18px}
+.lucca-news-card a{font-size:12px;color:#f4bce4;font-weight:700;margin-top:auto;align-self:flex-start}
+.lucca-news-card a:hover{text-decoration:underline}
+.lucca-novel-note{display:flex;gap:20px;align-items:start;padding:24px;border:1px solid #d5b5e065;border-radius:16px;background:#241e37}
+.lucca-novel-icon{display:grid;place-items:center;flex:none;width:60px;height:60px;background:#a878b528;border-radius:14px;font:30px serif;color:#f5c5e7}
+.lucca-novel-note h3{margin:0 0 10px;font:650 23px Outfit,system-ui,sans-serif}
+.lucca-novel-note p,.lucca-sources p{color:#c5c8d9;line-height:1.75;font-size:13px}
+.lucca-novel-note a{display:inline-block;color:#a5e5dc;font-size:12px;margin:0 20px 7px 0}
+.lucca-sources{margin-top:55px;padding:25px;border-radius:15px;background:#ffffff08;border:1px solid #ffffff22}
+.lucca-sources h2{font:650 27px Outfit,system-ui,sans-serif;margin:0 0 12px}
+.lucca-source-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.lucca-source-links a{padding:9px 12px;border:1px solid #ffffff30;border-radius:10px;color:#b3e9dd;font-size:12px}
+.lucca-return{display:flex;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-top:26px;color:#f0bce5;font-size:13px;font-weight:750}
+.lucca-footer{max-width:1160px;width:90%;margin:0 auto;padding:30px 0 45px;border-top:1px solid #ffffff20;display:flex;justify-content:space-between;gap:20px;color:#aeb6c9;font-size:11px}
+@media(max-width:900px){.lucca-news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:590px){.lucca-archive-page header{height:auto;min-height:90px;flex-wrap:wrap;padding-top:18px;padding-bottom:18px}.lucca-archive-page header nav{gap:10px;font-size:11px}.lucca-shell{width:94%!important}.lucca-page-hero{padding:25px 19px;border-radius:15px}.lucca-page-hero h1{font-size:37px}.lucca-news-grid{grid-template-columns:1fr}.lucca-novel-note{padding:18px;gap:13px}.lucca-novel-icon{width:45px;height:45px;font-size:24px}}
