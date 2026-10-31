@@ -68,3 +68,19 @@
 .lucca-news-card--novel{border-color:#d5b1e13f}
 .lucca-news-card--novel .lucca-card-line span{color:#eeb8df}
 @media(max-width:590px){.lucca-poster{min-height:228px}.lucca-poster img,.lucca-poster--slide img{height:200px;max-height:200px}}
+
+/* Lucca 2026: official Dokusho social announcements awaiting title confirmation */
+.lucca-social-update{margin:0 0 25px;padding:21px clamp(17px,2.7vw,28px);border-radius:16px;border:1px solid #d6aff077;background:linear-gradient(115deg,#30203e,#1c2039 80%);box-shadow:0 12px 30px #08081d28}
+.lucca-social-head{display:flex;gap:9px;align-items:center;color:#edb5e2;font-size:10px;letter-spacing:.1em;font-weight:800}
+.lucca-social-spark{font-size:21px;line-height:1}
+.lucca-social-update h3{font:700 clamp(21px,3vw,27px)/1.2 Outfit,system-ui,sans-serif;margin:12px 0}
+.lucca-social-update p{font-size:13px;line-height:1.8;color:#d3d3e4;margin:0 0 17px}
+.lucca-social-update p a{color:#a2eadf;text-decoration:underline;text-underline-offset:3px}
+.lucca-social-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.lucca-social-links a{display:flex;flex-direction:column;gap:7px;min-width:0;padding:16px;border:1px solid #f6c9e253;border-radius:12px;background:#f5d4f00d;transition:background .2s}
+.lucca-social-links a:hover{background:#f5d4f01d}
+.lucca-social-links span{font-size:9px;letter-spacing:.08em;font-weight:700;color:#ddaedc}
+.lucca-social-links strong{font-size:16px;color:#fff}
+.lucca-social-links small{font-size:11px;color:#9de6da}
+.lucca-social-update p.lucca-social-footnote{font-size:11px;color:#c1bace;margin:17px 0 0}
+@media(max-width:600px){.lucca-social-links{grid-template-columns:1fr}}
