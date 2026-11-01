@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T05:53:54.590020+01:00",
+  "updatedAt": "2026-11-01T05:58:18.551408+01:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
   "coverageStart": "2026-10-20",
-  "coverageEnd": "2026-10-31",
+  "coverageEnd": "2026-11-30",
   "events": [
     {
       "date": "2026-10-20",
@@ -963,6 +963,2596 @@
       "episode": "05",
       "platform": "Crunchyroll",
       "sourceUrl": "https://www.animeclick.it/episodio/428316",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "03:30",
+      "start": "2026-11-01T03:30:00+01:00",
+      "title": "Star Detective Precure!",
+      "episode": "40",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430557",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "11:00",
+      "start": "2026-11-01T11:00:00+01:00",
+      "title": "Ace of the Diamond act II -Second Season-",
+      "episode": "17",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430567",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "11:00",
+      "start": "2026-11-01T11:00:00+01:00",
+      "title": "Aoashi Season 2",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/423008",
+      "itemId": "anime-61603"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:00",
+      "start": "2026-11-01T16:00:00+01:00",
+      "title": "Blue Box",
+      "episode": "30",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430470",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:00",
+      "start": "2026-11-01T16:00:00+01:00",
+      "title": "Lulu & Lilly - Le sorelle della magia",
+      "episode": "2x17",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/430179/la-nascita-delle-more-once-more",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:00",
+      "start": "2026-11-01T16:00:00+01:00",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430158",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:00",
+      "start": "2026-11-01T16:00:00+01:00",
+      "title": "Uncle's Obsession with Cute Things",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428408",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:30",
+      "start": "2026-11-01T16:30:00+01:00",
+      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428235",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:30",
+      "start": "2026-11-01T16:30:00+01:00",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "episode": "04",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428275",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:30",
+      "start": "2026-11-01T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428498",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:30",
+      "start": "2026-11-01T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "06",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/428498",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "17:00",
+      "start": "2026-11-01T17:00:00+01:00",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+      "episode": "30",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429851",
+      "itemId": "anime-60601"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "17:15",
+      "start": "2026-11-01T17:15:00+01:00",
+      "title": "Hotel Inhumans",
+      "episode": "2x18",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430169",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "17:30",
+      "start": "2026-11-01T17:30:00+01:00",
+      "title": "Anche il consiglio studentesco cade in fallo!",
+      "episode": "05",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428784/il-ritiro-del-consiglio-studentesco-la-grande-operazione-di-ume-e-tan-sotto-lombrello-insieme-a-ume",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "18:00",
+      "start": "2026-11-01T18:00:00+01:00",
+      "title": "Dragon Ball Super: Beerus",
+      "episode": "04",
+      "platform": "Crunchyroll, Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428222",
+      "itemId": "anime-63367"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "18:00",
+      "start": "2026-11-01T18:00:00+01:00",
+      "title": "From Far Away",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428263",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-02",
+      "time": "14:30",
+      "start": "2026-11-02T14:30:00+01:00",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429210",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-02",
+      "time": "15:00",
+      "start": "2026-11-02T15:00:00+01:00",
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428838",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-02",
+      "time": "16:30",
+      "start": "2026-11-02T16:30:00+01:00",
+      "title": "PSYЯEN",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430192",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "14:55",
+      "start": "2026-11-03T14:55:00+01:00",
+      "title": "Nia Liston, la spietata nobildonna",
+      "episode": "05",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428396/lassemblea-per-la-diffusione-della-magivisione",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "15:30",
+      "start": "2026-11-03T15:30:00+01:00",
+      "title": "The Cold Sato-san is Only Sweet to Me",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429396",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "16:30",
+      "start": "2026-11-03T16:30:00+01:00",
+      "title": "Battle Spirits [Re] Zekkai no Ku",
+      "episode": "05",
+      "platform": "dAnime, Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427976",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "16:45",
+      "start": "2026-11-03T16:45:00+01:00",
+      "title": "Super Psychic Policeman Chojo",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428473",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "17:30",
+      "start": "2026-11-03T17:30:00+01:00",
+      "title": "Chitose is in the Ramune Bottle",
+      "episode": "17",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430232",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "17:30",
+      "start": "2026-11-03T17:30:00+01:00",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430221",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "19:00",
+      "start": "2026-11-03T19:00:00+01:00",
+      "title": "Magical Girl Raising Project: Restart",
+      "episode": "05",
+      "platform": "dAnime",
+      "sourceUrl": "https://www.animeclick.it/episodio/428328",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "19:30",
+      "start": "2026-11-03T19:30:00+01:00",
+      "title": "Red River",
+      "episode": "18",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429186",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-04",
+      "time": "15:00",
+      "start": "2026-11-04T15:00:00+01:00",
+      "title": "Sasaki and Peeps 2",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430256",
+      "itemId": "anime-58518"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "15:00",
+      "start": "2026-11-04T15:00:00+01:00",
+      "title": "The World's Strongest Witch",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428618",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-04",
+      "time": "15:30",
+      "start": "2026-11-04T15:30:00+01:00",
+      "title": "The Detective is Already Dead Season 2",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428531",
+      "itemId": "anime-52480"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "17:15",
+      "start": "2026-11-04T17:15:00+01:00",
+      "title": "Magic Knight Rayearth (2026)",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426481",
+      "itemId": "anime-59204"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "18:00",
+      "start": "2026-11-04T18:00:00+01:00",
+      "title": "The Prince of Tennis II Season 5: U-17 World Cup: Final Member Selection Match",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428582",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-04",
+      "time": "19:00",
+      "start": "2026-11-04T19:00:00+01:00",
+      "title": "Dandivine",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428198",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-04",
+      "time": "19:15",
+      "start": "2026-11-04T19:15:00+01:00",
+      "title": "A Returner's Magic Should Be Special",
+      "episode": "2x17",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430245",
+      "itemId": "anime-57612"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:30",
+      "start": "2026-11-05T14:30:00+01:00",
+      "title": "FX Fighter Kurumi-chan",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428289",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:00",
+      "start": "2026-11-05T17:00:00+01:00",
+      "title": "Tenken - Reincarnato in una spada II",
+      "episode": "06",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428461",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:30",
+      "start": "2026-11-05T17:30:00+01:00",
+      "title": "The Ramparts of Ice",
+      "episode": "20",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430847",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-05",
+      "time": "18:00",
+      "start": "2026-11-05T18:00:00+01:00",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "episode": "19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427012",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-05",
+      "time": "19:00",
+      "start": "2026-11-05T19:00:00+01:00",
+      "title": "The Iceblade Sorcerer Shall Rule the World 2",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430272",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-06",
+      "time": "17:00",
+      "start": "2026-11-06T17:00:00+01:00",
+      "title": "Il monologo della Speziale",
+      "episode": "3x54",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430035",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-06",
+      "time": "17:30",
+      "start": "2026-11-06T17:30:00+01:00",
+      "title": "A Certain Dark Item",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426391",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-06",
+      "time": "18:00",
+      "start": "2026-11-06T18:00:00+01:00",
+      "title": "Firefly Wedding",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428251",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-06",
+      "time": "18:00",
+      "start": "2026-11-06T18:00:00+01:00",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "episode": "06",
+      "platform": "Crunchyroll, Anime Generation, Netfilx",
+      "sourceUrl": "https://www.animeclick.it/episodio/430024/fuori-fuoco",
+      "itemId": "anime-63181"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "18:30",
+      "start": "2026-11-06T18:30:00+01:00",
+      "title": "Please Excuse My Younger Brothers",
+      "episode": "18",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429494",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-06",
+      "time": "19:00",
+      "start": "2026-11-06T19:00:00+01:00",
+      "title": "Tokyo Revengers",
+      "episode": "3x56",
+      "platform": "Disney+, Disney+ [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/430046",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "03:00",
+      "start": "2026-11-07T03:00:00+01:00",
+      "title": "Keroro☆",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428449",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "11:30",
+      "start": "2026-11-07T11:30:00+01:00",
+      "title": "The Vermilion Mask",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430409",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "13:00",
+      "start": "2026-11-07T13:00:00+01:00",
+      "title": "Paw & Palaces",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430420",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "15:00",
+      "start": "2026-11-07T15:00:00+01:00",
+      "title": "A Tale of the Secret Saint",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428744",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "15:00",
+      "start": "2026-11-07T15:00:00+01:00",
+      "title": "Romelia War Chronicle",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430061",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "15:30",
+      "start": "2026-11-07T15:30:00+01:00",
+      "title": "A Wild Last Boss Appeared!",
+      "episode": "19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429839",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "16:00",
+      "start": "2026-11-07T16:00:00+01:00",
+      "title": "Suikoden: The Anime",
+      "episode": "06",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/429421",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "17:00",
+      "start": "2026-11-07T17:00:00+01:00",
+      "title": "#I'm Looking for a Zombie",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429198",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "17:00",
+      "start": "2026-11-07T17:00:00+01:00",
+      "title": "Black Clover",
+      "episode": "2x176",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430072",
+      "itemId": "anime-61967"
+    },
+    {
+      "date": "2026-11-07",
+      "time": "18:00",
+      "start": "2026-11-07T18:00:00+01:00",
+      "title": "Vertex Force",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428796",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "18:30",
+      "start": "2026-11-07T18:30:00+01:00",
+      "title": "Magical Explorer",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428369",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "19:00",
+      "start": "2026-11-07T19:00:00+01:00",
+      "title": "Dreamland",
+      "episode": "04",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430839",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "19:00",
+      "start": "2026-11-07T19:00:00+01:00",
+      "title": "Ranma 1/2",
+      "episode": "30",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430084",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "19:15",
+      "start": "2026-11-07T19:15:00+01:00",
+      "title": "Horror Collector",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429408",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "20:00",
+      "start": "2026-11-07T20:00:00+01:00",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428317",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "03:30",
+      "start": "2026-11-08T03:30:00+01:00",
+      "title": "Star Detective Precure!",
+      "episode": "41",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430558",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "11:00",
+      "start": "2026-11-08T11:00:00+01:00",
+      "title": "Ace of the Diamond act II -Second Season-",
+      "episode": "18",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430568",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "11:00",
+      "start": "2026-11-08T11:00:00+01:00",
+      "title": "Aoashi Season 2",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/423009",
+      "itemId": "anime-61603"
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:00",
+      "start": "2026-11-08T16:00:00+01:00",
+      "title": "Blue Box",
+      "episode": "31",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430471",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:00",
+      "start": "2026-11-08T16:00:00+01:00",
+      "title": "Lulu & Lilly - Le sorelle della magia",
+      "episode": "2x18",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/430180",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:00",
+      "start": "2026-11-08T16:00:00+01:00",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430159",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:00",
+      "start": "2026-11-08T16:00:00+01:00",
+      "title": "Uncle's Obsession with Cute Things",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428409",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:30",
+      "start": "2026-11-08T16:30:00+01:00",
+      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428236",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:30",
+      "start": "2026-11-08T16:30:00+01:00",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428276",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:30",
+      "start": "2026-11-08T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428499",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:30",
+      "start": "2026-11-08T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "07",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/428499",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "17:00",
+      "start": "2026-11-08T17:00:00+01:00",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+      "episode": "31",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429852",
+      "itemId": "anime-60601"
+    },
+    {
+      "date": "2026-11-08",
+      "time": "17:15",
+      "start": "2026-11-08T17:15:00+01:00",
+      "title": "Hotel Inhumans",
+      "episode": "2x19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430170",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "17:30",
+      "start": "2026-11-08T17:30:00+01:00",
+      "title": "Anche il consiglio studentesco cade in fallo!",
+      "episode": "06",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428785",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "18:00",
+      "start": "2026-11-08T18:00:00+01:00",
+      "title": "Dragon Ball Super: Beerus",
+      "episode": "05",
+      "platform": "Crunchyroll, Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428223",
+      "itemId": "anime-63367"
+    },
+    {
+      "date": "2026-11-08",
+      "time": "18:00",
+      "start": "2026-11-08T18:00:00+01:00",
+      "title": "From Far Away",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428264",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-09",
+      "time": "14:30",
+      "start": "2026-11-09T14:30:00+01:00",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429211",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-09",
+      "time": "15:00",
+      "start": "2026-11-09T15:00:00+01:00",
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428839",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-09",
+      "time": "16:30",
+      "start": "2026-11-09T16:30:00+01:00",
+      "title": "PSYЯEN",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430193",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "14:55",
+      "start": "2026-11-10T14:55:00+01:00",
+      "title": "Nia Liston, la spietata nobildonna",
+      "episode": "06",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428397",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "15:30",
+      "start": "2026-11-10T15:30:00+01:00",
+      "title": "The Cold Sato-san is Only Sweet to Me",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429397",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "16:30",
+      "start": "2026-11-10T16:30:00+01:00",
+      "title": "Battle Spirits [Re] Zekkai no Ku",
+      "episode": "06",
+      "platform": "dAnime, Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427977",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "16:45",
+      "start": "2026-11-10T16:45:00+01:00",
+      "title": "Super Psychic Policeman Chojo",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428474",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "17:30",
+      "start": "2026-11-10T17:30:00+01:00",
+      "title": "Chitose is in the Ramune Bottle",
+      "episode": "18",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430233",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "17:30",
+      "start": "2026-11-10T17:30:00+01:00",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430222",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "19:00",
+      "start": "2026-11-10T19:00:00+01:00",
+      "title": "Magical Girl Raising Project: Restart",
+      "episode": "06",
+      "platform": "dAnime",
+      "sourceUrl": "https://www.animeclick.it/episodio/428329",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-10",
+      "time": "19:30",
+      "start": "2026-11-10T19:30:00+01:00",
+      "title": "Red River",
+      "episode": "19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429187",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-11",
+      "time": "15:00",
+      "start": "2026-11-11T15:00:00+01:00",
+      "title": "Sasaki and Peeps 2",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430257",
+      "itemId": "anime-58518"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "15:00",
+      "start": "2026-11-11T15:00:00+01:00",
+      "title": "The World's Strongest Witch",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428619",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-11",
+      "time": "15:30",
+      "start": "2026-11-11T15:30:00+01:00",
+      "title": "The Detective is Already Dead Season 2",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428532",
+      "itemId": "anime-52480"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "17:15",
+      "start": "2026-11-11T17:15:00+01:00",
+      "title": "Magic Knight Rayearth (2026)",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426482",
+      "itemId": "anime-59204"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "18:00",
+      "start": "2026-11-11T18:00:00+01:00",
+      "title": "The Prince of Tennis II Season 5: U-17 World Cup: Final Member Selection Match",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428583",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "start": "2026-11-11T19:00:00+01:00",
+      "title": "Dandivine",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428199",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:15",
+      "start": "2026-11-11T19:15:00+01:00",
+      "title": "A Returner's Magic Should Be Special",
+      "episode": "2x18",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430246",
+      "itemId": "anime-57612"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "14:30",
+      "start": "2026-11-12T14:30:00+01:00",
+      "title": "FX Fighter Kurumi-chan",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428290",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-12",
+      "time": "17:00",
+      "start": "2026-11-12T17:00:00+01:00",
+      "title": "Tenken - Reincarnato in una spada II",
+      "episode": "07",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428462",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-12",
+      "time": "17:30",
+      "start": "2026-11-12T17:30:00+01:00",
+      "title": "The Ramparts of Ice",
+      "episode": "21",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430848",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-12",
+      "time": "18:00",
+      "start": "2026-11-12T18:00:00+01:00",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "episode": "20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427013",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-12",
+      "time": "19:00",
+      "start": "2026-11-12T19:00:00+01:00",
+      "title": "The Iceblade Sorcerer Shall Rule the World 2",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430273",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-13",
+      "time": "17:00",
+      "start": "2026-11-13T17:00:00+01:00",
+      "title": "Il monologo della Speziale",
+      "episode": "3x55",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430036",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-13",
+      "time": "17:30",
+      "start": "2026-11-13T17:30:00+01:00",
+      "title": "A Certain Dark Item",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426392",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-13",
+      "time": "18:00",
+      "start": "2026-11-13T18:00:00+01:00",
+      "title": "Firefly Wedding",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428252",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-13",
+      "time": "18:00",
+      "start": "2026-11-13T18:00:00+01:00",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "episode": "07",
+      "platform": "Crunchyroll, Anime Generation, Netfilx",
+      "sourceUrl": "https://www.animeclick.it/episodio/430025",
+      "itemId": "anime-63181"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "18:30",
+      "start": "2026-11-13T18:30:00+01:00",
+      "title": "Please Excuse My Younger Brothers",
+      "episode": "19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429495",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-13",
+      "time": "19:00",
+      "start": "2026-11-13T19:00:00+01:00",
+      "title": "Tokyo Revengers",
+      "episode": "3x57",
+      "platform": "Disney+, Disney+ [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/430047",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "03:00",
+      "start": "2026-11-14T03:00:00+01:00",
+      "title": "Keroro☆",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428450",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "11:30",
+      "start": "2026-11-14T11:30:00+01:00",
+      "title": "The Vermilion Mask",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430410",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "13:00",
+      "start": "2026-11-14T13:00:00+01:00",
+      "title": "Paw & Palaces",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430421",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "15:00",
+      "start": "2026-11-14T15:00:00+01:00",
+      "title": "A Tale of the Secret Saint",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428745",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "15:00",
+      "start": "2026-11-14T15:00:00+01:00",
+      "title": "Romelia War Chronicle",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430062",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "15:30",
+      "start": "2026-11-14T15:30:00+01:00",
+      "title": "A Wild Last Boss Appeared!",
+      "episode": "20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429840",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "16:00",
+      "start": "2026-11-14T16:00:00+01:00",
+      "title": "Suikoden: The Anime",
+      "episode": "07",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/429422",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "17:00",
+      "start": "2026-11-14T17:00:00+01:00",
+      "title": "#I'm Looking for a Zombie",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429199",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "17:00",
+      "start": "2026-11-14T17:00:00+01:00",
+      "title": "Black Clover",
+      "episode": "2x177",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430073",
+      "itemId": "anime-61967"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "18:00",
+      "start": "2026-11-14T18:00:00+01:00",
+      "title": "Vertex Force",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428797",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "18:30",
+      "start": "2026-11-14T18:30:00+01:00",
+      "title": "Magical Explorer",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428370",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "start": "2026-11-14T19:00:00+01:00",
+      "title": "Dreamland",
+      "episode": "05",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430840",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "start": "2026-11-14T19:00:00+01:00",
+      "title": "Ranma 1/2",
+      "episode": "31",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430085",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:15",
+      "start": "2026-11-14T19:15:00+01:00",
+      "title": "Horror Collector",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429409",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "20:00",
+      "start": "2026-11-14T20:00:00+01:00",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428318",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "03:30",
+      "start": "2026-11-15T03:30:00+01:00",
+      "title": "Star Detective Precure!",
+      "episode": "42",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430559",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "11:00",
+      "start": "2026-11-15T11:00:00+01:00",
+      "title": "Ace of the Diamond act II -Second Season-",
+      "episode": "19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430569",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "11:00",
+      "start": "2026-11-15T11:00:00+01:00",
+      "title": "Aoashi Season 2",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/423010",
+      "itemId": "anime-61603"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:00",
+      "start": "2026-11-15T16:00:00+01:00",
+      "title": "Blue Box",
+      "episode": "32",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430472",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:00",
+      "start": "2026-11-15T16:00:00+01:00",
+      "title": "Lulu & Lilly - Le sorelle della magia",
+      "episode": "2x19",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/430181",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:00",
+      "start": "2026-11-15T16:00:00+01:00",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430160",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:00",
+      "start": "2026-11-15T16:00:00+01:00",
+      "title": "Uncle's Obsession with Cute Things",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428410",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:30",
+      "start": "2026-11-15T16:30:00+01:00",
+      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428237",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:30",
+      "start": "2026-11-15T16:30:00+01:00",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428277",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:30",
+      "start": "2026-11-15T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428500",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:30",
+      "start": "2026-11-15T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "08",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/428500",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "17:00",
+      "start": "2026-11-15T17:00:00+01:00",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+      "episode": "32",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429853",
+      "itemId": "anime-60601"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "17:15",
+      "start": "2026-11-15T17:15:00+01:00",
+      "title": "Hotel Inhumans",
+      "episode": "2x20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430171",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "17:30",
+      "start": "2026-11-15T17:30:00+01:00",
+      "title": "Anche il consiglio studentesco cade in fallo!",
+      "episode": "07",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428786",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "18:00",
+      "start": "2026-11-15T18:00:00+01:00",
+      "title": "Dragon Ball Super: Beerus",
+      "episode": "06",
+      "platform": "Crunchyroll, Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428224",
+      "itemId": "anime-63367"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "18:00",
+      "start": "2026-11-15T18:00:00+01:00",
+      "title": "From Far Away",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428265",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-16",
+      "time": "14:30",
+      "start": "2026-11-16T14:30:00+01:00",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429212",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-16",
+      "time": "15:00",
+      "start": "2026-11-16T15:00:00+01:00",
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428840",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-16",
+      "time": "16:30",
+      "start": "2026-11-16T16:30:00+01:00",
+      "title": "PSYЯEN",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430194",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "14:55",
+      "start": "2026-11-17T14:55:00+01:00",
+      "title": "Nia Liston, la spietata nobildonna",
+      "episode": "07",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428398",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "15:30",
+      "start": "2026-11-17T15:30:00+01:00",
+      "title": "The Cold Sato-san is Only Sweet to Me",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429398",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "16:30",
+      "start": "2026-11-17T16:30:00+01:00",
+      "title": "Battle Spirits [Re] Zekkai no Ku",
+      "episode": "07",
+      "platform": "dAnime, Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427978",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "16:45",
+      "start": "2026-11-17T16:45:00+01:00",
+      "title": "Super Psychic Policeman Chojo",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428475",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "17:30",
+      "start": "2026-11-17T17:30:00+01:00",
+      "title": "Chitose is in the Ramune Bottle",
+      "episode": "19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430234",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "17:30",
+      "start": "2026-11-17T17:30:00+01:00",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430223",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "start": "2026-11-17T19:00:00+01:00",
+      "title": "Magical Girl Raising Project: Restart",
+      "episode": "07",
+      "platform": "dAnime",
+      "sourceUrl": "https://www.animeclick.it/episodio/428330",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:30",
+      "start": "2026-11-17T19:30:00+01:00",
+      "title": "Red River",
+      "episode": "20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429188",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-18",
+      "time": "15:00",
+      "start": "2026-11-18T15:00:00+01:00",
+      "title": "Sasaki and Peeps 2",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430258",
+      "itemId": "anime-58518"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "15:00",
+      "start": "2026-11-18T15:00:00+01:00",
+      "title": "The World's Strongest Witch",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428620",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-18",
+      "time": "15:30",
+      "start": "2026-11-18T15:30:00+01:00",
+      "title": "The Detective is Already Dead Season 2",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428533",
+      "itemId": "anime-52480"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "17:15",
+      "start": "2026-11-18T17:15:00+01:00",
+      "title": "Magic Knight Rayearth (2026)",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426483",
+      "itemId": "anime-59204"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "18:00",
+      "start": "2026-11-18T18:00:00+01:00",
+      "title": "The Prince of Tennis II Season 5: U-17 World Cup: Final Member Selection Match",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428584",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-18",
+      "time": "19:00",
+      "start": "2026-11-18T19:00:00+01:00",
+      "title": "Dandivine",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428200",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-18",
+      "time": "19:15",
+      "start": "2026-11-18T19:15:00+01:00",
+      "title": "A Returner's Magic Should Be Special",
+      "episode": "2x19",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430247",
+      "itemId": "anime-57612"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "14:30",
+      "start": "2026-11-19T14:30:00+01:00",
+      "title": "FX Fighter Kurumi-chan",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428291",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-19",
+      "time": "17:00",
+      "start": "2026-11-19T17:00:00+01:00",
+      "title": "Tenken - Reincarnato in una spada II",
+      "episode": "08",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428463",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-19",
+      "time": "17:30",
+      "start": "2026-11-19T17:30:00+01:00",
+      "title": "The Ramparts of Ice",
+      "episode": "22",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430849",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-19",
+      "time": "18:00",
+      "start": "2026-11-19T18:00:00+01:00",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "episode": "21",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427014",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-19",
+      "time": "19:00",
+      "start": "2026-11-19T19:00:00+01:00",
+      "title": "The Iceblade Sorcerer Shall Rule the World 2",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430274",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-20",
+      "time": "17:00",
+      "start": "2026-11-20T17:00:00+01:00",
+      "title": "Il monologo della Speziale",
+      "episode": "3x56",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430037",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-20",
+      "time": "17:30",
+      "start": "2026-11-20T17:30:00+01:00",
+      "title": "A Certain Dark Item",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426393",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-20",
+      "time": "18:00",
+      "start": "2026-11-20T18:00:00+01:00",
+      "title": "Firefly Wedding",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428253",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-20",
+      "time": "18:00",
+      "start": "2026-11-20T18:00:00+01:00",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "episode": "08",
+      "platform": "Crunchyroll, Anime Generation, Netfilx",
+      "sourceUrl": "https://www.animeclick.it/episodio/430026",
+      "itemId": "anime-63181"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "18:30",
+      "start": "2026-11-20T18:30:00+01:00",
+      "title": "Please Excuse My Younger Brothers",
+      "episode": "20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429496",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-20",
+      "time": "19:00",
+      "start": "2026-11-20T19:00:00+01:00",
+      "title": "Tokyo Revengers",
+      "episode": "3x58",
+      "platform": "Disney+, Disney+ [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/430048",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "03:00",
+      "start": "2026-11-21T03:00:00+01:00",
+      "title": "Keroro☆",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428451",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "11:30",
+      "start": "2026-11-21T11:30:00+01:00",
+      "title": "The Vermilion Mask",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430411",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "13:00",
+      "start": "2026-11-21T13:00:00+01:00",
+      "title": "Paw & Palaces",
+      "episode": "10",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430422",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "15:00",
+      "start": "2026-11-21T15:00:00+01:00",
+      "title": "A Tale of the Secret Saint",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428746",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "15:00",
+      "start": "2026-11-21T15:00:00+01:00",
+      "title": "Romelia War Chronicle",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430063",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "15:30",
+      "start": "2026-11-21T15:30:00+01:00",
+      "title": "A Wild Last Boss Appeared!",
+      "episode": "21",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429841",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "16:00",
+      "start": "2026-11-21T16:00:00+01:00",
+      "title": "Suikoden: The Anime",
+      "episode": "08",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/429423",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "17:00",
+      "start": "2026-11-21T17:00:00+01:00",
+      "title": "#I'm Looking for a Zombie",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429200",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "17:00",
+      "start": "2026-11-21T17:00:00+01:00",
+      "title": "Black Clover",
+      "episode": "2x178",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430074",
+      "itemId": "anime-61967"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "18:00",
+      "start": "2026-11-21T18:00:00+01:00",
+      "title": "Vertex Force",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428798",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "18:30",
+      "start": "2026-11-21T18:30:00+01:00",
+      "title": "Magical Explorer",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428371",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "19:00",
+      "start": "2026-11-21T19:00:00+01:00",
+      "title": "Dreamland",
+      "episode": "06",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430841",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "19:00",
+      "start": "2026-11-21T19:00:00+01:00",
+      "title": "Ranma 1/2",
+      "episode": "32",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430086",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "19:15",
+      "start": "2026-11-21T19:15:00+01:00",
+      "title": "Horror Collector",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429410",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "20:00",
+      "start": "2026-11-21T20:00:00+01:00",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428319",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "03:30",
+      "start": "2026-11-22T03:30:00+01:00",
+      "title": "Star Detective Precure!",
+      "episode": "43",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430560",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "11:00",
+      "start": "2026-11-22T11:00:00+01:00",
+      "title": "Ace of the Diamond act II -Second Season-",
+      "episode": "20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430570",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "11:00",
+      "start": "2026-11-22T11:00:00+01:00",
+      "title": "Aoashi Season 2",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/423011",
+      "itemId": "anime-61603"
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:00",
+      "start": "2026-11-22T16:00:00+01:00",
+      "title": "Blue Box",
+      "episode": "33",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430473",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:00",
+      "start": "2026-11-22T16:00:00+01:00",
+      "title": "Lulu & Lilly - Le sorelle della magia",
+      "episode": "2x20",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/430182",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:00",
+      "start": "2026-11-22T16:00:00+01:00",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430161",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:00",
+      "start": "2026-11-22T16:00:00+01:00",
+      "title": "Uncle's Obsession with Cute Things",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428411",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:30",
+      "start": "2026-11-22T16:30:00+01:00",
+      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428238",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:30",
+      "start": "2026-11-22T16:30:00+01:00",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428278",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:30",
+      "start": "2026-11-22T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428501",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:30",
+      "start": "2026-11-22T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "09",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/428501",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "17:00",
+      "start": "2026-11-22T17:00:00+01:00",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+      "episode": "33",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429854",
+      "itemId": "anime-60601"
+    },
+    {
+      "date": "2026-11-22",
+      "time": "17:15",
+      "start": "2026-11-22T17:15:00+01:00",
+      "title": "Hotel Inhumans",
+      "episode": "2x21",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430172",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "17:30",
+      "start": "2026-11-22T17:30:00+01:00",
+      "title": "Anche il consiglio studentesco cade in fallo!",
+      "episode": "08",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428787",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "18:00",
+      "start": "2026-11-22T18:00:00+01:00",
+      "title": "Dragon Ball Super: Beerus",
+      "episode": "07",
+      "platform": "Crunchyroll, Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428225",
+      "itemId": "anime-63367"
+    },
+    {
+      "date": "2026-11-22",
+      "time": "18:00",
+      "start": "2026-11-22T18:00:00+01:00",
+      "title": "From Far Away",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428266",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-23",
+      "time": "14:30",
+      "start": "2026-11-23T14:30:00+01:00",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429213",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-23",
+      "time": "15:00",
+      "start": "2026-11-23T15:00:00+01:00",
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428841",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-23",
+      "time": "16:30",
+      "start": "2026-11-23T16:30:00+01:00",
+      "title": "PSYЯEN",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430195",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "14:55",
+      "start": "2026-11-24T14:55:00+01:00",
+      "title": "Nia Liston, la spietata nobildonna",
+      "episode": "08",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428399",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "15:30",
+      "start": "2026-11-24T15:30:00+01:00",
+      "title": "The Cold Sato-san is Only Sweet to Me",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429399",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "16:30",
+      "start": "2026-11-24T16:30:00+01:00",
+      "title": "Battle Spirits [Re] Zekkai no Ku",
+      "episode": "08",
+      "platform": "dAnime, Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427979",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "16:45",
+      "start": "2026-11-24T16:45:00+01:00",
+      "title": "Super Psychic Policeman Chojo",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428476",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "17:30",
+      "start": "2026-11-24T17:30:00+01:00",
+      "title": "Chitose is in the Ramune Bottle",
+      "episode": "20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430235",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "17:30",
+      "start": "2026-11-24T17:30:00+01:00",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430224",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "19:00",
+      "start": "2026-11-24T19:00:00+01:00",
+      "title": "Magical Girl Raising Project: Restart",
+      "episode": "08",
+      "platform": "dAnime",
+      "sourceUrl": "https://www.animeclick.it/episodio/428331",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-24",
+      "time": "19:30",
+      "start": "2026-11-24T19:30:00+01:00",
+      "title": "Red River",
+      "episode": "21",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429189",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-25",
+      "time": "15:00",
+      "start": "2026-11-25T15:00:00+01:00",
+      "title": "Sasaki and Peeps 2",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430259",
+      "itemId": "anime-58518"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "15:00",
+      "start": "2026-11-25T15:00:00+01:00",
+      "title": "The World's Strongest Witch",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428621",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-25",
+      "time": "15:30",
+      "start": "2026-11-25T15:30:00+01:00",
+      "title": "The Detective is Already Dead Season 2",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428534",
+      "itemId": "anime-52480"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "17:15",
+      "start": "2026-11-25T17:15:00+01:00",
+      "title": "Magic Knight Rayearth (2026)",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426484",
+      "itemId": "anime-59204"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "18:00",
+      "start": "2026-11-25T18:00:00+01:00",
+      "title": "The Prince of Tennis II Season 5: U-17 World Cup: Final Member Selection Match",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428585",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-25",
+      "time": "19:00",
+      "start": "2026-11-25T19:00:00+01:00",
+      "title": "Dandivine",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428201",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-25",
+      "time": "19:15",
+      "start": "2026-11-25T19:15:00+01:00",
+      "title": "A Returner's Magic Should Be Special",
+      "episode": "2x20",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430248",
+      "itemId": "anime-57612"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "14:30",
+      "start": "2026-11-26T14:30:00+01:00",
+      "title": "FX Fighter Kurumi-chan",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428292",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-26",
+      "time": "17:00",
+      "start": "2026-11-26T17:00:00+01:00",
+      "title": "Tenken - Reincarnato in una spada II",
+      "episode": "09",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428464",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-26",
+      "time": "17:30",
+      "start": "2026-11-26T17:30:00+01:00",
+      "title": "The Ramparts of Ice",
+      "episode": "23",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430850",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-26",
+      "time": "18:00",
+      "start": "2026-11-26T18:00:00+01:00",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "episode": "22",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427015",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-26",
+      "time": "19:00",
+      "start": "2026-11-26T19:00:00+01:00",
+      "title": "The Iceblade Sorcerer Shall Rule the World 2",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430275",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-27",
+      "time": "17:00",
+      "start": "2026-11-27T17:00:00+01:00",
+      "title": "Il monologo della Speziale",
+      "episode": "3x57",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430038",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-27",
+      "time": "17:30",
+      "start": "2026-11-27T17:30:00+01:00",
+      "title": "A Certain Dark Item",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/426394",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-27",
+      "time": "18:00",
+      "start": "2026-11-27T18:00:00+01:00",
+      "title": "Firefly Wedding",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428254",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-27",
+      "time": "18:00",
+      "start": "2026-11-27T18:00:00+01:00",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "episode": "09",
+      "platform": "Crunchyroll, Anime Generation, Netfilx",
+      "sourceUrl": "https://www.animeclick.it/episodio/430027",
+      "itemId": "anime-63181"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "18:30",
+      "start": "2026-11-27T18:30:00+01:00",
+      "title": "Please Excuse My Younger Brothers",
+      "episode": "21",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429497",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-27",
+      "time": "19:00",
+      "start": "2026-11-27T19:00:00+01:00",
+      "title": "Tokyo Revengers",
+      "episode": "3x59",
+      "platform": "Disney+, Disney+ [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/430049",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "03:00",
+      "start": "2026-11-28T03:00:00+01:00",
+      "title": "Keroro☆",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428452",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "11:30",
+      "start": "2026-11-28T11:30:00+01:00",
+      "title": "The Vermilion Mask",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430412",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "13:00",
+      "start": "2026-11-28T13:00:00+01:00",
+      "title": "Paw & Palaces",
+      "episode": "11",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430423",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "15:00",
+      "start": "2026-11-28T15:00:00+01:00",
+      "title": "A Tale of the Secret Saint",
+      "episode": "10",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428747",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "15:00",
+      "start": "2026-11-28T15:00:00+01:00",
+      "title": "Romelia War Chronicle",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430064",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "15:30",
+      "start": "2026-11-28T15:30:00+01:00",
+      "title": "A Wild Last Boss Appeared!",
+      "episode": "22",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429842",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "16:00",
+      "start": "2026-11-28T16:00:00+01:00",
+      "title": "Suikoden: The Anime",
+      "episode": "09",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/429424",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "17:00",
+      "start": "2026-11-28T17:00:00+01:00",
+      "title": "#I'm Looking for a Zombie",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429201",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "17:00",
+      "start": "2026-11-28T17:00:00+01:00",
+      "title": "Black Clover",
+      "episode": "2x179",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430075",
+      "itemId": "anime-61967"
+    },
+    {
+      "date": "2026-11-28",
+      "time": "18:00",
+      "start": "2026-11-28T18:00:00+01:00",
+      "title": "Vertex Force",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428799",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "18:30",
+      "start": "2026-11-28T18:30:00+01:00",
+      "title": "Magical Explorer",
+      "episode": "10",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428372",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "19:00",
+      "start": "2026-11-28T19:00:00+01:00",
+      "title": "Dreamland",
+      "episode": "07",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430842",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "19:00",
+      "start": "2026-11-28T19:00:00+01:00",
+      "title": "Ranma 1/2",
+      "episode": "33",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430087",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "19:15",
+      "start": "2026-11-28T19:15:00+01:00",
+      "title": "Horror Collector",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429411",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "20:00",
+      "start": "2026-11-28T20:00:00+01:00",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428320",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "03:30",
+      "start": "2026-11-29T03:30:00+01:00",
+      "title": "Star Detective Precure!",
+      "episode": "44",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430561",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "11:00",
+      "start": "2026-11-29T11:00:00+01:00",
+      "title": "Ace of the Diamond act II -Second Season-",
+      "episode": "21",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430571",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "11:00",
+      "start": "2026-11-29T11:00:00+01:00",
+      "title": "Aoashi Season 2",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/423012",
+      "itemId": "anime-61603"
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:00",
+      "start": "2026-11-29T16:00:00+01:00",
+      "title": "Blue Box",
+      "episode": "34",
+      "platform": "Netflix",
+      "sourceUrl": "https://www.animeclick.it/episodio/430474",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:00",
+      "start": "2026-11-29T16:00:00+01:00",
+      "title": "Lulu & Lilly - Le sorelle della magia",
+      "episode": "2x21",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/430183",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:00",
+      "start": "2026-11-29T16:00:00+01:00",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430162",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:00",
+      "start": "2026-11-29T16:00:00+01:00",
+      "title": "Uncle's Obsession with Cute Things",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428413",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:30",
+      "start": "2026-11-29T16:30:00+01:00",
+      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428239",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:30",
+      "start": "2026-11-29T16:30:00+01:00",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "episode": "08",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428279",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:30",
+      "start": "2026-11-29T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "10",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428502",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:30",
+      "start": "2026-11-29T16:30:00+01:00",
+      "title": "Overgeared",
+      "episode": "10",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/428502",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "17:00",
+      "start": "2026-11-29T17:00:00+01:00",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+      "episode": "34",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429855",
+      "itemId": "anime-60601"
+    },
+    {
+      "date": "2026-11-29",
+      "time": "17:15",
+      "start": "2026-11-29T17:15:00+01:00",
+      "title": "Hotel Inhumans",
+      "episode": "2x22",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430173",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "17:30",
+      "start": "2026-11-29T17:30:00+01:00",
+      "title": "Anche il consiglio studentesco cade in fallo!",
+      "episode": "09",
+      "platform": "Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428788",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "18:00",
+      "start": "2026-11-29T18:00:00+01:00",
+      "title": "Dragon Ball Super: Beerus",
+      "episode": "08",
+      "platform": "Crunchyroll, Anime Generation",
+      "sourceUrl": "https://www.animeclick.it/episodio/428226",
+      "itemId": "anime-63367"
+    },
+    {
+      "date": "2026-11-29",
+      "time": "18:00",
+      "start": "2026-11-29T18:00:00+01:00",
+      "title": "From Far Away",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428267",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-30",
+      "time": "14:30",
+      "start": "2026-11-30T14:30:00+01:00",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/429214",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-30",
+      "time": "15:00",
+      "start": "2026-11-30T15:00:00+01:00",
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "episode": "10",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/428842",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-30",
+      "time": "16:30",
+      "start": "2026-11-30T16:30:00+01:00",
+      "title": "PSYЯEN",
+      "episode": "09",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/430196",
       "itemId": null
     }
   ]
