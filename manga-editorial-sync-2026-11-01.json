@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-11-01",
+  "scope": "Verifica incrementale uscite IT/EN: AnimeClick novembre 2026 e Seven Seas calendario novembre; nessuna edizione giapponese. Solo novità non già annotate.",
+  "sourceSpreadsheet": "Lista anime di Xuthar",
+  "items": [
+    {
+      "title": "You Like Me, Not My Daughter?!",
+      "language": "EN",
+      "editorialNote": "Seven Seas conferma MANGA EN regolare n.9 in uscita il 03/11/2026, $13.99, ISBN 9798898632748. Inventario: nn.1–8 posseduti, n.9 NON posseduto; nessuna conversione EUR e nessun acquisto attribuito.",
+      "editorialSource": "https://sevenseasentertainment.com/books/you-like-me-not-my-daughter-manga-vol-9/",
+      "announcements": [
+        {
+          "edition": "Seven Seas Entertainment · manga EN regolare",
+          "number": "9",
+          "date": "2026-11-03",
+          "priceUsd": 13.99,
+          "isbn": "9798898632748"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true
+    }
+  ],
+  "limits": "Uscita futura non equivale a pubblicazione effettiva o possesso; prezzi USD non convertiti in EUR."
+}
