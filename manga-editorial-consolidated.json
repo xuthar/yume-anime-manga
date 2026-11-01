@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-31",
+  "checkedAt": "2026-11-01",
   "description": "Audit IT/EN consolidati dal 24 al 31 ottobre. Le notizie editoriali non modificano gli acquisti, i volumi posseduti, le date e i prezzi storici.",
   "sourceFiles": [
     "manga-editorial-sync-2026-10-24.json",
@@ -9,7 +9,8 @@
     "manga-editorial-sync-2026-10-28.json",
     "manga-editorial-sync-2026-10-29.json",
     "manga-editorial-sync-2026-10-30.json",
-    "manga-editorial-sync-2026-10-31.json"
+    "manga-editorial-sync-2026-10-31.json",
+    "manga-editorial-sync-2026-11-01.json"
   ],
   "items": [
     {
@@ -1591,6 +1592,24 @@
       "ownedChange": false,
       "editorialOnly": true,
       "lastCheckedAt": "2026-10-31"
+    },
+    {
+      "title": "You Like Me, Not My Daughter?!",
+      "language": "EN",
+      "editorialNote": "Seven Seas conferma MANGA EN regolare n.9 in uscita il 03/11/2026, $13.99, ISBN 9798898632748. Inventario: nn.1–8 posseduti, n.9 NON posseduto; nessuna conversione EUR e nessun acquisto attribuito.",
+      "editorialSource": "https://sevenseasentertainment.com/books/you-like-me-not-my-daughter-manga-vol-9/",
+      "announcements": [
+        {
+          "edition": "Seven Seas Entertainment · manga EN regolare",
+          "number": "9",
+          "date": "2026-11-03",
+          "priceUsd": 13.99,
+          "isbn": "9798898632748"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-11-01"
     }
   ],
   "reconciliationFile": "manga-historical-reconciliation-2026-10-30.json",
