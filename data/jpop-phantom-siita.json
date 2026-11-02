@@ -1,6 +1,6 @@
 {
   "artist": "Phantom Siita",
-  "checkedAt": "2026-10-28",
+  "checkedAt": "2026-11-02",
   "groupImage": "https://i.daily.jp/gossip/2026/06/23/Images/f_20510065.jpg",
   "members": [],
   "albums": [
@@ -127,6 +127,37 @@
           ]
         }
       ]
+    },
+    {
+      "id": "phantom-siita-4",
+      "title": "スイートピー",
+      "date": "2026-10-11",
+      "kind": "single",
+      "note": "PUBBLICATO · singolo digitale uscito l’11 ottobre 2026. Ending della seconda stagione dell’anime Hotel Inhumans; composizione di Miku Nakamura (Cö shu Nie). Nessun MV ufficiale verificato per questa traccia.",
+      "source": "https://phantomsiita.com/news/detail/474",
+      "trackSource": "https://phantomsiita.com/news/detail/474",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Digital single · 2026-10-11",
+          "cover": "",
+          "source": "https://phantomsiita.com/news/detail/474",
+          "sourceLabel": "Fonte della pubblicazione e della scaletta",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "スイートピー",
+                  "youtube": "https://www.youtube.com/results?search_query=Phantom%20Siita%20%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Phantom%20Siita%20%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "spotlight": [],
@@ -144,6 +175,10 @@
     {
       "label": "Formazione e profili (fonte indicata)",
       "url": "https://phantomsiita.com/?lang=en"
+    },
+    {
+      "label": "Annuncio ufficiale: スイートピー, 11 ottobre 2026",
+      "url": "https://phantomsiita.com/news/detail/474"
     }
   ],
   "excluded": [],
