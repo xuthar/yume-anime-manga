@@ -1,6 +1,6 @@
 {
   "artist": "Takane no Nadeshiko",
-  "checkedAt": "2026-10-28",
+  "checkedAt": "2026-11-02",
   "groupImage": "https://prcdn.freetls.fastly.net/release_image/25517/806/25517-806-8abcab51811bb9a229374cd274387680-3900x2786.jpg",
   "members": [
     {
@@ -97,7 +97,7 @@
       "title": "約束",
       "date": "2026-10-28",
       "kind": "single",
-      "note": "Selezione iniziale verificata; le edizioni non elencate e le ulteriori tracce sono ancora da censire. I pulsanti di ascolto sono ricerche per titolo, non link a una registrazione verificata.",
+      "note": "PUBBLICATO · singolo digitale 28 ottobre 2026. Music video ufficiale pubblicato il 29 ottobre 2026. Incluso nell’album A World in Our Colors annunciato per il 18 novembre.",
       "source": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
       "trackSource": "https://www.jvcmusic.co.jp/takanenonadeshiko/",
       "defaultEdition": 0,
@@ -113,6 +113,121 @@
               "tracks": [
                 {
                   "title": "約束",
+                  "youtube": "https://www.youtube.com/watch?v=2FBXN92lJtA",
+                  "youtubeType": "official",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E7%B4%84%E6%9D%9F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "takane-a-world-in-our-colors-20261118",
+      "title": "A World in Our Colors",
+      "date": "2026-11-18",
+      "kind": "studio",
+      "note": "ANNUNCIATO · album previsto il 18 novembre 2026; 15 brani confermati da Victor/TWIN PLANET. Edizioni CD: iniziale VIZL-2561 (con DVD e fotolibro) e たかねこ盤 VICL-66184; non contate come due album. Il DVD non è incluso nel conteggio delle tracce audio.",
+      "source": "https://www.jvcmusic.co.jp/-/Artist/A028511.html",
+      "trackSource": "https://www.jvcmusic.co.jp/-/Artist/A028511.html",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "CD audio · 15 tracce · 18/11/2026 (due confezioni)",
+          "cover": "",
+          "source": "https://www.jvcmusic.co.jp/-/Artist/A028511.html",
+          "sourceLabel": "Fonte della pubblicazione e della scaletta",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "我武者羅",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E6%88%91%E6%AD%A6%E8%80%85%E7%BE%85%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E6%88%91%E6%AD%A6%E8%80%85%E7%BE%85"
+                },
+                {
+                  "title": "可愛くてごめん(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "かわいいは常識♡",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%AF%E5%B8%B8%E8%AD%98%E2%99%A1%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%AF%E5%B8%B8%E8%AD%98%E2%99%A1"
+                },
+                {
+                  "title": "LOVE ANTHEM(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20LOVE%20ANTHEM(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20LOVE%20ANTHEM(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "推しの魔法(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E6%8E%A8%E3%81%97%E3%81%AE%E9%AD%94%E6%B3%95(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E6%8E%A8%E3%81%97%E3%81%AE%E9%AD%94%E6%B3%95(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "ヒロインは平均以下。(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AF%E5%B9%B3%E5%9D%87%E4%BB%A5%E4%B8%8B%E3%80%82(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AF%E5%B9%B3%E5%9D%87%E4%BB%A5%E4%B8%8B%E3%80%82(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "世界は恋に落ちている(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E4%B8%96%E7%95%8C%E3%81%AF%E6%81%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A6%E3%81%84%E3%82%8B(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E4%B8%96%E7%95%8C%E3%81%AF%E6%81%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A6%E3%81%84%E3%82%8B(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "乙女どもよ。(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E4%B9%99%E5%A5%B3%E3%81%A9%E3%82%82%E3%82%88%E3%80%82(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E4%B9%99%E5%A5%B3%E3%81%A9%E3%82%82%E3%82%88%E3%80%82(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "小悪魔だってかまわない！(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E5%B0%8F%E6%82%AA%E9%AD%94%E3%81%A0%E3%81%A3%E3%81%A6%E3%81%8B%E3%81%BE%E3%82%8F%E3%81%AA%E3%81%84%EF%BC%81(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E5%B0%8F%E6%82%AA%E9%AD%94%E3%81%A0%E3%81%A3%E3%81%A6%E3%81%8B%E3%81%BE%E3%82%8F%E3%81%AA%E3%81%84%EF%BC%81(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "ハートブーケ(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E3%83%8F%E3%83%BC%E3%83%88%E3%83%96%E3%83%BC%E3%82%B1(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E3%83%8F%E3%83%BC%E3%83%88%E3%83%96%E3%83%BC%E3%82%B1(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "決戦スピリット(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E6%B1%BA%E6%88%A6%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E6%B1%BA%E6%88%A6%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "ファンサ",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B5%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B5"
+                },
+                {
+                  "title": "僕らの青(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E5%83%95%E3%82%89%E3%81%AE%E9%9D%92(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E5%83%95%E3%82%89%E3%81%AE%E9%9D%92(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "生きてりゃいい(2026 Album Ver.)",
+                  "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8A%E3%82%83%E3%81%84%E3%81%84(2026%20Album%20Ver.)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8A%E3%82%83%E3%81%84%E3%81%84(2026%20Album%20Ver.)"
+                },
+                {
+                  "title": "約束",
                   "youtube": "https://www.youtube.com/results?search_query=Takane%20no%20Nadeshiko%20%E7%B4%84%E6%9D%9F%20official",
                   "youtubeType": "search",
                   "spotify": "https://open.spotify.com/search/Takane%20no%20Nadeshiko%20%E7%B4%84%E6%9D%9F"
@@ -124,7 +239,13 @@
       ]
     }
   ],
-  "spotlight": [],
+  "spotlight": [
+    {
+      "title": "約束 — Music Video ufficiale (29 ottobre 2026)",
+      "url": "https://www.youtube.com/watch?v=2FBXN92lJtA",
+      "id": "2FBXN92lJtA"
+    }
+  ],
   "officialVideos": [],
   "videoEditions": [],
   "sources": [
@@ -139,8 +260,16 @@
     {
       "label": "Formazione e profili (fonte indicata)",
       "url": "https://takanenonadeshiko.jp/members/"
+    },
+    {
+      "label": "Victor: album A World in Our Colors e scaletta",
+      "url": "https://www.jvcmusic.co.jp/-/Artist/A028511.html"
+    },
+    {
+      "label": "TWIN PLANET: MV ufficiale 約束 del 29/10/2026",
+      "url": "https://prtimes.jp/main/html/rd/p/000001000.000025517.html"
     }
   ],
   "excluded": [],
-  "note": "Album A World in Our Colors annunciato per il 18 novembre 2026: non è ancora classificato tra le uscite già pubblicate."
+  "note": "A World in Our Colors annunciato per il 18 novembre 2026, non ancora pubblicato alla verifica del 2 novembre. Tracklist completa (15 brani) e due confezioni confermate. Il MV ufficiale di 約束 è uscito il 29 ottobre."
 }
