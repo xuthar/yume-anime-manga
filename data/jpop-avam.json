@@ -1,6 +1,6 @@
 {
   "artist": "AVAM",
-  "checkedAt": "2026-10-28",
+  "checkedAt": "2026-11-02",
   "groupImage": "https://avam-fc.com/images/parts/%E8%BB%BD%E9%87%8F%E7%89%88_IMG_9125.jpg",
   "members": [],
   "albums": [
@@ -189,6 +189,73 @@
           ]
         }
       ]
+    },
+    {
+      "id": "avam-mini-album-20261222",
+      "title": "Lovely♡devil",
+      "date": "2026-12-22",
+      "kind": "ep",
+      "note": "ANNUNCIATO · primo mini-album CD, uscita prevista 22 dicembre 2026. 8 confezioni (AVAM + 7 individuali) riunite in una sola pubblicazione, non 8 album. Scaletta AVAM盤 secondo Rakuten Books; i bonus delle altre varianti non sono attribuiti senza conferma. Il singolo digitale omonimo del 6 agosto resta una pubblicazione storica distinta.",
+      "source": "https://avam-fc.com/news/detail/116",
+      "trackSource": "https://avam-fc.com/news/detail/116",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "AVAM盤 · CD · 22/12/2026 · 7 brani",
+          "cover": "",
+          "source": "https://books.rakuten.co.jp/rb/18798553/",
+          "sourceLabel": "Fonte della pubblicazione e della scaletta",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ワルイレンアイ",
+                  "youtube": "https://www.youtube.com/results?search_query=AVAM%20%E3%83%AF%E3%83%AB%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%A2%E3%82%A4%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AVAM%20%E3%83%AF%E3%83%AB%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%A2%E3%82%A4"
+                },
+                {
+                  "title": "Warning：Love you",
+                  "youtube": "https://www.youtube.com/results?search_query=AVAM%20Warning%EF%BC%9ALove%20you%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AVAM%20Warning%EF%BC%9ALove%20you"
+                },
+                {
+                  "title": "I♡シズム",
+                  "youtube": "https://www.youtube.com/results?search_query=AVAM%20I%E2%99%A1%E3%82%B7%E3%82%BA%E3%83%A0%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AVAM%20I%E2%99%A1%E3%82%B7%E3%82%BA%E3%83%A0"
+                },
+                {
+                  "title": "クレール",
+                  "youtube": "https://www.youtube.com/results?search_query=AVAM%20%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%AB%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AVAM%20%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%AB"
+                },
+                {
+                  "title": "てれぱしい♡はあと",
+                  "youtube": "https://www.youtube.com/results?search_query=AVAM%20%E3%81%A6%E3%82%8C%E3%81%B1%E3%81%97%E3%81%84%E2%99%A1%E3%81%AF%E3%81%82%E3%81%A8%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AVAM%20%E3%81%A6%E3%82%8C%E3%81%B1%E3%81%97%E3%81%84%E2%99%A1%E3%81%AF%E3%81%82%E3%81%A8"
+                },
+                {
+                  "title": "Lovely♡devil",
+                  "youtube": "https://www.youtube.com/results?search_query=AVAM%20Lovely%E2%99%A1devil%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AVAM%20Lovely%E2%99%A1devil"
+                },
+                {
+                  "title": "Overture(SE)",
+                  "youtube": "https://www.youtube.com/results?search_query=AVAM%20Overture(SE)%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/AVAM%20Overture(SE)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "spotlight": [],
@@ -206,8 +273,16 @@
     {
       "label": "Formazione e profili (fonte indicata)",
       "url": "https://avam-fc.com/"
+    },
+    {
+      "label": "AVAM: annuncio ufficiale mini-album 22/12/2026 (8 varianti)",
+      "url": "https://avam-fc.com/news/detail/116"
+    },
+    {
+      "label": "Rakuten Books: scaletta CD AVAM盤",
+      "url": "https://books.rakuten.co.jp/rb/18798553/"
     }
   ],
   "excluded": [],
-  "note": "I nomi individuali non sono stati ancora riconciliati con una lista ufficiale aggiornata: evita di associare nomi a foto senza controllo."
+  "note": "I nomi individuali non sono stati ancora riconciliati con una lista ufficiale aggiornata: evita di associare nomi a foto senza controllo. Primo mini-album CD Lovely♡devil annunciato per il 22/12/2026; 8 varianti non duplicate come pubblicazioni."
 }
