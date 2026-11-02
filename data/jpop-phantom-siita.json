@@ -2,7 +2,36 @@
   "artist": "Phantom Siita",
   "checkedAt": "2026-11-02",
   "groupImage": "https://i.daily.jp/gossip/2026/06/23/Images/f_20510065.jpg",
-  "members": [],
+  "members": [
+    {
+      "name": "Mona",
+      "japanese": "もな",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://phantomsiita.com/feature/profile"
+    },
+    {
+      "name": "Miu",
+      "japanese": "美雨",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://phantomsiita.com/feature/profile"
+    },
+    {
+      "name": "Rinka",
+      "japanese": "凛花",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://phantomsiita.com/feature/profile"
+    },
+    {
+      "name": "Moka",
+      "japanese": "百花",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://phantomsiita.com/feature/profile"
+    }
+  ],
   "albums": [
     {
       "id": "phantom-siita-0",
@@ -133,7 +162,7 @@
       "title": "スイートピー",
       "date": "2026-10-11",
       "kind": "single",
-      "note": "PUBBLICATO · singolo digitale uscito l’11 ottobre 2026. Ending della seconda stagione dell’anime Hotel Inhumans; composizione di Miku Nakamura (Cö shu Nie). Nessun MV ufficiale verificato per questa traccia.",
+      "note": "PUBBLICATO · singolo digitale uscito l’11 ottobre 2026. Ending della seconda stagione dell’anime Hotel Inhumans; scritto da Miku Nakamura (Cö shu Nie). MV ufficiale pubblicato l’11 ottobre 2026.",
       "source": "https://phantomsiita.com/news/detail/474",
       "trackSource": "https://phantomsiita.com/news/detail/474",
       "defaultEdition": 0,
@@ -149,8 +178,8 @@
               "tracks": [
                 {
                   "title": "スイートピー",
-                  "youtube": "https://www.youtube.com/results?search_query=Phantom%20Siita%20%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC%20official",
-                  "youtubeType": "search",
+                  "youtube": "https://www.youtube.com/watch?v=P7nWytByzug",
+                  "youtubeType": "official",
                   "spotify": "https://open.spotify.com/search/Phantom%20Siita%20%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC"
                 }
               ]
@@ -160,7 +189,13 @@
       ]
     }
   ],
-  "spotlight": [],
+  "spotlight": [
+    {
+      "title": "スイートピー — Music Video ufficiale (11 ottobre 2026)",
+      "id": "P7nWytByzug",
+      "url": "https://www.youtube.com/watch?v=P7nWytByzug"
+    }
+  ],
   "officialVideos": [],
   "videoEditions": [],
   "sources": [
@@ -179,8 +214,16 @@
     {
       "label": "Annuncio ufficiale: スイートピー, 11 ottobre 2026",
       "url": "https://phantomsiita.com/news/detail/474"
+    },
+    {
+      "label": "Profilo ufficiale componenti (verifica 2 novembre 2026)",
+      "url": "https://phantomsiita.com/feature/profile"
+    },
+    {
+      "label": "Phantom Siita: MV ufficiale スイートピー 11/10/2026",
+      "url": "https://phantomsiita.com/news/detail/483"
     }
   ],
   "excluded": [],
-  "note": "Il gruppo è una formazione retro-horror; alcune foto promozionali disponibili riprendono solo parte delle componenti. Formazione individuale da verificare prima di attribuire nomi."
+  "note": "Il gruppo retro-horror è formato da Mona, Miu, Rinka e Moka secondo il profilo ufficiale al 2 novembre 2026. Il video ufficiale スイートピー è pubblicato dall’11 ottobre."
 }
