@@ -2,7 +2,57 @@
   "artist": "AVAM",
   "checkedAt": "2026-11-02",
   "groupImage": "https://avam-fc.com/images/parts/%E8%BB%BD%E9%87%8F%E7%89%88_IMG_9125.jpg",
-  "members": [],
+  "members": [
+    {
+      "name": "Otoha Ohara",
+      "japanese": "大原 乙葉",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://avam-fc.com/profile"
+    },
+    {
+      "name": "Hanaka Kikyo",
+      "japanese": "桔梗 花香",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://avam-fc.com/profile"
+    },
+    {
+      "name": "Nanami Saiki",
+      "japanese": "佐伯 七海",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://avam-fc.com/profile"
+    },
+    {
+      "name": "Sora Shinonome",
+      "japanese": "東雲 青空",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://avam-fc.com/profile"
+    },
+    {
+      "name": "Ami Takanashi",
+      "japanese": "小鳥遊あみ",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://avam-fc.com/profile"
+    },
+    {
+      "name": "Noa Tsugumi",
+      "japanese": "月深 乃絢",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://avam-fc.com/profile"
+    },
+    {
+      "name": "Yuka Himemiya",
+      "japanese": "姫宮 ゆか",
+      "bio": "Componente presente nel profilo ufficiale consultato il 2 novembre 2026; nessun ritratto individuale attribuito senza fonte.",
+      "image": "",
+      "link": "https://avam-fc.com/profile"
+    }
+  ],
   "albums": [
     {
       "id": "avam-0",
@@ -281,8 +331,12 @@
     {
       "label": "Rakuten Books: scaletta CD AVAM盤",
       "url": "https://books.rakuten.co.jp/rb/18798553/"
+    },
+    {
+      "label": "Profilo ufficiale componenti (verifica 2 novembre 2026)",
+      "url": "https://avam-fc.com/profile"
     }
   ],
   "excluded": [],
-  "note": "I nomi individuali non sono stati ancora riconciliati con una lista ufficiale aggiornata: evita di associare nomi a foto senza controllo. Primo mini-album CD Lovely♡devil annunciato per il 22/12/2026; 8 varianti non duplicate come pubblicazioni."
+  "note": "Formazione ufficiale di 7 componenti verificata il 2 novembre 2026. Primo mini-album CD Lovely♡devil annunciato per il 22/12/2026; otto varianti non duplicate come album."
 }
