@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T05:58:18.551408+01:00",
+  "updatedAt": "2026-11-02T06:10:34.328830+01:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
   "coverageStart": "2026-10-20",
@@ -1600,9 +1600,9 @@
       "time": "16:00",
       "start": "2026-11-08T16:00:00+01:00",
       "title": "Blue Box",
-      "episode": "31",
+      "episode": "30",
       "platform": "Netflix",
-      "sourceUrl": "https://www.animeclick.it/episodio/430471",
+      "sourceUrl": "https://www.animeclick.it/episodio/430470",
       "itemId": null
     },
     {
@@ -1612,7 +1612,7 @@
       "title": "Lulu & Lilly - Le sorelle della magia",
       "episode": "2x18",
       "platform": "Anime Generation",
-      "sourceUrl": "https://www.animeclick.it/episodio/430180",
+      "sourceUrl": "https://www.animeclick.it/episodio/430180/tempesta-sullisola-misteriosa",
       "itemId": null
     },
     {
@@ -2200,9 +2200,9 @@
       "time": "16:00",
       "start": "2026-11-15T16:00:00+01:00",
       "title": "Blue Box",
-      "episode": "32",
+      "episode": "31",
       "platform": "Netflix",
-      "sourceUrl": "https://www.animeclick.it/episodio/430472",
+      "sourceUrl": "https://www.animeclick.it/episodio/430471",
       "itemId": null
     },
     {
@@ -2800,9 +2800,9 @@
       "time": "16:00",
       "start": "2026-11-22T16:00:00+01:00",
       "title": "Blue Box",
-      "episode": "33",
+      "episode": "32",
       "platform": "Netflix",
-      "sourceUrl": "https://www.animeclick.it/episodio/430473",
+      "sourceUrl": "https://www.animeclick.it/episodio/430472",
       "itemId": null
     },
     {
@@ -3400,9 +3400,9 @@
       "time": "16:00",
       "start": "2026-11-29T16:00:00+01:00",
       "title": "Blue Box",
-      "episode": "34",
+      "episode": "33",
       "platform": "Netflix",
-      "sourceUrl": "https://www.animeclick.it/episodio/430474",
+      "sourceUrl": "https://www.animeclick.it/episodio/430473",
       "itemId": null
     },
     {
