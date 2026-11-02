@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-02",
+  "scope": "Controllo incrementale uscite IT/EN contro inventario Xuthar; esclusi titoli JP; nessun acquisto aggiunto.",
+  "sourceSpreadsheet": "Lista anime di Xuthar",
+  "items": [
+    {
+      "title": "Magic Knight Rayearth 2",
+      "language": "IT",
+      "editorialNote": "Star Comics conferma n.3 SINGOLO CLAMP Premium Collection in uscita 17/11/2026, prezzo di listino €9,90, ISBN 9788822659897. Edizione sciolta distinta dal cofanetto completo già posseduto (1 unità fisica, €29,90); nessuna copia del n.3 singolo attribuita.",
+      "editorialSource": "https://www.starcomics.com/fumetto/magic-knight-rayearth-2-clamp-premium-collection-3",
+      "announcements": [
+        {
+          "edition": "Star Comics · CLAMP Premium Collection singolo",
+          "number": "3",
+          "date": "2026-11-17",
+          "priceEur": 9.9,
+          "isbn": "9788822659897"
+        }
+      ],
+      "ownedChange": false,
+      "editorialOnly": true,
+      "lastCheckedAt": "2026-11-02"
+    }
+  ],
+  "checkedOther": [
+    {
+      "title": "Chainsaw Man",
+      "status": "Christmas Variant n.1 IT annunciata per novembre, senza giorno AnimeClick; già annotata nel controllo 31/10. Distinta da regular e variant possedute."
+    },
+    {
+      "title": "You Like Me, Not My Daughter?!",
+      "status": "Manga EN n.9 Seven Seas 03/11/2026, già annotato 01/11, non posseduto."
+    }
+  ],
+  "policy": "Nessuna edizione JP, nessun dato di lettura, nessuna modifica a prezzi o copie già possedute."
+}
