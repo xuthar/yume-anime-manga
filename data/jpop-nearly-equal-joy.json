@@ -1,6 +1,6 @@
 {
   "artist": "≒JOY",
-  "checkedAt": "2026-10-28",
+  "checkedAt": "2026-11-02",
   "groupImage": "https://idolrunwaycollection.jp/assets/images/lineup_nearly-equal-joy.jpg?v=20260625195856",
   "members": [],
   "albums": [
@@ -77,6 +77,56 @@
           ]
         }
       ]
+    },
+    {
+      "id": "nearly-equal-joy-rockstarsama-20261013",
+      "title": "ロックスター様",
+      "date": "2026-10-13",
+      "kind": "single",
+      "note": "PUBBLICATO DIGITALMENTE il 13 ottobre 2026; 6° singolo CD ANNUNCIATO per il 25 novembre 2026. Cinque confezioni CD (Type A–E) sotto la stessa pubblicazione, non duplicate. La fonte ufficiale del 22 ottobre riporta ancora i titoli dei brani secondari come non definitivi: qui non sono inventati.",
+      "source": "https://nearly-equal-joy.jp/news/detail/4062",
+      "trackSource": "https://nearly-equal-joy.jp/news/detail/4062",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · pubblicato 13/10/2026",
+          "cover": "",
+          "source": "https://nearly-equal-joy.jp/news/detail/4062",
+          "sourceLabel": "Fonte della pubblicazione e della scaletta",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ロックスター様",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%92JOY%20%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E6%A7%98%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%92JOY%20%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E6%A7%98"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CD Type A–E · annunciato 25/11/2026 · tracklist parziale",
+          "cover": "",
+          "source": "https://nearly-equal-joy.jp/news/detail/4073",
+          "sourceLabel": "Fonte della pubblicazione e della scaletta",
+          "discs": [
+            {
+              "label": "Brani documentati",
+              "tracks": [
+                {
+                  "title": "ロックスター様",
+                  "youtube": "https://www.youtube.com/results?search_query=%E2%89%92JOY%20%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E6%A7%98%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/%E2%89%92JOY%20%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E6%A7%98"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "spotlight": [],
@@ -94,8 +144,17 @@
     {
       "label": "Profili e informazioni",
       "url": "https://nearly-equal-joy.jp/"
+    },
+    {
+      "label": "≒JOY: streaming ロックスター様 dal 13 ottobre",
+      "url": "https://nearly-equal-joy.jp/news/detail/4062"
+    },
+    {
+      "label": "≒JOY: 6th CD 25 novembre e varianti A–E",
+      "url": "https://nearly-equal-joy.jp/news/detail/4073"
     }
   ],
   "excluded": [],
-  "catalogNote": "La foto ritrae una formazione promozionale 2026; si rimanda ai profili ufficiali per eventuali variazioni."
+  "catalogNote": "La foto ritrae una formazione promozionale 2026; si rimanda ai profili ufficiali per eventuali variazioni.",
+  "note": "ロックスター様: digitale dal 13/10/2026, CD in 5 varianti annunciato per il 25/11/2026. I titoli dei B-side restano da confermare."
 }
