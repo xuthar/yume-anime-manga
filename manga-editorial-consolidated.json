@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01",
+  "checkedAt": "2026-11-02",
   "description": "Audit IT/EN consolidati dal 24 al 31 ottobre. Le notizie editoriali non modificano gli acquisti, i volumi posseduti, le date e i prezzi storici.",
   "sourceFiles": [
     "manga-editorial-sync-2026-10-24.json",
@@ -10,7 +10,8 @@
     "manga-editorial-sync-2026-10-29.json",
     "manga-editorial-sync-2026-10-30.json",
     "manga-editorial-sync-2026-10-31.json",
-    "manga-editorial-sync-2026-11-01.json"
+    "manga-editorial-sync-2026-11-01.json",
+    "manga-editorial-sync-2026-11-02.json"
   ],
   "items": [
     {
@@ -653,8 +654,8 @@
         }
       ],
       "language": "IT",
-      "editorialNote": "Controllo 23/10/2026 (IT, Star Comics): Magic Knight Rayearth 2 - CLAMP Premium Collection n.2 in edizione singola pubblicato il 13/10/2026, € 9,90, ISBN 9788822659880; n.3 singolo previsto per il 17/11/2026. L'inventario contiene già il cofanetto completo (1 unità fisica, € 29,90): i singoli non sono ulteriori acquisti e non vanno sommati al totale.",
-      "editorialSource": "https://www.animeclick.it/news/112063-manga-uscite-italiane-settimana-dal-12-al-18-ottobre-2026",
+      "editorialNote": "Controllo 23/10/2026 (IT, Star Comics): Magic Knight Rayearth 2 - CLAMP Premium Collection n.2 in edizione singola pubblicato il 13/10/2026, € 9,90, ISBN 9788822659880; n.3 singolo previsto per il 17/11/2026. L'inventario contiene già il cofanetto completo (1 unità fisica, € 29,90): i singoli non sono ulteriori acquisti e non vanno sommati al totale.\nVerifica 02/11/2026: Star Comics conferma n.3 SINGOLO CLAMP Premium Collection in uscita 17/11/2026, €9,90, ISBN 9788822659897. Non è una nuova copia del cofanetto già posseduto; nessun acquisto attribuito.",
+      "editorialSource": "https://www.starcomics.com/fumetto/magic-knight-rayearth-2-clamp-premium-collection-3",
       "owned": 1,
       "numbers": "Unico",
       "status": "Completo",
@@ -672,7 +673,16 @@
           }
         ]
       },
-      "lastCheckedAt": "2026-10-24"
+      "lastCheckedAt": "2026-11-02",
+      "announcements": [
+        {
+          "edition": "Star Comics · CLAMP Premium Collection singolo",
+          "number": "3",
+          "date": "2026-11-17",
+          "priceEur": 9.9,
+          "isbn": "9788822659897"
+        }
+      ]
     },
     {
       "title": "Honeymoon Paradise",
