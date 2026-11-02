@@ -1433,8 +1433,8 @@
     {
       "title": "Miss Kobayashi's Dragon Maid",
       "language": "IT",
-      "editorialNote": "AnimeClick novembre 2026: n.18 J-POP, €6,50, giorno non comunicato. Inventario: 19 copie fisiche tra regolari fino al 17 e variant; n.18 non registrato. Le variant non estendono la numerazione regolare.",
-      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "editorialNote": "AnimeClick novembre 2026: n.18 J-POP, €6,50, giorno non comunicato. Inventario: 19 copie fisiche tra regolari fino al 17 e variant; n.18 non registrato. Le variant non estendono la numerazione regolare.\nVerifica 02/11/2026: Seven Seas annuncia lo SPIN-OFF inglese Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love n.1 per il 03/11/2026, $13.99, ISBN 9798898634759. Serie distinta dal manga principale J-POP; nessun acquisto e nessuna conversione in euro.",
+      "editorialSource": "https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/",
       "announcements": [
         {
           "edition": "J-POP regolare",
@@ -1445,7 +1445,17 @@
       ],
       "ownedChange": false,
       "editorialOnly": true,
-      "lastCheckedAt": "2026-10-31"
+      "lastCheckedAt": "2026-11-02",
+      "relatedReleases": [
+        {
+          "title": "Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love",
+          "edition": "Seven Seas · spin-off EN manga regolare",
+          "number": "1",
+          "date": "2026-11-03",
+          "priceUsd": 13.99,
+          "isbn": "9798898634759"
+        }
+      ]
     },
     {
       "title": "Pumpkin Night",
