@@ -52,5 +52,11 @@
     "animeclick-manga": 284,
     "animeclick-novel": 2
   },
-  "note": "Le revisioni restano in book-calendar-history.json. Nessun acquisto, voto o avanzamento personale viene assegnato."
+  "note": "Le revisioni restano in book-calendar-history.json. Nessun acquisto, voto o avanzamento personale viene assegnato.",
+  "isbnSupplement": {
+    "verifiedTotal": 717,
+    "newlyVerified": 74,
+    "retainedRecords": 985,
+    "note": "Tutti gli ISBN già verificati sono conservati; le edizioni non verificabili restano esplicitamente segnalate."
+  }
 }

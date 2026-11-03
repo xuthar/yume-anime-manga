@@ -39,3 +39,5 @@ assert.equal(context.releaseLabel({releaseDate:'2027-04'}),'aprile 2027 · giorn
 assert(context.matchesCategory({genres:['Hentai']},'hentai'));assert(!context.matchesCategory({genres:['Ecchi']},'hentai'));assert(!context.matchesCategory({genres:['Hentai']},'anime'));assert(context.matchesCategory({genres:['Hentai']},'all'));
 
 assert(!context.matchesCategory({id:'anime-32587',genres:['Hentai']},'hentai'));
+
+assert.equal(vm.runInContext("durationLabel('0 min')",context),'Non indicata');assert.equal(vm.runInContext("scoreLabel('0')",context),'Non disponibile');assert.equal(vm.runInContext("scoreLabel('8.25')",context),'8.25 / 10');
