@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-11-04T00:19:19.690285+01:00",
+  "sources": [
+    {
+      "id": "animeclick-manga",
+      "name": "AnimeClick · manga IT",
+      "url": "https://www.animeclick.it/calendario-manga",
+      "language": "IT",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
+      "status": "ok"
+    },
+    {
+      "id": "animeclick-novel",
+      "name": "AnimeClick · novel IT",
+      "url": "https://www.animeclick.it/calendario-novel",
+      "language": "IT",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
+      "status": "ok"
+    },
+    {
+      "id": "seven-seas",
+      "name": "Seven Seas · EN",
+      "url": "https://sevenseasentertainment.com/release-dates/",
+      "language": "EN",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
+      "status": "ok"
+    },
+    {
+      "id": "yen-press",
+      "name": "Yen Press · EN",
+      "url": "https://yenpress.com/calendar",
+      "language": "EN",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
+      "status": "ok"
+    },
+    {
+      "id": "j-novel-club",
+      "name": "J-Novel Club · ebook EN",
+      "url": "https://j-novel.club/calendar",
+      "language": "EN",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
+      "status": "ok"
+    }
+  ],
+  "totalListings": 978,
+  "addedDatedListings": 97,
+  "removedOrRescheduledDatedListings": 36,
+  "countsBySource": {
+    "yen-press": 126,
+    "seven-seas": 522,
+    "j-novel-club": 44,
+    "animeclick-manga": 284,
+    "animeclick-novel": 2
+  },
+  "note": "Le revisioni restano in book-calendar-history.json. Nessun acquisto, voto o avanzamento personale viene assegnato."
+}

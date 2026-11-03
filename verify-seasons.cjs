@@ -1,7 +1,7 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const data=JSON.parse(fs.readFileSync('seasons.json'));
 assert.equal(data.region,'IT');assert(Object.keys(data.items).length>=587);
-const expected={'summer-2026':265,'autumn-2026':179,'winter-2026':230,'spring-2027':19};
+const expected={'summer-2026':265,'autumn-2026':181,'winter-2026':230,'winter-2027':67,'spring-2027':21};
 for(const s of data.seasons){assert.equal(s.year,Number(s.key.split('-')[1]));assert.equal(s.entries.length,expected[s.key]);assert.equal(new Set(s.entries.map(e=>e.id)).size,s.entries.length);for(const e of s.entries){assert(data.items[e.id]);assert.equal(typeof e.continuing,'boolean')}}
 let offers=0,plots=0;
 for(const [id,x] of Object.entries(data.items)){
@@ -17,7 +17,7 @@ assert.equal(vm.runInContext("safeUrl('javascript:alert(1)')",context),'');asser
 assert(!context.titleField('INGLESE','<img onerror=x>').includes('<img'));
 assert(context.titleField('INGLESE','').includes('Non indicato'));
 const parsed=fs.readFileSync('index.html','utf8');assert(parsed.includes('href="seasons.html"'));
-console.log(`PASS: 4 seasons including Spring 2027, verified seasonal IDs, ${plots} synopses/project notes, ${offers} Italian streaming offers; original titles, adult cover handling and safe rendering.`);
+console.log(`PASS: 5 seasons including Winter and Spring 2027, verified seasonal IDs, ${plots} synopses/project notes, ${offers} Italian streaming offers; original titles, adult cover handling and safe rendering.`);
 context.localStorage={getItem:key=>storage.get(key)||null,setItem:(key,value)=>storage.set(key,value)};
 assert.equal(vm.runInContext('Object.keys(readChoices()).length',context),0);
 storage.set('yume-season-choices','{"anime-1":"watch","anime-2":"skip","anime-3":"invalid","bad":"watch"}');

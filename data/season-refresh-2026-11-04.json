@@ -1,0 +1,2068 @@
+{
+  "checkedAt": "2026-11-03T23:21:11.944519+00:00",
+  "new": [
+    "anime-65299",
+    "anime-65286",
+    "anime-56732",
+    "anime-58934",
+    "anime-61338",
+    "anime-63139",
+    "anime-63193",
+    "anime-61035",
+    "anime-63822",
+    "anime-64524",
+    "anime-65032",
+    "anime-62989",
+    "anime-61304",
+    "anime-63174",
+    "anime-63419",
+    "anime-61015",
+    "anime-64439",
+    "anime-63885",
+    "anime-63215",
+    "anime-62100",
+    "anime-62808",
+    "anime-62311",
+    "anime-63640",
+    "anime-64374",
+    "anime-61324",
+    "anime-64555",
+    "anime-63476",
+    "anime-63763",
+    "anime-61135",
+    "anime-62483",
+    "anime-62605",
+    "anime-64950",
+    "anime-62978",
+    "anime-62580",
+    "anime-64467",
+    "anime-62188",
+    "anime-61756",
+    "anime-57990",
+    "anime-63851",
+    "anime-63730",
+    "anime-61282",
+    "anime-64600",
+    "anime-63256",
+    "anime-63970",
+    "anime-63350",
+    "anime-60549",
+    "anime-63998",
+    "anime-60555",
+    "anime-64665",
+    "anime-63706",
+    "anime-63424",
+    "anime-64782",
+    "anime-63038",
+    "anime-65078",
+    "anime-64746",
+    "anime-64744",
+    "anime-57557",
+    "anime-65270",
+    "anime-65281",
+    "anime-65269",
+    "anime-63934",
+    "anime-63326",
+    "anime-60230",
+    "anime-60160",
+    "anime-64541",
+    "anime-64920",
+    "anime-65247",
+    "anime-65246",
+    "anime-63035",
+    "anime-65298",
+    "anime-62550"
+  ],
+  "changed": [
+    {
+      "id": "anime-62076",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.20",
+          "after": "8.19"
+        }
+      }
+    },
+    {
+      "id": "anime-60636",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.97",
+          "after": "8.84"
+        }
+      }
+    },
+    {
+      "id": "anime-54000",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.90",
+          "after": "6.91"
+        }
+      }
+    },
+    {
+      "id": "anime-62856",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.44",
+          "after": "7.43"
+        }
+      }
+    },
+    {
+      "id": "anime-60522",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.49",
+          "after": "6.48"
+        }
+      }
+    },
+    {
+      "id": "anime-61483",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.37",
+          "after": "8.36"
+        }
+      }
+    },
+    {
+      "id": "anime-62811",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.04",
+          "after": "8.03"
+        }
+      }
+    },
+    {
+      "id": "anime-63150",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.49",
+          "after": "7.48"
+        }
+      }
+    },
+    {
+      "id": "anime-63817",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.16",
+          "after": "7.15"
+        }
+      }
+    },
+    {
+      "id": "anime-58878",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.63",
+          "after": "7.62"
+        }
+      }
+    },
+    {
+      "id": "anime-62435",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.76",
+          "after": "5.77"
+        }
+      }
+    },
+    {
+      "id": "anime-63347",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.27",
+          "after": "7.26"
+        }
+      }
+    },
+    {
+      "id": "anime-63082",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.57",
+          "after": "7.58"
+        }
+      }
+    },
+    {
+      "id": "anime-63061",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.08",
+          "after": "7.09"
+        }
+      }
+    },
+    {
+      "id": "anime-63489",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.67",
+          "after": "5.66"
+        }
+      }
+    },
+    {
+      "id": "anime-63780",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.22",
+          "after": "7.23"
+        }
+      }
+    },
+    {
+      "id": "anime-62051",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.40",
+          "after": "7.39"
+        }
+      }
+    },
+    {
+      "id": "anime-60552",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.07",
+          "after": "7.06"
+        }
+      }
+    },
+    {
+      "id": "anime-62883",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.23",
+          "after": "7.24"
+        }
+      }
+    },
+    {
+      "id": "anime-63514",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.29",
+          "after": "6.30"
+        }
+      }
+    },
+    {
+      "id": "anime-63878",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.92",
+          "after": "5.93"
+        }
+      }
+    },
+    {
+      "id": "anime-63418",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.74",
+          "after": "5.73"
+        }
+      }
+    },
+    {
+      "id": "anime-64543",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.93",
+          "after": "5.94"
+        }
+      }
+    },
+    {
+      "id": "anime-64435",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.89",
+          "after": "5.87"
+        }
+      }
+    },
+    {
+      "id": "anime-64378",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.08",
+          "after": "6.09"
+        }
+      }
+    },
+    {
+      "id": "anime-62048",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.99",
+          "after": "6.98"
+        }
+      }
+    },
+    {
+      "id": "anime-62981",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.17",
+          "after": "6.18"
+        }
+      }
+    },
+    {
+      "id": "anime-1960",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.81",
+          "after": "6.82"
+        }
+      }
+    },
+    {
+      "id": "anime-63352",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.08",
+          "after": "6.09"
+        }
+      }
+    },
+    {
+      "id": "anime-63276",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.62",
+          "after": "6.63"
+        }
+      }
+    },
+    {
+      "id": "anime-63468",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.30",
+          "after": "6.31"
+        }
+      }
+    },
+    {
+      "id": "anime-61546",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.09",
+          "after": "7.08"
+        }
+      }
+    },
+    {
+      "id": "anime-51836",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.03",
+          "after": "8.02"
+        }
+      }
+    },
+    {
+      "id": "anime-62957",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.09",
+          "after": "7.08"
+        }
+      }
+    },
+    {
+      "id": "anime-63619",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.35",
+          "after": "6.36"
+        }
+      }
+    },
+    {
+      "id": "anime-64867",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.90",
+          "after": "6.89"
+        }
+      }
+    },
+    {
+      "id": "anime-54437",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.39",
+          "after": "7.38"
+        }
+      }
+    },
+    {
+      "id": "anime-64683",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.71",
+          "after": "7.73"
+        }
+      }
+    },
+    {
+      "id": "anime-61642",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.16",
+          "after": "7.15"
+        }
+      }
+    },
+    {
+      "id": "anime-63987",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.87",
+          "after": "6.88"
+        }
+      }
+    },
+    {
+      "id": "anime-61562",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.95",
+          "after": "7.94"
+        }
+      }
+    },
+    {
+      "id": "anime-62234",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.89",
+          "after": "7.92"
+        }
+      }
+    },
+    {
+      "id": "anime-60588",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.45",
+          "after": "6.44"
+        }
+      }
+    },
+    {
+      "id": "anime-61634",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.72",
+          "after": "6.78"
+        }
+      }
+    },
+    {
+      "id": "anime-62651",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.76",
+          "after": "7.78"
+        }
+      }
+    },
+    {
+      "id": "anime-64519",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.66",
+          "after": "6.65"
+        }
+      }
+    },
+    {
+      "id": "anime-64398",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.17",
+          "after": "8.15"
+        }
+      }
+    },
+    {
+      "id": "anime-61921",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.76",
+          "after": "7.78"
+        }
+      }
+    },
+    {
+      "id": "anime-61557",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.44",
+          "after": "7.43"
+        }
+      }
+    },
+    {
+      "id": "anime-64861",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "6.41"
+        }
+      }
+    },
+    {
+      "id": "anime-63967",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.37",
+          "after": "7.38"
+        }
+      }
+    },
+    {
+      "id": "anime-64542",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.31",
+          "after": "6.30"
+        }
+      }
+    },
+    {
+      "id": "anime-62723",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.30",
+          "after": "7.32"
+        }
+      }
+    },
+    {
+      "id": "anime-61619",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.90",
+          "after": "7.00"
+        }
+      }
+    },
+    {
+      "id": "anime-62789",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.19",
+          "after": "7.18"
+        }
+      }
+    },
+    {
+      "id": "anime-62707",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.47",
+          "after": "6.48"
+        }
+      }
+    },
+    {
+      "id": "anime-65129",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "6.67"
+        }
+      }
+    },
+    {
+      "id": "anime-64373",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.44",
+          "after": "7.45"
+        }
+      }
+    },
+    {
+      "id": "anime-64250",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.06",
+          "after": "7.05"
+        }
+      }
+    },
+    {
+      "id": "anime-64531",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.90",
+          "after": "6.91"
+        }
+      }
+    },
+    {
+      "id": "anime-64404",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.40",
+          "after": "6.45"
+        }
+      }
+    },
+    {
+      "id": "anime-64530",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.08",
+          "after": "7.11"
+        }
+      }
+    },
+    {
+      "id": "anime-64405",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.35",
+          "after": "6.34"
+        }
+      }
+    },
+    {
+      "id": "anime-64291",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.42",
+          "after": "6.38"
+        }
+      }
+    },
+    {
+      "id": "anime-64053",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.84",
+          "after": "5.85"
+        }
+      }
+    },
+    {
+      "id": "anime-64529",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "5.93",
+          "after": "5.73"
+        }
+      }
+    },
+    {
+      "id": "anime-48820",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.12",
+          "after": "8.13"
+        }
+      }
+    },
+    {
+      "id": "anime-63819",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "6.95",
+          "after": "6.94"
+        }
+      }
+    },
+    {
+      "id": "anime-59217",
+      "season": "summer-2026",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "34 min"
+        }
+      }
+    },
+    {
+      "id": "anime-64019",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.49",
+          "after": "7.52"
+        }
+      }
+    },
+    {
+      "id": "anime-63011",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "8.13",
+          "after": "8.15"
+        }
+      }
+    },
+    {
+      "id": "anime-64382",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.49",
+          "after": "7.53"
+        }
+      }
+    },
+    {
+      "id": "anime-64913",
+      "season": "summer-2026",
+      "changes": {
+        "score": {
+          "before": "7.30",
+          "after": "7.33"
+        }
+      }
+    },
+    {
+      "id": "anime-61987",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.65",
+          "after": "8.63"
+        }
+      }
+    },
+    {
+      "id": "anime-61967",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.81",
+          "after": "8.87"
+        }
+      }
+    },
+    {
+      "id": "anime-53913",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.52",
+          "after": "7.49"
+        }
+      }
+    },
+    {
+      "id": "anime-61323",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.15",
+          "after": "8.14"
+        }
+      }
+    },
+    {
+      "id": "anime-63293",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.77",
+          "after": "7.75"
+        }
+      }
+    },
+    {
+      "id": "anime-59088",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.80",
+          "after": "7.81"
+        }
+      }
+    },
+    {
+      "id": "anime-61578",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.62",
+          "after": "7.64"
+        }
+      }
+    },
+    {
+      "id": "anime-64534",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.35",
+          "after": "8.33"
+        }
+      }
+    },
+    {
+      "id": "anime-52480",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.04",
+          "after": "6.99"
+        }
+      }
+    },
+    {
+      "id": "anime-64340",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.48",
+          "after": "7.51"
+        }
+      }
+    },
+    {
+      "id": "anime-57612",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.07",
+          "after": "7.06"
+        }
+      }
+    },
+    {
+      "id": "anime-60601",
+      "season": "autumn-2026",
+      "changes": {
+        "episodes": {
+          "before": null,
+          "after": 12
+        },
+        "score": {
+          "before": "7.41",
+          "after": "7.39"
+        }
+      }
+    },
+    {
+      "id": "anime-63409",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.47",
+          "after": "7.51"
+        }
+      }
+    },
+    {
+      "id": "anime-63431",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.41",
+          "after": "7.37"
+        }
+      }
+    },
+    {
+      "id": "anime-63367",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.30",
+          "after": "8.25"
+        }
+      }
+    },
+    {
+      "id": "anime-61603",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.22",
+          "after": "8.24"
+        }
+      }
+    },
+    {
+      "id": "anime-63382",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.56",
+          "after": "7.50"
+        }
+      }
+    },
+    {
+      "id": "anime-63140",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.52",
+          "after": "7.50"
+        }
+      }
+    },
+    {
+      "id": "anime-63801",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.91",
+          "after": "7.90"
+        }
+      }
+    },
+    {
+      "id": "anime-60948",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.87",
+          "after": "6.84"
+        }
+      }
+    },
+    {
+      "id": "anime-58518",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.23",
+          "after": "7.24"
+        }
+      }
+    },
+    {
+      "id": "anime-56733",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.90",
+          "after": "6.88"
+        }
+      }
+    },
+    {
+      "id": "anime-63098",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.99",
+          "after": "6.93"
+        }
+      }
+    },
+    {
+      "id": "anime-64254",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.56",
+          "after": "6.50"
+        }
+      }
+    },
+    {
+      "id": "anime-63754",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.87",
+          "after": "6.78"
+        }
+      }
+    },
+    {
+      "id": "anime-61153",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.03",
+          "after": "7.05"
+        }
+      }
+    },
+    {
+      "id": "anime-59787",
+      "season": "autumn-2026",
+      "changes": {
+        "episodes": {
+          "before": 24,
+          "after": 12
+        },
+        "score": {
+          "before": "7.27",
+          "after": "7.29"
+        }
+      }
+    },
+    {
+      "id": "anime-63337",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.08",
+          "after": "7.04"
+        }
+      }
+    },
+    {
+      "id": "anime-62922",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.25",
+          "after": "6.27"
+        }
+      }
+    },
+    {
+      "id": "anime-62484",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.63",
+          "after": "7.62"
+        }
+      }
+    },
+    {
+      "id": "anime-61014",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.44",
+          "after": "7.43"
+        }
+      }
+    },
+    {
+      "id": "anime-63712",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.71",
+          "after": "6.61"
+        }
+      }
+    },
+    {
+      "id": "anime-63292",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.66",
+          "after": "6.61"
+        }
+      }
+    },
+    {
+      "id": "anime-61999",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.02",
+          "after": "6.96"
+        }
+      }
+    },
+    {
+      "id": "anime-64084",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.98",
+          "after": "7.01"
+        }
+      }
+    },
+    {
+      "id": "anime-62753",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.91",
+          "after": "6.86"
+        }
+      }
+    },
+    {
+      "id": "anime-59204",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.25",
+          "after": "7.23"
+        }
+      }
+    },
+    {
+      "id": "anime-64503",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.45",
+          "after": "7.46"
+        }
+      }
+    },
+    {
+      "id": "anime-62524",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.66",
+          "after": "6.64"
+        }
+      }
+    },
+    {
+      "id": "anime-54344",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.67",
+          "after": "6.62"
+        }
+      }
+    },
+    {
+      "id": "anime-63751",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.37",
+          "after": "6.31"
+        }
+      }
+    },
+    {
+      "id": "anime-61140",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.60",
+          "after": "6.48"
+        }
+      }
+    },
+    {
+      "id": "anime-62907",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.57",
+          "after": "6.55"
+        }
+      }
+    },
+    {
+      "id": "anime-62696",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.77",
+          "after": "6.74"
+        }
+      }
+    },
+    {
+      "id": "anime-64326",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.36",
+          "after": "6.38"
+        }
+      }
+    },
+    {
+      "id": "anime-62615",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.57",
+          "after": "6.56"
+        }
+      }
+    },
+    {
+      "id": "anime-63764",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "5.76",
+          "after": "5.70"
+        }
+      }
+    },
+    {
+      "id": "anime-63053",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "5.74",
+          "after": "5.65"
+        }
+      }
+    },
+    {
+      "id": "anime-64180",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.61",
+          "after": "6.56"
+        }
+      }
+    },
+    {
+      "id": "anime-59415",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "5.72",
+          "after": "5.65"
+        }
+      }
+    },
+    {
+      "id": "anime-63157",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.45",
+          "after": "6.40"
+        }
+      }
+    },
+    {
+      "id": "anime-64344",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "5.57",
+          "after": "5.49"
+        }
+      }
+    },
+    {
+      "id": "anime-64718",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.01",
+          "after": "5.98"
+        }
+      }
+    },
+    {
+      "id": "anime-65009",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.26",
+          "after": "6.20"
+        }
+      }
+    },
+    {
+      "id": "anime-62534",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.66",
+          "after": "6.65"
+        }
+      }
+    },
+    {
+      "id": "anime-63818",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "5.59",
+          "after": "5.56"
+        }
+      }
+    },
+    {
+      "id": "anime-63667",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.67",
+          "after": "6.68"
+        }
+      }
+    },
+    {
+      "id": "anime-65169",
+      "season": "autumn-2026",
+      "changes": {
+        "studio": {
+          "before": "",
+          "after": "Front Wing"
+        },
+        "score": {
+          "before": "0",
+          "after": "6.48"
+        }
+      }
+    },
+    {
+      "id": "anime-61990",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.24",
+          "after": "8.18"
+        }
+      }
+    },
+    {
+      "id": "anime-63509",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.86",
+          "after": "6.87"
+        }
+      }
+    },
+    {
+      "id": "anime-64131",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "5.66",
+          "after": "5.57"
+        }
+      }
+    },
+    {
+      "id": "anime-60597",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.30",
+          "after": "7.50"
+        }
+      }
+    },
+    {
+      "id": "anime-64298",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.80",
+          "after": "6.78"
+        }
+      }
+    },
+    {
+      "id": "anime-60348",
+      "season": "autumn-2026",
+      "changes": {
+        "episodes": {
+          "before": null,
+          "after": 8
+        },
+        "releaseDate": {
+          "before": "2026-12",
+          "after": "2026-12-23"
+        },
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1746/159211.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1700/160746.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-63381",
+      "season": "autumn-2026",
+      "changes": {
+        "episodes": {
+          "before": null,
+          "after": 8
+        },
+        "score": {
+          "before": "5.72",
+          "after": "5.66"
+        }
+      }
+    },
+    {
+      "id": "anime-64445",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "8.07",
+          "after": "8.09"
+        }
+      }
+    },
+    {
+      "id": "anime-65209",
+      "season": "autumn-2026",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "7 min"
+        }
+      }
+    },
+    {
+      "id": "anime-60598",
+      "season": "autumn-2026",
+      "changes": {
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1459/160264.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1159/160741.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-65072",
+      "season": "autumn-2026",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "11 min"
+        }
+      }
+    },
+    {
+      "id": "anime-65261",
+      "season": "autumn-2026",
+      "changes": {
+        "image": {
+          "before": "https://cdn.myanimelist.net/images/anime/1295/160700.jpg",
+          "after": "https://cdn.myanimelist.net/images/anime/1698/160701.jpg"
+        }
+      }
+    },
+    {
+      "id": "anime-54250",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "7.35"
+        }
+      }
+    },
+    {
+      "id": "anime-62582",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.76",
+          "after": "8.17"
+        }
+      }
+    },
+    {
+      "id": "anime-63423",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "7.26",
+          "after": "7.29"
+        }
+      }
+    },
+    {
+      "id": "anime-61440",
+      "season": "autumn-2026",
+      "changes": {
+        "duration": {
+          "before": "0 min",
+          "after": "25 min"
+        },
+        "score": {
+          "before": "7.62",
+          "after": "7.59"
+        }
+      }
+    },
+    {
+      "id": "anime-65111",
+      "season": "autumn-2026",
+      "changes": {
+        "score": {
+          "before": "6.62",
+          "after": "6.61"
+        }
+      }
+    },
+    {
+      "id": "anime-59978",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "8.84",
+          "after": "8.83"
+        }
+      }
+    },
+    {
+      "id": "anime-59047",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.80",
+          "after": "7.79"
+        }
+      }
+    },
+    {
+      "id": "anime-61549",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.78",
+          "after": "6.79"
+        }
+      }
+    },
+    {
+      "id": "anime-54863",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.75",
+          "after": "6.76"
+        }
+      }
+    },
+    {
+      "id": "anime-61359",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.39",
+          "after": "6.38"
+        }
+      }
+    },
+    {
+      "id": "anime-58861",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.93",
+          "after": "6.94"
+        }
+      }
+    },
+    {
+      "id": "anime-59853",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.38",
+          "after": "6.39"
+        }
+      }
+    },
+    {
+      "id": "anime-61886",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.76",
+          "after": "6.77"
+        }
+      }
+    },
+    {
+      "id": "anime-62804",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "5.66",
+          "after": "5.67"
+        }
+      }
+    },
+    {
+      "id": "anime-63087",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "5.80",
+          "after": "5.79"
+        }
+      }
+    },
+    {
+      "id": "anime-62649",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.55",
+          "after": "6.54"
+        }
+      }
+    },
+    {
+      "id": "anime-62521",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "5.77",
+          "after": "5.75"
+        }
+      }
+    },
+    {
+      "id": "anime-61765",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "0",
+          "after": "6.68"
+        }
+      }
+    },
+    {
+      "id": "anime-63019",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "8.45",
+          "after": "8.44"
+        }
+      }
+    },
+    {
+      "id": "anime-54697",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.68",
+          "after": "6.69"
+        }
+      }
+    },
+    {
+      "id": "anime-60591",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.92",
+          "after": "6.91"
+        }
+      }
+    },
+    {
+      "id": "anime-62246",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.89",
+          "after": "6.88"
+        }
+      }
+    },
+    {
+      "id": "anime-61107",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.05",
+          "after": "7.04"
+        }
+      }
+    },
+    {
+      "id": "anime-60587",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.14",
+          "after": "7.12"
+        }
+      }
+    },
+    {
+      "id": "anime-63396",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.29",
+          "after": "7.31"
+        }
+      }
+    },
+    {
+      "id": "anime-60191",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.76",
+          "after": "7.77"
+        }
+      }
+    },
+    {
+      "id": "anime-64008",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.21",
+          "after": "6.20"
+        }
+      }
+    },
+    {
+      "id": "anime-62728",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "8.09",
+          "after": "8.10"
+        }
+      }
+    },
+    {
+      "id": "anime-62863",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.84",
+          "after": "6.85"
+        }
+      }
+    },
+    {
+      "id": "anime-63414",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.06",
+          "after": "7.07"
+        }
+      }
+    },
+    {
+      "id": "anime-62955",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.28",
+          "after": "7.32"
+        }
+      }
+    },
+    {
+      "id": "anime-63151",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.83",
+          "after": "6.84"
+        }
+      }
+    },
+    {
+      "id": "anime-63558",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.55",
+          "after": "6.59"
+        }
+      }
+    },
+    {
+      "id": "anime-61599",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.25",
+          "after": "7.24"
+        }
+      }
+    },
+    {
+      "id": "anime-63074",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.57",
+          "after": "7.56"
+        }
+      }
+    },
+    {
+      "id": "anime-62686",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.68",
+          "after": "6.69"
+        }
+      }
+    },
+    {
+      "id": "anime-63159",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.09",
+          "after": "6.08"
+        }
+      }
+    },
+    {
+      "id": "anime-63158",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.62",
+          "after": "6.61"
+        }
+      }
+    },
+    {
+      "id": "anime-63026",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "5.84",
+          "after": "5.83"
+        }
+      }
+    },
+    {
+      "id": "anime-63232",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "5.97",
+          "after": "5.94"
+        }
+      }
+    },
+    {
+      "id": "anime-63027",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.23",
+          "after": "6.22"
+        }
+      }
+    },
+    {
+      "id": "anime-59971",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.12",
+          "after": "7.13"
+        }
+      }
+    },
+    {
+      "id": "anime-38716",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.77",
+          "after": "7.76"
+        }
+      }
+    },
+    {
+      "id": "anime-62518",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "7.69",
+          "after": "7.68"
+        }
+      }
+    },
+    {
+      "id": "anime-61418",
+      "season": "winter-2026",
+      "changes": {
+        "genres": {
+          "before": [],
+          "after": [
+            "Drama"
+          ]
+        },
+        "score": {
+          "before": "6.81",
+          "after": "6.84"
+        }
+      }
+    },
+    {
+      "id": "anime-61964",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "5.75",
+          "after": "5.77"
+        }
+      }
+    },
+    {
+      "id": "anime-65203",
+      "season": "winter-2026",
+      "changes": {
+        "source": {
+          "before": "",
+          "after": "Manga"
+        }
+      }
+    },
+    {
+      "id": "anime-63504",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.54",
+          "after": "6.55"
+        }
+      }
+    },
+    {
+      "id": "anime-63806",
+      "season": "winter-2026",
+      "changes": {
+        "score": {
+          "before": "6.07",
+          "after": "6.08"
+        }
+      }
+    }
+  ],
+  "retainedHistorical": [
+    {
+      "season": "summer-2026",
+      "id": "anime-62654"
+    },
+    {
+      "season": "autumn-2026",
+      "id": "anime-62654"
+    },
+    {
+      "season": "autumn-2026",
+      "id": "anime-62875"
+    }
+  ],
+  "seasons": [
+    {
+      "key": "summer-2026",
+      "entries": 265
+    },
+    {
+      "key": "autumn-2026",
+      "entries": 181
+    },
+    {
+      "key": "winter-2026",
+      "entries": 230
+    },
+    {
+      "key": "winter-2027",
+      "entries": 67
+    },
+    {
+      "key": "spring-2027",
+      "entries": 21
+    }
+  ]
+}

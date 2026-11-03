@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:35:02.044975+01:00",
+  "updatedAt": "2026-11-04T00:19:19.690285+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-02T07:35:02.044975+01:00",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-02T07:35:02.044975+01:00",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
       "status": "ok"
     },
     {
@@ -23,15 +23,15 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-10-26T07:10:37.868149+01:00",
-      "status": "error"
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
+      "status": "ok"
     },
     {
       "id": "yen-press",
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-02T07:35:02.044975+01:00",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-02T07:35:02.044975+01:00",
+      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
       "status": "ok"
     }
   ],
@@ -3271,24 +3271,24 @@
     },
     {
       "date": "2026-11-05",
-      "title": "Jujutsu Kaisen - Sorcery Fight Modulo 1",
-      "series": "Jujutsu Kaisen - Sorcery Fight Modulo",
-      "publisher": "Panini Comics",
+      "title": "Ascendance of a Bookworm – Se non ci sono libri, me li creerò da sola! 2",
+      "series": "Ascendance of a Bookworm – Se non ci sono libri, me li creerò da sola!",
+      "publisher": "Ishi Publishing",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112063/jujutsu-kaisen-sorcery-fight-modulo",
+      "url": "https://www.animeclick.it/edizione/3112672/ascendance-of-a-bookworm-se-non-ci-sono-libri-me-li-creer%C3%B2-da-sola",
       "sourceId": "animeclick-manga"
     },
     {
       "date": "2026-11-05",
-      "title": "Jujutsu Kaisen Bundle",
-      "series": "Jujutsu Kaisen - Sorcery Fight Modulo",
-      "publisher": "Panini Comics",
+      "title": "Il casco della principessa: Racconti 1987-2022",
+      "series": "Il casco della principessa: Racconti 1987-2022",
+      "publisher": "Ishi Publishing",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112064/jujutsu-kaisen-bundle",
+      "url": "https://www.animeclick.it/edizione/3112674/il-casco-della-principessa-racconti-1987-2022",
       "sourceId": "animeclick-manga"
     },
     {
@@ -3326,46 +3326,13 @@
     },
     {
       "date": "2026-11-05",
-      "title": "Pineapple Army 1",
-      "series": "Pineapple Army",
-      "publisher": "Panini Comics",
+      "title": "ReLIFE 8",
+      "series": "ReLIFE",
+      "publisher": "Ishi Publishing",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112067/pineapple-army",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Pineapple Army 2",
-      "series": "Pineapple Army",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112068/pineapple-army",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Pineapple Army 3",
-      "series": "Pineapple Army",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112069/pineapple-army",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Pineapple Army Cofanetto",
-      "series": "Pineapple Army",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112070/pineapple-army-cofanetto",
+      "url": "https://www.animeclick.it/edizione/3109466/relife",
       "sourceId": "animeclick-manga"
     },
     {
@@ -4268,6 +4235,28 @@
     },
     {
       "date": "2026-11-12",
+      "title": "Centuria 8",
+      "series": "Centuria",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112329/centuria",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Chainsaw Man Christmas Variant 1",
+      "series": "Chainsaw Man",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112298/chainsaw-man-christmas-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-12",
       "title": "Daidara 2",
       "series": "Daidara",
       "publisher": "Panini Comics",
@@ -4286,6 +4275,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112794/insieme-per-sempre",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Kaijin Fugeki - Kindled Spirits 6",
+      "series": "Kaijin Fugeki - Kindled Spirits",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112327/kaijin-fugeki-kindled-spirits",
       "sourceId": "animeclick-manga"
     },
     {
@@ -4323,6 +4323,17 @@
     },
     {
       "date": "2026-11-12",
+      "title": "Lavanderia Minato - Wash my Heart! 6",
+      "series": "Lavanderia Minato - Wash my Heart!",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112360/lavanderia-minato-wash-my-heart",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-12",
       "title": "Love You",
       "series": "Love You",
       "publisher": "Magic Press",
@@ -4330,6 +4341,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112800/love-you",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Naruto Christmas Variant 1",
+      "series": "Naruto",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112297/naruto-christmas-variant",
       "sourceId": "animeclick-manga"
     },
     {
@@ -4363,6 +4385,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112315/one-punch-man-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Otr of the Flame 3",
+      "series": "Otr of the Flame",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112317/otr-of-the-flame",
       "sourceId": "animeclick-manga"
     },
     {
@@ -4591,18 +4624,6 @@
     },
     {
       "date": "2026-11-17",
-      "title": "Reluctant Space Commander: From Death Wish to Galactic Hero! (Light Novel) Vol. 2 [Ebook]",
-      "series": "Reluctant Space Commander: From Death Wish to Galactic Hero! (Light Novel) Vol. 2 [Ebook]",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "",
-      "url": "https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-2-ebook/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-17",
       "title": "Remnant: The Beastmen Omegaverse Saga Vol. 2",
       "series": "Remnant: The Beastmen Omegaverse Saga Vol. 2",
       "publisher": "Seven Seas",
@@ -4737,28 +4758,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3111916/honey-lemon-soda-sparkling-love-story",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: Time Odyssey - Collector Edition 4",
-      "series": "Saint Seiya - Time Odyssey",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111721/i-cavalieri-dello-zodiaco-saint-seiya-time-odyssey-collector-edition",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: Time Odyssey 4",
-      "series": "Saint Seiya - Time Odyssey",
-      "publisher": "Star Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111720/i-cavalieri-dello-zodiaco-saint-seiya-time-odyssey",
       "sourceId": "animeclick-manga"
     },
     {
@@ -5026,6 +5025,17 @@
       "sourceId": "animeclick-manga"
     },
     {
+      "date": "2026-11-18",
+      "title": "Yano-kun's Ordinary Days 8",
+      "series": "Yano-kun's Ordinary Days",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111138/yano-kuns-ordinary-days",
+      "sourceId": "animeclick-manga"
+    },
+    {
       "date": "2026-11-19",
       "title": "Being Famous Is NEET! Going Sister-Rank on Livestream Volume 1",
       "series": "Being Famous Is NEET! Going Sister-Rank on Livestream",
@@ -5049,15 +5059,115 @@
     },
     {
       "date": "2026-11-19",
+      "title": "Reluctant Space Commander: From Death Wish to Galactic Hero! (Light Novel) Vol. 2 [Ebook]",
+      "series": "Reluctant Space Commander: From Death Wish to Galactic Hero! (Light Novel) Vol. 2 [Ebook]",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "",
+      "url": "https://sevenseasentertainment.com/books/reluctant-space-commander-from-death-wish-to-galactic-hero-light-novel-vol-2-ebook/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-11-19",
       "title": "The Faceless Mercenary Wants to Settle Down: Homestead at the Edge of the Galaxy (Light Novel) Vol. 1 [Ebook]",
       "series": "The Faceless Mercenary Wants to Settle Down: Homestead at the Edge of the Galaxy (Light Novel) Vol. 1 [Ebook]",
       "publisher": "Seven Seas",
       "language": "EN",
       "kind": "novel",
       "edition": "Cartaceo · mercato anglofono",
-      "isbn": "N/A",
+      "isbn": "",
       "url": "https://sevenseasentertainment.com/books/the-faceless-mercenary-wants-to-settle-down-homestead-at-the-edge-of-the-galaxy-light-novel-vol-1-ebook/",
       "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Blade & Bastard 8",
+      "series": "Blade & Bastard",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112346/blade-bastard",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Bug Ego 3",
+      "series": "Bug Ego",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112318/bug-ego",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "D.Gray-man 7",
+      "series": "D.Gray-man",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112352/d.gray-man",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Dead Account 12",
+      "series": "Dead Account",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112331/dead-account",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Jumbo Max 15",
+      "series": "Jumbo Max",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112349/jumbo-max",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Magical Girl Dandelion 4",
+      "series": "Magical Girl Dandelion",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112319/magical-girl-dandelion",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Mujina into the Deep 6",
+      "series": "MUJINA INTO THE DEEP",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112345/mujina-into-the-deep",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Mushoku Tensei - Depressed Magician 3",
+      "series": "Mushoku Tensei - Depressed Magician",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112344/mushoku-tensei-depressed-magician",
+      "sourceId": "animeclick-manga"
     },
     {
       "date": "2026-11-19",
@@ -5072,6 +5182,149 @@
     },
     {
       "date": "2026-11-19",
+      "title": "Natsume degli spiriti 33",
+      "series": "Natsume degli spiriti",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112367/natsume-degli-spiriti",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Noblesse Cofanetto Stagione 7",
+      "series": "Noblesse",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112353/noblesse-cofanetto-stagione-7",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Noblesse Stagione 7 1",
+      "series": "Noblesse",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112354/noblesse-stagione-7",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Noblesse Stagione 7 2",
+      "series": "Noblesse",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112355/noblesse-stagione-7",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Noblesse Stagione 7 3",
+      "series": "Noblesse",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112356/noblesse-stagione-7",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Noblesse Stagione 7 4",
+      "series": "Noblesse",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112357/noblesse-stagione-7",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Noblesse Stagione 7 5",
+      "series": "Noblesse",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112358/noblesse-stagione-7",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Noblesse Stagione 7 6",
+      "series": "Noblesse",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112359/noblesse-stagione-7",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Omniscient Reader's Viewpoint 8",
+      "series": "Omniscient Reader's Viewpoint",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112325/omniscient-readers-viewpoint",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Otherside Picnic 16",
+      "series": "Otherside Picnic",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112335/otherside-picnic",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Shigurui New Edition 8",
+      "series": "Shigurui - Le spade della vendetta",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112330/shigurui-new-edition",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Shinobi Undercover 1",
+      "series": "Shinobi Undercover",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112300/shinobi-undercover",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Shinobi Undercover Variant 1",
+      "series": "Shinobi Undercover",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112301/shinobi-undercover-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
       "title": "Silent Möbius Complete Edition – Tales 13",
       "series": "Silent Möbius Tales",
       "publisher": "Magic Press",
@@ -5079,6 +5332,61 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112791/silent-m%C3%B6bius-complete-edition-tales",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Spring Storm and Monster 10",
+      "series": "Spring Storm and Monster",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112366/spring-storm-and-monster",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "The Bugle Call 13",
+      "series": "The Bugle Call",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112333/the-bugle-call",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "The World After the Fall 7",
+      "series": "The World After the Fall",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112324/the-world-after-the-fall",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Trigun 1",
+      "series": "Trigun",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112306/trigun",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Trigun 2",
+      "series": "Trigun",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112307/trigun",
       "sourceId": "animeclick-manga"
     },
     {
@@ -5124,6 +5432,50 @@
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112230/tokyo-tarareba-girls",
       "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Elegance in Exile: From Alchemy to Luxury with My Ardent Knight Volume 1",
+      "series": "Elegance in Exile: From Alchemy to Luxury with My Ardent Knight",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/elegance-in-exile-from-alchemy-to-luxury-with-my-ardent-knight#volume-1",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Formerly, the Fallen Daughter of the Duke: Volume 7",
+      "series": "Formerly, the Fallen Daughter of the Duke",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/formerly-the-fallen-daughter-of-the-duke#volume-7",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Invaders of the Rokujouma!? Volume 49",
+      "series": "Invaders of the Rokujouma!?",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/invaders-of-the-rokujouma#volume-51",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Middle-Aged and Mid No More: Rising in Ranks over Drinks with an Elite Priest Volume 1",
+      "series": "Middle-Aged and Mid No More: Rising in Ranks over Drinks with an Elite Priest",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/middle-aged-and-mid-no-more-rising-in-ranks-over-drinks-with-an-elite-priest#volume-1",
+      "sourceId": "j-novel-club"
     },
     {
       "date": "2026-11-23",
@@ -5252,18 +5604,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City (Manga) Vol. 8",
-      "series": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City (Manga) Vol. 8",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-179-6",
-      "url": "https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-manga-vol-8/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Everything for Demon King Evelogia Vol. 3",
       "series": "Everything for Demon King Evelogia Vol. 3",
       "publisher": "Seven Seas",
@@ -5288,18 +5628,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 1",
-      "series": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-470-4",
-      "url": "https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "He Was My Brother, Vol. 1",
       "series": "He Was My Brother, Vol. 1",
       "publisher": "Yen Press / distribuzione Yen Press",
@@ -5308,42 +5636,6 @@
       "edition": "Edizione EN · formato nella scheda editore",
       "url": "https://yenpress.com/titles/9798855442915-he-was-my-brother-vol-1",
       "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Light Novel) Vol. 2",
-      "series": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Light Novel) Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-440-6",
-      "url": "https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Manga) Vol. 2",
-      "series": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Manga) Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-438-3",
-      "url": "https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-manga-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Hokkaido Gals Are Super Adorable! (Omnibus) Vol. 7-8",
-      "series": "Hokkaido Gals Are Super Adorable! (Omnibus) Vol. 7-8",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-865-3",
-      "url": "https://sevenseasentertainment.com/books/hokkaido-gals-are-super-adorable-omnibus-vol-7-8/",
-      "sourceId": "seven-seas"
     },
     {
       "date": "2026-11-24",
@@ -5370,18 +5662,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "I Don’t Know, Yoshida Vol. 1",
-      "series": "I Don’t Know, Yoshida Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-568-7",
-      "url": "https://sevenseasentertainment.com/books/i-dont-know-yoshida-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "I Got Married to the Girl I Hate Most in Class (Light Novel) Vol. 4",
       "series": "I Got Married to the Girl I Hate Most in Class (Light Novel) Vol. 4",
       "publisher": "Seven Seas",
@@ -5390,18 +5670,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89561-764-9",
       "url": "https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-light-novel-vol-4/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "I Like Villains, so I Reincarnated as One (Light Novel) Vol. 3",
-      "series": "I Like Villains, so I Reincarnated as One (Light Novel) Vol. 3",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-521-8",
-      "url": "https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/",
       "sourceId": "seven-seas"
     },
     {
@@ -5472,18 +5740,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Lazy Girl Momogusa Vol. 1",
-      "series": "Lazy Girl Momogusa Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-495-7",
-      "url": "https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Let This Grieving Soul Retire, Vol. 11 (manga): Woe Is the Weakling Who Leads the Strongest Party",
       "series": "Let This Grieving Soul Retire, Vol. 11 (manga): Woe Is the Weakling Who Leads the Strongest Party",
       "publisher": "Yen Press / distribuzione Yen Press",
@@ -5528,18 +5784,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Marriage to the Wolf: An Interspecies Union Vol. 2",
-      "series": "Marriage to the Wolf: An Interspecies Union Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-762-9",
-      "url": "https://sevenseasentertainment.com/books/marriage-to-the-wolf-an-interspecies-union-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Min-Maxing My TRPG Build in Another World: Volume 1 (Light Novel)",
       "series": "Min-Maxing My TRPG Build in Another World: Volume 1 (Light Novel)",
       "publisher": "Yen Press / distribuzione Yen Press",
@@ -5548,30 +5792,6 @@
       "edition": "Edizione EN · formato nella scheda editore",
       "url": "https://yenpress.com/titles/9781718323957-min-maxing-my-trpg-build-in-another-world-volume-1-light-novel",
       "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love Vol. 1",
-      "series": "Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-475-9",
-      "url": "https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Mistress Kanan is Devilishly Easy (Omnibus) Vol. 3-4",
-      "series": "Mistress Kanan is Devilishly Easy (Omnibus) Vol. 3-4",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-921-0",
-      "url": "https://sevenseasentertainment.com/books/mistress-kanan-is-devilishly-easy-omnibus-vol-3-4/",
-      "sourceId": "seven-seas"
     },
     {
       "date": "2026-11-24",
@@ -5667,18 +5887,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Raul and His Vampire Prince Vol. 2",
-      "series": "Raul and His Vampire Prince Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-935-7",
-      "url": "https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Re-Living My Life with a Boyfriend Who Doesn’t Remember Me (Manga) Vol. 7",
       "series": "Re-Living My Life with a Boyfriend Who Doesn’t Remember Me (Manga) Vol. 7",
       "publisher": "Seven Seas",
@@ -5691,54 +5899,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body (Manga) Vol. 4",
-      "series": "Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body (Manga) Vol. 4",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-226-7",
-      "url": "https://sevenseasentertainment.com/books/rebel-hero-i-will-use-my-skills-to-control-the-scheming-princesss-heart-and-body-manga-vol-4/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Manga) Vol. 11",
-      "series": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Manga) Vol. 11",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-228-1",
-      "url": "https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-manga-vol-11/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Ripples in the River Vol. 4",
-      "series": "Ripples in the River Vol. 4",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-395-5",
-      "url": "https://sevenseasentertainment.com/books/ripples-in-the-river-vol-4/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Servamp Vol. 24",
-      "series": "Servamp Vol. 24",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-775-5",
-      "url": "https://sevenseasentertainment.com/books/servamp-vol-24/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Shadows House, Vol. 12",
       "series": "Shadows House, Vol. 12",
       "publisher": "Yen Press / distribuzione Yen Press",
@@ -5747,30 +5907,6 @@
       "edition": "Edizione EN · formato nella scheda editore",
       "url": "https://yenpress.com/titles/9798855403510-shadows-house-vol-12",
       "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Slime Saint Vol. 1",
-      "series": "Slime Saint Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-499-5",
-      "url": "https://sevenseasentertainment.com/books/slime-saint-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Stranger: A BL Western",
-      "series": "Stranger: A BL Western",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-482-7",
-      "url": "https://sevenseasentertainment.com/books/stranger-a-bl-western/",
-      "sourceId": "seven-seas"
     },
     {
       "date": "2026-11-24",
@@ -5841,18 +5977,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "The Lucky Egg Game: Cai Dan You Xi (Novel) Book 2: Death Loop",
-      "series": "The Lucky Egg Game: Cai Dan You Xi (Novel) Book 2: Death Loop",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-457-4",
-      "url": "https://sevenseasentertainment.com/books/the-lucky-egg-game-cai-dan-you-xi-novel-book-2-death-loop/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "The Most Heretical Last Boss Queen: From Villainess to Savior (Light Novel) Vol. 11",
       "series": "The Most Heretical Last Boss Queen: From Villainess to Savior (Light Novel) Vol. 11",
       "publisher": "Seven Seas",
@@ -5900,18 +6024,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "The Twelve Kingdoms Book 7 – The Birds of Hisho (Novel)",
-      "series": "The Twelve Kingdoms Book 7 – The Birds of Hisho (Novel)",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-411-2",
-      "url": "https://sevenseasentertainment.com/books/the-twelve-kingdoms-book-7-the-birds-of-hisho-novel/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "The Water Magician: Arc 1 Volume 3 (Light Novel)",
       "series": "The Water Magician: Arc 1 Volume 3 (Light Novel)",
       "publisher": "Yen Press / distribuzione Yen Press",
@@ -5934,18 +6046,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Trapezium (Light Novel)",
-      "series": "Trapezium (Light Novel)",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-506-0",
-      "url": "https://sevenseasentertainment.com/books/trapezium-light-novel/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Tsubaki-chou Lonely Planet, Vol. 13",
       "series": "Tsubaki-chou Lonely Planet, Vol. 13",
       "publisher": "Yen Press / distribuzione Yen Press",
@@ -5954,30 +6054,6 @@
       "edition": "Edizione EN · formato nella scheda editore",
       "url": "https://yenpress.com/titles/9781975346447-tsubaki-chou-lonely-planet-vol-13",
       "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Uesugi-kun Wants to Quit Being a Girl Vol. 2",
-      "series": "Uesugi-kun Wants to Quit Being a Girl Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-950-0",
-      "url": "https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Wakaba Won’t Give Up! Vol. 2",
-      "series": "Wakaba Won’t Give Up! Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-735-9",
-      "url": "https://sevenseasentertainment.com/books/wakaba-wont-give-up-vol-2/",
-      "sourceId": "seven-seas"
     },
     {
       "date": "2026-11-24",
@@ -6001,42 +6077,6 @@
       "edition": "Edizione EN · formato nella scheda editore",
       "url": "https://yenpress.com/titles/9798855434927-witch-and-hound-vol-1",
       "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Witch and Mercenary (Light Novel) Vol. 7",
-      "series": "Witch and Mercenary (Light Novel) Vol. 7",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-271-7",
-      "url": "https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-7/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "World’s End Harem: Fantasia Vol. 16",
-      "series": "World’s End Harem: Fantasia Vol. 16",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-736-6",
-      "url": "https://sevenseasentertainment.com/books/worlds-end-harem-fantasia-vol-16/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Yoichi and Tsugumo: Book 1",
-      "series": "Yoichi and Tsugumo: Book 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-484-1",
-      "url": "https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/",
-      "sourceId": "seven-seas"
     },
     {
       "date": "2026-11-24",
@@ -6124,6 +6164,28 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112165/haikyu-club",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: Time Odyssey - Collector Edition 4",
+      "series": "Saint Seiya - Time Odyssey",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111721/i-cavalieri-dello-zodiaco-saint-seiya-time-odyssey-collector-edition",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: Time Odyssey 4",
+      "series": "Saint Seiya - Time Odyssey",
+      "publisher": "Star Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111720/i-cavalieri-dello-zodiaco-saint-seiya-time-odyssey",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6428,6 +6490,18 @@
     },
     {
       "date": "2026-12-01",
+      "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City (Manga) Vol. 8",
+      "series": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City (Manga) Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-179-6",
+      "url": "https://sevenseasentertainment.com/books/easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city-manga-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
       "title": "Fluffy Café in Another World (Manga) Vol. 4",
       "series": "Fluffy Café in Another World (Manga) Vol. 4",
       "publisher": "Seven Seas",
@@ -6448,6 +6522,78 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-468-1",
       "url": "https://sevenseasentertainment.com/books/golden-assistant-jinpai-zhuli-novel-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 1",
+      "series": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-470-4",
+      "url": "https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Light Novel) Vol. 2",
+      "series": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Light Novel) Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-440-6",
+      "url": "https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-light-novel-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Manga) Vol. 2",
+      "series": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Manga) Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-438-3",
+      "url": "https://sevenseasentertainment.com/books/history-of-the-kingdom-of-orcsen-how-the-barbarian-orcish-nation-came-to-burn-down-the-peaceful-elfland-manga-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Hokkaido Gals Are Super Adorable! (Omnibus) Vol. 7-8",
+      "series": "Hokkaido Gals Are Super Adorable! (Omnibus) Vol. 7-8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-865-3",
+      "url": "https://sevenseasentertainment.com/books/hokkaido-gals-are-super-adorable-omnibus-vol-7-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "I Don’t Know, Yoshida Vol. 1",
+      "series": "I Don’t Know, Yoshida Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-568-7",
+      "url": "https://sevenseasentertainment.com/books/i-dont-know-yoshida-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "I Like Villains, so I Reincarnated as One (Light Novel) Vol. 3",
+      "series": "I Like Villains, so I Reincarnated as One (Light Novel) Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-521-8",
+      "url": "https://sevenseasentertainment.com/books/i-like-villains-so-i-reincarnated-as-one-light-novel-vol-3/",
       "sourceId": "seven-seas"
     },
     {
@@ -6512,14 +6658,14 @@
     },
     {
       "date": "2026-12-01",
-      "title": "Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines (Light Novel) Vol. 1 [Ebook]",
-      "series": "Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines (Light Novel) Vol. 1 [Ebook]",
+      "title": "Lazy Girl Momogusa Vol. 1",
+      "series": "Lazy Girl Momogusa Vol. 1",
       "publisher": "Seven Seas",
       "language": "EN",
-      "kind": "novel",
+      "kind": "manga",
       "edition": "Cartaceo · mercato anglofono",
-      "isbn": "",
-      "url": "https://sevenseasentertainment.com/books/legend-of-the-accidental-sword-saint-playing-the-mentor-from-the-sidelines-light-novel-vol-1-ebook/",
+      "isbn": "979-8-89863-495-7",
+      "url": "https://sevenseasentertainment.com/books/lazy-girl-momogusa-vol-1/",
       "sourceId": "seven-seas"
     },
     {
@@ -6572,6 +6718,42 @@
     },
     {
       "date": "2026-12-01",
+      "title": "Marriage to the Wolf: An Interspecies Union Vol. 2",
+      "series": "Marriage to the Wolf: An Interspecies Union Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-762-9",
+      "url": "https://sevenseasentertainment.com/books/marriage-to-the-wolf-an-interspecies-union-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love Vol. 1",
+      "series": "Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-475-9",
+      "url": "https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Mistress Kanan is Devilishly Easy (Omnibus) Vol. 3-4",
+      "series": "Mistress Kanan is Devilishly Easy (Omnibus) Vol. 3-4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-921-0",
+      "url": "https://sevenseasentertainment.com/books/mistress-kanan-is-devilishly-easy-omnibus-vol-3-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
       "title": "My Cat’s Aura is Strong Today Vol. 2",
       "series": "My Cat’s Aura is Strong Today Vol. 2",
       "publisher": "Seven Seas",
@@ -6604,6 +6786,54 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-931-9",
       "url": "https://sevenseasentertainment.com/books/puniru-is-a-kawaii-slime-omnibus-vol-3-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Raul and His Vampire Prince Vol. 2",
+      "series": "Raul and His Vampire Prince Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-935-7",
+      "url": "https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body (Manga) Vol. 4",
+      "series": "Rebel Hero: I Will Use My Skills to Control the Scheming Princess’s Heart and Body (Manga) Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-226-7",
+      "url": "https://sevenseasentertainment.com/books/rebel-hero-i-will-use-my-skills-to-control-the-scheming-princesss-heart-and-body-manga-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Manga) Vol. 11",
+      "series": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Manga) Vol. 11",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-228-1",
+      "url": "https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-manga-vol-11/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Ripples in the River Vol. 4",
+      "series": "Ripples in the River Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-395-5",
+      "url": "https://sevenseasentertainment.com/books/ripples-in-the-river-vol-4/",
       "sourceId": "seven-seas"
     },
     {
@@ -6644,6 +6874,18 @@
     },
     {
       "date": "2026-12-01",
+      "title": "Servamp Vol. 24",
+      "series": "Servamp Vol. 24",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-775-5",
+      "url": "https://sevenseasentertainment.com/books/servamp-vol-24/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
       "title": "Space Orc: Barbarian Raider of the Stars, Aiming for the Queen! (Light Novel) Vol. 2",
       "series": "Space Orc: Barbarian Raider of the Stars, Aiming for the Queen! (Light Novel) Vol. 2",
       "publisher": "Seven Seas",
@@ -6652,6 +6894,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-938-8",
       "url": "https://sevenseasentertainment.com/books/space-orc-barbarian-raider-of-the-stars-aiming-for-the-queen-light-novel-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Stranger: A BL Western",
+      "series": "Stranger: A BL Western",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-482-7",
+      "url": "https://sevenseasentertainment.com/books/stranger-a-bl-western/",
       "sourceId": "seven-seas"
     },
     {
@@ -6716,6 +6970,18 @@
     },
     {
       "date": "2026-12-01",
+      "title": "The Twelve Kingdoms Book 7 – The Birds of Hisho (Novel)",
+      "series": "The Twelve Kingdoms Book 7 – The Birds of Hisho (Novel)",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-411-2",
+      "url": "https://sevenseasentertainment.com/books/the-twelve-kingdoms-book-7-the-birds-of-hisho-novel/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
       "title": "The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins (Manga) Vol. 1",
       "series": "The Wicked Princess and Her Twelve Eyes: The Legendary Villainess and Her Elite Assassins (Manga) Vol. 1",
       "publisher": "Seven Seas",
@@ -6724,6 +6990,78 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-091-5",
       "url": "https://sevenseasentertainment.com/books/the-wicked-princess-and-her-twelve-eyes-the-legendary-villainess-and-her-elite-assassins-manga-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Trapezium (Light Novel)",
+      "series": "Trapezium (Light Novel)",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-506-0",
+      "url": "https://sevenseasentertainment.com/books/trapezium-light-novel/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Uesugi-kun Wants to Quit Being a Girl Vol. 2",
+      "series": "Uesugi-kun Wants to Quit Being a Girl Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-950-0",
+      "url": "https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Wakaba Won’t Give Up! Vol. 2",
+      "series": "Wakaba Won’t Give Up! Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-735-9",
+      "url": "https://sevenseasentertainment.com/books/wakaba-wont-give-up-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "World’s End Harem: Fantasia Vol. 16",
+      "series": "World’s End Harem: Fantasia Vol. 16",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-736-6",
+      "url": "https://sevenseasentertainment.com/books/worlds-end-harem-fantasia-vol-16/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Yoichi and Tsugumo: Book 1",
+      "series": "Yoichi and Tsugumo: Book 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-484-1",
+      "url": "https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines (Light Novel) Vol. 1 [Ebook]",
+      "series": "Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines (Light Novel) Vol. 1 [Ebook]",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "",
+      "url": "https://sevenseasentertainment.com/books/legend-of-the-accidental-sword-saint-playing-the-mentor-from-the-sidelines-light-novel-vol-1-ebook/",
       "sourceId": "seven-seas"
     },
     {
@@ -6944,6 +7282,18 @@
     },
     {
       "date": "2026-12-08",
+      "title": "Slime Saint Vol. 1",
+      "series": "Slime Saint Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-499-5",
+      "url": "https://sevenseasentertainment.com/books/slime-saint-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-08",
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Vol. 20",
       "series": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Vol. 20",
       "publisher": "Seven Seas",
@@ -6980,6 +7330,18 @@
     },
     {
       "date": "2026-12-08",
+      "title": "The Lucky Egg Game: Cai Dan You Xi (Novel) Book 2: Death Loop",
+      "series": "The Lucky Egg Game: Cai Dan You Xi (Novel) Book 2: Death Loop",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-457-4",
+      "url": "https://sevenseasentertainment.com/books/the-lucky-egg-game-cai-dan-you-xi-novel-book-2-death-loop/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-08",
       "title": "The Tale of a Little Alchemist Blessed by the Spirits (Light Novel) Vol. 4",
       "series": "The Tale of a Little Alchemist Blessed by the Spirits (Light Novel) Vol. 4",
       "publisher": "Seven Seas",
@@ -7000,6 +7362,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-687-6",
       "url": "https://sevenseasentertainment.com/books/theres-no-freaking-way-ill-be-your-lover-unless-more-stories-to-love-light-novel/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Witch and Mercenary (Light Novel) Vol. 7",
+      "series": "Witch and Mercenary (Light Novel) Vol. 7",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-271-7",
+      "url": "https://sevenseasentertainment.com/books/witch-and-mercenary-light-novel-vol-7/",
       "sourceId": "seven-seas"
     },
     {
@@ -10052,6 +10426,18 @@
     },
     {
       "date": "2027-03-18",
+      "title": "Sagrada Reset Book 1 – A Cat, a Ghost, and a Revolutionary Sunday (Light Novel) [Ebook]",
+      "series": "Sagrada Reset Book 1 – A Cat, a Ghost, and a Revolutionary Sunday (Light Novel) [Ebook]",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "N/A",
+      "url": "https://sevenseasentertainment.com/books/sagrada-reset-book-1-a-cat-a-ghost-and-a-revolutionary-sunday-light-novel-ebook/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-18",
       "title": "The One-Eyed, One-Armed, One-Legged Sorcerer (Light Novel) Vol. 2 [Ebook]",
       "series": "The One-Eyed, One-Armed, One-Legged Sorcerer (Light Novel) Vol. 2 [Ebook]",
       "publisher": "Seven Seas",
@@ -10544,6 +10930,18 @@
     },
     {
       "date": "2027-04-06",
+      "title": "Influencer Hero: After Saving Another World, I Got Rich Streaming Dungeons! (Manga) Vol. 1",
+      "series": "Influencer Hero: After Saving Another World, I Got Rich Streaming Dungeons! (Manga) Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-669-6",
+      "url": "https://sevenseasentertainment.com/books/influencer-hero-after-saving-another-world-i-got-rich-streaming-dungeons-manga-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-06",
       "title": "Lazy Girl Momogusa Vol. 2",
       "series": "Lazy Girl Momogusa Vol. 2",
       "publisher": "Seven Seas",
@@ -10568,6 +10966,18 @@
     },
     {
       "date": "2027-04-06",
+      "title": "Mii-chan and Miss Yamada Vol. 2",
+      "series": "Mii-chan and Miss Yamada Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-550-3",
+      "url": "https://sevenseasentertainment.com/books/mii-chan-and-miss-yamada-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-06",
       "title": "My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won’t Leave Me Alone (Manga) Vol. 2",
       "series": "My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won’t Leave Me Alone (Manga) Vol. 2",
       "publisher": "Seven Seas",
@@ -10576,6 +10986,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-462-8",
       "url": "https://sevenseasentertainment.com/books/my-girlfriend-cheated-on-me-and-now-my-flirty-underclassman-wont-leave-me-alone-manga-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-06",
+      "title": "Romelia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory (Manga) Vol. 5",
+      "series": "Romelia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory (Manga) Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-326-4",
+      "url": "https://sevenseasentertainment.com/books/romelia-war-chronicle-the-counts-daughter-rallies-an-army-in-the-wake-of-mankinds-victory-manga-vol-5/",
       "sourceId": "seven-seas"
     },
     {
@@ -10624,6 +11046,282 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-670-2",
       "url": "https://sevenseasentertainment.com/books/what-if-my-human-didnt-come-home/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-08",
+      "title": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Light Novel) Vol. 2 [Ebook]",
+      "series": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Light Novel) Vol. 2 [Ebook]",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "",
+      "url": "https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-light-novel-vol-2-ebook/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Al the Adventurer: That Magic Shouldn’t Work! (Manga) Vol. 3",
+      "series": "Al the Adventurer: That Magic Shouldn’t Work! (Manga) Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-028-7",
+      "url": "https://sevenseasentertainment.com/books/al-the-adventurer-that-magic-shouldnt-work-manga-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "At 25:00 in Akasaka Vol. 6",
+      "series": "At 25:00 in Akasaka Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-323-2",
+      "url": "https://sevenseasentertainment.com/books/at-2500-in-akasaka-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Betrothed to My Sister’s Ex (Manga) Vol. 6",
+      "series": "Betrothed to My Sister’s Ex (Manga) Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-592-2",
+      "url": "https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-manga-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Dungeon People Vol. 7",
+      "series": "Dungeon People Vol. 7",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-178-9",
+      "url": "https://sevenseasentertainment.com/books/dungeon-people-vol-7/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Hate Me, but Let Me Stay – Manager and Otoha",
+      "series": "Hate Me, but Let Me Stay – Manager and Otoha",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-673-3",
+      "url": "https://sevenseasentertainment.com/books/hate-me-but-let-me-stay-manager-and-otoha/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Hidden Love (Novel) Vol. 3",
+      "series": "Hidden Love (Novel) Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-544-1",
+      "url": "https://sevenseasentertainment.com/books/hidden-love-novel-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Himegasaki Sakurako Is a Hot Mess Vol. 7",
+      "series": "Himegasaki Sakurako Is a Hot Mess Vol. 7",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-938-9",
+      "url": "https://sevenseasentertainment.com/books/himegasaki-sakurako-is-a-hot-mess-vol-7/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "How to Survive as a Maid in a Horror Game (Comic) Vol. 3",
+      "series": "How to Survive as a Maid in a Horror Game (Comic) Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-429-1",
+      "url": "https://sevenseasentertainment.com/books/how-to-survive-as-a-maid-in-a-horror-game-comic-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "I Don’t Know, Yoshida Vol. 2",
+      "series": "I Don’t Know, Yoshida Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-942-6",
+      "url": "https://sevenseasentertainment.com/books/i-dont-know-yoshida-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "I Got Married to the Girl I Hate Most in Class (Manga) Vol. 9",
+      "series": "I Got Married to the Girl I Hate Most in Class (Manga) Vol. 9",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-944-0",
+      "url": "https://sevenseasentertainment.com/books/i-got-married-to-the-girl-i-hate-most-in-class-manga-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Legend of Exorcism: Tianbao Fuyao Lu (Novel) Vol. 8",
+      "series": "Legend of Exorcism: Tianbao Fuyao Lu (Novel) Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-565-6",
+      "url": "https://sevenseasentertainment.com/books/legend-of-exorcism-tianbao-fuyao-lu-novel-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Luna Knight Vol. 3",
+      "series": "Luna Knight Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-973-0",
+      "url": "https://sevenseasentertainment.com/books/luna-knight-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! Vol. 5",
+      "series": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-810-8",
+      "url": "https://sevenseasentertainment.com/books/magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-vol-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Panguan: The Twelfth Gate (Novel) Vol. 3",
+      "series": "Panguan: The Twelfth Gate (Novel) Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-416-1",
+      "url": "https://sevenseasentertainment.com/books/panguan-the-twelfth-gate-novel-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Reincarnated as a Sword (Manga) Vol. 19",
+      "series": "Reincarnated as a Sword (Manga) Vol. 19",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-016-8",
+      "url": "https://sevenseasentertainment.com/books/reincarnated-as-a-sword-manga-vol-19/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "The Devil Princess (Light Novel) Vol. 6",
+      "series": "The Devil Princess (Light Novel) Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-306-6",
+      "url": "https://sevenseasentertainment.com/books/the-devil-princess-light-novel-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "The Ideal Sponger Life Vol. 24",
+      "series": "The Ideal Sponger Life Vol. 24",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-391-2",
+      "url": "https://sevenseasentertainment.com/books/the-ideal-sponger-life-vol-24/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "The Kingdoms of Ruin Vol. 14",
+      "series": "The Kingdoms of Ruin Vol. 14",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-049-6",
+      "url": "https://sevenseasentertainment.com/books/the-kingdoms-of-ruin-vol-14/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "The Most Notorious “Talker” Runs the World’s Greatest Clan (Light Novel) Vol. 5 [Ebook]",
+      "series": "The Most Notorious “Talker” Runs the World’s Greatest Clan (Light Novel) Vol. 5 [Ebook]",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-526-2",
+      "url": "https://sevenseasentertainment.com/books/the-most-notorious-talker-runs-the-worlds-greatest-clan-light-novel-vol-5-ebook/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "The Tale of a Little Alchemist Blessed by the Spirits (Light Novel) Vol. 5",
+      "series": "The Tale of a Little Alchemist Blessed by the Spirits (Light Novel) Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-654-7",
+      "url": "https://sevenseasentertainment.com/books/the-tale-of-a-little-alchemist-blessed-by-the-spirits-light-novel-vol-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-13",
+      "title": "Witch and Mercenary (Manga) Vol. 1",
+      "series": "Witch and Mercenary (Manga) Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90568-236-0",
+      "url": "https://sevenseasentertainment.com/books/witch-and-mercenary-manga-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-20",
+      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge (Manga) Vol. 14",
+      "series": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge (Manga) Vol. 14",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-588-5",
+      "url": "https://sevenseasentertainment.com/books/backstabbed-in-a-backwater-dungeon-my-party-tried-to-kill-me-but-thanks-to-an-infinite-gacha-i-got-lvl-9999-friends-and-am-out-for-revenge-manga-vol-14/",
       "sourceId": "seven-seas"
     }
   ]
