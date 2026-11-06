@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-11-06",
+  "scope": "Incremental verification of Italian and English manga/light novel releases; no Japanese editions; no purchases or prices in EUR inferred.",
+  "items": [
+    {
+      "title": "Miss Kobayashi's Dragon Maid",
+      "language": "EN",
+      "editorialNote": "Rettifica 06/11/2026: lo spin-off inglese Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love vol. 1 presenta date ufficiali discordanti: scheda libro 24/11/2026, calendario Seven Seas 01/12/2026; la precedente indicazione 03/11/2026 non è più confermata. ISBN 9798898634759, listino USD $13.99. Non posseduto. Serie separata dai 19 volumi/copie principali J-POP incluse variant; nessun acquisto aggiunto.",
+      "editorialSource": "https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/",
+      "secondarySource": "https://sevenseasentertainment.com/release-dates/"
+    }
+  ],
+  "checkedOther": [
+    {
+      "title": "Redo of Healer",
+      "status": "IT n.18 Magic Press, 05/11/2026 €7.50 nel calendario AnimeClick; inventario regolari 1–17 invariato."
+    },
+    {
+      "title": "Asumi-chan is Interested in Lesbian Brothels!",
+      "status": "EN n.7: calendario Seven Seas 24/11/2026; conflitto preesistente con pagina volume, non risolto."
+    },
+    {
+      "title": "Hokkaido Gals Are Super Adorable!",
+      "status": "EN omnibus 7–8: calendario Seven Seas 01/12/2026; conflitto preesistente con pagina volume, non risolto."
+    }
+  ],
+  "sourceItalian": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+  "limitations": "Controllo incrementale, non revisione esaustiva dei singoli ISBN dell'intera collezione. Date programmate non provano distribuzione. Non usare il campo eliminato volumi letti."
+}
