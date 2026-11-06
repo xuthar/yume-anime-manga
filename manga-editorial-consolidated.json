@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02",
+  "checkedAt": "2026-11-06",
   "description": "Audit IT/EN consolidati dal 24 al 31 ottobre. Le notizie editoriali non modificano gli acquisti, i volumi posseduti, le date e i prezzi storici.",
   "sourceFiles": [
     "manga-editorial-sync-2026-10-24.json",
@@ -11,7 +11,8 @@
     "manga-editorial-sync-2026-10-30.json",
     "manga-editorial-sync-2026-10-31.json",
     "manga-editorial-sync-2026-11-01.json",
-    "manga-editorial-sync-2026-11-02.json"
+    "manga-editorial-sync-2026-11-02.json",
+    "manga-editorial-sync-2026-11-06.json"
   ],
   "items": [
     {
@@ -1433,7 +1434,7 @@
     {
       "title": "Miss Kobayashi's Dragon Maid",
       "language": "IT",
-      "editorialNote": "AnimeClick novembre 2026: n.18 J-POP, €6,50, giorno non comunicato. Inventario: 19 copie fisiche tra regolari fino al 17 e variant; n.18 non registrato. Le variant non estendono la numerazione regolare.\nVerifica 02/11/2026: Seven Seas annuncia lo SPIN-OFF inglese Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love n.1 per il 03/11/2026, $13.99, ISBN 9798898634759. Serie distinta dal manga principale J-POP; nessun acquisto e nessuna conversione in euro.",
+      "editorialNote": "AnimeClick novembre 2026: n.18 J-POP, €6,50, giorno non comunicato. Inventario: 19 copie fisiche tra regolari fino al 17 e variant; n.18 non registrato. Le variant non estendono la numerazione regolare.\nVerifica 02/11/2026: Seven Seas annuncia lo SPIN-OFF inglese Miss Kobayashi’s Dragon Maid: Ilulu Doesn’t Understand Love n.1 con data in conflitto: scheda volume 24/11/2026, calendario ufficiale 01/12/2026 (precedente 03/11/2026 non più confermato), $13.99, ISBN 9798898634759. Serie distinta dal manga principale J-POP; nessun acquisto e nessuna conversione in euro.",
       "editorialSource": "https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/",
       "announcements": [
         {
@@ -1445,17 +1446,29 @@
       ],
       "ownedChange": false,
       "editorialOnly": true,
-      "lastCheckedAt": "2026-11-02",
+      "lastCheckedAt": "2026-11-06",
       "relatedReleases": [
         {
           "title": "Miss Kobayashi's Dragon Maid: Ilulu Doesn't Understand Love",
           "edition": "Seven Seas · spin-off EN manga regolare",
           "number": "1",
-          "date": "2026-11-03",
+          "date": null,
           "priceUsd": 13.99,
-          "isbn": "9798898634759"
+          "isbn": "9798898634759",
+          "dateStatus": "conflicting-official-sources",
+          "dateCandidates": [
+            {
+              "date": "2026-11-24",
+              "source": "https://sevenseasentertainment.com/books/miss-kobayashis-dragon-maid-ilulu-doesnt-understand-love-vol-1/"
+            },
+            {
+              "date": "2026-12-01",
+              "source": "https://sevenseasentertainment.com/release-dates/"
+            }
+          ]
         }
-      ]
+      ],
+      "secondarySource": "https://sevenseasentertainment.com/release-dates/"
     },
     {
       "title": "Pumpkin Night",
