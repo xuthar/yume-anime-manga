@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06",
+  "checkedAt": "2026-11-07",
   "description": "Audit IT/EN consolidati dal 24 al 31 ottobre. Le notizie editoriali non modificano gli acquisti, i volumi posseduti, le date e i prezzi storici.",
   "sourceFiles": [
     "manga-editorial-sync-2026-10-24.json",
@@ -1366,8 +1366,8 @@
     {
       "title": "Cosmos (Ryuuhei Tamura)",
       "language": "IT",
-      "editorialNote": "AnimeClick novembre 2026: Cosmos n.8 J-POP, prezzo di listino €6,90, giorno non comunicato. Inventario: regolari 1–7 (7 copie); n.8 non posseduto.",
-      "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "editorialNote": "AnimeClick calendario 07/11/2026: Cosmos n.8 J-POP, uscita programmata 11/11/2026, prezzo di listino €6,90. Inventario invariato: regolari 1–7 (7 copie); n.8 non posseduto. Disponibilità effettiva non confermata.",
+      "editorialSource": "https://www.animeclick.it/calendario-manga",
       "announcements": [
         {
           "edition": "J-POP regolare",
@@ -1378,7 +1378,7 @@
       ],
       "ownedChange": false,
       "editorialOnly": true,
-      "lastCheckedAt": "2026-10-31"
+      "lastCheckedAt": "2026-11-07"
     },
     {
       "title": "Hanako kun - I sette misteri dell'Accademia Kamome",
