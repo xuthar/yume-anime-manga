@@ -19,6 +19,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.refresh_data.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,8 +30,18 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install 'lxml>=5,<7'
       - run: python verify-calendar-history.py
-      - run: python scripts/update-episode-calendar.py
+      - name: Verifica e aggiorna solo da fonti valide
+        id: refresh_data
+        run: |
+          python scripts/update-episode-calendar.py
+          if git diff --quiet -- data/episode-calendar.json data/episode-calendar-history.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nessuna variazione: il calendario verificato rimane invariato."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
       - name: Salva calendario aggiornato
+        if: steps.refresh_data.outputs.changed == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -41,16 +53,20 @@ jobs:
       # A commit made with GITHUB_TOKEN does not trigger a Pages branch build.
       # Deploy the refreshed site explicitly instead.
       - uses: actions/configure-pages@v5
+        if: steps.refresh_data.outputs.changed == 'true'
       - name: Prepara sito pubblico
+        if: steps.refresh_data.outputs.changed == 'true'
         run: |
           mkdir _site
           cp *.html *.css *.js *.json favicon.svg robots.txt sitemap.xml _site/
           cp -r assets data _site/
       - uses: actions/upload-pages-artifact@v3
+        if: steps.refresh_data.outputs.changed == 'true'
         with:
           path: _site
   deploy:
     needs: refresh
+    if: needs.refresh.outputs.changed == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

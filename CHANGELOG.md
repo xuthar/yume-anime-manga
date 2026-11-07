@@ -1,3 +1,9 @@
+## 2026-11-07 · Fix definitivo notifiche workflow calendario episodi
+- Un errore HTTP 429, una pagina HTML differente o dati non verificabili da AnimeClick producono un warning GitHub Actions, **non** un fallimento del workflow quando esiste uno snapshot valido.
+- In caso di indisponibilità, il file del calendario e il suo timestamp restano intatti; non si inventano episodi.
+- Il commit dei calendari e il deploy GitHub Pages vengono eseguiti soltanto in presenza di dati nuovi validi; altrimenti entrambi sono saltati.
+- Aggiunto test di regressione che verifica il caso di fonte bloccata e l'immutabilità del calendario e dello storico.
+
 ## 2026-11-07 · Anime stagionali, streaming e affidabilità
 - Verificate otto schede di Autumn 2026 con fonti ufficiali; corretti i debutti di A Returner's Magic Should Be Special S2 e A Wild Last Boss Appeared! S2 e il collegamento di Black Clover.
 - Seasons: nuova sezione dinamica dedicata ai debutti vicini alla data odierna, preservando le cinque stagioni e i dati personali.

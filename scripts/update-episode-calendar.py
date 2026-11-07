@@ -9,6 +9,10 @@ from lxml import html
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = 'https://www.animeclick.it/calendario-anime'
 MONTHS = 'gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre'.split()
+
+class CalendarSourceUnavailable(Exception):
+    """All external listings failed validation; the existing cache is still authoritative."""
+
 def norm(s):
     s = unicodedata.normalize('NFKD', s or '').casefold()
     s = re.sub(r'\b(season|stagione)\b', '', s)
@@ -56,11 +60,27 @@ def read_current_calendar(today):
             return events,url
         except Exception as exc:
             errors.append(f'{url}: {type(exc).__name__}: {exc}')
-    raise ValueError('No verified fresh anime calendar; keeping the published data. '+' | '.join(errors))
+    raise CalendarSourceUnavailable('No verified fresh anime calendar. '+' | '.join(errors))
 
 def main():
     now=datetime.now(ZoneInfo('Europe/Rome'))
-    events,verified_source=read_current_calendar(now.date())
+    try:
+        events,verified_source=read_current_calendar(now.date())
+    except CalendarSourceUnavailable as exc:
+        # Expected source outages (anti-bot/429/changed HTML) are not code failures.
+        # We may only skip a refresh when a real prior snapshot can be preserved.
+        path=ROOT/'data/episode-calendar.json'
+        try:
+            cached=json.loads(path.read_text())
+        except (OSError,ValueError) as error:
+            raise RuntimeError('No valid cached episode calendar to preserve') from error
+        if not (isinstance(cached,dict) and cached.get('updatedAt') and
+                cached.get('coverageEnd') and isinstance(cached.get('events'),list) and cached['events']):
+            raise RuntimeError('Published episode calendar is missing or invalid') from exc
+        reason=str(exc).replace('\n',' ').replace('::',' - ')[:600]
+        print('::warning title=AnimeClick non raggiungibile::'+reason,flush=True)
+        print('NO REFRESH: preserved the last verified episode calendar; updatedAt is unchanged.',flush=True)
+        return False
     items=json.loads((ROOT/'library.json').read_text())['items']; lookup={}
     for x in items:
         if x['type']!='anime' or x.get('releaseStatus')!='Currently Airing':continue
@@ -82,4 +102,5 @@ def main():
     capture(ROOT/'data/episode-calendar-history.json',payload,'events')
     temp=path.with_suffix('.tmp');temp.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n');temp.replace(path)
     print(f"Calendar refreshed: {len(events)} listings, {sum(bool(e['itemId']) for e in events)} catalog matches")
+    return True
 if __name__=='__main__':main()

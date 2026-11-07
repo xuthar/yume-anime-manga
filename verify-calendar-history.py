@@ -30,4 +30,12 @@ with tempfile.TemporaryDirectory()as tmp:
   def __exit__(self,*args):pass
   def read(self):return b'fixture'
  m.urllib.request.urlopen=lambda *a,**kw:Response();m.parse=lambda *a:[event('2026-10-23','fresh')];m.main();d=json.loads((root/'data/episode-calendar.json').read_text());assert [x['title']for x in d['events']]==['past','fresh'];assert d['coverageStart']=='2020-01-02';assert len(json.loads((root/'data/episode-calendar-history.json').read_text())['observations'])==3
+ # Regression: a blocked website must result in a warning/success, not stale data rewritten.
+ original=(root/'data/episode-calendar.json').read_bytes()
+ history=(root/'data/episode-calendar-history.json').read_bytes()
+ def offline(_today):raise m.CalendarSourceUnavailable('fixture HTTP 429 and changed markup')
+ m.read_current_calendar=offline
+ assert m.main() is False
+ assert (root/'data/episode-calendar.json').read_bytes()==original
+ assert (root/'data/episode-calendar-history.json').read_bytes()==history
 print('PASS: multi-year history retained, cancelled future listings removed from live calendar but archived, source outages preserved, repeated observations deduplicated.')
