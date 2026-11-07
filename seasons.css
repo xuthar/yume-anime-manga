@@ -5,3 +5,17 @@
 @media(max-width:700px){.season-tabs{grid-template-columns:repeat(2,minmax(0,1fr))}.seasons-year{font-size:62px}}
 
 @media(min-width:701px) and (max-width:1050px){.season-tabs{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* Debutti di stagione selezionati dalle date archiviate, senza generare nuove date. */
+.season-spotlight{margin:28px 0 48px;padding:26px;border:1px solid var(--line);border-radius:15px;background:linear-gradient(140deg,#91ddd00e,#ff8e8108)}
+.season-spotlight-head{display:flex;justify-content:space-between;align-items:end;gap:15px;margin-bottom:20px}
+.season-spotlight h2{font:500 clamp(23px,3vw,34px)/1.2 Outfit,sans-serif;margin:10px 0 0}
+.season-spotlight-head p{font-size:11px;line-height:1.5;color:var(--muted)}
+.season-premieres{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+.season-premiere{display:flex;flex-direction:column;align-items:flex-start;gap:9px;min-height:128px;padding:15px;cursor:pointer;text-align:left;border:1px solid var(--line);border-radius:12px;background:var(--panel);color:var(--ink)}
+.season-premiere:hover,.season-premiere:focus-visible{border-color:var(--mint);transform:translateY(-2px)}
+.season-premiere-date{font-size:10px;font-weight:700;letter-spacing:.6px;color:var(--coral)}
+.season-premiere strong{font-size:13px;line-height:1.35;overflow-wrap:anywhere}
+.season-premiere small{margin-top:auto;font-size:10px;color:var(--muted);line-height:1.5}
+@media(max-width:900px){.season-premieres{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:600px){.season-spotlight{padding:15px}.season-spotlight-head{align-items:flex-start;flex-direction:column}.season-premieres{grid-template-columns:repeat(2,minmax(0,1fr))}.season-premiere{min-height:145px}}

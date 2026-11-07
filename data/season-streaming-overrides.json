@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-17T11:53:57.467061+00:00",
+  "checkedAt": "2026-11-07",
   "items": {
     "anime-61987": {
       "service": "Crunchyroll",
@@ -10,7 +10,7 @@
     },
     "anime-61967": {
       "service": "Crunchyroll",
-      "url": "https://www.crunchyroll.com/watch/GRP512WDR/the-all-magic-knights-thanksgiving-festa",
+      "url": "https://www.crunchyroll.com/it/series/GRE50KV36/black-clover",
       "country": "IT",
       "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     },
@@ -65,6 +65,48 @@
     "anime-64344": {
       "service": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GT00385792/dandivine",
+      "country": "IT",
+      "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
+    },
+    "anime-57612": {
+      "service": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/it/series/GEXH3W207/a-returners-magic-should-be-special",
+      "country": "IT",
+      "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
+    },
+    "anime-63140": {
+      "service": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/it/series/GT00361955/a-wild-last-boss-appeared",
+      "country": "IT",
+      "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
+    },
+    "anime-62484": {
+      "service": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/it/simulcasts",
+      "country": "IT",
+      "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
+    },
+    "anime-64505": {
+      "service": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/it/simulcasts",
+      "country": "IT",
+      "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
+    },
+    "anime-63157": {
+      "service": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/it/simulcasts",
+      "country": "IT",
+      "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
+    },
+    "anime-62907": {
+      "service": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/it/simulcasts",
+      "country": "IT",
+      "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
+    },
+    "anime-62534": {
+      "service": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/it/simulcasts",
       "country": "IT",
       "sourceUrl": "https://www.crunchyroll.com/it/news/seasonal-lineup/2026/9/15/autunno-anime-2026-crunchyroll"
     }

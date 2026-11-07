@@ -15,7 +15,7 @@ def norm(s):
     return ''.join(c for c in s if c.isalnum())
 def parse(text, today):
     doc = html.fromstring(text)
-    heading = ' '.join(doc.xpath('//h2//text()')).lower()
+    heading = ' '.join(doc.xpath('//h1//text() | //h2//text() | //h3//text()')).lower()
     m = re.search(r'('+'|'.join(MONTHS)+r')\s+(\d{4})', heading)
     if not m: raise ValueError('Calendar month not found')
     month, year = MONTHS.index(m[1])+1, int(m[2])
@@ -42,11 +42,25 @@ def parse(text, today):
     if not events or max(e['date'] for e in events)<today.isoformat(): raise ValueError('No valid Italian episode listings: refusing to replace the last good calendar')
     return events
 
+def read_current_calendar(today):
+    # A changed source layout must never overwrite the last valid dated listings.
+    errors=[]
+    for url in (SOURCE, 'https://www.animeclick.live/calendario-anime'):
+        try:
+            req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36',
+                                                    'Accept-Language':'it-IT,it;q=0.9,en;q=0.7',
+                                                    'Accept':'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8'})
+            with urllib.request.urlopen(req,timeout=45) as response:page=response.read().decode('utf-8')
+            events=parse(page,today)
+            print(f'Calendar verified: {url}; {len(events)} listings')
+            return events,url
+        except Exception as exc:
+            errors.append(f'{url}: {type(exc).__name__}: {exc}')
+    raise ValueError('No verified fresh anime calendar; keeping the published data. '+' | '.join(errors))
+
 def main():
-    req=urllib.request.Request(SOURCE,headers={'User-Agent':'Mozilla/5.0 (Yume episode calendar; public listings)'})
-    with urllib.request.urlopen(req,timeout=45) as r: text=r.read().decode('utf-8')
     now=datetime.now(ZoneInfo('Europe/Rome'))
-    events=parse(text,now.date())
+    events,verified_source=read_current_calendar(now.date())
     items=json.loads((ROOT/'library.json').read_text())['items']; lookup={}
     for x in items:
         if x['type']!='anime' or x.get('releaseStatus')!='Currently Airing':continue
@@ -61,7 +75,7 @@ def main():
     first=now.date().isoformat()
     prior=[e for e in old.get('events',[]) if e['date']<first]
     unique={episode_identity(e):e for e in prior+events}
-    payload={'updatedAt':now.isoformat(),'timezone':'Europe/Rome','source':SOURCE,
+    payload={'updatedAt':now.isoformat(),'timezone':'Europe/Rome','source':verified_source,
         'coverageStart':min(e['date'] for e in unique.values()),'coverageEnd':max(e['date'] for e in events),
         'events':sorted(unique.values(),key=lambda e:(e['start'],e['title'],e['platform']))}
     capture(ROOT/'data/episode-calendar-history.json',old,'events')

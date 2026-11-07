@@ -1,7 +1,7 @@
 name: Aggiorna calendario manga e novel
 on:
   schedule:
-    - cron: '37 5 * * 1'
+    - cron: '37 5 * * *'
   workflow_dispatch:
   push:
     branches: [main]

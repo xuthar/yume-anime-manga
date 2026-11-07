@@ -1,3 +1,9 @@
+## 2026-11-07 · Anime stagionali, streaming e affidabilità
+- Verificate otto schede di Autumn 2026 con fonti ufficiali; corretti i debutti di A Returner's Magic Should Be Special S2 e A Wild Last Boss Appeared! S2 e il collegamento di Black Clover.
+- Seasons: nuova sezione dinamica dedicata ai debutti vicini alla data odierna, preservando le cinque stagioni e i dati personali.
+- Calendario episodi: due fonti AnimeClick, diagnostica e conservazione dell'ultimo elenco valido contro pagine bloccate o obsolete.
+- Uscite manga e light novel IT/EN: verifica automatica giornaliera, senza attribuire acquisti.
+
 # Cronologia — Anime e Manga
 
 ## 18 ottobre 2026 — Collezione Manga

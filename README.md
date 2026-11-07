@@ -28,7 +28,7 @@ Registro delle modifiche: `CHANGELOG.md`. Contesto per riprendere il progetto: `
 Importazione riprendibile: `python import-anime-details.py` (richiede `lxml`). Verifiche: `python test-anime-import.py`, `node verify-anime-credits.cjs`, `node --check app.js`, `node --check anime-credits.js`.
 
 ## Seasons 2026
-La pagina `seasons.html` raccoglie Summer (262 presenze), Autumn (169) e Winter (229) del 2026: 560 titoli distinti. Winter indica gennaio–marzo. TV, ONA, OVA, film e special sono ricercabili e filtrabili per formato, streaming italiano e nuove uscite/prosecuzioni. Schede con copertina, titoli disponibili, trama breve, studio, episodi, durata, adattamento e voto MAL.
+La pagina `seasons.html` raccoglie Summer 2026 (265 presenze), Autumn 2026 (181), Winter 2026 (230), Winter 2027 (67) e Spring 2027 (21): 658 titoli distinti e 764 presenze stagionali. Il riquadro “Appena usciti & in arrivo” mostra i debutti con data completa vicini al giorno di visita. Winter indica gennaio–marzo. TV, ONA, OVA, film e special sono ricercabili e filtrabili per formato, streaming italiano e nuove uscite/prosecuzioni. Schede con copertina, titoli disponibili, trama breve, studio, episodi, durata, adattamento e voto MAL.
 
 `seasons.json` conserva il catalogo; `data/season-summaries-it.json` le sintesi editoriali e `data/season-italian-metadata.json` le denominazioni italiane documentate. Le informazioni assenti sono esplicite. Acquisti e noleggi sono distinti dagli abbonamenti. Le copertine aggiuntive sono caricate direttamente da MAL senza referrer; quelle per adulti non vengono mostrate.
 
@@ -87,3 +87,6 @@ Gli aggiornamenti conservano tutte le date passate già presenti nei calendari, 
 `data/book-calendar-history.json` e `data/episode-calendar-history.json` conservano le osservazioni degli annunci, comprese rettifiche e cancellazioni, con prima e ultima osservazione. Gli annunci passati non certificano un acquisto, una pubblicazione o una trasmissione effettiva. Le vecchie uscite future rimosse dalla fonte non vengono lasciate nel calendario corrente. Le copie storiche non scadono. I workflow committano anche gli archivi; la loro integrità è verificata da `python verify-calendar-history.py` prima degli aggiornamenti.
 
 Le liste personali conservano i dati dei volumi scelti e informazioni di riserva degli anime, indipendentemente dalla settimana mostrata. Restano nel browser del visitatore, con i limiti descritti nella pagina delle liste.
+
+### Revisione 7 novembre 2026
+Confermati otto titoli Autumn 2026 tramite il palinsesto Crunchyroll Italia. Corrette due date di debutto e un link di Black Clover. Il calendario anime tenta due domini pubblici verificando le date prima di sostituire i dati precedenti. Calendario manga e light novel IT/EN controllato quotidianamente. Nessuna variazione agli acquisti, agli episodi visti o ai voti personali.
