@@ -45,11 +45,29 @@
   fallback.asia[country+':'+key(name)]={name,qid,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+uri+'?width=480',
    source:'https://commons.wikimedia.org/wiki/File:'+uri,verified:true,alternates:[]};
  }
+ // Additional precisely identified portraits. Every file page documents a
+ // Commons license: no commercial/social avatar hotlinks, no generated likeness.
+ const tiktokCommons=[
+  ['asia','ph','Jillian Ward','Jillian Ward, 2025 (cropped).jpg'],
+  ['asia','ph','Kyline Alcantara','Kyline Alcantara 2025.jpg'],
+  ['asia','ph','Kai Montinola','Kai Montinola in 2026.jpg'],
+  ['asia','ph','Janine Berdin','Janine Berdin in July 2024.png'],
+  ['asia','pk','Dananeer Mobeen','Dananeer Mobeen 2025.png'],
+  ['japan',null,'景井ひな','Tokyo-Game-Show-2024-Day4---2024-09-29 455.jpg'],
+  ['japan',null,'中山こはく','中山こはく 20240203 定期公演.png']
+ ];
+ for(const [scope,country,name,file] of tiktokCommons){
+   const uri=encodeURIComponent(file.replace(/ /g,'_'));
+   const k=scope==='asia'?country+':'+key(name):key(name);
+   fallback[scope][k]={name,file,verified:true,
+    photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+uri+'?width=480',
+    source:'https://commons.wikimedia.org/wiki/File:'+uri,alternates:[]};
+ }
  const read=(kind,name,country)=>{
   const k=kind==='asia'?country+':'+key(name):key(name);
   return data[kind]?.[k]||fallback[kind]?.[k]||null
  };
- const load=fetch('data/yume-photo-index.json?v=20261108-ph-creators45',{cache:'no-store'})
+ const load=fetch('data/yume-photo-index.json?v=20261108-tiktok-youth2',{cache:'no-store'})
  .then(r=>{if(!r.ok)throw Error('Photo index not generated yet');return r.json()})
  .then(json=>{
   if(!json||json.version<1||!json.sport||!json.asia||!json.japan)throw Error('Invalid photo index');
