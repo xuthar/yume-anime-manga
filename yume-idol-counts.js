@@ -11,7 +11,7 @@
   ['asia','Asia Idols',a.total,a.countries.length+' scene asiatiche'],
   ['sport','Sport Idols',unique(s.people).size,s.disciplines.length+' discipline'],
   ['gruppi','Gruppi e formazioni',unique(d.people.filter(x=>x.category==='groups')).size+a.groupCount,'Progetti giapponesi e asiatici'],
-  ['young','Young Stars · 13–19',y?.count||0,'Sottoinsieme dei cataloghi, non sommato al totale']
+  ['young','Young Stars · 10–19',y?.count||0,'Selezione giovane con integrazioni internazionali, conteggiata separatamente']
  ];
  const nf=new Intl.NumberFormat('it-IT');
  for(const section of document.querySelectorAll('[data-yume-counts]')){
