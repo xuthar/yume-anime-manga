@@ -20,6 +20,13 @@
       "photos": 1,
       "total": 10,
       "notes": "Foto child creator esclusivamente professionale e pubblicamente autorizzata"
+    },
+    "youngStars": {
+      "total": 91,
+      "withIndexedPortraits": 36,
+      "updated": "2026-11-08",
+      "source": "public professional Wikimedia Commons file pages",
+      "notes": "Conteggio di record associati; non garantisce caricamento HTTP di ogni immagine. Le altre schede mantengono un segnaposto neutro."
     }
   },
   "sport": {
@@ -1275,6 +1282,20 @@
       "source": "https://commons.wikimedia.org/wiki/File:Kohane%20Ushioku%20(born%202004)%20at%20the%20Rhine-Ruhr%202025%20FISU%20World%20University%20Games.png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
       "verified": true
+    },
+    "中井亜美": {
+      "name": "中井 亜美",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ami_NAKAI_of_Japan_at_the_2026_Olympic_Winter_Games_Milan%2C_Italy_by_YantsImages_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ami_NAKAI_of_Japan_at_the_2026_Olympic_Winter_Games_Milan%2C_Italy_by_YantsImages_(cropped).jpg"
+      ],
+      "file": "Ami NAKAI of Japan at the 2026 Olympic Winter Games Milan, Italy by YantsImages (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ami_NAKAI_of_Japan_at_the_2026_Olympic_Winter_Games_Milan%2C_Italy_by_YantsImages_(cropped).jpg",
+      "license": "YantsImages · Commons photo license on file page",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Ami_Nakai",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
     }
   },
   "asia": {
@@ -2497,6 +2518,231 @@
       "verified": true,
       "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Sevinch_Mo%27minova",
       "verifiedAt": "2026-11-08"
+    },
+    "th:blythe": {
+      "name": "Blythe",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Blythe_BNK48_%40BNK48_Ponytail_to_Shushu_and_CGM48_Koi_Tsunjatta_-_Let_me_know!_Roadshow_18-07-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Blythe_BNK48_%40BNK48_Ponytail_to_Shushu_and_CGM48_Koi_Tsunjatta_-_Let_me_know!_Roadshow_18-07-2026.jpg"
+      ],
+      "file": "Blythe BNK48 @BNK48 Ponytail to Shushu and CGM48 Koi Tsunjatta - Let me know! Roadshow 18-07-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Blythe_BNK48_%40BNK48_Ponytail_to_Shushu_and_CGM48_Koi_Tsunjatta_-_Let_me_know!_Roadshow_18-07-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48_Ponytail_to_Shushu_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:emmy": {
+      "name": "Emmy",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmy_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Emmy_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg"
+      ],
+      "file": "Emmy BNK48 @BNK48, CGM48 Kimi to Doko ka e Ikitai Roadshow 17-10-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Emmy_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Ornnitcha_Phromsupa",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:galeya": {
+      "name": "Galeya",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Galeya_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Galeya_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg"
+      ],
+      "file": "Galeya BNK48 @BNK48 Ponytail to Shushu Roadshow 19-09-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Galeya_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48_Ponytail_to_Shushu_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:inkcha": {
+      "name": "Inkcha",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Inkcha_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Inkcha_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg"
+      ],
+      "file": "Inkcha BNK48 @BNK48 Masaka no Confession Roadshow 09-05-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Inkcha_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48_Masaka_no_Confession_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:janry": {
+      "name": "Janry",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Janry_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Janry_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg"
+      ],
+      "file": "Janry BNK48 @BNK48 Masaka no Confession Roadshow 09-05-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Janry_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Kalnyarat_Panphiphat",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:khowjow": {
+      "name": "Khowjow",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Khowjow_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Khowjow_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg"
+      ],
+      "file": "Khowjow BNK48 @BNK48 Masaka no Confession Roadshow 09-05-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Khowjow_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48_Masaka_no_Confession_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:micha": {
+      "name": "Micha",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Micha_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Micha_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg"
+      ],
+      "file": "Micha BNK48 @BNK48 Ponytail to Shushu Roadshow 19-09-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Micha_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48_Ponytail_to_Shushu_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:monet": {
+      "name": "Monet",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Monet_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg"
+      ],
+      "file": "Monet BNK48 @BNK48, CGM48 Kimi to Doko ka e Ikitai Roadshow 17-10-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Monet_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:niya": {
+      "name": "Niya",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Niya_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Niya_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg"
+      ],
+      "file": "Niya BNK48 @BNK48 Ponytail to Shushu Roadshow 19-09-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Niya_BNK48_%40BNK48_Ponytail_to_Shushu_Roadshow_19-09-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48_Ponytail_to_Shushu_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:pancake": {
+      "name": "Pancake",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pancake_BNK48_%40BNK48_Hashtag_Sukinada_Roadshow_01-02-2025.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pancake_BNK48_%40BNK48_Hashtag_Sukinada_Roadshow_01-02-2025.jpg"
+      ],
+      "file": "Pancake BNK48 @BNK48 Hashtag Sukinada Roadshow 01-02-2025.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Pancake_BNK48_%40BNK48_Hashtag_Sukinada_Roadshow_01-02-2025.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Pancake_BNK48_%40BNK48_Hashtag_Sukinada_Roadshow_01-02-2025.jpg",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:patt": {
+      "name": "Patt",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patt_BNK48_%40BNK48_Iiwake_Maybe_Roadshow_06-05-2023.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Patt_BNK48_%40BNK48_Iiwake_Maybe_Roadshow_06-05-2023.jpg"
+      ],
+      "file": "Patt BNK48 @BNK48 Iiwake Maybe Roadshow 06-05-2023.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Patt_BNK48_%40BNK48_Iiwake_Maybe_Roadshow_06-05-2023.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Patt_BNK48_%40BNK48_Iiwake_Maybe_Roadshow_06-05-2023.jpg",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:praew": {
+      "name": "Praew",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Praew_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Praew_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg"
+      ],
+      "file": "Praew BNK48 @BNK48, CGM48 Kimi to Doko ka e Ikitai Roadshow 17-10-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Praew_BNK48_%40BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow_17-10-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:BNK48%2C_CGM48_Kimi_to_Doko_ka_e_Ikitai_Roadshow",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "th:sindy": {
+      "name": "Sindy",
+      "scene": "th",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sindy_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sindy_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg"
+      ],
+      "file": "Sindy BNK48 @BNK48 Masaka no Confession Roadshow 09-05-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sindy_BNK48_%40BNK48_Masaka_no_Confession_Roadshow_09-05-2026.jpg",
+      "license": "Chanokchon · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Kitchaya_Udomboondee",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "id:jazzlyntrisha": {
+      "name": "Jazzlyn Trisha",
+      "scene": "id",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Trisha_JKT48_pada_Theater_Sementara.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Trisha_JKT48_pada_Theater_Sementara.jpg"
+      ],
+      "file": "Trisha JKT48 pada Theater Sementara.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trisha_JKT48_pada_Theater_Sementara.jpg",
+      "license": "EllenorLjosAlf · CC BY-SA 4.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Trisha_JKT48_pada_Theater_Sementara.jpg",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "kr:kimsia": {
+      "name": "Kim Si-a",
+      "scene": "kr",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/20230322_%EA%B9%80%EC%8B%9C%EC%95%84_Kim_Si-a.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/20230322_%EA%B9%80%EC%8B%9C%EC%95%84_Kim_Si-a.jpg"
+      ],
+      "file": "20230322 김시아 Kim Si-a.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20230322_%EA%B9%80%EC%8B%9C%EC%95%84_Kim_Si-a.jpg",
+      "license": "K-POPIT 케이팝잇 TV10 · CC BY 3.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:20230322_김시아_Kim_Si-a.jpg",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
     }
   },
   "japan": {
@@ -2839,7 +3085,7 @@
       "verifiedAt": "2026-11-08"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali.",
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza.",
   "global": {
     "likenastya": {
       "name": "Like Nastya",
@@ -2851,6 +3097,76 @@
       "verified": true,
       "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Anastasia_Radzinskaya.png",
       "verifiedAt": "2026-11-08"
+    },
+    "skybrown": {
+      "name": "Sky Brown",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Brown_at_the_2024_Summer_Olympics_(cropped_3%C3%974).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Brown_at_the_2024_Summer_Olympics_(cropped_3%C3%974).jpg"
+      ],
+      "file": "Sky Brown at the 2024 Summer Olympics (cropped 3×4).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sky_Brown_at_the_2024_Summer_Olympics_(cropped_3%C3%974).jpg",
+      "license": "Wikimedia Commons · attribuzione nella scheda",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Sky_Brown",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "arisatrew": {
+      "name": "Arisa Trew",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arisa_Trew_Laureus_2024_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Arisa_Trew_Laureus_2024_(cropped).jpg"
+      ],
+      "file": "Arisa Trew Laureus 2024 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arisa_Trew_Laureus_2024_(cropped).jpg",
+      "license": "Wikimedia Commons · attribuzione nella scheda",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Arisa_Trew",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "rayssaleal": {
+      "name": "Rayssa Leal",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rayssa_Leal_(crop).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Rayssa_Leal_(crop).jpg"
+      ],
+      "file": "Rayssa Leal (crop).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rayssa_Leal_(crop).jpg",
+      "license": "CC BY 3.0 Brazil",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Rayssa_Leal_(crop).jpg",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "angelicahale": {
+      "name": "Angelica Hale",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Angelica_Hale_by_Gage_Skidmore.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Angelica_Hale_by_Gage_Skidmore.jpg"
+      ],
+      "file": "Angelica Hale by Gage Skidmore.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelica_Hale_by_Gage_Skidmore.jpg",
+      "license": "Gage Skidmore · CC BY-SA",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Angelica_Hale_by_Gage_Skidmore.jpg",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
+    },
+    "emmakok": {
+      "name": "Emma Kok",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ballonboeket_Folieballonnen_Rode_Harten_en_Wolken_Zangeres_Emma_Kok_ambassadrice_van_de_Stichting_Vrienden_van_het_Sophia_Erasmus_Sophia_Kinderziekenhuis_Rotterdam_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ballonboeket_Folieballonnen_Rode_Harten_en_Wolken_Zangeres_Emma_Kok_ambassadrice_van_de_Stichting_Vrienden_van_het_Sophia_Erasmus_Sophia_Kinderziekenhuis_Rotterdam_(cropped).jpg"
+      ],
+      "file": "Ballonboeket Folieballonnen Rode Harten en Wolken Zangeres Emma Kok ambassadrice van de Stichting Vrienden van het Sophia Erasmus Sophia Kinderziekenhuis Rotterdam (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ballonboeket_Folieballonnen_Rode_Harten_en_Wolken_Zangeres_Emma_Kok_ambassadrice_van_de_Stichting_Vrienden_van_het_Sophia_Erasmus_Sophia_Kinderziekenhuis_Rotterdam_(cropped).jpg",
+      "license": "Rotterdams Ballonnenbedrijf · CC BY 2.0",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Emma_Kok",
+      "verifiedAt": "2026-11-08",
+      "photoStatus": "documentedCommonsFile"
     }
   }
 }
