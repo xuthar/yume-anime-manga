@@ -1,23 +1,16 @@
 /* Yume Creator portrait editorial supplements — Wikimedia Commons 2026-11-08.
- * Every new creator has a distinct, source-identified portrait in yume-photo-index.json.
+ * New women creators have source-attributed portraits in yume-photo-index.json.
  * This is a non-adult professional creator directory. Do not infer age, location or followers.
  */
 (()=>{'use strict';
 const base=window.YumeIdolsDiscovery;
 if(!base)return;
 const list=[
- ['HIKAKIN','YouTuber · intrattenimento','Hikakin 2026 - Odaiba (cropped).jpg'],
- ['Hajime Syacho','YouTuber · intrattenimento','Hajime YouTuber 2018.jpg'],
- ['Hikaru (YouTuber)','YouTuber · intrattenimento','Hikaru YouTuber.png'],
  ['Yuka Furukawa','YouTube · moda','古川優香 Yuka Furukawa 20191218162953 IMG 4589.jpg'],
  ['Fuwa-chan','Creator · comicità e televisione','Fuwa-chan (cropped).jpg'],
  ['Emi Ohmatsu','YouTube · creator e comicità','Ohmatsu Emi 2017-06-25.jpg'],
  ['Tenchimu','YouTube · lifestyle','Tenchimu 2019.jpg'],
  ['RinRin Doll','YouTube · moda giapponese','RinRin Doll on her English Channel.jpg'],
- ['Kimagure Cook','YouTube · cucina','Kimagure-cook.png'],
- ['Masuo','YouTube · intrattenimento','Masuo YouTuber.png'],
- ['Kazu (YouTuber)','YouTube · tecnologia e lifestyle','Kazu - YouTuber - Yokohama - 2023 May 20 02-32PM.jpeg'],
- ['SUSURU','YouTube · cucina e ramen','SUSURU2022.jpg']
 ];
 const normalize=x=>String(x||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f\s・･_-]/g,'').trim();
 const existing=new Set(base.people.map(p=>'creators:'+normalize(p.name)));
