@@ -42,3 +42,6 @@ body.philippines-page{background:linear-gradient(165deg,#14192cde,#171c31f0),url
 @media(max-width:1140px){.ph-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:720px){.ph-grid{grid-template-columns:1fr}.philippines-page main{width:calc(100% - 20px)}.ph-hero{min-height:0;border-radius:15px}.ph-hero-copy{padding:27px 20px}.ph-hero h1{font-size:38px}.ph-tools{gap:7px}.ph-avatar{width:120px;min-width:120px;min-height:180px}}
 @media(max-width:390px){.ph-avatar{width:95px;min-width:95px}.ph-person-copy{padding:12px 9px}.ph-person h3{font-size:15px}}
+
+/* TikTok additions: readable handle and dated audience snapshot */
+.ph-tiktok-line{font:700 12px/1.5 system-ui,sans-serif;color:#f6b7dc;overflow-wrap:anywhere;margin:7px 0}
