@@ -7,6 +7,8 @@ const $=id=>document.getElementById(id),grid=$('sport-grid'),query=$('sport-sear
  profile=$('sport-profile'),modalBody=$('sport-profile-body'),close=$('sport-profile-close'),pills=$('sport-pills');
 if(!grid||!select)return;
 const people=data.people,disciplines=data.disciplines,types=Object.fromEntries(disciplines.map(x=>[x.id,x]));
+// Exact linked Wikidata IDs confirmed for these athletes; recheck identity attributes before use.
+const seededQids={'髙木 美帆':'Q444421','池江 璃花子':'Q20973721','角田 夏実':'Q27917959','早田 ひな':'Q27917566'};
 let current='all',limit=32,enrichBusy=false;
 const make=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=String(text);return n};
 const external=(caption,url)=>{const a=make('a',null,caption);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a};
@@ -32,9 +34,13 @@ async function resolve(p){
  if(p.enrichment!=='idle')return;
  p.enrichment='loading';
  try{
-  const srch='https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&origin=*&language=ja&uselang=ja&limit=12&search='+encodeURIComponent(p.name);
-  const items=(await request(srch)).search||[];
-  const ids=[...new Set(items.map(x=>x.id).filter(x=>/^Q\d+$/.test(x)))].slice(0,12);
+  let ids;
+  if(seededQids[p.name])ids=[seededQids[p.name]];
+  else{
+   const srch='https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&origin=*&language=ja&uselang=ja&limit=12&search='+encodeURIComponent(p.name);
+   const items=(await request(srch)).search||[];
+   ids=[...new Set(items.map(x=>x.id).filter(x=>/^Q\d+$/.test(x)))].slice(0,12);
+  }
   if(!ids.length){p.enrichment='none';return}
   const url='https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&origin=*&props=labels%7Caliases%7Cclaims%7Csitelinks&languages=ja%7Cen%7Cit&sitefilter=jawiki%7Cenwiki%7Citwiki&ids='+encodeURIComponent(ids.join('|'));
   const entities=(await request(url)).entities||{};
@@ -135,7 +141,7 @@ profile.addEventListener('click',e=>{if(e.target===profile)profile.close()});
 async function enrichMore(){
  if(enrichBusy)return;
  // Enrichment must keep working even when “solo foto” is active but no photo has loaded yet.
- const selection=currentMatches(true).filter(p=>p.enrichment==='idle').slice(0,8);
+ const selection=currentMatches(true).filter(p=>p.enrichment==='idle').sort((a,b)=>Number(!!seededQids[b.name])-Number(!!seededQids[a.name])).slice(0,8);
  if(!selection.length){status.textContent='I profili della selezione visibile sono stati già controllati o non trovati. Scegli un altro sport.';return}
  enrichBusy=true;enrichButton.disabled=true;enrichButton.textContent='Verifica '+selection.length+' atlete in corso…';
  try{for(let i=0;i<selection.length;i+=3){await Promise.allSettled(selection.slice(i,i+3).map(resolve))}render()}
