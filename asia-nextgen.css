@@ -1,0 +1,46 @@
+/* India & Philippines Yume editorial discovery — retains Asia Idols' sakura-night palette. */
+.asia-nextgen-section{position:relative;margin:35px 0 62px;padding:clamp(18px,3.5vw,39px);border:1px solid #e9bde15d;border-radius:26px;background:radial-gradient(circle at 11% 0,#bc69922d,transparent 38%),radial-gradient(circle at 90% 10%,#8ed2df24,transparent 34%),linear-gradient(145deg,#232339eb,#1c2e3ce8);box-shadow:0 21px 70px #07122657;overflow:hidden}
+.asia-nextgen-section::before{content:'✿';position:absolute;top:-60px;right:14px;font:200px/1 'Yu Mincho',serif;color:#e5b0d30d;pointer-events:none}
+.asia-nextgen-section .asia-section-head{position:relative;z-index:1}
+.asia-nextgen-section .asia-section-head p{max-width:940px}
+.asia-nextgen-numbers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:23px 0}
+.asia-nextgen-numbers>div{background:#eec6e415;border:1px solid #eec6e43b;border-radius:16px;padding:16px 19px;display:flex;align-items:baseline;flex-wrap:wrap;gap:10px}
+.asia-nextgen-numbers strong{font:800 clamp(29px,4vw,44px)/1 Outfit,system-ui,sans-serif;color:#f4d9e9;font-variant-numeric:tabular-nums}
+.asia-nextgen-numbers span{font-size:12px;color:#e6dce7}
+.asia-nextgen-shortcuts{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+.asia-nextgen-shortcuts button{cursor:pointer;border:1px solid #cdeef170;background:linear-gradient(125deg,#a6d9dd29,#c8a5d336);color:#fbf7fd;border-radius:25px;padding:10px 18px;font-size:13px;font-weight:800;transition:transform .2s,background .2s}
+.asia-nextgen-shortcuts button:hover{transform:translateY(-2px);background:#d6a5ce40}
+.asia-nextgen-controls{display:grid;grid-template-columns:1.7fr 1fr 1fr;gap:12px;margin:19px 0 10px}
+.asia-nextgen-controls label{display:grid;gap:7px;color:#f8dcec;font-size:12px;font-weight:750}
+.asia-nextgen-controls input,.asia-nextgen-controls select{min-width:0;width:100%;box-sizing:border-box;color:#fff;background:#101c31;border:1px solid #b6d8e48a;border-radius:11px;padding:11px 13px;min-height:45px;font-size:13px}
+.asia-nextgen-status{font-size:12px;color:#cee8ec;margin:12px 0 17px}
+.asia-nextgen-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.asia-nextgen-card{display:flex;flex-direction:column;min-width:0;background:#171f32e8;border:1px solid #a6cbd74a;border-radius:18px;overflow:hidden;box-shadow:0 12px 24px #060d1c3b;transition:transform .2s,border-color .2s}
+.asia-nextgen-card:hover{transform:translateY(-3px);border-color:#e2b6dbb0}
+.asia-nextgen-visual{position:relative;display:flex;align-items:center;justify-content:space-between;padding:16px 18px;min-height:115px;background:radial-gradient(ellipse at 25% 15%,#f3cee74a,transparent 65%),linear-gradient(125deg,#613f6f,#29395c 60%,#315979);overflow:hidden}
+.asia-nextgen-card[data-country=ph] .asia-nextgen-visual{background:radial-gradient(ellipse at 20% 12%,#d9d8fc65,transparent 64%),linear-gradient(125deg,#255d81,#433c75 55%,#6d416d)}
+.asia-nextgen-card:nth-child(3n+2) .asia-nextgen-visual{filter:hue-rotate(14deg)}
+.asia-nextgen-card:nth-child(4n+1) .asia-nextgen-visual{background-image:radial-gradient(circle at 74% 27%,#ffffff25 0 7px,transparent 9px),radial-gradient(ellipse at 12% 85%,#d8b0e646,transparent 57%),linear-gradient(120deg,#594370,#1c4e63)}
+.asia-nextgen-glyph{font:800 67px/1 'Yu Mincho',serif;color:#f9e8f5a8;text-shadow:0 10px 19px #0f203c4d}
+.asia-nextgen-country{position:relative;z-index:2;border:1px solid #fff6;border-radius:25px;background:#0e1a2ea8;color:#fff;padding:7px 10px;font-size:11px;font-weight:800}
+.asia-nextgen-visual img{position:absolute;top:0;left:0;height:100%;width:100%;object-fit:cover;object-position:50% 24%;opacity:.92}
+.asia-nextgen-content{display:flex;flex-direction:column;gap:6px;padding:16px;flex:1}
+.asia-nextgen-kind{align-self:start;color:#b9e4e8;letter-spacing:.13em;font-weight:850;font-size:10px;text-transform:uppercase}
+.asia-nextgen-content h3{margin:0;font-size:19px;color:#fff;line-height:1.2}
+.asia-nextgen-group{color:#f0c9e9;font-size:11px;font-weight:750;margin:0}
+.asia-nextgen-desc{margin:4px 0;color:#d8dfeb;font-size:12px;line-height:1.6;min-height:36px}
+.asia-nextgen-age{font-size:11px;color:#dcebe8;margin:1px 0}
+.asia-nextgen-metric{display:grid;gap:4px;border-radius:11px;padding:10px 12px;background:#9dcfdd11;border:1px solid #b7dee648}
+.asia-nextgen-metric strong{color:#ffe3b9;font-size:21px;font-weight:900;font-variant-numeric:tabular-nums}
+.asia-nextgen-metric span{font-size:10px;color:#d6e4ee}
+.asia-nextgen-links{margin-top:auto;display:flex;gap:7px;flex-wrap:wrap;padding-top:11px}
+.asia-nextgen-links a{font-size:11px;font-weight:750;color:#e1f9f8;text-decoration:none;border:1px solid #a3d8dd6d;padding:8px 10px;border-radius:9px;background:#a3d8dd11}
+.asia-nextgen-links a:hover{background:#b1d7df37}
+.asia-nextgen-more{display:flex;justify-content:center;margin:19px 0}
+.asia-nextgen-more button{border:1px solid #c8e4e8a8;border-radius:25px;background:linear-gradient(95deg,#35697b,#57476d);color:white;font-weight:850;padding:11px 24px;cursor:pointer}
+.asia-nextgen-more button[hidden]{display:none}
+.asia-nextgen-section .asia-disclaimer{font-size:11px;line-height:1.7;max-width:1050px;color:#cadce3}
+@media(max-width:1060px){.asia-nextgen-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:740px){.asia-nextgen-controls{grid-template-columns:1fr 1fr}.asia-nextgen-controls label:first-child{grid-column:1/-1}.asia-nextgen-section{padding:20px 14px}.asia-nextgen-numbers>div{padding:12px}}
+@media(max-width:520px){.asia-nextgen-grid{grid-template-columns:1fr}.asia-nextgen-numbers{grid-template-columns:1fr}.asia-nextgen-controls{grid-template-columns:1fr}.asia-nextgen-controls label:first-child{grid-column:auto}.asia-nextgen-visual{min-height:100px}}
+@media(prefers-reduced-motion:reduce){.asia-nextgen-card,.asia-nextgen-shortcuts button{transition:none}}
