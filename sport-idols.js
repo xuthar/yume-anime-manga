@@ -72,7 +72,7 @@ function makePhoto(p,block,preview){
  if(!p.photo||p.imageFailed)return;
  const image=document.createElement('img');image.alt='Fotografia attribuita a '+(p.latin||p.name);
  image.loading=preview?'eager':'lazy';image.decoding='async';
- image.onload=()=>{p.photoValid=true;image.dataset.loaded='true';if(photoOnly.checked&&!preview)render()};
+ image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;image.dataset.loaded='true';if(first&&photoOnly.checked&&!preview)render()};
  image.onerror=()=>{p.photoValid=false;p.imageFailed=true;image.remove();if(photoOnly.checked)render()};
  image.src=p.photo;block.append(image)
 }
