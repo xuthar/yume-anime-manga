@@ -25,6 +25,7 @@
  byId('catalog-label').textContent=selected.label;
  byId('catalog-symbol').textContent=selected.symbol;
  byId('catalog-title').textContent=selected.title;
+ byId('catalog-breadcrumb-label').textContent=selected.title;
  byId('catalog-description').textContent=selected.description;
  document.title=selected.title+' · Idols | Yume Anime & Manga';
  const dir=byId('idols-directory'),disc=byId('idols-discover'),wiki=byId('jpop-wiki-rosters');
