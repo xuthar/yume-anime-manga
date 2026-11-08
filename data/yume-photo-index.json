@@ -7,12 +7,19 @@
       "total": 299
     },
     "asia": {
-      "photos": 80,
-      "total": 602
+      "photos": 109,
+      "total": 709,
+      "notes": "109 foto Commons indicizzate su 709 profili; 29 nuove schede con file individuale; disponibilità HTTP soggetta al provider"
     },
     "japan": {
-      "photos": 24,
-      "total": 461
+      "photos": 29,
+      "total": 1138,
+      "notes": "29 immagini con fonte Commons su tutto il repertorio storico Yume Discovery"
+    },
+    "global": {
+      "photos": 1,
+      "total": 10,
+      "notes": "Foto child creator esclusivamente professionale e pubblicamente autorizzata"
     }
   },
   "sport": {
@@ -2832,5 +2839,18 @@
       "verifiedAt": "2026-11-08"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali."
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali.",
+  "global": {
+    "likenastya": {
+      "name": "Like Nastya",
+      "file": "Anastasia Radzinskaya.png",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anastasia_Radzinskaya.png?width=480",
+      "alternates": [],
+      "source": "https://commons.wikimedia.org/wiki/File:Anastasia_Radzinskaya.png",
+      "license": "CC BY-SA 2.0 · autoritratto editoriale condiviso dal canale professionale Like Nastya su Flickr, Flickr review Commons",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Anastasia_Radzinskaya.png",
+      "verifiedAt": "2026-11-08"
+    }
+  }
 }
