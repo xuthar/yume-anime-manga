@@ -1931,45 +1931,6 @@
       "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
       "validatedAt": "2026-11-08"
     },
-    "hikakin": {
-      "name": "HIKAKIN",
-      "file": "Hikakin 2026 - Odaiba (cropped).jpg",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hikakin_2026_-_Odaiba_(cropped).jpg?width=500",
-      "alternates": [
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hikakin_2026_-_Odaiba_(cropped).jpg"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Hikakin_2026_-_Odaiba_(cropped).jpg",
-      "license": "CC BY 4.0; Mister Mega",
-      "verified": true,
-      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
-      "validatedAt": "2026-11-08"
-    },
-    "hajimesyacho": {
-      "name": "Hajime Syacho",
-      "file": "Hajime YouTuber 2018.jpg",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hajime_YouTuber_2018.jpg?width=500",
-      "alternates": [
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hajime_YouTuber_2018.jpg"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Hajime_YouTuber_2018.jpg",
-      "license": "CC BY 3.0; とある男が授業をしてみた",
-      "verified": true,
-      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
-      "validatedAt": "2026-11-08"
-    },
-    "hikaru(youtuber)": {
-      "name": "Hikaru (YouTuber)",
-      "file": "Hikaru YouTuber.png",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hikaru_YouTuber.png?width=500",
-      "alternates": [
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Hikaru_YouTuber.png"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Hikaru_YouTuber.png",
-      "license": "Wikimedia Commons; consultare pagina file",
-      "verified": true,
-      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
-      "validatedAt": "2026-11-08"
-    },
     "yukafurukawa": {
       "name": "Yuka Furukawa",
       "qid": "Q79951150",
@@ -2036,60 +1997,7 @@
       "verified": true,
       "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
       "validatedAt": "2026-11-08"
-    },
-    "kimagurecook": {
-      "name": "Kimagure Cook",
-      "file": "Kimagure-cook.png",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimagure-cook.png?width=500",
-      "alternates": [
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kimagure-cook.png"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Kimagure-cook.png",
-      "license": "CC BY 3.0; YouTube creator source",
-      "verified": true,
-      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
-      "validatedAt": "2026-11-08"
-    },
-    "masuo": {
-      "name": "Masuo",
-      "qid": "Q81783459",
-      "file": "Masuo YouTuber.png",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Masuo_YouTuber.png?width=500",
-      "alternates": [
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Masuo_YouTuber.png"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Masuo_YouTuber.png",
-      "license": "CC BY 3.0; MasuoGames",
-      "verified": true,
-      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
-      "validatedAt": "2026-11-08"
-    },
-    "kazu(youtuber)": {
-      "name": "Kazu (YouTuber)",
-      "file": "Kazu - YouTuber - Yokohama - 2023 May 20 02-32PM.jpeg",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazu_-_YouTuber_-_Yokohama_-_2023_May_20_02-32PM.jpeg?width=500",
-      "alternates": [
-        "https://commons.wikimedia.org/wiki/Special:FilePath/Kazu_-_YouTuber_-_Yokohama_-_2023_May_20_02-32PM.jpeg"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Kazu_-_YouTuber_-_Yokohama_-_2023_May_20_02-32PM.jpeg",
-      "license": "CC BY 4.0; Nesnad",
-      "verified": true,
-      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
-      "validatedAt": "2026-11-08"
-    },
-    "susuru": {
-      "name": "SUSURU",
-      "file": "SUSURU2022.jpg",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/SUSURU2022.jpg?width=500",
-      "alternates": [
-        "https://commons.wikimedia.org/wiki/Special:FilePath/SUSURU2022.jpg"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:SUSURU2022.jpg",
-      "license": "CC BY 3.0; 大食いらすかる",
-      "verified": true,
-      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
-      "validatedAt": "2026-11-08"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: ritratti creator con corrispondenza Commons e fonte del file."
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: ritratti creator con corrispondenza Commons e fonte del file. · 2026-11-08: rimossi dall'indice fotografico gli account di creator maschili non più inclusi nella raccolta Idols."
 }
