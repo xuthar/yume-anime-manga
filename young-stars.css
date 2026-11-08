@@ -15,7 +15,7 @@ body.young-page{background:linear-gradient(150deg,#161e32ec,#161a2de9),url('asse
 .young-stats span{font-size:12px;color:#c9d2e0}
 .young-section{scroll-margin-top:38px}.young-section-head{max-width:890px}.young-section-head h2,.young-next h2{font:790 clamp(28px,4vw,45px)/1.17 Outfit,system-ui,sans-serif;color:white;margin:12px 0}
 .young-section-head p{font-size:14px;line-height:1.75;color:#ced7e5}
-.young-controls{display:grid;grid-template-columns:2.1fr 1fr 1fr 1fr;gap:12px;background:#24293eeb;border:1px solid #b6d9d652;border-radius:15px;padding:17px;margin:27px 0 17px}
+.young-controls{display:grid;grid-template-columns:1.8fr 1fr 1fr 1fr 1fr;gap:12px;background:#24293eeb;border:1px solid #b6d9d652;border-radius:15px;padding:17px;margin:27px 0 17px}
 .young-controls label{display:grid;gap:7px;color:#dff1f0;font-size:12px;font-weight:750}
 .young-controls select,.young-controls input{width:100%;min-width:0;min-height:44px;border:1px solid #a9d6da89;border-radius:10px;background:#141c2d;color:#f4f7fb;padding:10px 12px;box-sizing:border-box;font-size:13px}
 .young-filters{display:flex;gap:7px;flex-wrap:wrap;margin:10px 0 18px}
@@ -43,3 +43,10 @@ body.young-page{background:linear-gradient(150deg,#161e32ec,#161a2de9),url('asse
 @media(max-width:760px){.young-main{width:calc(100% - 20px)}.young-hero{grid-template-columns:1fr}.young-hero-symbols{display:none}.young-stats,.young-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.young-card-top{height:145px}}
 @media(max-width:420px){.young-controls{grid-template-columns:1fr}.young-card-top{height:124px}.young-card-body{padding:11px}.young-card h3{font-size:14px}.young-card-links a{font-size:10px;padding:7px}.young-hero h1{font-size:49px}}
 @media(prefers-reduced-motion:reduce){.young-card-top img{transition:none}}
+
+/* Young Stars November 2026: source-led public creator metrics and readable descriptions */
+.young-description{color:#d6e3ee;font-size:12px;line-height:1.55;margin:2px 0 5px}
+.young-audience{display:flex;align-items:baseline;flex-wrap:wrap;gap:3px;margin:4px 0;padding:9px 11px;background:#a3d2db16;border:1px solid #a3d2db4f;border-radius:10px;color:#deeeeb;font-size:11px}
+.young-audience strong{font-size:14px;color:#f9e5b8}.young-audience a{color:#b6e5e5;margin-left:5px;text-decoration:none;font-weight:750}
+.young-card-top>span:first-child{user-select:none}
+.young-card-links a:focus-visible,.young-audience a:focus-visible{outline:2px solid #ffe1ab;outline-offset:3px}
