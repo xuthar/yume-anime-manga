@@ -36,7 +36,8 @@
   if(!p.teenSafe||!['music','fashion'].includes(p.category)||!p.birth)continue;
   add({name:p.name,alternate:p.alternate,scene:'jp',collection:'Idols Giappone',category:p.category,
    group:p.group||(p.category==='fashion'?'Seventeen':''),birth:p.birth,
-   source:p.source,sourceLabel:p.sourceLabel||'Profilo ufficiale',archive:'japan'})
+   source:p.source,sourceLabel:p.sourceLabel||'Profilo ufficiale',archive:'japan',
+   platforms:p.tiktokHandle?[['TikTok','https://www.tiktok.com/@'+p.tiktokHandle]]:[],description:p.editorialBio||null})
  }
  for(const p of asia.people){
   if(!p.birth&&!p.birthYear)continue;
@@ -46,7 +47,11 @@
   add({name:p.name,alternate:p.alternate,scene:p.country,collection:'Asia Idols',
    category:p.category==='actors'?'acting':p.category,birth:p.birth,birthYear:p.birthYear,
    group:p.groups?.[0]||'',source:src,sourceLabel:asia.sources[p.sourceIds?.[0]]?.title||'Profilo artista',
-   archive:'asia',nationality:p.nationality||null})
+   archive:'asia',nationality:p.nationality||null,
+   description:p.editorialBio||p.tiktokFocus||null,
+   platforms:[...(p.tiktokHandle?[['TikTok','https://www.tiktok.com/@'+p.tiktokHandle]]:[]),
+    ...(p.tiktokGroupHandles||[]).map(h=>['TikTok · account del gruppo '+(p.tiktokGroupName||'idol'), 'https://www.tiktok.com/@'+h])]
+  })
  }
  for(const p of (window.YumeYoungSpotlight?.people||[])){
   add({...p,sourceLabel:p.sourceLabel||'Scheda pubblica',archive:p.archive||'global'});
