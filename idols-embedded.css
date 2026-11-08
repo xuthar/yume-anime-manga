@@ -1,0 +1,15 @@
+/* Active only for catalog pages embedded in Idols. Direct URLs remain unchanged. */
+html.idols-embedded body>header,
+html.idols-embedded body>footer,
+html.idols-embedded body>.yn-dock,
+html.idols-embedded body>.yn-menu,
+html.idols-embedded .yume-scene-ribbon,
+html.idols-embedded .yume-counts-section,
+html.idols-embedded .yume-young-teaser,
+html.idols-embedded .asia-next,
+html.idols-embedded .sport-next,
+html.idols-embedded .young-next{display:none!important}
+html.idols-embedded body{padding-top:0!important;padding-bottom:12px!important;margin:0;background:#15192b!important}
+html.idols-embedded body>main{margin:0 auto!important;padding:12px clamp(8px,2.5vw,24px) 35px!important;width:100%!important;max-width:1440px!important}
+html.idols-embedded .asia-hero,html.idols-embedded .sport-hero,html.idols-embedded .young-hero{margin-top:0!important}
+html.idols-embedded .skip{display:none!important}
