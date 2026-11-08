@@ -18,8 +18,9 @@
   young:{title:'Young Stars',desc:'Talenti di 10–19 anni, solo informazioni professionali e fonti pubbliche.',url:'young-stars.html?embedded=1'}
  };
  const editorialCategories={cosplay:'cosplay',gravure:'gravure',jav:'jav',adult:'adult',fashion:'fashion',creators:'creators',music:'music',vtuber:'vtuber',groups:'groups'};
+ const spotlightCategories={jpopwiki:'jpop-wiki-rosters'};
  const normalize=(value)=>String(value||'').replace(/^#idol-/,'');
- const known=new Set([...Object.keys(sections),...Object.keys(editorialCategories)]);
+ const known=new Set([...Object.keys(sections),...Object.keys(editorialCategories),...Object.keys(spotlightCategories)]);
  let current='';
  function openSection(value,{record=true,scroll=false}={}){
   const key=known.has(value)?value:'japan';
@@ -35,15 +36,17 @@
   catalog.hidden=page==='japan';
   title.textContent=isPage?detail.title:({
    cosplay:'Cosplay & creator',gravure:'Gravure',jav:'JAV · 18+',adult:'Adult · 18+',
-   fashion:'Moda & modelle',creators:'Creator & influencer',music:'Idol musicali',vtuber:'VTuber',groups:'Gruppi idol'
+   fashion:'Moda & modelle',creators:'Creator & influencer',music:'Idol musicali',vtuber:'VTuber',groups:'Gruppi idol',jpopwiki:'Nuovi gruppi · Japanese Music Wiki'
   })[key]||detail.title;
-  description.textContent=isPage?detail.desc:'Esplora questa categoria nell’archivio giapponese. I contenuti per adulti rimangono protetti da conferma 18+.';
+  description.textContent=isPage?detail.desc:key==='jpopwiki'?'Gruppi emergenti 2024–2026, roster, nomi delle componenti e fonti consultabili.':'Esplora questa categoria nell’archivio giapponese. I contenuti per adulti rimangono protetti da conferma 18+.';
   if(page!=='japan'){
    const url=sections[page].url;
    if(viewer.dataset.loadedSection!==page){
     viewer.src=url;viewer.dataset.loadedSection=page;
     status.textContent='Caricamento '+detail.title+'…';
    }
+  }else if(spotlightCategories[key]){
+   document.getElementById(spotlightCategories[key])?.scrollIntoView({behavior:scroll?'smooth':'instant',block:'start'});
   }else if(!isPage){
    // The existing discovery UI handles JAV/Adult age confirmation itself.
    const button=document.querySelector('[data-discovery-category="'+editorialCategories[key]+'"]');
