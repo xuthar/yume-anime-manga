@@ -1,15 +1,16 @@
 <!doctype html><html lang="it"><head>
 <meta charset="utf-8"><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#172238"><meta name="description" content="Yume Young Stars: giovani protagoniste di musica, moda, cinema e sport dell'Asia, 13–19 anni, con date di nascita e fonti professionali verificabili.">
-<title>Young Stars · Talenti 13–19 anni — Yume</title>
+<meta name="theme-color" content="#172238"><meta name="description" content="Yume Young Stars: giovani protagoniste di musica, moda, cinema e sport dell'Asia, 10–19 anni, con fonti pubbliche documentabili e canali creator riconoscibili.">
+<title>Young Stars · Pre-teen, teen, creator e talenti — Yume</title>
 <link rel="icon" href="favicon.svg"><link rel="stylesheet" href="style.css?v=20261108-menu-fix1">
-<link rel="stylesheet" href="young-stars.css?v=20261108-y1">
+<link rel="stylesheet" href="young-stars.css?v=20261108-y2">
 <script defer src="idols-discovery-data.js?v=20261108-young2"></script>
 <script defer src="asia-idols-data.js?v=20261108-young2"></script>
 <script defer src="sport-idols-data.js?v=20261108-young2"></script>
-<script defer src="young-stars-data.js?v=20261108-y1"></script>
+<script defer src="young-stars-spotlight-data.js?v=20261108-y2"></script>
+<script defer src="young-stars-data.js?v=20261108-y2"></script>
 <script defer src="yume-photo-store.js?v=20261108-portrait3"></script>
-<script defer src="young-stars.js?v=20261108-y1"></script>
+<script defer src="young-stars.js?v=20261108-y2"></script>
 <script defer src="yume-global-nav.js?v=20261108-young1"></script>
 </head>
 <body class="young-page">
@@ -20,32 +21,32 @@
 <section class="young-hero">
  <div class="young-hero-copy"><span class="young-kicker">未来 · 次世代 · YOUNG STARS 2026</span>
  <h1>Young <em>Stars</em> <span aria-hidden="true">✧</span></h1>
- <p>Le nuove generazioni del pop asiatico: artiste, modelle di moda, attrici e sportive tra i 13 e i 19 anni. Talenti già presenti nei nostri cataloghi e nuove protagoniste documentate attraverso agenzie, riviste, federazioni e profili ufficiali.</p>
+ <p>Dalle idol asiatiche alle nuove voci internazionali: musica, cinema, sport, moda e creator tra i 10 e i 19 anni. Una selezione documentata attraverso agenzie, testate, federazioni, canali familiari e profili professionali pubblici.</p>
  <a class="young-cta" href="#young-directory">Esplora tutti i profili ↓</a>
- <p class="young-policy">Un archivio culturale e professionale, senza contenuti sessualizzati. Nessun collegamento alle categorie gravure, JAV o adult.</p></div>
+ <p class="young-policy">Per gli under 13 soltanto canali familiari e produzioni pubbliche già consolidate; nessun account personale privato. Archivio separato da gravure, JAV e adult.</p></div>
  <div class="young-hero-symbols" aria-hidden="true"><span>輝</span><span>夢</span><span>星</span></div>
 </section>
 <div class="young-stats" role="group" aria-label="Statistiche Young Stars">
- <div><strong id="young-total">—</strong><span>Profili 13–19 anni</span></div>
+ <div><strong id="young-total">—</strong><span>Profili 10–19 anni</span></div>
  <div><strong id="young-scenes">—</strong><span>Paesi rappresentati</span></div>
  <div><strong id="young-music">—</strong><span>Musica</span></div>
- <div><strong id="young-other">—</strong><span>Moda e sport</span></div>
+ <div><strong id="young-other">—</strong><span>Altre attività</span></div>
 </div>
 <section class="young-section" id="young-directory" aria-labelledby="young-title">
  <div class="young-section-head"><span class="young-kicker">人物 · ARTISTE & ATLETE</span>
  <h2 id="young-title">Una generazione da scoprire.</h2>
- <p>Le età vengono ricalcolate in base alla data corrente. Una persona non compare più in Young Stars quando compie vent'anni. Le schede senza una data di nascita documentata non vengono classificate come teen per supposizione.</p></div>
+ <p>Le età si aggiornano automaticamente: le schede escono da Young Stars al compimento dei vent’anni. Solo date di nascita documentate, oppure anni di nascita con età indicata come approssimativa. Gli iscritti sono quelli dei canali, rilevati alla data indicata.</p></div>
  <div class="young-controls">
  <label>Cerca per nome o gruppo<input id="young-query" type="search" autocomplete="off" placeholder="Es. MORE STAR, Iroha, BNK48, 清水さら…"></label>
- <label>Sezione<select id="young-archive"><option value="all">Tutte le sezioni</option><option value="japan">Idols Giappone</option><option value="asia">Asia Idols</option><option value="sport">Sport Idols</option></select></label>
+ <label>Sezione<select id="young-archive"><option value="all">Tutte le sezioni</option><option value="japan">Idols Giappone</option><option value="asia">Asia Idols</option><option value="sport">Sport Idols</option><option value="global">Creator e talenti internazionali</option></select></label>
  <label>Paese<select id="young-country"><option value="all">Tutti i paesi</option></select></label>
- <label>Fascia d'età<select id="young-age"><option value="all">13–19 anni</option><option value="13-15">13–15 anni</option><option value="16-17">16–17 anni</option><option value="18-19">18–19 anni</option></select></label>
+ <label>Fascia d'età<select id="young-age"><option value="all">10–19 anni</option><option value="10-12">10–12 anni (junior)</option><option value="13-15">13–15 anni</option><option value="16-17">16–17 anni</option><option value="18-19">18–19 anni</option></select></label>
  </div>
  <div class="young-filters" id="young-categories" role="group" aria-label="Filtra per tipo di attività"></div>
  <p class="young-status" role="status" aria-live="polite" id="young-status"></p>
  <div class="young-grid" id="young-grid"></div>
  <div class="young-more-row"><button type="button" id="young-more">Mostra altre schede ↓</button></div>
- <p class="young-source-note">Le schede riportano esclusivamente nomi artistici, attività, dati biografici già pubblicati e collegamenti alle fonti ufficiali. Le fotografie provengono solo da Wikimedia Commons, se disponibili e attribuite con certezza. Per gli altri profili, il pulsante «Profilo ufficiale» apre la pagina originale con le sue immagini. Nessuna ricerca di recapiti personali, scuole frequentate, indirizzi o account privati.</p>
+ <p class="young-source-note">Profili di attività pubbliche, non repertori di vita privata. Le eventuali cifre social rappresentano gli iscritti ai canali alla data della fonte, non il seguito personale del singolo minore. Le fotografie compaiono solo se attribuite con certezza e con fonte Wikimedia Commons. Le schede senza foto rimandano ai media ufficiali senza copiare immagini protette. Nessun dato di scuola, indirizzo, contatto personale o account privato.</p>
 </section>
 <section class="young-next"><div><span class="young-kicker">UNIVERSO YUME</span><h2>Esplora gli archivi completi</h2></div>
  <div class="young-next-links"><a href="idols.html">Idols Giappone ↗</a><a href="asia-idols.html">Asia Idols ↗</a><a href="sport-idols.html">Sport Idols ↗</a></div>
