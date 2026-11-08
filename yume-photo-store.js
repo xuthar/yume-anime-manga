@@ -47,6 +47,7 @@
  }
  // Additional precisely identified portraits. Every file page documents a
  // Commons license: no commercial/social avatar hotlinks, no generated likeness.
+ fallback.japan=fallback.japan||{};
  const tiktokCommons=[
   ['asia','ph','Jillian Ward','Jillian Ward, 2025 (cropped).jpg'],
   ['asia','ph','Kyline Alcantara','Kyline Alcantara 2025.jpg'],
