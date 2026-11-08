@@ -23,6 +23,7 @@ function qid(v){return v&&typeof v==='object'&&/^Q\d+$/.test(v.id||'')?v.id:null
 function date(v){if(!v||!v.time)return null;const m=v.time.match(/^\+?(\d{4})-(\d{2})-(\d{2})/);if(!m)return null;const p=v.precision||0;return p>=11?m[3]+'/'+m[2]+'/'+m[1]:p>=10?m[2]+'/'+m[1]:m[1]}
 function year(v){const m=v?.time?.match(/^\+?(\d{4})/);return m?Number(m[1]):0}
 function height(v){const n=Number(v?.amount);if(!Number.isFinite(n)||n<=0)return null;const cm=n<3?n*100:n;return cm>80&&cm<240?Math.round(cm)+' cm':null}
+function weight(v){const n=Number(v?.amount);return Number.isFinite(n)&&n>=30&&n<=250?Math.round(n)+' kg':null}
 function imageUrl(v){if(typeof v!=='string'||!v.trim())return null;return 'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(v.trim().replace(/^File:/i,''))+'?width=480'}
 function social(handle,site){if(typeof handle!=='string'||!handle||handle.length>120)return null;return site==='x'?'https://x.com/'+encodeURIComponent(handle.replace(/^@/,'')):'https://www.instagram.com/'+encodeURIComponent(handle.replace(/^@/,''))+'/'}
 async function getEntities(ids,parts='labels|descriptions|claims|sitelinks'){
@@ -32,10 +33,10 @@ async function getEntities(ids,parts='labels|descriptions|claims|sitelinks'){
  const data=await res.json();if(!data.entities)throw Error('Risposta senza entità');return data.entities;
 }
 function build(e,k){
- const v=p=>claim(e,p),web=safeUrl(v('P856')),photo=imageUrl(v('P18')),group=qid(v('P463')),work=qid(v('P800'));
+ const v=p=>claim(e,p),web=safeUrl(v('P856')),photo=imageUrl(v('P18')),group=qid(v('P463')),work=qid(v('P800')),hair=qid(v('P1884')),eyes=qid(v('P1340'));
  const it=e.sitelinks?.itwiki?.title,en=e.sitelinks?.enwiki?.title,ja=e.sitelinks?.jawiki?.title;
  const wiki=it?'https://it.wikipedia.org/wiki/'+encodeURIComponent(it.replace(/ /g,'_')):en?'https://en.wikipedia.org/wiki/'+encodeURIComponent(en.replace(/ /g,'_')):ja?'https://ja.wikipedia.org/wiki/'+encodeURIComponent(ja.replace(/ /g,'_')):null;
- return{id:e.id,name:label(e),description:desc(e)||conf[k].bio,birth:date(v('P569')),birthYear:year(v('P569')),height:height(v('P2048')),photo,photoFile:v('P18'),web,x:social(v('P2002'),'x'),instagram:social(v('P2003'),'ig'),wiki,group,work,linked:[],source:'https://www.wikidata.org/wiki/'+e.id};
+ return{id:e.id,name:label(e),description:desc(e)||conf[k].bio,birth:date(v('P569')),birthYear:year(v('P569')),height:height(v('P2048')),weight:weight(v('P2067')),careerStart:year(v('P2031')),careerEnd:year(v('P2032')),photo,photoFile:v('P18'),web,x:social(v('P2002'),'x'),instagram:social(v('P2003'),'ig'),wiki,group,work,hair,eyes,linked:[],source:'https://www.wikidata.org/wiki/'+e.id};
 }
 async function load(k=active){
  const s=state[k];if(s.busy||s.exhausted)return;s.busy=true;s.error=false;render();
@@ -49,8 +50,8 @@ async function load(k=active){
   const ids=rows.map(r=>(r.person?.value||'').match(/Q\d+$/)?.[0]).filter(Boolean);
   if(ids.length===0)s.exhausted=true;
   const entities=await getEntities(ids),newPeople=ids.map(q=>entities[q]).filter(e=>e&&e.id&&e.type==='item').map(e=>build(e,k));
-  const linkedIds=[...new Set(newPeople.flatMap(p=>[p.group,p.work].filter(Boolean)))].slice(0,45);
-  if(linkedIds.length){try{const related=await getEntities(linkedIds,'labels');for(const p of newPeople){for(const [field,kind] of [['group','Gruppo / associazione'],['work','Opera segnalata']]){const q=p[field],obj=related[q];if(q&&obj)p.linked.push({name:kind,value:label(obj),url:'https://www.wikidata.org/wiki/'+q})}}}catch{}}
+  const linkedIds=[...new Set(newPeople.flatMap(p=>[p.group,p.work,p.hair,p.eyes].filter(Boolean)))].slice(0,45);
+  if(linkedIds.length){try{const related=await getEntities(linkedIds,'labels');for(const p of newPeople){for(const [field,kind] of [['group','Gruppo / associazione'],['work','Opera segnalata'],['hair','Capelli'],['eyes','Occhi']]){const q=p[field],obj=related[q];if(q&&obj)p.linked.push({name:kind,value:label(obj),url:'https://www.wikidata.org/wiki/'+q})}}}catch{}}
   s.offset+=ids.length;
   for(const p of newPeople){if(!s.ids.has(p.id)){s.ids.add(p.id);s.people.push(p)}}
   if(ids.length<48||newPeople.length===0)s.exhausted=true;
@@ -77,8 +78,9 @@ function showProfile(p){
  if(p.photo){const img=document.createElement('img');img.src=p.photo;img.alt='Foto di '+p.name;img.onerror=()=>media.replaceChildren(el('span','✿'));media.append(img)}else media.append(el('span','✿'));
  info.append(el('span',conf[active].name.toUpperCase(),'idol-kicker'));
  const heading=el('h2',p.name);heading.id='idol-profile-title';info.append(heading,el('p',p.description));
+ if(p.careerStart){const span=p.careerEnd&&p.careerEnd>=p.careerStart?String(p.careerStart)+'–'+p.careerEnd:'dal '+p.careerStart;info.append(el('p','Periodo di attività documentato: '+span+'.'))}
  const dl=el('dl',null,'idol-facts');
- const facts=[['Nascita',p.birth||'Non verificata'],['Altezza',p.height||'Non documentata'],['Settore',conf[active].name],['Identificativo',p.id]];
+ const facts=[['Nascita',p.birth||'Non verificata'],['Altezza',p.height||'Non documentata'],['Peso',p.weight||'Non documentato'],['Settore',conf[active].name],['Identificativo',p.id]];
  for(const [k,v] of facts){const box=el('div');box.append(el('dt',k),el('dd',v));dl.append(box)}
  info.append(dl);
  if(p.linked.length){const h=el('h3','Attività e opere documentate');h.style.fontSize='17px';info.append(h);for(const x of p.linked){const row=el('p',x.name+': ');row.append(link(x.value,x.url));info.append(row)}}
