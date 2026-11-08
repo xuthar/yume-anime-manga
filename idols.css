@@ -132,3 +132,14 @@
 .idol-asia-teaser p{font-size:14px;line-height:1.7;color:#ddd3e6}
 .idol-asia-symbol{font:750 90px/1 'Yu Mincho',serif;text-align:center;color:#bcebe7aa}
 @media(max-width:650px){.idol-asia-teaser{grid-template-columns:1fr;margin:14px 0 35px;padding:20px}.idol-asia-symbol{display:none}}
+
+
+/* Creator portrait integrity: photo-first presentation with explicit missing-photo state. */
+.discovery-portrait.is-unavailable{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:7px;padding:10px 7px;box-sizing:border-box;text-align:center;background:radial-gradient(circle at 18% 22%,#d8a9d84a,transparent 50%),linear-gradient(140deg,#3b3458,#202f49);color:#e5d1e5}
+.discovery-portrait-glyph{display:block;font-family:'Yu Mincho',serif;font-size:48px;color:#f0c5e9;line-height:1;text-shadow:0 5px 15px #11172d88}
+.discovery-portrait.is-unavailable small{display:block;font-size:9px;line-height:1.4;color:#e3dae9}
+.discovery-photo-choice{display:inline-flex!important;flex-direction:row!important;align-items:center;gap:8px;color:#f0d5e8;font-size:11px!important;flex:0 0 auto}
+.discovery-photo-choice input{width:17px!important;height:17px!important;min-width:17px;accent-color:#e6b9e4;padding:0}
+.idols-page .discovery-card .discovery-portrait{flex-shrink:0;width:118px;min-width:118px;min-height:166px}
+.idols-page .discovery-card .discovery-portrait img{object-position:center 20%;background:#2a2d45}
+@media(max-width:650px){.idols-page .discovery-card .discovery-portrait{width:106px;min-width:106px;min-height:150px}}
