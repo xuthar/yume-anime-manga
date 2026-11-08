@@ -2771,6 +2771,65 @@
       "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E5%80%89%E5%84%AA%E9%A6%99.png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
       "verified": true
+    },
+    "ayahazuki": {
+      "name": "Aya Hazuki",
+      "qid": "Q24864202",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aya_Hazuki%2C_2017_(cropped).jpg?width=480",
+      "alternates": [],
+      "file": "Aya Hazuki, 2017 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aya_Hazuki%2C_2017_(cropped).jpg",
+      "license": "Wikimedia Commons · verificare licenza e autore sulla pagina del file",
+      "verified": true,
+      "photoIdentitySource": "https://rip.ne.jp/management/hazuki/",
+      "verifiedAt": "2026-11-08"
+    },
+    "yuukimita": {
+      "name": "Yuuki Mita",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tregal_Academy_Cultural_Festival_2026IMG_7022.jpg?width=480",
+      "alternates": [],
+      "file": "Tregal Academy Cultural Festival 2026IMG 7022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tregal_Academy_Cultural_Festival_2026IMG_7022.jpg",
+      "license": "Wikimedia Commons · verificare licenza e autore sulla pagina del file",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Yuuki_Mita",
+      "verifiedAt": "2026-11-08"
+    },
+    "kureahazuki": {
+      "name": "Kurea Hazuki",
+      "qid": "Q125926260",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%91%89%E6%9C%88%E3%81%8F%E3%82%8C%E3%81%82_%E3%83%9F%E3%82%B9%E3%83%9E%E3%82%AC%E6%94%BE%E8%AA%B2%E5%BE%8CRADIO%EF%BC%81_%E6%B8%8B%E8%B0%B7%E3%82%AF%E3%83%AD%E3%82%B9FM_2024%E5%B9%B49%E6%9C%885%E6%97%A5%E3%81%AE%E6%B8%8B%E8%B0%B7_202409051844_IMG_5415.jpg?width=480",
+      "alternates": [],
+      "file": "葉月くれあ ミスマガ放課後RADIO！ 渋谷クロスFM 2024年9月5日の渋谷 202409051844 IMG 5415.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%91%89%E6%9C%88%E3%81%8F%E3%82%8C%E3%81%82_%E3%83%9F%E3%82%B9%E3%83%9E%E3%82%AC%E6%94%BE%E8%AA%B2%E5%BE%8CRADIO%EF%BC%81_%E6%B8%8B%E8%B0%B7%E3%82%AF%E3%83%AD%E3%82%B9FM_2024%E5%B9%B49%E6%9C%885%E6%97%A5%E3%81%AE%E6%B8%8B%E8%B0%B7_202409051844_IMG_5415.jpg",
+      "license": "Wikimedia Commons · verificare licenza e autore sulla pagina del file",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Kurea_Hazuki",
+      "verifiedAt": "2026-11-08"
+    },
+    "rinahashimoto": {
+      "name": "Rina Hashimoto",
+      "qid": "Q22123423",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_15%2C_2024)Rina_Hashimoto_IMG_6263.jpg?width=480",
+      "alternates": [],
+      "file": "Trend Girls Photo Session (September 15, 2024)Rina Hashimoto IMG 6263.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trend_Girls_Photo_Session_(September_15%2C_2024)Rina_Hashimoto_IMG_6263.jpg",
+      "license": "Wikimedia Commons · verificare licenza e autore sulla pagina del file",
+      "verified": true,
+      "photoIdentitySource": "https://rip.ne.jp/management/hashimoto/",
+      "verifiedAt": "2026-11-08"
+    },
+    "noemita": {
+      "name": "Noe Mita",
+      "qid": "Q126007385",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(April_29%2C_2024)051940.jpg?width=480",
+      "alternates": [],
+      "file": "Kindai Mahjong Swimsuit Festival (April 29, 2024)051940.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kindai_Mahjong_Swimsuit_Festival_(April_29%2C_2024)051940.jpg",
+      "license": "Wikimedia Commons · verificare licenza e autore sulla pagina del file",
+      "verified": true,
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Noe_Mita",
+      "verifiedAt": "2026-11-08"
     }
   },
   "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali."
