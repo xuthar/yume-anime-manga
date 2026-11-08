@@ -75,12 +75,17 @@ for(const p of dedup.values()){
 const people=[...dedup.values()];
 function categoriesOf(p){return [...p.categories].map(x=>labels[x]||x).join(' · ')}
 function imageCard(p){
- const file=p.photoFile;if(!file)return null;
+ const verified=window.YumePhotoStore?.get('japan',p.name);
+ const candidates=[];
+ if(verified?.verified&&verified.photo)candidates.push(verified.photo,...(verified.alternates||[]));
+ if(p.photoFile)candidates.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile)+'?width=360');
+ if(!candidates.length)return null;
+ const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&x.startsWith('https://')))];
  const wrap=make('div','discovery-portrait'),img=document.createElement('img');
  img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';
- img.onerror=()=>{wrap.remove();};
- img.src='https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file)+'?width=360';
- wrap.append(img);return wrap
+ let i=0;
+ img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else wrap.remove()};
+ img.src=urls[0];wrap.append(img);return wrap
 }
 function item(p){
  const item=make('article','discovery-card'),visual=imageCard(p);if(visual)item.append(visual);
@@ -97,6 +102,8 @@ function item(p){
  const profile=p.officialProfile||p.sources[0].url;
  actions.append(link(p.officialProfile?'Profilo ufficiale ↗':'Apri fonte ↗',profile));
  if(p.qid)actions.append(link('Wikidata ↗','https://www.wikidata.org/wiki/'+p.qid));
+ const photoRecord=window.YumePhotoStore?.get('japan',p.name);
+ if(photoRecord?.verified&&photoRecord.source)actions.append(link('Licenza foto ↗',photoRecord.source));
  if(idolRosterX[p.name])actions.append(link('X · dal portale ↗','https://x.com/'+idolRosterX[p.name]));
  if(!p.officialProfile)actions.append(link('Cerca foto ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+(p.alternate||'')+' official profile')));
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
@@ -127,4 +134,5 @@ gate.addEventListener('click',()=>{try{sessionStorage.setItem('yume-idols-adult-
 cancel.addEventListener('click',()=>{pending=null;ageDialog.close()});
 ageDialog.addEventListener('close',()=>{pending=null});
 render();
+window.YumePhotoStore?.ready.then(()=>render()).catch(()=>{});
 })();

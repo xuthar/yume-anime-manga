@@ -169,7 +169,7 @@ function detail(p){
  for(const source of pageSources(p))links.append(external('Fonte · '+source.title+' ↗',source.url));
  for(const [name,url] of p.verifiedLinks||[])links.append(external(name+' ↗',url));
  if(p.entityId)links.append(external('Wikidata ↗','https://www.wikidata.org/wiki/'+p.entityId));
- if(p.photoFile)links.append(external('Foto e licenza Commons ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));
+ if(p.photoSource||p.photoFile)links.append(external('Foto e licenza Commons ↗',p.photoSource||'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));
  if(!p.entityId&&p.category!=='vtuber'){
   const verify=$make('button',null,'Verifica foto, data e social');verify.type='button';verify.disabled=p.status==='loading';
   verify.addEventListener('click',async()=>{verify.disabled=true;verify.textContent='Ricerca in corso…';p.status='idle';await resolve(p);detail(p);render()});links.append(verify)
@@ -241,5 +241,24 @@ scanBtn.addEventListener('click',async()=>{
 });
 const initialCountry=window.location?.hash?.slice(1)||'all';
 if(countries[initialCountry])selectCountry(initialCountry);else{groupOptions();render()}
+function applyPhotoIndexAsia(){
+ const source=window.YumePhotoStore;if(!source)return;
+ let added=0;
+ for(const p of persons){
+  if(p.category==='vtuber')continue;
+  const item=source.get('asia',p.name,p.country);
+  if(!item?.verified||!item.photo)continue;
+  p.photoUrls=[...new Set([item.photo,...(item.alternates||[]),...(p.photoUrls||[])].filter(u=>typeof u==='string'&&u.startsWith('https://')))].slice(0,8);
+  p.photo=p.photoUrls[0];p.photoFile=item.file||p.photoFile;p.photoSource=item.source||null;
+  if(item.qid&&!p.entityId)p.entityId=item.qid;
+  p.broken=false;added++;
+ }
+ return added
+}
+
+if(window.YumePhotoStore)window.YumePhotoStore.ready.then(()=>{
+ const imported=applyPhotoIndexAsia();
+ if(imported)render();
+}).catch(()=>{});
 Promise.resolve().then(verifyCurrent);
 })();

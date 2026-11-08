@@ -168,7 +168,7 @@ function card(p){
  const birth=make('p','sport-birth');birth.append(make('strong',null,'Nascita: '),document.createTextNode(p.birth||'Da verificare'));content.append(birth);
  const age=make('p','sport-age');age.append(make('strong',null,'Età: '),document.createTextNode(p.age!=null?p.age+' anni':'N/D'));content.append(age);
  const actions=make('div','sport-card-actions');const button=make('button',null,'Scheda ↗');button.type='button';button.addEventListener('click',()=>detail(p));
- actions.append(button,external('Fonte ufficiale ↗',sourceButton(p).url));if(p.photoFile)actions.append(external('Licenza foto ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));
+ actions.append(button,external('Fonte ufficiale ↗',sourceButton(p).url));if(p.photoSource||p.photoFile)actions.append(external('Licenza foto ↗',p.photoSource||'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));
  if(p.verifiedLinks.length){for(const [name,url] of p.verifiedLinks.slice(0,2))actions.append(external(name+' ↗',url))}
  content.append(actions);article.append(content);return article
 }
@@ -183,7 +183,7 @@ function detail(p){
  const sources=make('div','sport-profile-links');
  for(const s of p.sources)sources.append(external('Roster ufficiale · '+s.edition+' ↗',s.url));
  if(p.entityId)sources.append(external('Wikidata ↗','https://www.wikidata.org/wiki/'+p.entityId));
- if(p.photoFile)sources.append(external('Foto e licenza Commons ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));else sources.append(external('Cerca fotografie della atleta ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+athleteSports(p))));
+ if(p.photoSource||p.photoFile)sources.append(external('Foto e licenza Commons ↗',p.photoSource||'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));else sources.append(external('Cerca fotografie della atleta ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+athleteSports(p))));
  for(const [name,url] of p.verifiedLinks)sources.append(external(name+' ↗',url));
  if(p.enrichment==='idle'||p.enrichment==='error'||p.enrichment==='none'||p.imageFailed){
  const enrichLink=make('button',null,'Verifica biografia e foto con Wikidata');
@@ -247,7 +247,27 @@ if(scanAll)scanAll.addEventListener('click',async()=>{
   render()
  }
 });
+function applyPhotoIndexSport(){
+ const source=window.YumePhotoStore;if(!source)return;
+ let added=0;
+ for(const p of people){
+  const item=source.get('sport',p.name);
+  if(!item?.verified||!item.photo)continue;
+  const urls=[item.photo,...(item.alternates||[]),...(p.photoUrls||[])].filter(x=>typeof x==='string'&&x.startsWith('https://'));
+  p.photoUrls=[...new Set(urls)].slice(0,7);
+  p.photo=p.photoUrls[0];p.photoFile=item.file||p.photoFile;
+  p.photoSource=item.source||null;
+  if(item.qid&&!p.entityId)p.entityId=item.qid;
+  p.imageFailed=false;
+  added++;
+ }
+ return added
+}
 render();
-// First group in view: photo lookups run only while the athlete directory is open.
+if(window.YumePhotoStore)window.YumePhotoStore.ready.then(()=>{
+ const imported=applyPhotoIndexSport();
+ if(imported)render();
+}).catch(()=>{});
+// Initial lookups for missing athletes remain available.
 Promise.resolve().then(enrichMore);
 })();
