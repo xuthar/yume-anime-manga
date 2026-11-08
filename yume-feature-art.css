@@ -1,0 +1,97 @@
+/* Yume · Illustrated feature portals. Each card has its own locally served original SVG. */
+.unified-feature-grid > a.yume-art-card{
+  --feature-art:none;
+  --feature-accent:#f2c6e3;
+  position:relative;
+  isolation:isolate;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  justify-content:flex-start;
+  min-height:208px;
+  padding:22px 23px 21px;
+  overflow:hidden;
+  background:#171f34;
+  color:#fff5fb;
+  box-shadow:0 13px 29px rgba(7,10,27,.28),inset 0 1px 0 rgba(255,255,255,.07);
+  border:1px solid rgba(226,197,228,.45);
+  transition:transform .24s ease,border-color .24s ease,box-shadow .24s ease;
+}
+.unified-feature-grid > a.yume-art-card::before{
+  content:"";
+  position:absolute;inset:-2px;
+  z-index:0;
+  background-image:var(--feature-art);
+  background-position:60% center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  opacity:.98;
+  transform:scale(1.01);
+  transition:transform .45s ease,opacity .4s ease;
+  pointer-events:none;
+}
+.unified-feature-grid > a.yume-art-card::after{
+  content:"";
+  position:absolute;inset:0;
+  z-index:1;
+  background:linear-gradient(93deg,rgba(11,16,35,.92) 0%,rgba(17,21,40,.81) 48%,rgba(23,23,45,.12) 100%),linear-gradient(0deg,rgba(8,12,29,.27),transparent 72%);
+  pointer-events:none;
+}
+.unified-feature-grid > a.yume-art-card > *{position:relative;z-index:2}
+.unified-feature-grid > a.yume-art-card .unified-feature-icon{
+  font-size:30px;
+  line-height:1.1;
+  color:var(--feature-accent);
+  text-shadow:0 1px 12px rgba(8,10,26,.55);
+  margin-bottom:6px;
+}
+.unified-feature-grid > a.yume-art-card small{
+  color:#f0cae2;
+  font-weight:800;
+  text-shadow:0 2px 8px rgba(5,8,24,.85);
+}
+.unified-feature-grid > a.yume-art-card h3{
+  color:#fffafc;
+  font-weight:790;
+  text-shadow:0 2px 15px rgba(3,6,20,.9);
+}
+.unified-feature-grid > a.yume-art-card p{
+  max-width:29ch;
+  color:#eee7f1;
+  text-shadow:0 1px 9px rgba(4,6,20,.9);
+}
+.unified-feature-grid > a.yume-art-card:hover{
+  transform:translateY(-5px);
+  border-color:var(--feature-accent);
+  box-shadow:0 20px 40px rgba(4,8,26,.45),0 0 0 1px rgba(244,211,232,.18);
+}
+.unified-feature-grid > a.yume-art-card:hover::before{transform:scale(1.07);opacity:1}
+.unified-feature-grid > a.yume-art-card:focus-visible{
+  outline:3px solid #b5ece4;
+  outline-offset:3px;
+  border-color:#b5ece4;
+}
+.unified-feature-grid > a.yume-art-japan{--feature-art:url('assets/cards/japan.svg');--feature-accent:#ffd8d7}
+.unified-feature-grid > a.yume-art-chronos{--feature-art:url('assets/cards/chronos.svg');--feature-accent:#f1d4bf}
+.unified-feature-grid > a.yume-art-magazine{--feature-art:url('assets/cards/magazine.svg');--feature-accent:#ffe1e9}
+.unified-feature-grid > a.yume-art-idols{--feature-art:url('assets/cards/idols.svg');--feature-accent:#f9c2e2}
+.unified-feature-grid > a.yume-art-sport{--feature-art:url('assets/cards/sport.svg');--feature-accent:#aeece5}
+.unified-feature-grid > a.yume-art-asia{--feature-art:url('assets/cards/asia.svg');--feature-accent:#b7edf0}
+.unified-feature-grid > a.yume-art-young{--feature-art:url('assets/cards/young.svg');--feature-accent:#fff2ce}
+.unified-feature-grid > a.yume-art-compare{--feature-art:url('assets/cards/compare.svg');--feature-accent:#d8e6ff}
+.unified-feature-grid > a.yume-art-nexus{--feature-art:url('assets/cards/nexus.svg');--feature-accent:#b3f0ea}
+@media (max-width:750px){
+ .unified-feature-grid > a.yume-art-card{min-height:199px}
+ .unified-feature-grid > a.yume-art-card::before{background-position:63% center}
+}
+@media (max-width:500px){
+ .unified-feature-grid > a.yume-art-card{min-height:177px;padding:19px 20px}
+ .unified-feature-grid > a.yume-art-card::before{background-position:69% center}
+ .unified-feature-grid > a.yume-art-card p{max-width:36ch}
+}
+@media(prefers-reduced-motion:reduce){
+ .unified-feature-grid > a.yume-art-card,
+ .unified-feature-grid > a.yume-art-card::before{transition:none}
+ .unified-feature-grid > a.yume-art-card:hover{transform:none}
+ .unified-feature-grid > a.yume-art-card:hover::before{transform:none}
+}
