@@ -1,0 +1,32 @@
+/* Idols / Japanese Music Wiki: additional groups, membership and provenance */
+.jwiki-section{margin:34px 0 28px;padding:clamp(18px,2.8vw,32px);border:1px solid #f1d0e84b;border-radius:21px;background:radial-gradient(ellipse at 95% 0,#be8db734,transparent 42%),linear-gradient(125deg,#222036,#122c3d);box-shadow:0 16px 48px #05071750}
+.jwiki-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:22px;flex-wrap:wrap}
+.jwiki-heading span{color:#f4c2e4;font-size:10px;font-weight:850;letter-spacing:.17em}
+.jwiki-heading h2{font:700 clamp(26px,3vw,38px)/1.17 Outfit,system-ui,sans-serif;color:#fff;margin:10px 0}
+.jwiki-heading p{color:#d9d1e1;font-size:13px;line-height:1.7;max-width:790px}
+.jwiki-count{font-weight:800;font-size:12px;color:#e4f5fa;background:#accfe21a;border:1px solid #bad9e066;padding:12px 18px;border-radius:25px;white-space:nowrap}
+.jwiki-controls{display:flex;gap:12px;flex-wrap:wrap;margin:21px 0 11px}
+.jwiki-controls label{display:grid;gap:6px;color:#f3d7ed;font-size:11px;font-weight:750;flex:1;min-width:185px}
+.jwiki-controls input,.jwiki-controls select{box-sizing:border-box;width:100%;min-height:43px;color:#fff;background:#101d31;border:1px solid #d5bce078;border-radius:10px;padding:9px 11px;font-size:12px}
+.jwiki-status{font-size:11px;color:#c2cbe1;margin:9px 0 17px}
+.jwiki-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.jwiki-card{border:1px solid #dfa9d45c;border-radius:16px;overflow:hidden;background:#141b30e8;display:flex;flex-direction:column;min-width:0}
+.jwiki-card-head{display:flex;align-items:center;gap:12px;min-height:102px;padding:15px 16px;background:radial-gradient(circle at 8% 0,#d18cb75a,transparent 56%),linear-gradient(115deg,#4e395f,#25516d);filter:hue-rotate(var(--jwiki-tone,0deg))}
+.jwiki-sigil{display:grid;place-items:center;width:60px;height:60px;flex:0 0 60px;border-radius:50%;border:1px solid #ffd0e7b0;background:#fff1;font:45px/1 'Yu Mincho',serif;color:#f6cdea;box-shadow:0 3px 20px #0a163533}
+.jwiki-card-titles{min-width:0}.jwiki-type{font-size:10px;color:#f5e8fc;opacity:.85;font-weight:700}.jwiki-card h3{font-size:19px;margin:6px 0 0;color:white;line-height:1.22;overflow-wrap:anywhere}
+.jwiki-card-body{padding:15px;display:flex;flex-direction:column;gap:8px;flex:1}
+.jwiki-style{font-size:12px;font-weight:700;color:#eacbe5;margin:0;min-height:30px}
+.jwiki-group-count{font-size:12px;color:#d1e6e9;margin:0}
+.jwiki-roster{border:1px solid #ccbad95b;border-radius:10px;background:#ffffff09}
+.jwiki-roster summary{cursor:pointer;color:#e7daef;padding:10px 12px;font-size:12px;font-weight:750}
+.jwiki-roster summary:hover{background:#ecdaec10}
+.jwiki-roster ul{margin:0;padding:3px 15px 13px 30px;list-style:circle}
+.jwiki-roster li{font-size:11px;color:#d5dbea;line-height:1.7;padding:2px 0}.jwiki-roster strong{font-weight:750;color:#fff0f9}
+.jwiki-links{display:flex;gap:8px;flex-wrap:wrap;padding-top:10px;margin-top:auto}
+.jwiki-links a{font-weight:750;font-size:11px;color:#c7edef;border:1px solid #9fcfdb6a;border-radius:8px;padding:8px 9px;text-decoration:none;background:#a0cbdb0c}
+.jwiki-links a:hover{background:#9fcfdb2c}
+.jwiki-source-note{max-width:990px;font-size:11px;color:#c7c7d8;line-height:1.75;margin:20px 0 0}
+.jwiki-source-note a{color:#d9f6f4;text-decoration:underline}
+.jwiki-empty{color:#d4cce3}
+@media(max-width:1020px){.jwiki-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.jwiki-section{padding:17px 12px}.jwiki-grid{grid-template-columns:1fr}.jwiki-count{white-space:normal}.jwiki-controls{display:grid;grid-template-columns:1fr}.jwiki-controls label{min-width:0}}
