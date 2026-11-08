@@ -85,7 +85,7 @@ async function media(e,p){
  p.photo=p.photoUrls[0]||null
 }
 async function resolve(p){
- if(p.status==='loading'||p.status==='verified')return;
+ if(p.category==='vtuber'){p.status='virtual';return}if(p.status==='loading'||p.status==='verified')return;
  p.status='loading';
  try{
   const keys=new Map();
@@ -140,8 +140,8 @@ function card(p){
  text.append($make('span','asia-person-country',countryLabel(p.country)));
  text.append($make('h3',null,p.name));
  text.append($make('p','asia-alt',p.alternate||'—'));
- text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':p.category==='creators'?'Creator / influencer':'Idol musicale')+' · '+p.groups[0]));
- const date=dob(p.birth),born=$make('p','asia-meta','Nascita: '+(date?.text||'Non documentata'));
+ text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':p.category==='creators'?'Creator / influencer':p.category==='vtuber'?'VTuber · personaggio virtuale':'Idol musicale')+' · '+p.groups[0]));
+ const date=p.category==='vtuber'?null:dob(p.birth),born=$make('p','asia-meta',p.category==='vtuber'?'Data di nascita reale: non pertinente':'Nascita: '+(date?.text||'Non documentata'));
  const age=$make('p','asia-meta','Età: '+(date?.age!=null?date.age+' anni':'N/D'));text.append(born,age);
  const links=$make('div','asia-person-actions'),btn=$make('button',null,'Scheda ↗');btn.type='button';btn.addEventListener('click',()=>detail(p));
  const source=groupSource(p);
@@ -151,7 +151,7 @@ function card(p){
 }
 function detail(p){
  modalBody.replaceChildren();
- const c=countries[p.country],source=groupSource(p),date=dob(p.birth);
+ const c=countries[p.country],source=groupSource(p),date=p.category==='vtuber'?null:dob(p.birth);
  modalBody.append($make('span','asia-kicker',countryLabel(p.country)+' · '+p.groups.join(' / ')));
  const title=$make('h2',null,p.name);title.id='asia-profile-name';modalBody.append(title);
  if(p.alternate)modalBody.append($make('p',null,'Altro nome / grafia: '+p.alternate));
@@ -159,9 +159,9 @@ function detail(p){
  const facts=$make('div','asia-profile-grid');
  const field=(k,v)=>{const item=$make('div');item.append($make('b',null,k),$make('span',null,v||'Non disponibile'));facts.append(item)};
  field('Scena / paese di attività',c?.name);field('Gruppo o attività',p.groups.join(' · '));
- field('Professione',p.category==='actors'?'Attrice, talent':p.category==='creators'?'Creator, influencer o modella':'Idol, cantante o performer');
- field('Data di nascita',date?.text||'Non documentata');
- field('Età',date?.age!=null?date.age+' anni':'Non documentata');
+ field('Professione',p.category==='actors'?'Attrice, talent':p.category==='creators'?'Creator, influencer o modella':p.category==='vtuber'?'Avatar / identità artistica virtuale':'Idol, cantante o performer');
+ field(p.category==='vtuber'?'Nascita della persona dietro la voce':'Data di nascita',p.category==='vtuber'?'Non pubblicata / non dedotta':date?.text||'Non documentata');
+ field('Età',p.category==='vtuber'?'Non attribuita al personaggio':date?.age!=null?date.age+' anni':'Non documentata');
  field('Nazionalità',p.nationality&&countries[p.nationality]?countries[p.nationality].name+' · diversa dalla scena':'Non specificata separatamente');
  field('Identità su Wikidata',p.entityId||'Non ancora verificata');
  field('Documentazione',pageSources(p).map(s=>s.year).join(', '));modalBody.append(facts);
@@ -170,7 +170,7 @@ function detail(p){
  for(const [name,url] of p.verifiedLinks||[])links.append(external(name+' ↗',url));
  if(p.entityId)links.append(external('Wikidata ↗','https://www.wikidata.org/wiki/'+p.entityId));
  if(p.photoFile)links.append(external('Foto e licenza Commons ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));
- if(!p.entityId){
+ if(!p.entityId&&p.category!=='vtuber'){
   const verify=$make('button',null,'Verifica foto, data e social');verify.type='button';verify.disabled=p.status==='loading';
   verify.addEventListener('click',async()=>{verify.disabled=true;verify.textContent='Ricerca in corso…';p.status='idle';await resolve(p);detail(p);render()});links.append(verify)
  }
@@ -220,7 +220,7 @@ more.addEventListener('click',()=>{limit+=36;render()});$('asia-profile-close').
 modal.addEventListener('click',e=>{if(e.target===modal)modal.close()});
 async function verifyCurrent(){
  if(busy)return;
- const matches=shown(true).filter(p=>p.status==='idle'||p.status==='error').slice(0,7);
+ const matches=shown(true).filter(p=>p.category!=='vtuber'&&(p.status==='idle'||p.status==='error')).slice(0,7);
  if(!matches.length){status.textContent='Non ci sono nuove schede da verificare in questa selezione.';return}
  busy=true;checkBtn.disabled=true;checkBtn.textContent='Verifica in corso…';
  try{for(let i=0;i<matches.length;i+=2)await Promise.allSettled(matches.slice(i,i+2).map(async p=>{if(p.status==='error')p.status='idle';await resolve(p)}));render()}
@@ -230,7 +230,7 @@ checkBtn.addEventListener('click',verifyCurrent);
 scanBtn.addEventListener('click',async()=>{
  if(scan){scan=false;scanBtn.textContent='Continua a cercare foto nel paese';return}
  scan=true;scanBtn.textContent='Ferma ricerca';checkBtn.disabled=true;
- const queue=shown(true).filter(p=>p.status==='idle'||p.status==='error');
+ const queue=shown(true).filter(p=>p.category!=='vtuber'&&(p.status==='idle'||p.status==='error'));
  try{
   for(let i=0;i<queue.length&&scan;i+=3){
    await Promise.allSettled(queue.slice(i,i+3).map(async p=>{if(p.status==='error')p.status='idle';await resolve(p)}));
