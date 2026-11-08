@@ -81,6 +81,24 @@ async function media(e,p){
   }catch{}
   if(p.photoUrls.length>1)break
  }
+ if(!p.photoUrls.length){
+  const cat=(e.claims?.P373||[]).map(c=>c.mainsnak?.datavalue?.value).find(v=>typeof v==='string')
+    ||(e.sitelinks?.commonswiki?.title||'').replace(/^Category:/i,'');
+  if(cat&&cat.length>=4){
+   try{
+    const u='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&generator=categorymembers&gcmtitle='+encodeURIComponent('Category:'+cat)+'&gcmtype=file&gcmlimit=20&prop=imageinfo&iiprop=url&iiurlwidth=480';
+    const j=await api(u);
+    const terms=[p.name,p.alternate,cat].filter(x=>x&&norm(x).length>=5).map(norm);
+    const possible=(j.query?.pages||[]).filter(x=>/\.(jpe?g|png|webp)$/i.test(x.title||'')&&x.imageinfo?.[0]?.thumburl)
+      .filter(x=>terms.some(t=>norm(x.title).includes(t)));
+    if(possible[0]){
+     const f=possible[0].title.replace(/^File:/i,'');
+     p.photoFile=f;p.photoSource='https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(f.replace(/ /g,'_'));
+     push(possible[0].imageinfo[0].thumburl)
+    }
+   }catch{}
+  }
+ }
  for(const file of fileNames)push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replace(/^File:/i,''))+'?width=480');
  p.photo=p.photoUrls[0]||null
 }

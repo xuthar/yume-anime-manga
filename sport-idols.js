@@ -85,6 +85,26 @@ async function sourcePhotos(ent,p){
    for(const page of result.query?.pages||[]){if(page.thumbnail?.source)appendPhoto(p,page.thumbnail.source)}
   }catch{}
  }
+ // If the Wikidata image is missing, try a Commons category explicitly bound to this person.
+ if(!p.photoUrls?.length){
+  const cat=(ent.claims?.P373||[]).map(c=>c.mainsnak?.datavalue?.value).find(x=>typeof x==='string')
+   ||(ent.sitelinks?.commonswiki?.title||'').replace(/^Category:/i,'');
+  if(cat){
+   try{
+    const url='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&generator=categorymembers&gcmtitle='+encodeURIComponent('Category:'+cat)+'&gcmtype=file&gcmlimit=25&prop=imageinfo&iiprop=url&iiurlwidth=480';
+    const result=await request(url);
+    const words=[p.latin,p.name,cat].filter(v=>v&&norm(v).length>=5).map(norm);
+    const photos=(result.query?.pages||[]).filter(page=>/\.(jpe?g|png|webp)$/i.test(page.title||'')&&page.imageinfo?.[0]?.thumburl)
+     .filter(page=>words.some(w=>norm(page.title).includes(w)));
+    if(photos[0]){
+     const file=photos[0].title.replace(/^File:/i,'');
+     p.photoFile=file;
+     p.photoSource='https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replace(/ /g,'_'));
+     appendPhoto(p,photos[0].imageinfo[0].thumburl)
+    }
+   }catch{}
+  }
+ }
  // FilePath is a final attempt only after the Wikimedia thumb URLs.
  for(const file of imageFiles)appendPhoto(p,'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replace(/^File:/i,''))+'?width=480');
  p.photo=p.photoUrls?.[0]||null;
