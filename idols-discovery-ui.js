@@ -43,11 +43,17 @@ const idolBirthdays={
  '白雪姫乃':'20 settembre','蒼井叶':'9 novembre','紫ノ色':'6 aprile','森 緑藻':'14 novembre',
  'MiKiNA':'18 marzo','MAYU':'16 aprile','MAHO':'1 giugno','YU-Ki':'10 dicembre'
 };
+const editorialBirth={
+ '吉井明子':'15/10/1980','小野真弓':'12/03/1981','水原ゆき':'14/12/1987'
+};
 const officialSocial={
  'Asuka Kishi':[['Instagram','https://www.instagram.com/aspoo02/'],['X','https://x.com/asupons02']],
  'Sayaka Isoyama':[['Instagram','https://www.instagram.com/sayakaisoyama/'],['X','https://x.com/sayaka23isoyama']],
  'Enako':[['Instagram','https://www.instagram.com/enakorin/']],
  'Ayu Hazaki':[['Instagram','https://www.instagram.com/ayu_photo_18/'],['X','https://x.com/ayu_hazaki']],
+ '吉井明子':[['Instagram','https://www.instagram.com/akiko_yoshii_sunny_rain/']],
+ '小野真弓':[['Instagram','https://www.instagram.com/hanaharuaroi/']],
+ '水原ゆき':[['X','https://x.com/12yuchan14'],['Instagram','https://www.instagram.com/12yuchan14/']],
  'Miku Tanaka':[['X','https://x.com/miku_monmon3939']],
  'Nashiko Momotsuki':[['Instagram','https://www.instagram.com/nashiko_cos/']]
 };
@@ -85,6 +91,7 @@ function item(p){
  const summary=make('p','discovery-card-detail',p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
  if(birthday[p.name]&&p.categories.has('vtuber'))contents.append(make('p','discovery-character-birthday','Compleanno del personaggio: '+birthday[p.name]+' · età privata non pubblicata'));
+ if(editorialBirth[p.name]){const [d,m,y]=editorialBirth[p.name].split('/').map(Number),now=new Date(),age=now.getFullYear()-y-((now.getMonth()+1<m||(now.getMonth()+1===m&&now.getDate()<d))?1:0);contents.append(make('p','discovery-character-birthday','Nascita: '+editorialBirth[p.name]+' · '+age+' anni (fonte editoriale)'));}
  if(idolBirthdays[p.name]&&p.categories.has('music'))contents.append(make('p','discovery-character-birthday','Compleanno pubblico: '+idolBirthdays[p.name]+' · anno non indicato'));
  const actions=make('div','discovery-card-links');
  const profile=p.officialProfile||p.sources[0].url;
