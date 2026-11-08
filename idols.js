@@ -66,7 +66,7 @@ function measure(v,kind){
 }
 function pageSitelink(e){for(const s of ['itwiki','enwiki','jawiki'])if(e?.sitelinks?.[s]?.title)return{site:s.slice(0,2),title:e.sitelinks[s].title};return null}
 function convert(e,cat){
- const birth=cat==='vtuber'?{text:'Compleanno dell’avatar: fonte ufficiale',age:null,year:0}:birthInfo(read(e,'P569')),sites=pageSitelink(e),picture=read(e,'P18');
+ const birth=cat==='vtuber'?{text:'Non pubblicata (identità reale)',age:null,year:0}:birthInfo(read(e,'P569')),sites=pageSitelink(e),picture=read(e,'P18');
  const photoFiles=(e.claims?.P18||[]).map(x=>x.mainsnak?.datavalue?.value).filter(x=>typeof x==='string'&&/\.(jpe?g|png|webp)$/i.test(x)).slice(0,4);
  const siteLinks=['itwiki','enwiki','jawiki'].filter(k=>e.sitelinks?.[k]?.title).map(k=>({site:k.slice(0,2),title:e.sitelinks[k].title}));
  const jobCodes=(e.claims?.P106||[]).map(x=>ref(x.mainsnak?.datavalue?.value)).filter(Boolean);
