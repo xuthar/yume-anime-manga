@@ -36,3 +36,21 @@ body:not(.home-page):not(.yume-illustrated):not(.cosmos-page):not(.idols-page):n
 body.yume-section-archive.yume-view-manga{background-image:linear-gradient(180deg,#101428e9,#141527f1 70%),url('assets/yume3-collector-scene.svg')!important}
 .home-page .home-destination .home-symbol{font:700 clamp(33px,3.2vw,46px)/1 'Yu Mincho','Noto Serif CJK JP',serif;color:#f0c3df}
 @media(max-width:600px){body:not(.home-page):not(.yume-illustrated):not(.cosmos-page):not(.idols-page):not(.seasons-page):not(.mka-body){background-attachment:scroll}}
+
+/* Dropdown "Altri" without clipped/invisible scrollbar.
+   Rendered at document level so that header backdrop-filter cannot clip it. */
+.yume-global-nav .yume-more-trigger{display:inline-flex;align-items:center;justify-content:center;gap:5px;min-height:40px;padding:9px!important;border:1px solid transparent;border-radius:11px;background:transparent;color:#ebdfe9;cursor:pointer;font:650 11px/1.25 'DM Sans',system-ui,sans-serif;white-space:nowrap}
+.yume-global-nav .yume-more-trigger:hover,.yume-global-nav .yume-nav-more.is-open .yume-more-trigger,.yume-global-nav .yume-nav-more.has-current .yume-more-trigger{border-color:#f3bde28c;background:#6b49683e;color:white}
+.yume-global-nav .yume-more-trigger:focus-visible,.yume-nav-popover a:focus-visible{outline:3px solid #a4f2e6;outline-offset:2px}
+.yume-global-nav .yume-more-arrow{font-size:16px;transition:transform .15s}
+.yume-global-nav .yume-nav-more.is-open .yume-more-arrow{transform:rotate(180deg)}
+.yume-nav-popover{position:fixed;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-content:start;gap:8px;box-sizing:border-box;width:min(430px,calc(100vw - 24px));padding:13px;border:1px solid #efc5e59c;border-radius:16px;background:#1d1b36f7;color:#f9eff9;z-index:2147483000;box-shadow:0 16px 50px #050713c9;backdrop-filter:blur(16px);overflow-x:hidden;overflow-y:auto;scrollbar-width:auto;scrollbar-color:#e4adcf #34304b}
+.yume-nav-popover[hidden]{display:none!important}
+.yume-nav-popover::-webkit-scrollbar{width:11px}
+.yume-nav-popover::-webkit-scrollbar-track{background:#34304b;border-radius:9px}
+.yume-nav-popover::-webkit-scrollbar-thumb{background:#e4adcf;border:2px solid #34304b;border-radius:9px}
+.yume-nav-popover>a{display:flex;align-items:center;justify-content:flex-start;gap:9px;min-width:0;min-height:44px;padding:9px 10px;border:1px solid #e1b4da43;border-radius:11px;background:#302942dd;color:#faf0fc;text-decoration:none;font:650 12px/1.3 'DM Sans',system-ui,sans-serif}
+.yume-nav-popover>a:hover,.yume-nav-popover>a.active{background:#684967;color:white;border-color:#efbde7}
+.yume-nav-popover .yume-nav-kanji{display:grid;place-items:center;flex:0 0 26px;width:26px;height:28px;border-radius:7px;background:#e6b8de1f;border:1px solid #e8c1e04d;color:#f9c7e8;font:700 15px 'Yu Mincho','Noto Serif CJK JP',serif}
+@media(max-width:610px){.yume-global-nav .yume-more-trigger{min-height:37px;padding:7px 4px!important;font-size:10px;gap:4px;width:100%}.yume-global-nav .yume-more-trigger .yume-nav-kanji{width:20px;height:22px;font-size:12px}.yume-nav-popover{padding:9px;gap:6px;border-radius:13px}.yume-nav-popover>a{font-size:11px;min-height:41px;padding:8px 6px;gap:6px}.yume-nav-popover .yume-nav-kanji{width:23px;height:24px;flex-basis:23px;font-size:13px}}
+@media(prefers-reduced-motion:reduce){.yume-global-nav .yume-more-arrow{transition:none}}
