@@ -2,7 +2,7 @@
 (()=>{'use strict';
  const d=window.YumeYoungStars,photoStore=window.YumePhotoStore;
  const $=id=>document.getElementById(id),grid=$('young-grid'),query=$('young-query'),
- archive=$('young-archive'),country=$('young-country'),age=$('young-age'),
+ archive=$('young-archive'),country=$('young-country'),age=$('young-age'),platform=$('young-platform'),
  status=$('young-status'),more=$('young-more'),filters=$('young-categories');
  if(!d||!grid)return;
  const countryLabels={jp:'🇯🇵 Giappone',kr:'🇰🇷 Corea',th:'🇹🇭 Thailandia',id:'🇮🇩 Indonesia',vn:'🇻🇳 Vietnam',us:'🇺🇸 USA',gb:'🇬🇧 Regno Unito',au:'🇦🇺 Australia',br:'🇧🇷 Brasile',nl:'🇳🇱 Paesi Bassi',cn:'🇨🇳 Cina',in:'🇮🇳 India',ph:'🇵🇭 Filippine',tw:'🇹🇼 Taiwan'};
@@ -17,6 +17,7 @@
    (category==='all'||p.category===category)&&
    (countryVal==='all'||p.scene===countryVal)&&
    (archiveVal==='all'||p.archive===archiveVal)&&
+   (platform.value==='all'||(p.platforms||[]).some(v=>v[0]===platform.value))&&
    (age.value==='all'||p.ageRange.min>=range[0]&&p.ageRange.max<=range[1])&&
    (!q||norm(p.name+' '+p.alternate+' '+p.group+' '+(countryLabels[p.scene]||'')).includes(q))
   ).sort((a,b)=>a.ageRange.min-b.ageRange.min||a.name.localeCompare(b.name,'it'))
@@ -83,7 +84,7 @@
   btn.type='button';btn.dataset.youngCategory=k;btn.setAttribute('aria-pressed',String(k==='all'));
   btn.addEventListener('click',()=>{category=k;limit=32;render()});filters.append(btn)
  }
- [query,archive,country,age].forEach(control=>control.addEventListener(control===query?'input':'change',()=>{limit=32;render()}));
+ [query,archive,country,age,platform].forEach(control=>control.addEventListener(control===query?'input':'change',()=>{limit=32;render()}));
  more.addEventListener('click',()=>{limit+=32;render()});
  render();photoStore?.ready?.then(()=>render()).catch(()=>{});
 })();
