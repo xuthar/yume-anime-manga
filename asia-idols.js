@@ -102,6 +102,39 @@ async function media(e,p){
  for(const file of fileNames)push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replace(/^File:/i,''))+'?width=480');
  p.photo=p.photoUrls[0]||null
 }
+
+ // Conservative fallback for Wikimedia Commons files explicitly titled with the
+ // credited public performer; brief stage names must also include the group.
+ async function commonsPortrait(p){
+  if(p.photoUrls?.length||p.category==='vtuber')return false;
+  const group=p.groups[0]||'';
+  const query=[p.name,group].filter(Boolean).join(' ');
+  const terms=[p.name,p.alternate].filter(v=>v&&norm(v).length>=4).map(norm);
+  if(!terms.length)return false;
+  const bare=norm(p.name);
+  const groupTokens=group.split(/[\s/·()!+.-]+/).map(norm).filter(v=>v.length>=4);
+  try{
+   const url='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&generator=search&gsrnamespace=6&gsrlimit=10&gsrsearch='+encodeURIComponent(query)+'&prop=imageinfo&iiprop=url%7Cmime&iiurlwidth=480';
+   const data=await api(url);
+   const files=(data.query?.pages||[]).filter(x=>{
+    const name=x.title?.replace(/^File:/,'')||'',nameKey=norm(name),media=x.imageinfo?.[0];
+    if(!media||!/^image\/(jpeg|png|webp)$/.test(media.mime||''))return false;
+    if(!terms.some(t=>nameKey.includes(t)))return false;
+    if(bare.length<7&&!groupTokens.some(t=>nameKey.includes(t)))return false;
+    if(/\b(group|members|logo|fanart|illustration|poster|lineup|all together|with other|and )\b/i.test(name))return false;
+    return true;
+   });
+   const file=files[0];if(!file)return false;
+   const info=file.imageinfo[0],filename=file.title.replace(/^File:/,'');
+   const direct='https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(filename.replace(/ /g,'_'))+'?width=480';
+   p.photoFile=filename;
+   p.photoSource='https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(filename.replace(/ /g,'_'));
+   p.photoUrls=[...new Set([info.thumburl,info.url,direct].filter(u=>typeof u==='string'&&u.startsWith('https://')))];
+   p.photo=p.photoUrls[0]||null;
+   p.photoAttribution='Nome e gruppo nel titolo del file Commons, con fonte consultabile';
+   return !!p.photo;
+  }catch{return false}
+ }
 async function resolve(p){
  if(p.category==='vtuber'){p.status='virtual';return}if(p.status==='loading'||p.status==='verified')return;
  p.status='loading';
@@ -114,11 +147,11 @@ async function resolve(p){
    try{for(const row of (await api(url)).search||[])if(/^Q\d+$/.test(row.id))keys.set(row.id,true)}catch{}
   }
   const ids=[...keys.keys()].slice(0,35);
-  if(!ids.length){p.status='none';return}
+  if(!ids.length){p.status=await commonsPortrait(p)?'catalog-photo':'none';return}
   const url='https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&origin=*&props=labels%7Caliases%7Cclaims%7Csitelinks&languages=en%7Cko%7Czh%7Cja%7Cth%7Cvi%7Chi%7Cid%7Cms&sitefilter=enwiki%7Ckowiki%7Czhwiki%7Cthwiki%7Cviwiki%7Cidwiki&ids='+encodeURIComponent(ids.join('|'));
   const ents=(await api(url)).entities||{};
   const e=ids.map(x=>ents[x]).find(x=>equivalent(x,p));
-  if(!e){p.status='none';return}
+  if(!e){p.status=await commonsPortrait(p)?'catalog-photo':'none';return}
   p.entityId=e.id;
   const dated=valueDate(val(e,'P569'));if(dated&&!p.birth)p.birth=dated.text.split('/').reverse().join('-');
   const linkPairs=[...(p.verifiedLinks||[])];
@@ -129,7 +162,7 @@ async function resolve(p){
   if(typeof tk==='string'&&/^[A-Za-z0-9_.]{2,25}$/.test(tk.replace(/^@/,'')))linkPairs.push(['TikTok','https://www.tiktok.com/@'+tk.replace(/^@/,'')]);
   const site=safeUrl(website);if(site)linkPairs.push(['Sito',''+site]);
   p.verifiedLinks=[...new Map(linkPairs.map(x=>[x[0]+x[1],x])).values()];
-  await media(e,p);p.status='verified'
+  await media(e,p);if(!p.photoUrls.length)await commonsPortrait(p);p.status='verified'
  }catch{p.status='error'}
  finally{store(p)}
 }
@@ -143,7 +176,7 @@ function shown(includePhoto=false){
 }
 function image(p,box){
  const urls=p.photoUrls||[];if(!urls.length||p.broken)return;
- let i=0;const img=document.createElement('img');img.alt='Ritratto pubblico di '+p.name;img.decoding='async';img.loading='eager';img.referrerPolicy='no-referrer-when-downgrade';
+ let i=0;const img=document.createElement('img');img.alt='Ritratto pubblico di '+p.name;img.decoding='async';img.loading='lazy';img.referrerPolicy='no-referrer-when-downgrade';
  img.onload=()=>{const isNew=p.photoValid!==true;p.photoValid=true;p.broken=false;img.dataset.loaded='true';p.photo=urls[i];store(p);if(isNew&&onlyPhoto.checked)render();else if(isNew)updatePhotoStatus()};
  img.onerror=()=>{i++;if(i<urls.length){img.src=urls[i];return}p.broken=true;p.photoValid=false;img.remove();store(p);if(onlyPhoto.checked)render();else updatePhotoStatus()};
  img.src=urls[i];box.append(img)
@@ -274,7 +307,7 @@ function applyPhotoIndexAsia(){
   if(!item?.verified||!item.photo)continue;
   const original=item.file?'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(item.file.replace(/^File:/i,'').replace(/ /g,'_'))+'?width=500':null;
   p.photoUrls=[...new Set([item.photo,...(item.alternates||[]),original,...(p.photoUrls||[])].filter(u=>typeof u==='string'&&u.startsWith('https://')))].slice(0,8);
-  p.photo=p.photoUrls[0];p.photoFile=item.file||p.photoFile;p.photoSource=item.source||null;
+  p.photo=p.photoUrls[0];p.photoFile=item.file||p.photoFile;p.photoSource=item.source||null;p.photoAttribution='Ritratto associato all’artista tramite fonte Commons';
   if(item.qid&&!p.entityId)p.entityId=item.qid;
   p.broken=false;added++;
  }
