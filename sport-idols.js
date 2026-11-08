@@ -145,7 +145,7 @@ function currentMatches(ignorePhoto=false){
  return people.filter(p=>(current==='all'||p.disciplines.includes(current))&&
   (ed==='all'||p.sources.some(s=>s.edition.includes(ed)))&&
   (!q||norm(p.name+' '+p.latin+' '+athleteSports(p)).includes(q))&&(!photoOnly.checked||ignorePhoto||p.photoValid===true))
- .sort((a,b)=>(a.latin||a.name).localeCompare(b.latin||b.name,'it'))
+ .sort((a,b)=>(Number(!!b.photo&&!b.imageFailed)-Number(!!a.photo&&!a.imageFailed))||(a.latin||a.name).localeCompare(b.latin||b.name,'it'))
 }
 function makePhoto(p,block,preview){
  const options=p.photoUrls?.length?p.photoUrls:(p.photo?[p.photo]:[]);
@@ -185,9 +185,9 @@ function detail(p){
  if(p.entityId)sources.append(external('Wikidata ↗','https://www.wikidata.org/wiki/'+p.entityId));
  if(p.photoFile)sources.append(external('Foto e licenza Commons ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));else sources.append(external('Cerca fotografie della atleta ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+athleteSports(p))));
  for(const [name,url] of p.verifiedLinks)sources.append(external(name+' ↗',url));
- if(p.enrichment==='idle'||p.enrichment==='error'||p.enrichment==='none'){
+ if(p.enrichment==='idle'||p.enrichment==='error'||p.enrichment==='none'||p.imageFailed){
  const enrichLink=make('button',null,'Verifica biografia e foto con Wikidata');
- enrichLink.type='button';enrichLink.addEventListener('click',async()=>{enrichLink.disabled=true;enrichLink.textContent='Verifica in corso…';p.enrichment='idle';await resolve(p);detail(p);render()});sources.append(enrichLink)
+ enrichLink.type='button';enrichLink.addEventListener('click',async()=>{enrichLink.disabled=true;enrichLink.textContent='Verifica in corso…';p.enrichment='idle';p.photoUrls=[];p.photo=null;p.photoValid=false;p.imageFailed=false;await resolve(p);detail(p);render()});sources.append(enrichLink)
  }
  modalBody.append(sources,make('p',null,'La fonte del roster indica l’edizione, non l’eventuale squadra attuale. Foto e social sono mostrati solo dopo una verifica dell’identità in Wikidata.'));
  if(!profile.open)profile.showModal()
@@ -231,14 +231,14 @@ if(scanAll)scanAll.addEventListener('click',async()=>{
  if(scanRunning){scanRunning=false;scanAll.textContent='Continua la ricerca delle foto';return}
  scanRunning=true;scanAll.textContent='Interrompi ricerca';enrichButton.disabled=true;
  try{
-  const queue=people.filter(p=>p.enrichment==='idle'||p.enrichment==='error');
+  const queue=people.filter(p=>p.enrichment==='idle'||p.enrichment==='error'||p.imageFailed);
   // 24 names per bulk Wikidata photo-index query; no guessing from Google results.
   for(let i=0;i<queue.length&&scanRunning;i+=24){
    const group=queue.slice(i,i+24);
    try{await quickSearchPhotoMatches(group)}catch{}
    // Resolve featured matches and a manageable fallback group, three at a time.
    for(let j=0;j<group.length&&scanRunning;j+=3){
-    await Promise.allSettled(group.slice(j,j+3).map(p=>{if(p.enrichment==='error')p.enrichment='idle';return resolve(p)}));
+    await Promise.allSettled(group.slice(j,j+3).map(p=>{if(p.enrichment==='error'||p.imageFailed){p.enrichment='idle';p.imageFailed=false;p.photoValid=false;p.photoUrls=[];p.photo=null}return resolve(p)}));
    }
    render();scanAll.textContent='Ferma ricerca · '+Math.min(i+24,queue.length)+' / '+queue.length;
   }
