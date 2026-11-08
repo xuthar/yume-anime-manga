@@ -1,0 +1,45 @@
+/* Yume Young Stars: clean, non-sexual editorial archive for public young performers */
+body.young-page{background:linear-gradient(150deg,#161e32ec,#161a2de9),url('assets/yume3-kyoto-panorama.svg') center/cover fixed;color:#f8f5fc}
+.young-main{max-width:1350px;width:calc(100% - 32px);margin:18px auto 70px}.young-kicker{color:#b9dfdb;letter-spacing:.18em;font-size:10px;font-weight:800}
+.young-hero{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(180px,.8fr);gap:15px;min-height:370px;background:linear-gradient(110deg,#24394def,#362542dc),url('assets/yume3-kyoto-panorama.svg') center/cover;border:1px solid #afdcd86c;border-radius:24px;overflow:hidden;box-shadow:0 15px 42px #080e2475}
+.young-hero-copy{padding:clamp(26px,5vw,56px)}.young-hero h1{margin:18px 0;color:#fef8fd;font:850 clamp(50px,7.8vw,91px)/1.05 Outfit,system-ui,sans-serif;letter-spacing:-.06em}
+.young-hero h1 em{font-style:normal;color:#b5e7e3}.young-hero h1 span{color:#f6d1e9;font-size:.42em;vertical-align:top}
+.young-hero p{color:#dce0eb;line-height:1.75;font-size:15px;max-width:730px}
+.young-hero .young-policy{font-size:11px;margin:18px 0 0;color:#b9d8df}
+.young-cta{display:inline-block;margin-top:18px;padding:12px 22px;border-radius:30px;text-decoration:none;font-size:13px;font-weight:800;background:#b6e7df;color:#182839}
+.young-hero-symbols{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:12px;padding:15px;background:radial-gradient(circle at center,#d5a3d45c,transparent 65%)}.young-hero-symbols span{font:800 clamp(56px,7vw,93px)/1 'Yu Mincho',serif;color:#f0cbe7;opacity:.88;filter:drop-shadow(0 10px 20px #13172c)}
+.young-hero-symbols span:nth-child(2){color:#b6e7e2}
+.young-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:11px;margin:20px 0 50px}
+.young-stats>div{display:grid;gap:6px;background:#202a41ce;border:1px solid #b5d5df55;border-radius:15px;padding:19px}
+.young-stats strong{font:800 clamp(31px,4vw,53px)/1 Outfit,system-ui,sans-serif;color:#d4f0e8;font-variant-numeric:tabular-nums}
+.young-stats span{font-size:12px;color:#c9d2e0}
+.young-section{scroll-margin-top:38px}.young-section-head{max-width:890px}.young-section-head h2,.young-next h2{font:790 clamp(28px,4vw,45px)/1.17 Outfit,system-ui,sans-serif;color:white;margin:12px 0}
+.young-section-head p{font-size:14px;line-height:1.75;color:#ced7e5}
+.young-controls{display:grid;grid-template-columns:2.1fr 1fr 1fr 1fr;gap:12px;background:#24293eeb;border:1px solid #b6d9d652;border-radius:15px;padding:17px;margin:27px 0 17px}
+.young-controls label{display:grid;gap:7px;color:#dff1f0;font-size:12px;font-weight:750}
+.young-controls select,.young-controls input{width:100%;min-width:0;min-height:44px;border:1px solid #a9d6da89;border-radius:10px;background:#141c2d;color:#f4f7fb;padding:10px 12px;box-sizing:border-box;font-size:13px}
+.young-filters{display:flex;gap:7px;flex-wrap:wrap;margin:10px 0 18px}
+.young-filters button{border-radius:10px;border:1px solid #b8dcd675;background:#283849db;padding:9px 14px;min-height:39px;color:#e9f5f7;font-size:11px;font-weight:750;cursor:pointer}
+.young-filters button[aria-pressed=true],.young-filters button:hover{background:#37666a;border-color:#c3fbf2}
+.young-status{font-size:12px;line-height:1.6;color:#ced5e7;margin:10px 0 17px}
+.young-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px}
+.young-card{border:1px solid #d9d2e057;background:linear-gradient(140deg,#252c45,#24223b);border-radius:15px;min-width:0;overflow:hidden;display:flex;flex-direction:column}
+.young-card-top{height:157px;position:relative;display:grid;place-items:center;background:radial-gradient(circle at 65% 35%,#bb99cc3a,transparent 55%),linear-gradient(115deg,#213747,#372a48)}
+.young-card-top span{font:800 52px/1 'Yu Mincho',serif;color:#d7e7e8}.young-card-top img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 20%;opacity:0;transition:opacity .2s ease}
+.young-card-top img[data-loaded=true]{opacity:1}.young-card-top .young-card-badge{z-index:2;position:absolute;right:8px;top:8px;background:#162537db;border:1px solid #cdf4e890;border-radius:8px;padding:5px 9px;font:800 10px/1.2 system-ui,sans-serif;color:#e6f9f6}
+.young-card-body{padding:15px;display:flex;flex-direction:column;gap:6px;flex:1}
+.young-card-type{font-size:10px;font-weight:800;letter-spacing:.08em;color:#a6e3dc;text-transform:uppercase}
+.young-card h3{font:770 17px/1.2 Outfit,system-ui,sans-serif;color:#fff7fc;margin:3px 0;overflow-wrap:anywhere}
+.young-alt{font-size:11px;color:#ceccd8;margin:0}.young-card-group{font-size:12px;color:#e1dfe8;margin:5px 0;line-height:1.5}
+.young-age{font-size:12px;color:#dcf2ef;margin:4px 0}.young-card-links{margin-top:auto;display:flex;gap:7px;flex-wrap:wrap;padding-top:11px}
+.young-card-links a{border:1px solid #c8dde087;background:#c1e7e10b;color:#dcf6f3;text-decoration:none;padding:8px 11px;border-radius:9px;font-size:11px;font-weight:750}
+.young-card-links a:hover{background:#8cc9cf30}
+.young-more-row{text-align:center;margin:26px}.young-more-row button{padding:12px 23px;background:#b5e6df;color:#18263c;border:1px solid #d8f5ed;border-radius:30px;font-weight:850;cursor:pointer}
+.young-more-row button[hidden]{display:none}.young-empty{grid-column:1/-1;padding:35px;background:#24344b;border:1px solid #a0cfce;border-radius:14px;text-align:center}
+.young-source-note{font-size:11px;line-height:1.85;color:#b9c9d8;background:#1e2a3bc7;border:1px solid #b9d9d34a;border-radius:13px;padding:17px;margin:20px 0}
+.young-next{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:18px;margin:52px 0;padding:22px;border:1px solid #acd7d35c;border-radius:16px;background:#223048ca}
+.young-next-links{display:flex;gap:8px;flex-wrap:wrap}.young-next-links a{text-decoration:none;border:1px solid #c8dedf6b;border-radius:10px;background:#ffffff0c;color:#e9f9f8;padding:10px 12px;font-size:12px;font-weight:750}
+@media(max-width:1160px){.young-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.young-controls{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.young-main{width:calc(100% - 20px)}.young-hero{grid-template-columns:1fr}.young-hero-symbols{display:none}.young-stats,.young-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.young-card-top{height:145px}}
+@media(max-width:420px){.young-controls{grid-template-columns:1fr}.young-card-top{height:124px}.young-card-body{padding:11px}.young-card h3{font-size:14px}.young-card-links a{font-size:10px;padding:7px}.young-hero h1{font-size:49px}}
+@media(prefers-reduced-motion:reduce){.young-card-top img{transition:none}}
