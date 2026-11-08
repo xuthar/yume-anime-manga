@@ -8,7 +8,7 @@ const $=id=>document.getElementById(id),root=$('idols-discover');if(!root)return
 const input=$('discovery-search'),list=$('discovery-list'),summary=$('discovery-summary'),more=$('discovery-more'),ageDialog=$('discovery-age-dialog');
 const gate=$('discovery-age-enter'),cancel=$('discovery-age-back');
 const adultCats=new Set(['jav','adult']);
-const labels={all:'Tutte',gravure:'Gravure',fashion:'Modelli',music:'Idol',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'Adult 18+'};
+const labels={all:'Tutte',music:'Idol musicali',gravure:'Gravure',fashion:'Modelli',music:'Idol',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'Adult 18+'};
 const photoFiles={
  'Ayu Hazaki':'Fresh Festival 2023 in Shirakobato Water Park IMG 1038.jpg',
  'Ai Shinozaki':'Shinozaki Ai, Japanese gravure idol 5.jpg',
