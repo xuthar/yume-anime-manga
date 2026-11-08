@@ -18,9 +18,9 @@
    (category==='all'||p.category===category)&&
    (countryVal==='all'||p.scene===countryVal)&&
    (archiveVal==='all'||p.archive===archiveVal)&&
-   (platform.value==='all'||(p.platforms||[]).some(v=>v[0]===platform.value))&&
+   (platform.value==='all'||(p.platforms||[]).some(v=>v[0]===platform.value||platform.value==='TikTok'&&v[0].startsWith('TikTok')))&&
    (age.value==='all'||p.ageRange.min>=range[0]&&p.ageRange.max<=range[1])&&
-   (!q||norm(p.name+' '+p.alternate+' '+p.group+' '+(countryLabels[p.scene]||'')).includes(q))&&
+   (!q||norm(p.name+' '+p.alternate+' '+p.group+' '+(p.description||'')+' '+(countryLabels[p.scene]||'')).includes(q))&&
    (!photoOnly?.checked||matchedPortrait(p))
   ).sort((a,b)=>Number(matchedPortrait(b))-Number(matchedPortrait(a))||a.ageRange.min-b.ageRange.min||a.name.localeCompare(b.name,'it'))
  }
