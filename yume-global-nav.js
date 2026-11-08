@@ -2,7 +2,7 @@
 (()=>{'use strict';
  const header=document.querySelector('body > header'),nav=header?.querySelector('nav[aria-label="Menu principale"],nav[aria-label="Navigazione principale"]');if(!nav)return;
  const primary=[['index.html','夢','Home'],['index.html#universo','宇','Universo'],['libreria.html#anime','映','Anime'],['libreria.html#manga','漫','Manga'],['seasons.html','季','Seasons'],['jpop.html','音','J-Pop'],['idols.html','星','Idols'],['yume-japan.html','和','Giappone']];
- const secondary=[['sport-idols.html','競','Sport Idols'],['mie-liste.html','帳','Le mie liste'],['uscite-manga.html','本','Uscite manga'],['calendario-anime.html','曜','Episodi anime'],['tv-giapponese.html','電','TV e Radio'],['yume-magazine.html','誌','Magazine'],['chronos.html','時','Chronos'],['mangaka.html','筆','Mangaka']];
+ const secondary=[['asia-idols.html','亜','Asia Idols'],['sport-idols.html','競','Sport Idols'],['mie-liste.html','帳','Le mie liste'],['uscite-manga.html','本','Uscite manga'],['calendario-anime.html','曜','Episodi anime'],['tv-giapponese.html','電','TV e Radio'],['yume-magazine.html','誌','Magazine'],['chronos.html','時','Chronos'],['mangaka.html','筆','Mangaka']];
  const path=location.pathname.split('/').pop()||'index.html',hash=location.hash;
  function item([url,kanji,name]){const a=document.createElement('a'),k=document.createElement('span');a.href=url;a.className='yume-nav-link';a.dataset.label=name;k.className='yume-nav-kanji';k.setAttribute('aria-hidden','true');k.textContent=kanji;a.append(k,document.createTextNode(name));const p=url.split('#')[0];
  const active=path===p&&(url.includes('#')?hash==='#'+url.split('#')[1]:(p!=='index.html'||!['#universo','#ricerca'].includes(hash)&&!hash.startsWith('#world-')));if(active){a.classList.add('active');a.setAttribute('aria-current','page')}return a}
@@ -60,7 +60,7 @@
  exit.addEventListener('click',closeMenu);
  dialog.addEventListener('close',()=>trigger.setAttribute('aria-expanded','false'));
  dialog.addEventListener('click',e=>{if(e.target===dialog)closeMenu()});
- const themes={'libreria.html':['archive','浮世絵 · ARCHIVIO ANIME & MANGA'],'seasons.html':['seasons','四季 · LE STAGIONI DELLE STORIE'],'uscite-manga.html':['books','本棚 · NUOVI VOLUMI'],'calendario-anime.html':['episodes','暦 · EPISODI DELLA SETTIMANA'],'mie-liste.html':['lists','私の物語 · LE TUE LISTE'],'jpop.html':['music','音楽 · MUSICA DEL GIAPPONE'],'tv-giapponese.html':['media','電波 · VOCI DAL GIAPPONE'],'idols.html':['idols','アイドル · STORIE E PERSONE'],'sport-idols.html':['sport','競技 · ATLETE GIAPPONESI'],'index.html':['home','夢 · UN SOLO UNIVERSO']};
+ const themes={'libreria.html':['archive','浮世絵 · ARCHIVIO ANIME & MANGA'],'seasons.html':['seasons','四季 · LE STAGIONI DELLE STORIE'],'uscite-manga.html':['books','本棚 · NUOVI VOLUMI'],'calendario-anime.html':['episodes','暦 · EPISODI DELLA SETTIMANA'],'mie-liste.html':['lists','私の物語 · LE TUE LISTE'],'jpop.html':['music','音楽 · MUSICA DEL GIAPPONE'],'tv-giapponese.html':['media','電波 · VOCI DAL GIAPPONE'],'idols.html':['idols','アイドル · STORIE E PERSONE'],'sport-idols.html':['sport','競技 · ATLETE GIAPPONESI'],'asia-idols.html':['asia','亞洲 · IDOLS DELL’ASIA'],'index.html':['home','夢 · UN SOLO UNIVERSO']};
  if(path==='libreria.html'){
  const setCollection=()=>document.body.classList.toggle('yume-view-manga',location.hash==='#manga');
  window.addEventListener('hashchange',setCollection);setCollection();

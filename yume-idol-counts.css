@@ -10,3 +10,8 @@
 .yume-counts-note{margin:17px 0 0;font:400 11px/1.55 system-ui,sans-serif;color:#c9bacd}
 @media(max-width:850px){.yume-counts-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.yume-counts-section{margin:20px 8px 35px;padding:16px 13px}.yume-counts-card{padding:14px 12px}.yume-counts-number{font-size:32px}}
+
+/* Five balanced catalog counters; preserve mobile layout */
+.yume-counts-grid{grid-template-columns:repeat(5,minmax(0,1fr))}
+@media(max-width:1110px){.yume-counts-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:740px){.yume-counts-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
