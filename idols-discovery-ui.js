@@ -96,6 +96,11 @@ function item(p){
  const summary=make('p','discovery-card-detail',p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
  if(birthday[p.name]&&p.categories.has('vtuber'))contents.append(make('p','discovery-character-birthday','Compleanno del personaggio: '+birthday[p.name]+' · età privata non pubblicata'));
+ if(p.teenSafe&&/^\d{4}-\d{2}-\d{2}$/.test(p.birth||'')){
+  const b=new Date(p.birth+'T00:00:00Z'),now=new Date();
+  const age=now.getUTCFullYear()-b.getUTCFullYear()-(now.getUTCMonth()<b.getUTCMonth()||(now.getUTCMonth()===b.getUTCMonth()&&now.getUTCDate()<b.getUTCDate())?1:0);
+  contents.append(make('p','discovery-character-birthday','Nascita pubblica: '+p.birth.split('-').reverse().join('/')+' · '+age+' anni · '+(p.group||'artista')));
+ }
  if(editorialBirth[p.name]){const [d,m,y]=editorialBirth[p.name].split('/').map(Number),now=new Date(),age=now.getFullYear()-y-((now.getMonth()+1<m||(now.getMonth()+1===m&&now.getDate()<d))?1:0);contents.append(make('p','discovery-character-birthday','Nascita: '+editorialBirth[p.name]+' · '+age+' anni (fonte editoriale)'));}
  if(idolBirthdays[p.name]&&p.categories.has('music'))contents.append(make('p','discovery-character-birthday','Compleanno pubblico: '+idolBirthdays[p.name]+' · anno non indicato'));
  const actions=make('div','discovery-card-links');

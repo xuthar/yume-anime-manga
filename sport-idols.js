@@ -7,6 +7,12 @@ const $=id=>document.getElementById(id),grid=$('sport-grid'),query=$('sport-sear
  profile=$('sport-profile'),modalBody=$('sport-profile-body'),close=$('sport-profile-close'),pills=$('sport-pills');
 if(!grid||!select)return;
 const people=data.people,disciplines=data.disciplines,types=Object.fromEntries(disciplines.map(x=>[x.id,x]));
+for(const p of people){
+ if(p.teenSafe&&/^\d{4}-\d{2}-\d{2}$/.test(p.birth||'')){
+  const birth=new Date(p.birth+'T00:00:00Z'),now=new Date();
+  p.age=now.getUTCFullYear()-birth.getUTCFullYear()-(now.getUTCMonth()<birth.getUTCMonth()||(now.getUTCMonth()===birth.getUTCMonth()&&now.getUTCDate()<birth.getUTCDate())?1:0)
+ }
+}
 // Exact linked Wikidata IDs confirmed for these athletes; recheck identity attributes before use.
 const seededQids={'髙木 美帆':'Q444421','池江 璃花子':'Q20973721','角田 夏実':'Q27917959','早田 ひな':'Q27917566'};
 let current='all',limit=32,enrichBusy=false;
@@ -202,6 +208,7 @@ function detail(p){
  make('p',null,'Età: '+(p.age!=null?p.age+' anni':'Non documentata')));
  const sources=make('div','sport-profile-links');
  for(const s of p.sources)sources.append(external('Roster ufficiale · '+s.edition+' ↗',s.url));
+ if(p.verifiedBirthSource)sources.append(external('Data di nascita verificata ↗',p.verifiedBirthSource));
  if(p.entityId)sources.append(external('Wikidata ↗','https://www.wikidata.org/wiki/'+p.entityId));
  if(p.photoSource||p.photoFile)sources.append(external('Foto e licenza Commons ↗',p.photoSource||'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));else sources.append(external('Cerca fotografie della atleta ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+athleteSports(p))));
  for(const [name,url] of p.verifiedLinks)sources.append(external(name+' ↗',url));

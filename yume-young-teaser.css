@@ -1,0 +1,9 @@
+
+/* Young Stars doorway: age verified, professional public-only biographies */
+.yume-young-teaser{display:grid;grid-template-columns:minmax(0,1fr) 130px;gap:14px;align-items:center;max-width:1280px;margin:18px auto 42px;padding:26px clamp(18px,3vw,34px);border:1px solid #b3dadc68;border-radius:17px;background:linear-gradient(110deg,#202f42ed,#403049df),url('assets/yume3-kyoto-panorama.svg') center/cover;color:#f9f2fc}
+.yume-young-teaser .young-teaser-label{font-size:10px;font-weight:800;letter-spacing:.16em;color:#b8ede4}
+.yume-young-teaser h2{margin:11px 0;color:white;font:780 clamp(25px,3vw,37px)/1.2 Outfit,system-ui,sans-serif}
+.yume-young-teaser p{color:#e1dce9;font-size:13px;line-height:1.7;max-width:790px}
+.yume-young-teaser a{display:inline-block;margin-top:8px;padding:10px 15px;border-radius:20px;background:#bce6e1;color:#1a283b;text-decoration:none;font-weight:800;font-size:12px}
+.yume-young-mark{font:850 85px/1 'Yu Mincho',serif;color:#ddf0e4bb;text-align:center}
+@media(max-width:650px){.yume-young-teaser{grid-template-columns:1fr;margin:10px 0 31px;padding:19px}.yume-young-mark{display:none}}
