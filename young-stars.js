@@ -86,5 +86,34 @@
  }
  [query,archive,country,age,platform].forEach(control=>control.addEventListener(control===query?'input':'change',()=>{limit=32;render()}));
  more.addEventListener('click',()=>{limit+=32;render()});
+ function renderChannels(){
+  const target=$('young-channel-grid'),channels=window.YumeYoungSpotlight?.channels||[];
+  if(!target)return;
+  const format=n=>n>=1000000?(n/1000000).toLocaleString('it-IT',{maximumFractionDigits:1})+' M':n.toLocaleString('it-IT');
+  const frag=document.createDocumentFragment();
+  for(const c of channels){
+   const card=$make('article','young-channel-card');
+   const top=$make('div','young-channel-art');
+   top.append($make('span',null,c.theme||'✦'));
+   top.append($make('small',null,c.category));
+   card.append(top);
+   const body=$make('div','young-channel-info');
+   body.append($make('h3',null,c.name));
+   body.append($make('p',null,c.description));
+   for(const [network,amount,unit] of c.metrics||[]){
+    const value=$make('div','young-channel-reach');
+    value.append($make('strong',null,format(amount)));
+    value.append($make('span',null,network+' · '+unit+' · '+new Date(c.snapshot+'T00:00:00Z').toLocaleDateString('it-IT',{timeZone:'UTC'})));
+    body.append(value);
+   }
+   const links=$make('div','young-card-links');
+   if(c.site)links.append(linked('Sito / canale ↗',c.site));
+   for(const [platform,url] of c.platforms||[])if(url!==c.site&&/^https:\/\//.test(url))links.append(linked(platform+' ↗',url));
+   if(c.metricSource)links.append(linked('Fonte dati ↗',c.metricSource));
+   body.append(links);card.append(body);frag.append(card);
+  }
+  target.replaceChildren(frag)
+ }
+ renderChannels();
  render();photoStore?.ready?.then(()=>render()).catch(()=>{});
 })();
