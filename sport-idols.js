@@ -32,11 +32,11 @@ function verifiedEntity(e,p){
 async function request(url){const r=await fetch(url,{headers:{Accept:'application/json'}});if(!r.ok)throw Error('HTTP '+r.status);return r.json()}
 /* All photos must belong to the specifically matched Wikidata identity and be freely reusable.
    The JOC's own event portraits are NOT copied: rights remain with their owners. */
-const STORAGE_PREFIX='yume-sport-photo-v4:';
+const STORAGE_PREFIX='yume-sport-photo-v5:';
 const CACHE_DAYS=10;
 function remember(p){
  try{
- const value={saved:Date.now(),entityId:p.entityId||null,latin:p.latin||'',birth:p.birth,age:p.age,verifiedLinks:p.verifiedLinks,photoUrls:p.photoUrls||[],photoFile:p.photoFile||null,enrichment:p.enrichment};
+ const value={saved:Date.now(),entityId:p.entityId||null,latin:p.latin||'',birth:p.birth,age:p.age,verifiedLinks:p.verifiedLinks,photoUrls:p.photoUrls||[],photoFile:p.photoFile||null,photoValid:p.photoValid===true,imageFailed:p.imageFailed===true,enrichment:p.enrichment};
  localStorage.setItem(STORAGE_PREFIX+p.id,JSON.stringify(value));
  }catch{}
 }
@@ -49,7 +49,7 @@ for(const p of people){
  if(cached.birth)p.birth=cached.birth;
  if(cached.age!=null)p.age=cached.age;
  p.photoUrls=Array.isArray(cached.photoUrls)?cached.photoUrls.filter(x=>typeof x==='string'&&x.startsWith('https://')).slice(0,8):[];
- p.photo=p.photoUrls[0]||null;p.photoFile=cached.photoFile||null;
+ p.photo=p.photoUrls[0]||null;p.photoFile=cached.photoFile||null;p.photoValid=cached.photoValid===true&&!!p.photo;p.imageFailed=cached.imageFailed===true;
  p.verifiedLinks=Array.isArray(cached.verifiedLinks)?cached.verifiedLinks.filter(x=>Array.isArray(x)&&x.length===2):[];
  p.enrichment=cached.enrichment==='verified'?'verified':'idle';
  }catch{}
@@ -153,8 +153,8 @@ function makePhoto(p,block,preview){
  const image=document.createElement('img');image.alt='Fotografia attribuita a '+(p.latin||p.name);
  image.loading=preview?'eager':'lazy';image.decoding='async';
  let index=0;
- image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;p.photo=options[index];image.dataset.loaded='true';if(first&&photoOnly.checked&&!preview)render()};
- image.onerror=()=>{index++;if(index<options.length){image.src=options[index];return}p.photoValid=false;p.imageFailed=true;image.remove();if(photoOnly.checked)render()};
+ image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;p.photo=options[index];image.dataset.loaded='true';remember(p);if(first&&photoOnly.checked&&!preview)render()};
+ image.onerror=()=>{index++;if(index<options.length){image.src=options[index];return}p.photoValid=false;p.imageFailed=true;remember(p);image.remove();if(photoOnly.checked)render()};
  image.src=options[index];block.append(image)
 }
 function card(p){
