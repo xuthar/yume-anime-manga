@@ -51,3 +51,8 @@ body.idols-portal-page{background:linear-gradient(140deg,#11182dce,#17142be8),ur
 @media(max-width:990px){.idol-portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.idol-portal-hero-art{font-size:115px}}
 @media(max-width:610px){.idols-portal-page main{width:calc(100% - 22px)}.idol-portal-hero{grid-template-columns:1fr;border-radius:18px;min-height:0}.idol-portal-hero-copy{padding:30px 22px}.idol-portal-hero-art{display:none}.idol-portal-hero h1{font-size:70px}.idol-portal-grid,.idol-portal-grid.is-featured,.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:1fr;gap:11px}.idol-portal-banner,.idol-portal-grid.is-featured .idol-portal-banner{min-height:210px;padding:22px}.idol-portal-section{margin:29px 0}.idol-portal-section.is-restricted{padding:16px}}
 @media(prefers-reduced-motion:reduce){.idol-portal-banner,.idol-portal-banner:before{transition:none}}
+
+/* Filipina gaming/social has its own artwork, distinct from Asia-wide banner. */
+.idol-portal-banner.art-ph{--portal-art:radial-gradient(circle at 81% 18%,#fa9fc66e,transparent 34%),radial-gradient(circle at 15% 64%,#4fb2d67a,transparent 41%),repeating-linear-gradient(135deg,#343051 0,#343051 10px,#242b47 10px,#242b47 20px)}
+.idol-portal-banner.art-ph .idol-banner-glyph{font-size:65px;top:19px;right:23px}
+.asia-ph-creator-feature{margin:24px 0;padding:27px;display:flex;gap:15px;justify-content:space-between;align-items:center;border:1px solid #e9c1e373;border-radius:18px;background:radial-gradient(ellipse at 90% 0,#d88bc269,transparent 41%),linear-gradient(125deg,#2e2e4a,#203d4b);box-shadow:0 13px 30px #05091955}
