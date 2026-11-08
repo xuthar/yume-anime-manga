@@ -65,7 +65,7 @@ function convert(e,cat){
   ['YouTube',socialUrl('youtube',read(e,'P2397'))],['TikTok',socialUrl('tiktok',read(e,'P7085'))],
   ['Facebook',socialUrl('facebook',read(e,'P2013'))],['Sito',normalURL(read(e,'P856'))]
  ].filter(x=>x[1]);
- return{id:e.id,name:title,description:description(e)||roles.join(' · ')||categories[cat].description,roles:roles.length?Array.from(new Set(roles)).slice(0,3).join(' · '):categories[cat].name,birth:birth.text,age:birth.age,birthYear:birth.year,height:measure(read(e,'P2048'),'height'),weight:measure(read(e,'P2067'),'weight'),from:birthInfo(read(e,'P2031')).year,to:birthInfo(read(e,'P2032')).year,wiki:sites?wikiUrl(sites.site,sites.title):null,site:sites,photoFile:typeof picture==='string'?picture:null,photos:[],photoIndex:0,noPhoto:false,links,source:'https://www.wikidata.org/wiki/'+e.id,group:ref(read(e,'P463')),work:ref(read(e,'P800')),extras:[]}
+ return{id:e.id,name:title,description:description(e)||roles.join(' · ')||categories[cat].description,roles:roles.length?Array.from(new Set(roles)).slice(0,3).join(' · '):categories[cat].name,birth:birth.text,age:birth.age,birthYear:birth.year,height:birth.age!=null&&birth.age<18?null:measure(read(e,'P2048'),'height'),weight:birth.age!=null&&birth.age<18?null:measure(read(e,'P2067'),'weight'),from:birthInfo(read(e,'P2031')).year,to:birthInfo(read(e,'P2032')).year,wiki:sites?wikiUrl(sites.site,sites.title):null,site:sites,photoFile:typeof picture==='string'?picture:null,photos:[],photoIndex:0,noPhoto:false,links,source:'https://www.wikidata.org/wiki/'+e.id,group:ref(read(e,'P463')),work:ref(read(e,'P800')),extras:[]}
 }
 async function readJSON(url,format='application/json'){const r=await fetch(url,{headers:{Accept:format}});if(!r.ok)throw Error('HTTP '+r.status);return r.json()}
 async function entities(ids){
@@ -107,7 +107,7 @@ async function enrich(people){
 async function fetchBatch(cat){
  const s=state[cat];if(s.busy||s.done)return;s.busy=true;s.error='';paint();
  const qids=categories[cat].jobs.map(x=>'wd:'+x).join(' '),limit=60;
- const sparql='PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset;
+ const sparql='PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 . } LIMIT '+limit+' OFFSET '+s.offset;
  try{
  const d=await readJSON('https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(sparql),'application/sparql-results+json');
  const ids=(d.results?.bindings||[]).map(v=>v.person?.value?.match(/Q\d+$/)?.[0]).filter(Boolean);
@@ -158,6 +158,9 @@ function linksNode(p,cssClass='idol-card-links'){
  const row=make('div',null,cssClass);
  const byType=(label)=>p.links.find(x=>x[0]===label);
  for(const label of ['X','Instagram','YouTube','TikTok','Facebook','Sito']){const v=byType(label);if(v)row.append(external(label+' ↗',v[1]))}
+ if(!byType('X'))row.append(external('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
+ if(!byType('Instagram'))row.append(external('Cerca IG ↗','https://www.google.com/search?q='+encodeURIComponent('site:instagram.com '+p.name)));
+ if(!byType('YouTube'))row.append(external('Cerca YT ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name)));
  row.append(external('Profilo ↗',p.source));
  if(cssClass==='idol-card-links')row.append(external('Cerca ↗','https://www.google.com/search?q='+encodeURIComponent(p.name+' '+categories[active].name)));
  return row
@@ -205,5 +208,12 @@ $('idol-age-decline').addEventListener('click',()=>{pending=null;ageDialog.close
 $('idol-close').addEventListener('click',()=>profile.close());profile.addEventListener('click',e=>{if(e.target===profile)profile.close()});
 query.addEventListener('input',paint);sort.addEventListener('change',paint);onlyPhoto.addEventListener('change',paint);
 more.addEventListener('click',()=>fetchBatch(active));retry.addEventListener('click',()=>fetchBatch(active));find.addEventListener('click',onlineSearch);
+if('IntersectionObserver' in window){
+ const loader=new IntersectionObserver(entries=>{
+  if(!entries.some(e=>e.isIntersecting))return;
+  const s=state[active];if(!s.busy&&!s.done&&!s.error)fetchBatch(active)
+ },{rootMargin:'250px'});
+ loader.observe(more)
+}
 paint();fetchBatch('music');
 })();

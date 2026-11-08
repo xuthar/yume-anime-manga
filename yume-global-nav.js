@@ -12,5 +12,9 @@
  if(secondary.some(x=>x[0].split('#')[0]===path)){details.classList.add('has-current')}
  document.addEventListener('click',e=>{if(details.open&&!details.contains(e.target))details.open=false});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&details.open){details.open=false;summary.focus()}});
  const themes={'libreria.html':['archive','浮世絵 · ARCHIVIO ANIME & MANGA'],'seasons.html':['seasons','四季 · LE STAGIONI DELLE STORIE'],'uscite-manga.html':['books','本棚 · NUOVI VOLUMI'],'calendario-anime.html':['episodes','暦 · EPISODI DELLA SETTIMANA'],'mie-liste.html':['lists','私の物語 · LE TUE LISTE'],'jpop.html':['music','音楽 · MUSICA DEL GIAPPONE'],'tv-giapponese.html':['media','電波 · VOCI DAL GIAPPONE'],'idols.html':['idols','アイドル · STORIE E PERSONE'],'index.html':['home','夢 · UN SOLO UNIVERSO']};
+ if(path==='libreria.html'){
+ const setCollection=()=>document.body.classList.toggle('yume-view-manga',location.hash==='#manga');
+ window.addEventListener('hashchange',setCollection);setCollection();
+}
  const theme=themes[path];if(theme){document.body.classList.add('yume-illustrated','yume-section-'+theme[0]);if(path!=='index.html'){const ribbon=document.createElement('div');ribbon.className='yume-scene-ribbon';ribbon.setAttribute('aria-hidden','true');ribbon.textContent=theme[1];const main=document.querySelector('body > main');if(main)main.prepend(ribbon)}}
 })();
