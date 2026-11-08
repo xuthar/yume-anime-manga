@@ -1874,7 +1874,222 @@
       "source": "https://commons.wikimedia.org/wiki/File:FLMbmoRaUAA8KHA.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
       "verified": true
+    },
+    "maoasada": {
+      "name": "Mao Asada",
+      "qid": "Q223507",
+      "file": "Mao Asada.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mao_Asada.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mao_Asada.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Mao_Asada.jpg",
+      "license": "CC BY-SA 2.5; Photo Vesperholly",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "nozomimaeda": {
+      "name": "Nozomi Maeda",
+      "qid": "Q11239259",
+      "file": "Super! C CHANNEL 2018 Maeda Nozomi (43471277510).jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Super!_C_CHANNEL_2018_Maeda_Nozomi_(43471277510).jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Super!_C_CHANNEL_2018_Maeda_Nozomi_(43471277510).jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Super!_C_CHANNEL_2018_Maeda_Nozomi_(43471277510).jpg",
+      "license": "CC BY 2.0; Dick Thomas Johnson",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "yuranoochi": {
+      "name": "Yurano Ochi",
+      "qid": "Q27918047",
+      "file": "T-SPOOK 2016 Ochi Yulano (33087860174).jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/T-SPOOK_2016_Ochi_Yulano_(33087860174).jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/T-SPOOK_2016_Ochi_Yulano_(33087860174).jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:T-SPOOK_2016_Ochi_Yulano_(33087860174).jpg",
+      "license": "CC BY 2.0; Dick Thomas Johnson",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "mikiide": {
+      "name": "Miki Ide",
+      "qid": "Q124479696",
+      "file": "Ede Miki 2024 IMG 9495.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ede_Miki_2024_IMG_9495.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ede_Miki_2024_IMG_9495.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Ede_Miki_2024_IMG_9495.jpg",
+      "license": "Wikimedia Commons; consultare pagina file",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "hikakin": {
+      "name": "HIKAKIN",
+      "file": "Hikakin 2026 - Odaiba (cropped).jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hikakin_2026_-_Odaiba_(cropped).jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hikakin_2026_-_Odaiba_(cropped).jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hikakin_2026_-_Odaiba_(cropped).jpg",
+      "license": "CC BY 4.0; Mister Mega",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "hajimesyacho": {
+      "name": "Hajime Syacho",
+      "file": "Hajime YouTuber 2018.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hajime_YouTuber_2018.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hajime_YouTuber_2018.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hajime_YouTuber_2018.jpg",
+      "license": "CC BY 3.0; とある男が授業をしてみた",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "hikaru(youtuber)": {
+      "name": "Hikaru (YouTuber)",
+      "file": "Hikaru YouTuber.png",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hikaru_YouTuber.png?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Hikaru_YouTuber.png"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hikaru_YouTuber.png",
+      "license": "Wikimedia Commons; consultare pagina file",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "yukafurukawa": {
+      "name": "Yuka Furukawa",
+      "qid": "Q79951150",
+      "file": "古川優香 Yuka Furukawa 20191218162953 IMG 4589.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%A4%E5%B7%9D%E5%84%AA%E9%A6%99_Yuka_Furukawa_20191218162953_IMG_4589.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%A4%E5%B7%9D%E5%84%AA%E9%A6%99_Yuka_Furukawa_20191218162953_IMG_4589.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%8F%A4%E5%B7%9D%E5%84%AA%E9%A6%99_Yuka_Furukawa_20191218162953_IMG_4589.jpg",
+      "license": "CC BY-SA 4.0; Bject",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "fuwachan": {
+      "name": "Fuwa-chan",
+      "file": "Fuwa-chan (cropped).jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fuwa-chan_(cropped).jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Fuwa-chan_(cropped).jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Fuwa-chan_(cropped).jpg",
+      "license": "CC BY-SA 4.0; Memostothefuture",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "emiohmatsu": {
+      "name": "Emi Ohmatsu",
+      "file": "Ohmatsu Emi 2017-06-25.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ohmatsu_Emi_2017-06-25.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Ohmatsu_Emi_2017-06-25.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Ohmatsu_Emi_2017-06-25.jpg",
+      "license": "CC BY-SA 4.0; Baynosuke",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "tenchimu": {
+      "name": "Tenchimu",
+      "file": "Tenchimu 2019.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenchimu_2019.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tenchimu_2019.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Tenchimu_2019.jpg",
+      "license": "Wikimedia Commons; consultare pagina file",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "rinrindoll": {
+      "name": "RinRin Doll",
+      "qid": "Q122382220",
+      "file": "RinRin Doll on her English Channel.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/RinRin_Doll_on_her_English_Channel.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/RinRin_Doll_on_her_English_Channel.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:RinRin_Doll_on_her_English_Channel.jpg",
+      "license": "CC BY 3.0; RinRin Doll English Channel",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "kimagurecook": {
+      "name": "Kimagure Cook",
+      "file": "Kimagure-cook.png",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimagure-cook.png?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kimagure-cook.png"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Kimagure-cook.png",
+      "license": "CC BY 3.0; YouTube creator source",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "masuo": {
+      "name": "Masuo",
+      "qid": "Q81783459",
+      "file": "Masuo YouTuber.png",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Masuo_YouTuber.png?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Masuo_YouTuber.png"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Masuo_YouTuber.png",
+      "license": "CC BY 3.0; MasuoGames",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "kazu(youtuber)": {
+      "name": "Kazu (YouTuber)",
+      "file": "Kazu - YouTuber - Yokohama - 2023 May 20 02-32PM.jpeg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazu_-_YouTuber_-_Yokohama_-_2023_May_20_02-32PM.jpeg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kazu_-_YouTuber_-_Yokohama_-_2023_May_20_02-32PM.jpeg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Kazu_-_YouTuber_-_Yokohama_-_2023_May_20_02-32PM.jpeg",
+      "license": "CC BY 4.0; Nesnad",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
+    },
+    "susuru": {
+      "name": "SUSURU",
+      "file": "SUSURU2022.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/SUSURU2022.jpg?width=500",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/SUSURU2022.jpg"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:SUSURU2022.jpg",
+      "license": "CC BY 3.0; 大食いらすかる",
+      "verified": true,
+      "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
+      "validatedAt": "2026-11-08"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata."
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: ritratti creator con corrispondenza Commons e fonte del file."
 }
