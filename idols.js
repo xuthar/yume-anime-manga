@@ -158,7 +158,7 @@ async function fetchFeatured(cat){
    const jobsSet=new Set(categories[cat].jobs);
    const occupation=(e.claims?.P106||[]).some(v=>jobsSet.has(ref(v.mainsnak?.datavalue?.value)));
    const nationality=(e.claims?.P27||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q17');
-   return occupation&&(cat==='vtuber'||nationality)&&(cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18)
+   return occupation&&(cat==='vtuber'||nationality)&&(!['gravure','jav','adult'].includes(cat)||birthInfo(read(e,'P569')).age>=18)
   }).map(e=>convert(e,cat));
   await Promise.allSettled([attachPhotos(people),enrich(people)]);
   for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
@@ -177,7 +177,7 @@ async function fetchBatch(cat){
   if(ids.length<limit)s.done=true;
   s.offset+=limit;
   if(ids.length){
-   const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&isFemale(x)&&(cat==='vtuber'||x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))).filter(e=>cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18).map(e=>convert(e,cat));
+   const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&isFemale(x)&&(cat==='vtuber'||x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))).filter(e=>!['gravure','jav','adult'].includes(cat)||birthInfo(read(e,'P569')).age>=18).map(e=>convert(e,cat));
    await Promise.allSettled([attachPhotos(people),enrich(people)]);
    for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
   }
@@ -198,7 +198,7 @@ async function onlineSearch(){
  const jobList=e?.claims?.P106||[];
  const relevant=jobList.some(x=>jobSet.has(ref(x.mainsnak?.datavalue?.value)));
  const japan=(e?.claims?.P27||[]).some(x=>ref(x.mainsnak?.datavalue?.value)==='Q17');
- return e?.type==='item'&&isFemale(e)&&relevant&&(active==='vtuber'||japan)&&(active!=='jav'&&active!=='adult'||birthInfo(read(e,'P569')).age>=18)
+ return e?.type==='item'&&isFemale(e)&&relevant&&(active==='vtuber'||japan)&&(!['gravure','jav','adult'].includes(active)||birthInfo(read(e,'P569')).age>=18)
  }).map(e=>convert(e,active));
  await Promise.allSettled([attachPhotos(people),enrich(people)]);
  for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
