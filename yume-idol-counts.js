@@ -21,7 +21,7 @@
   heading.append(eyebrow,title);
   const grid=document.createElement('div');grid.className='yume-counts-grid';
   for(const [key,label,total,note] of bands){
-   const card=document.createElement('a');card.className='yume-counts-card';card.href=key==='sport'?'sport-idols.html':key==='asia'?'asia-idols.html':key==='young'?'young-stars.html':key==='universo'?'idols.html#idols-directory':key==='gruppi'?'idols.html#idols-discover':'idols.html';
+   const card=document.createElement('a');card.className='yume-counts-card';card.href=key==='sport'?'idols.html#idol-sport':key==='asia'?'idols.html#idol-asia':key==='young'?'idols.html#idol-young':key==='gruppi'?'idols.html#idol-groups':'idols.html#idol-japan';
    const value=document.createElement('strong');value.textContent=nf.format(total);value.className='yume-counts-number';
    const caption=document.createElement('span');caption.className='yume-counts-label';caption.textContent=label;
    const small=document.createElement('small');small.textContent=note;
