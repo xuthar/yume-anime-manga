@@ -5,8 +5,8 @@
 .home-page>header nav a{font-size:clamp(11px,.91vw,13px);padding:10px 0}
 .home-page>header .brand{flex:0 0 auto}.home-page>header .nav-cta{flex:0 0 auto}
 .unified-universe,.unified-depth{width:min(1220px,calc(100% - 36px));margin:44px auto 52px;scroll-margin-top:100px}
-.unified-universe{display:grid;grid-template-columns:minmax(230px,.36fr) minmax(0,.64fr);align-items:center;gap:20px;padding:clamp(20px,3.4vw,42px);border:1px solid #dfbbde4d;border-radius:26px;overflow:hidden;position:relative;background:linear-gradient(120deg,#28233fa8,#191e35cc 62%),url('assets/yume3-kyoto-panorama.svg') center/cover;box-shadow:0 22px 70px #0709163d}
-.unified-universe::before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,#141627de,transparent 70%)}
+.unified-universe{display:grid;grid-template-columns:minmax(230px,.36fr) minmax(0,.64fr);align-items:center;gap:20px;padding:clamp(20px,3.4vw,42px);border:1px solid #dfbbde4d;border-radius:26px;overflow:hidden;position:relative;background:linear-gradient(106deg,#12152ed9 0%,#161c3ac0 39%,#141a3884 69%,#181b39b0 100%),url('assets/yume-universe-cosmic.webp') center 48%/cover no-repeat;box-shadow:0 22px 70px #0709163d}
+.unified-universe::before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,#10122bb6,transparent 69%),linear-gradient(0deg,#11162f85,transparent 42%)}
 .unified-intro{position:relative;z-index:1;align-self:center}.unified-intro .eyebrow{color:#f4b4d7}
 .unified-intro h2{font-size:clamp(29px,3vw,46px);line-height:1.13;color:white}.unified-intro h2 em{color:#f6b8d8;font-style:normal}
 .unified-intro p{color:#ece5f2;line-height:1.75;font-size:13px;max-width:360px}.unified-universe-hint{font-size:11px!important;color:#efc7e9!important}
