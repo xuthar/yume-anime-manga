@@ -1,0 +1,37 @@
+/* Yume · un solo universo, 8 novembre 2026. Preserve existing Japanese hero and sakura. */
+:root{--y-rose:#f2b4d0;--y-lilac:#c6b1ed;--y-night:#141627}
+.home-page>header{max-width:1440px;gap:14px;min-height:85px;height:auto;padding-top:15px;padding-bottom:15px}
+.home-page>header nav{gap:clamp(8px,1.1vw,18px);flex-wrap:wrap;justify-content:center;line-height:1.2}
+.home-page>header nav a{font-size:clamp(11px,.91vw,13px);padding:10px 0}
+.home-page>header .brand{flex:0 0 auto}.home-page>header .nav-cta{flex:0 0 auto}
+.unified-universe,.unified-depth{width:min(1220px,calc(100% - 36px));margin:44px auto 52px;scroll-margin-top:100px}
+.unified-universe{display:grid;grid-template-columns:minmax(230px,.36fr) minmax(0,.64fr);align-items:center;gap:20px;padding:clamp(20px,3.4vw,42px);border:1px solid #dfbbde4d;border-radius:26px;overflow:hidden;position:relative;background:linear-gradient(120deg,#28233fa8,#191e35cc 62%),url('assets/yume3-kyoto-panorama.svg') center/cover;box-shadow:0 22px 70px #0709163d}
+.unified-universe::before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,#141627de,transparent 70%)}
+.unified-intro{position:relative;z-index:1;align-self:center}.unified-intro .eyebrow{color:#f4b4d7}
+.unified-intro h2{font-size:clamp(29px,3vw,46px);line-height:1.13;color:white}.unified-intro h2 em{color:#f6b8d8;font-style:normal}
+.unified-intro p{color:#ece5f2;line-height:1.75;font-size:13px;max-width:360px}.unified-universe-hint{font-size:11px!important;color:#efc7e9!important}
+.unified-space{position:relative;min-height:360px;aspect-ratio:1.65;isolation:isolate}
+.unified-stars{position:absolute;inset:0;background-image:radial-gradient(2px 2px at 12% 19%,#fff8 99%,transparent),radial-gradient(2px 2px at 88% 22%,#fff9 99%,transparent),radial-gradient(3px 3px at 53% 5%,#fac5d5 99%,transparent),radial-gradient(1px 1px at 63% 94%,#d9e5ff 99%,transparent),radial-gradient(2px 2px at 22% 81%,#fff7 99%,transparent)}
+.unified-orbit{position:absolute;inset:13% 8%;border:1px dashed #eec5ec8b;border-radius:50%;box-shadow:0 0 24px #ecc9f52d;transform:rotate(-18deg)}
+.unified-orbit.inner{inset:28% 23%;transform:rotate(29deg);opacity:.6}
+.unified-sun{position:absolute;left:50%;top:48%;transform:translate(-50%,-50%);border-radius:50%;width:21%;aspect-ratio:1;display:grid;place-content:center;text-align:center;background:radial-gradient(circle at 30% 24%,#fce9f2,#e8a5c0 30%,#7c5a99 70%,#3b2a70);border:2px solid #f5dbe9;box-shadow:0 0 0 10px #deb0fa1e,0 0 34px 14px #e8a8cd55;color:#25172b;pointer-events:none}
+.unified-sun span{font-size:clamp(21px,3.2vw,43px);line-height:1}.unified-sun small{letter-spacing:.22em;font-size:8px;font-weight:800}
+.unified-planets{position:absolute;inset:0}.unified-planet{position:absolute;width:22%;max-width:116px;aspect-ratio:1;background:transparent;border:0;color:white;text-align:center;padding:0;transform:translate(-50%,-50%);filter:drop-shadow(0 8px 13px #0008);cursor:pointer}
+.unified-planet img{height:78%;width:78%;border:2px solid #ffdfefad;border-radius:50%;object-fit:cover;box-shadow:0 0 0 5px #e8b5eb1a;transition:transform .25s,border-color .25s}
+.unified-planet span{display:block;margin-top:-1px;font-size:11px;letter-spacing:.03em;font-weight:750;text-shadow:0 2px 6px #000}
+.unified-planet:hover img,.unified-planet[aria-pressed=true] img{transform:scale(1.12);border-color:#fff;box-shadow:0 0 0 6px #f4c9ed60}
+.unified-planet:focus-visible{outline:2px solid #fff;outline-offset:8px;border-radius:20px}
+.unified-planet:nth-child(1){left:20%;top:23%}.unified-planet:nth-child(2){left:50%;top:10%}.unified-planet:nth-child(3){left:81%;top:24%}.unified-planet:nth-child(4){left:85%;top:72%}.unified-planet:nth-child(5){left:50%;top:87%}.unified-planet:nth-child(6){left:17%;top:73%}
+.unified-world-detail{grid-column:1/-1;z-index:1;position:relative;padding:20px 22px;border-radius:16px;border:1px solid #f4d6e538;background:#131629db;display:grid;grid-template-columns:minmax(220px,.35fr) minmax(0,.65fr);gap:16px;align-items:center}
+.unified-world-detail h3{color:white;font-size:25px;margin:7px 0}.unified-world-detail p{font-size:12px;color:#d8d6e4;line-height:1.6;margin:4px 0}
+.unified-world-links{display:flex;flex-wrap:wrap;align-items:center;gap:8px!important}
+.unified-world-links a{display:inline-flex;align-items:center;min-height:39px;border-radius:12px;background:#f5b9e51c;border:1px solid #f3c6ed5e;color:#f7e7f6;padding:10px 12px;font-size:12px;text-decoration:none;font-weight:700}
+.unified-world-links a:hover{background:#efb4e24d;color:white}
+.unified-depth .section-heading{margin-bottom:20px}.unified-feature-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.unified-feature-grid>a{padding:21px;border:1px solid #e1bfe23a;border-radius:19px;background:radial-gradient(circle at 90% 0,#eba5df18,transparent 48%),#1f2237;text-decoration:none;min-height:192px;transition:transform .2s,border-color .2s}
+.unified-feature-grid>a:hover{transform:translateY(-3px);border-color:#f3c5eb}
+.unified-feature-icon{display:block;font-size:27px;color:#f6b9dc}.unified-feature-grid small{display:block;margin-top:9px;font-size:10px;letter-spacing:.12em;color:#dbb6db}.unified-feature-grid h3{font-size:21px;margin:9px 0 7px;color:white}.unified-feature-grid p{font-size:13px;line-height:1.6;color:#bfc4d4;margin:0}
+@media(max-width:1000px){.home-page>header{flex-wrap:wrap;justify-content:space-between}.home-page>header nav{order:3;width:100%;justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap;scrollbar-width:thin}.home-page>header nav a{white-space:nowrap;font-size:12px}}
+@media(max-width:750px){.unified-universe{grid-template-columns:1fr}.unified-intro p{max-width:620px}.unified-space{min-height:330px;max-width:590px;width:100%;margin:auto}.unified-world-detail{grid-template-columns:1fr}.unified-feature-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:500px){.unified-universe,.unified-depth{width:calc(100% - 24px);margin:29px auto}.unified-universe{padding:19px 13px;border-radius:17px}.unified-space{min-height:255px}.unified-planet span{font-size:10px}.unified-world-detail{padding:14px}.unified-feature-grid{grid-template-columns:1fr;gap:10px}.unified-feature-grid>a{min-height:0;padding:18px}.unified-orbit{inset:15% 6%}.unified-planet:nth-child(2){top:12%}.unified-planet:nth-child(5){top:86%}}
+@media(prefers-reduced-motion:reduce){.unified-planet img,.unified-feature-grid>a{transition:none}}

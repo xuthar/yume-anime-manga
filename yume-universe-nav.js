@@ -1,17 +1,17 @@
-/* Shared six-world navigator. Keeps a clear route home on every Yume 3.0 page. */
+/* Shared six-world navigator. Keeps a clear route home on every Yume page. */
 (function(){
 'use strict';
 if(document.querySelector('.yn-dock'))return;
 const style=document.createElement('style');
 style.textContent=`
-body.has-yume-dock{padding-bottom:83px!important}
-.yn-dock{--yn-bg:rgba(17,19,43,.95);position:fixed;left:50%;bottom:13px;transform:translateX(-50%);z-index:9998;display:flex;align-items:center;gap:7px;width:max-content;max-width:calc(100vw - 24px);padding:7px;border-radius:18px;border:1px solid rgba(240,189,228,.59);background:var(--yn-bg);backdrop-filter:blur(20px);box-shadow:0 8px 35px #06081dbc;font:700 12px/1.2 system-ui,sans-serif;color:#fff}
-.yn-dock :is(a,button){display:flex;align-items:center;justify-content:center;gap:7px;padding:11px 14px;min-height:40px;border:1px solid transparent;border-radius:12px;background:transparent;color:#eee9fa;text-decoration:none;font:inherit;cursor:pointer;white-space:nowrap}
+body.has-yume-dock{padding-bottom:55px!important}
+.yn-dock{--yn-bg:rgba(17,19,43,.95);position:fixed;left:50%;bottom:9px;transform:translateX(-50%);z-index:9998;display:flex;align-items:center;gap:7px;width:max-content;max-width:calc(100vw - 24px);padding:5px;border-radius:15px;border:1px solid rgba(240,189,228,.59);background:var(--yn-bg);backdrop-filter:blur(20px);box-shadow:0 8px 35px #06081dbc;font:700 12px/1.2 system-ui,sans-serif;color:#fff}
+.yn-dock :is(a,button){display:flex;align-items:center;justify-content:center;gap:7px;padding:8px 12px;min-height:35px;border:1px solid transparent;border-radius:12px;background:transparent;color:#eee9fa;text-decoration:none;font:inherit;cursor:pointer;white-space:nowrap}
 .yn-dock :is(a,button):hover{background:#503964;color:white;border-color:#d6acd875}
 .yn-dock :is(a,button):focus-visible,.yn-menu a:focus-visible{outline:3px solid #a5f5e5;outline-offset:2px}
 .yn-dock .yn-map{background:linear-gradient(110deg,#f4b5e2,#b4bdf1);color:#1b1a39;border-color:#eed0f5}
 .yn-dock .yn-map:hover{background:#ffd5ed;color:#23213b}
-.yn-menu{position:fixed;z-index:9997;bottom:83px;left:50%;transform:translateX(-50%);width:min(520px,calc(100vw - 22px));border:1px solid #edbade93;border-radius:18px;padding:16px;background:#171b38f5;backdrop-filter:blur(18px);box-shadow:0 12px 40px #07091dc9;color:#fff;font:700 12px system-ui,sans-serif}
+.yn-menu{position:fixed;z-index:9997;bottom:63px;left:50%;transform:translateX(-50%);width:min(520px,calc(100vw - 22px));border:1px solid #edbade93;border-radius:18px;padding:16px;background:#171b38f5;backdrop-filter:blur(18px);box-shadow:0 12px 40px #07091dc9;color:#fff;font:700 12px system-ui,sans-serif}
 .yn-menu[hidden]{display:none!important}
 .yn-menu>strong{display:block;font-size:15px;margin:0 0 4px}
 .yn-menu>p{color:#bdbfd6;font-size:11px;font-weight:400;margin:0 0 12px}
@@ -25,9 +25,9 @@ body.has-yume-dock{padding-bottom:83px!important}
 document.head.append(style);
 document.body.classList.add('has-yume-dock');
 const el=(tag,cls,text)=>{const x=document.createElement(tag);if(cls)x.className=cls;if(text!==undefined)x.textContent=text;return x};
-const box=el('nav','yn-dock');box.setAttribute('aria-label','Navigazione permanente di Yume 3.0');
-const home=el('a','yn-map','✦ Mappa');home.href='yume-3.html';home.title='Torna all’universo interattivo';
-const toggle=el('button','yn-toggle','◈ Sei mondi ▾');toggle.type='button';toggle.setAttribute('aria-haspopup','true');toggle.setAttribute('aria-expanded','false');
+const box=el('nav','yn-dock');box.setAttribute('aria-label','Navigazione permanente di Yume');
+const home=el('a','yn-map','✿ Yume');home.href='index.html#universo';home.title='Torna all’universo di Yume';
+const toggle=el('button','yn-toggle','✧ Universo ▾');toggle.type='button';toggle.setAttribute('aria-haspopup','true');toggle.setAttribute('aria-expanded','false');
 const back=el('button','yn-back','← Indietro');back.type='button';back.title='Torna alla pagina precedente o alla mappa';
 box.append(home,toggle,back);
 const menu=el('div','yn-menu');menu.id='yn-menu';menu.hidden=true;menu.setAttribute('role','region');menu.setAttribute('aria-label','Vai a un mondo');
@@ -49,12 +49,12 @@ else if(['jpop.html','sigle-anime.html','sigle-italiane.html','colonne-sonore-an
 else if(['magazine-article.html'].includes(path))active='magazine';
 else if(['mie-liste.html'].includes(path))active='discover';
 else if(['uscite-manga.html'].includes(path))active='collector';
-worlds.forEach(([key,icon,name])=>{const a=el('a','',name);a.href='yume-3.html#world-'+key;a.prepend(el('span','',icon));if(key===active)a.setAttribute('aria-current','page');items.append(a)});
-menu.append(items);
+worlds.forEach(([key,icon,name])=>{const a=el('a','',name);a.href='index.html#world-'+key;a.prepend(el('span','',icon));if(key===active)a.setAttribute('aria-current','page');items.append(a)});
+const idols=el('a','','✿ Idols · archivio');idols.href='idols.html';idols.style.gridColumn='1 / -1';items.append(idols);menu.append(items);
 function close(){menu.hidden=true;toggle.setAttribute('aria-expanded','false')}
 toggle.addEventListener('click',()=>{menu.hidden=!menu.hidden;toggle.setAttribute('aria-expanded',String(!menu.hidden))});
 back.addEventListener('click',()=>{let local=false;try{const u=new URL(document.referrer);local=u.origin===location.origin&&u.pathname.startsWith('/yume-anime-manga/')&&u.href!==location.href}catch(e){}
-if(local)history.back();else location.assign('yume-3.html')});
+if(local)history.back();else location.assign('index.html#universo')});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){close();toggle.focus()}});
 document.addEventListener('click',e=>{if(!menu.hidden&&!menu.contains(e.target)&&!toggle.contains(e.target))close()});
 document.body.append(menu,box);
