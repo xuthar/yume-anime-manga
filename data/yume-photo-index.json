@@ -2749,6 +2749,34 @@
       "license": "Commons · file del Pink Aura Tour · termini esatti nella pagina del file",
       "verified": true,
       "verifiedAt": "2026-11-08"
+    },
+    "ph:anneyatco": {
+      "name": "Anne Yatco",
+      "scene": "ph",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Yatco_at_Animate!_Raleigh_2026_(55151993021).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Yatco_at_Animate!_Raleigh_2026_(55151993021).jpg"
+      ],
+      "file": "Anne Yatco at Animate! Raleigh 2026 (55151993021).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Anne_Yatco_at_Animate!_Raleigh_2026_(55151993021).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Anne_Yatco",
+      "license": "CC BY-SA 4.0 · fotografo John Manard; WikiPortraits 14 marzo 2026",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
+    },
+    "ph:dexiediaz": {
+      "name": "Dexie Diaz",
+      "scene": "ph",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dexie_Diaz_at_Isetan_Cinerama_Recto.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Dexie_Diaz_at_Isetan_Cinerama_Recto.jpg"
+      ],
+      "file": "Dexie Diaz at Isetan Cinerama Recto.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dexie_Diaz_at_Isetan_Cinerama_Recto.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Child_vocalists",
+      "license": "Wikimedia Commons · autore e condizioni d'uso sulla scheda del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
     }
   },
   "japan": {
@@ -3666,5 +3694,5 @@
       "photoStatus": "documentedCommonsFile"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza. · 2026-11-08: 13 attrici adulte con ritratti individuali Commons e alias giapponesi. · 2026-11-08: 5 fotografie verificate di creator filippine, separate dai profili senza licenza fotografica."
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza. · 2026-11-08: 13 attrici adulte con ritratti individuali Commons e alias giapponesi. · 2026-11-08: 5 fotografie verificate di creator filippine, separate dai profili senza licenza fotografica. · Creator Filippine: immagini individuali di Anne Yatco (CC BY-SA 4.0, John Manard) e Dexie Diaz (verifica licenza tramite Commons)."
 }
