@@ -93,7 +93,7 @@ function choose(k){
 document.querySelectorAll('[data-discovery-category]').forEach(btn=>btn.addEventListener('click',()=>choose(btn.dataset.discoveryCategory)));
 input.addEventListener('input',()=>{limit=48;render()});
 more.addEventListener('click',()=>{limit+=48;render()});
-gate.addEventListener('click',()=>{try{sessionStorage.setItem('yume-idols-adult-18','yes')}catch{}ageDialog.close();const k=pending;pending=null;if(k)choose(k)});
+gate.addEventListener('click',()=>{try{sessionStorage.setItem('yume-idols-adult-18','yes')}catch{}const k=pending;pending=null;ageDialog.close();if(k)choose(k)});
 cancel.addEventListener('click',()=>{pending=null;ageDialog.close()});
 ageDialog.addEventListener('close',()=>{pending=null});
 render();

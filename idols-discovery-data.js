@@ -12,6 +12,9 @@ const sources={
  first:{label:'First Gravure · Models',url:'https://www.firstgravure.jp/models',kind:'catalogo fotografico'},
  celeb:{label:'celeb-db · Gravure Idols',url:'https://celeb-db.com/en/occupation/gravure-idol/',kind:'catalogo editoriale'},
  fashion:{label:'celeb-db · Gravure Models',url:'https://celeb-db.com/en/occupation/gravure-model/',kind:'catalogo editoriale'},
+ ppe:{label:'PP Enterprise · talent ufficiali',url:'https://ppe.jp/talent/',kind:'agenzia ufficiale'},
+ cosplayguide:{label:'CoDigital · Cosplay Influencers 2026',url:'https://influencer.codigital.co.jp/insights/cosplay-influencers-japan/',kind:'catalogo editoriale'},
+ cosplaymore:{label:'TokyoCandies · Cosplay Influencers 2026',url:'https://tokyocandies.com/top-cosplay-influencers-you-should-know/',kind:'catalogo editoriale'},
  social:{label:'GROVE · account dei creator',url:'https://handledex.com/ja/group/grove/',kind:'repertorio social'},
  grove:{label:'YUSŌ / GROVE · talent ufficiali',url:'https://yuso.tokyo/',kind:'agenzia ufficiale'},
  lifestyle:{label:'Virev · lifestyle creator in Japan',url:'https://virev.ai/blog/japanese-lifestyle-influencers',kind:'ricerca social'},
@@ -25,6 +28,9 @@ const groups=[
  ['gravure','dig',`Aika / 愛花;Honoka Aikawa / 相川暖花;Yuka Aisaka / 相坂優歌;Nanako Aizawa / 相沢菜々子;Rina Aizawa / 逢沢りな;Noel Aizome / 愛染のえる;Jurii Aida / 逢田珠里依;Rikako Aida / 逢田梨香子`],
  ['gravure','celeb',`Mio Imada;Kanna Seto;Riho Yoshioka;Hikari Mitsushima;Maya Imamori;Ema Yano;Mitsu Dan;Ruriko Kojima;Saki Tateno;Yotsuha Kominato;Miwako Kakei;Ai Shinozaki;Sayaka Isoyama;Yū Tano;Mizuki Kirihara;Nako Yabuki;Yuuri Rukawa;Sayaka Unagi;Yuki Kashiwagi;Rio Teramoto;Mikie Hara;Manami Hashimoto;Nene Shida;Maria Makino;Tomomi Morisaki;Yuki Kimura;Yūko Tsubakino;Ami Inamura;Hinako Sano;Moe Iori;Wakana Uehara;Nanami Matsumoto;Nana Asakawa;Aika Sawaguchi;Yasuyo Saitō;Asuka Kishi;Yūka Ogura;Yoshino Chitose;Rin Takahashi;Rurika Yokoyama;Anri Sugihara;Yuzuha Hongō;Kurea Hazuki;Fūka Hanasaki;Yūri Adachi;Kana Yamada;Yuka Kuramochi;Yume Hayashi;Runa Toyoda;Mizuki Takanashi;Rina Hashimoto;Hikaru Aoyama;Kaworu Yasui;Mami Nagase;Nanami Asahi;Oto Abe;Haruka Momokawa;Ayu Hazaki;Miu Shitao;Honoka Kukita;Yuki Fujiki;Kanae Watanabe;Kazue Watanabe;Meiri;Riho Horie;Iori Sagara;Enako;Nashiko Momotsuki;Maitei`],
  ['fashion','fashion',`Meru Nukumi;Suzu Hirose;Marie Iitoyo;Sayaka Okada;Yua Shinkawa;Ruriko Kojima;Rio Uchida;Rena Takeda;Ai Shinozaki;Mao Ichimichi;Fumika Baba;Akiko Kuji;Nashiko Momotsuki;Nene Shida;yuna / 星乃夢奈;Kana Nakada;Yuki Ishihara;Yumi Sugimoto;Kazusa Okuyama;Hinami Mori;Mariya Nagao;Yasuyo Saitō;Akemi Darenogare;Nanako Aizawa;Moga Mogami;Shieri Kurasawa;Yume Hayashi;Honoka;Nana Tanimura;Minami Fukuoka;Ikumi Hisamatsu;yunocy;Nanami Asahi;Yuko Sugamoto;Yuki Fujiki;Reika Hino;Rena Kuroki;Airi Ikematsu;Ruka Mishina;Nanaka Kawamura;Asami Ōta;Mio Arisu;Rio Miyamoto;Maya Sano;Saaya Asakura;Shihomi Ogoshi;Wakana Kazuki;Machi Kiyose;Ren Morizono;Erika Aoi`],
+ ['cosplay','ppe',`Enako / えなこ;Umi Shinonome / 東雲うみ;Yokyu-n / よきゅーん;Kokoro Shinozaki / 篠崎こころ;Minami Ami / 南あみ;Saki Yoshida / 吉田早希;Minami Shinohara / 篠原みなみ;Eili / えい梨;Myako / みゃこ;Nao Takami / 高見奈央;Kitaro / 綺太郎;Yamamoto Shiori / 山本栞;Momoto Momo / 桃戸もも;Noe Mita / 三田のえ`],
+ ['cosplay','cosplayguide',`Shinonome Umi / 東雲うみ;Sakurai Feel / 尊みを感じて桜井;Miyamoto Saki / 宮本彩希;Yunocy / ゆのしー;Suzuran / すずら;Shinozaki Kokoro / 篠崎こころ;Kikka / きっか;Tachibana Asahi / 橘あさひ;Tsukimi Tsukune / 月海つくね;Nekota Ashu / 猫田あしゅ;Koumaru-ya / 幸まる屋;Momotsuki Nashiko / 桃月なしこ;Kashou Roshieru / 火将ロシエル;Nyarumaa / にゃるまー。`],
+ ['cosplay','cosplaymore',`Marina Amatsu;Liyuu;Fleia;Yami;Miiko;Usagi Usa;Saku;Honami Shizuku;Moe Iori;Akira Itsuki;Sithle;Non;Kuroneko;Will Will;Momoiroreku;Shinohana Sumire;Yutori;Takanashi Kurea;Prince Ponyoo;Chiba`],
  ['creators','social',`Amenboplus / あめんぼぷらす;Paparapys / パパラピーズ;Miyako / 都;Sankyu Dokkoisho / サンキューどっこいしょ;ADH / 末期のｱｰﾃﾞｰﾊｰﾃﾞｰ;Kuya / くや;Futeko / ふてこ;Mipota Pota / みぽたぽた;Ikirumonotachi / イキル者タチ;Chihiro ASMR / ちひろASMR;kinoko / kinoko;Pixel Ribbon;219goshitsu / 2/2/9号室;Amaha Haruka / 天羽遥;Momohana / ももはな;Asato / あさと;Shinmoto Shin / 慎本真;Fumiami / ふみあみ;Kaichosu Couple / かいちょすカップル;Kurukuru 3kyodai / くるくる3兄妹;Natsume Sanchi / なつめさんち;Hinata / ひなた;Pukupuku / ぷくぷく;Myuu / みゅう;Mukuena / むくえな;Meika / めいか;Yuurich / ゆうり;Waon Syndrome / わおん;Sara Kordi / サラ・コールディ;Shuu / シュウ;Nyasupa / ニャスパ;Miru / ミル;Miyahara Hibiki / 宮原響;Hiyorimaru / 早速ひよりまる;Jiku Sosha / 時空操者;Kimura Sena / 木村星南;Murahama / 村濱遥;Rara / 来蘭;Shiroihito / 白い人;Takeshita Paradise / 竹下☆ぱらだいす;Tomohiro Kaneki / 金木朋裕;Hiiiyo / 陽世`],
  ['creators','grove',`KAIMA / 海馬;Kuga Oshima / 大島空凱;Yuma Konno / 今野優誠;Atsuhiro Hayashi / 林敦大;Noa Fujii / 藤井希空;Kiryu Tanaka / 田中希龍;Yui Kobashi / 小橋由依;Toi Kimura / 木村斗一`],
  ['creators','lifestyle',`Shinya Ogawa / しにゃ;BOBBY HOLMES;Mao Asada / 浅田真央;yuka;Yuuki / 筋築家ゆうき;Nozomi Maeda / 前田希美;Amika / あみか;Ayase Rie;Risa Hirako / 平子理沙;rumi;Yurano Ochi / 越智ゆらの;Nanako Naozaki / なおざきななこ;Misaki Horio / 堀尾実咲;KAREN;SotoTaka;kotoha;Yoshika Kita / 喜多よしか;Miki Ide / 井手美希;Miyu Kano / かのうみゆ`],
@@ -57,12 +63,14 @@ const officialVT={
  'Nozomi Ishigami':'https://www.nijisanji.jp/talents/l/nozomi-ishigami',
  'Rindou Mikoto':'https://www.nijisanji.jp/talents/l/mikoto-rindou'
 };
+const canonical={"Shinonome Umi":"Umi Shinonome","Shinozaki Kokoro":"Kokoro Shinozaki","Miyamoto Saki":"Saki Miyamoto","Momotsuki Nashiko":"Nashiko Momotsuki","Nekota Ashu":"Ashu Nekota","Yunocy":"yunocy"};
 const people=[],seen=new Set();
 for(const [category,sourceKey,blob] of groups){
  const source=sources[sourceKey];
  for(const raw of blob.split(';').map(s=>s.trim()).filter(Boolean)){
-  const [name,...other]=raw.split(' / ');
+  let [name,...other]=raw.split(' / ');
   const alternate=other.join(' / ').trim();
+  name=canonical[name]||name;
   const key=category+':'+name.normalize('NFKC').toLocaleLowerCase('en');
   if(seen.has(key))continue;seen.add(key);
   people.push({category,name,alternate,source:source.url,sourceLabel:source.label,sourceKind:source.kind,
