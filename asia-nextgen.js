@@ -38,12 +38,12 @@
  function card(p){
   const age=currentAge(p.birth),src=sourceOf(p),article=make('article','asia-nextgen-card');
   article.dataset.country=p.country;
-  const visual=make('div','asia-nextgen-visual');
+  const visual=make('div','asia-nextgen-visual');let photoCredit=null;
   visual.append(make('span','asia-nextgen-glyph',p.category==='fashion'?'装':p.category==='actors'?'映':p.category==='music'?'音':'星'));
   visual.append(make('span','asia-nextgen-country',label[p.country]));
   if(photoIndex){
    const pic=photoIndex.get('asia',p.name,p.country);
-   if(pic?.verified&&pic.photo){
+   if(pic?.verified&&pic.photo){photoCredit=pic.source||null;
     const photo=make('img');photo.alt='Ritratto di '+p.name;
     photo.loading='lazy';photo.decoding='async';photo.src=pic.photo;
     let i=0,backup=[pic.photo,...(pic.alternates||[])].filter(x=>typeof x==='string'&&x.startsWith('https://'));
@@ -67,6 +67,7 @@
   const actions=make('div','asia-nextgen-links'),account=socialUrl(p);
   if(account)actions.append(link(p.social.platform+' ↗',account));
   if(src?.url)actions.append(link('Fonte ↗',src.url));
+  if(photoCredit)actions.append(link('Foto e licenza ↗',photoCredit));
   if(p.birthSource)actions.append(link('Età ↗',p.birthSource));
   body.append(actions);article.append(visual,body);return article
  }
