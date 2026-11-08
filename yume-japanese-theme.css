@@ -1,0 +1,32 @@
+/* Japanese menu and illustrated page atmospheres: Yume, 08/11/2026 */
+body > header:has(.yume-global-nav){max-width:1480px;height:auto;min-height:80px;gap:12px;padding:12px clamp(13px,2.5vw,28px);flex-wrap:wrap;position:relative;z-index:100;background:#15172de3;border-bottom:1px solid #ecc2e027;backdrop-filter:blur(12px)}
+body > header:has(.yume-global-nav)>.brand{font-size:clamp(23px,2.4vw,32px);flex:0 0 auto;min-width:0}
+body > header:has(.yume-global-nav)>.nav-cta{display:none}
+.yume-global-nav{display:flex!important;flex:1 1 650px;gap:clamp(2px,.45vw,9px)!important;align-items:center;justify-content:flex-end;flex-wrap:wrap;min-width:0;font:650 11px/1.25 'DM Sans',system-ui,sans-serif;color:#ebdfe9}
+.yume-global-nav .yume-nav-link,.yume-global-nav .yume-nav-more>summary{display:inline-flex;align-items:center;gap:5px;justify-content:center;padding:9px 9px!important;border:1px solid transparent;border-radius:11px;text-decoration:none;color:#ebdfe9!important;white-space:nowrap;min-height:40px;cursor:pointer;font-size:11px}
+.yume-global-nav .yume-nav-kanji{font:700 15px/1 'Yu Mincho','Hiragino Mincho ProN','Noto Serif CJK JP',serif;color:#efbedf;background:#efbedf0e;border:1px solid #efbedf2b;display:grid;place-items:center;border-radius:7px;width:24px;height:25px;flex:0 0 auto}
+.yume-global-nav .yume-nav-link:hover,.yume-global-nav .yume-nav-link.active,.yume-global-nav .yume-nav-more>summary:hover,.yume-global-nav .yume-nav-more.has-current>summary{border-color:#f3bde28c;background:#6b49683e;color:white!important}
+.yume-global-nav .yume-nav-link.active .yume-nav-kanji{background:#eec0df;color:#32223c;border-color:#eec0df}
+.yume-global-nav .yume-nav-more{position:relative;flex:0 0 auto}
+.yume-global-nav .yume-nav-more>summary{list-style:none}.yume-global-nav .yume-nav-more>summary::-webkit-details-marker{display:none}
+.yume-global-nav .yume-nav-more-list{position:absolute;right:0;top:calc(100% + 10px);width:245px;display:grid;grid-template-columns:1fr;gap:2px;max-height:min(64vh,500px);overflow-y:auto;padding:10px;border:1px solid #dcb1db77;background:#1c1d37f9;box-shadow:0 16px 36px #0a0b1ec9;backdrop-filter:blur(18px);border-radius:14px;z-index:10001}
+.yume-global-nav .yume-nav-more-list>a{justify-content:flex-start;font-size:12px;padding:11px!important}
+.yume-global-nav :is(a,summary):focus-visible{outline:3px solid #9bede0;outline-offset:2px}
+@media(max-width:1120px){body > header:has(.yume-global-nav){justify-content:center}body > header:has(.yume-global-nav)>.brand{margin-right:auto}.yume-global-nav{flex:1 1 100%;justify-content:center}}
+@media(max-width:610px){body > header:has(.yume-global-nav){padding:10px 8px}.yume-global-nav{gap:2px!important}.yume-global-nav>.yume-nav-link{flex:1 1 21%;padding:7px 4px!important;font-size:10px;min-height:37px}.yume-global-nav .yume-nav-more{flex:1 1 22%}.yume-global-nav .yume-nav-more>summary{padding:7px 4px!important;font-size:10px;min-height:37px}.yume-global-nav .yume-nav-kanji{width:20px;height:22px;font-size:12px}.yume-global-nav .yume-nav-more-list{position:fixed;right:12px;top:112px;max-width:calc(100vw - 24px);width:280px}.yume-global-nav .yume-nav-more-list .yume-nav-kanji{width:23px;height:25px}}
+/* Layered ukiyo-e / sakura atmosphere, background is from existing Yume Japanese artwork. */
+body.yume-illustrated:not(.home-page){background-color:#121625;background-image:linear-gradient(180deg,#101428eb 0,#141829df 46%,#17192ded 100%),radial-gradient(circle at 82% 7%,#c48bbd75,transparent 50%),url('assets/yume3-kyoto-panorama.svg');background-position:center top,center top,center top;background-repeat:no-repeat;background-size:cover,cover,cover;background-attachment:fixed;color:#faf7fb}
+body.yume-section-archive{background-image:linear-gradient(180deg,#101428e6,#131627f1 75%),url('assets/home/library.webp')!important}
+body.yume-section-seasons{background-image:linear-gradient(180deg,#101428dc,#101725ef 65%),url('assets/home/garden.webp')!important}
+body.yume-section-books,body.yume-section-lists{background-image:linear-gradient(180deg,#101428e5,#121725f2 80%),url('assets/home/library.webp')!important}
+body.yume-section-episodes,body.yume-section-media{background-image:linear-gradient(180deg,#101428d9,#121725f1 73%),url('assets/home/city.webp')!important}
+body.yume-section-music{background-image:linear-gradient(180deg,#101428dc,#14182aef 73%),url('assets/home/music.webp')!important}
+body.yume-section-idols{background-image:linear-gradient(180deg,#101428d5,#15172be9 72%),url('assets/yume3-kyoto-panorama.svg')!important}
+body.yume-illustrated:not(.home-page) .yume-scene-ribbon{max-width:1240px;margin:17px auto 22px;padding:12px 22px;color:#f5cde8;text-shadow:0 2px 8px #090a1a;font:750 11px/1.5 system-ui,sans-serif;letter-spacing:.18em;border:1px solid #eabfdb5c;border-radius:12px;background:linear-gradient(90deg,#3c2c4ab8,#192c43b4),url('assets/yume3-kyoto-panorama.svg') center 60%/cover}
+body.yume-illustrated:not(.home-page) :is(.intro.library-heading,.seasons-intro,.book-intro,.music-hub-heading,.tv-hero){position:relative;border:1px solid #f2c9e65b;border-radius:22px;padding:clamp(25px,3.5vw,48px);overflow:hidden;box-shadow:0 12px 44px #080a1c6b;background-image:linear-gradient(90deg,#15192bf1,#172239b3 85%),url('assets/hero.webp');background-size:cover;background-position:center}
+body.yume-section-seasons .seasons-intro{background-image:linear-gradient(90deg,#16182bee,#151c30a8),url('assets/home/garden.webp')!important}
+body.yume-section-books .book-intro{background-image:linear-gradient(90deg,#151a2bed,#172037b5),url('assets/home/library.webp')!important}
+body.yume-section-music .music-hub-heading{background-image:linear-gradient(90deg,#151a2bee,#172037b5),url('assets/home/music.webp')!important}
+body.yume-illustrated .yume-scene-ribbon+*{scroll-margin-top:100px}
+@media(max-width:700px){body.yume-illustrated:not(.home-page){background-attachment:scroll}body.yume-illustrated:not(.home-page) .yume-scene-ribbon{margin:9px 10px 15px;padding:10px 13px;font-size:9px;letter-spacing:.11em}body.yume-illustrated:not(.home-page) :is(.intro.library-heading,.seasons-intro,.book-intro,.music-hub-heading,.tv-hero){padding:24px 19px}}
+@media(prefers-reduced-motion:reduce){.yume-global-nav *{transition:none!important}}
