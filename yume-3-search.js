@@ -1,4 +1,4 @@
-/* Yume 3.0 — search all experiences. No data is fabricated. */
+/* Yume — search all experiences. No data is fabricated. */
 (function(){'use strict';
 const form=document.getElementById('y3-unified-search');if(!form)return;
 const input=form.querySelector('input'),out=document.getElementById('y3-search-results'),message=document.getElementById('y3-search-status');
@@ -36,7 +36,7 @@ const section=(title,items)=>{const box=make('section');box.className='y3-search
 const get=async u=>{const r=await fetch(u);if(!r.ok)throw Error(u);return r.json()};
 form.addEventListener('submit',async event=>{
  event.preventDefault();const q=norm(input.value.trim());if(q.length<3){message.textContent='Inserisci almeno tre caratteri.';return}
- out.replaceChildren();message.textContent='Ricerca negli archivi di Yume 3.0…';
+ out.replaceChildren();message.textContent='Ricerca negli archivi di Yume…';
  const [lib,compare,mag]=await Promise.allSettled([
  get('library.json?v=20261030-editorial'),get('data/adaptations/yume-comparisons.json?v=20261030'),get('data/magazine/numero-zero.json?v=20261030')
  ]);
