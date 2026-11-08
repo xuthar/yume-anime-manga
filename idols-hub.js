@@ -6,11 +6,12 @@
  const tabs=[...document.querySelectorAll('[data-idols-hub-tab]')];
  const japan=document.getElementById('idols-hub-japan');
  const catalog=document.getElementById('idols-hub-embedded');
+ const young=document.getElementById('idols-hub-young');
  const viewer=document.getElementById('idols-hub-frame');
  const title=document.getElementById('idols-hub-current-title');
  const description=document.getElementById('idols-hub-current-description');
  const status=document.getElementById('idols-hub-frame-status');
- if(!tabs.length||!japan||!catalog||!viewer)return;
+ if(!tabs.length||!japan||!catalog||!viewer||!young)return;
  const sections={
   japan:{title:'Idols del Giappone',desc:'Musica, moda, cinema, seiyū, creator e professioniste dello spettacolo.'},
   asia:{title:'Asia Idols',desc:'Corea, Cina, Thailandia, Vietnam, India, Filippine e altre scene asiatiche.',url:'asia-idols.html?embedded=1#asia-countries'},
@@ -33,13 +34,17 @@
    tab.classList.toggle('is-current',selected);
   }
   japan.hidden=page!=='japan';
-  catalog.hidden=page==='japan';
+  young.hidden=page!=='young';
+  catalog.hidden=page==='japan'||page==='young';
   title.textContent=isPage?detail.title:({
    cosplay:'Cosplay & creator',gravure:'Gravure',jav:'JAV · 18+',adult:'Adult · 18+',
    fashion:'Moda & modelle',creators:'Creator & influencer',music:'Idol musicali',vtuber:'VTuber',groups:'Gruppi idol',jpopwiki:'Nuovi gruppi · Japanese Music Wiki'
   })[key]||detail.title;
   description.textContent=isPage?detail.desc:key==='jpopwiki'?'Gruppi emergenti 2024–2026, roster, nomi delle componenti e fonti consultabili.':'Esplora questa categoria nell’archivio giapponese. I contenuti per adulti rimangono protetti da conferma 18+.';
-  if(page!=='japan'){
+  if(page==='young'){
+   // Native inline Young Stars: no nested iframe, secondary scroll area or mini-site chrome.
+   if(scroll)document.getElementById('idols-hub-young')?.scrollIntoView({behavior:'smooth',block:'start'});
+  }else if(page!=='japan'){
    const url=sections[page].url;
    if(viewer.dataset.loadedSection!==page){
     viewer.src=url;viewer.dataset.loadedSection=page;
