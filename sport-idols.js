@@ -61,11 +61,11 @@ async function resolve(p){
 }
 function athleteSports(p){return p.disciplines.map(id=>types[id]?.label).filter(Boolean).join(' · ')}
 function sourceButton(p){return p.sources[0]}
-function currentMatches(){
+function currentMatches(ignorePhoto=false){
  const q=norm(query.value),ed=edition.value;
  return people.filter(p=>(current==='all'||p.disciplines.includes(current))&&
   (ed==='all'||p.sources.some(s=>s.edition.includes(ed)))&&
-  (!q||norm(p.name+' '+p.latin+' '+athleteSports(p)).includes(q))&&(!photoOnly.checked||p.photoValid===true))
+  (!q||norm(p.name+' '+p.latin+' '+athleteSports(p)).includes(q))&&(!photoOnly.checked||ignorePhoto||p.photoValid===true))
  .sort((a,b)=>(a.latin||a.name).localeCompare(b.latin||b.name,'it'))
 }
 function makePhoto(p,block,preview){
@@ -134,7 +134,8 @@ close.addEventListener('click',()=>profile.close());
 profile.addEventListener('click',e=>{if(e.target===profile)profile.close()});
 async function enrichMore(){
  if(enrichBusy)return;
- const selection=currentMatches().filter(p=>p.enrichment==='idle').slice(0,8);
+ // Enrichment must keep working even when “solo foto” is active but no photo has loaded yet.
+ const selection=currentMatches(true).filter(p=>p.enrichment==='idle').slice(0,8);
  if(!selection.length){status.textContent='I profili della selezione visibile sono stati già controllati o non trovati. Scegli un altro sport.';return}
  enrichBusy=true;enrichButton.disabled=true;enrichButton.textContent='Verifica '+selection.length+' atlete in corso…';
  try{for(let i=0;i<selection.length;i+=3){await Promise.allSettled(selection.slice(i,i+3).map(resolve))}render()}
