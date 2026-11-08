@@ -1,0 +1,53 @@
+/* Yume Idols portal: navigation only, all catalogues on their own pages. */
+body.idols-portal-page{background:linear-gradient(140deg,#11182dce,#17142be8),url('assets/yume3-kyoto-panorama.svg') center/cover fixed;color:#fdf4fd}
+.idols-portal-page main{max-width:1380px;width:calc(100% - 42px);margin:20px auto 75px}
+.idol-portal-hero{border:1px solid #e7b8d781;border-radius:27px;min-height:330px;display:grid;grid-template-columns:minmax(0,1.5fr) minmax(150px,.65fr);align-items:center;gap:14px;overflow:hidden;position:relative;isolation:isolate;background:linear-gradient(100deg,#1e2343f3,#3a2948ca 58%,#132c41b9),url('assets/yume3-universe-scene.svg') center/cover;box-shadow:0 18px 58px #06071885}
+.idol-portal-hero-copy{padding:clamp(28px,5.4vw,72px);z-index:1}
+.idol-portal-eyebrow{font:850 11px/1.5 system-ui,sans-serif;letter-spacing:.19em;color:#f1c7df}
+.idol-portal-hero h1{color:#fff8fe;font:850 clamp(60px,8vw,112px)/1 Outfit,system-ui,sans-serif;letter-spacing:-.075em;margin:13px 0}.idol-portal-hero h1 em{font-style:normal;color:#f5c2e1}
+.idol-portal-hero p{max-width:690px;font-size:15px;line-height:1.85;color:#e4d9e6}
+.idol-portal-hero-art{font:850 180px/1 'Yu Mincho',serif;color:#f3c2e193;text-align:center;text-shadow:0 10px 32px #12132cdb}
+.idol-portal-hero a{display:inline-block;text-decoration:none;background:#f2c6e7;color:#1e253a;border-radius:50px;font:850 12px system-ui,sans-serif;padding:13px 23px;margin-top:19px}
+.idol-portal-section{margin:45px 0 30px;scroll-margin-top:25px}
+.idol-portal-section-head{margin-bottom:19px;max-width:980px}
+.idol-portal-section-head span{font:850 10px system-ui,sans-serif;color:#bfe6e6;letter-spacing:.18em}
+.idol-portal-section h2{font:800 clamp(27px,3.6vw,40px)/1.17 Outfit,system-ui,sans-serif;color:#fff1fa;margin:8px 0}
+.idol-portal-section-head p{color:#cdd1e0;font-size:13px;line-height:1.8;margin:0}
+.idol-portal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+.idol-portal-grid.is-featured{grid-template-columns:repeat(2,minmax(0,1fr));gap:17px}
+.idol-portal-banner{position:relative;isolation:isolate;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;min-height:230px;padding:25px;border-radius:20px;text-decoration:none;color:white!important;border:1px solid #f1cfef6a;background:#2c2b48;box-shadow:0 10px 29px #03061448;transition:border-color .18s,transform .18s,box-shadow .18s}
+.idol-portal-grid.is-featured .idol-portal-banner{min-height:245px;padding:32px}
+.idol-portal-banner:before{content:"";position:absolute;inset:0;z-index:-2;background-size:cover;background-position:center;background-image:var(--portal-art),linear-gradient(130deg,#64415d,#20394c);transform:scale(1.01);transition:transform .32s ease}
+.idol-portal-banner:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,#121528fa 0%,#141a30bd 51%,#26223843 100%)}
+.idol-portal-banner:hover{transform:translateY(-3px);box-shadow:0 18px 35px #05071c99;border-color:#f1c5eac2}
+.idol-portal-banner:hover:before{transform:scale(1.07)}
+.idol-portal-banner:focus-visible{outline:3px solid #c2f8ea;outline-offset:3px}
+.idol-banner-glyph{position:absolute;right:19px;top:7px;color:#f3cfefa3;font:780 clamp(64px,7vw,110px)/1.2 'Yu Mincho',serif;text-shadow:0 7px 20px #17162f9c}
+.idol-banner-tag{position:relative;align-self:flex-start;color:#d7f0ec;font:800 10px/1.5 system-ui,sans-serif;letter-spacing:.18em;max-width:90%}
+.idol-portal-banner h3{position:relative;color:#fff6fd;font:800 clamp(23px,2.4vw,31px)/1.18 Outfit,system-ui,sans-serif;margin:7px 0 6px}
+.idol-portal-banner p{position:relative;font-size:12px;line-height:1.65;color:#e7e0ed;max-width:540px;margin:0}
+.idol-banner-visit{position:relative;align-self:flex-start;margin-top:13px;color:#bbf3e5;font:850 11px system-ui,sans-serif}
+.idol-portal-banner.art-japan{--portal-art:url('assets/yume3-kyoto-panorama.svg')}
+.idol-portal-banner.art-asia{--portal-art:url('assets/yume-japan-locations.svg')}
+.idol-portal-banner.art-sport{--portal-art:url('assets/yume3-pilgrimage-scene.svg')}
+.idol-portal-banner.art-young{--portal-art:url('assets/yume3-universe-scene.svg')}
+.idol-portal-banner.art-music{--portal-art:url('assets/yume-cosmos-music.svg')}
+.idol-portal-banner.art-groups{--portal-art:url('assets/yume-cosmos-sky.svg')}
+.idol-portal-banner.art-new{--portal-art:url('assets/yume3-collector-scene.svg')}
+.idol-portal-banner.art-fashion{--portal-art:url('assets/yume-japan-travel.svg')}
+.idol-portal-banner.art-actors{--portal-art:url('assets/yume-japan-history.svg')}
+.idol-portal-banner.art-voice{--portal-art:url('assets/yume3-chronos-scene.svg')}
+.idol-portal-banner.art-creators{--portal-art:url('assets/yume3-compare-scene.svg')}
+.idol-portal-banner.art-cosplay{--portal-art:url('assets/yume-japan-folklore.svg')}
+.idol-portal-banner.art-gravure{--portal-art:url('assets/yume3-magazine-scene.svg')}
+.idol-portal-banner.art-vtuber{--portal-art:url('assets/yume-cosmos-discover.svg')}
+.idol-portal-banner.art-jav{--portal-art:radial-gradient(circle at 75% 30%,#715572 0%,#302542 46%,#18253a 100%)}
+.idol-portal-banner.art-adult{--portal-art:radial-gradient(circle at 35% 30%,#4d4265 0%,#273b58 49%,#17172e 100%)}
+.idol-portal-section.is-restricted{padding:24px;border:1px solid #e4bdd05a;border-radius:23px;background:#201c34a6}
+.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.idol-portal-section.is-restricted .idol-portal-banner{min-height:190px}
+.idol-portal-section.is-restricted .idol-portal-banner:after{background:linear-gradient(0deg,#11182bfa,#1b2130dc)}
+.idol-portal-policy{margin:21px 0 0;font-size:11px;color:#cfc3d4;line-height:1.7}
+@media(max-width:990px){.idol-portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.idol-portal-hero-art{font-size:115px}}
+@media(max-width:610px){.idols-portal-page main{width:calc(100% - 22px)}.idol-portal-hero{grid-template-columns:1fr;border-radius:18px;min-height:0}.idol-portal-hero-copy{padding:30px 22px}.idol-portal-hero-art{display:none}.idol-portal-hero h1{font-size:70px}.idol-portal-grid,.idol-portal-grid.is-featured,.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:1fr;gap:11px}.idol-portal-banner,.idol-portal-grid.is-featured .idol-portal-banner{min-height:210px;padding:22px}.idol-portal-section{margin:29px 0}.idol-portal-section.is-restricted{padding:16px}}
+@media(prefers-reduced-motion:reduce){.idol-portal-banner,.idol-portal-banner:before{transition:none}}
