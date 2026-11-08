@@ -68,3 +68,10 @@ body.young-page{background:linear-gradient(150deg,#161e32ec,#161a2de9),url('asse
 .young-channel-reach span{font-size:11px;color:#ccedf0}
 @media(max-width:940px){.young-channel-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.young-channel-grid{grid-template-columns:1fr}}
+
+/* Young Stars 2026 · verified photographic portraits and transparent fallback states */
+.young-photo-filter{display:flex!important;flex-direction:row!important;gap:9px;align-items:center;justify-content:flex-start;align-self:end;min-height:43px;padding:10px 12px;border:1px solid #d5e3f476;border-radius:12px;background:#142639ad;color:#f1eaf5;font-size:12px;line-height:1.4;cursor:pointer}
+.young-photo-filter input{width:16px!important;height:16px!important;min-width:16px;accent-color:#e8b9dc;padding:0;margin:0}
+.young-card-top.is-no-photo{background:radial-gradient(circle at 42% 20%,#c29cde48,transparent 54%),linear-gradient(135deg,#2e3551,#282539)}
+.young-card-top .young-photo-missing{position:absolute;bottom:10px;left:12px;right:12px;padding:7px 8px;background:#101e2bad;border:1px solid #dac3e044;border-radius:7px;color:#e6dbe8;text-align:center;font-size:10px;line-height:1.3;z-index:1}
+@media(max-width:520px){.young-photo-filter{font-size:11px;min-height:42px}}
