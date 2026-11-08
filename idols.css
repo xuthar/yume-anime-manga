@@ -151,3 +151,8 @@
 .gravure-research nav{display:flex;flex-wrap:wrap;gap:8px}
 .gravure-research nav a{color:#d4f4f5;border:1px solid #bde4e96b;background:#a7d9e20a;border-radius:9px;padding:8px 10px;font-size:11px;font-weight:750;text-decoration:none}
 .gravure-research nav a:hover{background:#a7d9e22a}
+
+/* Adult 18+ · professional Commons photo archive, no fictional photo substitution */
+.idols-page .discovery-card .discovery-portrait.is-unavailable{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:8px;background:radial-gradient(circle at 28% 20%,#ae8abd4f,transparent 55%),linear-gradient(145deg,#3a2d49,#222d43);padding:9px;text-align:center;box-sizing:border-box}
+.idols-page .discovery-card .discovery-portrait.is-unavailable .discovery-portrait-glyph{font-size:40px;color:#efd0e8}
+.idols-page .discovery-card .discovery-portrait.is-unavailable small{font-size:10px;color:#e4d5e5}
