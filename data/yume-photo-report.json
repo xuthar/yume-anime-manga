@@ -3,7 +3,7 @@
   "stats": {
     "total": 1372,
     "sport": 299,
-    "asia": 602,
+    "asia": 615,
     "japan": 471
   },
   "coverage": {
@@ -12,14 +12,20 @@
       "total": 299
     },
     "asia": {
-      "photos": 22,
-      "total": 602
+      "photos": 55,
+      "total": 615,
+      "notes": "Conteggio delle schede con fotografia Commons attribuita e indice locale; non equivale a test di caricamento effettivo su ogni browser."
     },
     "japan": {
       "photos": 12,
       "total": 471
     }
   },
-  "apiRequests": 60,
-  "failedRequests": 186
+  "revisedOn": "2026-11-08",
+  "previousScan": {
+    "generated": "2026-11-08T10:42:11.365Z",
+    "apiRequests": 60,
+    "failedRequests": 186
+  },
+  "addedCuratedAsiaPortraits": 33
 }
