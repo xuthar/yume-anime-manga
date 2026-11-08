@@ -50,14 +50,14 @@ for(const p of persons){p.photoUrls=[];p.photo=null;p.photoValid=false;p.broken=
 function equivalent(e,p){
  if(e?.type!=='item'||!claim(e,'P31','Q5')||!claim(e,'P21','Q6581072'))return false;
  const citizenship=p.nationality||p.country;
- if(!claim(e,'P27',countryQ[citizenship]))return false;
+ if(!claim(e,'P27',countryQ[citizenship])&&!(citizenship==='hk'&&claim(e,'P27',countryQ.cn)))return false;
  // Reject nonunique short stage names without an independently established QID.
- if(norm(p.name).length<5&&!p.externalQid)return false;
+ if(norm(p.name).length<5&&!p.externalQid&&!/^[\u3400-\u9fff]{2,5}$/.test(p.name))return false;
  const words=[...Object.values(e.labels||{}).map(x=>x.value),...Object.values(e.aliases||{}).flatMap(rows=>rows.map(x=>x.value))].filter(Boolean);
  const expected=[p.name,p.alternate].filter(Boolean).map(norm);
  if(!words.some(x=>expected.includes(norm(x))))return false;
  // A known public performer occupation; never classify by photograph alone.
- const known=new Set(['Q177220','Q33999','Q488111','Q4610556','Q2252262','Q10800557','Q49757','Q483501','Q1259809','Q3282637','Q13590141']);
+ const known=new Set(['Q177220','Q33999','Q488111','Q4610556','Q2252262','Q10800557','Q49757','Q483501','Q1259809','Q3282637','Q13590141','Q226008','Q1328668','Q28692662','Q17125263']);
  const occ=(e.claims?.P106||[]).map(x=>x.mainsnak?.datavalue?.value?.id);
  return occ.some(q=>known.has(q))||occ.length===0&&!!e.sitelinks?.enwiki?.title&&norm(p.name).length>7
 }
@@ -204,12 +204,12 @@ $('asia-total').textContent=nc.format(d.total);$('asia-countries-count').textCon
 $('asia-sources-count').textContent=String(d.sourceCount);$('asia-groups-count').textContent=String(d.groupCount);
 const allBtn=$make('button','asia-country');allBtn.type='button';allBtn.dataset.asiaCountry='all';
 allBtn.append($make('span','asia-country-flag','🌏'),$make('strong',null,'Tutta l’Asia'),$make('small',null,'Un archivio, molte scene'),$make('span','asia-country-total',d.total+' artiste'));allBtn.setAttribute('aria-pressed','true');
-allBtn.addEventListener('click',()=>selectCountry('all'));countryGrid.append(allBtn);
+allBtn.addEventListener('click',()=>{window.history?.replaceState?.(null,'',window.location.pathname);selectCountry('all')});countryGrid.append(allBtn);
 for(const c of d.countries){
  const option=$make('option',null,c.flag+' '+c.name);option.value=c.id;countrySelect.append(option);
  const b=$make('button','asia-country');b.type='button';b.dataset.asiaCountry=c.id;b.setAttribute('aria-pressed','false');
  b.append($make('span','asia-country-flag',c.flag),$make('strong',null,c.name+' · '+c.local),$make('small',null,c.description),$make('span','asia-country-total',d.countryCounts[c.id]+' artiste'));
- b.addEventListener('click',()=>{selectCountry(c.id);$('asia-catalogue').scrollIntoView({behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)')?.matches?'instant':'smooth',block:'start'})});
+ b.addEventListener('click',()=>{window.history?.replaceState?.(null,'','#'+c.id);selectCountry(c.id);$('asia-catalogue').scrollIntoView({behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)')?.matches?'instant':'smooth',block:'start'})});
  countryGrid.append(b)
 }
 countrySelect.addEventListener('change',()=>selectCountry(countrySelect.value));
@@ -239,6 +239,7 @@ scanBtn.addEventListener('click',async()=>{
   }
  }finally{scan=false;scanBtn.textContent='Cerca foto per tutto il paese';checkBtn.disabled=false;render()}
 });
-groupOptions();render();
+const initialCountry=window.location?.hash?.slice(1)||'all';
+if(countries[initialCountry])selectCountry(initialCountry);else{groupOptions();render()}
 Promise.resolve().then(verifyCurrent);
 })();
