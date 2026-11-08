@@ -27,3 +27,16 @@
 @media(max-width:690px){.idols-hub{border-radius:16px;padding:15px;margin-bottom:20px}.idols-hub-stamp{display:none}.idols-hub-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.idols-hub-tabs button{min-height:46px;font-size:11px;padding:7px;gap:5px}.idols-hub-tabs button b{font-size:17px}.idols-embedded-shell iframe{height:80vh;min-height:530px}}
 @media(max-width:390px){.idols-hub-tabs button{font-size:10px}}
 @media(prefers-reduced-motion:reduce){.idols-hub-tabs button{transition:none}}
+
+/* Young Stars renders natively inside Yume Idols, never in an iframe. */
+#idols-hub-young[hidden]{display:none!important}
+#idols-hub-young{margin:20px 0 48px;scroll-margin-top:24px}
+#idols-hub-young .young-main{box-sizing:border-box;width:100%;max-width:none;margin:0;padding:0}
+#idols-hub-young .young-hero{border-radius:20px;min-height:290px}
+#idols-hub-young .young-stats{margin:18px 0 30px}
+#idols-hub-young .young-controls{grid-template-columns:repeat(2,minmax(0,1fr))}
+#idols-hub-young .young-section{scroll-margin-top:25px}
+#idols-hub-young .young-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+#idols-hub-young .young-channel-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:1020px){#idols-hub-young .young-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:700px){#idols-hub-young .young-grid{grid-template-columns:repeat(2,minmax(0,1fr))}#idols-hub-young .young-controls{grid-template-columns:1fr}#idols-hub-young .young-channel-grid{grid-template-columns:1fr}}
