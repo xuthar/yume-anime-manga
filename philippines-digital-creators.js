@@ -48,9 +48,9 @@
  ['Anne Clutz','creators','Beauty e makeup YouTube','https://allure.ph/makeup/filipino-beauty-youtubers-2010s/',null,'social'],
  ['Anna Cay','creators','Beauty, YouTube e imprenditoria','https://allure.ph/makeup/filipino-beauty-youtubers-2010s/',null,'social'],
  ['Raiza Contawi','creators','Beauty, makeup e YouTube','https://allure.ph/makeup/filipino-beauty-youtubers-2010s/','https://www.instagram.com/raizacontawi/','social'],
- ['Laureen Uy','creators','Fashion, lifestyle e imprenditoria','https://www.gmanetwork.com/entertainment/photos/filipina-content-creators-and-their-businesses/24943/',null,'social'],
+ ['Laureen Uy','creators','Fashion, travel e lifestyle creator','https://allure.ph/allure-face-card/laureen-uy-travel-content-creator-interview/',null,'social'],
  ['Viy Cortez','creators','Lifestyle, vlog e intrattenimento','https://www.gmanetwork.com/entertainment/photos/filipina-content-creators-and-their-businesses/24943/',null,'social'],
- ['Sachzna Laparan','creators','Vlog, beauty e lifestyle','https://www.gmanetwork.com/entertainment/photos/filipina-content-creators-and-their-businesses/24943/',null,'social'],
+ ['Sachzna Laparan','creators','Vlog, beauty e lifestyle','https://cornerstoneent.ph/artists/sachzna-laparan',null,'social'],
  ['Dani Barretto','creators','Lifestyle e vlog','https://www.gmanetwork.com/entertainment/photos/filipina-content-creators-and-their-businesses/24943/',null,'social'],
  ['Tina Lata','creators','Social e lifestyle creator','https://www.marketing-interactive.com/ph-influencer-economy-moves-beyond-virality-as-meltwater-ranks-top-creators',null,'social']
  ];
