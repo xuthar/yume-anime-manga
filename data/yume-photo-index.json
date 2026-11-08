@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "updated": "2026-11-08T09:30:00Z",
+  "coverage": {
+    "sport": {
+      "photos": 2,
+      "total": 297
+    },
+    "asia": {
+      "photos": 0,
+      "total": 604
+    },
+    "japan": {
+      "photos": 0,
+      "total": 794
+    }
+  },
+  "notes": "Immagini libere documentate da Wikimedia Commons; fonte/licenza accessibili sulla scheda del file. Indice ampliato dalla ricerca Wikidata.",
+  "sport": {
+    "池江璃花子": {
+      "qid": "Q20973721",
+      "name": "池江 璃花子",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rikako_Ikee_20230408.jpg?width=480",
+      "alternates": [],
+      "file": "Rikako Ikee 20230408.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rikako_Ikee_20230408.jpg",
+      "verified": true
+    },
+    "高木美帆": {
+      "qid": "Q444421",
+      "name": "髙木 美帆",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Miho_Takagi_(JAP)_2013.jpg?width=480",
+      "alternates": [],
+      "file": "Miho Takagi (JAP) 2013.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Miho_Takagi_(JAP)_2013.jpg",
+      "verified": true
+    }
+  },
+  "asia": {},
+  "japan": {}
+}

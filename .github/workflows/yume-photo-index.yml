@@ -38,5 +38,6 @@ jobs:
             echo "Photo index already current"
           else
             git commit -m "Refresh verified Yume idols and athlete photo index"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
