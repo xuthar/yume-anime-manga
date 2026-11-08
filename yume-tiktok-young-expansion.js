@@ -69,11 +69,11 @@ const social=[
  ['vn','Mèo Simmy','meosimmyyt','Gaming · video','vn'],
  ['pk','Dananeer Mobeen','dananeerr','Short-video trend · lifestyle','pk'],
  ['id','Shabilqis Naila','jkt48.nala','JKT48 · music · social','id'],
- ['id','Jazzlyn Trisha','jkt48.trisha','JKT48 · music · social','id'],
  ['id','Fritzy Rosmerian','jkt48.fritzy','JKT48 · music · social','id'],
  ['id','Heidi Suyangga','jkt48.heidi__','JKT48 · teen idol · social','idu16']
 ];
 const groupTeams=[
+ ['id','JKT48 U16','JKT48.U16','idu16',['Jazzlyn Trisha']],
  ['kr','ILLIT','illit_official','kr',['Yunah','Minju','Moka','Wonhee','Iroha']],
  ['th','BNK48','bnk48official_th','th',['Blythe','Emmy','Galeya','Inkcha','Janry','Khowjow','Micha','Monet','Niya','Pancake','Patt','Praew','Sindy']],
  ['ph','BINI','bini_ph','ph',['Aiah','Colet','Maloi','Gwen','Stacey','Mikha','Jhoanna','Sheena']]
