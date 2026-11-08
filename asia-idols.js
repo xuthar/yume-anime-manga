@@ -48,6 +48,25 @@ function store(p){
  try{localStorage.setItem('yume-asia-idol-v3:'+p.id,JSON.stringify({checked:Date.now(),entityId:p.entityId||null,photos:p.photoUrls||[],photoValid:!!p.photoValid,broken:!!p.broken,photoFile:p.photoFile||null,photoSource:p.photoSource||null,photoAttribution:p.photoAttribution||null,birth:p.birth,links:p.verifiedLinks,status:p.status}))}catch{}
 }
 for(const p of persons){p.photoUrls=[];p.photo=null;p.photoValid=false;p.broken=false;p.entityId=null;p.status='idle';p.verifiedLinks=p.verifiedLinks||[];saved(p)}
+
+ // Prefer already indexed, accurately identified Wikimedia Commons portraits.
+ // Cache is public; onload must still succeed before a picture counts as visible.
+ window.YumePhotoStore?.ready?.then(()=>{
+  let changed=false;
+  for(const p of persons){
+   const pic=window.YumePhotoStore.get('asia',p.name,p.country);
+   if(!pic?.verified||!pic.photo||p.photoValid)continue;
+   const urls=[...new Set([pic.photo,...(pic.alternates||[])].filter(u=>typeof u==='string'&&u.startsWith('https://')))];
+   if(!urls.length)continue;
+   p.photoUrls=urls;p.photo=urls[0];p.broken=false;p.photoValid=false;
+   p.photoFile=pic.file||p.photoFile;
+   p.photoSource=pic.source||p.photoSource;
+   p.photoAttribution='Fotografia libera documentata su Wikimedia Commons';
+   p.status='catalog-photo';changed=true;
+  }
+  if(changed)render();
+ }).catch(()=>{});
+
 function equivalent(e,p){
  if(e?.type!=='item'||!claim(e,'P31','Q5')||!claim(e,'P21','Q6581072'))return false;
  const citizenship=p.nationality||p.country;
@@ -172,7 +191,7 @@ function pageSources(p){
 }
 function shown(includePhoto=false){
  const term=norm(search.value),all=current==='all';
- return persons.filter(p=>(all||p.country===current)&&(group==='all'||p.groups.includes(group))&&(category==='all'||p.category===category)&&(!term||norm(p.name+' '+p.alternate+' '+p.groups.join(' ')).includes(term))&&(includePhoto||!onlyPhoto.checked||p.photoValid===true))
+ return persons.filter(p=>(all||p.country===current)&&(group==='all'||p.groups.includes(group))&&(category==='all'||category==='tiktok'&&Boolean(p.tiktokHandle||(p.tiktokGroupHandles||[]).length)||p.category===category)&&(!term||norm(p.name+' '+p.alternate+' '+p.groups.join(' ')).includes(term))&&(includePhoto||!onlyPhoto.checked||p.photoValid===true))
  .sort((a,b)=>Number(!!b.photoValid)-Number(!!a.photoValid)||a.name.localeCompare(b.name,'it'))
 }
 function image(p,box){
@@ -190,6 +209,7 @@ function card(p){
  image(p,photo);article.append(photo);
  const text=$make('div','asia-person-text');
  text.append($make('span','asia-person-country',countryLabel(p.country)));
+ if(p.tiktokHandle||p.tiktokGroupHandles?.length)text.append($make('span','asia-person-country',p.tiktokHandle?'🎵 TikTok @'+p.tiktokHandle:'🎵 TikTok · account del gruppo '+p.tiktokGroupName));
  text.append($make('h3',null,p.name));
  text.append($make('p','asia-alt',p.alternate||'—'));
  text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':p.category==='fashion'?'Modella / fashion':p.category==='creators'?'Creator / influencer':p.category==='vtuber'?'VTuber · personaggio virtuale':'Idol musicale')+' · '+p.groups[0]));
