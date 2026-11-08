@@ -56,3 +56,6 @@ body.idols-portal-page{background:linear-gradient(140deg,#11182dce,#17142be8),ur
 .idol-portal-banner.art-ph{--portal-art:radial-gradient(circle at 81% 18%,#fa9fc66e,transparent 34%),radial-gradient(circle at 15% 64%,#4fb2d67a,transparent 41%),repeating-linear-gradient(135deg,#343051 0,#343051 10px,#242b47 10px,#242b47 20px)}
 .idol-portal-banner.art-ph .idol-banner-glyph{font-size:65px;top:19px;right:23px}
 .asia-ph-creator-feature{margin:24px 0;padding:27px;display:flex;gap:15px;justify-content:space-between;align-items:center;border:1px solid #e9c1e373;border-radius:18px;background:radial-gradient(ellipse at 90% 0,#d88bc269,transparent 41%),linear-gradient(125deg,#2e2e4a,#203d4b);box-shadow:0 13px 30px #05091955}
+
+/* Six-section TikTok destination: individual background, never reuse banner artwork. */
+.idol-portal-banner.art-tiktok{--portal-art:radial-gradient(ellipse at 72% 17%,#f5aee888,transparent 46%),radial-gradient(ellipse at 18% 70%,#75ecf6bb,transparent 53%),linear-gradient(130deg,#302344,#142d4e)}
