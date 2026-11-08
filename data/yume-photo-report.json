@@ -1,25 +1,25 @@
 {
-  "generated": "2026-11-08T10:00:14.159Z",
+  "generated": "2026-11-08T10:29:39.451Z",
   "stats": {
-    "total": 1342,
-    "sport": 297,
-    "asia": 591,
-    "japan": 454
+    "total": 1367,
+    "sport": 299,
+    "asia": 597,
+    "japan": 471
   },
   "coverage": {
     "sport": {
-      "photos": 56,
-      "total": 297
+      "photos": 89,
+      "total": 299
     },
     "asia": {
       "photos": 22,
-      "total": 591
+      "total": 597
     },
     "japan": {
       "photos": 12,
-      "total": 454
+      "total": 471
     }
   },
-  "apiRequests": 60,
-  "failedRequests": 181
+  "apiRequests": 75,
+  "failedRequests": 222
 }
