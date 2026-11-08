@@ -87,7 +87,7 @@ if(window.YumeAsiaIdols){
  const merge=(p,attrs,sourceKey,link,group=false)=>{
   const sourceId='tiktok2026-'+sourceKey;
   const verifiedLinks=[...(p.verifiedLinks||[])];
-  if(link&&!verifiedLinks.some(x=>x[1]===link[1]))verifiedLinks.push(link);
+  if(link&&!verifiedLinks.some(x=>x[1]===link[1]))verifiedLinks.unshift(link);
   return {...p,...attrs,sourceIds:[...new Set([...(p.sourceIds||[]),sourceId])],
    verifiedLinks,tiktokScene:group?'group':(p.tiktokScene||'individual')};
  };
