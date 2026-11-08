@@ -93,7 +93,7 @@ function item(p){
  const eyebrow=make('span','discovery-card-type',categoriesOf(p));contents.append(eyebrow);
  const name=make('h3',null,p.name);contents.append(name);
  if(p.alternate)contents.append(make('p','discovery-japanese',p.alternate));
- if(p.group&&p.category==='music')contents.append(make('p','discovery-japanese','Gruppo: '+p.group));
+ if((p.groups?.length||0)||p.group)contents.append(make('p','discovery-japanese','Gruppo: '+[...new Set([...(p.groups||[]),...(p.group?[p.group]:[])])].join(' · ')));
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
  const summary=make('p','discovery-card-detail',p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
@@ -122,7 +122,7 @@ function item(p){
 function isAllowed(p){if(adultCats.has(active))return p.categories.has(active)&&adultEnabled();
  return active==='all'?[...p.categories].some(c=>!adultCats.has(c)):p.categories.has(active)}
 function render(){
- const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)&&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+categoriesOf(p)).includes(q)));
+ const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)&&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
  shown.sort((a,b)=>a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
