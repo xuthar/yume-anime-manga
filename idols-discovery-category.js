@@ -139,7 +139,7 @@ function render(){
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
  if(active==='jav'&&adultEnabled())window.YumeJAVPortraits?.ensure(display);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
- summary.textContent=shown.length+' nominativi distinti disponibili · '+display.length+' mostrati · '+shown.filter(hasPhoto).length+' con foto indicizzata · '+data.stats.sources+' fonti'+(['creators','adult','jav','gravure'].includes(active)?' · foto documentate per prime':'');
+ summary.textContent=shown.length+' nominativi distinti disponibili · '+display.length+' mostrati · '+shown.filter(hasPhoto).length+' con foto associata · '+data.stats.sources+' fonti'+(active==='jav'?' · ricerca Commons attiva sulle schede mostrate (dopo conferma 18+)':(['creators','adult','gravure'].includes(active)?' · foto documentate per prime':''));
  more.hidden=shown.length<=limit;more.textContent='Mostra altri '+Math.min(48,shown.length-limit)+' nomi ↓';
  for(const button of document.querySelectorAll('[data-discovery-category]'))button.setAttribute('aria-pressed',String(button.dataset.discoveryCategory===active));
 }
