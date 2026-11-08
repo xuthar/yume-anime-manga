@@ -143,3 +143,11 @@
 .idols-page .discovery-card .discovery-portrait{flex-shrink:0;width:118px;min-width:118px;min-height:166px}
 .idols-page .discovery-card .discovery-portrait img{object-position:center 20%;background:#2a2d45}
 @media(max-width:650px){.idols-page .discovery-card .discovery-portrait{width:106px;min-width:106px;min-height:150px}}
+
+/* Gravure: documented professional sources, only adults, no young-stars crossover. */
+.gravure-research{border:1px solid #e8c7e76b;border-radius:14px;background:linear-gradient(115deg,#2e2643d6,#203248ca);padding:18px 20px;margin:16px 0 19px;color:#f6e9f5}
+.gravure-research strong{display:block;color:#ffcee5;letter-spacing:.04em;font-size:14px}
+.gravure-research p{color:#d6ccd9;font-size:12px;line-height:1.7;max-width:900px;margin:9px 0 13px}
+.gravure-research nav{display:flex;flex-wrap:wrap;gap:8px}
+.gravure-research nav a{color:#d4f4f5;border:1px solid #bde4e96b;background:#a7d9e20a;border-radius:9px;padding:8px 10px;font-size:11px;font-weight:750;text-decoration:none}
+.gravure-research nav a:hover{background:#a7d9e22a}
