@@ -3,14 +3,16 @@
 (()=>{'use strict';
 const d=window.YumeAsiaIdols,$=id=>document.getElementById(id);if(!d)return;
 const root=$('asia-cards'),countryGrid=$('asia-country-grid'),search=$('asia-search'),countrySelect=$('asia-country-select'),
- groupSelect=$('asia-group-select'),onlyPhoto=$('asia-photos-only'),status=$('asia-status'),more=$('asia-more'),
+ groupSelect=$('asia-group-select'),categorySelect=$('asia-category-select'),onlyPhoto=$('asia-photos-only'),status=$('asia-status'),more=$('asia-more'),
  checkBtn=$('asia-verify-current'),scanBtn=$('asia-scan-country'),modal=$('asia-profile'),modalBody=$('asia-profile-body');
 if(!root||!countryGrid)return;
 const countries=Object.fromEntries(d.countries.map(c=>[c.id,c]));
-const countryQ={kr:'Q884',cn:'Q148',th:'Q869',vn:'Q881',in:'Q668',tw:'Q865',ph:'Q928',id:'Q252',my:'Q833',sg:'Q334',hk:'Q8646',jp:'Q17'};
-const language={kr:'ko',cn:'zh',th:'th',vn:'vi',in:'hi',tw:'zh',ph:'en',id:'id',my:'ms',sg:'en',hk:'zh'};
+const countryQ={kr:'Q884',cn:'Q148',th:'Q869',vn:'Q881',in:'Q668',tw:'Q865',ph:'Q928',id:'Q252',my:'Q833',sg:'Q334',hk:'Q8646',np:'Q837',jp:'Q17'};
+const language={kr:'ko',cn:'zh',th:'th',vn:'vi',in:'hi',tw:'zh',ph:'en',id:'id',my:'ms',sg:'en',hk:'zh',np:'ne'};
 const sources=d.sources;
 const persons=d.people;
+const seededEntities={'cn:杨冰怡':'Q47464482'};
+for(const person of persons)if(seededEntities[person.country+':'+person.name])person.externalQid=seededEntities[person.country+':'+person.name];
 const $make=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=String(text);return e};
 const external=(name,url)=>{const a=$make('a',null,name);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a};
 const safeUrl=v=>{try{const u=new URL(v);return u.protocol==='https:'?u.toString():null}catch{return null}};
@@ -18,7 +20,7 @@ const norm=x=>String(x||'').normalize('NFKC').normalize('NFKD').toLowerCase().re
 const val=(e,k)=>(e?.claims?.[k]||[]).filter(c=>c.rank!=='deprecated').map(c=>c.mainsnak?.datavalue?.value).find(Boolean)||null;
 const claim=(e,k,q)=>(e?.claims?.[k]||[]).some(c=>c.mainsnak?.datavalue?.value?.id===q);
 const nc=new Intl.NumberFormat('it-IT');
-let current='all',group='all',limit=36,busy=false,scan=false;
+let current='all',group='all',category='all',limit=36,busy=false,scan=false;
 const groupSource=p=>sources[p.sourceIds[0]];
 function dob(value){
  if(!value||!/^(\d{4})-(\d\d)-(\d\d)$/.test(value))return null;
@@ -37,14 +39,14 @@ function saved(p){
  const v=JSON.parse(raw);if(Date.now()-v.checked>86400000*14)return;
  p.entityId=v.entityId||null;p.photoUrls=Array.isArray(v.photos)?v.photos.slice(0,6).filter(x=>typeof x==='string'&&x.startsWith('https://')):[];
  p.photo=p.photoUrls[0]||null;p.photoValid=v.photoValid===true&&!!p.photo;p.broken=v.broken===true;
- p.birth=p.birth||v.birth||null;p.verifiedLinks=Array.isArray(v.links)?v.links:[];
+ p.birth=p.birth||v.birth||null;p.verifiedLinks=Array.isArray(v.links)&&v.links.length?v.links:(p.verifiedLinks||[]);
  p.status=v.entityId?'verified':v.status==='none'?'none':'idle';
  }catch{}
 }
 function store(p){
  try{localStorage.setItem('yume-asia-idol-v2:'+p.id,JSON.stringify({checked:Date.now(),entityId:p.entityId||null,photos:p.photoUrls||[],photoValid:!!p.photoValid,broken:!!p.broken,birth:p.birth,links:p.verifiedLinks,status:p.status}))}catch{}
 }
-for(const p of persons){p.photoUrls=[];p.photo=null;p.photoValid=false;p.broken=false;p.entityId=null;p.status='idle';saved(p)}
+for(const p of persons){p.photoUrls=[];p.photo=null;p.photoValid=false;p.broken=false;p.entityId=null;p.status='idle';p.verifiedLinks=p.verifiedLinks||[];saved(p)}
 function equivalent(e,p){
  if(e?.type!=='item'||!claim(e,'P31','Q5')||!claim(e,'P21','Q6581072'))return false;
  const citizenship=p.nationality||p.country;
@@ -87,6 +89,7 @@ async function resolve(p){
  p.status='loading';
  try{
   const keys=new Map();
+  if(p.externalQid)keys.set(p.externalQid,true);
   for(const [lang,s] of [[language[p.country],p.name],['en',p.name],[language[p.country],p.alternate]]){
    if(!s||s.length<3)continue;
    const url='https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&origin=*&language='+lang+'&uselang='+lang+'&limit=15&search='+encodeURIComponent(s);
@@ -100,14 +103,14 @@ async function resolve(p){
   if(!e){p.status='none';return}
   p.entityId=e.id;
   const dated=valueDate(val(e,'P569'));if(dated&&!p.birth)p.birth=dated.text.split('/').reverse().join('-');
-  const linkPairs=[];
+  const linkPairs=[...(p.verifiedLinks||[])];
   const x=val(e,'P2002'),ig=val(e,'P2003'),yt=val(e,'P2397'),tk=val(e,'P7085'),website=val(e,'P856');
   if(typeof x==='string'&&/^[A-Za-z0-9_]{1,15}$/.test(x.replace(/^@/,'')))linkPairs.push(['X','https://x.com/'+x.replace(/^@/,'')]);
   if(typeof ig==='string'&&/^[A-Za-z0-9_.]{1,35}$/.test(ig.replace(/^@/,'')))linkPairs.push(['Instagram','https://www.instagram.com/'+ig.replace(/^@/,'')+'/']);
   if(typeof yt==='string'&&/^UC[A-Za-z0-9_-]{22}$/.test(yt))linkPairs.push(['YouTube','https://www.youtube.com/channel/'+yt]);
   if(typeof tk==='string'&&/^[A-Za-z0-9_.]{2,25}$/.test(tk.replace(/^@/,'')))linkPairs.push(['TikTok','https://www.tiktok.com/@'+tk.replace(/^@/,'')]);
   const site=safeUrl(website);if(site)linkPairs.push(['Sito',''+site]);
-  p.verifiedLinks=linkPairs;
+  p.verifiedLinks=[...new Map(linkPairs.map(x=>[x[0]+x[1],x])).values()];
   await media(e,p);p.status='verified'
  }catch{p.status='error'}
  finally{store(p)}
@@ -117,7 +120,7 @@ function pageSources(p){
 }
 function shown(includePhoto=false){
  const term=norm(search.value),all=current==='all';
- return persons.filter(p=>(all||p.country===current)&&(group==='all'||p.groups.includes(group))&&(!term||norm(p.name+' '+p.alternate+' '+p.groups.join(' ')).includes(term))&&(includePhoto||!onlyPhoto.checked||p.photoValid===true))
+ return persons.filter(p=>(all||p.country===current)&&(group==='all'||p.groups.includes(group))&&(category==='all'||p.category===category)&&(!term||norm(p.name+' '+p.alternate+' '+p.groups.join(' ')).includes(term))&&(includePhoto||!onlyPhoto.checked||p.photoValid===true))
  .sort((a,b)=>Number(!!b.photoValid)-Number(!!a.photoValid)||a.name.localeCompare(b.name,'it'))
 }
 function image(p,box){
@@ -137,7 +140,7 @@ function card(p){
  text.append($make('span','asia-person-country',countryLabel(p.country)));
  text.append($make('h3',null,p.name));
  text.append($make('p','asia-alt',p.alternate||'—'));
- text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':'Idol musicale')+' · '+p.groups[0]));
+ text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':p.category==='creators'?'Creator / influencer':'Idol musicale')+' · '+p.groups[0]));
  const date=dob(p.birth),born=$make('p','asia-meta','Nascita: '+(date?.text||'Non documentata'));
  const age=$make('p','asia-meta','Età: '+(date?.age!=null?date.age+' anni':'N/D'));text.append(born,age);
  const links=$make('div','asia-person-actions'),btn=$make('button',null,'Scheda ↗');btn.type='button';btn.addEventListener('click',()=>detail(p));
@@ -156,7 +159,7 @@ function detail(p){
  const facts=$make('div','asia-profile-grid');
  const field=(k,v)=>{const item=$make('div');item.append($make('b',null,k),$make('span',null,v||'Non disponibile'));facts.append(item)};
  field('Scena / paese di attività',c?.name);field('Gruppo o attività',p.groups.join(' · '));
- field('Professione',p.category==='actors'?'Attrice, talent':'Idol, cantante o performer');
+ field('Professione',p.category==='actors'?'Attrice, talent':p.category==='creators'?'Creator, influencer o modella':'Idol, cantante o performer');
  field('Data di nascita',date?.text||'Non documentata');
  field('Età',date?.age!=null?date.age+' anni':'Non documentata');
  field('Nazionalità',p.nationality&&countries[p.nationality]?countries[p.nationality].name+' · diversa dalla scena':'Non specificata separatamente');
@@ -178,7 +181,7 @@ function detail(p){
  if(!modal.open)modal.showModal()
 }
 function selectCountry(id){
- current=id;group='all';countrySelect.value=id;limit=36;groupOptions();render();
+ current=id;group='all';category='all';countrySelect.value=id;categorySelect.value='all';limit=36;groupOptions();render();
  for(const b of document.querySelectorAll('[data-asia-country]'))b.setAttribute('aria-pressed',String(b.dataset.asiaCountry===id));
 }
 function groupOptions(){
@@ -211,6 +214,7 @@ for(const c of d.countries){
 }
 countrySelect.addEventListener('change',()=>selectCountry(countrySelect.value));
 groupSelect.addEventListener('change',()=>{group=groupSelect.value;limit=36;render()});
+categorySelect.addEventListener('change',()=>{category=categorySelect.value;limit=36;render()});
 search.addEventListener('input',()=>{limit=36;render()});onlyPhoto.addEventListener('change',()=>{limit=36;render()});
 more.addEventListener('click',()=>{limit+=36;render()});$('asia-profile-close').addEventListener('click',()=>modal.close());
 modal.addEventListener('click',e=>{if(e.target===modal)modal.close()});

@@ -63,3 +63,10 @@ body.asia-idols-page{--asia-rose:#edbddb;--asia-mint:#addbd5;--asia-line:#efc3e2
 @media(max-width:750px){body.asia-idols-page{background-attachment:scroll}.asia-hero{grid-template-columns:1fr}.asia-hero-art{display:none}.asia-main{width:calc(100% - 20px)}.asia-country-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.asia-country{min-height:126px;padding:14px}.asia-stats{grid-template-columns:repeat(2,minmax(0,1fr));margin-bottom:40px}.asia-cards{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.asia-person-photo{height:165px}.asia-person-text{padding:10px}.asia-person h3{font-size:15px}}
 @media(max-width:460px){.asia-toolbar{grid-template-columns:1fr}.asia-person-photo{height:130px}.asia-person h3{font-size:13px}.asia-person .asia-role{font-size:10px}.asia-person-actions button,.asia-person-actions a{padding:6px;font-size:9px}.asia-modal{padding:24px 15px}.asia-profile-grid{grid-template-columns:1fr}.asia-portrait-large{max-width:110px;max-height:160px}.asia-hero h1{font-size:58px}}
 @media(prefers-reduced-motion:reduce){.asia-country{transition:none}.asia-country:hover{transform:none}}
+
+/* Nation, group and role filters */
+.asia-toolbar{grid-template-columns:minmax(170px,2fr) repeat(3,minmax(125px,1fr)) auto}
+.asia-person-photo:has(img[data-loaded=true]) .asia-photo-mark{display:none}
+.asia-directory-actions button:focus-visible,.asia-person-actions :is(button,a):focus-visible{outline:3px solid #a4e8e0;outline-offset:2px}
+@media(max-width:1150px){.asia-toolbar{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:460px){.asia-toolbar{grid-template-columns:1fr}}
