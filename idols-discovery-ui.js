@@ -8,7 +8,7 @@ const $=id=>document.getElementById(id),root=$('idols-discover');if(!root)return
 const input=$('discovery-search'),list=$('discovery-list'),summary=$('discovery-summary'),more=$('discovery-more'),ageDialog=$('discovery-age-dialog');
 const gate=$('discovery-age-enter'),cancel=$('discovery-age-back');
 const adultCats=new Set(['jav','adult']);
-const labels={all:'Tutte',music:'Idol musicali',gravure:'Gravure',fashion:'Modelli',music:'Idol',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'Adult 18+'};
+const labels={all:'Tutte',music:'Idol musicali',groups:'Gruppi idol',gravure:'Gravure',fashion:'Modelli',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'Adult 18+'};
 const photoFiles={
  'Asuka Kishi':'Kindai Mahjong Swimsuit Festival (April 27, 2024)051727MC.jpg',
  'Sayaka Isoyama':'Sayaka Isoyama 2012.jpg',
@@ -25,6 +25,23 @@ const birthday={
  'AZKi':'1 luglio','Isaki Riona':'29 maggio','Gigi Murin':'18 ottobre',
  'Takanashi Kiara':'6 luglio','Aki Rosenthal':'17 febbraio','Omaru Polka':'30 gennaio',
  'Kaela Kovalskia':'30 agosto','Raora Panthera':'11 maggio'
+};
+
+const idolRosterX={
+ 'あいす':'ice_icol','心花りり':'iLiFE_riri','若葉のあ':'iLiFE_wakaba','虹羽みに':'iLiFE_mini',
+ '福丸うさ':'iLiFE_fukumaru','小熊まむ':'iLiFE_koguma','空詩かれん':'iLiFE_karen','純嶺みき':'iLiFE_sumire','真守みゅう':'iLiFE_mew',
+ '恋星はるか':'Haru_nonfic','こるね':'colne_icol','海まりん':'Marin_nonfic','永月十華':'Touka_nonfic','砂糖みるく':'Milk_nonfic','水瀬ぴあの':'Piano_nonfic',
+ '白石まゆみ':'mayumi_ss1227','塩川莉世':'rise_ss0731','音井結衣':'yui_ss0109','奥田彩友':'ayu_ss0107','栗田なつか':'natsuka_ss0719',
+ '白雪姫乃':'hime_Ill','蒼井叶':'kanau_Ill','紫ノ色':'shiki_Ill','森 緑藻':'mori_Ill',
+ 'MiKiNA':'mikina_ExWHYZ','MAYU':'mayu_ExWHYZ','MAHO':'maho_ExWHYZ','YU-Ki':'yu_ki_ExWHYZ'
+};
+const idolBirthdays={
+ 'あいす':'23 gennaio','心花りり':'19 maggio','若葉のあ':'7 luglio','虹羽みに':'2 marzo',
+ '福丸うさ':'26 gennaio','小熊まむ':'23 novembre','空詩かれん':'10 luglio','純嶺みき':'12 aprile','真守みゅう':'6 ottobre',
+ '恋星はるか':'7 ottobre','こるね':'23 aprile','海まりん':'29 dicembre','永月十華':'1 ottobre','砂糖みるく':'5 novembre','水瀬ぴあの':'10 agosto',
+ '白石まゆみ':'27 dicembre','塩川莉世':'31 luglio','音井結衣':'9 gennaio','奥田彩友':'7 gennaio','栗田なつか':'19 luglio',
+ '白雪姫乃':'20 settembre','蒼井叶':'9 novembre','紫ノ色':'6 aprile','森 緑藻':'14 novembre',
+ 'MiKiNA':'18 marzo','MAYU':'16 aprile','MAHO':'1 giugno','YU-Ki':'10 dicembre'
 };
 const officialSocial={
  'Asuka Kishi':[['Instagram','https://www.instagram.com/aspoo02/'],['X','https://x.com/asupons02']],
@@ -65,13 +82,15 @@ function item(p){
  const eyebrow=make('span','discovery-card-type',categoriesOf(p));contents.append(eyebrow);
  const name=make('h3',null,p.name);contents.append(name);
  if(p.alternate)contents.append(make('p','discovery-japanese',p.alternate));
- const summary=make('p','discovery-card-detail',p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('jav')||p.categories.has('adult')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
+ const summary=make('p','discovery-card-detail',p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
  if(birthday[p.name]&&p.categories.has('vtuber'))contents.append(make('p','discovery-character-birthday','Compleanno del personaggio: '+birthday[p.name]+' · età privata non pubblicata'));
+ if(idolBirthdays[p.name]&&p.categories.has('music'))contents.append(make('p','discovery-character-birthday','Compleanno pubblico: '+idolBirthdays[p.name]+' · anno non indicato'));
  const actions=make('div','discovery-card-links');
  const profile=p.officialProfile||p.sources[0].url;
  actions.append(link(p.officialProfile?'Profilo ufficiale ↗':'Apri fonte ↗',profile));
  if(p.qid)actions.append(link('Wikidata ↗','https://www.wikidata.org/wiki/'+p.qid));
+ if(idolRosterX[p.name])actions.append(link('X · dal portale ↗','https://x.com/'+idolRosterX[p.name]));
  if(!p.officialProfile)actions.append(link('Cerca foto ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+(p.alternate||'')+' official profile')));
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
  else if(!adultCats.has(active)&&!p.categories.has('jav')&&!p.categories.has('adult'))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
