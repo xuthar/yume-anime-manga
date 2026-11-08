@@ -14,6 +14,22 @@
      source:'https://commons.wikimedia.org/wiki/File:Miho_Takagi_(JAP)_2013.jpg',verified:true}
   }
  };
+ const additionalSportPortraits=[
+  ['阿部詩','Q55281936','Uta Abe (JAP) 2024.jpg'],
+  ['早田ひな',null,'ITTF World Tour 2017 German Open Hina Hayata 01.jpg'],
+  ['山口茜','Q415740','Akane Yamaguchi (JAP).jpg'],
+  ['坂本花織',null,'Kaori Sakamoto during a practice session at the 2026 Winter Olympics (cropped).jpg'],
+  ['北口榛花','Q22128988','Haruka Kitaguchi Budapest 2023(2).jpg'],
+  ['髙梨沙羅','Q467082','Sara Oslo 2019 by Andreas-Jobst (cropped).jpg'],
+  ['長谷川唯','Q18121626','20250905-Yui Hasegawa.jpg'],
+  ['平野美宇','Q11483715','ITTF World Tour 2017 German Open Hirano Miu 02.jpg'],
+  ['熊谷紗希',null,'Kumagai 2024.png']
+ ];
+ for(const [name,qid,file] of additionalSportPortraits){
+  const uri=encodeURIComponent(file.replace(/ /g,'_'));
+  fallback.sport[key(name)]={name,qid,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+uri+'?width=480',
+   source:'https://commons.wikimedia.org/wiki/File:'+uri,verified:true,alternates:[]};
+ }
  const read=(kind,name,country)=>{
   const k=kind==='asia'?country+':'+key(name):key(name);
   return data[kind]?.[k]||fallback[kind]?.[k]||null
