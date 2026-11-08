@@ -27,6 +27,10 @@
       "updated": "2026-11-08",
       "source": "public professional Wikimedia Commons file pages",
       "notes": "Conteggio di record associati; non garantisce caricamento HTTP di ogni immagine. Le altre schede mantengono un segnaposto neutro."
+    },
+    "adult": {
+      "photoSubjects": 13,
+      "notes": "Ritratti da eventi pubblici, non espliciti. Solo dopo conferma maggiore età; il caricamento Wikimedia può variare."
     }
   },
   "sport": {
@@ -3083,9 +3087,361 @@
       "verified": true,
       "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Noe_Mita",
       "verifiedAt": "2026-11-08"
+    },
+    "aika": {
+      "name": "AIKA",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aika_(porn_actress)%2C_2016_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Aika_(porn_actress)%2C_2016_(cropped).jpg"
+      ],
+      "file": "Aika (porn actress), 2016 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aika_(porn_actress)%2C_2016_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Aika_(porn_actress)",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q8916509"
+    },
+    "yuihatano": {
+      "name": "Yui Hatano",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_10.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_10.jpg"
+      ],
+      "file": "하타노유이(Yui Hatano) 용과같이 극 기념행사 10.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_10.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Yui_Hatano",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q9305078"
+    },
+    "波多野結衣": {
+      "name": "波多野結衣",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_10.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_10.jpg"
+      ],
+      "file": "하타노유이(Yui Hatano) 용과같이 극 기념행사 10.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_10.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Yui_Hatano",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q9305078",
+      "alsoKnownAs": "Yui Hatano"
+    },
+    "hibikiotsuki": {
+      "name": "Hibiki Otsuki",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Otsuki_Hibiki_(%E5%A4%A7%E6%A7%BB%E3%81%B2%E3%81%B3%E3%81%8D)_at_Tokyo_Game_Show_2014.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Otsuki_Hibiki_(%E5%A4%A7%E6%A7%BB%E3%81%B2%E3%81%B3%E3%81%8D)_at_Tokyo_Game_Show_2014.jpg"
+      ],
+      "file": "Otsuki Hibiki (大槻ひびき) at Tokyo Game Show 2014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Otsuki_Hibiki_(%E5%A4%A7%E6%A7%BB%E3%81%B2%E3%81%B3%E3%81%8D)_at_Tokyo_Game_Show_2014.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Hibiki_Ōtsuki",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q9187572"
+    },
+    "大槻ひびき": {
+      "name": "大槻ひびき",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Otsuki_Hibiki_(%E5%A4%A7%E6%A7%BB%E3%81%B2%E3%81%B3%E3%81%8D)_at_Tokyo_Game_Show_2014.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Otsuki_Hibiki_(%E5%A4%A7%E6%A7%BB%E3%81%B2%E3%81%B3%E3%81%8D)_at_Tokyo_Game_Show_2014.jpg"
+      ],
+      "file": "Otsuki Hibiki (大槻ひびき) at Tokyo Game Show 2014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Otsuki_Hibiki_(%E5%A4%A7%E6%A7%BB%E3%81%B2%E3%81%B3%E3%81%8D)_at_Tokyo_Game_Show_2014.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Hibiki_Ōtsuki",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q9187572",
+      "alsoKnownAs": "Hibiki Otsuki"
+    },
+    "minamo": {
+      "name": "MINAMO",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MINAMO_IMG_6009-2.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/MINAMO_IMG_6009-2.jpg"
+      ],
+      "file": "MINAMO IMG 6009-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:MINAMO_IMG_6009-2.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Minamo_(porn_actress)",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q106994179"
+    },
+    "saikakawakita": {
+      "name": "Saika Kawakita",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saika_Kawakita2025_ReadjustmentIMG_8019.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Saika_Kawakita2025_ReadjustmentIMG_8019.jpg"
+      ],
+      "file": "Saika Kawakita2025 ReadjustmentIMG 8019.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saika_Kawakita2025_ReadjustmentIMG_8019.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Saika_Kawakita",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q55407040"
+    },
+    "河北彩花": {
+      "name": "河北彩花",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saika_Kawakita2025_ReadjustmentIMG_8019.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Saika_Kawakita2025_ReadjustmentIMG_8019.jpg"
+      ],
+      "file": "Saika Kawakita2025 ReadjustmentIMG 8019.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saika_Kawakita2025_ReadjustmentIMG_8019.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Saika_Kawakita",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q55407040",
+      "alsoKnownAs": "Saika Kawakita"
+    },
+    "yuamikami": {
+      "name": "Yua Mikami",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6690_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6690_(cropped).jpg"
+      ],
+      "file": "Mikami Yua to K-POP CIMG6690 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mikami_Yua_to_K-POP_CIMG6690_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Yua_Mikami",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q28936158"
+    },
+    "三上悠亜": {
+      "name": "三上悠亜",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6690_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6690_(cropped).jpg"
+      ],
+      "file": "Mikami Yua to K-POP CIMG6690 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mikami_Yua_to_K-POP_CIMG6690_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Yua_Mikami",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q28936158",
+      "alsoKnownAs": "Yua Mikami"
+    },
+    "suzuhonjo": {
+      "name": "Suzu Honjo",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Suzu_Honjo's_refreshing_smile2024.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Suzu_Honjo's_refreshing_smile2024.jpg"
+      ],
+      "file": "Suzu Honjo's refreshing smile2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Suzu_Honjo's_refreshing_smile2024.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Suzu_Honjō",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q56349819"
+    },
+    "本庄鈴": {
+      "name": "本庄鈴",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Suzu_Honjo's_refreshing_smile2024.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Suzu_Honjo's_refreshing_smile2024.jpg"
+      ],
+      "file": "Suzu Honjo's refreshing smile2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Suzu_Honjo's_refreshing_smile2024.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Suzu_Honjō",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q56349819",
+      "alsoKnownAs": "Suzu Honjo"
+    },
+    "kiraraasuka": {
+      "name": "Kirara Asuka",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(1).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(1).jpg"
+      ],
+      "file": "아스카 키라라(Kirara Asuka) 팬미팅 (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(1).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Kirara_Asuka",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q8965460"
+    },
+    "明日花キララ": {
+      "name": "明日花キララ",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(1).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(1).jpg"
+      ],
+      "file": "아스카 키라라(Kirara Asuka) 팬미팅 (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(1).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Kirara_Asuka",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q8965460",
+      "alsoKnownAs": "Kirara Asuka"
+    },
+    "tsukasaaoi": {
+      "name": "Tsukasa Aoi",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%98%A4%EC%9D%B4%EC%B8%A0%EC%B9%B4%EC%82%AC(Aoi_Tsukasa)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%98%A4%EC%9D%B4%EC%B8%A0%EC%B9%B4%EC%82%AC(Aoi_Tsukasa)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg"
+      ],
+      "file": "아오이츠카사(Aoi Tsukasa) 국내 팬미팅 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%EC%95%84%EC%98%A4%EC%9D%B4%EC%B8%A0%EC%B9%B4%EC%82%AC(Aoi_Tsukasa)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Tsukasa_Aoi",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q11621180"
+    },
+    "葵つかさ": {
+      "name": "葵つかさ",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%98%A4%EC%9D%B4%EC%B8%A0%EC%B9%B4%EC%82%AC(Aoi_Tsukasa)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%98%A4%EC%9D%B4%EC%B8%A0%EC%B9%B4%EC%82%AC(Aoi_Tsukasa)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg"
+      ],
+      "file": "아오이츠카사(Aoi Tsukasa) 국내 팬미팅 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%EC%95%84%EC%98%A4%EC%9D%B4%EC%B8%A0%EC%B9%B4%EC%82%AC(Aoi_Tsukasa)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Tsukasa_Aoi",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q11621180",
+      "alsoKnownAs": "Tsukasa Aoi"
+    },
+    "anriokita": {
+      "name": "Anri Okita",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790092).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790092).jpg"
+      ],
+      "file": "Anri Okita at AVN Adult Entertainment Expo 2016 (25545790092).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790092).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Anri_Okita",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q720246"
+    },
+    "沖田杏梨": {
+      "name": "沖田杏梨",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790092).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790092).jpg"
+      ],
+      "file": "Anri Okita at AVN Adult Entertainment Expo 2016 (25545790092).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Anri_Okita_at_AVN_Adult_Entertainment_Expo_2016_(25545790092).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Anri_Okita",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q720246",
+      "alsoKnownAs": "Anri Okita"
+    },
+    "julia": {
+      "name": "JULIA",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Julia%2C_Japanese_porn_actress.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Julia%2C_Japanese_porn_actress.jpg"
+      ],
+      "file": "Julia, Japanese porn actress.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Julia%2C_Japanese_porn_actress.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Julia,_Japanese_porn_actress.jpg",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
+    },
+    "rurisaijo": {
+      "name": "Ruri Saijo",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D_Ruri%2C_2016_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D_Ruri%2C_2016_(cropped).jpg"
+      ],
+      "file": "Saijō Ruri, 2016 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saij%C5%8D_Ruri%2C_2016_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Ruri_Saijō",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
+    },
+    "西条るり": {
+      "name": "西条るり",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D_Ruri%2C_2016_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D_Ruri%2C_2016_(cropped).jpg"
+      ],
+      "file": "Saijō Ruri, 2016 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saij%C5%8D_Ruri%2C_2016_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Ruri_Saijō",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "alsoKnownAs": "Ruri Saijo"
+    },
+    "soraaoi": {
+      "name": "Sora Aoi",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aoi_Sora_%22Lazy_Hazy_Crazy%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241441840)_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Aoi_Sora_%22Lazy_Hazy_Crazy%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241441840)_(cropped).jpg"
+      ],
+      "file": "Aoi Sora \"Lazy Hazy Crazy\" at Opening Ceremony of the 28th Tokyo International Film Festival (22241441840) (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aoi_Sora_%22Lazy_Hazy_Crazy%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241441840)_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Sora_Aoi_smiling",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q287027"
+    },
+    "蒼井そら": {
+      "name": "蒼井そら",
+      "adultOnly": true,
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aoi_Sora_%22Lazy_Hazy_Crazy%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241441840)_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Aoi_Sora_%22Lazy_Hazy_Crazy%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241441840)_(cropped).jpg"
+      ],
+      "file": "Aoi Sora \"Lazy Hazy Crazy\" at Opening Ceremony of the 28th Tokyo International Film Festival (22241441840) (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aoi_Sora_%22Lazy_Hazy_Crazy%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241441840)_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Sora_Aoi_smiling",
+      "license": "Wikimedia Commons · verificare autore e licenza alla pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08",
+      "qid": "Q287027",
+      "alsoKnownAs": "Sora Aoi"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza.",
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza. · 2026-11-08: 13 attrici adulte con ritratti individuali Commons e alias giapponesi.",
   "global": {
     "likenastya": {
       "name": "Like Nastya",
