@@ -140,7 +140,7 @@ async function discover(name){
   const date=first(e,'P569')?.time;
   const match=typeof date==='string'?date.match(/^\+?(\d{4})-(\d{2})-(\d{2})/):null;
   if(match){const y=Number(match[1]),m=Number(match[2]),d=Number(match[3]);
-   if(y>2008||(y===2008&&(m>11||(m===11&&d>8))))return false;
+   if(y>2008||(y===2008&&(!m||!d||m>11||(m===11&&d>8))))return false;
   } // never resolve a Wikidata identity documented as under 18
   // Only documented professional AV performers.
   const description=((e.descriptions?.ja?.value||'')+' '+(e.descriptions?.en?.value||''));
