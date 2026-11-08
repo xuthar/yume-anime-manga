@@ -5,8 +5,8 @@
  archive=$('young-archive'),country=$('young-country'),age=$('young-age'),
  status=$('young-status'),more=$('young-more'),filters=$('young-categories');
  if(!d||!grid)return;
- const countryLabels={jp:'🇯🇵 Giappone',kr:'🇰🇷 Corea',th:'🇹🇭 Thailandia',id:'🇮🇩 Indonesia',vn:'🇻🇳 Vietnam'};
- const categories={all:'Tutte',music:'Musica',fashion:'Moda e recitazione',sport:'Sport',acting:'Recitazione',creators:'Creator'};
+ const countryLabels={jp:'🇯🇵 Giappone',kr:'🇰🇷 Corea',th:'🇹🇭 Thailandia',id:'🇮🇩 Indonesia',vn:'🇻🇳 Vietnam',us:'🇺🇸 USA',gb:'🇬🇧 Regno Unito',au:'🇦🇺 Australia',br:'🇧🇷 Brasile',nl:'🇳🇱 Paesi Bassi',cn:'🇨🇳 Cina',in:'🇮🇳 India',ph:'🇵🇭 Filippine',tw:'🇹🇼 Taiwan'};
+ const categories={all:'Tutte',music:'Musica',fashion:'Moda',sport:'Sport',acting:'Cinema & TV',creators:'Creator & Social'};
  const $make=(tag,cls,value)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(value!=null)n.textContent=String(value);return n};
  const norm=t=>String(t||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f]/g,'').replace(/\s/g,'');
  const linked=(label,url)=>{const a=$make('a',null,label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a};
@@ -33,7 +33,7 @@
  }
  function card(p){
   const box=$make('article','young-card'),photo=$make('div','young-card-top');
-  photo.append($make('span',null,p.category==='sport'?'競':p.category==='fashion'?'装':'星'));
+  photo.append($make('span',null,p.category==='sport'?'競':p.category==='fashion'?'装':p.category==='creators'?'映':'星'));
   const badge=$make('span','young-card-badge',countryLabels[p.scene]||p.scene);
   photo.append(badge);image(p,photo);box.append(photo);
   const body=$make('div','young-card-body');
@@ -41,11 +41,23 @@
   body.append($make('h3',null,p.name));
   if(p.alternate)body.append($make('p','young-alt',p.alternate));
   body.append($make('p','young-card-group',p.group||'Artista'));
+  if(p.description)body.append($make('p','young-description',p.description));
   const birthday=p.birthDate?new Date(p.birthDate+'T00:00:00Z').toLocaleDateString('it-IT',{timeZone:'UTC',day:'2-digit',month:'2-digit',year:'numeric'}):'Anno '+p.birthYear;
   const years=p.age!=null?p.age+' anni':p.ageRange.min+'–'+p.ageRange.max+' anni (approssimati)';
   body.append($make('p','young-age',years+' · Nascita: '+birthday));
+  if(p.audience){
+   const metric=$make('p','young-audience');
+   const val=p.audience.count>=1000000?(p.audience.count/1000000).toLocaleString('it-IT',{maximumFractionDigits:1})+' M':p.audience.count.toLocaleString('it-IT');
+   metric.append($make('strong',null,val+' iscritti'));
+   metric.append($make('span',null,' · '+p.audience.platform+' · '+new Date(p.audience.date+'T00:00:00Z').toLocaleDateString('it-IT',{timeZone:'UTC'})));
+   if(p.audience.source)metric.append(linked(' Fonte dati ↗',p.audience.source));
+   body.append(metric)
+  }
   const links=$make('div','young-card-links');
-  if(p.source)links.append(linked('Profilo o fonte ufficiale ↗',p.source));
+  if(p.source)links.append(linked('Profilo / fonte ↗',p.source));
+  for(const [platform,url] of p.platforms||[]){
+   if(/^https:\/\//.test(url))links.append(linked(platform+' ↗',url));
+  }
   const pic=photoStore?.get(p.archive,p.name,p.archive==='asia'?p.scene:null);
   if(pic?.verified&&pic.source)links.append(linked('Licenza fotografia ↗',pic.source));
   body.append(links);box.append(body);return box
@@ -55,7 +67,7 @@
   for(const p of shown)frag.append(card(p));
   if(!shown.length)frag.append($make('p','young-empty','Nessun profilo corrisponde ai filtri. Sono elencate soltanto persone con età documentata.'));
   grid.replaceChildren(frag);
-  status.textContent=items.length+' profili trovati · '+shown.length+' schede visualizzate · fonti professionali e date di nascita controllate.';
+  status.textContent=items.length+' profili trovati · '+shown.length+' visualizzati · fonti e canali pubblici citati.';
   more.hidden=limit>=items.length;more.textContent='Mostra altre '+Math.min(32,items.length-limit)+' schede ↓';
   for(const btn of document.querySelectorAll('[data-young-category]'))btn.setAttribute('aria-pressed',String(btn.dataset.youngCategory===category))
  }
