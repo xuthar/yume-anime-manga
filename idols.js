@@ -3,7 +3,7 @@
 const $=id=>document.getElementById(id);
 const categories={
  music:{name:'Idol musicali',jobs:['Q226008'],featured:['Q41693136','Q1207378','Q74275','Q118696640','Q65230694','Q1195767','Q11629738','Q65274734'],description:'Idol musicali, cantanti e membri di gruppi giapponesi, anche indipendenti.',adult:false},
- gravure:{name:'Gravure e photomodels',jobs:['Q1328668','Q28692662'],featured:['Q123160205','Q1101166','Q60806764','Q55527939','Q8951402','Q68184989','Q59551789','Q115629952','Q60613919','Q65095777','Q111113137'],description:'Gravure, photomodels e fotografiche editoriali giapponesi, anche meno note.',adult:false},
+ gravure:{name:'Gravure e photomodels',jobs:['Q1328668','Q28692662'],featured:['Q123160205','Q1101166','Q60806764','Q55527939','Q8951402','Q68184989','Q59551789','Q115629952','Q60613919','Q11475874','Q1869466','Q65095777','Q111113137'],description:'Gravure, photomodels e fotografiche editoriali giapponesi, anche meno note.',adult:false},
  fashion:{name:'Fashion models',jobs:['Q3357567','Q4610556'],featured:['Q27150788','Q74275','Q1052497','Q11629738','Q21984356','Q55527939','Q124482095'],description:'Modelle, modelli e talent del fashion giapponese: passerelle, riviste e campagne.',adult:false},
  actors:{name:'Attrici e talent',jobs:['Q33999'],featured:['Q169400','Q11629738','Q74275','Q21984356','Q2705964'],description:'Attrici, interpreti e talent dello spettacolo giapponese.',adult:false},
  voice:{name:'Seiyū e doppiatrici',jobs:['Q622807'],featured:['Q106411305','Q8951402'],description:'Seiyū, interpreti vocali e creator legati al mondo degli anime.',adult:false},

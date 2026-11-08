@@ -40,6 +40,7 @@ const groups=[
  ['adult','adult',`Sasahara Mika / 笹原美香;Kuon Reira / 久遠れいら;Tukimi Serina / 月見芹菜;Aono Miku / 蒼乃ミク;Nanatuki Mirei / 奈々月みれい;Otoha Love / 乙葉らぶ;Kurihara Sanae / 栗原早苗;Mio Mao / 澪真央;Himeno Momona / 姫野ももな;Tsukamoto Saya / 塚本さや;Satou Iori / 佐藤衣栞;Asakura Cocona / 朝倉ここな;Mizohata Ren / 溝端恋;Morikawa Honoka / 森川ほのか;Kokonoi Sunao / 九井スナオ;Kurashina Momo / 倉科モモ;Kohaku Maho / 琥珀まほ;Kotoishi Yumeru / 琴石ゆめる;Seta Ichika / 瀬田一花;Kirishima Kurumi / 桐嶋くるみ;Hoshi Huyuka / 星冬香;Makino Rena / 牧野怜奈;Takahata Yui / 高畑ゆい;Arisugawa Amane / 有栖川あまね`],
 ];
 const verified=[
+ {cat:'gravure',name:'Asuka Kishi',q:'Q11475874'},{cat:'gravure',name:'Sayaka Isoyama',q:'Q1869466'},
  {cat:'gravure',name:'Ayu Hazaki',q:'Q123160205'},{cat:'gravure',name:'Ai Shinozaki',q:'Q1101166'},
  {cat:'gravure',name:'Miku Tanaka',q:'Q60806764'},{cat:'gravure',name:'Nashiko Momotsuki',q:'Q55527939'},
  {cat:'cosplay',name:'Enako',q:'Q8951402'},{cat:'gravure',name:'Iori Sagara',q:'Q68184989'},

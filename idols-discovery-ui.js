@@ -10,6 +10,8 @@ const gate=$('discovery-age-enter'),cancel=$('discovery-age-back');
 const adultCats=new Set(['jav','adult']);
 const labels={all:'Tutte',music:'Idol musicali',gravure:'Gravure',fashion:'Modelli',music:'Idol',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'Adult 18+'};
 const photoFiles={
+ 'Asuka Kishi':'Kindai Mahjong Swimsuit Festival (April 27, 2024)051727MC.jpg',
+ 'Sayaka Isoyama':'Sayaka Isoyama 2012.jpg',
  'Ayu Hazaki':'Fresh Festival 2023 in Shirakobato Water Park IMG 1038.jpg',
  'Ai Shinozaki':'Shinozaki Ai, Japanese gravure idol 5.jpg',
  'Miku Tanaka':'Miku Tanaka SOS47.jpg',
@@ -25,6 +27,8 @@ const birthday={
  'Kaela Kovalskia':'30 agosto','Raora Panthera':'11 maggio'
 };
 const officialSocial={
+ 'Asuka Kishi':[['Instagram','https://www.instagram.com/aspoo02/'],['X','https://x.com/asupons02']],
+ 'Sayaka Isoyama':[['Instagram','https://www.instagram.com/sayakaisoyama/'],['X','https://x.com/sayaka23isoyama']],
  'Enako':[['Instagram','https://www.instagram.com/enakorin/']],
  'Ayu Hazaki':[['Instagram','https://www.instagram.com/ayu_photo_18/'],['X','https://x.com/ayu_hazaki']],
  'Miku Tanaka':[['X','https://x.com/miku_monmon3939']],
