@@ -29,6 +29,8 @@ const norm=x=>String(x||'').normalize('NFKD').toLowerCase().replace(/[\u0300-\u0
 const read=(e,p)=>e?.claims?.[p]?.find(v=>v.rank!=='deprecated'&&v.mainsnak?.datavalue)?.mainsnak?.datavalue?.value||null;
 const ref=v=>typeof v==='object'&&/^Q\d+$/.test(v?.id||'')?v.id:null;
 const label=e=>e?.labels?.it?.value||e?.labels?.en?.value||e?.labels?.ja?.value||e?.id||'';
+const isFemale=(entity)=>(entity?.claims?.P21||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q6581072');
+
 const description=e=>e?.descriptions?.it?.value||e?.descriptions?.en?.value||e?.descriptions?.ja?.value||'';
 const normalURL=x=>{try{if(!x||typeof x!=='string')return null;const u=new URL(x);return ['https:','http:'].includes(u.protocol)?u.toString():null}catch{return null}};
 function external(text,url){const a=make('a',text);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a}
@@ -152,7 +154,7 @@ async function fetchFeatured(cat){
  try{
   const records=await entities(categories[cat].featured||[]);
   const people=(categories[cat].featured||[]).map(id=>records[id]).filter(e=>{
-   if(e?.type!=='item'||!(e.claims?.P31||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))return false;
+   if(e?.type!=='item'||!isFemale(e)||!(e.claims?.P31||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))return false;
    const jobsSet=new Set(categories[cat].jobs);
    const occupation=(e.claims?.P106||[]).some(v=>jobsSet.has(ref(v.mainsnak?.datavalue?.value)));
    const nationality=(e.claims?.P27||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q17');
@@ -168,14 +170,14 @@ async function fetchBatch(cat){
  const s=state[cat];if(s.busy||s.done)return;s.busy=true;s.error='';if(cat===active)paint();
  const qids=categories[cat].jobs.map(x=>'wd:'+x).join(' '),limit=60;
  // Photo-first search: omit image-less Wikidata items from the default gallery.
- const sparql=cat==='vtuber'?('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { ?person wdt:P106 wd:Q55155641 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset):('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 ; wdt:P31 wd:Q5 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset);
+ const sparql=cat==='vtuber'?('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { ?person wdt:P106 wd:Q55155641 ; wdt:P21 wd:Q6581072 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset):('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 ; wdt:P21 wd:Q6581072 ; wdt:P31 wd:Q5 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset);
  try{
   const data=await readJSON('https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(sparql),'application/sparql-results+json');
   const ids=[...new Set((data.results?.bindings||[]).map(v=>v.person?.value?.match(/Q\d+$/)?.[0]).filter(Boolean))];
   if(ids.length<limit)s.done=true;
   s.offset+=limit;
   if(ids.length){
-   const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&(cat==='vtuber'||x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))).filter(e=>cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18).map(e=>convert(e,cat));
+   const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&isFemale(x)&&(cat==='vtuber'||x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))).filter(e=>cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18).map(e=>convert(e,cat));
    await Promise.allSettled([attachPhotos(people),enrich(people)]);
    for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
   }
@@ -196,7 +198,7 @@ async function onlineSearch(){
  const jobList=e?.claims?.P106||[];
  const relevant=jobList.some(x=>jobSet.has(ref(x.mainsnak?.datavalue?.value)));
  const japan=(e?.claims?.P27||[]).some(x=>ref(x.mainsnak?.datavalue?.value)==='Q17');
- return e?.type==='item'&&relevant&&(active==='vtuber'||japan)&&(active!=='jav'&&active!=='adult'||birthInfo(read(e,'P569')).age>=18)
+ return e?.type==='item'&&isFemale(e)&&relevant&&(active==='vtuber'||japan)&&(active!=='jav'&&active!=='adult'||birthInfo(read(e,'P569')).age>=18)
  }).map(e=>convert(e,active));
  await Promise.allSettled([attachPhotos(people),enrich(people)]);
  for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
