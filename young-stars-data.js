@@ -33,7 +33,7 @@
  for(const p of jp.people){
   // Curated young musicians / conventional fashion models. Never derive teen status
   // from gravure, adult, doujin or adult performer catalog names.
-  if(!p.teenSafe||!['music','fashion'].includes(p.category)||!p.birth)continue;
+  if(!p.teenSafe||!['music','fashion','creators'].includes(p.category)||!p.birth)continue;
   add({name:p.name,alternate:p.alternate,scene:'jp',collection:'Idols Giappone',category:p.category,
    group:p.group||(p.category==='fashion'?'Seventeen':''),birth:p.birth,
    source:p.source,sourceLabel:p.sourceLabel||'Profilo ufficiale',archive:'japan',
