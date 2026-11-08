@@ -12,7 +12,7 @@ const seededQids={'髙木 美帆':'Q444421','池江 璃花子':'Q20973721','角�
 let current='all',limit=32,enrichBusy=false;
 const make=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=String(text);return n};
 const external=(caption,url)=>{const a=make('a',null,caption);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a};
-const norm=t=>String(t||'').normalize('NFKC').toLowerCase().replace(/\s+/g,'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'');
+const norm=t=>String(t||'').normalize('NFKC').toLowerCase().replace(/[髙𠮷﨑]/g,x=>({'髙':'高','𠮷':'吉','﨑':'崎'}[x])).replace(/[\s・･ー]/g,'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'');
 const claim=(e,p)=>(e?.claims?.[p]||[]).filter(x=>x.rank!=='deprecated').map(x=>x.mainsnak?.datavalue?.value).find(v=>v!=null);
 const hasEntity=(e,p,id)=>(e?.claims?.[p]||[]).some(x=>x.mainsnak?.datavalue?.value?.id===id);
 const linkValue=x=>typeof x==='string'&&x.length<160?x.trim():null;
@@ -160,7 +160,9 @@ function makePhoto(p,block,preview){
 function card(p){
  const article=make('article','sport-card'),top=make('div','sport-card-top');
  const first=types[p.disciplines[0]],art=make('span','sport-art',first?.emoji||'翔');top.append(art);
- const tag=make('span','sport-edition',p.sources[0]?.edition||'Roster');top.append(tag);makePhoto(p,top,false);article.append(top);
+ const tag=make('span','sport-edition',p.sources[0]?.edition||'Roster');top.append(tag);
+ const rosterPhotos=external('Ritratto ↗',sourceButton(p).url);rosterPhotos.className='sport-photo-source';rosterPhotos.title='Apri la fonte ufficiale con la scheda dell’atleta';top.append(rosterPhotos);
+ makePhoto(p,top,false);article.append(top);
  const content=make('div','sport-card-content');content.append(make('span','sport-card-type',(first?.emoji||'')+' '+athleteSports(p)));
  content.append(make('h3',null,p.name),make('p','sport-roman',p.latin||'日本 · Atleta giapponese'));
  const birth=make('p','sport-birth');birth.append(make('strong',null,'Nascita: '),document.createTextNode(p.birth||'Da verificare'));content.append(birth);
