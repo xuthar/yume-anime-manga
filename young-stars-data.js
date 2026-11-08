@@ -1,10 +1,10 @@
 /* Yume Young Stars · teen artists and athletes from cited, public professional sources.
-   Allowed ages: 13–19 (local UTC date), non-sexual categories only.
+   Allowed ages: 10–19 (local UTC date); under-13 channel coverage is family-operated and strictly professional, non-sexual categories only.
    Never include gravure, JAV, adult, adult/social glamour or unverifiable ages. */
 (()=>{'use strict';
  const jp=window.YumeIdolsDiscovery,asia=window.YumeAsiaIdols,sports=window.YumeSportIdols;
  if(!jp||!asia||!sports)return;
- const min=13,max=19,today=new Date();
+ const min=10,max=19,today=new Date();
  const year=today.getUTCFullYear(),month=today.getUTCMonth()+1,day=today.getUTCDate();
  const normalize=t=>String(t||'').normalize('NFKC').replace(/[髙﨑]/g,x=>({'髙':'高','﨑':'崎'}[x]||x)).replace(/\s/g,'').toLowerCase();
  const dateAge=str=>{
@@ -48,6 +48,9 @@
    group:p.groups?.[0]||'',source:src,sourceLabel:asia.sources[p.sourceIds?.[0]]?.title||'Profilo artista',
    archive:'asia',nationality:p.nationality||null})
  }
+ for(const p of (window.YumeYoungSpotlight?.people||[])){
+  add({...p,sourceLabel:p.sourceLabel||'Scheda pubblica',archive:p.archive||'global'});
+ }
  for(const p of sports.people){
   if(!p.teenSafe||!p.birth)continue;
   add({name:p.name,alternate:p.latin,scene:'jp',collection:'Sport Idols',
@@ -56,6 +59,6 @@
  }
  const people=[...results.values()];
  const countBy=(field)=>Object.fromEntries([...new Set(people.map(p=>p[field]))].map(id=>[id,people.filter(p=>p[field]===id).length]));
- window.YumeYoungStars=Object.freeze({updated:'2026-11-08',ageRange:'13–19',
+ window.YumeYoungStars=Object.freeze({updated:'2026-11-08',ageRange:'10–19',
   people, count:people.length,byArchive:countBy('archive'),byScene:countBy('scene'),byCategory:countBy('category')});
 })();
