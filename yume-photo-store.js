@@ -49,6 +49,10 @@
  // Commons license: no commercial/social avatar hotlinks, no generated likeness.
  fallback.japan=fallback.japan||{};
  const tiktokCommons=[
+  ['asia','ph','Ivana Alawi','Ivana Alawi.jpg'],
+  ['asia','ph','Sofia Pablo','Sofia Pablo close Green Bones10.jpg'],
+  ['asia','ph','Sanya Lopez','Sanya Lopez 01.jpg'],
+  ['asia','ph','Maymay Entrata','MayMayEntrata MMFFParade.jpeg'],
   ['asia','ph','Jillian Ward','Jillian Ward, 2025 (cropped).jpg'],
   ['asia','ph','Kyline Alcantara','Kyline Alcantara 2025.jpg'],
   ['asia','ph','Kai Montinola','Kai Montinola in 2026.jpg'],
@@ -68,7 +72,7 @@
   const k=kind==='asia'?country+':'+key(name):key(name);
   return data[kind]?.[k]||fallback[kind]?.[k]||null
  };
- const load=fetch('data/yume-photo-index.json?v=20261108-tiktok-youth2',{cache:'no-store'})
+ const load=fetch('data/yume-photo-index.json?v=20261108-tiktok-youth3',{cache:'no-store'})
  .then(r=>{if(!r.ok)throw Error('Photo index not generated yet');return r.json()})
  .then(json=>{
   if(!json||json.version<1||!json.sport||!json.asia||!json.japan)throw Error('Invalid photo index');
