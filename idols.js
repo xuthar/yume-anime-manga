@@ -3,25 +3,26 @@
 const $=id=>document.getElementById(id);
 const categories={
  music:{name:'Idol musicali',jobs:['Q226008'],featured:['Q41693136','Q1207378','Q74275','Q118696640','Q65230694','Q1195767','Q11629738','Q65274734'],description:'Idol musicali, cantanti e membri di gruppi giapponesi, anche indipendenti.',adult:false},
- gravure:{name:'Gravure e photomodels',jobs:['Q1328668','Q28692662'],featured:['Q123160205','Q65095777','Q111113137','Q123405211','Q135615344','Q55527939','Q8951402','Q110910871','Q111113564','Q118696640'],description:'Gravure, photomodels e fotografiche editoriali giapponesi, anche meno note.',adult:false},
+ gravure:{name:'Gravure e photomodels',jobs:['Q1328668','Q28692662'],featured:['Q123160205','Q1101166','Q60806764','Q55527939','Q8951402','Q68184989','Q59551789','Q115629952','Q60613919','Q65095777','Q111113137'],description:'Gravure, photomodels e fotografiche editoriali giapponesi, anche meno note.',adult:false},
  fashion:{name:'Fashion models',jobs:['Q3357567','Q4610556'],featured:['Q27150788','Q74275','Q1052497','Q11629738','Q21984356','Q55527939','Q124482095'],description:'Modelle, modelli e talent del fashion giapponese: passerelle, riviste e campagne.',adult:false},
  actors:{name:'Attrici e talent',jobs:['Q33999'],featured:['Q169400','Q11629738','Q74275','Q21984356','Q2705964'],description:'Attrici, interpreti e talent dello spettacolo giapponese.',adult:false},
  voice:{name:'Seiyū e doppiatrici',jobs:['Q622807'],featured:['Q106411305','Q8951402'],description:'Seiyū, interpreti vocali e creator legati al mondo degli anime.',adult:false},
  creators:{name:'Creator e influencer',jobs:['Q17125263','Q2906862','Q2045208'],featured:['Q81783459','Q11222605','Q74275','Q169400','Q124482095'],description:'YouTuber, creator indipendenti, influencer e personalità del web giapponese.',adult:false},
- cosplay:{name:'Cosplay e creator',jobs:['Q18810049'],featured:['Q8951402','Q106411305','Q110910871','Q111113564','Q55527939','Q123160205'],description:'Cosplayer, creator e protagonisti di eventi giapponesi, anche nomi meno conosciuti.',adult:false},
+ cosplay:{name:'Cosplay e creator',jobs:['Q18810049'],featured:['Q8951402','Q55527939','Q123160205','Q106411305','Q110910871','Q111113564'],description:'Cosplayer, creator e protagonisti di eventi giapponesi, anche nomi meno conosciuti.',adult:false},
+ vtuber:{name:'VTuber',jobs:['Q55155641'],featured:['Q29515292','Q114398357','Q111445823','Q108528658','Q100556077'],description:'Identità digitali, avatar e creator VTuber. I compleanni sono quelli dei personaggi, non delle persone dietro le voci.',adult:false},
  jav:{name:'Performer JAV',jobs:['Q1079215'],featured:['Q8965460','Q2705964','Q270138','Q124482095','Q108303230'],description:'Carriere e informazioni pubbliche del settore JAV (18+), ritratti non espliciti.',adult:true},
  adult:{name:'Adult performers',jobs:['Q488111','Q3286043'],featured:['Q8965460','Q2705964','Q270138','Q124482095','Q108303230'],description:'Professionisti del settore adult (18+), informazioni verificabili e ritratti non espliciti.',adult:true}
 };
 const jobs={
  Q226008:'Idol musicale',Q1328668:'Gravure idol',Q28692662:'Modella/o gravure',
  Q17125263:'YouTuber',Q2906862:'Influencer',Q2045208:'Personalità del web',
- Q18810049:'Cosplayer',Q1079215:'Performer JAV',Q488111:'Performer adult',Q3286043:'Modella/o fotografico erotico',
+ Q18810049:'Cosplayer',Q55155641:'VTuber',Q1079215:'Performer JAV',Q488111:'Performer adult',Q3286043:'Modella/o fotografico erotico',
  Q177220:'Cantante',Q33999:'Attore / attrice',Q4610556:'Modella/o',
  Q3357567:'Modella/o fashion',Q622807:'Seiyū',Q483501:'Artista',Q49757:'Poeta'
 };
 const state=Object.fromEntries(Object.keys(categories).map(k=>[k,{items:[],byId:new Set(),offset:0,busy:false,done:false,error:'',loaded:false,featuredLoaded:false,featuredBusy:false}]));
 const grid=$('idols-grid'),query=$('idol-search'),onlyPhoto=$('idol-photo-only'),sort=$('idol-sort'),status=$('idol-status'),more=$('idol-more'),retry=$('idol-retry'),find=$('idol-online-search'),profile=$('idol-profile'),profileBody=$('idol-profile-body'),ageDialog=$('idol-age-dialog');
-let active='music',pending=null,adultOK=false,visibleId=0;
+let active='gravure',pending=null,adultOK=false,visibleId=0;
 try{adultOK=sessionStorage.getItem('yume-idols-adult-18')==='yes'}catch{}
 const make=(tag,value,cls)=>{const e=document.createElement(tag);if(value!=null)e.textContent=String(value);if(cls)e.className=cls;return e};
 const norm=x=>String(x||'').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f]/g,'').trim();
@@ -65,22 +66,23 @@ function measure(v,kind){
 }
 function pageSitelink(e){for(const s of ['itwiki','enwiki','jawiki'])if(e?.sitelinks?.[s]?.title)return{site:s.slice(0,2),title:e.sitelinks[s].title};return null}
 function convert(e,cat){
- const birth=birthInfo(read(e,'P569')),sites=pageSitelink(e),picture=read(e,'P18');
+ const birth=cat==='vtuber'?{text:'Compleanno dell’avatar: fonte ufficiale',age:null,year:0}:birthInfo(read(e,'P569')),sites=pageSitelink(e),picture=read(e,'P18');
  const photoFiles=(e.claims?.P18||[]).map(x=>x.mainsnak?.datavalue?.value).filter(x=>typeof x==='string'&&/\.(jpe?g|png|webp)$/i.test(x)).slice(0,4);
  const siteLinks=['itwiki','enwiki','jawiki'].filter(k=>e.sitelinks?.[k]?.title).map(k=>({site:k.slice(0,2),title:e.sitelinks[k].title}));
  const jobCodes=(e.claims?.P106||[]).map(x=>ref(x.mainsnak?.datavalue?.value)).filter(Boolean);
- const roles=jobCodes.map(x=>jobs[x]).filter(Boolean),title=label(e);
+ const roles=jobCodes.map(x=>jobs[x]).filter(Boolean),title=label(e),aliases=[...new Set(Object.values(e.aliases||{}).flatMap(v=>(v||[]).map(a=>a.value)).filter(v=>v&&v!==title))].slice(0,9);
  const links=[
+  ...(cat==='vtuber'&&window.YumeIdolsDiscovery?.officialVT?.[title]?[['Sito',window.YumeIdolsDiscovery.officialVT[title]]]:[]),
   ['X',socialUrl('x',read(e,'P2002'))],['Instagram',socialUrl('instagram',read(e,'P2003'))],
   ['YouTube',socialUrl('youtube',read(e,'P2397'))],['TikTok',socialUrl('tiktok',read(e,'P7085'))],
   ['Facebook',socialUrl('facebook',read(e,'P2013'))],['Sito',normalURL(read(e,'P856'))]
  ].filter(x=>x[1]);
- return{id:e.id,name:title,description:description(e)||roles.join(' · ')||categories[cat].description,roles:roles.length?Array.from(new Set(roles)).slice(0,3).join(' · '):categories[cat].name,birth:birth.text,age:birth.age,birthYear:birth.year,height:birth.age!=null&&birth.age<18?null:measure(read(e,'P2048'),'height'),weight:birth.age!=null&&birth.age<18?null:measure(read(e,'P2067'),'weight'),from:birthInfo(read(e,'P2031')).year,to:birthInfo(read(e,'P2032')).year,wiki:sites?wikiUrl(sites.site,sites.title):null,site:sites,siteLinks,photoFile:typeof picture==='string'?picture:null,photoFiles,commonsCategory:typeof read(e,'P373')==='string'?read(e,'P373'):null,photos:[],verifiedPhoto:null,noPhoto:false,links,source:'https://www.wikidata.org/wiki/'+e.id,group:ref(read(e,'P463')),work:ref(read(e,'P800')),extras:[]}
+ return{id:e.id,name:title,aliases,description:description(e)||roles.join(' · ')||categories[cat].description,roles:roles.length?Array.from(new Set(roles)).slice(0,3).join(' · '):categories[cat].name,birth:birth.text,age:birth.age,birthYear:birth.year,height:birth.age!=null&&birth.age<18?null:measure(read(e,'P2048'),'height'),weight:birth.age!=null&&birth.age<18?null:measure(read(e,'P2067'),'weight'),from:birthInfo(read(e,'P2031')).year,to:birthInfo(read(e,'P2032')).year,wiki:sites?wikiUrl(sites.site,sites.title):null,site:sites,siteLinks,photoFile:typeof picture==='string'?picture:null,photoFiles,commonsCategory:typeof read(e,'P373')==='string'?read(e,'P373'):null,photos:[],verifiedPhoto:null,noPhoto:false,links,source:'https://www.wikidata.org/wiki/'+e.id,group:ref(read(e,'P463')),work:ref(read(e,'P800')),extras:[]}
 }
 async function readJSON(url,format='application/json'){const r=await fetch(url,{headers:{Accept:format}});if(!r.ok)throw Error('HTTP '+r.status);return r.json()}
 async function entities(ids){
  const all={};for(let i=0;i<ids.length;i+=45){
- const url='https://www.wikidata.org/w/api.php?action=wbgetentities&origin=*&format=json&props=labels%7Cdescriptions%7Cclaims%7Csitelinks&languages=it%7Cen%7Cja&sitefilter=itwiki%7Cenwiki%7Cjawiki&ids='+encodeURIComponent(ids.slice(i,i+45).join('|'));
+ const url='https://www.wikidata.org/w/api.php?action=wbgetentities&origin=*&format=json&props=labels%7Cdescriptions%7Caliases%7Cclaims%7Csitelinks&languages=it%7Cen%7Cja&sitefilter=itwiki%7Cenwiki%7Cjawiki&ids='+encodeURIComponent(ids.slice(i,i+45).join('|'));
  const d=await readJSON(url);Object.assign(all,d.entities||{});
  }return all
 }
@@ -154,7 +156,7 @@ async function fetchFeatured(cat){
    const jobsSet=new Set(categories[cat].jobs);
    const occupation=(e.claims?.P106||[]).some(v=>jobsSet.has(ref(v.mainsnak?.datavalue?.value)));
    const nationality=(e.claims?.P27||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q17');
-   return occupation&&nationality&&(cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18)
+   return occupation&&(cat==='vtuber'||nationality)&&(cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18)
   }).map(e=>convert(e,cat));
   await Promise.allSettled([attachPhotos(people),enrich(people)]);
   for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
@@ -166,14 +168,14 @@ async function fetchBatch(cat){
  const s=state[cat];if(s.busy||s.done)return;s.busy=true;s.error='';if(cat===active)paint();
  const qids=categories[cat].jobs.map(x=>'wd:'+x).join(' '),limit=60;
  // Photo-first search: omit image-less Wikidata items from the default gallery.
- const sparql='PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 ; wdt:P31 wd:Q5 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset;
+ const sparql=cat==='vtuber'?('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { ?person wdt:P106 wd:Q55155641 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset):('PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 ; wdt:P31 wd:Q5 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset);
  try{
   const data=await readJSON('https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(sparql),'application/sparql-results+json');
   const ids=[...new Set((data.results?.bindings||[]).map(v=>v.person?.value?.match(/Q\d+$/)?.[0]).filter(Boolean))];
   if(ids.length<limit)s.done=true;
   s.offset+=limit;
   if(ids.length){
-   const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5')).filter(e=>cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18).map(e=>convert(e,cat));
+   const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&(cat==='vtuber'||x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))).filter(e=>cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18).map(e=>convert(e,cat));
    await Promise.allSettled([attachPhotos(people),enrich(people)]);
    for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
   }
@@ -194,7 +196,7 @@ async function onlineSearch(){
  const jobList=e?.claims?.P106||[];
  const relevant=jobList.some(x=>jobSet.has(ref(x.mainsnak?.datavalue?.value)));
  const japan=(e?.claims?.P27||[]).some(x=>ref(x.mainsnak?.datavalue?.value)==='Q17');
- return e?.type==='item'&&relevant&&japan&&(active!=='jav'&&active!=='adult'||birthInfo(read(e,'P569')).age>=18)
+ return e?.type==='item'&&relevant&&(active==='vtuber'||japan)&&(active!=='jav'&&active!=='adult'||birthInfo(read(e,'P569')).age>=18)
  }).map(e=>convert(e,active));
  await Promise.allSettled([attachPhotos(people),enrich(people)]);
  for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
@@ -219,7 +221,7 @@ function photoNode(p,large=false){
    return
   }
   const url=files[i],img=document.createElement('img');
-  img.alt='Ritratto di '+p.name;img.loading=large?'eager':'lazy';img.decoding='async';
+  img.alt=(active==='vtuber'?'Illustrazione o ritratto di ':'Ritratto di ')+p.name;img.loading=large?'eager':'lazy';img.decoding='async';
   img.onerror=()=>next(i+1);
   img.onload=()=>{if(!p.verifiedPhoto){p.verifiedPhoto=url;p.noPhoto=false;}};
   img.src=url;box.replaceChildren(img)
@@ -247,7 +249,7 @@ function card(p){
  button.setAttribute('aria-label','Apri biografia completa di '+p.name);
  const media=photoNode(p),meta=make('div',null,'idol-card-meta'),title=make('strong',p.name),role=make('p',p.roles,'idol-occupation');
  const facts=make('div',null,'idol-card-facts'),birth=make('span'),age=make('span');birth.append(make('b','Nascita: '),document.createTextNode(p.birth));age.append(make('b','Età: '),document.createTextNode(p.age!=null?p.age+' anni':'N/D'));facts.append(birth,age);
- meta.append(title,role,facts,make('span','Biografia, attività e fonti','idol-card-hint'));
+ meta.append(title,role,facts);if(p.aliases?.length)meta.append(make('span','Conosciuta/o anche come: '+p.aliases.slice(0,2).join(' · '),'idol-card-hint'));else meta.append(make('span','Biografia, attività e fonti','idol-card-hint'));
  button.append(media,meta);button.addEventListener('click',()=>detail(p));article.append(button,linksNode(p));return article
 }
 function detail(p){
@@ -256,7 +258,7 @@ function detail(p){
  info.append(make('span',categories[active].name.toUpperCase(),'idol-kicker'),title,make('p',p.description));
  const facts=make('dl',null,'idol-facts');
  const fields=[['Professione',p.roles],['Data di nascita',p.birth],['Età',p.age==null?'Non documentabile':p.age+' anni'],['Altezza',p.height||'Non documentata'],['Peso',p.weight||'Non documentato'],['Attività dal',p.from||'Non documentata'],['Attività fino al',p.to||'Non documentata']];
- for(const [k,v] of fields){const pair=make('div');pair.append(make('dt',k),make('dd',v));facts.append(pair)}info.append(facts);
+ for(const [k,v] of fields){const pair=make('div');pair.append(make('dt',k),make('dd',v));facts.append(pair)}info.append(facts);if(p.aliases?.length)info.append(make('p','Altri nomi e nomi d’arte: '+p.aliases.join(' · '),'idol-profile-extra'));
  for(const x of p.extras){const para=make('p',x.title+': ','idol-profile-extra');para.append(external(x.value,x.url));info.append(para)}
  info.append(make('h3','Social e siti verificabili','idol-profile-links-label'),linksNode(p,'idol-links'));
  const refs=make('p',null,'idol-profile-extra');refs.append(external('Wikidata / dati originali ↗',p.source));if(p.wiki)refs.append(document.createTextNode(' · '),external('Biografia Wikipedia ↗',p.wiki));if(p.photoFile)refs.append(document.createTextNode(' · '),external('Fotografia e licenza Commons ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile.replace(/^File:/i,''))));
@@ -265,7 +267,7 @@ function detail(p){
  layout.append(photoNode(p,true),info);profileBody.append(layout);profile.showModal();
 }
 function paint(){
- const s=state[active],term=norm(query.value),shown=s.items.filter(p=>(!term||norm(p.name+' '+p.description+' '+p.roles).includes(term))&&(!onlyPhoto.checked||(p.photos.length>0&&!p.noPhoto)));
+ const s=state[active],term=norm(query.value),shown=s.items.filter(p=>(!term||norm(p.name+' '+(p.aliases||[]).join(' ')+' '+p.description+' '+p.roles).includes(term))&&(!onlyPhoto.checked||(p.photos.length>0&&!p.noPhoto)));
  shown.sort((a,b)=>sort.value==='recent'?(b.birthYear-a.birthYear)||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const frag=document.createDocumentFragment();for(const p of shown)frag.append(card(p));if(!shown.length&&!s.busy)frag.append(make('p',s.error||'Nessuna scheda corrisponde ai filtri. Prova un’altra ricerca o carica altri profili.','idol-no-results'));
  grid.replaceChildren(frag);$('idol-category-copy').textContent=categories[active].description;
@@ -292,5 +294,5 @@ if('IntersectionObserver' in window){
  },{rootMargin:'250px'});
  loader.observe(more)
 }
-onlyPhoto.checked=true;paint();fetchFeatured('music');fetchBatch('music');
+onlyPhoto.checked=true;paint();fetchFeatured('gravure');fetchBatch('gravure');
 })();
