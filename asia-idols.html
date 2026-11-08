@@ -1,0 +1,59 @@
+<!doctype html><html lang="it"><head>
+<meta charset="utf-8"><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#16182b">
+<title>Asia Idols · Corea, Cina, Thailandia, Vietnam, India e Asia — Yume</title>
+<meta name="description" content="Idols Asia di Yume: artiste coreane, cinesi, vietnamite, thailandesi, indiane e di tutta l'Asia con fonti, biografie, date e profili verificati.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css?v=20261108-menu-fix1">
+<link rel="stylesheet" href="asia-idols.css?v=20261108-asia1">
+<script defer src="asia-idols-data.js?v=20261108-asia1"></script>
+<script defer src="asia-idols.js?v=20261108-asia1"></script>
+<script defer src="yume-global-nav.js?v=20261108-sport-link2"></script>
+</head><body class="asia-idols-page">
+<a class="skip" href="#asia-catalogue">Vai alle idols asiatiche</a>
+<header>
+ <a class="brand" href="index.html" aria-label="Yume Home"><span class="mark">夢</span><span>yume<span class="brand-dot">.</span><small>ANIME · MANGA · JAPAN</small></span></a>
+ <nav aria-label="Menu principale"><a href="index.html">Home</a><a href="idols.html">Idols</a><a class="active" href="asia-idols.html">Asia Idols</a></nav>
+</header>
+<main class="asia-main">
+<section class="asia-hero" aria-labelledby="asia-heading">
+ <div class="asia-hero-text"><span class="asia-kicker">亞洲偶像 · 아시아 아이돌 · ASIA IDOLS</span>
+ <h1 id="asia-heading"><span>Asia</span> Idols <span class="asia-sakura" aria-hidden="true">✿</span></h1>
+ <p>Un viaggio tra le voci e i volti dell'Asia: K-Pop coreano, C-Pop cinese, T-Pop thailandese, V-Pop vietnamita, idol indonesiane, artiste indiane, P-Pop filippino e molte altre scene.</p>
+ <div class="asia-hero-links"><a href="#asia-countries" class="asia-cta">Esplora i paesi ↓</a><a href="idols.html" class="asia-cta secondary">Torna a Idols ↗</a></div>
+ <div class="asia-hero-note">✧ Biografie con fonti · Nomi d'arte · Social documentati · Ritratti verificati</div>
+ </div>
+ <div class="asia-hero-art" aria-hidden="true"><span>韓</span><span>泰</span><span>越</span><span>印</span><span>華</span><span>夢</span></div>
+</section>
+<div class="asia-stats" role="group" aria-label="Statistica dell'archivio internazionale">
+ <div><strong id="asia-total">—</strong><span>Nominativi distinti</span></div>
+ <div><strong id="asia-countries-count">—</strong><span>Paesi e scene</span></div>
+ <div><strong id="asia-sources-count">—</strong><span>Fonti documentate</span></div>
+ <div><strong id="asia-groups-count">—</strong><span>Gruppi e raccolte</span></div>
+</div>
+<section id="asia-countries" class="asia-section" aria-labelledby="country-title">
+ <div class="asia-section-head"><span class="asia-kicker">國家 · 나라 · PAESI</span><h2 id="country-title">Scegli il tuo mondo.</h2>
+ <p>Ogni nazione dispone del proprio catalogo. Il filtro indica il paese della scena o del gruppo, non necessariamente la cittadinanza dell'artista.</p></div>
+ <div id="asia-country-grid" class="asia-country-grid" role="group" aria-label="Paesi disponibili"></div>
+</section>
+<section id="asia-catalogue" class="asia-directory" aria-labelledby="asia-directory-title">
+ <div class="asia-section-head"><span class="asia-kicker">人物 · 인물 · ARTISTE</span><h2 id="asia-directory-title">Le artiste, una a una.</h2>
+ <p>Ricerca nomi latini, grafie originali e gruppi. Per le fotografie utilizziamo soltanto media Wikimedia associati a un'identità confermata. Le pagine ufficiali delle agenzie restano sempre raggiungibili dalle schede.</p></div>
+ <div class="asia-toolbar">
+  <label>Cerca nome o gruppo<input id="asia-search" type="search" placeholder="TWICE, SNH48, Aiah, 杨冰怡, Freya…" autocomplete="off"></label>
+  <label>Paese<select id="asia-country-select"><option value="all">Tutti i paesi</option></select></label>
+  <label>Gruppo<select id="asia-group-select"><option value="all">Tutti i gruppi</option></select></label>
+  <label class="asia-check"><input id="asia-photos-only" type="checkbox"> Solo foto caricate</label>
+ </div>
+ <div class="asia-directory-top"><p role="status" aria-live="polite" id="asia-status">Caricamento dell'archivio…</p><div class="asia-directory-actions">
+ <button type="button" id="asia-verify-current">Trova foto e biografie</button>
+ <button type="button" id="asia-scan-country">Cerca foto per tutto il paese</button></div></div>
+ <div id="asia-cards" class="asia-cards" aria-live="polite"></div>
+ <div class="asia-more-row"><button type="button" id="asia-more">Mostra altre artiste ↓</button></div>
+ <p class="asia-disclaimer"><strong>Nota editoriale:</strong> le formazioni e le apparizioni sono legate all'anno della fonte; non tutte rappresentano un'attuale appartenenza a un gruppo. Alcune idol sono minorenni: sono riportate soltanto informazioni artistiche o anagrafiche rese pubbliche dalle fonti, senza dettagli privati. I profili e gli account social vengono attribuiti solo dopo un controllo dell'identità. Le immagini di proprietà delle agenzie non sono ripubblicate automaticamente: usa «Foto ufficiali» per aprirle alla fonte.</p>
+</section>
+<section class="asia-next"><div><span class="asia-kicker">もっと見る · ALTRI MONDI</span><h2>Dal Giappone al resto dell'Asia.</h2><p>Yume conserva i cataloghi giapponesi e le Sport Idols come sezioni autonome, con navigazione comune.</p></div><div><a class="asia-cta secondary" href="idols.html">Idols del Giappone ↗</a><a class="asia-cta secondary" href="sport-idols.html">Sport Idols ↗</a></div></section>
+</main>
+<dialog id="asia-profile" class="asia-modal" aria-labelledby="asia-profile-name"><button type="button" id="asia-profile-close" class="asia-modal-close" aria-label="Chiudi la scheda">✕</button><div id="asia-profile-body"></div></dialog>
+<footer><a class="footer-brand" href="index.html">yume<span class="brand-dot">.</span></a><p>亞洲偶像 · Asia Idols · un universo di talenti.</p><nav class="legal-links" aria-label="Informazioni"><a href="privacy.html">Privacy</a><a href="idols.html">Idols</a></nav></footer>
+</body></html>
