@@ -30,7 +30,7 @@ const save=(key,obj)=>{try{localStorage.setItem(key,JSON.stringify(obj));return 
 const date=x=>{if(!x)return 'Data non indicata';const d=new Date(x);return Number.isNaN(d.getTime())?String(x):d.toLocaleDateString('it-IT',{year:'numeric',month:'long',day:'numeric'})};
 let promise=null;const catalog=()=>{if(!promise)promise=fetch('library.json').then(r=>{if(!r.ok)throw Error('Catalogo non disponibile');return r.json()}).then(j=>(j.items||[]).filter(x=>!x.adult));return promise};
 const fetchJSON=url=>fetch(url).then(r=>{if(!r.ok)throw Error(url);return r.json()});
-document.title=M.title+' — Yume 3.0';
+document.title=M.title+' — Yume';
 document.getElementById('at-title').textContent=M.title;
 document.getElementById('at-subtitle').textContent=M.subtitle;
 document.getElementById('at-intro').textContent=M.intro;

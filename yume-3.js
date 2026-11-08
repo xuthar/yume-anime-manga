@@ -1,4 +1,4 @@
-/* Yume 3.0: viste di consultazione; nessuna scrittura ai dati personali. */
+/* Yume: viste di consultazione; nessuna scrittura ai dati personali. */
 (function(){'use strict';
 var mode=document.body.dataset.y3,container=document.getElementById('y3-content'),status=document.getElementById('y3-status'),storage='yume-pilgrimage-favorites-v1';
 function make(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=String(text);return n}
