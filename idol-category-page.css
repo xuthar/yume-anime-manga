@@ -1,0 +1,24 @@
+/* Yume Idols category page: one catalogue per URL, no inline portal or iframe. */
+body.idol-catalog-page{background:linear-gradient(155deg,#181b34f5,#151a2fec),url('assets/yume3-kyoto-panorama.svg') center/cover fixed;color:#faf4fb}
+.idol-catalog-page main{width:min(1370px,calc(100% - 36px));padding:0 0 60px;margin:auto}
+.catalog-breadcrumb{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font:750 12px/1.5 system-ui,sans-serif;color:#d9e5ec;padding:27px 0 17px}
+.catalog-breadcrumb a{color:#e9c3df;text-decoration:none}.catalog-breadcrumb a:hover{text-decoration:underline}
+.catalog-hero{min-height:240px;position:relative;isolation:isolate;display:grid;align-items:center;grid-template-columns:1fr auto;gap:16px;overflow:hidden;border:1px solid #e9bddb70;border-radius:22px;padding:clamp(25px,4vw,52px);background:radial-gradient(ellipse at 80% 9%,#ae84a75e,transparent 50%),linear-gradient(112deg,#332844df,#1a3345dd),url('assets/yume3-kyoto-panorama.svg') center/cover;box-shadow:0 18px 55px #06091877}
+.catalog-hero:after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(90deg,#1a203cb5,transparent 85%)}
+.catalog-hero>*{position:relative}
+.catalog-eyebrow{display:block;letter-spacing:.18em;text-transform:uppercase;color:#f0c4e5;font:850 11px/1.4 system-ui,sans-serif}
+.catalog-hero h1{color:#fff5fc;font:830 clamp(36px,5vw,66px)/1.06 Outfit,system-ui,sans-serif;letter-spacing:-.04em;margin:12px 0}
+.catalog-hero p{max-width:720px;font-size:14px;line-height:1.75;color:#e5e1eb}
+.catalog-symbol{font:800 clamp(85px,15vw,165px)/1 'Yu Mincho',serif;color:#eec7ebbb;filter:drop-shadow(0 9px 24px #101121a1)}
+.catalog-selection-note{font-size:12px;color:#d0cce0;margin:18px 3px 28px}
+.catalog-age-notice{padding:15px 18px;border:1px solid #e6b4ce88;border-radius:14px;background:#2b253f;color:#fae0ed;font-size:13px;line-height:1.7}
+.idol-catalog-page #idols-directory,.idol-catalog-page #idols-discover,.idol-catalog-page #jpop-wiki-rosters{margin:24px 0 34px}
+.idol-catalog-page .idol-categories,.idol-catalog-page .discovery-categories{display:none!important}
+.idol-catalog-page #idols-directory[hidden],.idol-catalog-page #idols-discover[hidden],.idol-catalog-page #jpop-wiki-rosters[hidden],.idol-catalog-page #gravure-sources[hidden]{display:none!important}
+.idol-catalog-page .discovery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.idol-catalog-page .catalog-other{margin-top:35px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:21px;border-radius:14px;background:#22233d;border:1px solid #d8b6d448}
+.catalog-other a{color:#f4e2f1;text-decoration:none;background:#eab8dc17;border-radius:9px;border:1px solid #e3bade60;padding:10px 13px;font:750 12px system-ui,sans-serif}
+body.idol-catalog-page[data-adult-section=true] .catalog-hero{background:linear-gradient(120deg,#251c31d9,#2f2c43e1),url('assets/yume-cosmos-sky.svg') center/cover}
+body.idol-catalog-page[data-adult-section=true] #discovery-list.is-age-pending{display:none!important}
+@media(max-width:820px){.catalog-hero{grid-template-columns:1fr;padding:25px}.catalog-symbol{display:none}.idol-catalog-page .discovery-grid{grid-template-columns:1fr}}
+@media(max-width:540px){.idol-catalog-page main{width:calc(100% - 22px)}.catalog-hero{min-height:0;border-radius:15px}.catalog-hero h1{font-size:34px}}
