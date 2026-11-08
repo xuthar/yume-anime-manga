@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-08T10:42:11.365Z",
   "stats": {
-    "total": 1372,
+    "total": 1461,
     "sport": 299,
-    "asia": 615,
+    "asia": 691,
     "japan": 471
   },
   "coverage": {
@@ -12,9 +12,9 @@
       "total": 299
     },
     "asia": {
-      "photos": 70,
-      "total": 615,
-      "notes": "Conteggio delle schede con fotografia Commons attribuita e indice locale; non equivale a test di caricamento effettivo su ogni browser."
+      "photos": 78,
+      "total": 691,
+      "notes": "File con licenza e identità Commons documentate, non garanzia di caricamento in ogni browser."
     },
     "japan": {
       "photos": 12,
@@ -27,6 +27,6 @@
     "apiRequests": 60,
     "failedRequests": 186
   },
-  "addedCuratedAsiaPortraits": 48,
-  "notes": "70 profili Asia con una foto associata nell'indice statico; la visualizzazione in un browser non è garantita per ogni URL. Gli altri profili usano ricerca prudente da Wikimedia Commons o link alla fonte ufficiale."
+  "addedCuratedAsiaPortraits": 56,
+  "notes": "78 fotografie Asia indicizzate, di cui 8 nuovi profili India/Filippine; ulteriori foto possono essere recuperate solo con verifica della persona e della licenza."
 }
