@@ -30,6 +30,20 @@
   fallback.sport[key(name)]={name,qid,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+uri+'?width=480',
    source:'https://commons.wikimedia.org/wiki/File:'+uri,verified:true,alternates:[]};
  }
+ const asianPortraits=[
+  ['kr','Nayeon','Q22804243','Nayeon.jpg'],
+  ['kr','Sana',null,'Sana Minatozaki.jpg'],
+  ['kr','Jihyo',null,'20260624 Jihyo 04.jpg'],
+  ['kr','Jennie',null,'20260526 Jennie Kim 03.jpg'],
+  ['kr','Jisoo',null,'Kim Jisoo 2025 01.jpg'],
+  ['kr','Wonyoung',null,'033126 Jang Won-young for Rolarola photo call (1).jpg']
+ ];
+ fallback.asia={};
+ for(const [country,name,qid,file] of asianPortraits){
+  const uri=encodeURIComponent(file.replace(/ /g,'_'));
+  fallback.asia[country+':'+key(name)]={name,qid,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+uri+'?width=480',
+   source:'https://commons.wikimedia.org/wiki/File:'+uri,verified:true,alternates:[]};
+ }
  const read=(kind,name,country)=>{
   const k=kind==='asia'?country+':'+key(name):key(name);
   return data[kind]?.[k]||fallback[kind]?.[k]||null
