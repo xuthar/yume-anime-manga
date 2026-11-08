@@ -7,8 +7,8 @@ const root=$('asia-cards'),countryGrid=$('asia-country-grid'),search=$('asia-sea
  checkBtn=$('asia-verify-current'),scanBtn=$('asia-scan-country'),modal=$('asia-profile'),modalBody=$('asia-profile-body');
 if(!root||!countryGrid)return;
 const countries=Object.fromEntries(d.countries.map(c=>[c.id,c]));
-const countryQ={kr:'Q884',cn:'Q148',th:'Q869',vn:'Q881',in:'Q668',tw:'Q865',ph:'Q928',id:'Q252',my:'Q833',sg:'Q334',hk:'Q8646',np:'Q837',jp:'Q17'};
-const language={kr:'ko',cn:'zh',th:'th',vn:'vi',in:'hi',tw:'zh',ph:'en',id:'id',my:'ms',sg:'en',hk:'zh',np:'ne'};
+const countryQ={kr:'Q884',cn:'Q148',th:'Q869',vn:'Q881',in:'Q668',tw:'Q865',ph:'Q928',id:'Q252',my:'Q833',sg:'Q334',hk:'Q8646',np:'Q837',bd:'Q902',pk:'Q843',lk:'Q854',kh:'Q424',mm:'Q836',mn:'Q711',kz:'Q232',uz:'Q265',jp:'Q17'};
+const language={kr:'ko',cn:'zh',th:'th',vn:'vi',in:'hi',tw:'zh',ph:'en',id:'id',my:'ms',sg:'en',hk:'zh',np:'ne',bd:'bn',pk:'ur',lk:'si',kh:'km',mm:'my',mn:'mn',kz:'kk',uz:'uz'};
 const sources=d.sources;
 const persons=d.people;
 const seededEntities={'cn:杨冰怡':'Q47464482'};
