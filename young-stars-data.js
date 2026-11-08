@@ -40,7 +40,7 @@
  }
  for(const p of asia.people){
   if(!p.birth&&!p.birthYear)continue;
-  if(p.category!=='music'&&p.category!=='actors'&&p.category!=='creators')continue;
+  if(!['music','actors','creators','fashion'].includes(p.category))continue;
   if(p.category==='vtuber'||(p.groups||[]).some(g=>/jav|adult|gravure/i.test(g)))continue;
   const src=(p.verifiedBirthSource||asia.sources[p.sourceIds?.[0]]?.url||'');
   add({name:p.name,alternate:p.alternate,scene:p.country,collection:'Asia Idols',
