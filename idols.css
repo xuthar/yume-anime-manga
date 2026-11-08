@@ -118,3 +118,10 @@
 @media(max-width:1160px){.discovery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:650px){.idols-discover{margin:40px 0 25px;padding:18px 14px;border-radius:16px}.discovery-grid{grid-template-columns:1fr}.discovery-categories{gap:6px}.discovery-categories button{min-width:0;font-size:11px;min-height:38px;padding:7px 9px}.discovery-card{min-height:132px}.discovery-portrait{width:93px;min-width:93px;min-height:132px}}
 @media(prefers-reduced-motion:reduce){.discovery-card{transition:none}}
+
+/* Entry to the sport idols chapter */
+.idol-sport-teaser{display:grid;grid-template-columns:minmax(0,1fr) 190px;gap:20px;align-items:center;max-width:1280px;margin:16px auto 56px;padding:27px clamp(24px,3vw,40px);border:1px solid #b4d9d58c;border-radius:19px;background:linear-gradient(110deg,#192c3eda,#392641d9),url('assets/yume3-kyoto-panorama.svg') center/cover}
+.idol-sport-teaser h2{font:750 clamp(25px,3vw,36px)/1.15 Outfit,sans-serif;color:white;letter-spacing:-.04em;margin:13px 0}
+.idol-sport-teaser p{color:#e2d8e7;font-size:14px;line-height:1.7;max-width:780px}
+.idol-sport-teaser-symbol{text-align:center;font:800 112px/1 'Yu Mincho','Noto Serif CJK JP',serif;color:#d3f1edaa;text-shadow:0 8px 35px #181c36}
+@media(max-width:650px){.idol-sport-teaser{grid-template-columns:1fr;gap:0;margin:8px 0 38px;padding:22px}.idol-sport-teaser-symbol{display:none}}
