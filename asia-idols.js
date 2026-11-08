@@ -143,7 +143,7 @@ function shown(includePhoto=false){
 }
 function image(p,box){
  const urls=p.photoUrls||[];if(!urls.length||p.broken)return;
- let i=0;const img=document.createElement('img');img.alt='Ritratto pubblico di '+p.name;img.decoding='async';img.loading='lazy';
+ let i=0;const img=document.createElement('img');img.alt='Ritratto pubblico di '+p.name;img.decoding='async';img.loading='eager';img.referrerPolicy='no-referrer-when-downgrade';
  img.onload=()=>{const isNew=p.photoValid!==true;p.photoValid=true;p.broken=false;img.dataset.loaded='true';p.photo=urls[i];store(p);if(isNew&&onlyPhoto.checked)render()};
  img.onerror=()=>{i++;if(i<urls.length){img.src=urls[i];return}p.broken=true;p.photoValid=false;img.remove();store(p);if(onlyPhoto.checked)render()};
  img.src=urls[i];box.append(img)
@@ -266,7 +266,8 @@ function applyPhotoIndexAsia(){
   if(p.category==='vtuber')continue;
   const item=source.get('asia',p.name,p.country);
   if(!item?.verified||!item.photo)continue;
-  p.photoUrls=[...new Set([item.photo,...(item.alternates||[]),...(p.photoUrls||[])].filter(u=>typeof u==='string'&&u.startsWith('https://')))].slice(0,8);
+  const original=item.file?'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(item.file.replace(/^File:/i,'').replace(/ /g,'_'))+'?width=500':null;
+  p.photoUrls=[...new Set([item.photo,...(item.alternates||[]),original,...(p.photoUrls||[])].filter(u=>typeof u==='string'&&u.startsWith('https://')))].slice(0,8);
   p.photo=p.photoUrls[0];p.photoFile=item.file||p.photoFile;p.photoSource=item.source||null;
   if(item.qid&&!p.entityId)p.entityId=item.qid;
   p.broken=false;added++;

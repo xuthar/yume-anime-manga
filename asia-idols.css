@@ -34,8 +34,10 @@ body.asia-idols-page{--asia-rose:#edbddb;--asia-mint:#addbd5;--asia-line:#efc3e2
 .asia-person{min-width:0;display:flex;flex-direction:column;border:1px solid #e2b5d749;border-radius:16px;overflow:hidden;background:#1c2337d9;box-shadow:0 10px 30px #0709194d}
 .asia-person-photo{height:190px;position:relative;display:grid;place-items:center;overflow:hidden;background:radial-gradient(circle at 72% 30%,#aa77b55b,transparent 55%),linear-gradient(120deg,#36304e,#203c50)}
 .asia-person-photo .asia-photo-mark{font:700 56px/1 'Yu Mincho',serif;color:#f3d3e7b3}
-.asia-person-photo img{position:absolute;inset:0;display:none;width:100%;height:100%;object-fit:cover;object-position:50% 15%}
-.asia-person-photo img[data-loaded=true]{display:block}
+/* Keep hidden-loading portraits in layout so browser starts downloading lazy images. */
+.asia-person-photo img{position:absolute;inset:0;display:block;opacity:0;z-index:1;width:100%;height:100%;object-fit:cover;object-position:50% 15%;transition:opacity .2s ease}
+.asia-person-photo img[data-loaded=true]{opacity:1}
+.asia-person-photo .asia-group-tag{z-index:3}
 .asia-person-photo .asia-group-tag{position:absolute;top:9px;right:9px;padding:5px 8px;border:1px solid #f7d9ed6f;border-radius:8px;background:#15192de0;color:white;font-size:10px;font-weight:800;max-width:80%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .asia-person-text{display:flex;flex-direction:column;gap:5px;flex:1;padding:14px}
 .asia-person-country{font-size:11px;font-weight:800;color:#a9e3da}.asia-person h3{margin:3px 0 0;font:750 17px/1.25 Outfit,sans-serif;overflow-wrap:anywhere;color:#fff3fc}

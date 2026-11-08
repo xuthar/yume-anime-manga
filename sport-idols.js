@@ -171,7 +171,7 @@ function makePhoto(p,block,preview){
  const options=p.photoUrls?.length?p.photoUrls:(p.photo?[p.photo]:[]);
  if(!options.length||p.imageFailed)return;
  const image=document.createElement('img');image.alt='Fotografia attribuita a '+(p.latin||p.name);
- image.loading=preview?'eager':'lazy';image.decoding='async';
+ image.loading='eager';image.decoding='async';image.referrerPolicy='no-referrer-when-downgrade';
  let index=0;
  image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;p.photo=options[index];image.dataset.loaded='true';remember(p);if(first&&photoOnly.checked&&!preview)render()};
  image.onerror=()=>{index++;if(index<options.length){image.src=options[index];return}p.photoValid=false;p.imageFailed=true;remember(p);image.remove();if(photoOnly.checked)render()};
@@ -273,7 +273,9 @@ function applyPhotoIndexSport(){
  for(const p of people){
   const item=source.get('sport',p.name);
   if(!item?.verified||!item.photo)continue;
-  const urls=[item.photo,...(item.alternates||[]),...(p.photoUrls||[])].filter(x=>typeof x==='string'&&x.startsWith('https://'));
+  // If an API thumbnail is stale or blocked, try Commons' file redirect for the same confirmed athlete.
+  const original=item.file?'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(item.file.replace(/^File:/i,'').replace(/ /g,'_'))+'?width=500':null;
+  const urls=[item.photo,...(item.alternates||[]),original,...(p.photoUrls||[])].filter(x=>typeof x==='string'&&x.startsWith('https://'));
   p.photoUrls=[...new Set(urls)].slice(0,7);
   p.photo=p.photoUrls[0];p.photoFile=item.file||p.photoFile;
   p.photoSource=item.source||null;
