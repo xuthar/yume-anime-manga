@@ -2,21 +2,24 @@
 (()=>{'use strict';
 const $=id=>document.getElementById(id);
 const categories={
- music:{name:'Idol musicali',jobs:['Q226008'],description:'Idol musicali del Giappone: scene locali, membri di gruppi, nuove e vecchie generazioni.',adult:false},
- gravure:{name:'Gravure models',jobs:['Q1328668','Q28692662'],description:'Modelli e modelle di gravure, fotografia editoriale e attività correlate.',adult:false},
- creators:{name:'Creator e influencer',jobs:['Q17125263','Q2906862','Q2045208'],description:'Creator indipendenti, influencer, YouTuber e personalità del web giapponese.',adult:false},
- cosplay:{name:'Cosplay e creator',jobs:['Q18810049'],description:'Cosplayer e creator giapponesi, compresi i nomi meno noti.',adult:false},
- jav:{name:'Performer JAV',jobs:['Q1079215'],description:'Archivio professionale JAV (18+): biografie pubbliche e immagini non esplicite.',adult:true},
- adult:{name:'Adult performers',jobs:['Q488111','Q3286043'],description:'Interpreti professionisti e modelle del settore adult (18+). Solo informazioni verificabili.',adult:true}
+ music:{name:'Idol musicali',jobs:['Q226008'],featured:['Q41693136','Q1207378','Q74275','Q118696640','Q65230694','Q1195767','Q11629738'],description:'Idol musicali, cantanti e membri di gruppi giapponesi, anche indipendenti.',adult:false},
+ gravure:{name:'Gravure e photomodels',jobs:['Q1328668','Q28692662'],featured:['Q123160205','Q65095777','Q111113137','Q123405211','Q135615344','Q55527939','Q8951402','Q110910871'],description:'Gravure, photomodels e fotografiche editoriali giapponesi, anche meno note.',adult:false},
+ fashion:{name:'Fashion models',jobs:['Q3357567','Q4610556'],featured:['Q27150788','Q74275','Q1052497','Q11629738','Q21984356'],description:'Modelle, modelli e talent del fashion giapponese: passerelle, riviste e campagne.',adult:false},
+ actors:{name:'Attrici e talent',jobs:['Q33999'],featured:['Q169400','Q11629738','Q74275','Q21984356'],description:'Attrici, interpreti e talent dello spettacolo giapponese.',adult:false},
+ voice:{name:'Seiyū e doppiatrici',jobs:['Q622807'],featured:['Q106411305','Q8951402'],description:'Seiyū, interpreti vocali e creator legati al mondo degli anime.',adult:false},
+ creators:{name:'Creator e influencer',jobs:['Q17125263','Q2906862','Q2045208'],featured:['Q81783459','Q11222605','Q74275','Q169400'],description:'YouTuber, creator indipendenti, influencer e personalità del web giapponese.',adult:false},
+ cosplay:{name:'Cosplay e creator',jobs:['Q18810049'],featured:['Q8951402','Q106411305','Q110910871','Q111113564','Q55527939'],description:'Cosplayer, creator e protagonisti di eventi giapponesi, anche nomi meno conosciuti.',adult:false},
+ jav:{name:'Performer JAV',jobs:['Q1079215'],featured:['Q8965460'],description:'Carriere e informazioni pubbliche del settore JAV (18+), ritratti non espliciti.',adult:true},
+ adult:{name:'Adult performers',jobs:['Q488111','Q3286043'],featured:['Q8965460'],description:'Professionisti del settore adult (18+), informazioni verificabili e ritratti non espliciti.',adult:true}
 };
 const jobs={
  Q226008:'Idol musicale',Q1328668:'Gravure idol',Q28692662:'Modella/o gravure',
  Q17125263:'YouTuber',Q2906862:'Influencer',Q2045208:'Personalità del web',
  Q18810049:'Cosplayer',Q1079215:'Performer JAV',Q488111:'Performer adult',Q3286043:'Modella/o fotografico erotico',
  Q177220:'Cantante',Q33999:'Attore / attrice',Q4610556:'Modella/o',
- Q483501:'Artista',Q49757:'Poeta'
+ Q3357567:'Modella/o fashion',Q622807:'Seiyū',Q483501:'Artista',Q49757:'Poeta'
 };
-const state=Object.fromEntries(Object.keys(categories).map(k=>[k,{items:[],byId:new Set(),offset:0,busy:false,done:false,error:'',loaded:false}]));
+const state=Object.fromEntries(Object.keys(categories).map(k=>[k,{items:[],byId:new Set(),offset:0,busy:false,done:false,error:'',loaded:false,featuredLoaded:false,featuredBusy:false}]));
 const grid=$('idols-grid'),query=$('idol-search'),onlyPhoto=$('idol-photo-only'),sort=$('idol-sort'),status=$('idol-status'),more=$('idol-more'),retry=$('idol-retry'),find=$('idol-online-search'),profile=$('idol-profile'),profileBody=$('idol-profile-body'),ageDialog=$('idol-age-dialog');
 let active='music',pending=null,adultOK=false,visibleId=0;
 try{adultOK=sessionStorage.getItem('yume-idols-adult-18')==='yes'}catch{}
@@ -63,6 +66,8 @@ function measure(v,kind){
 function pageSitelink(e){for(const s of ['itwiki','enwiki','jawiki'])if(e?.sitelinks?.[s]?.title)return{site:s.slice(0,2),title:e.sitelinks[s].title};return null}
 function convert(e,cat){
  const birth=birthInfo(read(e,'P569')),sites=pageSitelink(e),picture=read(e,'P18');
+ const photoFiles=(e.claims?.P18||[]).map(x=>x.mainsnak?.datavalue?.value).filter(x=>typeof x==='string'&&/\.(jpe?g|png|webp)$/i.test(x)).slice(0,4);
+ const siteLinks=['itwiki','enwiki','jawiki'].filter(k=>e.sitelinks?.[k]?.title).map(k=>({site:k.slice(0,2),title:e.sitelinks[k].title}));
  const jobCodes=(e.claims?.P106||[]).map(x=>ref(x.mainsnak?.datavalue?.value)).filter(Boolean);
  const roles=jobCodes.map(x=>jobs[x]).filter(Boolean),title=label(e);
  const links=[
@@ -70,7 +75,7 @@ function convert(e,cat){
   ['YouTube',socialUrl('youtube',read(e,'P2397'))],['TikTok',socialUrl('tiktok',read(e,'P7085'))],
   ['Facebook',socialUrl('facebook',read(e,'P2013'))],['Sito',normalURL(read(e,'P856'))]
  ].filter(x=>x[1]);
- return{id:e.id,name:title,description:description(e)||roles.join(' · ')||categories[cat].description,roles:roles.length?Array.from(new Set(roles)).slice(0,3).join(' · '):categories[cat].name,birth:birth.text,age:birth.age,birthYear:birth.year,height:birth.age!=null&&birth.age<18?null:measure(read(e,'P2048'),'height'),weight:birth.age!=null&&birth.age<18?null:measure(read(e,'P2067'),'weight'),from:birthInfo(read(e,'P2031')).year,to:birthInfo(read(e,'P2032')).year,wiki:sites?wikiUrl(sites.site,sites.title):null,site:sites,photoFile:typeof picture==='string'?picture:null,photos:[],photoIndex:0,noPhoto:false,links,source:'https://www.wikidata.org/wiki/'+e.id,group:ref(read(e,'P463')),work:ref(read(e,'P800')),extras:[]}
+ return{id:e.id,name:title,description:description(e)||roles.join(' · ')||categories[cat].description,roles:roles.length?Array.from(new Set(roles)).slice(0,3).join(' · '):categories[cat].name,birth:birth.text,age:birth.age,birthYear:birth.year,height:birth.age!=null&&birth.age<18?null:measure(read(e,'P2048'),'height'),weight:birth.age!=null&&birth.age<18?null:measure(read(e,'P2067'),'weight'),from:birthInfo(read(e,'P2031')).year,to:birthInfo(read(e,'P2032')).year,wiki:sites?wikiUrl(sites.site,sites.title):null,site:sites,siteLinks,photoFile:typeof picture==='string'?picture:null,photoFiles,commonsCategory:typeof read(e,'P373')==='string'?read(e,'P373'):null,photos:[],verifiedPhoto:null,noPhoto:false,links,source:'https://www.wikidata.org/wiki/'+e.id,group:ref(read(e,'P463')),work:ref(read(e,'P800')),extras:[]}
 }
 async function readJSON(url,format='application/json'){const r=await fetch(url,{headers:{Accept:format}});if(!r.ok)throw Error('HTTP '+r.status);return r.json()}
 async function entities(ids){
@@ -79,28 +84,56 @@ async function entities(ids){
  const d=await readJSON(url);Object.assign(all,d.entities||{});
  }return all
 }
+/* Images come only from the person's P18, their own Wikipedia pages, or their
+   Wikidata-linked Commons category. No name-based guessing or image search. */
 async function attachPhotos(people){
- const files=people.filter(p=>p.photoFile),wiki=people.filter(p=>p.site);
- if(files.length)try{
- for(let i=0;i<files.length;i+=30){
-  const group=files.slice(i,i+30),url='https://commons.wikimedia.org/w/api.php?action=query&origin=*&format=json&prop=imageinfo&iiprop=url&iiurlwidth=450&titles='+encodeURIComponent(group.map(p=>'File:'+p.photoFile.replace(/^File:/i,'')).join('|'));
-  const data=await readJSON(url),pages=Object.values(data.query?.pages||{});
-  for(const p of group){const page=pages.find(x=>norm(x.title?.replace(/^File:/i,''))===norm(p.photoFile.replace(/^File:/i,'')));const info=page?.imageinfo?.[0];if(info?.thumburl)p.photos.push(info.thumburl);if(info?.url)p.photos.push(info.url)}
- }
- }catch{}
- // Alternate, reliably generated Wikimedia file URL; do not use unknown third-party portraits.
- for(const p of files)p.photos.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile.replace(/^File:/i,''))+'?width=450');
- // Free Wikipedia page images help when P18 is missing or not reachable.
- for(const site of ['it','en','ja']){
-  const list=wiki.filter(p=>p.site.site===site);for(let i=0;i<list.length;i+=35){
-  const group=list.slice(i,i+35);
+ const add=(p,url)=>{if(typeof url==='string'&&/^https:\/\//.test(url)&&!p.photos.includes(url))p.photos.push(url)};
+ const filePeople=people.filter(p=>p.photoFiles.length),wikiPeople=people.filter(p=>p.siteLinks.length);
+ for(let i=0;i<filePeople.length;i+=25){
+  const group=filePeople.slice(i,i+25);
+  const entries=group.flatMap(p=>p.photoFiles.map(f=>({p,f})));
+  if(!entries.length)continue;
   try{
-   const url='https://'+site+'.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1&prop=pageimages&piprop=thumbnail%7Cname&pilicense=free&pithumbsize=450&titles='+encodeURIComponent(group.map(p=>p.site.title).join('|'));
-   const data=await readJSON(url),pages=Object.values(data.query?.pages||{});
-   for(const p of group){const article=pages.find(x=>norm(x.title)===norm(p.site.title));if(article?.thumbnail?.source)p.photos.unshift(article.thumbnail.source)}
+   const url='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&prop=imageinfo&iiprop=url&iiurlwidth=450&titles='+encodeURIComponent(entries.map(x=>'File:'+x.f.replace(/^File:/i,'')).join('|'));
+   const data=await readJSON(url);
+   const pages=data.query?.pages||[];
+   for(const {p,f} of entries){
+    const page=pages.find(x=>norm(x.title?.replace(/^File:/i,'').replace(/_/g,' '))===norm(f.replace(/^File:/i,'').replace(/_/g,' ')));
+    const info=page?.imageinfo?.[0];if(info?.thumburl)add(p,info.thumburl);if(info?.url)add(p,info.url)
+   }
   }catch{}
- }}
- for(const p of people)p.photos=Array.from(new Set(p.photos.filter(x=>/^https:\/\//.test(x)))).slice(0,4)
+ }
+ // Wikipedia's own article thumbnails can work even when the Wikidata photograph is missing.
+ for(const site of ['it','en','ja']){
+  const list=wikiPeople.filter(p=>p.siteLinks.some(x=>x.site===site));
+  for(let i=0;i<list.length;i+=30){
+   const group=list.slice(i,i+30);
+   try{
+    const url='https://'+site+'.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&redirects=1&prop=pageimages&piprop=thumbnail&pilicense=free&pithumbsize=450&titles='+encodeURIComponent(group.map(p=>p.siteLinks.find(x=>x.site===site).title).join('|'));
+    const data=await readJSON(url),pages=data.query?.pages||[];
+    for(const p of group){
+     const title=p.siteLinks.find(x=>x.site===site).title;
+     const article=pages.find(x=>norm(x.title?.replace(/_/g,' '))===norm(title.replace(/_/g,' ')));
+     if(article?.thumbnail?.source)add(p,article.thumbnail.source)
+    }
+   }catch{}
+  }
+ }
+ // As an extra source, check a Commons category explicitly bound to this person in P373.
+ const targets=people.filter(p=>!p.photos.length&&p.commonsCategory).slice(0,25);
+ for(let i=0;i<targets.length;i+=5){
+  await Promise.allSettled(targets.slice(i,i+5).map(async p=>{
+   const url='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&generator=categorymembers&gcmtype=file&gcmlimit=8&gcmtitle='+encodeURIComponent('Category:'+p.commonsCategory)+'&prop=imageinfo&iiprop=url&iiurlwidth=450';
+   const data=await readJSON(url);
+   for(const file of data.query?.pages||[]){
+    if(!/\.(jpe?g|png|webp)$/i.test(file.title||''))continue;
+    const info=file.imageinfo?.[0];if(info?.thumburl){add(p,info.thumburl);break}if(info?.url){add(p,info.url);break}
+   }
+  }))
+ }
+ // Fallback to the precise file stored in Wikidata, without replacing the person's identity.
+ for(const p of people)for(const name of p.photoFiles.slice(0,3))add(p,'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(name.replace(/^File:/i,''))+'?width=450');
+ for(const p of people)p.photos=p.photos.slice(0,10);
 }
 async function enrich(people){
  const ids=[...new Set(people.flatMap(p=>[p.group,p.work].filter(Boolean)))].slice(0,80);
@@ -109,22 +142,42 @@ async function enrich(people){
  const q=p[field],rec=related[q];if(q&&rec)p.extras.push({title,value:label(rec),url:'https://www.wikidata.org/wiki/'+q})}
  }}catch{}
 }
-async function fetchBatch(cat){
- const s=state[cat];if(s.busy||s.done)return;s.busy=true;s.error='';paint();
- const qids=categories[cat].jobs.map(x=>'wd:'+x).join(' '),limit=60;
- const sparql='PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 . } LIMIT '+limit+' OFFSET '+s.offset;
+async function fetchFeatured(cat){
+ const s=state[cat];if(s.featuredLoaded||s.featuredBusy)return;
+ s.featuredBusy=true;
  try{
- const d=await readJSON('https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(sparql),'application/sparql-results+json');
- const ids=(d.results?.bindings||[]).map(v=>v.person?.value?.match(/Q\d+$/)?.[0]).filter(Boolean);
- if(ids.length<limit)s.done=true;
- s.offset+=ids.length;
- if(ids.length){const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5')).map(e=>convert(e,cat));
- await Promise.allSettled([attachPhotos(people),enrich(people)]);
- for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
- }
- s.loaded=true;if(ids.length===0)s.done=true;
- }catch(e){s.error='Servizio pubblico temporaneamente non disponibile ('+(e?.message||'errore di rete')+').';}
- finally{s.busy=false;paint()}
+  const records=await entities(categories[cat].featured||[]);
+  const people=(categories[cat].featured||[]).map(id=>records[id]).filter(e=>{
+   if(e?.type!=='item'||!(e.claims?.P31||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5'))return false;
+   const jobsSet=new Set(categories[cat].jobs);
+   const occupation=(e.claims?.P106||[]).some(v=>jobsSet.has(ref(v.mainsnak?.datavalue?.value)));
+   const nationality=(e.claims?.P27||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q17');
+   return occupation&&nationality
+  }).map(e=>convert(e,cat));
+  await Promise.allSettled([attachPhotos(people),enrich(people)]);
+  for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
+  s.featuredLoaded=true;
+ }catch(e){/* Keep pagination available if one endpoint is temporarily unavailable. */}
+ finally{s.featuredBusy=false;if(cat===active)paint()}
+}
+async function fetchBatch(cat){
+ const s=state[cat];if(s.busy||s.done)return;s.busy=true;s.error='';if(cat===active)paint();
+ const qids=categories[cat].jobs.map(x=>'wd:'+x).join(' '),limit=60;
+ // Photo-first search: omit image-less Wikidata items from the default gallery.
+ const sparql='PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> SELECT DISTINCT ?person WHERE { VALUES ?job { '+qids+' } ?person wdt:P106 ?job ; wdt:P27 wd:Q17 ; wdt:P31 wd:Q5 ; wdt:P18 ?photo . } ORDER BY ?person LIMIT '+limit+' OFFSET '+s.offset;
+ try{
+  const data=await readJSON('https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(sparql),'application/sparql-results+json');
+  const ids=[...new Set((data.results?.bindings||[]).map(v=>v.person?.value?.match(/Q\d+$/)?.[0]).filter(Boolean))];
+  if(ids.length<limit)s.done=true;
+  s.offset+=limit;
+  if(ids.length){
+   const records=await entities(ids),people=ids.map(x=>records[x]).filter(x=>x?.type==='item'&&x.claims?.P31?.some(v=>ref(v.mainsnak?.datavalue?.value)==='Q5')).filter(e=>cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18).map(e=>convert(e,cat));
+   await Promise.allSettled([attachPhotos(people),enrich(people)]);
+   for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
+  }
+  s.loaded=true;if(ids.length===0)s.done=true
+ }catch(e){s.error='La fonte pubblica è temporaneamente indisponibile ('+(e?.message||'errore di rete')+').';}
+ finally{s.busy=false;if(cat===active)paint()}
 }
 async function onlineSearch(){
  const term=query.value.trim();if(term.length<2)return;
@@ -139,7 +192,7 @@ async function onlineSearch(){
  const jobList=e?.claims?.P106||[];
  const relevant=jobList.some(x=>jobSet.has(ref(x.mainsnak?.datavalue?.value)));
  const japan=(e?.claims?.P27||[]).some(x=>ref(x.mainsnak?.datavalue?.value)==='Q17');
- return e?.type==='item'&&relevant&&japan
+ return e?.type==='item'&&relevant&&japan&&(active!=='jav'&&active!=='adult'||birthInfo(read(e,'P569')).age>=18)
  }).map(e=>convert(e,active));
  await Promise.allSettled([attachPhotos(people),enrich(people)]);
  for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
@@ -149,15 +202,32 @@ async function onlineSearch(){
 }
 function photoNode(p,large=false){
  const box=make('div',null,large?'idol-profile-photo':'idol-card-photo');
- function placeholder(){box.replaceChildren(make('span','桜','idol-empty-img'));box.classList.add('is-empty');if(!large)box.append(make('small','Foto non disponibile'))}
- function next(){
-  if(p.photoIndex>=p.photos.length){p.noPhoto=true;placeholder();return}
-  const src=p.photos[p.photoIndex++],img=document.createElement('img');
-  img.alt='Ritratto fotografico attribuito a '+p.name;img.loading=large?'eager':'lazy';img.referrerPolicy='no-referrer';img.decoding='async';
-  img.onerror=next;img.src=src;box.replaceChildren(img)
+ const files=p.verifiedPhoto?[p.verifiedPhoto]:p.photos;
+ function placeholder(){
+  box.replaceChildren(make('span','桜','idol-empty-img'));box.classList.add('is-empty');
+  if(!large)box.append(make('small','Ritratto non documentato'))
  }
- if(p.photos.length&&!p.noPhoto){const start=Math.min(Math.max(0,p.photoIndex-1),p.photos.length-1);p.photoIndex=start;next()}else placeholder();
+ function next(i){
+  if(i>=files.length){
+   p.noPhoto=true;placeholder();
+   if(onlyPhoto.checked&&!large){
+    const card=box.closest('.idol-card');if(card)card.remove();
+    updatePhotoCount();
+   }
+   return
+  }
+  const url=files[i],img=document.createElement('img');
+  img.alt='Ritratto di '+p.name;img.loading=large?'eager':'lazy';img.decoding='async';
+  img.onerror=()=>next(i+1);
+  img.onload=()=>{if(!p.verifiedPhoto){p.verifiedPhoto=url;p.noPhoto=false;}};
+  img.src=url;box.replaceChildren(img)
+ }
+ if(files.length&&!p.noPhoto)next(0);else placeholder();
  return box
+}
+function updatePhotoCount(){
+ const visible=grid.querySelectorAll('.idol-card').length,s=state[active];
+ if(onlyPhoto.checked&&!s.busy)status.textContent=s.items.length+' profili disponibili · '+visible+' ritratti in galleria. Carica altri per scoprire nuove persone.'
 }
 function linksNode(p,cssClass='idol-card-links'){
  const row=make('div',null,cssClass);
@@ -204,7 +274,7 @@ function paint(){
 }
 function choose(category){
  if(categories[category]?.adult&&!adultOK){pending=category;ageDialog.showModal();return}
- active=category;visibleId++;query.value='';onlyPhoto.checked=false;paint();
+ active=category;visibleId++;query.value='';paint();fetchFeatured(category);
  const s=state[category];if(!s.loaded&&!s.busy&&!s.error)fetchBatch(category)
 }
 document.querySelectorAll('[data-idol-category]').forEach(b=>b.addEventListener('click',()=>choose(b.dataset.idolCategory)));
@@ -215,10 +285,10 @@ query.addEventListener('input',paint);sort.addEventListener('change',paint);only
 more.addEventListener('click',()=>fetchBatch(active));retry.addEventListener('click',()=>fetchBatch(active));find.addEventListener('click',onlineSearch);
 if('IntersectionObserver' in window){
  const loader=new IntersectionObserver(entries=>{
-  if(!entries.some(e=>e.isIntersecting)||query.value.trim()||onlyPhoto.checked)return;
+  if(!entries.some(e=>e.isIntersecting)||query.value.trim())return;
   const s=state[active];if(!s.busy&&!s.done&&!s.error)fetchBatch(active)
  },{rootMargin:'250px'});
  loader.observe(more)
 }
-paint();fetchBatch('music');
+onlyPhoto.checked=true;paint();fetchFeatured('music');fetchBatch('music');
 })();
