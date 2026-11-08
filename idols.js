@@ -2,15 +2,15 @@
 (()=>{'use strict';
 const $=id=>document.getElementById(id);
 const categories={
- music:{name:'Idol musicali',jobs:['Q226008'],featured:['Q41693136','Q1207378','Q74275','Q118696640','Q65230694','Q1195767','Q11629738'],description:'Idol musicali, cantanti e membri di gruppi giapponesi, anche indipendenti.',adult:false},
- gravure:{name:'Gravure e photomodels',jobs:['Q1328668','Q28692662'],featured:['Q123160205','Q65095777','Q111113137','Q123405211','Q135615344','Q55527939','Q8951402','Q110910871'],description:'Gravure, photomodels e fotografiche editoriali giapponesi, anche meno note.',adult:false},
- fashion:{name:'Fashion models',jobs:['Q3357567','Q4610556'],featured:['Q27150788','Q74275','Q1052497','Q11629738','Q21984356'],description:'Modelle, modelli e talent del fashion giapponese: passerelle, riviste e campagne.',adult:false},
- actors:{name:'Attrici e talent',jobs:['Q33999'],featured:['Q169400','Q11629738','Q74275','Q21984356'],description:'Attrici, interpreti e talent dello spettacolo giapponese.',adult:false},
+ music:{name:'Idol musicali',jobs:['Q226008'],featured:['Q41693136','Q1207378','Q74275','Q118696640','Q65230694','Q1195767','Q11629738','Q65274734'],description:'Idol musicali, cantanti e membri di gruppi giapponesi, anche indipendenti.',adult:false},
+ gravure:{name:'Gravure e photomodels',jobs:['Q1328668','Q28692662'],featured:['Q123160205','Q65095777','Q111113137','Q123405211','Q135615344','Q55527939','Q8951402','Q110910871','Q111113564','Q118696640'],description:'Gravure, photomodels e fotografiche editoriali giapponesi, anche meno note.',adult:false},
+ fashion:{name:'Fashion models',jobs:['Q3357567','Q4610556'],featured:['Q27150788','Q74275','Q1052497','Q11629738','Q21984356','Q55527939','Q124482095'],description:'Modelle, modelli e talent del fashion giapponese: passerelle, riviste e campagne.',adult:false},
+ actors:{name:'Attrici e talent',jobs:['Q33999'],featured:['Q169400','Q11629738','Q74275','Q21984356','Q2705964'],description:'Attrici, interpreti e talent dello spettacolo giapponese.',adult:false},
  voice:{name:'Seiyū e doppiatrici',jobs:['Q622807'],featured:['Q106411305','Q8951402'],description:'Seiyū, interpreti vocali e creator legati al mondo degli anime.',adult:false},
- creators:{name:'Creator e influencer',jobs:['Q17125263','Q2906862','Q2045208'],featured:['Q81783459','Q11222605','Q74275','Q169400'],description:'YouTuber, creator indipendenti, influencer e personalità del web giapponese.',adult:false},
- cosplay:{name:'Cosplay e creator',jobs:['Q18810049'],featured:['Q8951402','Q106411305','Q110910871','Q111113564','Q55527939'],description:'Cosplayer, creator e protagonisti di eventi giapponesi, anche nomi meno conosciuti.',adult:false},
- jav:{name:'Performer JAV',jobs:['Q1079215'],featured:['Q8965460'],description:'Carriere e informazioni pubbliche del settore JAV (18+), ritratti non espliciti.',adult:true},
- adult:{name:'Adult performers',jobs:['Q488111','Q3286043'],featured:['Q8965460'],description:'Professionisti del settore adult (18+), informazioni verificabili e ritratti non espliciti.',adult:true}
+ creators:{name:'Creator e influencer',jobs:['Q17125263','Q2906862','Q2045208'],featured:['Q81783459','Q11222605','Q74275','Q169400','Q124482095'],description:'YouTuber, creator indipendenti, influencer e personalità del web giapponese.',adult:false},
+ cosplay:{name:'Cosplay e creator',jobs:['Q18810049'],featured:['Q8951402','Q106411305','Q110910871','Q111113564','Q55527939','Q123160205'],description:'Cosplayer, creator e protagonisti di eventi giapponesi, anche nomi meno conosciuti.',adult:false},
+ jav:{name:'Performer JAV',jobs:['Q1079215'],featured:['Q8965460','Q2705964','Q270138','Q124482095','Q108303230'],description:'Carriere e informazioni pubbliche del settore JAV (18+), ritratti non espliciti.',adult:true},
+ adult:{name:'Adult performers',jobs:['Q488111','Q3286043'],featured:['Q8965460','Q2705964','Q270138','Q124482095','Q108303230'],description:'Professionisti del settore adult (18+), informazioni verificabili e ritratti non espliciti.',adult:true}
 };
 const jobs={
  Q226008:'Idol musicale',Q1328668:'Gravure idol',Q28692662:'Modella/o gravure',
@@ -92,16 +92,18 @@ async function attachPhotos(people){
  for(let i=0;i<filePeople.length;i+=25){
   const group=filePeople.slice(i,i+25);
   const entries=group.flatMap(p=>p.photoFiles.map(f=>({p,f})));
-  if(!entries.length)continue;
-  try{
-   const url='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&prop=imageinfo&iiprop=url&iiurlwidth=450&titles='+encodeURIComponent(entries.map(x=>'File:'+x.f.replace(/^File:/i,'')).join('|'));
-   const data=await readJSON(url);
-   const pages=data.query?.pages||[];
-   for(const {p,f} of entries){
-    const page=pages.find(x=>norm(x.title?.replace(/^File:/i,'').replace(/_/g,' '))===norm(f.replace(/^File:/i,'').replace(/_/g,' ')));
-    const info=page?.imageinfo?.[0];if(info?.thumburl)add(p,info.thumburl);if(info?.url)add(p,info.url)
-   }
-  }catch{}
+  for(let j=0;j<entries.length;j+=35){
+   const sub=entries.slice(j,j+35);
+   try{
+    // Wikimedia API limits anonymous requests to at most 50 titles.
+    const url='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&prop=imageinfo&iiprop=url&iiurlwidth=450&titles='+encodeURIComponent(sub.map(x=>'File:'+x.f.replace(/^File:/i,'')).join('|'));
+    const data=await readJSON(url),pages=data.query?.pages||[];
+    for(const {p,f} of sub){
+     const page=pages.find(x=>norm(x.title?.replace(/^File:/i,'').replace(/_/g,' '))===norm(f.replace(/^File:/i,'').replace(/_/g,' ')));
+     const info=page?.imageinfo?.[0];if(info?.thumburl)add(p,info.thumburl);if(info?.url)add(p,info.url)
+    }
+   }catch{}
+  }
  }
  // Wikipedia's own article thumbnails can work even when the Wikidata photograph is missing.
  for(const site of ['it','en','ja']){
@@ -152,7 +154,7 @@ async function fetchFeatured(cat){
    const jobsSet=new Set(categories[cat].jobs);
    const occupation=(e.claims?.P106||[]).some(v=>jobsSet.has(ref(v.mainsnak?.datavalue?.value)));
    const nationality=(e.claims?.P27||[]).some(v=>ref(v.mainsnak?.datavalue?.value)==='Q17');
-   return occupation&&nationality
+   return occupation&&nationality&&(cat!=='jav'&&cat!=='adult'||birthInfo(read(e,'P569')).age>=18)
   }).map(e=>convert(e,cat));
   await Promise.allSettled([attachPhotos(people),enrich(people)]);
   for(const p of people)if(!s.byId.has(p.id)){s.byId.add(p.id);s.items.push(p)}
@@ -268,7 +270,7 @@ function paint(){
  const frag=document.createDocumentFragment();for(const p of shown)frag.append(card(p));if(!shown.length&&!s.busy)frag.append(make('p',s.error||'Nessuna scheda corrisponde ai filtri. Prova un’altra ricerca o carica altri profili.','idol-no-results'));
  grid.replaceChildren(frag);$('idol-category-copy').textContent=categories[active].description;
  status.textContent=s.busy?'Recupero delle schede e delle immagini libere…':s.error?s.error:s.items.length+' profili distinti disponibili · '+shown.length+' visibili'+(s.done?' · fine dei risultati di questa fonte':' · usa “Carica altri profili” per ampliare il catalogo');
- more.hidden=s.done||!!s.error;more.disabled=s.busy;more.textContent=s.busy?'Caricamento in corso…':'Carica altri 60 profili ✦';retry.hidden=!s.error;retry.disabled=s.busy;
+ more.hidden=s.done||!!s.error;more.disabled=s.busy;more.textContent=s.busy?'Caricamento in corso…':'Carica nuovi profili con foto ✦';retry.hidden=!s.error;retry.disabled=s.busy;
  find.hidden=term.length<2;find.disabled=s.busy;
  for(const b of document.querySelectorAll('[data-idol-category]'))b.setAttribute('aria-pressed',String(b.dataset.idolCategory===active))
 }
