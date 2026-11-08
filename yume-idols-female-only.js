@@ -11,14 +11,15 @@
  const excludedJapan=[
   // Male Japanese social creators, or public creator collectives including men.
   'Amenboplus','Paparapys','Sankyu Dokkoisho','Kaichosu Couple',
-  'Kurukuru 3kyodai','Natsume Sanchi','Tomohiro Kaneki',
+  'Kurukuru 3kyodai','Natsume Sanchi','Ikirumonotachi','219goshitsu','Tomohiro Kaneki',
   'KAIMA','Kuga Oshima','Yuma Konno','Atsuhiro Hayashi',
   'Noa Fujii','Kiryu Tanaka','Toi Kimura','Shinya Ogawa',
   'BOBBY HOLMES','SotoTaka','HIKAKIN','Hajime Syacho',
   'Hikaru (YouTuber)','Kimagure Cook','Masuo',
   'Kazu (YouTuber)','SUSURU','Yuuki',
   // Publicly identified male-presenting NIJISANJI characters.
-  'Tsukahara Daichi','Kuri Eita','Onotora','Rayon'
+  'Tsukahara Daichi','Kuri Eita','Onotora','Rayon',
+  'Will Will','Chiba'
  ];
  const excludedAsia=[
   // India: male creators, actors, models and child singers.
