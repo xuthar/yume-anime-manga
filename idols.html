@@ -3,11 +3,13 @@
 <meta charset="utf-8"><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#171627"><meta name="description" content="Idols: archivio consultabile di professioniste e artisti del Giappone, con biografie, fotografie e link ufficiali. Area adult 18+ con ritratti non espliciti.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://xuthar.github.io/yume-anime-manga/idols.html">
-<link rel="stylesheet" href="style.css?v=20261108-menu-fix1"><link rel="stylesheet" href="idols.css?v=20261108-asia-teaser1"><link rel="stylesheet" href="idols-hub.css?v=20261108-unified1">
+<link rel="stylesheet" href="style.css?v=20261108-menu-fix1"><link rel="stylesheet" href="idols.css?v=20261108-asia-teaser1"><link rel="stylesheet" href="idols-hub.css?v=20261108-unified1"><link rel="stylesheet" href="jpop-wiki-spotlight.css?v=20261108-wiki1">
 <script defer src="idols-discovery-data.js?v=20261108-adult-cosplay3"></script>
+<script defer src="jpop-wiki-expansion.js?v=20261108-wiki1"></script>
 <script defer src="idols.js?v=20261108-vtubers4"></script>
 <script defer src="yume-photo-store.js?v=20261108-inph-photo78"></script>
-<script defer src="idols-discovery-ui.js?v=20261108-adult-cosplay3"></script><script defer src="idols-hub.js?v=20261108-unified1"></script><script defer src="yume-universe-nav.js?v=20261108-1"></script>
+<script defer src="idols-discovery-ui.js?v=20261108-adult-cosplay3"></script>
+<script defer src="jpop-wiki-spotlight.js?v=20261108-wiki1"></script><script defer src="idols-hub.js?v=20261108-unified1"></script><script defer src="yume-universe-nav.js?v=20261108-1"></script>
 <title>Idols · Giappone, Asia, Young Stars, Sport, Cosplay e Adult — Yume</title><script defer src="yume-global-nav.js?v=20261108-young1"></script><link rel="stylesheet" href="yume-idol-counts.css?v=20261108-asia1"><script defer src="sport-idols-data.js?v=20261108-young2"></script><script defer src="asia-idols-data.js?v=20261108-young2"></script><script defer src="asia-nextgen-data.js?v=20261108-inph2"></script><script defer src="young-stars-spotlight-data.js?v=20261108-y3"></script><script defer src="young-stars-data.js?v=20261108-inph2"></script><script defer src="yume-idol-counts.js?v=20261108-unified2"></script><link rel="stylesheet" href="yume-young-teaser.css?v=20261108-y1"></head>
 <body class="idols-page"><a class="skip" href="#idols-hub">Vai all'archivio</a>
 <header><a class="brand" href="index.html"><span class="mark">夢</span><span>yume<span class="brand-dot">.</span><small>ANIME · MANGA · JAPAN</small></span></a><nav aria-label="Navigazione principale"><a href="index.html">Home</a><a href="index.html#universo">Universo</a><a href="libreria.html">La libreria</a><a href="jpop.html">J-Pop</a><a href="yume-japan.html">Yume Japan</a><a href="idols.html" class="active" aria-current="page">Idols</a></nav></header>
@@ -57,6 +59,21 @@
  <div class="idols-grid" id="idols-grid" aria-live="polite"></div>
  <div class="idol-actions"><button type="button" id="idol-online-search" class="idol-find" hidden>Cerca altre persone su Wikidata</button><button type="button" id="idol-more" class="idol-load">Carica altri profili ✦</button><button type="button" id="idol-retry" class="idol-retry" hidden>Riprova la connessione</button></div>
  <p class="idol-source-note">Fonte: <a href="https://www.wikidata.org/" target="_blank" rel="noopener noreferrer">Wikidata</a> (dati strutturati CC0). Fotografie, quando disponibili: Wikimedia Commons oppure miniature libere da Wikipedia, con licenze consultabili nelle relative pagine. Età calcolata solo quando la data di nascita è completa, altrimenti indicata come non disponibile. Nessuna foto attribuita per somiglianza o generata artificialmente. I profili sono identificati con l'elemento Wikidata, senza duplicazioni inventate. <a href="https://www.wikidata.org/wiki/Wikidata:Introduction" target="_blank" rel="noopener noreferrer">Correggi o integra una fonte ↗</a></p>
+</section>
+<section class="jwiki-section" id="jpop-wiki-rosters" aria-labelledby="jpop-wiki-title">
+ <div class="jwiki-heading">
+  <div><span>音 · JAPANESE MUSIC WIKI · IDOL UNDERGROUND</span>
+   <h2 id="jpop-wiki-title">Nuove idol e formazioni da scoprire.</h2>
+   <p>Un’esplorazione delle nuove generazioni dell’idol pop giapponese: gruppi indipendenti, formazioni emergenti e artiste presenti nei roster 2025–2026. Ogni gruppo ha la propria fonte, con i nomi delle componenti consultabili direttamente qui.</p>
+  </div><div class="jwiki-count" id="jpop-wiki-count">Caricamento dei gruppi…</div>
+ </div>
+ <div class="jwiki-controls">
+  <label for="jpop-wiki-search">Cerca gruppo o idol<input type="search" id="jpop-wiki-search" autocomplete="off" placeholder="Full Course, RE-GE, Nagoya, Nakagawa…"></label>
+  <label for="jpop-wiki-year">Anno di formazione<select id="jpop-wiki-year"><option value="all">Tutti gli anni</option><option value="2026">2026</option><option value="2025">2025</option><option value="2024">2024</option></select></label>
+ </div>
+ <p id="jpop-wiki-status" class="jwiki-status" role="status" aria-live="polite"></p>
+ <div id="jpop-wiki-grid" class="jwiki-grid"></div>
+ <p class="jwiki-source-note">Catalogazione editoriale basata su <a href="https://jpop.fandom.com/wiki/Main_Page" target="_blank" rel="noopener noreferrer">Japanese Music Wiki</a> e, dove presenti, sui siti ufficiali delle formazioni. Questa wiki è collaborativa: nomi, roster e stato di attività possono cambiare. Nessuna fotografia è assegnata per somiglianza e le date di nascita non verificate non sono pubblicate. Queste idol fanno parte dell’archivio musicale di Yume, separato dalle categorie 18+.</p>
 </section>
 <section class="idols-discover" id="idols-discover" aria-labelledby="discovery-heading">
  <div class="discovery-heading"><span class="idol-kicker">発見 · YUME DISCOVERY 2026</span><h2 id="discovery-heading">Nuovi volti, nuovi nomi d'arte.</h2>
