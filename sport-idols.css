@@ -62,3 +62,10 @@ body.sport-idols-page{--sport-pink:#f4bde0;--sport-blue:#a5dee1;background:#1016
 @media(max-width:760px){.sport-main{width:calc(100% - 20px)}.sport-hero{grid-template-columns:1fr}.sport-hero-visual{display:none}.sport-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.sport-hero-copy{padding:28px 21px}.sport-card-top{height:155px}.sport-card h3{font-size:15px}.sport-card-content{padding:12px}.sport-stats{gap:7px;margin-bottom:39px}.sport-stats>div{padding:14px 12px}.sport-stats span{font-size:10px}body.sport-idols-page{background-attachment:scroll}}
 @media(max-width:450px){.sport-controls{grid-template-columns:1fr}.sport-card-top{height:129px}.sport-card-actions a,.sport-card-actions button{padding:6px 8px;font-size:10px}.sport-card h3{font-size:14px}.sport-roman{font-size:11px!important}.sport-hero h1{font-size:52px}.sport-profile{padding:22px 18px}.sport-modal-photo{max-width:120px;max-height:150px}}
 @media(prefers-reduced-motion:reduce){.sport-card{transition:none}.sport-card:hover{transform:none}}
+
+/* Portrait progress and source-based safe fallback for each athlete */
+.sport-card-top:has(img[data-loaded=true]) .sport-art{display:none}
+.sport-card-top:has(img[data-loaded=true]){background:#1c2137}
+.sport-card-actions a:focus-visible,.sport-actions button:focus-visible{outline:3px solid #93e3e1;outline-offset:2px}
+.sport-actions button#sport-photo-scan{background:linear-gradient(115deg,#b8dfe3,#e5b9d9);color:#192538;border-color:#d8f4ef}
+.sport-photo-filter input{appearance:auto}

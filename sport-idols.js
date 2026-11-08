@@ -30,40 +30,113 @@ function verifiedEntity(e,p){
  return matches.some(x=>norm(x)===norm(p.name))
 }
 async function request(url){const r=await fetch(url,{headers:{Accept:'application/json'}});if(!r.ok)throw Error('HTTP '+r.status);return r.json()}
+/* All photos must belong to the specifically matched Wikidata identity and be freely reusable.
+   The JOC's own event portraits are NOT copied: rights remain with their owners. */
+const STORAGE_PREFIX='yume-sport-photo-v4:';
+const CACHE_DAYS=10;
+function remember(p){
+ try{
+ const value={saved:Date.now(),entityId:p.entityId||null,latin:p.latin||'',birth:p.birth,age:p.age,verifiedLinks:p.verifiedLinks,photoUrls:p.photoUrls||[],photoFile:p.photoFile||null,enrichment:p.enrichment};
+ localStorage.setItem(STORAGE_PREFIX+p.id,JSON.stringify(value));
+ }catch{}
+}
+for(const p of people){
+ try{
+ const raw=localStorage.getItem(STORAGE_PREFIX+p.id);if(!raw)continue;
+ const cached=JSON.parse(raw);if(Date.now()-cached.saved>86400000*CACHE_DAYS)continue;
+ if(cached.entityId)p.entityId=cached.entityId;
+ if(cached.latin)p.latin=cached.latin;
+ if(cached.birth)p.birth=cached.birth;
+ if(cached.age!=null)p.age=cached.age;
+ p.photoUrls=Array.isArray(cached.photoUrls)?cached.photoUrls.filter(x=>typeof x==='string'&&x.startsWith('https://')).slice(0,8):[];
+ p.photo=p.photoUrls[0]||null;p.photoFile=cached.photoFile||null;
+ p.verifiedLinks=Array.isArray(cached.verifiedLinks)?cached.verifiedLinks.filter(x=>Array.isArray(x)&&x.length===2):[];
+ p.enrichment=cached.enrichment==='verified'?'verified':'idle';
+ }catch{}
+}
+function appendPhoto(p,url){
+ if(typeof url!=='string'||!url.startsWith('https://'))return;
+ p.photoUrls=p.photoUrls||[];
+ if(!p.photoUrls.includes(url))p.photoUrls.push(url);
+ if(!p.photo)p.photo=url;
+}
+async function sourcePhotos(ent,p){
+ const imageFiles=(ent.claims?.P18||[]).map(x=>x.mainsnak?.datavalue?.value).filter(x=>typeof x==='string'&&/\.(jpe?g|png|webp)$/i.test(x)).slice(0,3);
+ if(imageFiles.length){
+  p.photoFile=imageFiles[0];
+  try{
+   const url='https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&prop=imageinfo&iiprop=url&iiurlwidth=480&titles='+encodeURIComponent(imageFiles.map(f=>'File:'+f.replace(/^File:/i,'')).join('|'));
+   const result=await request(url);
+   for(const page of result.query?.pages||[]){
+    const info=page.imageinfo?.[0];
+    if(info?.thumburl)appendPhoto(p,info.thumburl);
+    if(info?.url)appendPhoto(p,info.url)
+   }
+  }catch{}
+ }
+ // Additional free image on the subject's OWN Wikipedia article.
+ for(const site of ['jawiki','enwiki']){
+  const title=ent.sitelinks?.[site]?.title;
+  if(!title)continue;
+  const lang=site.slice(0,2);
+  try{
+   const url='https://'+lang+'.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&redirects=1&prop=pageimages&piprop=thumbnail&pilicense=free&pithumbsize=480&titles='+encodeURIComponent(title);
+   const result=await request(url);
+   for(const page of result.query?.pages||[]){if(page.thumbnail?.source)appendPhoto(p,page.thumbnail.source)}
+  }catch{}
+ }
+ // FilePath is a final attempt only after the Wikimedia thumb URLs.
+ for(const file of imageFiles)appendPhoto(p,'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replace(/^File:/i,''))+'?width=480');
+ p.photo=p.photoUrls?.[0]||null;
+}
 async function resolve(p){
- if(p.enrichment!=='idle')return;
+ if(p.enrichment==='loading'||p.enrichment==='verified')return;
  p.enrichment='loading';
  try{
-  let ids;
-  if(seededQids[p.name])ids=[seededQids[p.name]];
-  else{
-   const srch='https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&origin=*&language=ja&uselang=ja&limit=12&search='+encodeURIComponent(p.name);
-   const items=(await request(srch)).search||[];
-   ids=[...new Set(items.map(x=>x.id).filter(x=>/^Q\d+$/.test(x)))].slice(0,12);
+  let ids=seededQids[p.name]?[seededQids[p.name]]:null;
+  if(!ids){
+   const lookups=[['ja',p.name]];
+   if(p.latin)lookups.push(['en',p.latin]);
+   const all=[];
+   for(const [lang,name] of lookups){
+    const url='https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&origin=*&language='+lang+'&uselang='+lang+'&limit=12&search='+encodeURIComponent(name);
+    const rows=(await request(url)).search||[];
+    for(const row of rows)if(/^Q\d+$/.test(row.id)&&!all.includes(row.id))all.push(row.id);
+   }
+   ids=all.slice(0,24);
   }
   if(!ids.length){p.enrichment='none';return}
   const url='https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&origin=*&props=labels%7Caliases%7Cclaims%7Csitelinks&languages=ja%7Cen%7Cit&sitefilter=jawiki%7Cenwiki%7Citwiki&ids='+encodeURIComponent(ids.join('|'));
-  const entities=(await request(url)).entities||{};
-  const ent=ids.map(id=>entities[id]).find(e=>verifiedEntity(e,p));
+  const entMap=(await request(url)).entities||{};
+  const ent=ids.map(id=>entMap[id]).find(e=>verifiedEntity(e,p));
   if(!ent){p.enrichment='none';return}
   p.entityId=ent.id;
   const born=dateInfo(claim(ent,'P569'));if(born){p.birth=born.text;p.age=born.age}
-  const en=ent.labels?.en?.value;
-  if(en&&!p.latin&&en!==p.name)p.latin=en;
-  const f=linkValue(claim(ent,'P18'));
-  if(f&&/\.(jpg|jpeg|png|webp)$/i.test(f)){
-   p.photo='https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(f.replace(/^File:/i,''))+'?width=470';
-   p.photoFile=f
-  }
+  if(!p.latin&&ent.labels?.en?.value&&ent.labels.en.value!==p.name)p.latin=ent.labels.en.value;
+  await sourcePhotos(ent,p);
   const x=linkValue(claim(ent,'P2002')),ig=linkValue(claim(ent,'P2003')),yt=linkValue(claim(ent,'P2397')),website=linkValue(claim(ent,'P856'));
   const links=[];
   if(x&&/^[A-Za-z0-9_]{1,15}$/.test(x.replace(/^@/,'')))links.push(['X','https://x.com/'+x.replace(/^@/,'')]);
   if(ig&&/^[A-Za-z0-9_.]{1,35}$/.test(ig.replace(/^@/,'')))links.push(['Instagram','https://www.instagram.com/'+ig.replace(/^@/,'')+'/']);
   if(yt&&/^UC[A-Za-z0-9_-]{22}$/.test(yt))links.push(['YouTube','https://www.youtube.com/channel/'+yt]);
   if(website&&/^https:\/\//.test(website))links.push(['Sito ufficiale',website]);
-  p.verifiedLinks=links;
-  p.enrichment='verified'
+  p.verifiedLinks=links;p.enrichment='verified';
  }catch{p.enrichment='error'}
+ finally{if(p.enrichment!=='loading')remember(p)}
+}
+async function quickSearchPhotoMatches(group){
+ // One Wikidata query for many names; failed batches still allow individual searches.
+ const names=[...new Set(group.map(p=>p.name.replace(/\s+/g,'')))];
+ if(!names.length)return;
+ const literals=names.map(n=>JSON.stringify(n)+'@ja').join(' ');
+ const sparql='PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT ?person ?name WHERE { VALUES ?name { '+literals+' } ?person rdfs:label ?name ; wdt:P31 wd:Q5 ; wdt:P21 wd:Q6581072 ; wdt:P27 wd:Q17 ; wdt:P18 ?portrait . } LIMIT 150';
+ const url='https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(sparql);
+ const result=await request(url);
+ for(const row of result.results?.bindings||[]){
+  const id=row.person?.value?.match(/Q\d+$/)?.[0],name=row.name?.value;
+  const p=group.find(p=>norm(p.name)===norm(name));
+  if(p&&id)seededQids[p.name]=id;
+ }
 }
 function athleteSports(p){return p.disciplines.map(id=>types[id]?.label).filter(Boolean).join(' · ')}
 function sourceButton(p){return p.sources[0]}
@@ -75,12 +148,14 @@ function currentMatches(ignorePhoto=false){
  .sort((a,b)=>(a.latin||a.name).localeCompare(b.latin||b.name,'it'))
 }
 function makePhoto(p,block,preview){
- if(!p.photo||p.imageFailed)return;
+ const options=p.photoUrls?.length?p.photoUrls:(p.photo?[p.photo]:[]);
+ if(!options.length||p.imageFailed)return;
  const image=document.createElement('img');image.alt='Fotografia attribuita a '+(p.latin||p.name);
  image.loading=preview?'eager':'lazy';image.decoding='async';
- image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;image.dataset.loaded='true';if(first&&photoOnly.checked&&!preview)render()};
- image.onerror=()=>{p.photoValid=false;p.imageFailed=true;image.remove();if(photoOnly.checked)render()};
- image.src=p.photo;block.append(image)
+ let index=0;
+ image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;p.photo=options[index];image.dataset.loaded='true';if(first&&photoOnly.checked&&!preview)render()};
+ image.onerror=()=>{index++;if(index<options.length){image.src=options[index];return}p.photoValid=false;p.imageFailed=true;image.remove();if(photoOnly.checked)render()};
+ image.src=options[index];block.append(image)
 }
 function card(p){
  const article=make('article','sport-card'),top=make('div','sport-card-top');
@@ -91,7 +166,7 @@ function card(p){
  const birth=make('p','sport-birth');birth.append(make('strong',null,'Nascita: '),document.createTextNode(p.birth||'Da verificare'));content.append(birth);
  const age=make('p','sport-age');age.append(make('strong',null,'Età: '),document.createTextNode(p.age!=null?p.age+' anni':'N/D'));content.append(age);
  const actions=make('div','sport-card-actions');const button=make('button',null,'Scheda ↗');button.type='button';button.addEventListener('click',()=>detail(p));
- actions.append(button,external('Fonte ufficiale ↗',sourceButton(p).url));
+ actions.append(button,external('Fonte ufficiale ↗',sourceButton(p).url));if(p.photoFile)actions.append(external('Licenza foto ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));
  if(p.verifiedLinks.length){for(const [name,url] of p.verifiedLinks.slice(0,2))actions.append(external(name+' ↗',url))}
  content.append(actions);article.append(content);return article
 }
@@ -106,7 +181,7 @@ function detail(p){
  const sources=make('div','sport-profile-links');
  for(const s of p.sources)sources.append(external('Roster ufficiale · '+s.edition+' ↗',s.url));
  if(p.entityId)sources.append(external('Wikidata ↗','https://www.wikidata.org/wiki/'+p.entityId));
- if(p.photoFile)sources.append(external('Foto e licenza Commons ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));
+ if(p.photoFile)sources.append(external('Foto e licenza Commons ↗','https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(p.photoFile)));else sources.append(external('Cerca fotografie della atleta ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+athleteSports(p))));
  for(const [name,url] of p.verifiedLinks)sources.append(external(name+' ↗',url));
  if(p.enrichment==='idle'||p.enrichment==='error'||p.enrichment==='none'){
  const enrichLink=make('button',null,'Verifica biografia e foto con Wikidata');
@@ -120,7 +195,7 @@ function render(){
  for(const p of shown)frag.append(card(p));
  if(!shown.length)frag.append(make('p','sport-empty',photoOnly.checked?'Nessuna fotografia verificata tra i risultati attualmente caricati. Disattiva il filtro oppure verifica nuovi profili.':'Nessuna atleta corrisponde ai filtri scelti.'));
  grid.replaceChildren(frag);
- status.textContent=list.length+' atlete trovate · '+shown.length+' visibili · '+disciplines.length+' discipline. '+people.filter(p=>p.entityId).length+' schede Wikidata collegate.';
+ status.textContent=list.length+' atlete trovate · '+shown.length+' visibili · '+people.filter(p=>p.photoValid).length+' fotografie caricate · '+people.filter(p=>p.enrichment==='verified').length+' identità verificate su Wikidata. Le foto non disponibili restano collegate alla fonte ufficiale.';
  more.hidden=list.length<=limit;more.textContent='Mostra altre '+Math.min(32,list.length-limit)+' atlete ↓';
  for(const btn of document.querySelectorAll('[data-sport]'))btn.setAttribute('aria-pressed',String(btn.dataset.sport===current))
 }
@@ -148,7 +223,29 @@ async function enrichMore(){
  finally{enrichBusy=false;enrichButton.disabled=false;enrichButton.textContent='Cerca fotografie, biografie e social verificati'}
 }
 enrichButton.addEventListener('click',enrichMore);
+const scanAll=$('sport-photo-scan');
+let scanRunning=false;
+if(scanAll)scanAll.addEventListener('click',async()=>{
+ if(scanRunning){scanRunning=false;scanAll.textContent='Continua la ricerca delle foto';return}
+ scanRunning=true;scanAll.textContent='Interrompi ricerca';enrichButton.disabled=true;
+ try{
+  const queue=people.filter(p=>p.enrichment==='idle'||p.enrichment==='error');
+  // 24 names per bulk Wikidata photo-index query; no guessing from Google results.
+  for(let i=0;i<queue.length&&scanRunning;i+=24){
+   const group=queue.slice(i,i+24);
+   try{await quickSearchPhotoMatches(group)}catch{}
+   // Resolve featured matches and a manageable fallback group, three at a time.
+   for(let j=0;j<group.length&&scanRunning;j+=3){
+    await Promise.allSettled(group.slice(j,j+3).map(p=>{if(p.enrichment==='error')p.enrichment='idle';return resolve(p)}));
+   }
+   render();scanAll.textContent='Ferma ricerca · '+Math.min(i+24,queue.length)+' / '+queue.length;
+  }
+ }finally{
+  scanRunning=false;enrichButton.disabled=false;scanAll.textContent='Cerca altre foto in tutti gli sport';
+  render()
+ }
+});
 render();
-// Small conservative initial batch: no hotlink scraping of official portraits.
+// First group in view: photo lookups run only while the athlete directory is open.
 Promise.resolve().then(enrichMore);
 })();
