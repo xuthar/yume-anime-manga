@@ -5,7 +5,7 @@
  const secondary=[['mie-liste.html','帳','Le mie liste'],['uscite-manga.html','本','Uscite manga'],['calendario-anime.html','曜','Episodi anime'],['tv-giapponese.html','電','TV e Radio'],['yume-magazine.html','誌','Magazine'],['chronos.html','時','Chronos'],['mangaka.html','筆','Mangaka']];
  const path=location.pathname.split('/').pop()||'index.html',hash=location.hash;
  function item([url,kanji,name]){const a=document.createElement('a'),k=document.createElement('span');a.href=url;a.className='yume-nav-link';a.dataset.label=name;k.className='yume-nav-kanji';k.setAttribute('aria-hidden','true');k.textContent=kanji;a.append(k,document.createTextNode(name));const p=url.split('#')[0];
- const active=path===p&&(!url.includes('#')?!(p==='index.html'&&hash.startsWith('#world-')):hash===('#'+url.split('#')[1]));if(active){a.classList.add('active');a.setAttribute('aria-current','page')}return a}
+ const active=path===p&&(url.includes('#')?hash==='#'+url.split('#')[1]:(p!=='index.html'||!['#universo','#ricerca'].includes(hash)&&!hash.startsWith('#world-')));if(active){a.classList.add('active');a.setAttribute('aria-current','page')}return a}
  nav.className='yume-global-nav';nav.setAttribute('aria-label','Menu principale Yume');nav.replaceChildren(...primary.map(item));
  const details=document.createElement('details');details.className='yume-nav-more';const summary=document.createElement('summary');summary.innerHTML='<span aria-hidden="true" class="yume-nav-kanji">他</span> Altri <span aria-hidden="true">⌄</span>';details.append(summary);
  const list=document.createElement('div');list.className='yume-nav-more-list';secondary.forEach(x=>list.append(item(x)));details.append(list);nav.append(details);
