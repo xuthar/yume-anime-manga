@@ -36,3 +36,28 @@
 @media(max-width:850px){.idols-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.idol-hero{grid-template-columns:1fr}.idol-hero-art{position:absolute;inset:0;opacity:.3}.idol-hero-art:before{background:#18162988}.idol-hero-copy{max-width:780px}}
 @media(max-width:600px){.idols-page header nav{width:100%;flex-wrap:nowrap;overflow-x:auto}.idols-page main{padding:0 12px 60px}.idol-hero{margin-top:0;min-height:0}.idol-hero-copy{padding:28px 22px}.idol-hero h1{font-size:77px}.idol-categories{grid-template-columns:repeat(2,minmax(0,1fr))}.idol-categories button{font-size:12px;min-height:55px}.idols-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.idol-card-meta{padding:11px}.idol-card-meta strong{font-size:13px}.idol-card-meta p{font-size:11px}.idol-profile-layout{grid-template-columns:1fr;padding:19px}.idol-profile-photo{height:230px;min-height:0}.idol-facts{grid-template-columns:1fr 1fr}.idol-toolbar input{min-width:0;width:calc(100vw - 48px)}}
 @media(prefers-reduced-motion:reduce){.idol-card{transition:none}.idol-card:hover{transform:none}}
+
+/* Idols 2 · denser directory, photo-source fallback and full metadata beneath image */
+.idols-page .idol-categories{grid-template-columns:repeat(3,minmax(0,1fr))}
+.idol-card button.idol-card-open{display:block;width:100%;color:inherit}
+.idol-card-photo{aspect-ratio:3/3.25}
+.idol-card-photo.is-empty{background:radial-gradient(circle at 65% 35%,#ac7eb057,transparent 47%),linear-gradient(150deg,#584465,#252c49)}
+.idol-card-meta{padding:14px 13px 6px}
+.idol-card-meta strong{font-size:14px;line-height:1.3;min-height:34px}
+.idol-card-meta .idol-occupation{min-height:35px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;color:#d7b8d1;margin:6px 0 8px;line-height:1.4;font-size:12px}
+.idol-card-facts{display:flex;flex-wrap:wrap;gap:5px 10px;margin:7px 0 9px;color:#eee7f0;font-size:11px}
+.idol-card-facts b{font-weight:750;color:#f7d0e9}
+.idol-card-links{padding:5px 12px 13px;display:flex;flex-wrap:wrap;gap:6px;border-top:1px solid #f4d1e524}
+.idol-card-links a{display:inline-flex;align-items:center;min-height:29px;padding:5px 8px;border:1px solid #e7c1da53;border-radius:8px;background:#e5b7d80d;color:#f9e0f0;text-decoration:none;font-size:10px;font-weight:700;line-height:1.2}
+.idol-card-links a:hover{background:#f1bbdd34;border-color:#f6caea}
+.idol-card-meta .idol-card-hint{display:block;font-size:10px;margin-top:4px;color:#f0c2e2}
+.idol-photo-label{display:flex!important;align-items:center;gap:8px;margin:0 0 5px;color:#e5d4e4!important}
+.idol-photo-label input{appearance:auto!important;width:17px!important;min-width:17px!important;height:17px;accent-color:#f0b6dc}
+.idol-actions .idol-find{background:#29253e;color:#f6d2ea}
+.idol-actions .idol-find[hidden]{display:none}
+.idol-profile-links-label{margin:16px 0 5px;color:#efc0e3;font-size:12px;font-weight:750}
+.idol-id-link{color:#f3c2e5;font-size:11px;text-decoration:none}
+.idol-no-results{grid-column:1/-1;padding:35px 20px;border:1px solid #e9c0df43;background:#252037b9;border-radius:17px;text-align:center;color:#ded2e1}
+.idol-profile-extra{font-size:12px;line-height:1.65;color:#dbcfdf}
+@media(max-width:900px){.idols-page .idol-categories{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:540px){.idols-page .idol-categories{grid-template-columns:repeat(2,minmax(0,1fr))}.idols-grid{gap:10px}.idol-card-meta{padding:10px 10px 5px}.idol-card-meta strong{font-size:12px;min-height:32px}.idol-card-facts{gap:4px;font-size:10px}.idol-card-links{padding:6px 9px 12px}.idol-card-links a{font-size:9px;padding:5px 6px}.idol-actions{flex-wrap:wrap}}
