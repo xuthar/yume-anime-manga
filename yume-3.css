@@ -80,3 +80,11 @@ body[data-y3] .y3-switch a:hover{background:rgba(228,193,243,.17);border-color:#
 body[data-y3] .y3-card{box-shadow:0 11px 29px #060b2133}
 @media(max-width:560px){body[data-y3] .y3-hero{background-position:60% center}}
 @media(prefers-reduced-motion:reduce){body[data-y3] .y3-header nav a{transition:none}}
+
+/* Shared visual language across Yume's preserved editorial worlds. */
+body[data-y3]:not(.cosmos-page){background-color:#111527;background-image:linear-gradient(180deg,#101428e9,#14182df2 78%),url('assets/yume3-kyoto-panorama.svg');background-repeat:no-repeat;background-position:top center;background-size:cover;background-attachment:fixed}
+body[data-y3="collector"]{background-image:linear-gradient(180deg,#101428ed,#14182df3 75%),url('assets/yume3-collector-scene.svg')}
+body[data-y3="japan"]{background-image:linear-gradient(180deg,#101428d8,#14182de9 75%),url('assets/yume-japan-travel.svg')}
+body[data-y3="atlas"],body[data-y3="universe"]{background-image:linear-gradient(180deg,#101428e2,#14182df3 75%),url('assets/yume3-universe-scene.svg')}
+body[data-y3="magazine"]{background-image:linear-gradient(180deg,#101428e8,#14182df3 75%),url('assets/yume-cosmos-magazine.svg')}
+@media(max-width:700px){body[data-y3]:not(.cosmos-page){background-attachment:scroll}}

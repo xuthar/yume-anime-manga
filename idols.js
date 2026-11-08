@@ -52,8 +52,13 @@ function birthInfo(v){
 }
 function measure(v,kind){
  if(!v?.amount)return null;const n=Number(v.amount);if(!Number.isFinite(n))return null;
- if(kind==='height'){const cm=n<3?n*100:n;return cm>=80&&cm<=230?Math.round(cm)+' cm':null}
- return n>=25&&n<=200?Math.round(n)+' kg':null
+ const unit=String(v.unit||'').split('/').pop();
+ if(kind==='height'){
+  const cm=unit==='Q11573'?n*100:unit==='Q174728'?n:null;
+  return cm!=null&&cm>=80&&cm<=230?Math.round(cm)+' cm':null
+ }
+ const kg=unit==='Q11570'?n:unit==='Q41803'?n/1000:null;
+ return kg!=null&&kg>=25&&kg<=200?Math.round(kg)+' kg':null
 }
 function pageSitelink(e){for(const s of ['itwiki','enwiki','jawiki'])if(e?.sitelinks?.[s]?.title)return{site:s.slice(0,2),title:e.sitelinks[s].title};return null}
 function convert(e,cat){
@@ -210,7 +215,7 @@ query.addEventListener('input',paint);sort.addEventListener('change',paint);only
 more.addEventListener('click',()=>fetchBatch(active));retry.addEventListener('click',()=>fetchBatch(active));find.addEventListener('click',onlineSearch);
 if('IntersectionObserver' in window){
  const loader=new IntersectionObserver(entries=>{
-  if(!entries.some(e=>e.isIntersecting))return;
+  if(!entries.some(e=>e.isIntersecting)||query.value.trim()||onlyPhoto.checked)return;
   const s=state[active];if(!s.busy&&!s.done&&!s.error)fetchBatch(active)
  },{rootMargin:'250px'});
  loader.observe(more)

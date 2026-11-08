@@ -59,3 +59,5 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'){close();toggle.focu
 document.addEventListener('click',e=>{if(!menu.hidden&&!menu.contains(e.target)&&!toggle.contains(e.target))close()});
 document.body.append(menu,box);
 })();
+/* Artist profiles use the shared kanji header without replacing the artist detail. */
+(()=>{const nav=document.querySelector('body > header nav[aria-label="Menu principale"]');if(!nav||document.querySelector('script[src*="yume-global-nav.js"]'))return;const s=document.createElement('script');s.src='yume-global-nav.js?v=20261108-kanji3';document.head.append(s)})();
