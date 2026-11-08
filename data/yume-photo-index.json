@@ -1,26 +1,28 @@
 {
   "version": 2,
-  "updated": "2026-11-08",
+  "updated": "2026-11-08T18:25:52.997Z",
   "coverage": {
     "sport": {
-      "photos": 89,
+      "photos": 108,
       "total": 299
     },
     "asia": {
-      "photos": 22,
+      "photos": 80,
       "total": 602
     },
     "japan": {
-      "photos": 12,
-      "total": 471
+      "photos": 24,
+      "total": 461
     }
   },
   "sport": {
     "池江璃花子": {
       "qid": "Q20973721",
       "name": "池江 璃花子",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rikako_Ikee_20230408a.jpg/500px-Rikako_Ikee_20230408a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rikako_Ikee_20230408a.jpg/500px-Rikako_Ikee_20230408a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Rikako_Ikee_20230408a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Rikako Ikee 20230408a.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Rikako%20Ikee%2020230408a.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -38,8 +40,10 @@
     "志田千陽": {
       "qid": "Q24701993",
       "name": "志田 千陽",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/ShidaC_PMO2026.jpg/500px-ShidaC_PMO2026.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/ShidaC_PMO2026.jpg/500px-ShidaC_PMO2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/ShidaC_PMO2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "ShidaC PMO2026.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:ShidaC%20PMO2026.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -48,8 +52,10 @@
     "青山修子": {
       "qid": "Q2443685",
       "name": "青山 修子",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2017_Citi_Open_Tennis_Shuko_Aoyama_%2836279025736%29.jpg/500px-2017_Citi_Open_Tennis_Shuko_Aoyama_%2836279025736%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Aoyama_RG19_%2850%29_%2848199355876%29.jpg/500px-Aoyama_RG19_%2850%29_%2848199355876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Aoyama_RG19_%2850%29_%2848199355876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Aoyama RG19 (50) (48199355876).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Aoyama%20RG19%20(50)%20(48199355876).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -58,8 +64,10 @@
     "大坂なおみ": {
       "qid": "Q17466583",
       "name": "大坂 なおみ",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/NaomiOsaka-smile-2020_%28cropped%29.png/500px-NaomiOsaka-smile-2020_%28cropped%29.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Naomi_Osaka_2017_Wimbledon.jpg/500px-Naomi_Osaka_2017_Wimbledon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Naomi_Osaka_2017_Wimbledon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Naomi Osaka 2017 Wimbledon.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Naomi%20Osaka%202017%20Wimbledon.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -68,8 +76,10 @@
     "須崎優衣": {
       "qid": "Q30230912",
       "name": "須﨑 優衣",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0653.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0653.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0653.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0653.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9c/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0653.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30 0653.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30%200653.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -78,8 +88,10 @@
     "尾崎野乃香": {
       "qid": "Q58420103",
       "name": "尾﨑 野乃香",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nonoka_Ozaki.JPG/500px-Nonoka_Ozaki.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nonoka_Ozaki.JPG/500px-Nonoka_Ozaki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nonoka_Ozaki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Nonoka Ozaki.JPG",
       "source": "https://commons.wikimedia.org/wiki/File:Nonoka%20Ozaki.JPG",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -88,8 +100,10 @@
     "宮脇花綸": {
       "qid": "Q60230179",
       "name": "宮脇 花綸",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0170.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0170.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Karin_Miyawaki_%28JAP%29_2015.jpg/500px-Karin_Miyawaki_%28JAP%29_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6d/Karin_Miyawaki_%28JAP%29_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Karin Miyawaki (JAP) 2015.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Karin%20Miyawaki%20(JAP)%202015.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -98,8 +112,10 @@
     "鏡優翔": {
       "qid": "Q63450243",
       "name": "鏡 優翔",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0604.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0604.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Women%27s_Freestyle_73kg_Wrestling_Medallist_Ceremony_YOG18_13-10-2018_%2805%29.jpg/500px-Women%27s_Freestyle_73kg_Wrestling_Medallist_Ceremony_YOG18_13-10-2018_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Women%27s_Freestyle_73kg_Wrestling_Medallist_Ceremony_YOG18_13-10-2018_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Women's Freestyle 73kg Wrestling Medallist Ceremony YOG18 13-10-2018 (05).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Women's%20Freestyle%2073kg%20Wrestling%20Medallist%20Ceremony%20YOG18%2013-10-2018%20(05).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -108,8 +124,10 @@
     "柴原瑛菜": {
       "qid": "Q26721334",
       "name": "柴原 瑛菜",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Shibahara_US16_%281%29_%2829569477270%29.jpg/500px-Shibahara_US16_%281%29_%2829569477270%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ena_Shibahara_%282024_US_Open%29_02_%28cropped%29.jpg/500px-Ena_Shibahara_%282024_US_Open%29_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Ena_Shibahara_%282024_US_Open%29_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Ena Shibahara (2024 US Open) 02 (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Ena%20Shibahara%20(2024%20US%20Open)%2002%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -118,8 +136,10 @@
     "藤波朱理": {
       "qid": "Q97173474",
       "name": "藤波 朱理",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0619.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0619.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Akari_Fujinami_2.JPG/500px-Akari_Fujinami_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Akari_Fujinami_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Akari Fujinami 2.JPG",
       "source": "https://commons.wikimedia.org/wiki/File:Akari%20Fujinami%202.JPG",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -128,8 +148,10 @@
     "江村美咲": {
       "qid": "Q101068038",
       "name": "江村 美咲",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0746.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0746.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Misaki_Emura_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Misaki_Emura_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Misaki Emura victory ceremony of the women's team sabre event at Paris 2024 (cropped).png",
       "source": "https://commons.wikimedia.org/wiki/File:Misaki%20Emura%20victory%20ceremony%20of%20the%20women's%20team%20sabre%20event%20at%20Paris%202024%20(cropped).png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -138,8 +160,10 @@
     "張本美和": {
       "qid": "Q56533455",
       "name": "張本 美和",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Harimoto_Miwa_2023.png/500px-Harimoto_Miwa_2023.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Harimoto_Miwa_2023.png/500px-Harimoto_Miwa_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/Harimoto_Miwa_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Harimoto Miwa 2023.png",
       "source": "https://commons.wikimedia.org/wiki/File:Harimoto%20Miwa%202023.png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -148,8 +172,10 @@
     "上野優佳": {
       "qid": "Q61080513",
       "name": "上野 優佳",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0177.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0177.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Fencing_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Girls%27_foil_medal_ceremony_094_%28cropped%29.jpg/500px-Fencing_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Girls%27_foil_medal_ceremony_094_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Fencing_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Girls%27_foil_medal_ceremony_094_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Fencing at the 2018 Summer Youth Olympics – Girls' foil medal ceremony 094 (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Fencing%20at%20the%202018%20Summer%20Youth%20Olympics%20%E2%80%93%20Girls'%20foil%20medal%20ceremony%20094%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -158,8 +184,10 @@
     "櫻井つぐみ": {
       "qid": "Q108807469",
       "name": "櫻井 つぐみ",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Tsugumi_Sakurai_%28USA%29_2021.jpg/500px-Tsugumi_Sakurai_%28USA%29_2021.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Tsugumi_Sakurai_2.JPG/500px-Tsugumi_Sakurai_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/Tsugumi_Sakurai_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Tsugumi Sakurai 2.JPG",
       "source": "https://commons.wikimedia.org/wiki/File:Tsugumi%20Sakurai%202.JPG",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -168,8 +196,10 @@
     "内島萌夏": {
       "qid": "Q56651209",
       "name": "内島 萌夏",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Uchijima_WMQ23_%2853062168653%29.jpg/500px-Uchijima_WMQ23_%2853062168653%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Uchijima_WMQ23_%2853062168653%29.jpg/500px-Uchijima_WMQ23_%2853062168653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/Uchijima_WMQ23_%2853062168653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Uchijima WMQ23 (53062168653).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Uchijima%20WMQ23%20(53062168653).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -178,8 +208,10 @@
     "元木咲良": {
       "qid": "Q113911351",
       "name": "元木 咲良",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Victory_ceremony_of_the_Women%27s_freestyle_62_kg_at_Paris_2024_%28cropped%29.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Victory_ceremony_of_the_Women%27s_freestyle_62_kg_at_Paris_2024.png/500px-Victory_ceremony_of_the_Women%27s_freestyle_62_kg_at_Paris_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Victory_ceremony_of_the_Women%27s_freestyle_62_kg_at_Paris_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Victory ceremony of the Women's freestyle 62 kg at Paris 2024.png",
       "source": "https://commons.wikimedia.org/wiki/File:Victory%20ceremony%20of%20the%20Women's%20freestyle%2062%20kg%20at%20Paris%202024.png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -188,8 +220,10 @@
     "大橋悠依": {
       "qid": "Q29789513",
       "name": "大橋 悠依",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Yui_Ohashi_200216e.jpg/500px-Yui_Ohashi_200216e.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Yui_Ohashi_%28JAP%29.jpg/500px-Yui_Ohashi_%28JAP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/Yui_Ohashi_%28JAP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Yui Ohashi (JAP).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Yui%20Ohashi%20(JAP).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -198,8 +232,10 @@
     "白井璃緒": {
       "qid": "Q56223929",
       "name": "白井 璃緒",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Rio_Shirai_20230408.jpg/500px-Rio_Shirai_20230408.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Rio_Shirai_200215a.jpg/500px-Rio_Shirai_200215a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rio_Shirai_200215a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Rio Shirai 200215a.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Rio%20Shirai%20200215a.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -208,8 +244,10 @@
     "青木玲緒樹": {
       "qid": "Q30944321",
       "name": "青木 玲緒樹",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Reona_Aoki_200216a.jpg/500px-Reona_Aoki_200216a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Reona_Aoki_200216a.jpg/500px-Reona_Aoki_200216a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Reona_Aoki_200216a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Reona Aoki 200216a.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Reona%20Aoki%20200216a.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -228,8 +266,10 @@
     "谷川亜華葉": {
       "qid": "Q106480332",
       "name": "谷川 亜華葉",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ageha_Tanigawa_20230409i_%28cropped%29.jpg/500px-Ageha_Tanigawa_20230409i_%28cropped%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ageha_Tanigawa_20230409h_%28cropped%29.jpg/500px-Ageha_Tanigawa_20230409h_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/35/Ageha_Tanigawa_20230409h_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Ageha Tanigawa 20230409h (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Ageha%20Tanigawa%2020230409h%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -238,8 +278,10 @@
     "小堀倭加": {
       "qid": "Q56223899",
       "name": "小堀 倭加",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Waka_Kobori_20230408.jpg/500px-Waka_Kobori_20230408.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Waka_Kobori_20230408.jpg/500px-Waka_Kobori_20230408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5b/Waka_Kobori_20230408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Waka Kobori 20230408.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Waka%20Kobori%2020230408.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -248,8 +290,10 @@
     "成田実生": {
       "qid": "Q111486062",
       "name": "成田 実生",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Mio_Narita_20230409i.jpg/500px-Mio_Narita_20230409i.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mio_Narita_20230409a.jpg/500px-Mio_Narita_20230409a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mio_Narita_20230409a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Mio Narita 20230409a.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Mio%20Narita%2020230409a.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -258,8 +302,10 @@
     "福島史帆実": {
       "qid": "Q95691022",
       "name": "福島 史帆実",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Shihomi_Fukushima_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Shihomi_Fukushima_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Shihomi_Fukushima_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Shihomi Fukushima victory ceremony of the women's team sabre event at Paris 2024 (cropped).png",
       "source": "https://commons.wikimedia.org/wiki/File:Shihomi%20Fukushima%20victory%20ceremony%20of%20the%20women's%20team%20sabre%20event%20at%20Paris%202024%20(cropped).png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -268,8 +314,10 @@
     "榎本遼香": {
       "qid": "Q107618953",
       "name": "榎本 遼香",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/ENOMOTO_Haruka_at_Ichigo_Ichie_Tochigi_Kokutai.jpg/500px-ENOMOTO_Haruka_at_Ichigo_Ichie_Tochigi_Kokutai.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/ENOMOTO_Haruka_at_Ichigo_Ichie_Tochigi_Kokutai.jpg/500px-ENOMOTO_Haruka_at_Ichigo_Ichie_Tochigi_Kokutai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/ENOMOTO_Haruka_at_Ichigo_Ichie_Tochigi_Kokutai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "ENOMOTO Haruka at Ichigo Ichie Tochigi Kokutai.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:ENOMOTO%20Haruka%20at%20Ichigo%20Ichie%20Tochigi%20Kokutai.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -278,8 +326,10 @@
     "尾崎世梨": {
       "qid": "Q113239157",
       "name": "尾﨑 世梨",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0743.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0743.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Seri_Ozaki_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Seri_Ozaki_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Seri Ozaki victory ceremony of the women's team sabre event at Paris 2024 (cropped).png",
       "source": "https://commons.wikimedia.org/wiki/File:Seri%20Ozaki%20victory%20ceremony%20of%20the%20women's%20team%20sabre%20event%20at%20Paris%202024%20(cropped).png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -288,8 +338,10 @@
     "高嶋理紗": {
       "qid": "Q128440320",
       "name": "髙嶋 理紗",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Risa_Takashima_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Risa_Takashima_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Risa_Takashima_victory_ceremony_of_the_women%27s_team_sabre_event_at_Paris_2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Risa Takashima victory ceremony of the women's team sabre event at Paris 2024 (cropped).png",
       "source": "https://commons.wikimedia.org/wiki/File:Risa%20Takashima%20victory%20ceremony%20of%20the%20women's%20team%20sabre%20event%20at%20Paris%202024%20(cropped).png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -298,8 +350,10 @@
     "梶原悠未": {
       "qid": "Q22957562",
       "name": "梶原 悠未",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/UCI_Track_World_Championships_2020_028.jpg/500px-UCI_Track_World_Championships_2020_028.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/UCI_Track_World_Championships_2020_028.jpg/500px-UCI_Track_World_Championships_2020_028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/UCI_Track_World_Championships_2020_028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "UCI Track World Championships 2020 028.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:UCI%20Track%20World%20Championships%202020%20028.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -308,8 +362,10 @@
     "野中生萌": {
       "qid": "Q28009012",
       "name": "野中 生萌",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Climbing_World_Championships_2018_Boulder_Final_Nonaka_%28BT0A7830%29.jpg/500px-Climbing_World_Championships_2018_Boulder_Final_Nonaka_%28BT0A7830%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Miho_Nonaka_Climbing_WCh_2018.jpg/500px-Miho_Nonaka_Climbing_WCh_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Miho_Nonaka_Climbing_WCh_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Miho Nonaka Climbing WCh 2018.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Miho%20Nonaka%20Climbing%20WCh%202018.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -318,8 +374,10 @@
     "森秋彩": {
       "qid": "Q64613436",
       "name": "森 秋彩",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ai_Mori_in_the_Koper_2022_Lead_World_Cup.png/500px-Ai_Mori_in_the_Koper_2022_Lead_World_Cup.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ai_Mori_IFSC_World_Cup_Chamonix_2019_1.jpg/500px-Ai_Mori_IFSC_World_Cup_Chamonix_2019_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Ai_Mori_IFSC_World_Cup_Chamonix_2019_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Ai Mori IFSC World Cup Chamonix 2019 1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Ai%20Mori%20IFSC%20World%20Cup%20Chamonix%202019%201.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -328,8 +386,10 @@
     "荒井祭里": {
       "qid": "Q65674499",
       "name": "荒井 祭里",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_1005.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_1005.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/ARAI_Matsuri_at_Ichigo_Ichie_Tochigi_Kokutai.jpg/500px-ARAI_Matsuri_at_Ichigo_Ichie_Tochigi_Kokutai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/ARAI_Matsuri_at_Ichigo_Ichie_Tochigi_Kokutai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "ARAI Matsuri at Ichigo Ichie Tochigi Kokutai.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:ARAI%20Matsuri%20at%20Ichigo%20Ichie%20Tochigi%20Kokutai.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -338,8 +398,10 @@
     "太田りゆ": {
       "qid": "Q97273385",
       "name": "太田 りゆ",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2018_2019_UCI_Track_World_Cup_Berlin_007.jpg/500px-2018_2019_UCI_Track_World_Cup_Berlin_007.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2018_2019_UCI_Track_World_Cup_Berlin_007.jpg/500px-2018_2019_UCI_Track_World_Cup_Berlin_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/2018_2019_UCI_Track_World_Cup_Berlin_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "2018 2019 UCI Track World Cup Berlin 007.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:2018%202019%20UCI%20Track%20World%20Cup%20Berlin%20007.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -348,8 +410,10 @@
     "内野艶和": {
       "qid": "Q106994369",
       "name": "内野 艶和",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2019_UCI_Juniors_Track_World_Championships_299.jpg/500px-2019_UCI_Juniors_Track_World_Championships_299.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2019_UCI_Juniors_Track_World_Championships_299.jpg/500px-2019_UCI_Juniors_Track_World_Championships_299.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e2/2019_UCI_Juniors_Track_World_Championships_299.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "2019 UCI Juniors Track World Championships 299.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:2019%20UCI%20Juniors%20Track%20World%20Championships%20299.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -358,8 +422,10 @@
     "中山楓奈": {
       "qid": "Q64358909",
       "name": "中山 楓奈",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/XGames-Chiba-2022_2022-04-24_0577.jpg/500px-XGames-Chiba-2022_2022-04-24_0577.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/XGames-Chiba-2022_2022-04-24_0577_%28cropped%29.jpg/500px-XGames-Chiba-2022_2022-04-24_0577_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/XGames-Chiba-2022_2022-04-24_0577_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "XGames-Chiba-2022 2022-04-24 0577 (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:XGames-Chiba-2022%202022-04-24%200577%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -368,8 +434,10 @@
     "四十住さくら": {
       "qid": "Q56486600",
       "name": "四十住 さくら",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Sakura_Yosozumi%2C_Nov_10_2024.jpg/500px-Sakura_Yosozumi%2C_Nov_10_2024.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/XGames-Chiba-2022_2022-04-24_0348_%28cropped%29.jpg/500px-XGames-Chiba-2022_2022-04-24_0348_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/XGames-Chiba-2022_2022-04-24_0348_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "XGames-Chiba-2022 2022-04-24 0348 (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:XGames-Chiba-2022%202022-04-24%200348%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -378,8 +446,10 @@
     "草木ひなの": {
       "qid": "Q122973317",
       "name": "草木 ひなの",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0894.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0894.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0894.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/84/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30 0894.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30%200894.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -388,8 +458,10 @@
     "吉沢恋": {
       "qid": "Q127512762",
       "name": "吉沢 恋",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0888.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0888.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0888.jpg/500px-TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0888.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30_0888.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30 0888.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:TeamJapan-Paris2024-Nihonbashi-Event---2024-11-30%200888.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -578,8 +650,10 @@
     "熊谷紗希": {
       "qid": "Q220950",
       "name": "熊谷 紗希",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kumagai-02-JPNCAN-2019_%28cropped%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/20260906-Saki_Kumagai_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/20260906-Saki_Kumagai_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "20260906-Saki Kumagai (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:20260906-Saki%20Kumagai%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -588,8 +662,10 @@
     "北口榛花": {
       "qid": "Q22128988",
       "name": "北口 榛花",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Haruka_Kitaguchi_Budapest_2023%282%29.jpg/500px-Haruka_Kitaguchi_Budapest_2023%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E5%B7%9D%E5%B4%8E.jpg/500px-%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E5%B7%9D%E5%B4%8E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/62/%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E5%B7%9D%E5%B4%8E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "セイコーゴールデングランプリ川崎.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:%E3%82%BB%E3%82%A4%E3%82%B3%E3%83%BC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E5%B7%9D%E5%B4%8E.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -598,8 +674,10 @@
     "一山麻緒": {
       "qid": "Q47580450",
       "name": "一山 麻緒",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mao_Ichiyama_190915a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mao_Ichiyama_190915.jpg/500px-Mao_Ichiyama_190915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Mao_Ichiyama_190915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Mao Ichiyama 190915.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Mao%20Ichiyama%20190915.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -608,8 +686,10 @@
     "前田穂南": {
       "qid": "Q48763930",
       "name": "前田 穂南",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Honami_Maeda_190915b.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Honami_Maeda_190915.jpg/500px-Honami_Maeda_190915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4d/Honami_Maeda_190915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Honami Maeda 190915.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Honami%20Maeda%20190915.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -618,8 +698,10 @@
     "田中希実": {
       "qid": "Q55407762",
       "name": "田中 希実",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/WKBO3436_5000m_W_heats_%2853173294499%29.jpg/500px-WKBO3436_5000m_W_heats_%2853173294499%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/WKBO3436_5000m_W_heats_Nozomi_Tanaka.jpg/500px-WKBO3436_5000m_W_heats_Nozomi_Tanaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/45/WKBO3436_5000m_W_heats_Nozomi_Tanaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "WKBO3436 5000m W heats Nozomi Tanaka.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:WKBO3436%205000m%20W%20heats%20Nozomi%20Tanaka.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -628,8 +710,10 @@
     "五島莉乃": {
       "qid": "Q60990211",
       "name": "五島 莉乃",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Rino_GOSHIMA_220507n.jpg/500px-Rino_GOSHIMA_220507n.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Rino_GOSHIMA_220507n.jpg/500px-Rino_GOSHIMA_220507n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Rino_GOSHIMA_220507n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Rino GOSHIMA 220507n.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Rino%20GOSHIMA%20220507n.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -638,8 +722,10 @@
     "鈴木優花": {
       "qid": "Q65549672",
       "name": "鈴木 優花",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Yuka_Suzuki.png/500px-Yuka_Suzuki.png?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Yuka_Suzuki.png/500px-Yuka_Suzuki.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yuka_Suzuki.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Yuka Suzuki.png",
       "source": "https://commons.wikimedia.org/wiki/File:Yuka%20Suzuki.png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -648,8 +734,10 @@
     "山本有真": {
       "qid": "Q85879794",
       "name": "山本 有真",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Yuma-yamamoto.JPG/500px-Yuma-yamamoto.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Yuma_YAMAMOTO_20220417.jpg/500px-Yuma_YAMAMOTO_20220417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Yuma_YAMAMOTO_20220417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Yuma YAMAMOTO 20220417.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Yuma%20YAMAMOTO%2020220417.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -658,8 +746,10 @@
     "古賀紗理那": {
       "qid": "Q13430870",
       "name": "古賀 紗理那",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarina_Koga_Japan_Volleyball_team.jpg/500px-Sarina_Koga_Japan_Volleyball_team.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarina_Koga_Japan_Volleyball_team.jpg/500px-Sarina_Koga_Japan_Volleyball_team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sarina_Koga_Japan_Volleyball_team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Sarina Koga Japan Volleyball team.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Sarina%20Koga%20Japan%20Volleyball%20team.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -668,8 +758,10 @@
     "長野風花": {
       "qid": "Q27778123",
       "name": "長野 風花",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuka_Nagano_20240228_Tokyo.jpg/500px-Fuka_Nagano_20240228_Tokyo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuka_Nagano_20240228_Tokyo.jpg/500px-Fuka_Nagano_20240228_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/Fuka_Nagano_20240228_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Fuka Nagano 20240228 Tokyo.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Fuka%20Nagano%2020240228%20Tokyo.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -678,8 +770,10 @@
     "林穂之香": {
       "qid": "Q47465048",
       "name": "林 穂之香",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Honoka_Hayashi_20240228.jpg/500px-Honoka_Hayashi_20240228.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Honoka_Hayashi_20240228.jpg/500px-Honoka_Hayashi_20240228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/94/Honoka_Hayashi_20240228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Honoka Hayashi 20240228.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Honoka%20Hayashi%2020240228.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -688,8 +782,10 @@
     "千葉玲海菜": {
       "qid": "Q98071515",
       "name": "千葉 玲海菜",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Remina_Chiba%2C_19_October_2024.jpg/500px-Remina_Chiba%2C_19_October_2024.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Remina_Chiba%2C_19_October_2024_%28cropped%29.jpg/500px-Remina_Chiba%2C_19_October_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Remina_Chiba%2C_19_October_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Remina Chiba, 19 October 2024 (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Remina%20Chiba%2C%2019%20October%202024%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -698,8 +794,10 @@
     "吉田亜沙美": {
       "qid": "Q11413568",
       "name": "吉田 亜沙美",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Asami_Yoshida_%28cropped%29.jpg/500px-Asami_Yoshida_%28cropped%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Yoshida_asami.jpg/500px-Yoshida_asami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yoshida_asami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Yoshida asami.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Yoshida%20asami.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -708,8 +806,10 @@
     "町田瑠唯": {
       "qid": "Q11578328",
       "name": "町田 瑠唯",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Rui_Machida_13_Japan_20260311_%281%29.jpg/500px-Rui_Machida_13_Japan_20260311_%281%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Rui_Machida_13_Japan_20260311_%281%29.jpg/500px-Rui_Machida_13_Japan_20260311_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Rui_Machida_13_Japan_20260311_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Rui Machida 13 Japan 20260311 (1).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Rui%20Machida%2013%20Japan%2020260311%20(1).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -718,8 +818,10 @@
     "宮澤夕貴": {
       "qid": "Q11455074",
       "name": "宮澤 夕貴",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Yuki_Miyazawa_%28basketball%29_52_Japan_20260312_%284%29.jpg/500px-Yuki_Miyazawa_%28basketball%29_52_Japan_20260312_%284%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Yuki_Miyazawa_%28basketball%29_52_Japan_20260312_%284%29.jpg/500px-Yuki_Miyazawa_%28basketball%29_52_Japan_20260312_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Yuki_Miyazawa_%28basketball%29_52_Japan_20260312_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Yuki Miyazawa (basketball) 52 Japan 20260312 (4).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Yuki%20Miyazawa%20(basketball)%2052%20Japan%2020260312%20(4).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -728,8 +830,10 @@
     "島村春世": {
       "qid": "Q11476394",
       "name": "島村 春世",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Japan_Volleyball_team_inc_Haruyo_Shimamura_%28cropped%29.jpg/500px-Japan_Volleyball_team_inc_Haruyo_Shimamura_%28cropped%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Japan_Volleyball_team_inc_Haruyo_Shimamura_%28cropped%29.jpg/500px-Japan_Volleyball_team_inc_Haruyo_Shimamura_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/38/Japan_Volleyball_team_inc_Haruyo_Shimamura_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Japan Volleyball team inc Haruyo Shimamura (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Japan%20Volleyball%20team%20inc%20Haruyo%20Shimamura%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -738,8 +842,10 @@
     "本橋菜子": {
       "qid": "Q55522649",
       "name": "本橋 菜子",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Nako_Motohashi.jpg/500px-Nako_Motohashi.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Nako_Motohashi.jpg/500px-Nako_Motohashi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nako_Motohashi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Nako Motohashi.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Nako%20Motohashi.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -748,8 +854,10 @@
     "林咲希": {
       "qid": "Q51166654",
       "name": "林 咲希",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Saki_Hayashi_20210819.jpg/500px-Saki_Hayashi_20210819.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Saki_Hayashi_20210819.jpg/500px-Saki_Hayashi_20210819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/Saki_Hayashi_20210819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Saki Hayashi 20210819.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Saki%20Hayashi%2020210819.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -758,8 +866,10 @@
     "馬瓜ステファニー": {
       "qid": "Q52319839",
       "name": "馬瓜 ステファニー",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Stephanie_Mawuli_3_Japan_20260312_%282%29.jpg/500px-Stephanie_Mawuli_3_Japan_20260312_%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Stephanie_Mawuli_3_Japan_20260312_%282%29.jpg/500px-Stephanie_Mawuli_3_Japan_20260312_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Stephanie_Mawuli_3_Japan_20260312_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Stephanie Mawuli 3 Japan 20260312 (2).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Stephanie%20Mawuli%203%20Japan%2020260312%20(2).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -768,8 +878,10 @@
     "赤穂ひまわり": {
       "qid": "Q56348323",
       "name": "赤穂 ひまわり",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Akaho_himawari.jpg/500px-Akaho_himawari.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Akaho_Himawari_%28cropped%29.jpg/500px-Akaho_Himawari_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/Akaho_Himawari_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Akaho Himawari (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Akaho%20Himawari%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -778,8 +890,10 @@
     "山本麻衣": {
       "qid": "Q84546398",
       "name": "山本 麻衣",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Mai_Yamamoto_23_Japan_20260311_%281%29_%28cropped%29.jpg/500px-Mai_Yamamoto_23_Japan_20260311_%281%29_%28cropped%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Mai_Yamamoto_23_Japan_20260311_%281%29_%28cropped%29.jpg/500px-Mai_Yamamoto_23_Japan_20260311_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mai_Yamamoto_23_Japan_20260311_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Mai Yamamoto 23 Japan 20260311 (1) (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Mai%20Yamamoto%2023%20Japan%2020260311%20(1)%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -788,8 +902,10 @@
     "東藤なな子": {
       "qid": "Q107559831",
       "name": "東藤 なな子",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Nanako_Todo_75_Japan_20260311_%283%29_%28cropped%29.jpg/500px-Nanako_Todo_75_Japan_20260311_%283%29_%28cropped%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Nanako_Todo_75_Japan_20260311_%283%29_%28cropped%29.jpg/500px-Nanako_Todo_75_Japan_20260311_%283%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Nanako_Todo_75_Japan_20260311_%283%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Nanako Todo 75 Japan 20260311 (3) (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Nanako%20Todo%2075%20Japan%2020260311%20(3)%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -798,8 +914,10 @@
     "平野美宇": {
       "qid": "Q11483715",
       "name": "平野 美宇",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Hirano_Miu_ATTC2017_27_%28cropped%29.jpeg/500px-Hirano_Miu_ATTC2017_27_%28cropped%29.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/ITTF_World_Tour_2017_German_Open_Hirano_Miu_02.jpg/500px-ITTF_World_Tour_2017_German_Open_Hirano_Miu_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/46/ITTF_World_Tour_2017_German_Open_Hirano_Miu_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "ITTF World Tour 2017 German Open Hirano Miu 02.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:ITTF%20World%20Tour%202017%20German%20Open%20Hirano%20Miu%2002.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -808,8 +926,10 @@
     "高市未来": {
       "qid": "Q18217298",
       "name": "髙市 未来",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Miku_Tashiro_2024.jpg/500px-Miku_Tashiro_2024.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Miku_Tashiro_2024.jpg/500px-Miku_Tashiro_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/Miku_Tashiro_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Miku Tashiro 2024.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Miku%20Tashiro%202024.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -818,8 +938,10 @@
     "仁平菜月": {
       "qid": "Q17211899",
       "name": "仁平 菜月",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Nidaira2.jpg/500px-Nidaira2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Nidaira1.jpg/500px-Nidaira1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nidaira1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Nidaira1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Nidaira1.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -838,8 +960,10 @@
     "早田ひな": {
       "qid": "Q27917566",
       "name": "早田 ひな",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/ITTF_World_Tour_2017_German_Open_Hina_Hayata_02.jpg/500px-ITTF_World_Tour_2017_German_Open_Hina_Hayata_02.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/ITTF_World_Tour_2017_German_Open_Hina_Hayata_02.jpg/500px-ITTF_World_Tour_2017_German_Open_Hina_Hayata_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/ITTF_World_Tour_2017_German_Open_Hina_Hayata_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "ITTF World Tour 2017 German Open Hina Hayata 02.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:ITTF%20World%20Tour%202017%20German%20Open%20Hina%20Hayata%2002.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -848,8 +972,10 @@
     "角田夏実": {
       "qid": "Q27917959",
       "name": "角田 夏実",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Nomura-Dojo-10th--Judo--2024-09-07_422.jpg/500px-Nomura-Dojo-10th--Judo--2024-09-07_422.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Nomura-Dojo-10th--Judo--2024-09-07_422.jpg/500px-Nomura-Dojo-10th--Judo--2024-09-07_422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nomura-Dojo-10th--Judo--2024-09-07_422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Nomura-Dojo-10th--Judo--2024-09-07 422.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Nomura-Dojo-10th--Judo--2024-09-07%20422.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -858,8 +984,10 @@
     "阿部詩": {
       "qid": "Q55281936",
       "name": "阿部 詩",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Uta_Abe_2024.jpg/500px-Uta_Abe_2024.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Uta_Abe_%28JAP%29_2024.jpg/500px-Uta_Abe_%28JAP%29_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e4/Uta_Abe_%28JAP%29_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Uta Abe (JAP) 2024.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Uta%20Abe%20(JAP)%202024.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -868,8 +996,10 @@
     "福島由紀": {
       "qid": "Q420456",
       "name": "福島 由紀",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Yuki_Fukushima_%28JPN%29.jpg/500px-Yuki_Fukushima_%28JPN%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Yuki_Fukushima_%28JPN%29.jpg/500px-Yuki_Fukushima_%28JPN%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/39/Yuki_Fukushima_%28JPN%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Yuki Fukushima (JPN).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Yuki%20Fukushima%20(JPN).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -910,6 +1040,234 @@
       "source": "https://commons.wikimedia.org/wiki/File:Mayu%20Matsumoto%202018.png",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
       "verified": true
+    },
+    "田中美南": {
+      "qid": "Q1726206",
+      "name": "田中 美南",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mina_Tanaka_Gotham_Utah_8.23.25-038_%28cropped%29.jpg/500px-Mina_Tanaka_Gotham_Utah_8.23.25-038_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mina_Tanaka_Gotham_Utah_8.23.25-038_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Mina Tanaka Gotham Utah 8.23.25-038 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mina%20Tanaka%20Gotham%20Utah%208.23.25-038%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "山下杏也加": {
+      "qid": "Q21019784",
+      "name": "山下 杏也加",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/20250905-Ayaka_Yamashita.jpg/500px-20250905-Ayaka_Yamashita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/46/20250905-Ayaka_Yamashita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "20250905-Ayaka Yamashita.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20250905-Ayaka%20Yamashita.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "岩崎こよみ": {
+      "qid": "Q11395125",
+      "name": "岩崎 こよみ",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/KOYOMI_TOMINAGA_cropped%29.jpg/500px-KOYOMI_TOMINAGA_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/KOYOMI_TOMINAGA_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "KOYOMI TOMINAGA cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:KOYOMI%20TOMINAGA%20cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "北川ひかる": {
+      "qid": "Q22128944",
+      "name": "北川 ひかる",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20250323%2C_Damallsvenskan%2C_BK_H%C3%A4cken_-_Malm%C3%B6_FF_079_%28cropped%29.jpg/500px-20250323%2C_Damallsvenskan%2C_BK_H%C3%A4cken_-_Malm%C3%B6_FF_079_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6d/20250323%2C_Damallsvenskan%2C_BK_H%C3%A4cken_-_Malm%C3%B6_FF_079_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "20250323, Damallsvenskan, BK Häcken - Malmö FF 079 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20250323%2C%20Damallsvenskan%2C%20BK%20H%C3%A4cken%20-%20Malm%C3%B6%20FF%20079%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "清水梨紗": {
+      "qid": "Q22130240",
+      "name": "清水 梨紗",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Risa_Shimizu_%2846586604594%29_%28cropped%29.jpg/500px-Risa_Shimizu_%2846586604594%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/Risa_Shimizu_%2846586604594%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Risa Shimizu (46586604594) (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Risa%20Shimizu%20(46586604594)%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "守屋都弥": {
+      "qid": "Q23948852",
+      "name": "守屋 都弥",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Miyabi_Moriya_during_Gotham_Angel_City_Sep_7_25-010_%28cropped%29.jpg/500px-Miyabi_Moriya_during_Gotham_Angel_City_Sep_7_25-010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a2/Miyabi_Moriya_during_Gotham_Angel_City_Sep_7_25-010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Miyabi Moriya during Gotham Angel City Sep 7 25-010 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Miyabi%20Moriya%20during%20Gotham%20Angel%20City%20Sep%207%2025-010%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "植木理子": {
+      "qid": "Q27917637",
+      "name": "植木 理子",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Ueki-03-Beleza-2021.jpg/500px-Ueki-03-Beleza-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ueki-03-Beleza-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Ueki-03-Beleza-2021.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ueki-03-Beleza-2021.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "宮澤ひなた": {
+      "qid": "Q47581446",
+      "name": "宮澤 ひなた",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/BHA_Women_2_MUFC_Women_3_02_11_2025-220_%28cropped%29.jpg/500px-BHA_Women_2_MUFC_Women_3_02_11_2025-220_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/BHA_Women_2_MUFC_Women_3_02_11_2025-220_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "BHA Women 2 MUFC Women 3 02 11 2025-220 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:BHA%20Women%202%20MUFC%20Women%203%2002%2011%202025-220%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "南萌華": {
+      "qid": "Q56702946",
+      "name": "南 萌華",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Moeka_Minami_BHA_Women_2_MUFC_Women_3_02_11_2025-29_%28cropped%29.jpg/500px-Moeka_Minami_BHA_Women_2_MUFC_Women_3_02_11_2025-29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/35/Moeka_Minami_BHA_Women_2_MUFC_Women_3_02_11_2025-29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Moeka Minami BHA Women 2 MUFC Women 3 02 11 2025-29 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Moeka%20Minami%20BHA%20Women%202%20MUFC%20Women%203%2002%2011%202025-29%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "高橋はな": {
+      "qid": "Q57887947",
+      "name": "高橋 はな",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Hana_Takahashi_20191106.jpg/500px-Hana_Takahashi_20191106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f4/Hana_Takahashi_20191106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Hana Takahashi 20191106.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hana%20Takahashi%2020191106.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "石川真佑": {
+      "qid": "Q68422499",
+      "name": "石川 真佑",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Mayu_Ishikawa_4_Eczac%C4%B1ba%C5%9F%C4%B1_SK_TWVL_20261025_%283%29.JPG/500px-Mayu_Ishikawa_4_Eczac%C4%B1ba%C5%9F%C4%B1_SK_TWVL_20261025_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/62/Mayu_Ishikawa_4_Eczac%C4%B1ba%C5%9F%C4%B1_SK_TWVL_20261025_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Mayu Ishikawa 4 Eczacıbaşı SK TWVL 20261025 (3).JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Mayu%20Ishikawa%204%20Eczac%C4%B1ba%C5%9F%C4%B1%20SK%20TWVL%2020261025%20(3).JPG",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "清家貴子": {
+      "qid": "Q78203143",
+      "name": "清家 貴子",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kiko_Seike_BHA_Women_2_MUFC_Women_3_02_11_2025-1068_%28cropped%29.jpg/500px-Kiko_Seike_BHA_Women_2_MUFC_Women_3_02_11_2025-1068_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kiko_Seike_BHA_Women_2_MUFC_Women_3_02_11_2025-1068_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Kiko Seike BHA Women 2 MUFC Women 3 02 11 2025-1068 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kiko%20Seike%20BHA%20Women%202%20MUFC%20Women%203%2002%2011%202025-1068%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "古賀塔子": {
+      "qid": "Q119936722",
+      "name": "古賀 塔子",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/20250907-T%C5%8Dko_Koga.jpg/500px-20250907-T%C5%8Dko_Koga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/20250907-T%C5%8Dko_Koga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "20250907-Tōko Koga.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20250907-T%C5%8Dko%20Koga.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "馬瓜エブリン": {
+      "qid": "Q18235353",
+      "name": "馬瓜 エブリン",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Evelyn_Mawuli.jpg/500px-Evelyn_Mawuli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Evelyn_Mawuli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Evelyn Mawuli.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Evelyn%20Mawuli.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "池本凪沙": {
+      "qid": "Q107681711",
+      "name": "池本 凪沙",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2018-10-10_Swimming_Girls%27_200m_Freestyle_Final_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93028.jpg/500px-2018-10-10_Swimming_Girls%27_200m_Freestyle_Final_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/2018-10-10_Swimming_Girls%27_200m_Freestyle_Final_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "2018-10-10 Swimming Girls' 200m Freestyle Final at 2018 Summer Youth Olympics by Sandro Halank–028.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2018-10-10%20Swimming%20Girls'%20200m%20Freestyle%20Final%20at%202018%20Summer%20Youth%20Olympics%20by%20Sandro%20Halank%E2%80%93028.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "中村遥香": {
+      "qid": "Q117548214",
+      "name": "中村 遥香",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Haruka_Nakamura_at_the_2026_American_Cup_04.jpg/500px-Haruka_Nakamura_at_the_2026_American_Cup_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Haruka_Nakamura_at_the_2026_American_Cup_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Haruka Nakamura at the 2026 American Cup 04.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Haruka%20Nakamura%20at%20the%202026%20American%20Cup%2004.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "岸里奈": {
+      "qid": "Q118521680",
+      "name": "岸 里奈",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/FIG_AGWC_2025_-_Rina_Kishi.jpg/500px-FIG_AGWC_2025_-_Rina_Kishi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/FIG_AGWC_2025_-_Rina_Kishi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "FIG AGWC 2025 - Rina Kishi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:FIG%20AGWC%202025%20-%20Rina%20Kishi.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "岡村真": {
+      "qid": "Q123003342",
+      "name": "岡村 真",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mana_Okamura_%28born_2005%29_at_the_Rhine-Ruhr_2025_FISU_World_University_Games.png/500px-Mana_Okamura_%28born_2005%29_at_the_Rhine-Ruhr_2025_FISU_World_University_Games.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/Mana_Okamura_%28born_2005%29_at_the_Rhine-Ruhr_2025_FISU_World_University_Games.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Mana Okamura (born 2005) at the Rhine-Ruhr 2025 FISU World University Games.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Mana%20Okamura%20(born%202005)%20at%20the%20Rhine-Ruhr%202025%20FISU%20World%20University%20Games.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "牛奥小羽": {
+      "qid": "Q125985296",
+      "name": "牛奥 小羽",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Kohane_Ushioku_%28born_2004%29_at_the_Rhine-Ruhr_2025_FISU_World_University_Games.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Kohane_Ushioku_%28born_2004%29_at_the_Rhine-Ruhr_2025_FISU_World_University_Games.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Kohane Ushioku (born 2004) at the Rhine-Ruhr 2025 FISU World University Games.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Kohane%20Ushioku%20(born%202004)%20at%20the%20Rhine-Ruhr%202025%20FISU%20World%20University%20Games.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     }
   },
   "asia": {
@@ -926,8 +1284,10 @@
     "tw:jolintsai": {
       "qid": "Q51101",
       "name": "Jolin Tsai",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E8%94%A1%E4%BE%9D%E6%9E%97%E5%87%BA%E5%B8%AD%E7%8E%8B%E5%9B%BD%E5%A4%A7%E5%B8%9D%E5%85%A8%E7%90%83%E5%B7%A1%E5%9B%9E%E8%B5%9B%E7%8E%B0%E5%9C%BA_cropped_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E8%94%A1%E4%BE%9D%E6%9E%97%E5%87%BA%E5%B8%AD%E7%8E%8B%E5%9B%BD%E5%A4%A7%E5%B8%9D%E5%85%A8%E7%90%83%E5%B7%A1%E5%9B%9E%E8%B5%9B%E7%8E%B0%E5%9C%BA_cropped_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E8%94%A1%E4%BE%9D%E6%9E%97%E5%87%BA%E5%B8%AD%E7%8E%8B%E5%9B%BD%E5%A4%A7%E5%B8%9D%E5%85%A8%E7%90%83%E5%B7%A1%E5%9B%9E%E8%B5%9B%E7%8E%B0%E5%9C%BA_cropped_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "蔡依林出席王国大帝全球巡回赛现场 cropped (cropped).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:%E8%94%A1%E4%BE%9D%E6%9E%97%E5%87%BA%E5%B8%AD%E7%8E%8B%E5%9B%BD%E5%A4%A7%E5%B8%9D%E5%85%A8%E7%90%83%E5%B7%A1%E5%9B%9E%E8%B5%9B%E7%8E%B0%E5%9C%BA%20cropped%20(cropped).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -956,8 +1316,10 @@
     "tw:rainieyang": {
       "qid": "Q253702",
       "name": "Rainie Yang",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/RainieYang.jpg/500px-RainieYang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Rainie_Yang_2010.jpg/500px-Rainie_Yang_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rainie_Yang_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Rainie Yang 2010.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Rainie%20Yang%202010.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -966,8 +1328,10 @@
     "tw:hebetien": {
       "qid": "Q289808",
       "name": "Hebe Tien",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Hebe_hsinchu_20151017.jpg/500px-Hebe_hsinchu_20151017.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Hebe_HK.jpg/500px-Hebe_HK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hebe_HK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "Hebe HK.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Hebe%20HK.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -986,8 +1350,10 @@
     "tw:angelazhang": {
       "qid": "Q702557",
       "name": "Angela Zhang",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/AngelaChang.jpg/500px-AngelaChang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/ANGELA_TAIPEI_5TH_SEASON.JPG/500px-ANGELA_TAIPEI_5TH_SEASON.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3c/ANGELA_TAIPEI_5TH_SEASON.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
       "file": "ANGELA TAIPEI 5TH SEASON.JPG",
       "source": "https://commons.wikimedia.org/wiki/File:ANGELA%20TAIPEI%205TH%20SEASON.JPG",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -1752,6 +2118,30 @@
       "verified": true,
       "verifiedBy": "Wikimedia Commons · file identificato con nome e licenza",
       "validatedAt": "2026-11-08"
+    },
+    "id:shabilqisnaila": {
+      "qid": "Q136649154",
+      "name": "Shabilqis Naila",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Nala_of_JKT48_%28cropped%29.png/500px-Nala_of_JKT48_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/Nala_of_JKT48_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Nala of JKT48 (cropped).png",
+      "source": "https://commons.wikimedia.org/wiki/File:Nala%20of%20JKT48%20(cropped).png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "sg:janiceyan": {
+      "qid": "Q9082590",
+      "name": "Janice Yan",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%E9%96%BB%E5%A5%95%E6%A0%BC%E3%80%8A%E4%BD%A0%E7%9A%84%E6%83%85%E6%AD%8C%E3%80%8B%E6%96%B0%E5%B9%B4%E9%99%90%E5%AE%9A%E6%BC%94%E5%94%B1%E6%9C%83.jpg/500px-%E9%96%BB%E5%A5%95%E6%A0%BC%E3%80%8A%E4%BD%A0%E7%9A%84%E6%83%85%E6%AD%8C%E3%80%8B%E6%96%B0%E5%B9%B4%E9%99%90%E5%AE%9A%E6%BC%94%E5%94%B1%E6%9C%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/%E9%96%BB%E5%A5%95%E6%A0%BC%E3%80%8A%E4%BD%A0%E7%9A%84%E6%83%85%E6%AD%8C%E3%80%8B%E6%96%B0%E5%B9%B4%E9%99%90%E5%AE%9A%E6%BC%94%E5%94%B1%E6%9C%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "閻奕格《你的情歌》新年限定演唱會.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%96%BB%E5%A5%95%E6%A0%BC%E3%80%8A%E4%BD%A0%E7%9A%84%E6%83%85%E6%AD%8C%E3%80%8B%E6%96%B0%E5%B9%B4%E9%99%90%E5%AE%9A%E6%BC%94%E5%94%B1%E6%9C%83.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     }
   },
   "japan": {
@@ -1997,7 +2387,43 @@
       "verified": true,
       "verifiedBy": "Corrispondenza personale-documentazione del file Wikimedia Commons",
       "validatedAt": "2026-11-08"
+    },
+    "annakonno": {
+      "qid": "Q11377435",
+      "name": "Anna Konno",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%E4%BB%8A%E9%87%8E%E6%9D%8F%E5%8D%97.jpg/500px-%E4%BB%8A%E9%87%8E%E6%9D%8F%E5%8D%97.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/%E4%BB%8A%E9%87%8E%E6%9D%8F%E5%8D%97.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "今野杏南.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%BB%8A%E9%87%8E%E6%9D%8F%E5%8D%97.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "anrisugihara": {
+      "qid": "Q9039389",
+      "name": "Anri Sugihara",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/%E6%9D%89%E5%8E%9F%E6%9D%8F%E7%92%83.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/%E6%9D%89%E5%8E%9F%E6%9D%8F%E7%92%83.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "杉原杏璃.png",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%89%E5%8E%9F%E6%9D%8F%E7%92%83.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "yukaogura": {
+      "qid": "Q29526159",
+      "name": "Yuka Ogura",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%E5%B0%8F%E5%80%89%E5%84%AA%E9%A6%99.png/500px-%E5%B0%8F%E5%80%89%E5%84%AA%E9%A6%99.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/%E5%B0%8F%E5%80%89%E5%84%AA%E9%A6%99.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "小倉優香.png",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E5%80%89%E5%84%AA%E9%A6%99.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: ritratti creator con corrispondenza Commons e fonte del file. · 2026-11-08: rimossi dall'indice fotografico gli account di creator maschili non più inclusi nella raccolta Idols."
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata."
 }

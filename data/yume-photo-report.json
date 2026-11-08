@@ -1,32 +1,25 @@
 {
-  "generated": "2026-11-08T10:42:11.365Z",
+  "generated": "2026-11-08T18:25:52.997Z",
   "stats": {
-    "total": 1461,
+    "total": 1362,
     "sport": 299,
-    "asia": 691,
-    "japan": 471
+    "asia": 602,
+    "japan": 461
   },
   "coverage": {
     "sport": {
-      "photos": 89,
+      "photos": 108,
       "total": 299
     },
     "asia": {
-      "photos": 78,
-      "total": 691,
-      "notes": "File con licenza e identità Commons documentate, non garanzia di caricamento in ogni browser."
+      "photos": 80,
+      "total": 602
     },
     "japan": {
-      "photos": 12,
-      "total": 471
+      "photos": 24,
+      "total": 461
     }
   },
-  "revisedOn": "2026-11-08",
-  "previousScan": {
-    "generated": "2026-11-08T10:42:11.365Z",
-    "apiRequests": 60,
-    "failedRequests": 186
-  },
-  "addedCuratedAsiaPortraits": 56,
-  "notes": "78 fotografie Asia indicizzate, di cui 8 nuovi profili India/Filippine; ulteriori foto possono essere recuperate solo con verifica della persona e della licenza."
+  "apiRequests": 80,
+  "failedRequests": 217
 }
