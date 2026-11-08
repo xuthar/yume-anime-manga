@@ -1,5 +1,4 @@
-/* Yume · Scenic illustrated portals. Uses the site's existing atmospheric artwork
-   from assets/home/ and assets/hero.webp — the very same images used by Anime/Manga/Seasons. */
+/* Yume cinematic feature cards — nine independent, original AI-painted scenes generated for this site. All nine files are local and distinct. */
 .unified-feature-grid > a.yume-art-card{
   --tone:#f2bfdc;
   position:relative;
@@ -166,3 +165,27 @@
 .unified-feature-grid > a.yume-art-young .yume-card-photo{object-position:43% 39%;filter:saturate(1.1) contrast(1.04)}
 .unified-feature-grid > a.yume-art-compare .yume-card-photo{object-position:54% 43%;filter:saturate(1.16) contrast(1.06)}
 .unified-feature-grid > a.yume-art-nexus .yume-card-photo{object-position:59% 38%;filter:saturate(1.2) contrast(1.1)}
+
+/* True illustrated art, no repeated scenic sources: 960 × 540 AVIF, authored for all nine destinations. */
+.unified-feature-grid > a.yume-art-card .yume-card-photo{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:70% center;
+  opacity:1;
+  image-rendering:auto;
+  filter:saturate(1.08) contrast(1.04);
+}
+.unified-feature-grid > a.yume-art-japan .yume-card-photo{object-position:70% center;filter:saturate(1.10)}
+.unified-feature-grid > a.yume-art-chronos .yume-card-photo{object-position:76% center;filter:saturate(1.08)}
+.unified-feature-grid > a.yume-art-magazine .yume-card-photo{object-position:72% center;filter:saturate(1.08)}
+.unified-feature-grid > a.yume-art-idols .yume-card-photo{object-position:75% center;filter:saturate(1.10)}
+.unified-feature-grid > a.yume-art-sport .yume-card-photo{object-position:76% center;filter:saturate(1.10)}
+.unified-feature-grid > a.yume-art-asia .yume-card-photo{object-position:75% center;filter:saturate(1.10)}
+.unified-feature-grid > a.yume-art-young .yume-card-photo{object-position:74% center;filter:saturate(1.07)}
+.unified-feature-grid > a.yume-art-compare .yume-card-photo{object-position:70% center;filter:saturate(1.07)}
+.unified-feature-grid > a.yume-art-nexus .yume-card-photo{object-position:76% center;filter:saturate(1.09)}
+/* Cleaner painting at the top; deep midnight overlay behind titles. */
+.unified-feature-grid > a.yume-art-card::before{
+  background:linear-gradient(180deg,rgba(10,13,30,.08) 0%,rgba(10,13,30,.10) 25%,rgba(11,15,34,.42) 46%,rgba(11,15,34,.90) 74%,rgba(11,15,34,.98) 100%);
+}

@@ -45,3 +45,19 @@ Ogni card ora ha un proprio file illustrato, senza ripetizioni nemmeno quando ca
 7. **young**: `assets/home/garden.webp` — Giardino e luci delle giovani generazioni
 8. **compare**: `assets/yume3-compare-scene.svg` — Libro manga e adattamento animato
 9. **nexus**: `assets/yume3-universe-scene.svg` — Atlante cosmico e connessioni
+
+## Pubblicazione definitiva — 9 immagini AI originali (08/11/2026)
+
+Le nove card non riutilizzano più SVG o fotografie delle card Anime/Manga. Le nove immagini cinematiche generate per Yume sono salvate nella repository come AVIF ad alta risoluzione (960 × 540, compressione per il web), ciascuna con nome e contenuto distinti:
+
+- **japan** — `assets/cards/yume-japan-20261108.avif` — Torii al tramonto, ciliegi, Fuji e lago
+- **chronos** — `assets/cards/yume-chronos-20261108.avif` — Osservatorio del tempo con grande orologio e libri
+- **magazine** — `assets/cards/yume-magazine-20261108.avif` — Studio editoriale con manga, penne e lampada
+- **idols** — `assets/cards/yume-idols-20261108.avif` — Concerto idol con palco e luci rosa
+- **sport** — `assets/cards/yume-sport-20261108.avif` — Atleta che corre in uno stadio al tramonto
+- **asia** — `assets/cards/yume-asia-20261108.avif` — Metropoli asiatica di notte tra templi e neon
+- **young** — `assets/cards/yume-young-20261108.avif` — Giovane che osserva il cielo stellato da una terrazza
+- **compare** — `assets/cards/yume-compare-20261108.avif` — Studio disegno manga diviso con scena anime
+- **nexus** — `assets/cards/yume-nexus-20261108.avif` — Biblioteca astronomica e atlante di universi narrativi
+
+La griglia usa `yume-feature-art.css` e conserva i collegamenti originali. Gli SVG storici in `assets/cards` non sono referenziati dalle nuove nove card.
