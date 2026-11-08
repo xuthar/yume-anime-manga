@@ -50,3 +50,21 @@ body.young-page{background:linear-gradient(150deg,#161e32ec,#161a2de9),url('asse
 .young-audience strong{font-size:14px;color:#f9e5b8}.young-audience a{color:#b6e5e5;margin-left:5px;text-decoration:none;font-weight:750}
 .young-card-top>span:first-child{user-select:none}
 .young-card-links a:focus-visible,.young-audience a:focus-visible{outline:2px solid #ffe1ab;outline-offset:3px}
+
+/* Public channel editorial strip: decorative, intentionally distinct artwork for each channel. */
+.young-channel-section{margin-top:46px}
+.young-channel-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.young-channel-card{display:flex;flex-direction:column;min-width:0;background:#202941e8;border:1px solid #acdee075;border-radius:18px;overflow:hidden;box-shadow:0 10px 32px #080e2445}
+.young-channel-art{height:132px;display:flex;align-items:center;justify-content:space-between;padding:12px 26px;background:linear-gradient(120deg,#76477c,#352445 60%,#d382a5);color:#fff}
+.young-channel-card:nth-child(2) .young-channel-art{background:linear-gradient(120deg,#136b79,#17445e 60%,#7dced1)}
+.young-channel-card:nth-child(3) .young-channel-art{background:linear-gradient(120deg,#87522b,#53345e 60%,#d6a95c)}
+.young-channel-art>span{font-size:65px;filter:drop-shadow(0 8px 10px #14162580)}
+.young-channel-art>small{font-weight:800;letter-spacing:.08em;font-size:11px;text-transform:uppercase;text-align:right;max-width:130px}
+.young-channel-info{padding:18px;display:flex;flex-direction:column;gap:10px;flex:1}
+.young-channel-info h3{font-size:21px;color:#fff;margin:0}
+.young-channel-info p{line-height:1.6;color:#d8e2ef;font-size:12px;margin:0}
+.young-channel-reach{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline;background:#ffffff0b;padding:9px 12px;border-radius:10px;border:1px solid #ffffff28}
+.young-channel-reach strong{font-size:24px;color:#fee1b3;font-variant-numeric:tabular-nums}
+.young-channel-reach span{font-size:11px;color:#ccedf0}
+@media(max-width:940px){.young-channel-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.young-channel-grid{grid-template-columns:1fr}}
