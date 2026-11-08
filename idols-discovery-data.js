@@ -99,6 +99,8 @@ const officialVT={
  'Rindou Mikoto':'https://www.nijisanji.jp/talents/l/mikoto-rindou'
 };
 const canonical={"Shinonome Umi":"Umi Shinonome","Shinozaki Kokoro":"Kokoro Shinozaki","Miyamoto Saki":"Saki Miyamoto","Momotsuki Nashiko":"Nashiko Momotsuki","Nekota Ashu":"Ashu Nekota","Yunocy":"yunocy"};
+const youngTalent=[["新井心菜","Cocona Arai","2008-12-18","music","MORE STAR","https://asobisystem.com/talent/morestar/"],["遠藤まりん","Marin Endo","2007-03-29","music","MORE STAR","https://asobisystem.com/talent/morestar/"],["笹原なな花","Nanaka Sasahara","2009-07-07","music","MORE STAR","https://asobisystem.com/talent/morestar/"],["中山こはく","Kohaku Nakayama","2008-07-30","music","MORE STAR","https://asobisystem.com/talent/morestar/"],["森田あみ","Ami Morita","2008-02-06","music","MORE STAR","https://asobisystem.com/talent/morestar/"],["星乃 あんな","Anna Hoshino","2009-11-01","fashion","Seventeen","https://seventeen-web.jp/stmodels/anna_hoshino/"],["原田花埜","Hanano Harada","2010-04-04","fashion","Seventeen","https://seventeen-web.jp/stmodels/hanano_harada/"],["希咲 うみ","Umi Kisaki","2010-06-25","fashion","Seventeen","https://seventeen-web.jp/stmodels/umi_kisaki/"],["岡本 望来","Miku Okamoto","2011-10-13","fashion","Seventeen","https://seventeen-web.jp/stmodels/miku_okamoto/"],["川瀬 翠子","Suiko Kawase","2012-03-27","fashion","Seventeen","https://seventeen-web.jp/stmodels/suiko_kawase/"],["平内 心音","Cocone Hirauchi","2011-05-31","fashion","Seventeen","https://seventeen-web.jp/stmodels/cocone_hirauchi/"],["竹下 優名","Yu-na Takeshita","2010-01-14","fashion","Seventeen","https://seventeen-web.jp/stmodels/yuuna_takeshita/"],["佐々木満音","Milon Sasaki","2010-05-14","fashion","Seventeen","https://seventeen-web.jp/stmodels/milon_sasaki/"],["梶原 叶渚","Kanna Kajiwara","2009-07-31","fashion","Seventeen","https://seventeen-web.jp/stmodels/kanna_kajiwara/"],["滝口 芽里衣","Merii Takiguchi","2008-11-04","fashion","Seventeen","https://seventeen-web.jp/stmodels/merii_takiguchi/"],["稲光 亜依","Ai Inamitsu","2008-12-09","fashion","Seventeen","https://seventeen-web.jp/stmodels/ai_inamitsu/"],["小國 舞羽","Mau Oguni","2008-01-24","fashion","Seventeen","https://seventeen-web.jp/stmodels/mau_oguni/"],["松本 麗世","Reiyo Matsumoto","2008-02-29","fashion","Seventeen","https://seventeen-web.jp/stmodels/reiyo_matsumoto/"],["多田 梨音","Rinon Tada","2008-06-07","fashion","Seventeen","https://seventeen-web.jp/stmodels/rinon_tada/"]];
+const teenRestrictedNames=new Set(["稲光亜依"]);
 const people=[],seen=new Set();
 for(const [category,sourceKey,blob] of groups){
  const source=sources[sourceKey];
@@ -106,6 +108,7 @@ for(const [category,sourceKey,blob] of groups){
   let [name,...other]=raw.split(' / ');
   const alternate=other.join(' / ').trim();
   name=canonical[name]||name;
+  if(['gravure','jav','adult'].includes(category)&&teenRestrictedNames.has(name.normalize('NFKC').replace(/\\s/g,'')))continue;
   const key=category+':'+name.normalize('NFKC').toLocaleLowerCase('en');
   if(seen.has(key))continue;seen.add(key);
   people.push({category,name,alternate,source:source.url,sourceLabel:source.label,sourceKind:source.kind,
@@ -115,6 +118,11 @@ for(const [category,sourceKey,blob] of groups){
 for(const item of verified){
  if(!people.some(p=>p.category===item.cat&&p.name===item.name))
  people.push({category:item.cat,name:item.name,alternate:'',source:'https://www.wikidata.org/wiki/'+item.q,sourceLabel:'Wikidata · scheda identificata',sourceKind:'dati strutturati',qid:item.q,officialProfile:officialVT[item.name]||null,platform:null});
+}
+for(const [name,alternate,birth,category,group,url] of youngTalent){
+ const same=people.find(p=>p.category===category&&p.name.replace(/\s/g,'')===name.replace(/\s/g,''));
+ if(same){same.birth=birth;same.alternate=alternate;same.group=group;same.source=url;same.sourceLabel=group+' · profilo ufficiale';same.sourceKind='fonte ufficiale verificata';same.teenSafe=true;continue}
+ people.push({category,name,alternate,birth,group,source:url,sourceLabel:group+' · profilo ufficiale',sourceKind:'fonte ufficiale verificata',officialProfile:url,platform:null,teenSafe:true})
 }
 window.YumeIdolsDiscovery=Object.freeze({updated:'2026-11-08',sources,people,verified,officialVT,stats:{entries:people.length,sources:Object.keys(sources).length}});
 })();
