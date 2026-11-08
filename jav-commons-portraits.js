@@ -124,7 +124,7 @@ async function discover(name){
  const ids=(search.search||[]).filter(x=>x.id&&/^Q\d+$/.test(x.id)).map(x=>x.id);
  if(!ids.length)return null;
  const r=await api('https://www.wikidata.org/w/api.php',{action:'wbgetentities',ids:ids.join('|'),
-  props:'labels|aliases|claims|sitelinks',languages:'ja|en'});
+  props:'labels|aliases|descriptions|claims|sitelinks',languages:'ja|en'});
  const entities=Object.values(r.entities||{}).filter(e=>{
   if(!claim(e,'P21','Q6581072'))return false;
   if((e.claims?.P27||[]).length&&!claim(e,'P27','Q17'))return false;
@@ -132,10 +132,12 @@ async function discover(name){
   if(!names.some(n=>same(n,name)))return false;
   const date=first(e,'P569')?.time;
   const match=typeof date==='string'?date.match(/^\+?(\d{4})-(\d{2})-(\d{2})/):null;
-  if(match&&Number(match[1])>=2009)return false; // not demonstrably an adult
+  if(match){const y=Number(match[1]),m=Number(match[2]),d=Number(match[3]);
+   if(y>2008||(y===2008&&(m>11||(m===11&&d>8))))return false;
+  } // never resolve a Wikidata identity documented as under 18
   // Only documented professional AV performers.
   const description=((e.descriptions?.ja?.value||'')+' '+(e.descriptions?.en?.value||''));
-  const recognized=['Q3282637','Q1079215','Q2252262'];
+  const recognized=['Q488111','Q1079215'];
   const isAV=(e.claims?.P106||[]).some(p=>recognized.includes(p.mainsnak?.datavalue?.value?.id))
     ||/AV女優|pornographic actress|AV idol|porn actor/i.test(description);
   return isAV;
