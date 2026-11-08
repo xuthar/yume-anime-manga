@@ -155,3 +155,14 @@
  .unified-feature-grid > a.yume-art-card:hover{transform:none}
  .unified-feature-grid > a.yume-art-card:hover .yume-card-photo{transform:none}
 }
+
+/* Individual fine-tuned artwork, 9 distinct local files (no repeated src). */
+.unified-feature-grid > a.yume-art-japan .yume-card-photo{object-position:65% 43%;filter:saturate(1.14) contrast(1.07)}
+.unified-feature-grid > a.yume-art-chronos .yume-card-photo{object-position:53% 42%;filter:saturate(1.18) contrast(1.07)}
+.unified-feature-grid > a.yume-art-magazine .yume-card-photo{object-position:52% 45%;filter:saturate(1.14) contrast(1.07)}
+.unified-feature-grid > a.yume-art-idols .yume-card-photo{object-position:47% 43%;filter:saturate(1.08) contrast(1.04)}
+.unified-feature-grid > a.yume-art-sport .yume-card-photo{object-position:55% 42%;filter:saturate(1.22) contrast(1.08)}
+.unified-feature-grid > a.yume-art-asia .yume-card-photo{object-position:58% 45%;filter:saturate(1.15) contrast(1.07)}
+.unified-feature-grid > a.yume-art-young .yume-card-photo{object-position:43% 39%;filter:saturate(1.1) contrast(1.04)}
+.unified-feature-grid > a.yume-art-compare .yume-card-photo{object-position:54% 43%;filter:saturate(1.16) contrast(1.06)}
+.unified-feature-grid > a.yume-art-nexus .yume-card-photo{object-position:59% 38%;filter:saturate(1.2) contrast(1.1)}

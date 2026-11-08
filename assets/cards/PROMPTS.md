@@ -31,3 +31,17 @@ Cinematic Japanese anime environment background illustration, hand painted detai
 6. Non aggiungere volti o marchi riconoscibili: sono ambientazioni illustrative, senza persone.
 
 L'implementazione attuale si trova in `index.html` e `yume-feature-art.css`.
+
+## Rimozione duplicati — 8 novembre 2026
+
+Ogni card ora ha un proprio file illustrato, senza ripetizioni nemmeno quando cambia il ritaglio.
+
+1. **japan**: `assets/yume3-kyoto-panorama.svg` — Kyoto illustrata: torii, monti e ciliegi
+2. **chronos**: `assets/yume3-chronos-scene.svg` — Orologio astrale tra epoche storiche
+3. **magazine**: `assets/yume3-magazine-scene.svg` — Scena editoriale con pagine e riviste
+4. **idols**: `assets/home/music.webp` — Studio musicale notturno
+5. **sport**: `assets/cards/sport.svg` — Medaglia e dinamismo sportivo
+6. **asia**: `assets/home/city.webp` — Skyline asiatico notturno
+7. **young**: `assets/home/garden.webp` — Giardino e luci delle giovani generazioni
+8. **compare**: `assets/yume3-compare-scene.svg` — Libro manga e adattamento animato
+9. **nexus**: `assets/yume3-universe-scene.svg` — Atlante cosmico e connessioni
