@@ -5,10 +5,12 @@
 <meta name="description" content="Idols Asia di Yume: artiste coreane, cinesi, vietnamite, thailandesi, indiane e di tutta l'Asia con fonti, biografie, date e profili verificati.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css?v=20261108-menu-fix1">
-<link rel="stylesheet" href="asia-idols.css?v=20261108-photo-visible2">
+<link rel="stylesheet" href="asia-idols.css?v=20261108-photo-visible2"><link rel="stylesheet" href="asia-nextgen.css?v=20261108-inph1">
 <script defer src="asia-idols-data.js?v=20261108-young2"></script>
+<script defer src="asia-nextgen-data.js?v=20261108-inph1"></script>
 <script defer src="yume-photo-store.js?v=20261108-asia-photo55"></script>
 <script defer src="asia-idols.js?v=20261108-photo-recovery4"></script>
+<script defer src="asia-nextgen.js?v=20261108-inph1"></script>
 <script defer src="yume-global-nav.js?v=20261108-young1"></script>
 <link rel="stylesheet" href="yume-idol-counts.css?v=20261108-asia1"><script defer src="idols-discovery-data.js?v=20261108-adult-cosplay3"></script><script defer src="sport-idols-data.js?v=20261108-young2"></script><script defer src="young-stars-spotlight-data.js?v=20261108-y3"></script><script defer src="young-stars-data.js?v=20261108-y2"></script><script defer src="yume-idol-counts.js?v=20261108-young3"></script><link rel="stylesheet" href="yume-young-teaser.css?v=20261108-y1"></head><body class="asia-idols-page">
 <a class="skip" href="#asia-catalogue">Vai alle idols asiatiche</a>
@@ -21,7 +23,7 @@
  <div class="asia-hero-text"><span class="asia-kicker">亞洲偶像 · 아시아 아이돌 · ASIA IDOLS</span>
  <h1 id="asia-heading"><span>Asia</span> Idols <span class="asia-sakura" aria-hidden="true">✿</span></h1>
  <p>Un viaggio tra le voci e i volti dell'Asia: K-Pop coreano, C-Pop cinese, T-Pop thailandese, V-Pop vietnamita, idol indonesiane, artiste indiane, P-Pop filippino e le VTuber virtuali, ciascuna nella propria scena.</p>
- <div class="asia-hero-links"><a href="#asia-countries" class="asia-cta">Esplora i paesi ↓</a><a href="idols.html" class="asia-cta secondary">Torna a Idols ↗</a></div>
+ <div class="asia-hero-links"><a href="#asia-nextgen" class="asia-cta">India & Filippine ✨</a><a href="#asia-countries" class="asia-cta">Esplora i paesi ↓</a><a href="idols.html" class="asia-cta secondary">Torna a Idols ↗</a></div>
  <div class="asia-hero-note">✧ Biografie con fonti · Nomi d'arte · Social documentati · Ritratti verificati</div>
  </div>
  <div class="asia-hero-art" aria-hidden="true"><span>韓</span><span>泰</span><span>越</span><span>印</span><span>華</span><span>夢</span></div>
@@ -37,6 +39,29 @@
  <p>Ogni nazione dispone del proprio catalogo. Il filtro indica il paese della scena o del gruppo, non necessariamente la cittadinanza dell'artista.</p></div>
  <div id="asia-country-grid" class="asia-country-grid" role="group" aria-label="Paesi disponibili"></div>
 </section>
+<section id="asia-nextgen" class="asia-nextgen-section" aria-labelledby="asia-nextgen-title">
+ <div class="asia-section-head"><span class="asia-kicker">🇮🇳 INDIA · 🇵🇭 PHILIPPINES · NEW GENERATION</span>
+ <h2 id="asia-nextgen-title">Le nuove stelle del Sud e Sud-est asiatico.</h2>
+ <p>Creator, attori, cantanti e modelle con una presenza digitale importante: profili pubblici, attività documentate e collegamenti ai canali ufficiali. Il filtro «Teen 10–19» comprende soltanto persone con data di nascita verificabile; gli altri non vengono classificati per età.</p></div>
+ <div class="asia-nextgen-numbers" aria-label="Statistiche dei nuovi profili">
+  <div><strong id="asia-nextgen-in">—</strong><span>Focus India</span></div>
+  <div><strong id="asia-nextgen-ph">—</strong><span>Focus Filippine</span></div>
+  <div><strong id="asia-nextgen-teen">—</strong><span>Giovani 10–19 documentati</span></div>
+ </div>
+ <div class="asia-nextgen-shortcuts">
+  <button type="button" data-nextgen-jump="in">🇮🇳 Scopri India</button>
+  <button type="button" data-nextgen-jump="ph">🇵🇭 Scopri Filippine</button>
+ </div>
+ <div class="asia-nextgen-controls">
+  <label>Trova una star<input type="search" id="asia-nextgen-search" autocomplete="off" placeholder="Nome, gruppo, moda, dance…"></label>
+  <label>Paese<select id="asia-nextgen-place"><option value="all">India e Filippine</option><option value="in">🇮🇳 India</option><option value="ph">🇵🇭 Filippine</option></select></label>
+  <label>Attività<select id="asia-nextgen-type"><option value="all">Tutte le attività</option><option value="teen">Solo teen 10–19 verificati</option><option value="fashion">Modelle e moda</option><option value="creators">Creator e influencer</option><option value="actors">Attrici e talent</option><option value="music">Cantanti e musica</option></select></label>
+ </div>
+ <p class="asia-nextgen-status" id="asia-nextgen-status" role="status" aria-live="polite"></p>
+ <div class="asia-nextgen-grid" id="asia-nextgen-cards"></div>
+ <div class="asia-nextgen-more"><button type="button" id="asia-nextgen-more">Mostra altri profili ↓</button></div>
+ <p class="asia-disclaimer">I conteggi di follower e iscritti sono <strong>rilevazioni o stime storiche di fonti indipendenti</strong>, non dati in tempo reale. Se una fonte non pubblica un numero attendibile, non mostriamo cifre. Per le persone minorenni sono inclusi soltanto percorso professionale, opere e account pubblici. Le immagini compaiono solo se l'identità e la licenza della fotografia sono documentate.</p>
+</section>
 <section id="asia-catalogue" class="asia-directory" aria-labelledby="asia-directory-title">
  <div class="asia-section-head"><span class="asia-kicker">人物 · 인물 · ARTISTE</span><h2 id="asia-directory-title">Le artiste, una a una.</h2>
  <p>Ricerca nomi latini, grafie originali e gruppi. Per le fotografie utilizziamo soltanto media Wikimedia associati a un'identità confermata. Le pagine ufficiali delle agenzie restano sempre raggiungibili dalle schede.</p></div>
@@ -44,7 +69,7 @@
   <label>Cerca nome o gruppo<input id="asia-search" type="search" placeholder="TWICE, SNH48, Aiah, 杨冰怡, Freya…" autocomplete="off"></label>
   <label>Paese<select id="asia-country-select"><option value="all">Tutti i paesi</option></select></label>
   <label>Gruppo<select id="asia-group-select"><option value="all">Tutti i gruppi</option></select></label>
-  <label>Attività<select id="asia-category-select"><option value="all">Tutte le attività</option><option value="music">Idol musicali</option><option value="actors">Attrici & talent</option><option value="creators">Creator & influencer</option><option value="vtuber">VTuber e identità virtuali</option></select></label>
+  <label>Attività<select id="asia-category-select"><option value="all">Tutte le attività</option><option value="music">Idol musicali</option><option value="actors">Attrici & talent</option><option value="creators">Creator & influencer</option><option value="fashion">Modelle e fashion</option><option value="vtuber">VTuber e identità virtuali</option></select></label>
   <label class="asia-check"><input id="asia-photos-only" type="checkbox"> Solo foto caricate</label>
  </div>
  <div class="asia-directory-top"><p role="status" aria-live="polite" id="asia-status">Caricamento dell'archivio…</p><div class="asia-directory-actions">
