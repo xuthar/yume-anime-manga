@@ -88,8 +88,12 @@
   for(const m of g.roster){
    const label=groupMemberLabel(m,g);
    // Never merge a short stage name with an unrelated existing performer.
-   const found=[key(label),key(m.japanese)].filter(x=>x.length>=6).map(x=>lookup.get(x)).find(p=>p&&p.category==='music');
+   const nameKey=key(label),japaneseKey=key(m.japanese);
+   const probes=[...(nameKey.length>=6?[nameKey]:[]),...(m.japanese&&japaneseKey.length>=4?[japaneseKey]:[])];
+   const found=probes.map(x=>lookup.get(x)).find(p=>p&&p.category==='music');
    if(found){
+    const merged=[...(found.groups||[]),...(found.group?[found.group]:[]),g.name];
+    found.groups=[...new Set(merged)];
     if(!found.group)found.group=g.name;
     found.wikiSource=g.source;found.wikiGroup=g.name;
     if(!found.alternate&&m.japanese)found.alternate=m.japanese;
