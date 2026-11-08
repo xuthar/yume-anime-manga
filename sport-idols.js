@@ -173,8 +173,8 @@ function makePhoto(p,block,preview){
  const image=document.createElement('img');image.alt='Fotografia attribuita a '+(p.latin||p.name);
  image.loading='eager';image.decoding='async';image.referrerPolicy='no-referrer-when-downgrade';
  let index=0;
- image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;p.photo=options[index];image.dataset.loaded='true';remember(p);if(first&&photoOnly.checked&&!preview)render()};
- image.onerror=()=>{index++;if(index<options.length){image.src=options[index];return}p.photoValid=false;p.imageFailed=true;remember(p);image.remove();if(photoOnly.checked)render()};
+ image.onload=()=>{const first=p.photoValid!==true;p.photoValid=true;p.photo=options[index];image.dataset.loaded='true';remember(p);if(first&&photoOnly.checked&&!preview)render();else if(first)updatePhotoStatus()};
+ image.onerror=()=>{index++;if(index<options.length){image.src=options[index];return}p.photoValid=false;p.imageFailed=true;remember(p);image.remove();if(photoOnly.checked)render();else updatePhotoStatus()};
  image.src=options[index];block.append(image)
 }
 function card(p){
@@ -212,12 +212,18 @@ function detail(p){
  modalBody.append(sources,make('p',null,'La fonte del roster indica l’edizione, non l’eventuale squadra attuale. Foto e social sono mostrati solo dopo una verifica dell’identità in Wikidata.'));
  if(!profile.open)profile.showModal()
 }
+function updatePhotoStatus(listCount,shownCount){
+ const found=people.filter(p=>p.photoValid).length;
+ const total=listCount??currentMatches().length,shown=shownCount??Math.min(limit,total);
+ const available=people.filter(p=>p.photoUrls?.length&&!p.imageFailed).length;
+ status.textContent=total+' atlete trovate · '+shown+' visibili · '+found+' foto caricate · '+available+' fotografie documentate con URL · '+people.filter(p=>p.enrichment==='verified').length+' identità verificate su Wikidata.';
+}
 function render(){
  const list=currentMatches(),shown=list.slice(0,limit),frag=document.createDocumentFragment();
  for(const p of shown)frag.append(card(p));
  if(!shown.length)frag.append(make('p','sport-empty',photoOnly.checked?'Nessuna fotografia verificata tra i risultati attualmente caricati. Disattiva il filtro oppure verifica nuovi profili.':'Nessuna atleta corrisponde ai filtri scelti.'));
  grid.replaceChildren(frag);
- status.textContent=list.length+' atlete trovate · '+shown.length+' visibili · '+people.filter(p=>p.photoValid).length+' fotografie caricate · '+people.filter(p=>p.enrichment==='verified').length+' identità verificate su Wikidata. Le foto non disponibili restano collegate alla fonte ufficiale.';
+ updatePhotoStatus(list.length,shown.length);
  more.hidden=list.length<=limit;more.textContent='Mostra altre '+Math.min(32,list.length-limit)+' atlete ↓';
  for(const btn of document.querySelectorAll('[data-sport]'))btn.setAttribute('aria-pressed',String(btn.dataset.sport===current))
 }

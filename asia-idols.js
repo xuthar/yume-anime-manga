@@ -144,8 +144,8 @@ function shown(includePhoto=false){
 function image(p,box){
  const urls=p.photoUrls||[];if(!urls.length||p.broken)return;
  let i=0;const img=document.createElement('img');img.alt='Ritratto pubblico di '+p.name;img.decoding='async';img.loading='eager';img.referrerPolicy='no-referrer-when-downgrade';
- img.onload=()=>{const isNew=p.photoValid!==true;p.photoValid=true;p.broken=false;img.dataset.loaded='true';p.photo=urls[i];store(p);if(isNew&&onlyPhoto.checked)render()};
- img.onerror=()=>{i++;if(i<urls.length){img.src=urls[i];return}p.broken=true;p.photoValid=false;img.remove();store(p);if(onlyPhoto.checked)render()};
+ img.onload=()=>{const isNew=p.photoValid!==true;p.photoValid=true;p.broken=false;img.dataset.loaded='true';p.photo=urls[i];store(p);if(isNew&&onlyPhoto.checked)render();else if(isNew)updatePhotoStatus()};
+ img.onerror=()=>{i++;if(i<urls.length){img.src=urls[i];return}p.broken=true;p.photoValid=false;img.remove();store(p);if(onlyPhoto.checked)render();else updatePhotoStatus()};
  img.src=urls[i];box.append(img)
 }
 function card(p){
@@ -209,13 +209,19 @@ function groupOptions(){
  for(const g of names){const opt=$make('option',null,g);opt.value=g;groupSelect.append(opt)}
  groupSelect.value=group
 }
+function updatePhotoStatus(listCount,shownCount){
+ const loaded=persons.filter(p=>p.photoValid).length;
+ const total=listCount??shown().length,shownLength=shownCount??Math.min(limit,total);
+ const found=persons.filter(p=>p.photoUrls?.length&&!p.broken).length;
+ status.textContent=nc.format(total)+' nomi trovati · '+nc.format(shownLength)+' schede visibili · '+loaded+' foto caricate · '+found+' fotografie documentate · '+persons.filter(p=>p.entityId).length+' identità collegate';
+}
 function render(){
  const list=shown(),subset=list.slice(0,limit),frag=document.createDocumentFragment();
  for(const p of subset)frag.append(card(p));
  if(!subset.length)frag.append($make('p','asia-empty',onlyPhoto.checked?'Non ci sono ancora ritratti Commons confermati per questi filtri. Prova a disattivare il filtro o a verificare nuove schede.':'Nessuna corrispondenza. Prova un nome diverso.'));
  root.replaceChildren(frag);
  const photoCount=persons.filter(p=>p.photoValid).length;
- status.textContent=nc.format(list.length)+' nomi trovati · '+nc.format(subset.length)+' schede visibili · '+photoCount+' ritratti confermati da Wikimedia · '+persons.filter(p=>p.entityId).length+' identità collegate';
+ updatePhotoStatus(list.length,subset.length);
  more.hidden=list.length<=limit;more.textContent='Carica altre '+Math.min(36,list.length-limit)+' artiste ↓'
 }
 $('asia-total').textContent=nc.format(d.total);$('asia-countries-count').textContent=String(d.countries.length);
