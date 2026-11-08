@@ -14,7 +14,7 @@ function select(id,updateHash=false,scroll=false){
  const nav=by('unified-world-links');nav.replaceChildren();
  const seen=new Set();
  const items=[...w.existing.map(([name,url])=>({name,url})),...w.modules.map(key=>{const m=data.modules[key];return m?{name:m.title,url:href(key,m)}:null}).filter(Boolean)];
- if(id==='music')items.unshift({name:'Idols · Music / Gravure / 18+',url:'idols.html'});
+ if(id==='music')items.unshift({name:'Idols · archivio unico (musica, Asia, atlete, Young Stars e 18+)',url:'idols.html#idols-hub'});
  for(const x of items){if(seen.has(x.url))continue;seen.add(x.url);const a=create('a',x.name+' ↗');a.href=x.url;nav.append(a)}
  if(updateHash)history.replaceState({yumeWorld:id},'',location.pathname+location.search+'#world-'+id);
  if(scroll)root.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
