@@ -1,0 +1,64 @@
+/* Yume Sport Idols · Japanese editorial layout */
+body.sport-idols-page{--sport-pink:#f4bde0;--sport-blue:#a5dee1;background:#101624;color:#faf3fa;background-image:linear-gradient(180deg,#111628c7,#101524ef 65%),url('assets/yume3-kyoto-panorama.svg');background-attachment:fixed;background-position:center top;background-size:cover}
+.sport-main{width:min(1320px,calc(100% - 32px));margin:0 auto 65px}
+.sport-hero{margin:20px auto 26px;display:grid;grid-template-columns:1.5fr .75fr;min-height:370px;border:1px solid #f6c6e378;border-radius:24px;overflow:hidden;background:linear-gradient(112deg,#221e3df2,#20354fce),url('assets/yume3-kyoto-panorama.svg') center 58%/cover;box-shadow:0 20px 55px #0506169c}
+.sport-hero-copy{padding:clamp(24px,5vw,58px);position:relative;z-index:2}.sport-kicker{font:800 10px/1.6 'DM Sans',system-ui,sans-serif;letter-spacing:.19em;color:var(--sport-pink)}
+.sport-hero h1{font:800 clamp(48px,7.5vw,94px)/1.03 Outfit,system-ui,sans-serif;letter-spacing:-.065em;margin:18px 0;color:#fff6fb}
+.sport-hero h1 em{font-style:normal;color:#9ee3db}.sport-hero h1 span{font-size:.5em;color:#ecb7db;vertical-align:top;margin-left:12px}
+.sport-hero p{max-width:690px;color:#e1dbe6;font:400 15px/1.8 'DM Sans',system-ui,sans-serif}
+.sport-hero-actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:22px}.sport-button{display:inline-flex;gap:8px;align-items:center;justify-content:center;text-decoration:none;border-radius:24px;border:1px solid #efbfdf;background:#f0c7e4;color:#2a1f35;padding:12px 19px;font-weight:800;font-size:12px}
+.sport-button.subdued{color:#f0d3e9;background:#2e3047d9}.sport-button:hover{filter:brightness(1.11)}
+.sport-hero-note{margin-top:18px;font-size:11px;color:#d1b4d1}
+.sport-hero-visual{position:relative;isolation:isolate;display:grid;align-content:center;justify-items:center;gap:12px;background:radial-gradient(ellipse at center,#efb8df46,transparent 63%),url('assets/yume3-kyoto-panorama.svg') center/cover}.sport-hero-visual:before{position:absolute;inset:0;content:'';background:linear-gradient(90deg,#20263ac5,transparent 60%)}
+.sport-hero-visual span{position:relative;font:700 clamp(56px,7vw,93px)/1.2 'Yu Mincho',serif;color:#f4e0ebdd;text-shadow:0 10px 34px #131525}
+.sport-hero-visual span:nth-child(2){font-size:49px;color:#b2f1ec}.sport-hero-visual span:nth-child(3){font-size:47px}
+.sport-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:20px 0 58px}
+.sport-stats>div{padding:19px 20px;border:1px solid #f0c2e43f;background:#242139c9;border-radius:15px;display:grid;gap:5px}
+.sport-stats strong{font:750 clamp(30px,4vw,48px)/1.05 Outfit,sans-serif;color:#f8cce7}.sport-stats span{font-size:12px;color:#d5ccd9}
+.sport-catalogue{scroll-margin-top:35px}.sport-section-heading{max-width:880px}.sport-section-heading h2,.sport-worlds h2{font:750 clamp(30px,4vw,43px)/1.14 Outfit,sans-serif;letter-spacing:-.035em;margin:13px 0;color:white}
+.sport-section-heading p,.sport-worlds p{color:#d5ccdf;font-size:14px;line-height:1.75}
+.sport-controls{display:grid;grid-template-columns:2fr 1.25fr 1fr auto;align-items:end;gap:10px;margin:28px 0 19px;padding:18px;background:#252438cf;border:1px solid #efc1dd33;border-radius:16px}
+.sport-controls label{font-size:12px;font-weight:750;color:#efdaea;display:grid;gap:8px}
+.sport-controls input:not([type=checkbox]),.sport-controls select{min-width:0;width:100%;box-sizing:border-box;min-height:44px;padding:10px 12px;border:1px solid #e9c4e178;border-radius:9px;background:#15182d;color:#fdf0f9;font-size:13px}
+.sport-controls .sport-photo-filter{display:flex;align-items:center;gap:8px;padding-bottom:10px;white-space:normal}.sport-photo-filter input{accent-color:#e6b4d7;width:16px;height:16px}
+.sport-pills{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 22px}
+.sport-pills button{display:inline-flex;gap:7px;align-items:center;min-height:38px;padding:7px 11px;border-radius:10px;border:1px solid #d7b9d75c;background:#24253dcc;color:#e9deef;font-size:11px;font-weight:750;cursor:pointer}
+.sport-pills button[aria-pressed=true],.sport-pills button:hover{background:#764d72;border-color:#f2c7e5;color:white}
+.sport-count{font-size:13px;color:#e6cedf;margin:15px 0 21px;min-height:21px}
+.sport-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px}
+.sport-card{display:flex;flex-direction:column;min-width:0;border:1px solid #e2bede42;border-radius:16px;overflow:hidden;background:#202438e9;transition:transform .18s,border-color .18s;box-shadow:0 12px 24px #07081544}
+.sport-card:hover{border-color:#f7c4e6;transform:translateY(-3px)}
+.sport-card-top{position:relative;height:185px;display:grid;place-items:center;overflow:hidden;background:radial-gradient(circle at 70% 27%,#a96c9a63,transparent 57%),linear-gradient(125deg,#352d4b,#1a3b4b)}
+.sport-card-top .sport-art{font:700 68px/1 'Yu Mincho',serif;opacity:.7;color:#ead4e7;filter:drop-shadow(0 4px 14px #0b1727)}
+.sport-card-top img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 18%;display:none}
+.sport-card-top img[data-loaded=true]{display:block}
+.sport-card-top .sport-edition{position:absolute;right:9px;top:9px;border:1px solid #ead6e464;border-radius:9px;padding:5px 7px;background:#171b30dc;color:#f8e8f6;font-weight:750;font-size:10px}
+.sport-card-content{padding:14px 15px;display:flex;flex-direction:column;flex:1}
+.sport-card-type{color:#f1bcda;font-size:10px;font-weight:800;letter-spacing:.05em}
+.sport-card h3{margin:8px 0 4px;font:750 18px/1.25 Outfit,sans-serif;color:white}
+.sport-card .sport-roman{margin:0 0 10px;min-height:17px;color:#d2c0d3;font-size:12px}
+.sport-card .sport-birth,.sport-card .sport-age{font-size:11px;line-height:1.5;color:#e4dbeb;margin:3px 0}.sport-card .sport-birth strong,.sport-card .sport-age strong{color:#f9d4e8}
+.sport-card-actions{display:flex;gap:7px;flex-wrap:wrap;margin-top:auto;padding-top:14px}
+.sport-card-actions a,.sport-card-actions button{font:750 11px/1.3 'DM Sans',system-ui,sans-serif;display:inline-flex;align-items:center;padding:8px 10px;border:1px solid #e8b9d956;background:#eebbdc13;color:#f2d8ea;text-decoration:none;border-radius:9px;cursor:pointer}
+.sport-card-actions a:hover,.sport-card-actions button:hover{background:#a877a551;border-color:#efc6df}
+.sport-actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:30px auto}
+.sport-actions button{border:1px solid #e7bddc;border-radius:13px;background:#e9c2e0;color:#221a34;padding:12px 19px;font-size:12px;font-weight:800;cursor:pointer}
+.sport-actions button:last-child{background:#392d4b;color:#f6e6f4}.sport-actions button[disabled]{opacity:.5}
+.sport-actions button[hidden]{display:none}
+.sport-accuracy{padding:20px;border:1px solid #98d9dd51;border-radius:12px;background:#a4cddd12;color:#b9bfcf;font-size:11px;line-height:1.75}
+.sport-worlds{display:flex;justify-content:space-between;gap:18px;align-items:center;flex-wrap:wrap;border-radius:18px;background:#33234085;border:1px solid #edb5d947;padding:25px;margin:50px 0}
+.sport-worlds>div{max-width:740px}
+.sport-empty{grid-column:1/-1;color:#f7dfef;padding:35px 18px;text-align:center;border:1px solid #e3c1da4a;border-radius:15px}
+.sport-profile{position:fixed;inset:0;box-sizing:border-box;max-width:min(740px,calc(100vw - 26px));width:min(740px,calc(100vw - 26px));max-height:min(85vh,830px);padding:30px;border:1px solid #e9c4df7c;border-radius:20px;background:linear-gradient(140deg,#25233e,#151b30);color:#f9f0f9;box-shadow:0 18px 70px #090817ca}
+.sport-profile::backdrop{background:#06071bce;backdrop-filter:blur(5px)}
+.sport-close{position:absolute;right:14px;top:14px;border-radius:9px;border:1px solid #e7c0da8c;background:#6b4666;color:white;font-size:20px;width:39px;height:39px;cursor:pointer}
+.sport-profile h2{font:800 clamp(25px,4vw,40px)/1.15 Outfit,sans-serif;letter-spacing:-.025em;margin:10px 0}
+.sport-profile p{font-size:13px;color:#d9cadc;line-height:1.7}
+.sport-profile-links{display:flex;flex-wrap:wrap;gap:7px;margin:18px 0 4px}
+.sport-profile-links a{display:inline-flex;min-height:34px;align-items:center;text-decoration:none;border:1px solid #eec3e05c;border-radius:9px;background:#e5bad211;padding:7px 11px;color:#f9e8f6;font-size:12px;font-weight:700}
+.sport-modal-photo{max-width:235px;max-height:260px;border-radius:13px;object-fit:cover;float:right;margin:0 0 15px 20px}
+.sport-verified{font-size:11px;color:#9de9d9;font-weight:750}
+@media(max-width:1100px){.sport-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.sport-controls{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.sport-main{width:calc(100% - 20px)}.sport-hero{grid-template-columns:1fr}.sport-hero-visual{display:none}.sport-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.sport-hero-copy{padding:28px 21px}.sport-card-top{height:155px}.sport-card h3{font-size:15px}.sport-card-content{padding:12px}.sport-stats{gap:7px;margin-bottom:39px}.sport-stats>div{padding:14px 12px}.sport-stats span{font-size:10px}body.sport-idols-page{background-attachment:scroll}}
+@media(max-width:450px){.sport-controls{grid-template-columns:1fr}.sport-card-top{height:129px}.sport-card-actions a,.sport-card-actions button{padding:6px 8px;font-size:10px}.sport-card h3{font-size:14px}.sport-roman{font-size:11px!important}.sport-hero h1{font-size:52px}.sport-profile{padding:22px 18px}.sport-modal-photo{max-width:120px;max-height:150px}}
+@media(prefers-reduced-motion:reduce){.sport-card{transition:none}.sport-card:hover{transform:none}}
