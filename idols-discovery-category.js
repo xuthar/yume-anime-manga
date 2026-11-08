@@ -72,14 +72,16 @@ for(const p of data.people){
  dedup.set(key,{...p,categories:new Set([p.category]),sources:[{url:p.source,label:p.sourceLabel,kind:p.sourceKind}]});
 }
 for(const p of dedup.values()){
- p.qid=p.qid||verifiedIds[p.name]||null;p.photoFile=photoFiles[p.name]||null;
+ p.qid=p.qid||verifiedIds[p.name]||null;p.photoFile=photoFiles[p.name]||p.photoFile||null;
  if(data.officialVT[p.name])p.officialProfile=data.officialVT[p.name];
 }
 const people=[...dedup.values()];
-const hasPhoto=p=>{const item=window.YumePhotoStore?.get('japan',p.name);return !!(item?.verified&&item.photo)};
+const photoRecord=p=>active==='jav'&&p.categories.has('jav')?(window.YumeJAVPortraits?.get(p.name)||window.YumePhotoStore?.get('japan',p.name)):
+  window.YumePhotoStore?.get('japan',p.name);
+const hasPhoto=p=>{const item=photoRecord(p);return !!(item?.verified&&item.photo)};
 function categoriesOf(p){return [...p.categories].map(x=>labels[x]||x).join(' · ')}
 function imageCard(p){
- const verified=window.YumePhotoStore?.get('japan',p.name);
+ const verified=photoRecord(p);
  const candidates=[];
  if(verified?.verified&&verified.photo)candidates.push(verified.photo,...(verified.alternates||[]));
  if(p.photoFile)candidates.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile)+'?width=360');
@@ -119,8 +121,8 @@ function item(p){
  actions.append(link(p.officialProfile?'Profilo ufficiale ↗':'Apri fonte ↗',profile));
  if(p.wikiSource&&p.wikiSource!==profile)actions.append(link('J-Pop Wiki · gruppo ↗',p.wikiSource));
  if(p.qid)actions.append(link('Wikidata ↗','https://www.wikidata.org/wiki/'+p.qid));
- const photoRecord=window.YumePhotoStore?.get('japan',p.name);
- if(photoRecord?.verified&&photoRecord.source)actions.append(link('Licenza foto ↗',photoRecord.source));
+ const portrait=photoRecord(p);
+ if(portrait?.verified&&portrait.source)actions.append(link('Licenza foto ↗',portrait.source));
  if(idolRosterX[p.name])actions.append(link('X · dal portale ↗','https://x.com/'+idolRosterX[p.name]));
  if(!p.officialProfile)actions.append(link('Cerca foto ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+(p.alternate||'')+' official profile')));
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
@@ -135,6 +137,7 @@ function render(){
  shown.sort((a,b)=>['creators','adult','jav','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
+ if(active==='jav'&&adultEnabled())window.YumeJAVPortraits?.ensure(display);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
  summary.textContent=shown.length+' nominativi distinti disponibili · '+display.length+' mostrati · '+shown.filter(hasPhoto).length+' con foto indicizzata · '+data.stats.sources+' fonti'+(['creators','adult','jav','gravure'].includes(active)?' · foto documentate per prime':'');
  more.hidden=shown.length<=limit;more.textContent='Mostra altri '+Math.min(48,shown.length-limit)+' nomi ↓';
@@ -160,5 +163,6 @@ cancel.addEventListener('click',()=>{if(document.body.classList.contains('idol-c
 choose(selected);
 if(adultCats.has(selected)&&adultEnabled())list.classList.remove('is-age-pending');
 window.YumePhotoStore?.ready?.then(()=>render()).catch(()=>{});
+window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
 
 })();
