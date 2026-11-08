@@ -48,7 +48,7 @@
   const k=kind==='asia'?country+':'+key(name):key(name);
   return data[kind]?.[k]||fallback[kind]?.[k]||null
  };
- const load=fetch('data/yume-photo-index.json?v=20261108-creators28',{cache:'no-store'})
+ const load=fetch('data/yume-photo-index.json?v=20261108-asia29-gravure',{cache:'no-store'})
  .then(r=>{if(!r.ok)throw Error('Photo index not generated yet');return r.json()})
  .then(json=>{
   if(!json||json.version<1||!json.sport||!json.asia||!json.japan)throw Error('Invalid photo index');
