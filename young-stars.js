@@ -3,7 +3,7 @@
  const d=window.YumeYoungStars,photoStore=window.YumePhotoStore;
  const $=id=>document.getElementById(id),grid=$('young-grid'),query=$('young-query'),
  archive=$('young-archive'),country=$('young-country'),age=$('young-age'),platform=$('young-platform'),
- status=$('young-status'),more=$('young-more'),filters=$('young-categories');
+ status=$('young-status'),more=$('young-more'),filters=$('young-categories'),photoOnly=$('young-photo-only');
  if(!d||!grid)return;
  const countryLabels={jp:'🇯🇵 Giappone',kr:'🇰🇷 Corea',th:'🇹🇭 Thailandia',id:'🇮🇩 Indonesia',vn:'🇻🇳 Vietnam',us:'🇺🇸 USA',gb:'🇬🇧 Regno Unito',au:'🇦🇺 Australia',br:'🇧🇷 Brasile',nl:'🇳🇱 Paesi Bassi',cn:'🇨🇳 Cina',in:'🇮🇳 India',ph:'🇵🇭 Filippine',tw:'🇹🇼 Taiwan'};
  const categories={all:'Tutte',music:'Musica',fashion:'Moda',sport:'Sport',acting:'Cinema & TV',creators:'Creator & Social'};
@@ -11,6 +11,7 @@
  const norm=t=>String(t||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f]/g,'').replace(/\s/g,'');
  const linked=(label,url)=>{const a=$make('a',null,label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a};
  let category='all',limit=32;
+ const matchedPortrait=p=>{const pic=photoStore?.get(p.archive,p.name,p.archive==='asia'?p.scene:null);return !!(pic?.verified&&pic.photo)};
  function filtered(){
   const q=norm(query.value),countryVal=country.value,archiveVal=archive.value,range=age.value.split('-').map(Number);
   return d.people.filter(p=>
@@ -19,17 +20,18 @@
    (archiveVal==='all'||p.archive===archiveVal)&&
    (platform.value==='all'||(p.platforms||[]).some(v=>v[0]===platform.value))&&
    (age.value==='all'||p.ageRange.min>=range[0]&&p.ageRange.max<=range[1])&&
-   (!q||norm(p.name+' '+p.alternate+' '+p.group+' '+(countryLabels[p.scene]||'')).includes(q))
-  ).sort((a,b)=>a.ageRange.min-b.ageRange.min||a.name.localeCompare(b.name,'it'))
+   (!q||norm(p.name+' '+p.alternate+' '+p.group+' '+(countryLabels[p.scene]||'')).includes(q))&&
+   (!photoOnly?.checked||matchedPortrait(p))
+  ).sort((a,b)=>Number(matchedPortrait(b))-Number(matchedPortrait(a))||a.ageRange.min-b.ageRange.min||a.name.localeCompare(b.name,'it'))
  }
  function image(p,wrap){
   const item=photoStore?.get(p.archive,p.name,p.archive==='asia'?p.scene:null);
-  if(!item?.verified||!item.photo)return;
+  if(!item?.verified||!item.photo){wrap.classList.add('is-no-photo');wrap.append($make('small','young-photo-missing','Fotografia non disponibile'));return;}
   const sources=[...new Set([item.photo,...(item.alternates||[])].filter(x=>typeof x==='string'&&x.startsWith('https://')))];
   let i=0;const img=$make('img');img.alt='Ritratto pubblico di '+p.name;
-  img.loading='eager';img.decoding='async';
+  img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
   img.onload=()=>{img.dataset.loaded='true'};
-  img.onerror=()=>{i++;if(i<sources.length)img.src=sources[i];else img.remove()};
+  img.onerror=()=>{i++;if(i<sources.length)img.src=sources[i];else{img.remove();wrap.classList.add('is-no-photo');wrap.append($make('small','young-photo-missing','Fotografia non disponibile'));}};
   img.src=sources[0];wrap.append(img)
  }
  function card(p){
@@ -68,7 +70,8 @@
   for(const p of shown)frag.append(card(p));
   if(!shown.length)frag.append($make('p','young-empty','Nessun profilo corrisponde ai filtri. Sono elencate soltanto persone con età documentata.'));
   grid.replaceChildren(frag);
-  status.textContent=items.length+' profili trovati · '+shown.length+' visualizzati · fonti e canali pubblici citati.';
+  const withPhoto=items.filter(matchedPortrait).length;
+  status.textContent=items.length+' profili trovati · '+withPhoto+' con fotografia Commons associata · '+shown.length+' visualizzati. Foto libere e fonti professionali citate.';
   more.hidden=limit>=items.length;more.textContent='Mostra altre '+Math.min(32,items.length-limit)+' schede ↓';
   for(const btn of document.querySelectorAll('[data-young-category]'))btn.setAttribute('aria-pressed',String(btn.dataset.youngCategory===category))
  }
@@ -84,7 +87,7 @@
   btn.type='button';btn.dataset.youngCategory=k;btn.setAttribute('aria-pressed',String(k==='all'));
   btn.addEventListener('click',()=>{category=k;limit=32;render()});filters.append(btn)
  }
- [query,archive,country,age,platform].forEach(control=>control.addEventListener(control===query?'input':'change',()=>{limit=32;render()}));
+ [query,archive,country,age,platform,photoOnly].filter(Boolean).forEach(control=>control.addEventListener(control===query?'input':'change',()=>{limit=32;render()}));
  more.addEventListener('click',()=>{limit+=32;render()});
  function renderChannels(){
   const target=$('young-channel-grid'),channels=window.YumeYoungSpotlight?.channels||[];
