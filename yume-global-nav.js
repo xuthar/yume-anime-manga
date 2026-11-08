@@ -2,10 +2,11 @@
 (()=>{'use strict';
  const header=document.querySelector('body > header'),nav=header?.querySelector('nav[aria-label="Menu principale"],nav[aria-label="Navigazione principale"]');if(!nav)return;
  const primary=[['index.html','夢','Home'],['index.html#universo','宇','Universo'],['libreria.html#anime','映','Anime'],['libreria.html#manga','漫','Manga'],['seasons.html','季','Seasons'],['jpop.html','音','J-Pop'],['idols.html','星','Idols'],['yume-japan.html','和','Giappone']];
- const secondary=[['young-stars.html','星','Young Stars'],['asia-idols.html','亜','Asia Idols'],['sport-idols.html','競','Sport Idols'],['mie-liste.html','帳','Le mie liste'],['uscite-manga.html','本','Uscite manga'],['calendario-anime.html','曜','Episodi anime'],['tv-giapponese.html','電','TV e Radio'],['yume-magazine.html','誌','Magazine'],['chronos.html','時','Chronos'],['mangaka.html','筆','Mangaka']];
+ const secondary=[['mie-liste.html','帳','Le mie liste'],['uscite-manga.html','本','Uscite manga'],['calendario-anime.html','曜','Episodi anime'],['tv-giapponese.html','電','TV e Radio'],['yume-magazine.html','誌','Magazine'],['chronos.html','時','Chronos'],['mangaka.html','筆','Mangaka']];
  const path=location.pathname.split('/').pop()||'index.html',hash=location.hash;
+ const idolLegacyPages=new Set(['idols.html','asia-idols.html','sport-idols.html','young-stars.html']);
  function item([url,kanji,name]){const a=document.createElement('a'),k=document.createElement('span');a.href=url;a.className='yume-nav-link';a.dataset.label=name;k.className='yume-nav-kanji';k.setAttribute('aria-hidden','true');k.textContent=kanji;a.append(k,document.createTextNode(name));const p=url.split('#')[0];
- const active=path===p&&(url.includes('#')?hash==='#'+url.split('#')[1]:(p!=='index.html'||!['#universo','#ricerca'].includes(hash)&&!hash.startsWith('#world-')));if(active){a.classList.add('active');a.setAttribute('aria-current','page')}return a}
+ const active=(p==='idols.html'&&idolLegacyPages.has(path))||(path===p&&(url.includes('#')?hash==='#'+url.split('#')[1]:(p!=='index.html'||!['#universo','#ricerca'].includes(hash)&&!hash.startsWith('#world-'))));if(active){a.classList.add('active');a.setAttribute('aria-current','page')}return a}
  nav.className='yume-global-nav';nav.setAttribute('aria-label','Menu principale Yume');nav.replaceChildren(...primary.map(item));
  const holder=document.createElement('div');holder.className='yume-nav-more';
  const trigger=document.createElement('button');trigger.type='button';trigger.className='yume-more-trigger';
