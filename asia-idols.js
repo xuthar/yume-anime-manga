@@ -192,9 +192,14 @@ function card(p){
  text.append($make('span','asia-person-country',countryLabel(p.country)));
  text.append($make('h3',null,p.name));
  text.append($make('p','asia-alt',p.alternate||'—'));
- text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':p.category==='creators'?'Creator / influencer':p.category==='vtuber'?'VTuber · personaggio virtuale':'Idol musicale')+' · '+p.groups[0]));
+ text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':p.category==='fashion'?'Modella / fashion':p.category==='creators'?'Creator / influencer':p.category==='vtuber'?'VTuber · personaggio virtuale':'Idol musicale')+' · '+p.groups[0]));
  const date=p.category==='vtuber'?null:dob(p.birth),born=$make('p','asia-meta',p.category==='vtuber'?'Data di nascita reale: non pertinente':'Nascita: '+(date?.text||'Non documentata'));
  const age=$make('p','asia-meta','Età: '+(date?.age!=null?date.age+' anni':'N/D'));text.append(born,age);
+  if(p.editorialBio)text.append($make('p','asia-meta',p.editorialBio));
+  if(p.audience?.count){
+   const metric=(p.audience.count>=1000000?(p.audience.count/1000000).toLocaleString('it-IT',{maximumFractionDigits:1})+' M':(p.audience.count/1000).toLocaleString('it-IT',{maximumFractionDigits:0})+' mila');
+   text.append($make('p','asia-meta','≈ '+metric+' · '+p.audience.platform+' · fonte '+p.audience.date));
+  }
  const links=$make('div','asia-person-actions'),btn=$make('button',null,'Scheda ↗');btn.type='button';btn.addEventListener('click',()=>detail(p));
  const source=groupSource(p);
  links.append(btn);if(source)links.append(external('Foto ufficiali ↗',source.url));
@@ -211,7 +216,7 @@ function detail(p){
  const facts=$make('div','asia-profile-grid');
  const field=(k,v)=>{const item=$make('div');item.append($make('b',null,k),$make('span',null,v||'Non disponibile'));facts.append(item)};
  field('Scena / paese di attività',c?.name);field('Gruppo o attività',p.groups.join(' · '));
- field('Professione',p.category==='actors'?'Attrice, talent':p.category==='creators'?'Creator, influencer o modella':p.category==='vtuber'?'Avatar / identità artistica virtuale':'Idol, cantante o performer');
+ field('Professione',p.category==='actors'?'Attrice, talent':p.category==='fashion'?'Modella, fashion e campagne':p.category==='creators'?'Creator, influencer':p.category==='vtuber'?'Avatar / identità artistica virtuale':'Idol, cantante o performer');
  field(p.category==='vtuber'?'Nascita della persona dietro la voce':'Data di nascita',p.category==='vtuber'?'Non pubblicata / non dedotta':date?.text||'Non documentata');
  field('Età',p.category==='vtuber'?'Non attribuita al personaggio':date?.age!=null?date.age+' anni':'Non documentata');
  field('Nazionalità',p.nationality&&countries[p.nationality]?countries[p.nationality].name+' · diversa dalla scena':'Non specificata separatamente');
