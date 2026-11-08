@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-08T19:35:28.840Z",
+  "updated": "2026-11-08",
   "coverage": {
     "sport": {
       "photos": 109,
@@ -2679,6 +2679,76 @@
       "source": "https://commons.wikimedia.org/wiki/File:170727%E6%80%BB%E9%80%89%20(GNZ48%20%E5%B7%A6%E5%A9%A7%E5%AA%9B).jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
       "verified": true
+    },
+    "ph:alodiagosiengfiao": {
+      "name": "Alodia Gosiengfiao",
+      "scene": "ph",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alodia_Gosiengfiao%2C_2012_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Alodia_Gosiengfiao%2C_2012_(cropped).jpg"
+      ],
+      "file": "Alodia Gosiengfiao, 2012 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Alodia_Gosiengfiao%2C_2012_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Alodia_Gosiengfiao",
+      "license": "Category Alodia Gosiengfiao · termini esatti nella pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
+    },
+    "ph:myrtlesarrosa": {
+      "name": "Myrtle Sarrosa",
+      "scene": "ph",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Myrtle_Sarrosa_as_Supergirl_(2025).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Myrtle_Sarrosa_as_Supergirl_(2025).jpg"
+      ],
+      "file": "Myrtle Sarrosa as Supergirl (2025).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Myrtle_Sarrosa_as_Supergirl_(2025).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Myrtle_Sarrosa_as_Supergirl_(2025).jpg",
+      "license": "Commons · fotografia evento cosplay 2025 · termini esatti nella pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
+    },
+    "ph:meganyoung(boneezy)": {
+      "name": "Megan Young (Boneezy)",
+      "scene": "ph",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Megan_Young_(2023)_(cropped).jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Megan_Young_(2023)_(cropped).jpg"
+      ],
+      "file": "Megan Young (2023) (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Megan_Young_(2023)_(cropped).jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Megan_Young",
+      "license": "Commons · profilo Megan Young · termini esatti nella pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
+    },
+    "ph:mikasalamanca": {
+      "name": "Mika Salamanca",
+      "scene": "ph",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mika_Salamanca.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Mika_Salamanca.jpg"
+      ],
+      "file": "Mika Salamanca.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mika_Salamanca.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/File:Mika_Salamanca.jpg",
+      "license": "Commons · pubblico dominio Filippine · termini esatti nella pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
+    },
+    "ph:bellapoarch": {
+      "name": "Bella Poarch",
+      "scene": "ph",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bella_Poarch_-_Pink_Aura_Tour_2.jpg?width=480",
+      "alternates": [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Bella_Poarch_-_Pink_Aura_Tour_2.jpg"
+      ],
+      "file": "Bella Poarch - Pink Aura Tour 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bella_Poarch_-_Pink_Aura_Tour_2.jpg",
+      "photoIdentitySource": "https://commons.wikimedia.org/wiki/Category:Bella_Poarch",
+      "license": "Commons · file del Pink Aura Tour · termini esatti nella pagina del file",
+      "verified": true,
+      "verifiedAt": "2026-11-08"
     }
   },
   "japan": {
@@ -3596,5 +3666,5 @@
       "photoStatus": "documentedCommonsFile"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza. · 2026-11-08: 13 attrici adulte con ritratti individuali Commons e alias giapponesi."
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza. · 2026-11-08: 13 attrici adulte con ritratti individuali Commons e alias giapponesi. · 2026-11-08: 5 fotografie verificate di creator filippine, separate dai profili senza licenza fotografica."
 }
