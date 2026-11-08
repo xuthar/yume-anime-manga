@@ -46,4 +46,4 @@
 })();
 
 /* Artist profiles use the shared kanji header without replacing the artist detail. */
-(()=>{const nav=document.querySelector('body > header nav[aria-label="Menu principale"]');if(!nav||document.querySelector('script[src*="yume-global-nav.js"]'))return;const s=document.createElement('script');s.src='yume-global-nav.js?v=20261108-menu-fix1';document.head.append(s)})();
+(()=>{const nav=document.querySelector('body > header nav[aria-label="Menu principale"]');if(!nav||document.querySelector('script[src*="yume-global-nav.js"]'))return;const s=document.createElement('script');s.src='yume-global-nav.js?v=20261108-menu-dialog-1';document.head.append(s)})();
