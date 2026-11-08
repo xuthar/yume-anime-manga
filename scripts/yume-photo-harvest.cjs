@@ -35,8 +35,9 @@ for(const p of japan.people){
 entries.push(...jpUnique.values());
 const stats={total:entries.length,sport:sport.people.length,asia:asia.people.filter(p=>!virtualCategories.has(p.category)).length,japan:jpUnique.size};
 const old=fs.existsSync(dest)?JSON.parse(fs.readFileSync(dest,'utf8')):{};
-const out={version:2,updated:new Date().toISOString(),coverage:{},sport:{},asia:{},japan:{},notes:'Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata.'};
+const out={version:2,updated:new Date().toISOString(),coverage:{...(old.coverage||{})},sport:{},asia:{},japan:{},global:{...(old.global||{})},notes:old.notes||'Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata.'};
 for(const k of ['sport','asia','japan'])Object.assign(out[k],old[k]||{});
+// Preserve manually curated international Young Stars photos across scheduled harvests.
 const headers={'User-Agent':'YumePhotoResearch/1.1 (noncommercial public GitHub Pages gallery; github.com/xuthar/yume-anime-manga)','Accept':'application/json'};
 const sleep=t=>new Promise(resolve=>setTimeout(resolve,t));
 let apiCount=0,failures=0;
@@ -146,7 +147,10 @@ function photoFile(e){
  return vals.find(x=>typeof x==='string'&&/\.(jpe?g|png|webp)$/i.test(x))||null;
 }
 function addResult(p,entity,sourceHint){
- const file=photoFile(entity),found=imageByQid.get(entity.id);
+ const curated=out[p.kind]?.[p.key];
+  // Never overwrite individually matched Commons photographs with an unreviewed search result.
+  if(curated?.verified&&(curated.photoIdentitySource||curated.adultOnly||curated.verifiedAt))return;
+  const file=photoFile(entity),found=imageByQid.get(entity.id);
  const record={qid:entity.id,name:p.name,photo:null,alternates:[],file:file||null,
   source:file?'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replace(/^File:/i,'')):sourceHint||null,
   license:'Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni',verified:true};
@@ -235,7 +239,7 @@ async function main(){
  await resolveEntities();
  const coverage={};
  for(const kind of ['sport','asia','japan'])coverage[kind]={photos:Object.keys(out[kind]).length,total:stats[kind]};
- out.coverage=coverage;
+ out.coverage={...(old.coverage||{}),...coverage,global:{photos:Object.keys(out.global||{}).length,total:Object.keys(out.global||{}).length,notes:'International Young Stars photographs retained from the curated photo index.'}};
  fs.mkdirSync(path.dirname(dest),{recursive:true});
  fs.writeFileSync(dest,JSON.stringify(out,null,2)+'\n');
  const report={generated:out.updated,stats,coverage,apiRequests:apiCount,failedRequests:failures};
