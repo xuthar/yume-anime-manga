@@ -5,7 +5,7 @@
 const data=window.YumeIdolsDiscovery;
 if(!data)return;
 const $=id=>document.getElementById(id),root=$('idols-discover');if(!root)return;
-const input=$('discovery-search'),list=$('discovery-list'),summary=$('discovery-summary'),more=$('discovery-more'),ageDialog=$('discovery-age-dialog');
+const input=$('discovery-search'),list=$('discovery-list'),summary=$('discovery-summary'),more=$('discovery-more'),ageDialog=$('discovery-age-dialog'),photoOnly=$('discovery-photo-only');
 const gate=$('discovery-age-enter'),cancel=$('discovery-age-back');
 const adultCats=new Set(['jav','adult']);
 const labels={all:'Tutte',music:'Idol musicali',groups:'Gruppi idol',gravure:'Gravure',fashion:'Modelli',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'Adult 18+'};
@@ -79,12 +79,18 @@ function imageCard(p){
  const candidates=[];
  if(verified?.verified&&verified.photo)candidates.push(verified.photo,...(verified.alternates||[]));
  if(p.photoFile)candidates.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile)+'?width=360');
- if(!candidates.length)return null;
+ if(!candidates.length){
+  if(!p.categories.has('creators'))return null;
+  const wrap=make('div','discovery-portrait is-unavailable'),monogram=make('span','discovery-portrait-glyph','✦');
+  wrap.setAttribute('aria-label','Foto non disponibile per '+p.name);wrap.append(monogram,make('small',null,'Ritratto non disponibile'));return wrap;
+ }
  const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&x.startsWith('https://')))];
  const wrap=make('div','discovery-portrait'),img=document.createElement('img');
  img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';
  let i=0;
- img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else wrap.remove()};
+ img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else if(p.categories.has('creators')){
+    wrap.classList.add('is-unavailable');wrap.replaceChildren(make('span','discovery-portrait-glyph','✦'),make('small',null,'Ritratto non disponibile'));
+   }else wrap.remove()};
  img.src=urls[0];wrap.append(img);return wrap
 }
 function item(p){
@@ -122,12 +128,12 @@ function item(p){
 function isAllowed(p){if(adultCats.has(active))return p.categories.has(active)&&adultEnabled();
  return active==='all'?[...p.categories].some(c=>!adultCats.has(c)):p.categories.has(active)}
 function render(){
- const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)&&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
- shown.sort((a,b)=>a.name.localeCompare(b.name,'it'));
+ const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)&&(!photoOnly?.checked||!['creators','all'].includes(active)||Boolean(window.YumePhotoStore?.get('japan',p.name)?.verified&&window.YumePhotoStore?.get('japan',p.name)?.photo))&&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
+ shown.sort((a,b)=>active==='creators'?(Number(Boolean(window.YumePhotoStore?.get('japan',b.name)?.verified&&window.YumePhotoStore?.get('japan',b.name)?.photo))-Number(Boolean(window.YumePhotoStore?.get('japan',a.name)?.verified&&window.YumePhotoStore?.get('japan',a.name)?.photo))||a.name.localeCompare(b.name,'it')):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
- summary.textContent=shown.length+' nominativi distinti disponibili in questa selezione · '+display.length+' mostrati · '+data.stats.sources+' fonti consultate';
+ summary.textContent=shown.length+' nominativi distinti disponibili in questa selezione · '+display.length+' mostrati · '+data.stats.sources+' fonti consultate'+(active==='creators'?' · ritratti verificati mostrati prima':'');
  more.hidden=shown.length<=limit;more.textContent='Mostra altri '+Math.min(48,shown.length-limit)+' nomi ↓';
  for(const button of document.querySelectorAll('[data-discovery-category]'))button.setAttribute('aria-pressed',String(button.dataset.discoveryCategory===active));
 }
@@ -137,6 +143,7 @@ function choose(k){
 }
 document.querySelectorAll('[data-discovery-category]').forEach(btn=>btn.addEventListener('click',()=>choose(btn.dataset.discoveryCategory)));
 input.addEventListener('input',()=>{limit=48;render()});
+photoOnly?.addEventListener('change',()=>{limit=48;render()});
 more.addEventListener('click',()=>{limit+=48;render()});
 gate.addEventListener('click',()=>{try{sessionStorage.setItem('yume-idols-adult-18','yes')}catch{}const k=pending;pending=null;ageDialog.close();if(k)choose(k)});
 cancel.addEventListener('click',()=>{pending=null;ageDialog.close()});
