@@ -4,7 +4,9 @@
 <meta name="theme-color" content="#171627"><meta name="description" content="Idols: archivio consultabile di professioniste e artisti del Giappone, con biografie, fotografie e link ufficiali. Area adult 18+ con ritratti non espliciti.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://xuthar.github.io/yume-anime-manga/idols.html">
 <link rel="stylesheet" href="style.css?v=20261108-menu-fix1"><link rel="stylesheet" href="idols.css?v=20261108-idols-photo5">
-<script defer src="idols.js?v=20261108-idols-photo6"></script><script defer src="yume-universe-nav.js?v=20261108-1"></script>
+<script defer src="idols-discovery-data.js?v=20261108-seed1"></script>
+<script defer src="idols.js?v=20261108-idols-photo6"></script>
+<script defer src="idols-discovery-ui.js?v=20261108-seed1"></script><script defer src="yume-universe-nav.js?v=20261108-1"></script>
 <title>Idols · Musica, gravure, JAV e adult — Yume</title><script defer src="yume-global-nav.js?v=20261108-menu-dialog-1"></script></head>
 <body class="idols-page"><a class="skip" href="#idols-directory">Vai all'archivio</a>
 <header><a class="brand" href="index.html"><span class="mark">夢</span><span>yume<span class="brand-dot">.</span><small>ANIME · MANGA · JAPAN</small></span></a><nav aria-label="Navigazione principale"><a href="index.html">Home</a><a href="index.html#universo">Universo</a><a href="libreria.html">La libreria</a><a href="jpop.html">J-Pop</a><a href="yume-japan.html">Yume Japan</a><a href="idols.html" class="active" aria-current="page">Idols</a></nav></header>
@@ -30,7 +32,31 @@
  <div class="idol-actions"><button type="button" id="idol-online-search" class="idol-find" hidden>Cerca altre persone su Wikidata</button><button type="button" id="idol-more" class="idol-load">Carica altri profili ✦</button><button type="button" id="idol-retry" class="idol-retry" hidden>Riprova la connessione</button></div>
  <p class="idol-source-note">Fonte: <a href="https://www.wikidata.org/" target="_blank" rel="noopener noreferrer">Wikidata</a> (dati strutturati CC0). Fotografie, quando disponibili: Wikimedia Commons oppure miniature libere da Wikipedia, con licenze consultabili nelle relative pagine. Età calcolata solo quando la data di nascita è completa, altrimenti indicata come non disponibile. Nessuna foto attribuita per somiglianza o generata artificialmente. I profili sono identificati con l'elemento Wikidata, senza duplicazioni inventate. <a href="https://www.wikidata.org/wiki/Wikidata:Introduction" target="_blank" rel="noopener noreferrer">Correggi o integra una fonte ↗</a></p>
 </section>
+<section class="idols-discover" id="idols-discover" aria-labelledby="discovery-heading">
+ <div class="discovery-heading"><span class="idol-kicker">発見 · YUME DISCOVERY 2026</span><h2 id="discovery-heading">Nuovi volti, nuovi nomi d'arte.</h2>
+ <p>Un repertorio editoriale consultabile anche quando Wikidata non ha una foto: gravure, modelle, idol, creator social, VTuber e interpreti adult. Sono <strong>nomi presenti nelle fonti collegate</strong>, non biografie inventate. Le immagini compaiono soltanto dove è disponibile un ritratto attribuito e utilizzabile; per gli altri profili puoi aprire la pagina originale con le sue fotografie.</p>
+ </div>
+ <div class="discovery-categories" role="group" aria-label="Filtra il repertorio di persone e VTuber">
+ <button type="button" data-discovery-category="all" aria-pressed="true">夢 Tutti</button>
+ <button type="button" data-discovery-category="gravure" aria-pressed="false">✿ Gravure</button>
+ <button type="button" data-discovery-category="fashion" aria-pressed="false">装 Fashion</button>
+ <button type="button" data-discovery-category="creators" aria-pressed="false">網 Creator</button>
+ <button type="button" data-discovery-category="vtuber" aria-pressed="false">電 VTuber</button>
+ <button type="button" data-discovery-category="jav" aria-pressed="false">18+ JAV</button>
+ <button type="button" data-discovery-category="adult" aria-pressed="false">18+ Adult</button>
+ </div>
+ <div class="discovery-controls"><label for="discovery-search">Cerca nome o nome d'arte<input id="discovery-search" type="search" autocomplete="off" placeholder="Es. Enako, Riku, Pekora, えなこ…"></label><p id="discovery-summary" role="status" aria-live="polite"></p></div>
+ <div id="discovery-list" class="discovery-grid"></div>
+ <div class="discovery-more-row"><button id="discovery-more" type="button">Mostra altri nomi ↓</button></div>
+ <p class="discovery-disclaimer">Fonti: hololive e NIJISANJI (elenchi e annunci ufficiali), GRAVURE DIG, First Gravure, Gravure Idol Searcher, celeb-db, repertori GROVE, Virev e Oshidols. I social non verificati sono collegamenti di ricerca, non account attribuiti. I compleanni dei VTuber sono quelli pubblici del personaggio, mai l'età di chi presta la voce. I portali JAV possono contenere materiale destinato ai maggiorenni.</p>
+</section>
 </main>
+<dialog id="discovery-age-dialog" class="discovery-age-dialog" aria-labelledby="discovery-age-title">
+ <span class="idol-kicker">十八禁 · AREA 18+</span>
+ <h2 id="discovery-age-title">Archivio per adulti</h2>
+ <p>Le sezioni JAV e Adult comprendono nomi professionali di performer. I collegamenti esterni possono condurre a portali riservati ai maggiorenni. Vuoi continuare?</p>
+ <div><button id="discovery-age-enter" type="button">Ho almeno 18 anni</button><button id="discovery-age-back" type="button">Annulla</button></div>
+</dialog>
 <dialog class="idol-profile" id="idol-profile" aria-labelledby="idol-profile-title"><button class="idol-close" id="idol-close" type="button" aria-label="Chiudi la scheda">✕</button><div id="idol-profile-body"></div></dialog>
 <dialog class="idol-age-dialog" id="idol-age-dialog" aria-labelledby="idol-age-heading"><div class="idol-age-symbol">十八禁</div><h2 id="idol-age-heading">Area riservata ai maggiorenni</h2><p>Le sezioni JAV e Adult riguardano performer del settore per adulti. Le schede mostrano soltanto informazioni professionali e immagini non esplicite. Devi aver compiuto 18 anni per accedere.</p><div class="idol-age-actions"><button type="button" id="idol-age-accept">Ho almeno 18 anni · Entra</button><button type="button" id="idol-age-decline">Torna alle idol musicali</button></div><small>Conferma dichiarativa, non una verifica dell'identità.</small></dialog>
 <footer><a class="footer-brand" href="index.html">yume<span class="brand-dot">.</span></a><p>Una sola casa per le storie e la cultura del Giappone.</p><nav class="legal-links" aria-label="Informazioni"><a href="privacy.html">Privacy</a><a href="index.html#universo">Universo di Yume</a></nav></footer>

@@ -77,3 +77,44 @@
 @media(max-width:750px){.idols-page .idol-categories{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:430px){.idols-page .idol-categories button{font-size:11px;min-height:58px}.idols-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(prefers-reduced-motion:reduce){.idol-card-photo:before{animation:none}}
+
+
+/* Yume editorial people directory — no misattributed portrait placeholders */
+.idols-discover{margin:70px auto 30px;padding:clamp(22px,3vw,38px);border:1px solid #f2c4df42;border-radius:24px;background:linear-gradient(160deg,#2a2138ed,#15243ae8 64%,#1c1f34f3),url('assets/yume3-kyoto-panorama.svg') center/cover;box-shadow:0 15px 40px #0a0b197a;scroll-margin-top:30px}
+.discovery-heading{max-width:920px}.discovery-heading h2{font:750 clamp(29px,4vw,44px)/1.13 Outfit,system-ui,sans-serif;color:#fdf1fa;margin:12px 0}
+.discovery-heading p{color:#e1d5e3;line-height:1.7;font-size:14px}
+.discovery-categories{display:flex;flex-wrap:wrap;gap:9px;margin:25px 0 14px}
+.discovery-categories button{appearance:none;min-height:42px;min-width:92px;padding:9px 15px;border:1px solid #f4cce66b;border-radius:12px;background:#33304edc;color:#f2e5f0;font-weight:750;font-size:12px;cursor:pointer}
+.discovery-categories button:hover,.discovery-categories button[aria-pressed=true]{background:#765375;border-color:#f4c1e4;color:white}
+.discovery-controls{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:14px;margin:20px 0}
+.discovery-controls label{display:grid;gap:8px;color:#e8d3e7;font-size:12px;font-weight:750}
+.discovery-controls input{box-sizing:border-box;width:min(410px,calc(100vw - 90px));min-height:45px;padding:12px 15px;background:#11182bdc;border:1px solid #e7c6e16b;border-radius:10px;color:#fff5fb;font-size:14px}
+.discovery-controls>p{font-size:12px;color:#d5bdd2;line-height:1.5;max-width:520px}
+.discovery-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.discovery-card{min-width:0;display:flex;flex-direction:row;overflow:hidden;border:1px solid #efc0e235;border-radius:14px;background:#181b31ef;transition:border-color .2s,transform .2s}
+.discovery-card:hover{border-color:#efbddf85;transform:translateY(-2px)}
+.discovery-portrait{width:100px;min-width:100px;min-height:145px;background:#29223c;align-self:stretch;overflow:hidden}
+.discovery-portrait img{display:block;width:100%;height:100%;object-fit:cover;object-position:center top}
+.discovery-card-body{display:flex;flex:1;flex-direction:column;min-width:0;padding:15px}
+.discovery-card-type{color:#f7bddd;font-size:10px;font-weight:780;text-transform:uppercase;line-height:1.5}
+.discovery-card h3{color:#fff2fb;font:700 16px/1.24 Outfit,system-ui,sans-serif;margin:7px 0 4px;overflow-wrap:anywhere}
+.discovery-card .discovery-japanese{font-size:11px;color:#e2c0d5;margin:3px 0}
+.discovery-card-detail{font-size:11px;color:#c7bbd1;line-height:1.45;margin:7px 0 8px}
+.discovery-character-birthday{font-size:11px;color:#a9ded9;line-height:1.45;margin:4px 0}
+.discovery-card-links{margin-top:auto;padding-top:7px;display:flex;gap:6px;flex-wrap:wrap}
+.discovery-card-links a{padding:7px 9px;border:1px solid #edbedf45;border-radius:8px;background:#f3c0dc0b;color:#f3e0ec;text-decoration:none;font-size:10px;line-height:1.2;font-weight:750}
+.discovery-card-links a:hover{background:#efc2e13b;border-color:#efbee0}
+.discovery-more-row{text-align:center;padding:26px 0 8px}
+.discovery-more-row button{padding:13px 22px;border:1px solid #edc1df;border-radius:24px;background:#e5bbd9;color:#2f2140;font-weight:780;cursor:pointer}
+.discovery-more-row button[hidden]{display:none}
+.discovery-disclaimer{padding:15px 0 0;border-top:1px solid #e2c0d22d;margin-top:18px;color:#b8aabd;font-size:11px;line-height:1.7}
+.discovery-empty{grid-column:1/-1;padding:20px;color:#f0d8e9}
+.discovery-age-dialog{max-width:440px;width:calc(100vw - 40px);padding:28px;border:1px solid #e7bddd;border-radius:18px;background:#26223e;color:#faeff6;box-shadow:0 16px 60px #090c1cef}
+.discovery-age-dialog::backdrop{background:#070a1bd6;backdrop-filter:blur(5px)}
+.discovery-age-dialog h2{font-size:27px;margin:10px 0}.discovery-age-dialog p{font-size:14px;line-height:1.7}
+.discovery-age-dialog>div{display:flex;gap:12px;margin-top:18px;flex-wrap:wrap}
+.discovery-age-dialog button{padding:12px 16px;border:1px solid #e7bfdd;border-radius:10px;background:#63415f;color:white;cursor:pointer}
+.discovery-age-dialog button:last-child{background:#272740}
+@media(max-width:1160px){.discovery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.idols-discover{margin:40px 0 25px;padding:18px 14px;border-radius:16px}.discovery-grid{grid-template-columns:1fr}.discovery-categories{gap:6px}.discovery-categories button{min-width:0;font-size:11px;min-height:38px;padding:7px 9px}.discovery-card{min-height:132px}.discovery-portrait{width:93px;min-width:93px;min-height:132px}}
+@media(prefers-reduced-motion:reduce){.discovery-card{transition:none}}
