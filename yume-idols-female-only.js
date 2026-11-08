@@ -18,7 +18,7 @@
   'Hikaru (YouTuber)','Kimagure Cook','Masuo',
   'Kazu (YouTuber)','SUSURU','Yuuki',
   // Publicly identified male-presenting NIJISANJI characters.
-  'Tsukahara Daichi','Kuri Eita','Onotora'
+  'Tsukahara Daichi','Kuri Eita','Onotora','Rayon'
  ];
  const excludedAsia=[
   // India: male creators, actors, models and child singers.
