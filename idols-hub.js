@@ -66,6 +66,11 @@
    tabs[n].focus();openSection(tabs[n].dataset.idolsHubTab,{scroll:false});
   });
  });
+ window.addEventListener('message',event=>{
+  if(event.origin!==location.origin||event.source!==viewer.contentWindow)return;
+  const msg=event.data;
+  if(msg?.type==='yume-idols-category'&&known.has(msg.key))openSection(msg.key,{scroll:true});
+ });
  viewer.addEventListener('load',()=>{status.textContent='Sfoglia il catalogo qui sotto, senza uscire da Idols.'});
  window.addEventListener('hashchange',()=>{
   const key=normalize(location.hash);
