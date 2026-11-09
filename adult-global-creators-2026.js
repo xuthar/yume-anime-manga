@@ -767,9 +767,28 @@ for(const [category,name,birthYear,commonsCategory,file,focus,country,publicSour
  else {people.push(p);existing.set(key,people.length-1);}
  curated.push({name,category,commonsCategory,file,year:birthYear,focus,country,source,platforms,verificationNote});
 }
+// Fantia archival listings, documented by the 2023 directory. These are not
+// claims that paid accounts are still active today. Underage scenes excluded.
+const olderFantia={
+ '天海つばさ':['Fantia'],'うんぱい':['Fantia','OnlyFans'],
+ '里美ゆりあ':['Fantia'],'友田彩也香':['Fantia'],
+ '初川みなみ':['Fantia'],'辰巳ゆい':['Fantia'],
+ 'めぐり':['Fantia'],'南梨央奈':['Fantia'],
+ '川菜美鈴':['Fantia'],'北野未奈':['Fantia'],
+ '稲森美優':['Fantia'],'永井マリア':['Fantia','OnlyFans','myfans','LoyalFans']
+};
+let enhancedJav=0;
+for(const p of people){
+ if(p.category!=='jav'||!Object.hasOwn(olderFantia,p.name))continue;
+ p.adultPlatforms=[...new Set([...(p.adultPlatforms||[]),...olderFantia[p.name]])];
+ p.platformsVerifiedAsOf='2023-12-15';
+ p.platformsSource='https://adultinfojpn.com/info/fantia/';
+ p.adultCountry='JP';
+ enhancedJav++;
+}
 window.YumeIdolsDiscovery=Object.freeze({...old,people,updated:'2026-11-09',
  stats:{...old.stats,entries:people.length},regionPolicy:'solo Asia, provenienza documentata'});
 window.YumeAdultGlobal2026=Object.freeze({updated:'2026-11-09',records:curated,
- byCategory:{adult:curated.filter(x=>x.category==='adult').length,onlyfans:curated.filter(x=>x.category==='onlyfans').length},
+ byCategory:{adult:curated.filter(x=>x.category==='adult').length,onlyfans:curated.filter(x=>x.category==='onlyfans').length},enhancedJav,
  policy:'Solo artiste con provenienza documentata da paesi asiatici; 18+; immagini Commons non esplicite; Young Stars separate'});
 })();
