@@ -63,3 +63,8 @@ body.idols-portal-page{background:linear-gradient(140deg,#11182dce,#17142be8),ur
 .idol-portal-banner.art-onlyfans{--portal-art:radial-gradient(circle at 68% 14%,#f3baed8f,transparent 39%),radial-gradient(circle at 27% 74%,#8bbee88a,transparent 46%),linear-gradient(130deg,#483059,#1f3657)}
 @media (max-width:990px){.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:610px){.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:1fr}}
+
+/* Distinct visuals for India and Philippines dance showcases */
+.idol-portal-banner.art-india{--portal-art:radial-gradient(circle at 80% 15%,#f9b86c99,transparent 38%),linear-gradient(133deg,#4a2c58a8,#272143a8),url('assets/yume-japan-folklore.svg')}
+.idol-portal-banner.art-danceph{--portal-art:radial-gradient(circle at 80% 15%,#9bd9ecad,transparent 39%),linear-gradient(123deg,#422b5999,#173a49c2),url('assets/yume-cosmos-discover.svg')}
+.idol-portal-banner.art-india .idol-banner-glyph,.idol-portal-banner.art-danceph .idol-banner-glyph{font-size:64px;top:14px;right:15px}
