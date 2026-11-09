@@ -85,6 +85,7 @@ for(const p of dedup.values()){
 const people=[...dedup.values()];
 const photoRecord=p=>{
  const shared=window.YumePhotoStore?.get('japan',p.name);
+ if(active==='gravure'&&p.categories.has('gravure'))return window.YumeGravurePortraits?.get(p.name)||shared;
  if(active==='jav'&&p.categories.has('jav'))return window.YumeJAVPortraits?.get(p.name)||shared;
  if((active==='adult'||active==='onlyfans')&&p.categories.has(active))return window.YumeAdultPortraits?.get(p.name,active)||shared;
  return shared;
@@ -238,6 +239,7 @@ function render(){
  shown.sort((a,b)=>['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
+ if(active==='gravure')window.YumeGravurePortraits?.ensure(display);
  if(active==='jav'&&adultEnabled())window.YumeJAVPortraits?.ensure(display);
  if(['adult','onlyfans'].includes(active)&&adultEnabled())window.YumeAdultPortraits?.ensure(display,active);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
@@ -266,6 +268,7 @@ cancel.addEventListener('click',()=>{if(document.body.classList.contains('idol-c
 choose(selected);
 if(adultCats.has(selected)&&adultEnabled())list.classList.remove('is-age-pending');
 window.YumePhotoStore?.ready?.then(()=>render()).catch(()=>{});
+window.addEventListener('yume-gravure-photo-update',()=>{if(active==='gravure')render()});
 window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
 window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled()){brokenImages.clear();render()}});
 
