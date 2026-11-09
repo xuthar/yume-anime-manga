@@ -75,6 +75,16 @@ for(const p of data.people){
  if(!prev.adultCountry&&p.adultCountry)prev.adultCountry=p.adultCountry;
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
  if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
+ // Gravure performers sometimes appear first under fashion, music, cosplay or JAV.
+ // Keep the matching, separately sourced A–Z metadata on the unified card.
+ if(p.category==='gravure'&&p.gravureIndexBirthYear){
+  prev.gravureIndexBirthYear=p.gravureIndexBirthYear;
+  prev.gravureIndexJapanese=p.gravureIndexJapanese||prev.gravureIndexJapanese;
+  prev.gravureIndexSource=p.gravureIndexSource;
+  prev.gravureBirthYearSource=p.gravureBirthYearSource;
+  if(!prev.alternate)prev.alternate=p.alternate||p.gravureIndexJapanese||'';
+  prev.otherStageNames=[...new Set([...(prev.otherStageNames||[]),...(p.otherStageNames||[])])];
+ }
  continue}
  dedup.set(key,{...p,categories:new Set([p.category]),sources:[{url:p.source,label:p.sourceLabel,kind:p.sourceKind}]});
 }
