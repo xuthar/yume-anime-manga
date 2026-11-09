@@ -71,6 +71,7 @@ for(const p of data.people){
  if(dedup.has(key)){const prev=dedup.get(key);
  prev.categories.add(p.category);
  if(!prev.sources.some(s=>s.url===p.source))prev.sources.push({url:p.source,label:p.sourceLabel,kind:p.sourceKind});
+ if(p.cosplayFocus){prev.cosplayFocus=p.cosplayFocus;prev.cosplayGuideSource=p.cosplayGuideSource;prev.cosplayGuideDate=p.cosplayGuideDate;prev.cosplaySocials=p.cosplaySocials;prev.cosplayJapanese=p.cosplayJapanese;if(!prev.alternate)prev.alternate=p.alternate||p.cosplayJapanese||'';}
  if(p.adultPlatforms?.length)prev.adultPlatforms=[...new Set([...(prev.adultPlatforms||[]),...p.adultPlatforms])];
  if(!prev.adultCountry&&p.adultCountry)prev.adultCountry=p.adultCountry;
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
