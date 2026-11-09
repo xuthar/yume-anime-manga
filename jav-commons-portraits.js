@@ -7,6 +7,23 @@
  */
 (()=>{'use strict';
 const FIXED=[
+ ['Akiho Yoshizawa','Akiho Yoshizawa','Akiho Yoshizawa (2017, cropped).jpg'],
+ ['Maria Ozawa','Maria Ozawa','Maria Ozawa.jpg'],
+ ['Yuki Yoshizawa','Yuki Yoshizawa','Fresh Festival 2023 in Shirakobato Water Park IMG 1791.jpg'],
+ ['Ria Yoshizawa','Ria Yoshizawa','Trend Girls Photo Session (May 4, 2025)IMG 3909.jpg'],
+ ['明日花キララ','Kirara Asuka','아스카 키라라(Kirara Asuka) 팬미팅 (1).jpg'],
+ ['葵つかさ','Tsukasa Aoi','아오이츠카사(Aoi Tsukasa) 국내 팬미팅 1.jpg'],
+ ['本庄鈴','Suzu Honjō',"Suzu Honjo's refreshing smile2024.jpg"],
+ ['蒼井そら','Sora Aoi','Aoi Sora "Lazy Hazy Crazy" at Opening Ceremony of the 28th Tokyo International Film Festival (22241441840) (cropped).jpg'],
+ ['Yua Mikami','Yua Mikami','Mikami Yua to K-POP CIMG6690 (cropped).jpg'],
+ ['Kirara Asuka','Kirara Asuka','아스카 키라라(Kirara Asuka) 팬미팅 (1).jpg'],
+ ['Tsukasa Aoi','Tsukasa Aoi','아오이츠카사(Aoi Tsukasa) 국내 팬미팅 1.jpg'],
+ ['Sora Aoi','Sora Aoi','Aoi Sora "Lazy Hazy Crazy" at Opening Ceremony of the 28th Tokyo International Film Festival (22241441840) (cropped).jpg'],
+ ['Anri Okita','Anri Okita','Anri Okita at AVN Adult Entertainment Expo 2016 (25545790092).jpg'],
+ ['Hibiki Otsuki','Hibiki Ōtsuki','Otsuki Hibiki (大槻ひびき) at Tokyo Game Show 2014.jpg'],
+ ['Saika Kawakita','Saika Kawakita','Saika Kawakita2025 ReadjustmentIMG 8019.jpg'],
+ ['Suzu Honjo','Suzu Honjō',"Suzu Honjo's refreshing smile2024.jpg"]
+
  // Verified identity, Commons category, individually sourced Wikimedia Commons photo (when specified)
  ['星乃莉子','Riko Hoshino','SOD AKIHABARA JACK 2023 IMG 9480-hoshino.jpg'],
  ['逢見リカ','Rika Aimi','Trend Girls Photo Session (September 15, 2024)IMG 0370.jpg'],
@@ -39,20 +56,8 @@ const FIXED=[
  ['AIKA','Aika (porn actress)',null],
  ['MINAMO','Minamo (porn actress)',null],
  ['JULIA','Julia (porn actress)','Julia, Japanese porn actress.jpg'],
- ['明日花キララ','Kirara Asuka',null],
- ['葵つかさ','Tsukasa Aoi',null],
- ['本庄鈴','Suzu Honjō',null],
- ['蒼井そら','Sora Aoi',null],
  ['Ruri Saijo','Ruri Saijō','Saijō Ruri, 2016 (cropped).jpg'],
  ['Yui Hatano','Yui Hatano',null],
- ['Hibiki Otsuki','Hibiki Ōtsuki',null],
- ['Saika Kawakita','Saika Kawakita',null],
- ['Yua Mikami','Yua Mikami',null],
- ['Suzu Honjo','Suzu Honjō',null],
- ['Kirara Asuka','Kirara Asuka',null],
- ['Tsukasa Aoi','Tsukasa Aoi',null],
- ['Anri Okita','Anri Okita',null],
- ['Sora Aoi','Sora Aoi',null],
  ['MINAMO','Minamo (porn actress)',null]
 ];
 const clean=n=>String(n||'').normalize('NFKC').normalize('NFKD').toLocaleLowerCase('en')
