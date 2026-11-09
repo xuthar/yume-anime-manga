@@ -12,13 +12,15 @@
 <script defer src="jpop-wiki-expansion.js?v=20261108-wiki2"></script>
 <script defer src="gravure-photo-sources-expansion.js?v=20261108-gravure3"></script>
 <script defer src="adult-commons-portraits.js?v=20261108-adult13"></script>
+<script defer src="adult-global-creators-2026.js?v=20261109-adultworld1"></script>
 <script defer src="yume-tiktok-young-expansion.js?v=20261108-tiktok-asia1"></script>
 <script defer src="yume-idols-female-only.js?v=20261108-female1"></script>
 <script defer src="yume-photo-store.js?v=20261108-tiktok-youth2"></script>
-<script defer src="jav-commons-portraits.js?v=20261108-jav-photo6"></script>
-<script defer src="idol-category-page.js?v=20261108-portal1"></script>
+<script defer src="jav-commons-portraits.js?v=20261109-javhd1"></script>
+<script defer src="yume-adult-portrait-resolver.js?v=20261109-adultworld1"></script>
+<script defer src="idol-category-page.js?v=20261109-adultworld1"></script>
 <script defer src="idols-wikidata-category.js?v=20261108-portal1"></script>
-<script defer src="idols-discovery-category.js?v=20261108-jav-photo6"></script>
+<script defer src="idols-discovery-category.js?v=20261109-adultworld1"></script>
 <script defer src="jpop-wiki-spotlight.js?v=20261108-wiki1"></script>
 <script defer src="yume-global-nav.js?v=20261108-young1"></script>
 <title>Idols · Catalogo dedicato — Yume</title>
@@ -96,7 +98,8 @@
  <button type="button" data-discovery-category="cosplay" aria-pressed="false">装 Cosplay</button>
  <button type="button" data-discovery-category="vtuber" aria-pressed="false">電 VTuber</button>
  <button type="button" data-discovery-category="jav" aria-pressed="false">18+ JAV</button>
- <button type="button" data-discovery-category="adult" aria-pressed="false">18+ Adult</button>
+ <button type="button" data-discovery-category="adult" aria-pressed="false">18+ AV · Porno</button>
+ <button type="button" data-discovery-category="onlyfans" aria-pressed="false">18+ OnlyFans</button>
  </div>
  <div class="discovery-controls"><label for="discovery-search">Cerca nome o nome d'arte<input id="discovery-search" type="search" autocomplete="off" placeholder="Es. Enako, HIKAKIN, Nozomi, Pekora…"></label><label class="discovery-photo-choice" for="discovery-photo-only"><input id="discovery-photo-only" type="checkbox"> Solo schede con fotografia verificata</label><p id="discovery-summary" role="status" aria-live="polite"></p></div>
  <div id="discovery-list" class="discovery-grid"></div>
@@ -108,10 +111,10 @@
 <dialog id="discovery-age-dialog" class="discovery-age-dialog" aria-labelledby="discovery-age-title">
  <span class="idol-kicker">十八禁 · AREA 18+</span>
  <h2 id="discovery-age-title">Archivio per adulti</h2>
- <p>Le sezioni JAV e Adult comprendono nomi professionali di performer. I collegamenti esterni possono condurre a portali riservati ai maggiorenni. Vuoi continuare?</p>
+ <p>Le sezioni JAV, Adult e OnlyFans comprendono nomi professionali di artiste maggiorenni. I collegamenti esterni possono condurre a portali riservati ai maggiorenni. Vuoi continuare?</p>
  <div><button id="discovery-age-enter" type="button">Ho almeno 18 anni</button><button id="discovery-age-back" type="button">Annulla</button></div>
 </dialog>
 <dialog class="idol-profile" id="idol-profile" aria-labelledby="idol-profile-title"><button class="idol-close" id="idol-close" type="button" aria-label="Chiudi la scheda">✕</button><div id="idol-profile-body"></div></dialog>
-<dialog class="idol-age-dialog" id="idol-age-dialog" aria-labelledby="idol-age-heading"><div class="idol-age-symbol">十八禁</div><h2 id="idol-age-heading">Area riservata ai maggiorenni</h2><p>Le sezioni JAV e Adult riguardano performer del settore per adulti. Le schede mostrano soltanto informazioni professionali e immagini non esplicite. Devi aver compiuto 18 anni per accedere.</p><div class="idol-age-actions"><button type="button" id="idol-age-accept">Ho almeno 18 anni · Entra</button><button type="button" id="idol-age-decline">Torna alle idol musicali</button></div><small>Conferma dichiarativa, non una verifica dell'identità.</small></dialog>
+<dialog class="idol-age-dialog" id="idol-age-dialog" aria-labelledby="idol-age-heading"><div class="idol-age-symbol">十八禁</div><h2 id="idol-age-heading">Area riservata ai maggiorenni</h2><p>Le sezioni JAV, Adult e OnlyFans riguardano artiste maggiorenni, performer e creator professionali. Le schede mostrano soltanto informazioni professionali e immagini non esplicite. Devi aver compiuto 18 anni per accedere.</p><div class="idol-age-actions"><button type="button" id="idol-age-accept">Ho almeno 18 anni · Entra</button><button type="button" id="idol-age-decline">Torna alle idol musicali</button></div><small>Conferma dichiarativa, non una verifica dell'identità.</small></dialog>
 <footer><a class="footer-brand" href="index.html">yume<span class="brand-dot">.</span></a><p>Yume Idols · Un catalogo alla volta.</p><nav class="legal-links" aria-label="Informazioni"><a href="privacy.html">Privacy</a><a href="idols.html">Tutte le sezioni Idols</a></nav></footer>
 </body></html>
