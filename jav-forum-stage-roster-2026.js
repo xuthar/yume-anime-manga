@@ -58,7 +58,12 @@
     photoCommonsCategory:pin?.category||null,
     pornPreview:false};
    const i=people.push(p)-1;
-   for(const alias of [name,japanese,same].filter(Boolean))existing.set(norm(alias),i);
+   for(const alias of [name,japanese,same].filter(Boolean)){
+    existing.set(norm(alias),i);
+    const parts=alias.trim().split(/\s+/);
+    if(parts.length===2&&parts.every(p=>/^[A-Za-zÀ-ÿ]+$/.test(p)))
+     existing.set(norm(parts.reverse().join(' ')),i);
+   }
    added.push(name);
   }
  }
