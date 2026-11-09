@@ -13,6 +13,8 @@ const mature=["Chihiro Takemiya","Ryoka Shibata","Yuuhi Satomi","Tomoka Shinomiy
 const debut=[["Hina Yukino",26],["Shiona Yumikawa",46],["Airi Kitami",43],["Reika Takamiya",44],["Suzuka Shirato",32],["Izuna Inami",43],["Yuika Miyaue",48],["Kaira Haneda",34],["Yu Akizuki",47],["Ranko Haruki",45],["Sayaka Yukihira",34],["Nanami Kurosawa",34],["Yukiko Ozawa",60],["Hina Yukino",26]];
 const featured=[["Mina Kitano",2000],["Hikaru Nagi",1997]];
 const photos={"Tomo Shiraiwa":{"file":"Kindai Mahjong Swimsuit Festival (September 30, 2026)IMG 9643.jpg","commons":"Tomo Shiraiwa","license":"CC BY 4.0"},"Mina Kitano":{"file":"Trend Girls Photo Session (May 4, 2025)IMG 2610.jpg","commons":"Mina Kitano","license":"CC BY-SA 4.0"}};
+// Cross-language romanization aliases confirmed from Japanese performer rosters.
+const confirmedAliases={"Reika Nagasaki":"永崎麗香","Chiaki Asagiri":"朝霧智晶","Yura Tsukishiro":"月城ゆら","Erika Komura":"古村えりか","Akiho Sano":"佐野秋帆","Kanoha Yuki":"結城花乃羽","Hono Asaha":"朝羽穂乃","Nami Suzuna":"涼菜波美","Hana Kurosaki":"黒咲華","Mikine Ogura":"小倉みきね","Erena Otowa":"音羽エレナ","Mirei Shirakawa":"白川美玲","Yuri Yamada":"山田ゆり","Reika Takamiya":"鷹宮麗華","Kaira Haneda":"羽田カイラ","Yu Akizuki":"秋月夕","Yuika Miyaue":"宮上唯依花","Izuna Inami":"伊奈美いずな"};
 const direct={"Yuika Miyaue":"https://www.javdatabase.com/idols/yuika-miyaue/","Reika Nagasaki":"https://www.javdatabase.com/idols/reika-nagasaki/","Tomoka Shinomiya":"https://www.javdatabase.com/idols/tomoka-shinomiya/"};
 const rows=[];
 for(const [year,people] of Object.entries(yearly)){
@@ -33,7 +35,7 @@ for(const row of rows){
  const name=String(row.name||'').trim(),key=normalize(name);
  if(!key||seen.has(key))continue;
  seen.add(key);
- if(existing.has(key)){skipped.push(name);continue}
+ if(existing.has(key)||(confirmedAliases[name]&&existing.has(normalize(confirmedAliases[name])))){skipped.push(name);continue}
  // Conservative intake: never include an entry whose source makes its adulthood unclear.
  if(row.birthYear&&(!Number.isInteger(row.birthYear)||row.birthYear>2000||row.birthYear<1940))continue;
  if(row.minAge&&(!Number.isInteger(row.minAge)||row.minAge<25))continue;
