@@ -2,7 +2,7 @@
 (()=>{'use strict';
  const d=window.YumeYoungStars,photoStore=window.YumePhotoStore;
  const $=id=>document.getElementById(id),grid=$('young-grid'),query=$('young-query'),
- archive=$('young-archive'),country=$('young-country'),age=$('young-age'),platform=$('young-platform'),
+ archive=$('young-archive'),country=$('young-country'),platform=$('young-platform'),
  status=$('young-status'),more=$('young-more'),filters=$('young-categories'),photoOnly=$('young-photo-only');
  if(!d||!grid)return;
  const countryLabels={jp:'🇯🇵 Giappone',kr:'🇰🇷 Corea',th:'🇹🇭 Thailandia',id:'🇮🇩 Indonesia',vn:'🇻🇳 Vietnam',us:'🇺🇸 USA',gb:'🇬🇧 Regno Unito',au:'🇦🇺 Australia',br:'🇧🇷 Brasile',nl:'🇳🇱 Paesi Bassi',cn:'🇨🇳 Cina',in:'🇮🇳 India',ph:'🇵🇭 Filippine',tw:'🇹🇼 Taiwan'};
@@ -13,13 +13,12 @@
  let category='all',limit=32;
  const matchedPortrait=p=>{const pic=photoStore?.get(p.archive,p.name,p.archive==='asia'?p.scene:null);return !!(pic?.verified&&pic.photo)};
  function filtered(){
-  const q=norm(query.value),countryVal=country.value,archiveVal=archive.value,range=age.value.split('-').map(Number);
+  const q=norm(query.value),countryVal=country.value,archiveVal=archive.value;
   return d.people.filter(p=>
    (category==='all'||p.category===category)&&
    (countryVal==='all'||p.scene===countryVal)&&
    (archiveVal==='all'||p.archive===archiveVal)&&
    (platform.value==='all'||(p.platforms||[]).some(v=>v[0]===platform.value||platform.value==='TikTok'&&v[0].startsWith('TikTok')))&&
-   (age.value==='all'||p.ageRange.min>=range[0]&&p.ageRange.max<=range[1])&&
    (!q||norm(p.name+' '+p.alternate+' '+p.group+' '+(p.description||'')+' '+(countryLabels[p.scene]||'')).includes(q))&&
    (!photoOnly?.checked||matchedPortrait(p))
   ).sort((a,b)=>Number(matchedPortrait(b))-Number(matchedPortrait(a))||a.ageRange.min-b.ageRange.min||a.name.localeCompare(b.name,'it'))
@@ -87,7 +86,7 @@
   btn.type='button';btn.dataset.youngCategory=k;btn.setAttribute('aria-pressed',String(k==='all'));
   btn.addEventListener('click',()=>{category=k;limit=32;render()});filters.append(btn)
  }
- [query,archive,country,age,platform,photoOnly].filter(Boolean).forEach(control=>control.addEventListener(control===query?'input':'change',()=>{limit=32;render()}));
+ [query,archive,country,platform,photoOnly].filter(Boolean).forEach(control=>control.addEventListener(control===query?'input':'change',()=>{limit=32;render()}));
  more.addEventListener('click',()=>{limit+=32;render()});
  function renderChannels(){
   const target=$('young-channel-grid'),channels=window.YumeYoungSpotlight?.channels||[];
