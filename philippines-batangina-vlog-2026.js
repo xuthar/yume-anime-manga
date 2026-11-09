@@ -9,7 +9,7 @@
  const current=window.YumeAsiaIdols;if(!current||!Array.isArray(current.people))return;
  const target='batangina.babyjean',name='Batangina Vlog';
  const normal=s=>String(s||'').normalize('NFKC').trim().toLowerCase()
-   .replace(/[\\s._\-’'()]/g,'');
+   .replace(/[^a-z0-9]/g,'');
  const same=p=>p.country==='ph'&&(
   ['Batangina Vlog','Batang Ina Vlog','Baby Jean','Babyjean'].some(alias=>normal(p.name)===normal(alias))||
   normal(p.tiktokHandle)===normal(target));
