@@ -81,6 +81,7 @@ for(const p of data.people){
   prev.gravureIndexBirthYear=p.gravureIndexBirthYear;
   prev.gravureIndexJapanese=p.gravureIndexJapanese||prev.gravureIndexJapanese;
   prev.gravureIndexSource=p.gravureIndexSource;
+  prev.gravureOriginSource=p.gravureOriginSource||prev.gravureOriginSource;
   prev.gravureBirthYearSource=p.gravureBirthYearSource;
   if(!prev.alternate)prev.alternate=p.alternate||p.gravureIndexJapanese||'';
   prev.otherStageNames=[...new Set([...(prev.otherStageNames||[]),...(p.otherStageNames||[])])];
@@ -218,6 +219,8 @@ function item(p){
  actions.append(link(p.officialProfile?'Profilo ufficiale ↗':'Apri fonte ↗',profile));
  if(active==='gravure'&&p.gravureIndexSource&&p.gravureIndexSource!==profile)
   actions.append(link('GravureIndex · indice A–Z ↗',p.gravureIndexSource));
+ if(active==='gravure'&&p.gravureOriginSource)
+  actions.append(link('Provenienza · fonte editoriale ↗',p.gravureOriginSource));
  if(p.wikiSource&&p.wikiSource!==profile)actions.append(link('J-Pop Wiki · gruppo ↗',p.wikiSource));
  if(active==='jav'&&p.javAnnualRankings?.length){
   for(const rank of [...p.javAnnualRankings].sort((a,b)=>b.year-a.year)){
@@ -249,8 +252,13 @@ function item(p){
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
  contents.append(actions);item.append(contents);return item
 }
-function isAllowed(p){if(adultCats.has(active))return p.categories.has(active)&&adultEnabled();
- return [...p.categories].some(c=>adultCats.has(c))?false:(active==='all'?true:p.categories.has(active))}
+function isAllowed(p){
+ if(adultCats.has(active))return p.categories.has(active)&&adultEnabled();
+ // A model with a separate JAV career can appear in the Gravure roster
+ // with public, non-explicit gravure metadata and photographs only.
+ if(active==='gravure')return p.categories.has('gravure');
+ return [...p.categories].some(c=>adultCats.has(c))?false:(active==='all'?true:p.categories.has(active))
+}
 function render(){
  const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)
  &&(!adultCats.has(active)||!countrySelect||countrySelect.value==='all'||region(p)===countrySelect.value)
