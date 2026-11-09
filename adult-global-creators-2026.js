@@ -743,9 +743,176 @@ const records=[
    "Fantia"
   ],
   "elenco Fantia 2023"
+ ],
+ [
+  "onlyfans",
+  "Dani (Yoon Jee)",
+  null,
+  null,
+  null,
+  "Creator coreano-americana · vive negli Stati Uniti; alias Dani/Danielle Gee nelle directory",
+  "KR",
+  "https://influencermarketing.ainfluencer.com/korean-onlyfans/",
+  [
+   "OnlyFans",
+   "Instagram"
+  ],
+  "L'identità pubblica è documentata; età esatta e nascita in Corea non verificate"
+ ],
+ [
+  "onlyfans",
+  "Jun Jeonboyeon",
+  null,
+  null,
+  null,
+  "Modella coreana · 전보연 · pagina OnlyFans citata dalla classifica 2026",
+  "KR",
+  "https://influencermarketing.ainfluencer.com/korean-onlyfans/",
+  [
+   "OnlyFans",
+   "Instagram"
+  ],
+  "Anno di nascita non pubblicamente verificato"
+ ],
+ [
+  "onlyfans",
+  "Bomi (Bomistry)",
+  1996,
+  null,
+  null,
+  "Jeong Bomi · cantante e ballerina, già nel gruppo Girl Crush · OnlyFans",
+  "KR",
+  "https://puremedia.kr/mall/m_mall_detail.php?ps_ctid=01014500&ps_goid=194",
+  [
+   "OnlyFans",
+   "Instagram",
+   "YouTube"
+  ],
+  "Identità e carriera artistica confermate da Pure Media; OnlyFans citato nella classifica"
+ ],
+ [
+  "onlyfans",
+  "Kimberly Yang",
+  1999,
+  null,
+  null,
+  "Creator coreano-americana · attività ad abbonamento e social; residenza fuori dalla Corea",
+  "KR",
+  "https://influencermarketing.ainfluencer.com/korean-onlyfans/",
+  [
+   "OnlyFans",
+   "Instagram",
+   "YouTube"
+  ],
+  "Origini coreane dichiarate in directory; non è indicata come residente in Corea"
+ ],
+ [
+  "onlyfans",
+  "Chuu (@dear.chuu)",
+  null,
+  null,
+  null,
+  "Cosplayer e creator con sede negli USA · inserita nella classifica coreana; origine coreana da verificare · non è Chuu delle LOONA",
+  "KR",
+  "https://beacons.ai/dear.chuu",
+  [
+   "OnlyFans",
+   "Instagram",
+   "Twitch",
+   "TikTok"
+  ],
+  "Classificazione come coreana della fonte editoriale non confermata; identità distinta dalla cantante delle LOONA"
+ ],
+ [
+  "onlyfans",
+  "Yuri Boler",
+  null,
+  null,
+  null,
+  "Creator indicata come coreana dalla classifica 2026 · account @yuribolersecond",
+  "KR",
+  "https://influencermarketing.ainfluencer.com/korean-onlyfans/",
+  [
+   "OnlyFans",
+   "Instagram"
+  ],
+  "Provenienza e data di nascita non verificabili indipendentemente"
  ]
 ];
 const norm=t=>String(t||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f\s・･._\-’'()]/g,'');
+const koreanRanking={
+ "Kang Inkyung": {
+  "ig": "inkyung97",
+  "of": "ero_inkyung",
+  "reach": "3,1 milioni",
+  "price": "$25",
+  "asianOrigin": "Corea del Sud"
+ },
+ "Applee": {
+  "ig": "xxapplee_kr",
+  "of": "xxapple",
+  "reach": "circa 3 milioni",
+  "price": "$15,30",
+  "asianOrigin": "Corea del Sud"
+ },
+ "Lucy Park": {
+  "ig": "lucypark.official",
+  "of": "lucyinthe_",
+  "reach": "663.000",
+  "price": "$25",
+  "asianOrigin": "Corea del Sud"
+ },
+ "Dani (Yoon Jee)": {
+  "ig": "danicak3s",
+  "of": "danicak3s",
+  "reach": "624.000",
+  "price": "Gratis nella classifica; altre directory indicano prezzo diverso",
+  "asianOrigin": "Corea / diaspora negli USA"
+ },
+ "Jun Jeonboyeon": {
+  "ig": "171jun01",
+  "of": "171jun01",
+  "reach": "569.000",
+  "price": "$30",
+  "asianOrigin": "Corea del Sud"
+ },
+ "Bomi (Bomistry)": {
+  "ig": "real_bomistry",
+  "of": "bomistry2022",
+  "reach": "Non indicato",
+  "price": "Da verificare",
+  "asianOrigin": "Corea del Sud"
+ },
+ "Kimberly Yang": {
+  "ig": "sexythangyang",
+  "of": "sexythangyang",
+  "reach": "550.000",
+  "price": "$5,25",
+  "asianOrigin": "Corea / diaspora negli USA"
+ },
+ "Elle Lee": {
+  "ig": "daintybabyelle",
+  "of": "daintybabyelle",
+  "reach": "345.000",
+  "price": "$11,99",
+  "asianOrigin": "Corea / nata negli USA"
+ },
+ "Chuu (@dear.chuu)": {
+  "ig": "dear.chuu",
+  "of": "dear.chuu",
+  "reach": "298.000",
+  "price": "$9,99",
+  "asianOrigin": "Origine coreana non verificata"
+ },
+ "Yuri Boler": {
+  "ig": "yuribolersecond",
+  "of": "yuriboler",
+  "reach": "249.000",
+  "price": "$15",
+  "asianOrigin": "Corea secondo classifica; non verificato"
+ }
+};
+const rankingSource='https://influencermarketing.ainfluencer.com/korean-onlyfans/';
 const existing=new Map(old.people.map((p,i)=>[p.category+'|'+norm(p.name),i]));
 const blocked=new Set(old.people.filter(p=>p.teenSafe||p.birth&&Number(String(p.birth).slice(0,4))>2007)
   .flatMap(p=>[norm(p.name),norm(p.alternate||'')]).filter(Boolean));
@@ -762,10 +929,21 @@ for(const [category,name,birthYear,commonsCategory,file,focus,country,publicSour
   adultPlatforms:platforms,platformsVerifiedAsOf:"2026-11-09",
   commonsCategory,photoFile:file||null,photoSource:file?'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replace(/ /g,'_')):null,
   officialProfile:cc,platform:category==='onlyfans'?'OnlyFans · archivio professionale':'AV / cinema adulto',isOnlyFans:category==='onlyfans'};
+ const ranking=koreanRanking[name];
+ if(ranking&&category==='onlyfans'){
+  p.editorialRankingSource=rankingSource;
+  p.instagramHandle=ranking.ig;
+  p.onlyfansHandle=ranking.of;
+  p.instagramProfile='https://www.instagram.com/'+ranking.ig+'/';
+  p.onlyfansProfile='https://onlyfans.com/'+ranking.of;
+  p.rankingSnapshot={asOf:'2026-09-19',instagramReach:ranking.reach,subscription:ranking.price};
+  p.asianOriginNote=ranking.asianOrigin;
+  if(name==='Chuu (@dear.chuu)')p.identityDisambiguation='Cosplayer @dear.chuu · non è la cantante Chuu (LOONA)';
+ }
  const idx=existing.get(key);
  if(idx!==undefined){people[idx]={...people[idx],...p,source:people[idx].source||source};}
  else {people.push(p);existing.set(key,people.length-1);}
- curated.push({name,category,commonsCategory,file,year:birthYear,focus,country,source,platforms,verificationNote});
+ curated.push({name,category,commonsCategory,file,year:birthYear,focus,country,source,platforms,verificationNote,instagramHandle:p.instagramHandle||null});
 }
 // Fantia archival listings, documented by the 2023 directory. These are not
 // claims that paid accounts are still active today. Underage scenes excluded.
