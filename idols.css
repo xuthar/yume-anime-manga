@@ -170,3 +170,10 @@ body.idol-catalog-page[data-adult-section="true"] .discovery-card .discovery-por
 body.idol-catalog-page[data-adult-section="true"] .discovery-card-body{padding:18px 17px}
 @media(max-width:790px){body.idol-catalog-page[data-adult-section="true"] .discovery-grid{grid-template-columns:1fr}}
 @media(max-width:450px){body.idol-catalog-page[data-adult-section="true"] .discovery-card .discovery-portrait{width:120px;min-width:120px;min-height:190px}body.idol-catalog-page[data-adult-section="true"] .discovery-card-body{padding:12px 10px}}
+
+/* Asian adult archives: platform chips and country selector. */
+.idol-catalog-page[data-adult-section="true"] .discovery-controls select{color:#fff;border:1px solid #d7aed5a8;background:#1e233e;border-radius:10px;min-height:40px;padding:8px 12px;max-width:245px}
+.adult-platform-chips{display:flex;flex-wrap:wrap;gap:5px;margin:9px 0}
+.adult-platform-chip{font-size:10px;color:#fae9fb;border:1px solid #e8bdd988;background:#a878aa26;border-radius:20px;padding:4px 8px}
+.discovery-photo-caveat{font-size:10px!important;color:#c6b2c9;line-height:1.5;margin:5px 0}
+.idol-catalog-page[data-adult-section="true"] .discovery-portrait .discovery-source-portrait{font-size:10px;line-height:1.5;color:#b9f2ed;text-decoration:underline;padding:4px 7px;text-align:center}
