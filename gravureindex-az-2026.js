@@ -58,6 +58,27 @@
     added.push(latin);ageUnverified.push(latin)
   }
  }
+ // Repair one pre-existing romanization-only duplicate without losing its references.
+ // Require an indexed primary with a matching standardized professional name.
+ const removals=[];
+ for(let i=0;i<people.length;i++){
+  const target=people[i];
+  if(target.category!=='gravure'||!target.gravureIndexBirthYear)continue;
+  for(let j=0;j<people.length;j++){
+   if(i===j||removals.includes(j))continue;
+   const other=people[j];if(other.category!=='gravure'||other.gravureIndexBirthYear)continue;
+   if(norm(target.name)!==norm(other.name))continue;
+   const refs=[...(target.gravureEditorialSources||[]),...(other.gravureEditorialSources||[]),
+      target.source,other.source].filter(Boolean);
+   people[i]={...other,...target,
+    gravureEditorialSources:[...new Set(refs)],
+    photoFile:target.photoFile||other.photoFile||null,
+    photoSource:target.photoSource||other.photoSource||null,
+    officialProfile:target.officialProfile||other.officialProfile||null};
+   removals.push(j);
+  }
+ }
+ for(const i of removals.sort((a,b)=>b-a))people.splice(i,1);
  const sources={...(old.sources||{}),gravureindexUser2026:{
   label:'GravureIndex · 239 idol A–Z (elenco testuale fornito dall’utente)',
   url:source,kind:'Fonte non recuperabile direttamente; verificare schede individuali'
@@ -67,6 +88,6 @@
    updated:'2026-11-09'});
  window.YumeGravureIndexAZ2026=Object.freeze({updated:'2026-11-09',totalSourceRows:rows.length,
   distinctNames:seen.size,addedCount:added.length,added,enrichedCount:enriched.length,
-  enriched,matched,skipped,source,sourceAccess:'user text; live site unavailable',
+  enriched,matched,skipped,existingDuplicatesUnified:removals.length,source,sourceAccess:'user text; live site unavailable',
   warning:'I nomi e anni sono riportati dall’elenco fornito; biografie e date complete non sono state controllate individualmente.'});
 })();
