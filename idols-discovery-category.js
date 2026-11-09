@@ -98,7 +98,7 @@ const hasPhoto=p=>{
  return !!(item?.verified&&item.photo)||!!(p.photoFile&&p.photoSource);
 };
 function setupAdultFilters(){
- for(const select of [countrySelect,platformSelect])if(select)select.hidden=!adultCats.has(active);
+ for(const select of [countrySelect,platformSelect])if(select){select.hidden=!adultCats.has(active);select.parentElement.hidden=!adultCats.has(active)}
  if(!adultCats.has(active))return;
  const eligible=people.filter(p=>p.categories.has(active));
  const countries=[...new Set(eligible.map(region).filter(Boolean))].sort((a,b)=>(countryLabels[a]||a).localeCompare(countryLabels[b]||b,'it'));
