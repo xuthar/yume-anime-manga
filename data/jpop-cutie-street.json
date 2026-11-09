@@ -1,6 +1,6 @@
 {
   "artist": "CUTIE STREET",
-  "checkedAt": "2026-10-28",
+  "checkedAt": "2026-11-09",
   "groupImage": "https://loved-vacation-8dd163c1e3.media.strapiapp.com/CUTIE_STREET_artistphoto_credit_772d3041da.jpg",
   "members": [
     {
@@ -258,6 +258,25 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cutie-street-cutie-land-20261202",
+      "title": "CUTIE LAND",
+      "date": "2026-12-02",
+      "kind": "album",
+      "note": "ANNUNCIATO: primo album CUTIE STREET, uscita CD prevista il 2 dicembre 2026. Tre confezioni fisiche confermate: prima edizione limitata A (KLC-90012–90013), prima edizione limitata B (KLC-90014–90015), standard (KLC-90016). Tracklist non riportata perché non ancora verificata. Un solo album nel catalogo; le confezioni non sono pubblicazioni distinte.",
+      "source": "https://candytune.asobisystem.com/news/detail/92425",
+      "trackSource": "https://candytune.asobisystem.com/news/detail/92425",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "CD · annunciato 02/12/2026 · Limited A / Limited B / Regular",
+          "cover": "",
+          "source": "https://candytune.asobisystem.com/news/detail/92425",
+          "sourceLabel": "Annuncio ufficiale KAWAII LAB. (Asobisystem)",
+          "discs": []
+        }
+      ]
     }
   ],
   "spotlight": [],
@@ -275,6 +294,10 @@
     {
       "label": "Formazione e profili (fonte indicata)",
       "url": "https://cutiestreet.asobisystem.com/news/2/"
+    },
+    {
+      "label": "CUTIE LAND · album 2 dicembre 2026, tre edizioni ufficiali",
+      "url": "https://candytune.asobisystem.com/news/detail/92425"
     }
   ],
   "excluded": [],
