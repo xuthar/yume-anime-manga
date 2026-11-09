@@ -95,7 +95,7 @@ function imageCard(p){
  }
  const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&x.startsWith('https://')))];
  const wrap=make('div','discovery-portrait'),img=document.createElement('img');
- img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';
+ img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
  let i=0;
  img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else if(p.categories.has('creators')){
     wrap.classList.add('is-unavailable');wrap.replaceChildren(make('span','discovery-portrait-glyph','✦'),make('small',null,'Ritratto non disponibile'));
@@ -126,7 +126,13 @@ function item(p){
  if(p.wikiSource&&p.wikiSource!==profile)actions.append(link('J-Pop Wiki · gruppo ↗',p.wikiSource));
  if(p.qid)actions.append(link('Wikidata ↗','https://www.wikidata.org/wiki/'+p.qid));
  const portrait=photoRecord(p);
- if(portrait?.verified&&portrait.source)actions.append(link('Licenza foto ↗',portrait.source));
+ if(portrait?.verified&&portrait.source){
+  actions.append(link('Foto e licenza ↗',portrait.source));
+  if(adultCats.has(active)&&portrait.file){
+   const original='https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(portrait.file.replace(/ /g,'_'));
+   actions.append(link('Ritratto HD ↗',original));
+  }
+ }
  if(idolRosterX[p.name])actions.append(link('X · dal portale ↗','https://x.com/'+idolRosterX[p.name]));
  if(!p.officialProfile)actions.append(link('Cerca foto ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+(p.alternate||'')+' official profile')));
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
