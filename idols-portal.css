@@ -44,7 +44,7 @@ body.idols-portal-page{background:linear-gradient(140deg,#11182dce,#17142be8),ur
 .idol-portal-banner.art-jav{--portal-art:radial-gradient(circle at 75% 30%,#715572 0%,#302542 46%,#18253a 100%)}
 .idol-portal-banner.art-adult{--portal-art:radial-gradient(circle at 35% 30%,#4d4265 0%,#273b58 49%,#17172e 100%)}
 .idol-portal-section.is-restricted{padding:24px;border:1px solid #e4bdd05a;border-radius:23px;background:#201c34a6}
-.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
 .idol-portal-section.is-restricted .idol-portal-banner{min-height:190px}
 .idol-portal-section.is-restricted .idol-portal-banner:after{background:linear-gradient(0deg,#11182bfa,#1b2130dc)}
 .idol-portal-policy{margin:21px 0 0;font-size:11px;color:#cfc3d4;line-height:1.7}
@@ -59,3 +59,7 @@ body.idols-portal-page{background:linear-gradient(140deg,#11182dce,#17142be8),ur
 
 /* Six-section TikTok destination: individual background, never reuse banner artwork. */
 .idol-portal-banner.art-tiktok{--portal-art:radial-gradient(ellipse at 72% 17%,#f5aee888,transparent 46%),radial-gradient(ellipse at 18% 70%,#75ecf6bb,transparent 53%),linear-gradient(130deg,#302344,#142d4e)}
+
+.idol-portal-banner.art-onlyfans{--portal-art:radial-gradient(circle at 68% 14%,#f3baed8f,transparent 39%),radial-gradient(circle at 27% 74%,#8bbee88a,transparent 46%),linear-gradient(130deg,#483059,#1f3657)}
+@media (max-width:990px){.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:610px){.idol-portal-section.is-restricted .idol-portal-grid{grid-template-columns:1fr}}
