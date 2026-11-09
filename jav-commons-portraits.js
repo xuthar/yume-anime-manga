@@ -22,7 +22,7 @@ const FIXED=[
  ['Anri Okita','Anri Okita','Anri Okita at AVN Adult Entertainment Expo 2016 (25545790092).jpg'],
  ['Hibiki Otsuki','Hibiki Ōtsuki','Otsuki Hibiki (大槻ひびき) at Tokyo Game Show 2014.jpg'],
  ['Saika Kawakita','Saika Kawakita','Saika Kawakita2025 ReadjustmentIMG 8019.jpg'],
- ['Suzu Honjo','Suzu Honjō',"Suzu Honjo's refreshing smile2024.jpg"]
+ ['Suzu Honjo','Suzu Honjō',"Suzu Honjo's refreshing smile2024.jpg"],
 
  // Verified identity, Commons category, individually sourced Wikimedia Commons photo (when specified)
  ['星乃莉子','Riko Hoshino','SOD AKIHABARA JACK 2023 IMG 9480-hoshino.jpg'],
