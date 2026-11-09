@@ -13,8 +13,8 @@
   groups:{title:'Gruppi idol',label:'組 · IDOL GROUPS',symbol:'組',description:'Gruppi e formazioni femminili, roster e fonti ufficiali.',discovery:'groups'},
   jpopwiki:{title:'Nuove idol underground',label:'新 · NEW IDOL GROUPS',symbol:'新',description:'Le nuove formazioni 2024–2026 con ricerca nei roster e fonti Japanese Music Wiki.',wiki:true},
   jav:{title:'JAV · Archivio 18+',label:'十八禁 · SOLO MAGGIORENNI',symbol:'18+',description:'Schede professionali di interpreti adulte, con ritratti non espliciti e fonti documentate.',discovery:'jav',age:true},
-  adult:{title:'Adult Video · Porno · 18+',label:'十八禁 · CINEMA ADULT INTERNAZIONALE',symbol:'18+',description:'Attrici AV internazionali e artiste adulte: schede pubbliche, ritratti nitidi non espliciti e licenze Commons.',discovery:'adult',age:true},
-  onlyfans:{title:'OnlyFans · Creator 18+',label:'十八禁 · CREATOR AD ABBONAMENTO',symbol:'18+',description:'Creator adulte pubblicamente associate a OnlyFans, con profili professionali e ritratti non espliciti. La presenza nel catalogo non implica attività attuale.',discovery:'onlyfans',age:true}
+  adult:{title:'Adult Video · Asia · 18+',label:'十八禁 · SOLO PAESI ASIATICI',symbol:'18+',description:'Attrici e artiste adulte esclusivamente asiatiche: schede pubbliche, ritratti nitidi non espliciti e licenze Commons.',discovery:'adult',age:true},
+  onlyfans:{title:'Creator Asia · 18+',label:'十八禁 · CREATOR DEI PAESI ASIATICI',symbol:'18+',description:'Creator adulte asiatiche associate a piattaforme pubblicamente documentate, con profili professionali e ritratti non espliciti. La presenza nel catalogo non implica attività attuale.',discovery:'onlyfans',age:true}
  };
  const key=new URLSearchParams(location.search).get('section')||'japan';
  const selected=map[key];
