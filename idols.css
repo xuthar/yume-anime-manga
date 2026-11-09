@@ -156,3 +156,9 @@
 .idols-page .discovery-card .discovery-portrait.is-unavailable{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:8px;background:radial-gradient(circle at 28% 20%,#ae8abd4f,transparent 55%),linear-gradient(145deg,#3a2d49,#222d43);padding:9px;text-align:center;box-sizing:border-box}
 .idols-page .discovery-card .discovery-portrait.is-unavailable .discovery-portrait-glyph{font-size:40px;color:#efd0e8}
 .idols-page .discovery-card .discovery-portrait.is-unavailable small{font-size:10px;color:#e4d5e5}
+
+/* Clear, natural-ratio adult portraits; avoid stretched or pixelated thumbnails. */
+.idol-catalog-page[data-adult-section="true"] .discovery-portrait img{object-fit:cover;object-position:50% 17%;image-rendering:auto;filter:none}
+.idol-catalog-page[data-adult-section="true"] .discovery-card{align-items:stretch}
+.idol-catalog-page[data-adult-section="true"] .discovery-portrait{min-height:177px}
+.idol-catalog-page[data-adult-section="true"] .discovery-portrait.is-unavailable{min-height:177px}
