@@ -45,3 +45,17 @@ body.philippines-page{background:linear-gradient(165deg,#14192cde,#171c31f0),url
 
 /* TikTok additions: readable handle and dated audience snapshot */
 .ph-tiktok-line{font:700 12px/1.5 system-ui,sans-serif;color:#f6b7dc;overflow-wrap:anywhere;margin:7px 0}
+
+/* Large authentic photo-first cards shared by India and Filipina creator pages. */
+.philippines-page .ph-avatar{width:166px;min-width:166px;min-height:228px}
+.philippines-page .ph-avatar img{object-fit:cover;object-position:center 16%;image-rendering:auto;filter:none}
+.philippines-page .ph-person{align-items:stretch;min-height:238px}
+.philippines-page .ph-avatar-action{position:relative;z-index:3;display:inline-block;margin:6px 8px 0;padding:7px 10px;border-radius:10px;background:#f3c7e8;color:#1b2235;font-size:11px;font-weight:800;text-decoration:none;text-align:center;line-height:1.4}
+.philippines-page .ph-person-actions a{font-size:11px}
+.philippines-page .ph-artist-discipline{color:#f5c5df;font-size:11px;line-height:1.5;margin:3px 0 13px;font-weight:700}
+.philippines-page .ph-avatar-source{font-size:11px}
+.india-page{background:radial-gradient(circle at 90% 7%,#75446666,transparent 48%),linear-gradient(148deg,#1d1930e6,#162c3ce8),url('assets/yume-japan-folklore.svg') center/cover fixed}
+.india-page .ph-hero{background:radial-gradient(circle at 85% 20%,#f1b77b66,transparent 50%),radial-gradient(circle at 10% 70%,#c788dc55,transparent 41%),linear-gradient(122deg,#422849f0,#173b4ce3)}
+.india-page .ph-person-type{color:#f6c4df}
+@media(max-width:720px){.philippines-page .ph-avatar{width:137px;min-width:137px;min-height:204px}}
+@media(max-width:390px){.philippines-page .ph-avatar{width:113px;min-width:113px;min-height:181px}.philippines-page .ph-avatar-action{font-size:9px;padding:6px 7px}}
