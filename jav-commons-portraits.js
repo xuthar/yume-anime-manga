@@ -7,6 +7,8 @@
  */
 (()=>{'use strict';
 const FIXED=[
+ ['Tomo Shiraiwa','Tomo Shiraiwa','Kindai Mahjong Swimsuit Festival (September 30, 2026)IMG 9643.jpg'],
+ ['Mina Kitano','Mina Kitano','Trend Girls Photo Session (May 4, 2025)IMG 2610.jpg'],
  ['Akiho Yoshizawa','Akiho Yoshizawa','Akiho Yoshizawa (2017, cropped).jpg'],
  ['Maria Ozawa','Maria Ozawa','Maria Ozawa.jpg'],
  ['Yuki Yoshizawa','Yuki Yoshizawa','Fresh Festival 2023 in Shirakobato Water Park IMG 1791.jpg'],
