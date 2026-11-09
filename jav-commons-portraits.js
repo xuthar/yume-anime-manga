@@ -7,6 +7,14 @@
  */
 (()=>{'use strict';
 const FIXED=[
+ ["Mayuki Itou","Mayuki Itō","Mayuki Ito IMG 6022-2.jpg"],
+ ["伊藤舞雪","Mayuki Itō","Mayuki Ito IMG 6022-2.jpg"],
+ ["Yu Tano","Yū Tano","Yu Tano, 2025 (cropped).jpg"],
+ ["田野憂","Yū Tano","Yu Tano, 2025 (cropped).jpg"],
+ ["Yuna Ogura","Yuna Ogura","SOD creat Shibuya Halloween CIMG55432.jpg"],
+ ["小倉由菜","Yuna Ogura","SOD creat Shibuya Halloween CIMG55432.jpg"],
+ ["Nozomi Ishihara","Nozomi Ishihara","Enako presents Muse photo session (October 26, 2024)IMG 0132.jpg"],
+ ["石原希望","Nozomi Ishihara","Enako presents Muse photo session (October 26, 2024)IMG 0132.jpg"],
  ["Kanna Seto","Kanna Seto","Tregal Academy Cultural Festival 2026IMG 6489.jpg"],
  ["瀬戸環奈","Kanna Seto","Tregal Academy Cultural Festival 2026IMG 6489.jpg"],
  ["Hitomi Tanaka","Hitomi Tanaka","Hitomi Tanaka 2017.jpg"],
