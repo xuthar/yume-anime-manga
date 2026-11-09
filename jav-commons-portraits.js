@@ -148,40 +148,58 @@ function claim(e,prop,q){return (e?.claims?.[prop]||[]).some(c=>c?.mainsnak?.dat
 function first(e,prop){return (e?.claims?.[prop]||[]).map(c=>c?.mainsnak?.datavalue?.value).find(Boolean)}
 const same=(a,b)=>clean(a)===clean(b);
 async function discover(name){
- // Strict exact-name matching; never identify actresses from similar search labels.
- const search=await api('https://www.wikidata.org/w/api.php',{action:'wbsearchentities',
-  search:name,language:'ja',limit:'5',type:'item'});
- const ids=(search.search||[]).filter(x=>x.id&&/^Q\d+$/.test(x.id)).map(x=>x.id);
- if(!ids.length)return null;
- const r=await api('https://www.wikidata.org/w/api.php',{action:'wbgetentities',ids:ids.join('|'),
+ // Person match is deliberately strict: actual professional occupation,
+ // documented Japanese nationality, exact aliases (not loose likeness).
+ const profile=(window.YumeIdolsDiscovery?.people||[]).find(p=>
+   p.category==='jav'&&(same(p.name,name)||same(p.alternate||'',name)));
+ const native=profile?.alternate||profile?.forumOriginalJapanese||'';
+ const searches=[{term:name,lang:/[一-龯ぁ-んァ-ヶ]/.test(name)?'ja':'en'}];
+ if(native&&!same(native,name))searches.push({term:native,lang:'ja'});
+ const ids=new Set();
+ for(const {term,lang} of searches.slice(0,2)){
+  try{
+   const r=await api('https://www.wikidata.org/w/api.php',{
+     action:'wbsearchentities',search:term,language:lang,limit:'6',type:'item'});
+   for(const e of r.search||[])if(/^Q\d+$/.test(e.id||''))ids.add(e.id);
+  }catch{}
+ }
+ if(!ids.size)return null;
+ const r=await api('https://www.wikidata.org/w/api.php',{
+  action:'wbgetentities',ids:[...ids].slice(0,10).join('|'),
   props:'labels|aliases|descriptions|claims|sitelinks',languages:'ja|en'});
- const entities=Object.values(r.entities||{}).filter(e=>{
+ const candidates=Object.values(r.entities||{}).filter(e=>{
   if(!claim(e,'P21','Q6581072'))return false;
   if((e.claims?.P27||[]).length&&!claim(e,'P27','Q17'))return false;
-  const names=[e.labels?.ja?.value,...(e.aliases?.ja||[]).map(a=>a.value)];
-  if(!names.some(n=>same(n,name)))return false;
+  const names=[
+   e.labels?.ja?.value,e.labels?.en?.value,
+   ...(e.aliases?.ja||[]).map(a=>a.value),
+   ...(e.aliases?.en||[]).map(a=>a.value)
+  ].filter(Boolean);
+  const exact=names.some(n=>same(n,name)||native&&same(n,native));
+  if(!exact)return false;
   const date=first(e,'P569')?.time;
   const match=typeof date==='string'?date.match(/^\+?(\d{4})-(\d{2})-(\d{2})/):null;
-  if(match){const y=Number(match[1]),m=Number(match[2]),d=Number(match[3]);
-   if(y>2008||(y===2008&&(!m||!d||m>11||(m===11&&d>8))))return false;
-  } // never resolve a Wikidata identity documented as under 18
-  // Only documented professional AV performers.
-  const description=((e.descriptions?.ja?.value||'')+' '+(e.descriptions?.en?.value||''));
-  const recognized=['Q488111','Q1079215'];
-  const isAV=(e.claims?.P106||[]).some(p=>recognized.includes(p.mainsnak?.datavalue?.value?.id))
+  if(match){
+    const y=Number(match[1]),m=Number(match[2]),d=Number(match[3]);
+    if(y>2008||(y===2008&&(!m||!d||m>11||(m===11&&d>9))))return false;
+  }
+  const description=(e.descriptions?.ja?.value||'')+' '+(e.descriptions?.en?.value||'');
+  const isAV=(e.claims?.P106||[]).some(x=>
+    ['Q488111','Q1079215'].includes(x.mainsnak?.datavalue?.value?.id))
     ||/AV女優|pornographic actress|AV idol|porn actor/i.test(description);
   return isAV;
  });
- if(entities.length!==1)return null;
- const entity=entities[0];
+ if(candidates.length!==1)return null; // refuse ambiguous identities
+ const entity=candidates[0];
  const image=first(entity,'P18');
- if(typeof image==='string'&&/\.(jpe?g|png|webp)$/i.test(image)&&!forbid.test(image)&&!badFiles.has(clean(name)+'|'+image)){
-  // P18 is a sourced, individual portrait attached to the validated Wikidata identity.
-  return toPhoto(name,image,null,'Wikidata P18 · Wikimedia Commons');
+ if(typeof image==='string'&&/\.(jpe?g|png|webp)$/i.test(image)&&
+    !forbid.test(image)&&!badFiles.has(clean(name)+'|'+image)){
+   return toPhoto(name,image,null,'Wikidata P18 · Wikimedia Commons');
  }
  const commons=entity.sitelinks?.commonswiki?.title;
  const p373=first(entity,'P373');
- const category=(commons?.startsWith('Category:')?commons.slice(9):null)||(typeof p373==='string'?p373:null);
+ const category=(commons?.startsWith('Category:')?commons.slice(9):null)||
+   (typeof p373==='string'?p373:null);
  return category?categoryPhoto(name,category):null;
 }
 let notifyPending=false;
