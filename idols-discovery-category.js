@@ -122,7 +122,7 @@ function imageCard(p){
  if(!candidates.length){
   const wrap=make('div','discovery-portrait is-unavailable'),monogram=make('span','discovery-portrait-glyph','✦');
   wrap.setAttribute('aria-label','Foto non disponibile per '+p.name);wrap.append(monogram,make('small',null,'Ritratto non disponibile'));
-  if(adultCats.has(active)&&adultEnabled()&&p.source){const a=link('Foto nel profilo ↗',p.source,'discovery-source-portrait');wrap.append(a)}
+  if(adultCats.has(active)&&adultEnabled()&&(p.instagramProfile||p.source)){const a=link(p.instagramProfile?'Foto su Instagram ↗':'Foto nel profilo ↗',p.instagramProfile||p.source,'discovery-source-portrait');wrap.append(a)}
   return wrap;
  }
  const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&x.startsWith('https://')))];
@@ -133,7 +133,7 @@ function imageCard(p){
   brokenImages.add(active+'|'+p.name);
   wrap.classList.add('is-unavailable');
   wrap.replaceChildren(make('span','discovery-portrait-glyph','✦'),make('small',null,'Foto non caricata'));
-  if(adultCats.has(active)&&adultEnabled()&&p.source)wrap.append(link('Vedi fonte ↗',p.source,'discovery-source-portrait'));
+  if(adultCats.has(active)&&adultEnabled()&&(p.instagramProfile||p.source))wrap.append(link(p.instagramProfile?'Vedi Instagram ↗':'Vedi fonte ↗',p.instagramProfile||p.source,'discovery-source-portrait'));
   if(['adult','onlyfans'].includes(active))window.YumeAdultPortraits?.reportBroken?.(p.name,active,verified?.file||p.photoFile);
   else if(active==='jav')window.YumeJAVPortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
  };
