@@ -151,6 +151,19 @@ function item(p){
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
  const summary=make('p','discovery-card-detail',p.editorialBio&&adultCats.has(active)?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
+ if(adultCats.has(active)&&p.identityDisambiguation){
+  contents.append(make('p','discovery-photo-caveat',p.identityDisambiguation));
+ }
+ if(adultCats.has(active)&&p.asianOriginNote){
+  contents.append(make('p','discovery-photo-caveat','Origine: '+p.asianOriginNote));
+ }
+ if(adultCats.has(active)&&p.rankingSnapshot){
+  const rs=p.rankingSnapshot;
+  contents.append(make('p','discovery-photo-caveat',
+   'Dati della classifica del '+rs.asOf.split('-').reverse().join('/')+
+   ' · Instagram: '+rs.instagramReach+
+   ' · Abbonamento indicato: '+rs.subscription+' (non in tempo reale)'));
+ }
  if(adultCats.has(active)&&p.adultPlatforms?.length){
   const pills=make('div','adult-platform-chips');
   for(const platform of [...new Set(p.adultPlatforms)])pills.append(make('span','adult-platform-chip',platform));
@@ -180,8 +193,17 @@ function item(p){
    actions.append(link('Ritratto HD ↗',original));
   }
  }
+ if(adultCats.has(active)&&p.instagramProfile&&p.instagramHandle){
+  actions.append(link('Instagram @'+p.instagramHandle+' ↗',p.instagramProfile));
+ }
+ if(adultCats.has(active)&&p.onlyfansProfile){
+  actions.append(link('OnlyFans · profilo 18+ ↗',p.onlyfansProfile));
+ }
+ if(adultCats.has(active)&&p.editorialRankingSource){
+  actions.append(link('Classifica 2026 ↗',p.editorialRankingSource));
+ }
  if(idolRosterX[p.name])actions.append(link('X · dal portale ↗','https://x.com/'+idolRosterX[p.name]));
- if(!p.officialProfile)actions.append(link('Cerca foto ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+(p.alternate||'')+' official profile')));
+ if(!p.officialProfile&&!p.instagramProfile)actions.append(link('Cerca foto ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+(p.alternate||'')+' official profile')));
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
  else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
