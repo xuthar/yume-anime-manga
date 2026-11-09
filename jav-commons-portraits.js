@@ -7,6 +7,12 @@
  */
 (()=>{'use strict';
 const FIXED=[
+ ["宮下玲奈","Rena Miyashita","Tregal Academy Cultural Festival 2026IMG 6699.jpg"],
+ ["Rena Miyashita","Rena Miyashita","Tregal Academy Cultural Festival 2026IMG 6699.jpg"],
+ ["渚みつき","Mitsuki Nagisa","Mitsuki Nagisa \"Strongest Attribute\" release press conference (Akihabara) IMG 7504.jpg"],
+ ["Mitsuki Nagisa","Mitsuki Nagisa","Mitsuki Nagisa \"Strongest Attribute\" release press conference (Akihabara) IMG 7504.jpg"],
+ ["相沢みなみ","Minami Aizawa","Minami Aizawa 20230806.jpg"],
+ ["Minami Aizawa","Minami Aizawa","Minami Aizawa 20230806.jpg"],
  ["Mayuki Itou","Mayuki Itō","Mayuki Ito IMG 6022-2.jpg"],
  ["伊藤舞雪","Mayuki Itō","Mayuki Ito IMG 6022-2.jpg"],
  ["Yu Tano","Yū Tano","Yu Tano, 2025 (cropped).jpg"],
