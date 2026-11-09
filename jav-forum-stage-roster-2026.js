@@ -17,7 +17,13 @@
  const people=old.people.slice(),existing=new Map();
  for(let i=0;i<people.length;i++){
   const p=people[i];if(p.category!=='jav')continue;
-  for(const n of [p.name,p.alternate||''])if(n)existing.set(norm(n),i);
+  for(const n of [p.name,p.alternate||''])if(n){
+   existing.set(norm(n),i);
+   // East Asian stage names can use either "family given" or "given family" order.
+   const tokens=n.trim().split(/\s+/);
+   if(tokens.length===2&&tokens.every(t=>/^[A-Za-zÀ-ÿ]+$/.test(t)))
+    existing.set(norm(tokens.reverse().join(' ')),i);
+  }
  }
  const reviewed=[],added=[],enriched=[],duplicates=[],seen=new Set();
  for(const [group,list] of Object.entries(groups)){
