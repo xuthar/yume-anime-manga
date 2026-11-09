@@ -154,6 +154,16 @@ function item(p){
  if(active==='jav'&&p.javDbReference){
   contents.append(make('p','discovery-japanese','Nuova scheda JAV Database · repertorio aggiornato al novembre 2026'));
  }
+ if(active==='jav'&&Array.isArray(p.javAnnualRankings)&&p.javAnnualRankings.length){
+  const ranks=[...p.javAnnualRankings].sort((a,b)=>b.year-a.year);
+  const line=make('p','discovery-japanese','Classifica FANZA (DVD · storica): '+
+   ranks.map(x=>x.year+' #'+x.rank).join(' · '));
+  contents.append(line);
+ }
+ if(active==='jav'&&p.otherStageNames?.length){
+  const distinct=[...new Set(p.otherStageNames)].filter(x=>x!==p.name&&x!==p.alternate).slice(0,5);
+  if(distinct.length)contents.append(make('p','discovery-japanese','Altri nomi d’arte: '+distinct.join(' · ')));
+ }
  if(adultCats.has(active)&&p.identityDisambiguation){
   contents.append(make('p','discovery-photo-caveat',p.identityDisambiguation));
  }
@@ -187,6 +197,11 @@ function item(p){
  const profile=p.officialProfile||p.sources[0].url;
  actions.append(link(p.officialProfile?'Profilo ufficiale ↗':'Apri fonte ↗',profile));
  if(p.wikiSource&&p.wikiSource!==profile)actions.append(link('J-Pop Wiki · gruppo ↗',p.wikiSource));
+ if(active==='jav'&&p.javAnnualRankings?.length){
+  for(const rank of [...p.javAnnualRankings].sort((a,b)=>b.year-a.year)){
+   actions.append(link('FANZA '+rank.year+' · #'+rank.rank+' ↗',rank.source));
+  }
+ }
  if(p.qid)actions.append(link('Wikidata ↗','https://www.wikidata.org/wiki/'+p.qid));
  const portrait=photoRecord(p);
  if(portrait?.verified&&portrait.source){
@@ -219,7 +234,7 @@ function render(){
  &&(!adultCats.has(active)||!countrySelect||countrySelect.value==='all'||region(p)===countrySelect.value)
  &&(!adultCats.has(active)||!platformSelect||platformSelect.value==='all'||(p.adultPlatforms||[]).includes(platformSelect.value))
  &&(!photoOnly?.checked||hasPhoto(p))
- &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
+ &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.otherStageNames||[]).join(' ')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
  shown.sort((a,b)=>['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
