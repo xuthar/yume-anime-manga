@@ -9,7 +9,7 @@ const d=window.YumeAdultGlobal2026;
 const normalize=n=>String(n||'').normalize('NFKC').normalize('NFKD').toLowerCase()
  .replace(/[\u0300-\u036f\s・･._\-’'()]/g,'');
 const records=new Map((d?.records||[]).map(r=>[r.category+'|'+normalize(r.name),r]));
-const images=new Map(),attempted=new Map(),queue=[],running=new Set();
+const images=new Map(),attempted=new Map(),queue=[],running=new Set(),badFiles=new Set();
 const enabled=()=>{try{return sessionStorage.getItem('yume-idols-adult-18')==='yes'}catch{return false}};
 const notify=()=>window.dispatchEvent(new CustomEvent('yume-adult-portraits-updated'));
 const fileUrl=(name,w)=>'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(name.replace(/ /g,'_'))+'?width='+w;
@@ -28,7 +28,7 @@ const supported=/(jpe?g|png|webp)$/i;
 const licenseOK=s=>/\b(CC BY(?:-SA)?(?:\s|-)?[1-4](?:\.\d)?|CC0(?:\s[1-9])?|Public Domain|PD[- ]|PDM|FAL|CC BY-SA)\b/i.test(s);
 function suitable(p){
  const file=String(p.title||'').replace(/^File:/i,''),i=p.imageinfo?.[0];
- if(!supported.test(file)||unsafe.test(file)||groupish.test(file))return null;
+ if(!supported.test(file)||unsafe.test(file)||groupish.test(file)||!/portrait|headshot|cropped|event|awards|premiere|convention|Comiket|cosplay|photo session|[12]0\d\d by/i.test(file))return null;
  if(!i?.thumburl||!i?.width||!i?.height||i.width<700||i.height<850)return null;
  const ratio=i.height/i.width;
  if(ratio<1.13||ratio>2.45)return null;
@@ -53,8 +53,11 @@ function get(name,section='adult'){
  const key=section+'|'+normalize(name),r=records.get(key);
  if(!r)return null;
  const original=window.YumePhotoStore?.get('japan',name);
- if(original?.verified&&original.photo)return original;
- return images.get(key)||cached(r)||null;
+ if(original?.verified&&original.photo&&!badFiles.has(key+'|'+(original.file||'')))return original.file
+  ?{...original,photo:fileUrl(original.file,920),alternates:[original.photo,...(original.alternates||[])]}:original;
+ const pinned=images.get(key)||cached(r);
+ if(pinned&&!badFiles.has(key+'|'+pinned.file))return pinned;
+ return null;
 }
 for(const r of records.values())if(r.file&& !unsafe.test(r.file)){
  const key=r.category+'|'+normalize(r.name);
@@ -68,7 +71,8 @@ async function requestPhoto(r){
  const response=await fetch('https://commons.wikimedia.org/w/api.php?'+q,
   {mode:'cors',credentials:'omit',headers:{Accept:'application/json'}});
  if(!response.ok)return null;
- const j=await response.json(),items=(j.query?.pages||[]).map(suitable).filter(Boolean);
+ const j=await response.json(),key=r.category+'|'+normalize(r.name),
+  items=(j.query?.pages||[]).map(suitable).filter(v=>v&&!badFiles.has(key+'|'+v.file));
  if(!items.length)return null;
  items.sort((a,b)=>b.score-a.score);
  const win=items[0];
@@ -106,8 +110,17 @@ function ensure(people,section){
  }
  pump();
 }
+function reportBroken(name,section,file){
+ if(!enabled()||!['adult','onlyfans'].includes(section))return;
+ const key=section+'|'+normalize(name),r=records.get(key);
+ if(!r)return;
+ if(file)badFiles.add(key+'|'+file);
+ images.delete(key);
+ attempted.delete(key);
+ if(r.commonsCategory){attempted.set(key,Date.now());queue.push(r);pump()}
+}
 window.YumeAdultPortraits=Object.freeze({
- get,ensure,recordCount:records.size,
+ get,ensure,reportBroken,recordCount:records.size,
  pinnedCount:[...images.values()].length,
  policy:'Only Wikimedia Commons non-explicit photos, visible only after age gate; >=700x850 dynamic candidates'});
 })();
