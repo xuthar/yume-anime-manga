@@ -63,7 +63,7 @@ const FIXED=[
 const clean=n=>String(n||'').normalize('NFKC').normalize('NFKD').toLocaleLowerCase('en')
  .replace(/[\u0300-\u036f\s・･._\-’'()]/g,'').trim();
 const curated=new Map(FIXED.map(([name,category,file])=>[clean(name),{name,category,file}]));
-const lookup=new Map(),attempted=new Set(),queued=[],active=new Set();
+const lookup=new Map(),attempted=new Set(),queued=[],active=new Set(),badFiles=new Set();
 const consent=()=>{try{return sessionStorage.getItem('yume-idols-adult-18')==='yes'}catch{return false}};
 const cacheKey=name=>'yume:jav:commons:portrait:v1:'+clean(name);
 function commonsSource(file){return 'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replaceAll(' ','_'))}
@@ -92,8 +92,9 @@ function get(name){
  const k=clean(name);
  // The original hand-curated JPG index may have a more exact portrait.
  const original=window.YumePhotoStore?.get('japan',name);
- if(original?.verified&&original.photo)return original;
- return lookup.get(k)||saved(name)||null;
+ if(original?.verified&&original.photo&&!badFiles.has(k+'|'+(original.file||'')))return original;
+ const item=lookup.get(k)||saved(name);
+ return item&&!badFiles.has(k+'|'+item.file)?item:null;
 }
 function api(host,params){
  params.format='json';params.origin='*';
@@ -122,7 +123,8 @@ async function categoryPhoto(name,category){
  const j=await api('https://commons.wikimedia.org/w/api.php',{
   action:'query',generator:'categorymembers',gcmtitle:'Category:'+category,
   gcmtype:'file',gcmlimit:'45',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'920',formatversion:'2'});
- const ranked=(j.query?.pages||[]).map(suitable).filter(Boolean).sort((a,b)=>b.score-a.score);
+ const ranked=(j.query?.pages||[]).map(suitable).filter(Boolean)
+  .filter(x=>!badFiles.has(clean(name)+'|'+x.file)).sort((a,b)=>b.score-a.score);
  if(!ranked.length)return null;
  return toPhoto(name,ranked[0].file,category,ranked[0].license);
 }
@@ -157,7 +159,7 @@ async function discover(name){
  if(entities.length!==1)return null;
  const entity=entities[0];
  const image=first(entity,'P18');
- if(typeof image==='string'&&/\.(jpe?g|png|webp)$/i.test(image)&&!forbid.test(image)){
+ if(typeof image==='string'&&/\.(jpe?g|png|webp)$/i.test(image)&&!forbid.test(image)&&!badFiles.has(clean(name)+'|'+image)){
   // P18 is a sourced, individual portrait attached to the validated Wikidata identity.
   return toPhoto(name,image,null,'Wikidata P18 · Wikimedia Commons');
  }
@@ -204,7 +206,15 @@ function ensure(names){
  }
  drain();
 }
-window.YumeJAVPortraits=Object.freeze({get,ensure,curatedCount:curated.size,
+function reportBroken(name,file){
+ if(!consent())return;
+ const k=clean(name);
+ if(file)badFiles.add(k+'|'+file);
+ lookup.delete(k);
+ attempted.delete(k);
+ ensure([name]);
+}
+window.YumeJAVPortraits=Object.freeze({get,ensure,reportBroken,curatedCount:curated.size,
  sources:'Wikimedia Commons and exact-name Wikidata, professional non-explicit portrait filter',
  ageGated:true});
 })();
