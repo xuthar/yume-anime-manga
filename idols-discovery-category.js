@@ -99,7 +99,7 @@ const photoRecord=p=>{
  if(active==='gravure'&&p.categories.has('gravure'))return window.YumeGravurePortraits?.get(p.name)||shared;
  if(active==='jav'&&p.categories.has('jav'))return window.YumeJAVPortraits?.get(p.name)||shared;
  if((active==='adult'||active==='onlyfans')&&p.categories.has(active))return window.YumeAdultPortraits?.get(p.name,active)||shared;
- return shared;
+ return shared||window.YumeIdolCommonsPortraits?.get(p.name)||null;
 };
 const brokenImages=new Set();
 const countryLabels={JP:'🇯🇵 Giappone',KR:'🇰🇷 Corea del Sud',TH:'🇹🇭 Thailandia',PH:'🇵🇭 Filippine',VN:'🇻🇳 Vietnam',ID:'🇮🇩 Indonesia',MY:'🇲🇾 Malaysia',MM:'🇲🇲 Myanmar',SG:'🇸🇬 Singapore',TW:'🇹🇼 Taiwan',HK:'🇭🇰 Hong Kong',CN:'🇨🇳 Cina',IN:'🇮🇳 India'};
@@ -267,6 +267,7 @@ function render(){
  &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.gravureIndexJapanese||'')+' '+(p.otherStageNames||[]).join(' ')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
  shown.sort((a,b)=>['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
+ if(!adultCats.has(active))window.YumeIdolCommonsPortraits?.ensure(display);
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
  if(active==='gravure')window.YumeGravurePortraits?.ensure(display);
  if(active==='jav'&&adultEnabled())window.YumeJAVPortraits?.ensure(display);
@@ -297,6 +298,7 @@ cancel.addEventListener('click',()=>{if(document.body.classList.contains('idol-c
 choose(selected);
 if(adultCats.has(selected)&&adultEnabled())list.classList.remove('is-age-pending');
 window.YumePhotoStore?.ready?.then(()=>render()).catch(()=>{});
+window.addEventListener('yume-idol-photo-update',()=>{if(!adultCats.has(active))render()});
 window.addEventListener('yume-gravure-photo-update',()=>{if(active==='gravure')render()});
 window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
 window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled()){brokenImages.clear();render()}});
