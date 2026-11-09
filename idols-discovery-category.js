@@ -152,6 +152,15 @@ function item(p){
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
  const summary=make('p','discovery-card-detail',p.editorialBio&&adultCats.has(active)?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
+ if(active==='gravure'&&p.gravureIndexBirthYear){
+  contents.append(make('p','discovery-japanese',
+   'GravureIndex A–Z · nascita: '+p.gravureIndexBirthYear+
+   ' (anno indicato dall’elenco, non verificato singolarmente)'));
+ }
+ if(active==='gravure'&&p.gravureIndexJapanese){
+  const native=p.gravureIndexJapanese;
+  if(native!==p.alternate)contents.append(make('p','discovery-japanese','Nome giapponese: '+native));
+ }
  if(active==='jav'&&p.javDbReference){
   contents.append(make('p','discovery-japanese','Nuova scheda JAV Database · repertorio aggiornato al novembre 2026'));
  }
@@ -197,6 +206,8 @@ function item(p){
  const actions=make('div','discovery-card-links');
  const profile=p.officialProfile||p.sources[0].url;
  actions.append(link(p.officialProfile?'Profilo ufficiale ↗':'Apri fonte ↗',profile));
+ if(active==='gravure'&&p.gravureIndexSource&&p.gravureIndexSource!==profile)
+  actions.append(link('GravureIndex · indice A–Z ↗',p.gravureIndexSource));
  if(p.wikiSource&&p.wikiSource!==profile)actions.append(link('J-Pop Wiki · gruppo ↗',p.wikiSource));
  if(active==='jav'&&p.javAnnualRankings?.length){
   for(const rank of [...p.javAnnualRankings].sort((a,b)=>b.year-a.year)){
@@ -235,7 +246,7 @@ function render(){
  &&(!adultCats.has(active)||!countrySelect||countrySelect.value==='all'||region(p)===countrySelect.value)
  &&(!adultCats.has(active)||!platformSelect||platformSelect.value==='all'||(p.adultPlatforms||[]).includes(platformSelect.value))
  &&(!photoOnly?.checked||hasPhoto(p))
- &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.otherStageNames||[]).join(' ')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
+ &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.gravureIndexJapanese||'')+' '+(p.otherStageNames||[]).join(' ')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
  shown.sort((a,b)=>['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
