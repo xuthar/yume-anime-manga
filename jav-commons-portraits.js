@@ -7,6 +7,20 @@
  */
 (()=>{'use strict';
 const FIXED=[
+ ["Kanna Seto","Kanna Seto","Tregal Academy Cultural Festival 2026IMG 6489.jpg"],
+ ["瀬戸環奈","Kanna Seto","Tregal Academy Cultural Festival 2026IMG 6489.jpg"],
+ ["Hitomi Tanaka","Hitomi Tanaka","Hitomi Tanaka 2017.jpg"],
+ ["田中瞳","Hitomi Tanaka","Hitomi Tanaka 2017.jpg"],
+ ["Ai Uehara","Ai Uehara","Uehara Ai (上原亜衣) at Tokyo Game Show 2014.jpg"],
+ ["上原亜衣","Ai Uehara","Uehara Ai (上原亜衣) at Tokyo Game Show 2014.jpg"],
+ ["Yuma Asami","Yuma Asami","Asami Yuma.jpg"],
+ ["麻美ゆま","Yuma Asami","Asami Yuma.jpg"],
+ ["Miyu Aizawa","Miyu Aizawa","Miyu Aizawa, 2024 (cropped).jpg"],
+ ["逢沢みゆ","Miyu Aizawa","Miyu Aizawa, 2024 (cropped).jpg"],
+ ["Mio Ishikawa","Mio Ishikawa","Cosplay costume section on July 18, 2025.jpg"],
+ ["石川澪","Mio Ishikawa","Cosplay costume section on July 18, 2025.jpg"],
+ ["Rei Kamiki","Rei Kamiki","Tregal Academy Cultural Festival 2026IMG 5634.jpg"],
+ ["神木麗","Rei Kamiki","Tregal Academy Cultural Festival 2026IMG 5634.jpg"],
  ['Tomo Shiraiwa','Tomo Shiraiwa','Kindai Mahjong Swimsuit Festival (September 30, 2026)IMG 9643.jpg'],
  ['Mina Kitano','Mina Kitano','Trend Girls Photo Session (May 4, 2025)IMG 2610.jpg'],
  ['Akiho Yoshizawa','Akiho Yoshizawa','Akiho Yoshizawa (2017, cropped).jpg'],
