@@ -164,6 +164,7 @@ function item(p){
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
  const summary=make('p','discovery-card-detail',p.editorialBio&&adultCats.has(active)?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
+ if(p.cosplayFocus&&(active==='cosplay'||active==='all'||active==='creators'))contents.append(make('p','discovery-card-detail',p.cosplayFocus+' · Guida CoDigital, ottobre 2026'));
  if(active==='gravure'&&p.gravureIndexBirthYear){
   contents.append(make('p','discovery-japanese',
    'GravureIndex A–Z · nascita: '+p.gravureIndexBirthYear+
@@ -251,6 +252,10 @@ function item(p){
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
  else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
+ if(p.cosplayGuideSource&&(active==='cosplay'||active==='all'||active==='creators')){
+  if(p.cosplayGuideSource!==profile)actions.append(link('Guida Cosplay 2026 ↗',p.cosplayGuideSource));
+  for(const [social,url] of (p.cosplaySocials||[]))if(![...(officialSocial[p.name]||[])].some(x=>x[1]===url))actions.append(link(social+' · guida 2026 ↗',url));
+ }
  contents.append(actions);item.append(contents);return item
 }
 function isAllowed(p){
