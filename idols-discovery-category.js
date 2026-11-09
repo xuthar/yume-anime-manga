@@ -151,6 +151,9 @@ function item(p){
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
  const summary=make('p','discovery-card-detail',p.editorialBio&&adultCats.has(active)?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
+ if(active==='jav'&&p.javDbReference){
+  contents.append(make('p','discovery-japanese','Nuova scheda JAV Database · repertorio aggiornato al novembre 2026'));
+ }
  if(adultCats.has(active)&&p.identityDisambiguation){
   contents.append(make('p','discovery-photo-caveat',p.identityDisambiguation));
  }
