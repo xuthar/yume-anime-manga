@@ -63,7 +63,7 @@ const consent=()=>{try{return sessionStorage.getItem('yume-idols-adult-18')==='y
 const cacheKey=name=>'yume:jav:commons:portrait:v1:'+clean(name);
 function commonsSource(file){return 'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replaceAll(' ','_'))}
 function toPhoto(name,file,category,license='Wikimedia Commons'){
- const value={name,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replaceAll(' ','_'))+'?width=480',
+ const value={name,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replaceAll(' ','_'))+'?width=920',
   source:commonsSource(file),categoryUrl:category?'https://commons.wikimedia.org/wiki/Category:'+encodeURIComponent(category.replaceAll(' ','_')):null,
   verified:true,license,alternates:[]};
  return value;
@@ -116,7 +116,7 @@ async function categoryPhoto(name,category){
  if(!category)return null;
  const j=await api('https://commons.wikimedia.org/w/api.php',{
   action:'query',generator:'categorymembers',gcmtitle:'Category:'+category,
-  gcmtype:'file',gcmlimit:'45',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'480',formatversion:'2'});
+  gcmtype:'file',gcmlimit:'45',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'920',formatversion:'2'});
  const ranked=(j.query?.pages||[]).map(suitable).filter(Boolean).sort((a,b)=>b.score-a.score);
  if(!ranked.length)return null;
  return toPhoto(name,ranked[0].file,category,ranked[0].license);
