@@ -49,6 +49,8 @@
  // Commons license: no commercial/social avatar hotlinks, no generated likeness.
  fallback.japan=fallback.japan||{};
  const tiktokCommons=[
+  ["japan",null,"Moka Hayashida","Photographed in June 2024 at a photography studio in Ojima, Koto-ku, Tokyo.IMG 3047Hayashida.jpg"],
+  ["japan",null,"Mai Ishioka","Fresh Festival 2023 in Shirakobato Water Park IMG 1247.jpg"],
   ['asia','ph','Ivana Alawi','Ivana Alawi.jpg'],
   ['asia','ph','Sofia Pablo','Sofia Pablo close Green Bones10.jpg'],
   ['asia','ph','Sanya Lopez','Sanya Lopez 01.jpg'],
