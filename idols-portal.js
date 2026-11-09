@@ -6,7 +6,7 @@
   gravure:'idol-category.html?section=gravure',vtuber:'idol-category.html?section=vtuber',
   groups:'idol-category.html?section=groups',jpopwiki:'idol-category.html?section=jpopwiki',
   jav:'idol-category.html?section=jav',adult:'idol-category.html?section=adult',
-  asia:'asia-idols.html',ph:'philippines-creators.html',sport:'sport-idols.html',young:'young-stars.html'};
+  asia:'asia-idols.html',ph:'philippines-creators.html',india:'india-creators.html',danceph:'philippines-creators.html#dance',sport:'sport-idols.html',young:'young-stars.html'};
  const old={ '#young-stars':'young','#idols-discover':'japan','#idols-directory':'japan',
   '#asia-idols':'asia','#sport-idols':'sport'};
  const hash=decodeURIComponent(location.hash||'');
