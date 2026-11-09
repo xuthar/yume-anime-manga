@@ -8,10 +8,10 @@ if(document.body.classList.contains('idol-catalog-page')&&['actors','voice','jpo
 const data=window.YumeIdolsDiscovery;
 if(!data)return;
 const $=id=>document.getElementById(id),root=$('idols-discover');if(!root)return;
-const input=$('discovery-search'),list=$('discovery-list'),summary=$('discovery-summary'),more=$('discovery-more'),ageDialog=$('discovery-age-dialog'),photoOnly=$('discovery-photo-only');
+const input=$('discovery-search'),list=$('discovery-list'),summary=$('discovery-summary'),more=$('discovery-more'),ageDialog=$('discovery-age-dialog'),photoOnly=$('discovery-photo-only'),platformSelect=$('discovery-platform'),countrySelect=$('discovery-country');
 const gate=$('discovery-age-enter'),cancel=$('discovery-age-back');
 const adultCats=new Set(['jav','adult','onlyfans']);
-const labels={all:'Tutte',music:'Idol musicali',groups:'Gruppi idol',gravure:'Gravure',fashion:'Modelli',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'AV / Porno 18+',onlyfans:'OnlyFans 18+'};
+const labels={all:'Tutte',music:'Idol musicali',groups:'Gruppi idol',gravure:'Gravure',fashion:'Modelli',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'AV / Porno · Asia 18+',onlyfans:'Creator · Asia 18+'};
 const photoFiles={
  'Asuka Kishi':'Kindai Mahjong Swimsuit Festival (April 27, 2024)051727MC.jpg',
  'Sayaka Isoyama':'Sayaka Isoyama 2012.jpg',
@@ -68,7 +68,14 @@ let active='all',limit=48,pending=null;
 const dedup=new Map();
 for(const p of data.people){
  const key=normalize(p.name);
- if(dedup.has(key)){const prev=dedup.get(key);prev.categories.add(p.category);if(!prev.sources.some(s=>s.url===p.source))prev.sources.push({url:p.source,label:p.sourceLabel,kind:p.sourceKind});continue}
+ if(dedup.has(key)){const prev=dedup.get(key);
+ prev.categories.add(p.category);
+ if(!prev.sources.some(s=>s.url===p.source))prev.sources.push({url:p.source,label:p.sourceLabel,kind:p.sourceKind});
+ if(p.adultPlatforms?.length)prev.adultPlatforms=[...new Set([...(prev.adultPlatforms||[]),...p.adultPlatforms])];
+ if(!prev.adultCountry&&p.adultCountry)prev.adultCountry=p.adultCountry;
+ if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
+ if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
+ continue}
  dedup.set(key,{...p,categories:new Set([p.category]),sources:[{url:p.source,label:p.sourceLabel,kind:p.sourceKind}]});
 }
 for(const p of dedup.values()){
@@ -82,7 +89,30 @@ const photoRecord=p=>{
  if((active==='adult'||active==='onlyfans')&&p.categories.has(active))return window.YumeAdultPortraits?.get(p.name,active)||shared;
  return shared;
 };
-const hasPhoto=p=>{const item=photoRecord(p);return !!(item?.verified&&item.photo)};
+const brokenImages=new Set();
+const countryLabels={JP:'🇯🇵 Giappone',KR:'🇰🇷 Corea del Sud',TH:'🇹🇭 Thailandia',PH:'🇵🇭 Filippine',VN:'🇻🇳 Vietnam',ID:'🇮🇩 Indonesia',MY:'🇲🇾 Malaysia',MM:'🇲🇲 Myanmar',SG:'🇸🇬 Singapore',TW:'🇹🇼 Taiwan',HK:'🇭🇰 Hong Kong',CN:'🇨🇳 Cina',IN:'🇮🇳 India'};
+const region=p=>p.adultCountry||([...p.categories].some(c=>adultCats.has(c))?'JP':null);
+const hasPhoto=p=>{
+ if(brokenImages.has(active+'|'+p.name))return false;
+ const item=photoRecord(p);
+ return !!(item?.verified&&item.photo)||!!(p.photoFile&&p.photoSource);
+};
+function setupAdultFilters(){
+ for(const select of [countrySelect,platformSelect])if(select)select.hidden=!adultCats.has(active);
+ if(!adultCats.has(active))return;
+ const eligible=people.filter(p=>p.categories.has(active));
+ const countries=[...new Set(eligible.map(region).filter(Boolean))].sort((a,b)=>(countryLabels[a]||a).localeCompare(countryLabels[b]||b,'it'));
+ const oldCountry=countrySelect?.value||'all',oldPlatform=platformSelect?.value||'all';
+ if(countrySelect){countrySelect.replaceChildren();const all=make('option',null,'Tutta l’Asia');all.value='all';countrySelect.append(all);
+  for(const c of countries){const o=make('option',null,countryLabels[c]||c);o.value=c;countrySelect.append(o)}
+  countrySelect.value=countries.includes(oldCountry)?oldCountry:'all';
+ }
+ if(platformSelect){const platforms=[...new Set(eligible.flatMap(p=>p.adultPlatforms||[]))].sort((a,b)=>a.localeCompare(b,'it'));
+  platformSelect.replaceChildren();const all=make('option',null,'Tutte le piattaforme');all.value='all';platformSelect.append(all);
+  for(const p of platforms){const o=make('option',null,p);o.value=p;platformSelect.append(o)}
+  platformSelect.value=platforms.includes(oldPlatform)?oldPlatform:'all';
+ }
+}
 function categoriesOf(p){return [...p.categories].map(x=>labels[x]||x).join(' · ')}
 function imageCard(p){
  const verified=photoRecord(p);
@@ -91,15 +121,24 @@ function imageCard(p){
  if(p.photoFile&&(!adultCats.has(active)||adultEnabled()))candidates.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile.replace(/ /g,'_'))+'?width=920');
  if(!candidates.length){
   const wrap=make('div','discovery-portrait is-unavailable'),monogram=make('span','discovery-portrait-glyph','✦');
-  wrap.setAttribute('aria-label','Foto non disponibile per '+p.name);wrap.append(monogram,make('small',null,'Ritratto non disponibile'));return wrap;
+  wrap.setAttribute('aria-label','Foto non disponibile per '+p.name);wrap.append(monogram,make('small',null,'Ritratto non disponibile'));
+  if(adultCats.has(active)&&adultEnabled()&&p.source){const a=link('Foto nel profilo ↗',p.source,'discovery-source-portrait');wrap.append(a)}
+  return wrap;
  }
  const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&x.startsWith('https://')))];
  const wrap=make('div','discovery-portrait'),img=document.createElement('img');
  img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
  let i=0;
- img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else if(p.categories.has('creators')){
-    wrap.classList.add('is-unavailable');wrap.replaceChildren(make('span','discovery-portrait-glyph','✦'),make('small',null,'Ritratto non disponibile'));
-   }else{wrap.classList.add('is-unavailable');wrap.replaceChildren(make('span','discovery-portrait-glyph','✦'),make('small',null,'Ritratto non disponibile'));}};
+ const failed=()=>{
+  brokenImages.add(active+'|'+p.name);
+  wrap.classList.add('is-unavailable');
+  wrap.replaceChildren(make('span','discovery-portrait-glyph','✦'),make('small',null,'Foto non caricata'));
+  if(adultCats.has(active)&&adultEnabled()&&p.source)wrap.append(link('Vedi fonte ↗',p.source,'discovery-source-portrait'));
+  if(['adult','onlyfans'].includes(active))window.YumeAdultPortraits?.reportBroken?.(p.name,active,verified?.file||p.photoFile);
+  else if(active==='jav')window.YumeJAVPortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
+ };
+ img.onload=()=>{if(img.naturalWidth<180||img.naturalHeight<240){img.onerror()}};
+ img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else failed()};
  img.src=urls[0];wrap.append(img);return wrap
 }
 function item(p){
@@ -112,6 +151,14 @@ function item(p){
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
  const summary=make('p','discovery-card-detail',p.editorialBio&&adultCats.has(active)?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
+ if(adultCats.has(active)&&p.adultPlatforms?.length){
+  const pills=make('div','adult-platform-chips');
+  for(const platform of [...new Set(p.adultPlatforms)])pills.append(make('span','adult-platform-chip',platform));
+  contents.append(pills)
+ }
+ if(adultCats.has(active)&&region(p))contents.append(make('p','discovery-japanese',countryLabels[region(p)]||region(p)));
+ if(adultCats.has(active)&&p.ageSourceStatus&&p.adultVerified!==true)contents.append(make('p','discovery-photo-caveat','Età personale non pubblicata · Fonte: '+p.ageSourceStatus));
+
  if(birthday[p.name]&&p.categories.has('vtuber'))contents.append(make('p','discovery-character-birthday','Compleanno del personaggio: '+birthday[p.name]+' · età privata non pubblicata'));
  if(p.teenSafe&&/^\d{4}-\d{2}-\d{2}$/.test(p.birth||'')){
   const b=new Date(p.birth+'T00:00:00Z'),now=new Date();
@@ -143,7 +190,11 @@ function item(p){
 function isAllowed(p){if(adultCats.has(active))return p.categories.has(active)&&adultEnabled();
  return [...p.categories].some(c=>adultCats.has(c))?false:(active==='all'?true:p.categories.has(active))}
 function render(){
- const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)&&(!photoOnly?.checked||hasPhoto(p))&&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
+ const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)
+ &&(!adultCats.has(active)||!countrySelect||countrySelect.value==='all'||region(p)===countrySelect.value)
+ &&(!adultCats.has(active)||!platformSelect||platformSelect.value==='all'||(p.adultPlatforms||[]).includes(platformSelect.value))
+ &&(!photoOnly?.checked||hasPhoto(p))
+ &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
  shown.sort((a,b)=>['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
@@ -156,11 +207,12 @@ function render(){
 }
 function choose(k){
  if(adultCats.has(k)&&!adultEnabled()){pending=k;ageDialog.showModal();return}
- active=k;limit=48;render();
+ active=k;limit=48;setupAdultFilters();render();
 }
 document.querySelectorAll('[data-discovery-category]').forEach(btn=>btn.addEventListener('click',()=>choose(btn.dataset.discoveryCategory)));
 input.addEventListener('input',()=>{limit=48;render()});
 photoOnly?.addEventListener('change',()=>{limit=48;render()});
+ for(const ctrl of [countrySelect,platformSelect])ctrl?.addEventListener('change',()=>{limit=48;render()});
 more.addEventListener('click',()=>{limit+=48;render()});
 gate.addEventListener('click',()=>{try{sessionStorage.setItem('yume-idols-adult-18','yes')}catch{}const k=pending;pending=null;ageDialog.close();if(k)choose(k)});
 cancel.addEventListener('click',()=>{pending=null;ageDialog.close()});
@@ -175,6 +227,6 @@ choose(selected);
 if(adultCats.has(selected)&&adultEnabled())list.classList.remove('is-age-pending');
 window.YumePhotoStore?.ready?.then(()=>render()).catch(()=>{});
 window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
-window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled())render()});
+window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled()){brokenImages.clear();render()}});
 
 })();
