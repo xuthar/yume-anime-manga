@@ -10,8 +10,8 @@ if(!data)return;
 const $=id=>document.getElementById(id),root=$('idols-discover');if(!root)return;
 const input=$('discovery-search'),list=$('discovery-list'),summary=$('discovery-summary'),more=$('discovery-more'),ageDialog=$('discovery-age-dialog'),photoOnly=$('discovery-photo-only');
 const gate=$('discovery-age-enter'),cancel=$('discovery-age-back');
-const adultCats=new Set(['jav','adult']);
-const labels={all:'Tutte',music:'Idol musicali',groups:'Gruppi idol',gravure:'Gravure',fashion:'Modelli',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'Adult 18+'};
+const adultCats=new Set(['jav','adult','onlyfans']);
+const labels={all:'Tutte',music:'Idol musicali',groups:'Gruppi idol',gravure:'Gravure',fashion:'Modelli',creators:'Creator / Social',cosplay:'Cosplay',vtuber:'VTuber',jav:'JAV 18+',adult:'AV / Porno 18+',onlyfans:'OnlyFans 18+'};
 const photoFiles={
  'Asuka Kishi':'Kindai Mahjong Swimsuit Festival (April 27, 2024)051727MC.jpg',
  'Sayaka Isoyama':'Sayaka Isoyama 2012.jpg',
@@ -76,15 +76,19 @@ for(const p of dedup.values()){
  if(data.officialVT[p.name])p.officialProfile=data.officialVT[p.name];
 }
 const people=[...dedup.values()];
-const photoRecord=p=>active==='jav'&&p.categories.has('jav')?(window.YumeJAVPortraits?.get(p.name)||window.YumePhotoStore?.get('japan',p.name)):
-  window.YumePhotoStore?.get('japan',p.name);
+const photoRecord=p=>{
+ const shared=window.YumePhotoStore?.get('japan',p.name);
+ if(active==='jav'&&p.categories.has('jav'))return window.YumeJAVPortraits?.get(p.name)||shared;
+ if((active==='adult'||active==='onlyfans')&&p.categories.has(active))return window.YumeAdultPortraits?.get(p.name,active)||shared;
+ return shared;
+};
 const hasPhoto=p=>{const item=photoRecord(p);return !!(item?.verified&&item.photo)};
 function categoriesOf(p){return [...p.categories].map(x=>labels[x]||x).join(' · ')}
 function imageCard(p){
  const verified=photoRecord(p);
  const candidates=[];
  if(verified?.verified&&verified.photo)candidates.push(verified.photo,...(verified.alternates||[]));
- if(p.photoFile)candidates.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile)+'?width=360');
+ if(p.photoFile&&(!adultCats.has(active)||adultEnabled()))candidates.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile.replace(/ /g,'_'))+'?width=920');
  if(!candidates.length){
   const wrap=make('div','discovery-portrait is-unavailable'),monogram=make('span','discovery-portrait-glyph','✦');
   wrap.setAttribute('aria-label','Foto non disponibile per '+p.name);wrap.append(monogram,make('small',null,'Ritratto non disponibile'));return wrap;
@@ -106,7 +110,7 @@ function item(p){
  if(p.alternate)contents.append(make('p','discovery-japanese',p.alternate));
  if((p.groups?.length||0)||p.group)contents.append(make('p','discovery-japanese','Gruppo: '+[...new Set([...(p.groups||[]),...(p.group?[p.group]:[])])].join(' · ')));
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
- const summary=make('p','discovery-card-detail',p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
+ const summary=make('p','discovery-card-detail',p.editorialBio&&adultCats.has(active)?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
  if(birthday[p.name]&&p.categories.has('vtuber'))contents.append(make('p','discovery-character-birthday','Compleanno del personaggio: '+birthday[p.name]+' · età privata non pubblicata'));
  if(p.teenSafe&&/^\d{4}-\d{2}-\d{2}$/.test(p.birth||'')){
@@ -126,20 +130,21 @@ function item(p){
  if(idolRosterX[p.name])actions.append(link('X · dal portale ↗','https://x.com/'+idolRosterX[p.name]));
  if(!p.officialProfile)actions.append(link('Cerca foto ↗','https://www.google.com/search?tbm=isch&q='+encodeURIComponent(p.name+' '+(p.alternate||'')+' official profile')));
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
- else if(!adultCats.has(active)&&!p.categories.has('jav')&&!p.categories.has('adult'))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
+ else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
  contents.append(actions);item.append(contents);return item
 }
 function isAllowed(p){if(adultCats.has(active))return p.categories.has(active)&&adultEnabled();
- return active==='all'?[...p.categories].some(c=>!adultCats.has(c)):p.categories.has(active)}
+ return [...p.categories].some(c=>adultCats.has(c))?false:(active==='all'?true:p.categories.has(active))}
 function render(){
  const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)&&(!photoOnly?.checked||hasPhoto(p))&&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
- shown.sort((a,b)=>['creators','adult','jav','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
+ shown.sort((a,b)=>['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
  if(active==='jav'&&adultEnabled())window.YumeJAVPortraits?.ensure(display);
+ if(['adult','onlyfans'].includes(active)&&adultEnabled())window.YumeAdultPortraits?.ensure(display,active);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
- summary.textContent=shown.length+' nominativi distinti disponibili · '+display.length+' mostrati · '+shown.filter(hasPhoto).length+' con foto associata · '+data.stats.sources+' fonti'+(active==='jav'?' · ricerca Commons attiva sulle schede mostrate (dopo conferma 18+)':(['creators','adult','gravure'].includes(active)?' · foto documentate per prime':''));
+ summary.textContent=shown.length+' nominativi distinti disponibili · '+display.length+' mostrati · '+shown.filter(hasPhoto).length+' con foto associata · '+data.stats.sources+' fonti'+(adultCats.has(active)?' · ritratti Commons e ricerca fotografica dopo consenso 18+':'');
  more.hidden=shown.length<=limit;more.textContent='Mostra altri '+Math.min(48,shown.length-limit)+' nomi ↓';
  for(const button of document.querySelectorAll('[data-discovery-category]'))button.setAttribute('aria-pressed',String(button.dataset.discoveryCategory===active));
 }
@@ -155,7 +160,7 @@ gate.addEventListener('click',()=>{try{sessionStorage.setItem('yume-idols-adult-
 cancel.addEventListener('click',()=>{pending=null;ageDialog.close()});
 ageDialog.addEventListener('close',()=>{pending=null});
 
-const validSelection=['music','groups','gravure','fashion','creators','cosplay','vtuber','jav','adult'];
+const validSelection=['music','groups','gravure','fashion','creators','cosplay','vtuber','jav','adult','onlyfans'];
 const selected=validSelection.includes(catalogSelection)?catalogSelection:'all';
 if(adultCats.has(selected))list.classList.add('is-age-pending');
 gate.addEventListener('click',()=>{list.classList.remove('is-age-pending')});
@@ -164,5 +169,6 @@ choose(selected);
 if(adultCats.has(selected)&&adultEnabled())list.classList.remove('is-age-pending');
 window.YumePhotoStore?.ready?.then(()=>render()).catch(()=>{});
 window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
+window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled())render()});
 
 })();
