@@ -261,6 +261,15 @@ function item(p){
  else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
  for(const [social,url] of p.verifiedSocials||[])if(!(officialSocial[p.name]||[]).some(x=>x[1]===url))actions.append(link(social+' · verificato ↗',url));
+ const wikidataSocial=window.YumeGravureSocials?.get(p.name);
+ if(p.babepediaGravureRank&&wikidataSocial?.socials){
+  for(const [platform,url] of wikidataSocial.socials){
+   if([...(p.verifiedSocials||[]),...(officialSocial[p.name]||[])].some(([name,verifiedUrl])=>name===platform||verifiedUrl===url))continue;
+   actions.append(link(platform+' · Wikidata ↗',url));
+  }
+  actions.append(link('Social · fonte Wikidata ↗',wikidataSocial.source));
+ }
+
  if(p.babepediaGravureRank&&p.categories.has('gravure')){
   // Search links are explicitly labeled as searches, never as verified accounts or portraits.
   if(!(p.verifiedSocials||[]).some(([platform])=>/^Instagram$/i.test(platform))&&!(officialSocial[p.name]||[]).some(([platform])=>platform==='Instagram'))
@@ -297,6 +306,7 @@ function render(){
  if(!adultCats.has(active))window.YumeIdolCommonsPortraits?.ensure(display);
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
  if(active==='gravure')window.YumeGravurePortraits?.ensure(display);
+ if(active==='gravure')window.YumeGravureSocials?.ensure(display);
  if(active==='jav'&&adultEnabled())window.YumeJAVPortraits?.ensure(display);
  if(['adult','onlyfans'].includes(active)&&adultEnabled())window.YumeAdultPortraits?.ensure(display,active);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
@@ -327,6 +337,7 @@ if(adultCats.has(selected)&&adultEnabled())list.classList.remove('is-age-pending
 window.YumePhotoStore?.ready?.then(()=>render()).catch(()=>{});
 window.addEventListener('yume-idol-photo-update',()=>{if(!adultCats.has(active))render()});
 window.addEventListener('yume-gravure-photo-update',()=>{if(active==='gravure')render()});
+window.addEventListener('yume-gravure-social-update',()=>{if(active==='gravure')render()});
 window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
 window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled()){brokenImages.clear();render()}});
 
