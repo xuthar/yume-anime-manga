@@ -1,0 +1,19 @@
+/* Babepedia second 100-name set supplied by user on 10 Nov 2026.
+ * Explicitly editorial leads, not proof of adult age / current social links.
+ * No images copied from Babepedia. Ranking is user-list order, not global site position.
+ */
+(()=>{'use strict';const old=window.YumeIdolsDiscovery;if(!old?.people)return;
+const names=["Saki Kosaka","Koharu Kusumi","Nanako Aizawa","Toshimi Horiguchi","Hikari Kabashima","Ruri Saijo","Kazusa Okuyama","Fumika Mizukusa","Shizuku Taiyo","Rino Oshima","Saori Yagi","Reimi Osawa","Kasumi Mori","Miki Yoshida","Ayame Misaki","Nanami Matsumoto","Miu Shiramine","Natsumi Shirahoshi","Ririka Fukui","Yura Yura","Mitsuki Momota","Kurea Hazuki","Hina Kikuchi","Asaka (Singer)","Miru Shiroma","Hikaru Aoyama","Rina Hirata","Renka Iwamoto","Fumina Suzuki","Yuka Kohinata","Ai Amatsuki","Yui Natsuki","Yuri Murakami","Kanae Watanabe","Sumire Kudo","Yuki Mita","Nagi Inoue","Kyoko Fujimi","Yuki Yoda","Nonami Takizawa","Aida Asuka","Mai Shiraishi","Nanase Nishino","Airi Saito","Aya Shibata","Riho Yoshioka","Rika Yokota","Koko Mashiro","Rena Matsuyama","Yasuyo Saito","Miyu Yonekura","Hana Okamoto","Reiko Kato","Anna Konno","Ayami Nakajo","Chikako Aoyama","Chie Nakahara","Yuka Ogura","Manami Shindo","Ren Ishikawa","Rin Kurusu","Shihomi Yoshino","Asuka Kuramochi","Maaya Uchida","Anri Sugihara","Cjd Mika","Miyu Kishi","Aika Sawaguchi","Kaho Shibuya","Hakuha Kokoro","Cocomi Sakura","Aya Kawasaki","Yuki Chika","Karen Kaede","Cjd Karen","Erika Satoh","Kazue Watanabe","Ema Ito","Haruna Yabuki","Kanami Takasaki","Miyu Uehara","Moe Wakaki","Yumi Egawa","Aimi Yoshikawa","Tina Yuzuki","Himeka Araya","Kaon Aso","Mizuki Yamashita","Suzuka Sayama","Toomi","Cjd Yuyu","Misaki Ito","Seina Shinomi","Yurina Yanagi","Rui Miyamoto","Asami Natsuki","Mitsu Dan","Akira Mizuno","Nana Kasai","Cjd Junon"];
+const norm=s=>String(s||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f\s・･._'’()\-]/g,'');
+const canon=s=>s.replace(/ \(Singer\)$/,'').replace(/^Cjd /i,'CJD ');
+const people=old.people.slice(),indexes=new Map(),added=[],enriched=[];
+people.forEach((p,i)=>{for(const name of [p.name,p.alternate])if(name){const key=norm(name);if(!indexes.has(key))indexes.set(key,[]);indexes.get(key).push(i)}});
+for(let i=0;i<names.length;i++){const raw=names[i],name=canon(raw),source='https://www.babepedia.com/babe/'+encodeURIComponent(raw.replace(/ /g,'_')).replace(/%28/g,'(').replace(/%29/g,')');
+const hits=indexes.get(norm(name))||[],match=hits.find(j=>people[j].category==='gravure');
+if(match!==undefined){const p=people[match];people[match]={...p,babepediaSecondListPosition:i+1,babepediaProfileSource:source,gravureEditorialSources:[...new Set([...(p.gravureEditorialSources||[]),source])]};enriched.push(name);continue}
+const person={category:'gravure',name,alternate:'',country:'JP',source,sourceLabel:'Babepedia · profilo (elenco utente 2/2)',sourceKind:'repertorio utente · identità, maggiore età, e attività gravure da verificare',officialProfile:null,platform:null,photoFile:null,photoSource:null,ageVerified:false,babepediaSecondListPosition:i+1,babepediaProfileSource:source,gravureIndexVerification:'nominativo da approfondire; non assumere professione o età'};
+people.push(person);const key=norm(name);if(!indexes.has(key))indexes.set(key,[]);indexes.get(key).push(people.length-1);added.push(name)}
+const sources={...old.sources,babepediaSecond100:{label:'Babepedia · altri 100 nominativi (lista utente del 10 novembre)',url:'https://www.babepedia.com/gravureidoltop100',kind:'elenco utenti · dati da verificare'}};
+window.YumeIdolsDiscovery=Object.freeze({...old,people,sources,updated:'2026-11-10',stats:{...old.stats,entries:people.length,sources:Object.keys(sources).length}});
+window.YumeBabepediaSecond100=Object.freeze({reviewed:names.length,added,existing:enriched,source:'user-supplied Babepedia links',updated:'2026-11-10'});
+})();
