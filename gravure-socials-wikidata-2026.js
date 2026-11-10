@@ -22,6 +22,6 @@ async function discover(p){const ids=new Set();for(const [query,lang] of [[p.nam
  if(!socials.length)return null;return {qid:e.id,socials,source:'https://www.wikidata.org/wiki/'+e.id,checked:'2026-11',status:'Wikidata · controllo attualità consigliato'};
 }
 function run(){while(busy.size<2&&queue.length){const p=queue.shift(),k=norm(p.name);if(busy.has(k))continue;busy.add(k);discover(p).then(info=>{if(!info)return;cache.set(k,info);try{localStorage.setItem(storageKey(p.name),JSON.stringify(info))}catch{}send()}).catch(()=>{}).finally(()=>{busy.delete(k);run()})}}
-function ensure(items){for(const p of items||[]){if(!(p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition)||get(p.name))continue;const k=norm(p.name);if(attempted.has(k))continue;attempted.add(k);queue.push(p)}run()}
+function ensure(items){for(const p of items||[]){if(!(p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition)||get(p.name))continue;const k=norm(p.name);if(attempted.has(k))continue;attempted.add(k);queue.push(p)}run()}
 window.YumeGravureSocials=Object.freeze({get,ensure,source:'Wikidata · identity checked and sourced',version:'2026-11-10'});
 })();
