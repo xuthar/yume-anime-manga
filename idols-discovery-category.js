@@ -77,7 +77,7 @@ for(const p of data.people){
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
  if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
  // Preserve provenance and verified enrichment when the same artist appears in multiple catalogs.
- for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','verifiedBirthDate','verifiedBiographySource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
+ for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','listalRating','listalVotes','listalPosition','listalSnapshotSource','verifiedBirthDate','verifiedBiographySource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
   if((prev[field]===undefined||prev[field]===null||prev[field]==='')&&p[field]!==undefined&&p[field]!==null)prev[field]=p[field];
  }
  if(p.verifiedSocials?.length)prev.verifiedSocials=[...new Map([...(prev.verifiedSocials||[]),...p.verifiedSocials].map(([platform,url])=>[platform+'|'+url,[platform,url]])).values()];
@@ -171,6 +171,8 @@ function item(p){
  if(p.babepediaFifthListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · quinta lista #'+p.babepediaFifthListPosition));
  if(p.babepediaSixthListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · sesta lista #'+p.babepediaSixthListPosition));
  if(p.babepediaMegaPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · elenco esteso #'+p.babepediaMegaPosition));
+ if(p.listalRating!==undefined&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Listal · '+p.listalRating.toFixed(1)+'/10 ('+p.listalVotes+' valutazioni, dati forniti dall’utente)'));
+
  const name=make('h3',null,p.name);contents.append(name);
  if(p.alternate)contents.append(make('p','discovery-japanese',p.alternate));
  if((p.groups?.length||0)||p.group)contents.append(make('p','discovery-japanese','Gruppo: '+[...new Set([...(p.groups||[]),...(p.group?[p.group]:[])])].join(' · ')));
