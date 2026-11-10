@@ -77,7 +77,7 @@ for(const p of data.people){
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
  if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
  // Preserve provenance and verified enrichment when the same artist appears in multiple catalogs.
- for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','verifiedBirthDate','verifiedBiographySource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
+ for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','verifiedBirthDate','verifiedBiographySource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
   if((prev[field]===undefined||prev[field]===null||prev[field]==='')&&p[field]!==undefined&&p[field]!==null)prev[field]=p[field];
  }
  if(p.verifiedSocials?.length)prev.verifiedSocials=[...new Map([...(prev.verifiedSocials||[]),...p.verifiedSocials].map(([platform,url])=>[platform+'|'+url,[platform,url]])).values()];
@@ -164,10 +164,11 @@ function item(p){
  const item=make('article','discovery-card'),visual=imageCard(p);if(visual)item.append(visual);
  const contents=make('div','discovery-card-body');
  const eyebrow=make('span','discovery-card-type',categoriesOf(p));contents.append(eyebrow);
- if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition)&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · prima lista #'+p.babepediaGravureRank));
+ if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition)&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · prima lista #'+p.babepediaGravureRank));
  if(p.babepediaSecondListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · seconda lista #'+p.babepediaSecondListPosition));
  if(p.babepediaThirdListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · terza lista #'+p.babepediaThirdListPosition));
  if(p.babepediaFourthListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · quarta lista #'+p.babepediaFourthListPosition));
+ if(p.babepediaFifthListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · quinta lista #'+p.babepediaFifthListPosition));
  const name=make('h3',null,p.name);contents.append(name);
  if(p.alternate)contents.append(make('p','discovery-japanese',p.alternate));
  if((p.groups?.length||0)||p.group)contents.append(make('p','discovery-japanese','Gruppo: '+[...new Set([...(p.groups||[]),...(p.group?[p.group]:[])])].join(' · ')));
@@ -265,7 +266,7 @@ function item(p){
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
  for(const [social,url] of p.verifiedSocials||[])if(!(officialSocial[p.name]||[]).some(x=>x[1]===url))actions.append(link(social+' · verificato ↗',url));
  const wikidataSocial=window.YumeGravureSocials?.get(p.name);
- if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition)&&wikidataSocial?.socials){
+ if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition)&&wikidataSocial?.socials){
   for(const [platform,url] of wikidataSocial.socials){
    if([...(p.verifiedSocials||[]),...(officialSocial[p.name]||[])].some(([name,verifiedUrl])=>name===platform||verifiedUrl===url))continue;
    actions.append(link(platform+' · Wikidata ↗',url));
@@ -273,7 +274,7 @@ function item(p){
   actions.append(link('Social · fonte Wikidata ↗',wikidataSocial.source));
  }
 
- if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition)&&p.categories.has('gravure')){
+ if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition)&&p.categories.has('gravure')){
   // Search links are explicitly labeled as searches, never as verified accounts or portraits.
   if(!(p.verifiedSocials||[]).some(([platform])=>/^Instagram$/i.test(platform))&&!(officialSocial[p.name]||[]).some(([platform])=>platform==='Instagram'))
    actions.append(link('Cerca Instagram ↗','https://www.google.com/search?q='+encodeURIComponent('"'+p.name+'" Instagram official')));
@@ -281,7 +282,7 @@ function item(p){
    actions.append(link('Cerca X ↗','https://www.google.com/search?q='+encodeURIComponent('"'+p.name+'" site:x.com official')));
   if(!p.photoFile&&!photoRecord(p)?.verified)
    actions.append(link('Cerca foto riutilizzabili ↗','https://commons.wikimedia.org/w/index.php?search='+encodeURIComponent(p.name)+'&title=Special:MediaSearch&type=image'));
-  actions.append(link('Babepedia · scheda o classifica ↗',p.babepediaFourthProfileSource||p.babepediaThirdProfileSource||p.babepediaProfileSource||p.babepediaGravureSource));
+  actions.append(link('Babepedia · scheda o classifica ↗',p.babepediaFifthProfileSource||p.babepediaFourthProfileSource||p.babepediaThirdProfileSource||p.babepediaProfileSource||p.babepediaGravureSource));
  }
 
  if(p.verifiedBiographySource&&p.verifiedBiographySource!==profile)actions.append(link('Biografia verificata ↗',p.verifiedBiographySource));
