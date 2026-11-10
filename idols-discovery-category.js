@@ -76,6 +76,12 @@ for(const p of data.people){
  if(!prev.adultCountry&&p.adultCountry)prev.adultCountry=p.adultCountry;
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
  if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
+ // Preserve provenance and verified enrichment when the same artist appears in multiple catalogs.
+ for(const field of ['babepediaGravureRank','babepediaGravureSource','verifiedBirthDate','verifiedBiographySource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
+  if((prev[field]===undefined||prev[field]===null||prev[field]==='')&&p[field]!==undefined&&p[field]!==null)prev[field]=p[field];
+ }
+ if(p.verifiedSocials?.length)prev.verifiedSocials=[...new Map([...(prev.verifiedSocials||[]),...p.verifiedSocials].map(([platform,url])=>[platform+'|'+url,[platform,url]])).values()];
+
  // Gravure performers sometimes appear first under fashion, music, cosplay or JAV.
  // Keep the matching, separately sourced A–Z metadata on the unified card.
  if(p.category==='gravure'&&p.gravureIndexBirthYear){
@@ -158,6 +164,7 @@ function item(p){
  const item=make('article','discovery-card'),visual=imageCard(p);if(visual)item.append(visual);
  const contents=make('div','discovery-card-body');
  const eyebrow=make('span','discovery-card-type',categoriesOf(p));contents.append(eyebrow);
+ if(p.babepediaGravureRank&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · Top 100 #'+p.babepediaGravureRank+' (lista fornita dall’utente)'));
  const name=make('h3',null,p.name);contents.append(name);
  if(p.alternate)contents.append(make('p','discovery-japanese',p.alternate));
  if((p.groups?.length||0)||p.group)contents.append(make('p','discovery-japanese','Gruppo: '+[...new Set([...(p.groups||[]),...(p.group?[p.group]:[])])].join(' · ')));
@@ -254,6 +261,17 @@ function item(p){
  else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
  for(const [social,url] of p.verifiedSocials||[])if(!(officialSocial[p.name]||[]).some(x=>x[1]===url))actions.append(link(social+' · verificato ↗',url));
+ if(p.babepediaGravureRank&&p.categories.has('gravure')){
+  // Search links are explicitly labeled as searches, never as verified accounts or portraits.
+  if(!(p.verifiedSocials||[]).some(([platform])=>/^Instagram$/i.test(platform))&&!(officialSocial[p.name]||[]).some(([platform])=>platform==='Instagram'))
+   actions.append(link('Cerca Instagram ↗','https://www.google.com/search?q='+encodeURIComponent('"'+p.name+'" Instagram official')));
+  if(!(p.verifiedSocials||[]).some(([platform])=>/^X(?: |$)/i.test(platform))&&!(officialSocial[p.name]||[]).some(([platform])=>platform==='X'))
+   actions.append(link('Cerca X ↗','https://www.google.com/search?q='+encodeURIComponent('"'+p.name+'" site:x.com official')));
+  if(!p.photoFile&&!photoRecord(p)?.verified)
+   actions.append(link('Cerca foto riutilizzabili ↗','https://commons.wikimedia.org/w/index.php?search='+encodeURIComponent(p.name)+'&title=Special:MediaSearch&type=image'));
+  actions.append(link('Classifica Babepedia (fonte) ↗',p.babepediaGravureSource));
+ }
+
  if(p.verifiedBiographySource&&p.verifiedBiographySource!==profile)actions.append(link('Biografia verificata ↗',p.verifiedBiographySource));
  if(p.cosplayGuideSource&&(active==='cosplay'||active==='all'||active==='creators')){
   if(p.cosplayGuideSource!==profile)actions.append(link('Guida Cosplay 2026 ↗',p.cosplayGuideSource));
