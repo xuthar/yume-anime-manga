@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T15:16:58.641715+01:00",
+  "updatedAt": "2026-11-10T14:44:09.170341+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-09T15:16:58.641715+01:00",
+      "checkedAt": "2026-11-10T14:44:09.170341+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-09T15:16:58.641715+01:00",
+      "checkedAt": "2026-11-10T14:44:09.170341+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-09T15:16:58.641715+01:00",
+      "checkedAt": "2026-11-10T14:44:09.170341+01:00",
       "status": "ok"
     }
   ],
