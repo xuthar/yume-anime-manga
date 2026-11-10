@@ -4,8 +4,8 @@ const profiles=[{"name":"Rina Hashimoto","birth":"1993-09-13","source":"https://
 const commonsFiles={
  'Rina Hashimoto':'Trend Girls Photo Session (September 15, 2024)Rina Hashimoto IMG 6263.jpg',
  'Shinonome Umi':'Enako presents Muse Photoshoot (June 21, 2025)CYuWMqVkSHINONOME.jpg',
- 'Jun Amaki':'Jun Amaki 2020.jpg',
- 'Enako':'Enako presents Muse Photoshoot (June 21, 2025)IMG 9018.jpg'
+ 'Jun Amaki':'天木じゅん.jpg',
+ 'Enako':'Enako as Snow Miku giving heart hand gesture in Bangkok (8433706089).jpg'
 };
 const people=old.people.map(p=>{const src=profiles.find(x=>norm(x.name)===norm(p.name)||norm(x.name)===norm(p.alternate));if(!src)return p;
 const commonsFile=commonsFiles[src.name]||null;
