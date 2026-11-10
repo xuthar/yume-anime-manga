@@ -127,5 +127,13 @@ for(const [name,alternate,birth,category,group,url] of youngTalent){
  if(same){same.birth=birth;same.alternate=alternate;same.group=group;same.source=url;same.sourceLabel=group+' · profilo ufficiale';same.sourceKind='fonte ufficiale verificata';same.teenSafe=true;continue}
  people.push({category,name,alternate,birth,group,source:url,sourceLabel:group+' · profilo ufficiale',sourceKind:'fonte ufficiale verificata',officialProfile:url,platform:null,teenSafe:true})
 }
+/* Sakura Gakuin historical roster: names documented in a 2019 fan discussion.
+   Historical music/performer context only; never infer current membership, age, social accounts or photographs. */
+const sakuraHistorical=[["Hana Taguchi","田口華"],["Marina Horiuchi","堀内まり菜"],["Megumi Okada","岡田愛"],["Aiko Yamaide","山出愛子"],["Ayami Muto","武藤彩未"],["Hinata Sato","佐藤日向"],["Raura Iida","飯田來麗"],["Airi Matsui","松井愛莉"],["Ayaka Miyoshi","三吉彩花"]];
+for(const [name,alternate] of sakuraHistorical){
+ const existing=people.find(p=>p.name.toLocaleLowerCase('en')===name.toLocaleLowerCase('en')||p.name===alternate||p.alternate===alternate);
+ if(existing){if(!existing.group)existing.group='Sakura Gakuin (ex membro · storico)';continue;}
+ people.push({category:'music',name,alternate,group:'Sakura Gakuin (ex membro · storico)',source:'https://www.reddit.com/r/SakuraGakuin/comments/aehllj/i_made_a_website_listing_460_junior_idols_and/',sourceLabel:'r/SakuraGakuin · discussione storica (2019)',sourceKind:'community · da verificare con fonti ufficiali',officialProfile:null,platform:null});
+}
 window.YumeIdolsDiscovery=Object.freeze({updated:'2026-11-08',sources,people,verified,officialVT,stats:{entries:people.length,sources:Object.keys(sources).length}});
 })();
