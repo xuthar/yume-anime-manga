@@ -1,0 +1,60 @@
+{
+  "checked": "2026-11-10",
+  "category": "jav",
+  "scope": "Adult actresses only; no minors, no film stills or unlicensed editorial portraits",
+  "profiles": [
+    {
+      "name": "Emika Shirakami",
+      "japanese": "白上咲花",
+      "birth": "2003-12-27",
+      "portrait": "Kindai Mahjong Swimsuit Festival (September 30, 2026)IMG 9929.jpg",
+      "license": "CC BY 4.0",
+      "socials": [
+        "X: emika_shirakami",
+        "Instagram: emika_shirakami"
+      ],
+      "identitySource": "https://commons.wikimedia.org/wiki/Category:Emika_Shirakami",
+      "portraitSource": "https://commons.wikimedia.org/wiki/File:Kindai_Mahjong_Swimsuit_Festival_(September_30,_2026)IMG_9929.jpg",
+      "socialSource": "https://x.com/emika_shirakami/highlights"
+    },
+    {
+      "name": "Shiori Yorimoto",
+      "japanese": "依本しおり",
+      "birth": "1998-10-01",
+      "portrait": "Trend Girls Photo Session (September 28, 2025) IMG 3217.jpg",
+      "license": "CC BY 4.0",
+      "socials": [
+        "X: yorimoto_s"
+      ],
+      "identitySource": "https://commons.wikimedia.org/wiki/Category:Shiori_Yorimoto",
+      "portraitSource": "https://commons.wikimedia.org/wiki/File:Trend_Girls_Photo_Session_(September_28,_2025)_IMG_3217.jpg",
+      "socialSource": "https://x.com/yorimoto_s"
+    },
+    {
+      "name": "Noa Araki",
+      "japanese": "新木希空",
+      "birth": "2004-10-10",
+      "portrait": null,
+      "license": null,
+      "socials": [
+        "X: araki_noa_",
+        "Instagram: araki_noa"
+      ],
+      "identitySource": "https://commons.wikimedia.org/wiki/Category:Noa_Araki",
+      "portraitSource": "https://commons.wikimedia.org/wiki/Category:Noa_Araki",
+      "socialSource": "https://x.com/araki_noa_"
+    },
+    {
+      "name": "Nao Satsuki",
+      "japanese": "さつきなお",
+      "birth": "2002-06-16",
+      "portrait": "Trend Girls Photo Session (May 3, 2025)IMG 5771.jpg",
+      "license": "CC BY-SA 4.0",
+      "socials": [],
+      "identitySource": "https://commons.wikimedia.org/wiki/Category:Nao_Satsuki_by_year",
+      "portraitSource": "https://commons.wikimedia.org/wiki/File:Trend_Girls_Photo_Session_(May_3,_2025)IMG_5771.jpg",
+      "socialSource": null
+    }
+  ],
+  "note": "3 direct portrait files matched and licensed; Noa Araki remains linked to Commons category pending single-file license check. Three have source-attributed social accounts. Live rendered image loading not tested. Some performers may already appear in Yume and will be enriched, not duplicated."
+}
