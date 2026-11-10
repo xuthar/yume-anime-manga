@@ -1,0 +1,3599 @@
+{
+  "updated": "2026-11-10",
+  "scope": "Two user-supplied Babepedia lists; explicitly per-person coverage registry.",
+  "summary": {
+    "inputOccurrences": 200,
+    "uniqueNames": 200,
+    "duplicateNamesAcrossLists": 0,
+    "independentlySourcedInYume": 17,
+    "pendingIndependentCheck": 183,
+    "fullyVerifiedPortraits": 0
+  },
+  "methodology": "No source profile was deemed verified from its Babepedia URL alone. Social links require independent publisher/agency source; photographs require matching identity and license and live rendering checks. The browser-side Wikidata/Commons discovery is supplementary and not proof of completion.",
+  "people": [
+    {
+      "name": "Shion Utsunomiya",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 1
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kanna Seto",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 2
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Haru Minato",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 3
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Anri Okita",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 4
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Momona Koibuchi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 5
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Hikaru Nagi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 6
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Maki Shinkai",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 7
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Seina Matsuda",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 8
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Arisa",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 9
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nao Jinguji",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 10
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nanami Asahi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 11
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Tina Kitsune",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 12
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Airi Kato",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 13
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Asuka Kijima",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 14
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Mio Matsuda",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 15
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Momo Misono",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 16
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Asami Sakanoue",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 17
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Asana Mamoru",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 18
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Hikari Kuroki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 19
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Aika",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 20
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rina Hashimoto",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 21
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://wpb.shueisha.co.jp/gravure/20260913-132801/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/rinasketch"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/hashimoto_rina_/"
+        ]
+      ],
+      "birthDate": "1993-09-13",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Saeko Kondo",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 22
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Seira Nagasawa",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 23
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Asuna Kawai",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 24
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Minami Kato",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 25
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rena Kato",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 26
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rika Izumi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 27
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yumi Mizusaki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 28
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Haruka",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 29
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Ena",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 30
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Chu Chu",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 31
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Sachiko Aizawa",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 32
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Chiemi Kai",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 33
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ayaka Miyoshi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 34
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miyu Murashima",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 35
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://wpb.shueisha.co.jp/gravure/20230702-119894/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/Happymiyu0827"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/happy_miyu0827/"
+        ]
+      ],
+      "birthDate": "1998-08-27",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Kenken",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 36
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Mai Nishida",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 37
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Akane Yoshinaga",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 38
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Tao Tsuchiya",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 39
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://handledex.com/en/person/tao-tsuchiya/",
+      "verifiedSocials": [
+        [
+          "Instagram",
+          "https://www.instagram.com/taotsuchiya_official/"
+        ],
+        [
+          "X (fan club)",
+          "https://x.com/tsuchiyatao_fc"
+        ]
+      ],
+      "birthDate": null,
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Mina Shirakawa",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 40
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://www.onlineworldofwrestling.com/profile/mina-shirakawa/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/MinaShirakawa"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/Mina_Shirakawa/"
+        ]
+      ],
+      "birthDate": "1987-12-26",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Natsumi Hirajima",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 41
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yu Tano",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 42
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kaia Kitsune",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 43
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Hiroko Okabe",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 44
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Shinonome Umi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 45
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://ppe.jp/talent/umi-shinonome/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/sinonome_umi"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/umi_portrait/"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/@umi_shinonome"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@shinonome_umi"
+        ]
+      ],
+      "birthDate": "1996-09-26",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Kiriya Matsuri",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 46
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Haru Aoi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 47
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ai Yamada",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 48
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kei Fubuki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 49
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miyu Yoshii",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 50
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Asuka Kishi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 51
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://www.stardust.co.jp/talent/section3/kishiasuka/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/asupons02"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/aspoo02/"
+        ]
+      ],
+      "birthDate": "1991-04-11",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "CJD Minami",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 52
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Satomi Ishihara",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 53
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Neti JP",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 54
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rina Nagai",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 55
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Riho Takada",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 56
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yumena Nishino",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 57
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miho Abe",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 58
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ume Hyakka",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 59
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Miyabi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 60
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuki Odera",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 61
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Airi Shirakawa",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 62
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kana Nakada",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 63
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Jun Amaki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 64
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://wpb.shueisha.co.jp/gravure/20260809-132398/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/jun_amaki"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/jun.amaki/"
+        ]
+      ],
+      "birthDate": "1995-10-16",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Reon Kadena",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 65
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ai Shinozaki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 66
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": "https://shinozakiai0226.com/",
+      "verifiedSocials": [],
+      "birthDate": "1992-02-26",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Kumiko Takeda",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 67
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Sena Natsuki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 68
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Hiroe Igeta",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 69
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rina Saito",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 70
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kana Tsugihara",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 71
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rina Fujisaki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 72
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Erika Ikuta",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 73
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://erikaikuta.jp/",
+      "verifiedSocials": [
+        [
+          "X (staff)",
+          "https://x.com/ikuta_staff"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/ikutaerika.official/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@ikutaerikaofficial"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/@ikutaerikaofficial"
+        ]
+      ],
+      "birthDate": "1997-01-22",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Yuka Someya",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 74
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Mio Kimishima",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 75
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Anri Morishima",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 76
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Enako",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 77
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://ppe.jp/talent/enako/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/enako_cos"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/enakorin/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@enako_cos"
+        ],
+        [
+          "Twitch",
+          "https://www.twitch.tv/enako_chan"
+        ]
+      ],
+      "birthDate": "1994-01-22",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Tsubasa Amami",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 78
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Kyon",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 79
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Aoi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 80
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rion Hiiragi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 81
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Erisa Kusunoki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 82
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Kyrie",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 83
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Moeka Sasaki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 84
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Amano Chiyo",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 85
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Emi Kobayashi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 86
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Chisato Morishita",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 87
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Fumie Nakajima",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 88
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Azusa Yamamoto",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 89
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ai Okawa",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 90
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Eriko Sato",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 91
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Amau Kisumi",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 92
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nanaka Fukue",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 93
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuu Yamamoto",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 94
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Natsuki Abe",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 95
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ai Uehara",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 96
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Midori Nagatsuki",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 97
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Shiori Kaneko",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 98
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuuki Fukasawa",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 99
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Anri Sakura",
+      "userListPositions": [
+        {
+          "list": 1,
+          "position": 100
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/gravureidoltop100",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Saki Kosaka",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 1
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Saki_Kosaka",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Koharu Kusumi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 2
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Koharu_Kusumi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nanako Aizawa",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 3
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Nanako_Aizawa",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Toshimi Horiguchi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 4
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Toshimi_Horiguchi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Hikari Kabashima",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 5
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Hikari_Kabashima",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://group.kadokawa.co.jp/information/promotional_topics/article-15405.html",
+      "verifiedSocials": [
+        [
+          "Instagram",
+          "https://www.instagram.com/hikari_kabashima/"
+        ]
+      ],
+      "birthDate": "1996-06-08",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Ruri Saijo",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 6
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Ruri_Saijo",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kazusa Okuyama",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 7
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kazusa_Okuyama",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://www.kodansha.co.jp/titles/1000039164",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/okuyama_kazusa_"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/kazusa_okuyama_official/"
+        ]
+      ],
+      "birthDate": "1994-03-10",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Fumika Mizukusa",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 8
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Fumika_Mizukusa",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Shizuku Taiyo",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 9
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Shizuku_Taiyo",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rino Oshima",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 10
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Rino_Oshima",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Saori Yagi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 11
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Saori_Yagi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Reimi Osawa",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 12
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Reimi_Osawa",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kasumi Mori",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 13
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kasumi_Mori",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://wpb.shueisha.co.jp/gravure/20240103-121758/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/mori_kasumi_"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/mori_kasumi_/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@mori_kasumi_"
+        ]
+      ],
+      "birthDate": "1995-06-16",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Miki Yoshida",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 14
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Miki_Yoshida",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ayame Misaki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 15
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Ayame_Misaki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nanami Matsumoto",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 16
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Nanami_Matsumoto",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miu Shiramine",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 17
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Miu_Shiramine",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Natsumi Shirahoshi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 18
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Natsumi_Shirahoshi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ririka Fukui",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 19
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Ririka_Fukui",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yura Yura",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 20
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yura_Yura",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Mitsuki Momota",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 21
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Mitsuki_Momota",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kurea Hazuki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 22
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kurea_Hazuki",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://www.stardust.co.jp/talent/section1/hazukikurea/",
+      "verifiedSocials": [
+        [
+          "X (staff)",
+          "https://x.com/kurea_staff"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/mooz_x.x/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@moon_x_oz"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/@kurea_official"
+        ]
+      ],
+      "birthDate": "2003-11-19",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Hina Kikuchi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 23
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Hina_Kikuchi",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://magazine.younganimal.com/gravure/?id=103",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/k_hina_1019"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/hina_k_1019/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@k_hina1019"
+        ]
+      ],
+      "birthDate": "2004-10-19",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Asaka",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 24
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Asaka_(Singer)",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miru Shiroma",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 25
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Miru_Shiroma",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://artist.cdjournal.com/a/shiroma-miru/932713",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/shiromiru36"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/shiro36run/"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/channel/UCB5GrB8WW4lNBEchPyuH87w"
+        ]
+      ],
+      "birthDate": "1997-10-14",
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Hikaru Aoyama",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 26
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Hikaru_Aoyama",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rina Hirata",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 27
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Rina_Hirata",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Renka Iwamoto",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 28
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Renka_Iwamoto",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Fumina Suzuki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 29
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Fumina_Suzuki",
+      "identityStatus": "sourced-profile",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "source-attributed",
+      "verifiedSource": "https://wpb.shueisha.co.jp/gravure/20260927-132953/",
+      "verifiedSocials": [
+        [
+          "X",
+          "https://x.com/suzukifumina"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/fuminasuzuki/"
+        ]
+      ],
+      "birthDate": null,
+      "note": "Agency/publisher/editorial source recorded; media file availability must be checked separately."
+    },
+    {
+      "name": "Yuka Kohinata",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 30
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yuka_Kohinata",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ai Amatsuki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 31
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Ai_Amatsuki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yui Natsuki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 32
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yui_Natsuki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuri Murakami",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 33
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yuri_Murakami",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kanae Watanabe",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 34
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kanae_Watanabe",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Sumire Kudo",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 35
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Sumire_Kudo",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuki Mita",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 36
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yuki_Mita",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nagi Inoue",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 37
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Nagi_Inoue",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kyoko Fujimi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 38
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kyoko_Fujimi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuki Yoda",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 39
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yuki_Yoda",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nonami Takizawa",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 40
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Nonami_Takizawa",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Aida Asuka",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 41
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Aida_Asuka",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Mai Shiraishi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 42
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Mai_Shiraishi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nanase Nishino",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 43
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Nanase_Nishino",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Airi Saito",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 44
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Airi_Saito",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Aya Shibata",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 45
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Aya_Shibata",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Riho Yoshioka",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 46
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Riho_Yoshioka",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rika Yokota",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 47
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Rika_Yokota",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Koko Mashiro",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 48
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Koko_Mashiro",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rena Matsuyama",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 49
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Rena_Matsuyama",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yasuyo Saito",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 50
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yasuyo_Saito",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miyu Yonekura",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 51
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Miyu_Yonekura",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Hana Okamoto",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 52
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Hana_Okamoto",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Reiko Kato",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 53
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Reiko_Kato",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Anna Konno",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 54
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Anna_Konno",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ayami Nakajo",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 55
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Ayami_Nakajo",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Chikako Aoyama",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 56
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Chikako_Aoyama",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Chie Nakahara",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 57
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Chie_Nakahara",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuka Ogura",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 58
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yuka_Ogura",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Manami Shindo",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 59
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Manami_Shindo",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ren Ishikawa",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 60
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Ren_Ishikawa",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rin Kurusu",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 61
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Rin_Kurusu",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Shihomi Yoshino",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 62
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Shihomi_Yoshino",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Asuka Kuramochi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 63
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Asuka_Kuramochi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Maaya Uchida",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 64
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Maaya_Uchida",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Anri Sugihara",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 65
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Anri_Sugihara",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Mika",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 66
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Cjd_Mika",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miyu Kishi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 67
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Miyu_Kishi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Aika Sawaguchi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 68
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Aika_Sawaguchi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kaho Shibuya",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 69
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kaho_Shibuya",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Hakuha Kokoro",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 70
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Hakuha_Kokoro",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Cocomi Sakura",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 71
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Cocomi_Sakura",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Aya Kawasaki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 72
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Aya_Kawasaki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yuki Chika",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 73
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yuki_Chika",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Karen Kaede",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 74
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Karen_Kaede",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Karen",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 75
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Cjd_Karen",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Erika Satoh",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 76
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Erika_Satoh",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kazue Watanabe",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 77
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kazue_Watanabe",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Ema Ito",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 78
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Ema_Ito",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Haruna Yabuki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 79
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Haruna_Yabuki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kanami Takasaki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 80
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kanami_Takasaki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Miyu Uehara",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 81
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Miyu_Uehara",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Moe Wakaki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 82
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Moe_Wakaki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yumi Egawa",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 83
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yumi_Egawa",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Aimi Yoshikawa",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 84
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Aimi_Yoshikawa",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Tina Yuzuki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 85
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Tina_Yuzuki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Himeka Araya",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 86
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Himeka_Araya",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Kaon Aso",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 87
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Kaon_Aso",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Mizuki Yamashita",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 88
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Mizuki_Yamashita",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Suzuka Sayama",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 89
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Suzuka_Sayama",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Toomi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 90
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Toomi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Yuyu",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 91
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Cjd_Yuyu",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Misaki Ito",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 92
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Misaki_Ito",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Seina Shinomi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 93
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Seina_Shinomi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Yurina Yanagi",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 94
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Yurina_Yanagi",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Rui Miyamoto",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 95
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Rui_Miyamoto",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Asami Natsuki",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 96
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Asami_Natsuki",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Mitsu Dan",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 97
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Mitsu_Dan",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Akira Mizuno",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 98
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Akira_Mizuno",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "Nana Kasai",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 99
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Nana_Kasai",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    },
+    {
+      "name": "CJD Junon",
+      "userListPositions": [
+        {
+          "list": 2,
+          "position": 100
+        }
+      ],
+      "babepediaSource": "https://www.babepedia.com/babe/Cjd_Junon",
+      "identityStatus": "pending-independent-verification",
+      "portraitStatus": "license-and-live-display-unverified",
+      "socialStatus": "pending",
+      "verifiedSource": null,
+      "verifiedSocials": [],
+      "birthDate": null,
+      "note": "User-supplied directory entry only; no independently confirmed identity, adulthood, accounts, or photo."
+    }
+  ]
+}
