@@ -5,8 +5,8 @@
     "inputOccurrences": 1568,
     "uniqueNames": 1566,
     "overlapWithPreviousSixLists": 2,
-    "sourceAttributed": 45,
-    "sourceUnverified": 1521,
+    "sourceAttributed": 49,
+    "sourceUnverified": 1517,
     "fullyVerifiedPhotographs": 0
   },
   "overlapNames": [
@@ -11194,11 +11194,21 @@
       "positionsExtended": [
         94
       ],
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20260830-132611/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/miyazaki_amisa"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/miyazaki_aa/"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending"
+      "socialStatus": "source-attributed",
+      "birthDate": "2002-10-28"
     },
     {
       "name": "Yurika Wagatsuma",
@@ -11566,11 +11576,25 @@
       "positionsExtended": [
         125
       ],
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://www.sonymusic.co.jp/artist/AkaseAkari/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/Akase_Official"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/akaseakari_official/"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/channel/UC_7hhYHUWNcabctizf9zn8w"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending"
+      "socialStatus": "source-attributed",
+      "birthDate": "2001-07-30"
     },
     {
       "name": "Komomo Koikawa",
@@ -14603,11 +14627,21 @@
       "positionsExtended": [
         379
       ],
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://www.horipro.co.jp/ayaseharuka/",
+      "officialSocials": [
+        [
+          "Instagram (staff)",
+          "https://www.instagram.com/ayaseharuka_official_staff/"
+        ],
+        [
+          "Instagram (photobooks)",
+          "https://www.instagram.com/harukanoisekai_official/"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending"
+      "socialStatus": "source-attributed",
+      "birthDate": "1985-03-24"
     },
     {
       "name": "Yuki Kiyose",
@@ -19211,11 +19245,21 @@
       "positionsExtended": [
         764
       ],
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://www.flamme.co.jp/actress/neru_nagahama/",
+      "officialSocials": [
+        [
+          "Instagram",
+          "https://www.instagram.com/nerunagahama_/"
+        ],
+        [
+          "X (staff)",
+          "https://x.com/nerustaff"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending"
+      "socialStatus": "source-attributed",
+      "birthDate": "1998-09-04"
     },
     {
       "name": "Nina Aizawa",
@@ -21665,5 +21709,11 @@
       "portraitStatus": "not-individually-verified",
       "socialStatus": "pending"
     }
+  ],
+  "latestIndependentlyChecked": [
+    "Haruka Ayase",
+    "Amisa Miyazaki",
+    "Akari Akase",
+    "Neru Nagahama"
   ]
 }
