@@ -1,0 +1,17 @@
+/* User-transcribed Babepedia gravure page 6, 10 Nov 2026.
+   Source directory alone is not age/identity/photography/social verification. */
+(()=>{'use strict';const prev=window.YumeIdolsDiscovery;if(!prev?.people)return;
+const names=["Saki Yoshida","Yuko Ogura","Kurumi Kisaragi","Risako (Gravure Idol)","Haruna Yoshizawa","Yuuka Aragaki","Nene Komachi","Kaori Hisamatsu","Miku Kuwajima","Tsugu Manaka","Manamo Nano","Momoka Hayashida","Nodoka Shizume","Ayasa Ito","Momoha Takatsuru","Manaka Minami","Sayaka Nitori","Marica Hase","Risa Honda","Chieri Ito","Nana Okada (Singer)","Ririka (Model)","Yuka Sugai","Rena Takeda","Kanna Fuji","Mia Masuzaka","Hitomi Ito","Marin Seno","Misumi Shiochi","Rina Akiyama","Kaede Nanakawa","Megumi Yasu","Natori Kurumi","Kei Jonishi","Mizuho Shiraishi","Saki Seto","Mana Sakura","Yoshino Chitose","Ayu Okakura","Velvet7","Miho Yoshioka","Nene Shida","Himari Otsu","Shiyu Naruse","Hitomi Yasueda","Kana Yamada","Nao Nagasawa","Asuka Kawazu","Kazusa Sato","Ryoko Shinohara","Saya Kataoka","Ao Harapeco","Arisa Takanashi","Saya Akane","Kaho Kasumi","Rio Uchida","Yui Tadenuma","Aya Hirano","Sakura Endo","Aino Kishi","Marupi","Asami Natsumoto","Punitan","Aiko Ito","Nanaka Yano","Mariya Nagao","Misaki Sawa","Hannah Minx","Nana Asakawa","Alisa (gravure idol)","Miyabi Yamaoka","Kimika Yoshino","Nagi Nemoto","Hiroko Anzai","Miyako Sono","Hitomi Fujisaki","Yuki Arimura","Marina Momose","Maya Imamori","Hana Seto","Kumiko Hara","Miyabi Tateishi","Mizuki Asakura","Juri Yashiro","Mayumi Asano","Rurika Yokoyama","Tomomi Nakagawa","Michelle Megumi","Ai Kaname","Kokone Sasaki","Meiri","Hibiki Natsume","Risako Tsubaki","Hitoe Ohtake","Mea Shimotsuki","Kiki Amano","Yui Aragaki","Runa Amemiya","Misako Yasuda","Yui Yokoyama"];
+const norm=x=>String(x||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f\s・･._'’()\-]/g,'');
+const canon=x=>x.replace(/ \((?:gravure idol|Singer|Model)\)$/i,'').replace(/^Cjd /i,'CJD ');
+const people=prev.people.slice(),index=new Map(),added=[],enriched=[];
+const addKey=(name,j)=>{const key=norm(name);if(!key)return;if(!index.has(key))index.set(key,[]);index.get(key).push(j)};
+people.forEach((p,j)=>{for(const n of [p.name,p.alternate,...(p.otherStageNames||[])])if(n)addKey(n,j)});
+for(let i=0;i<names.length;i++){const name=canon(names[i]),original=names[i],url='https://www.babepedia.com/babe/'+encodeURIComponent(original.replaceAll(' ','_'));
+const hits=index.get(norm(name))||[];const match=hits.find(j=>people[j].category==='gravure');
+if(match!==undefined){const p=people[match];people[match]={...p,babepediaSixthListPosition:i+1,babepediaSixthProfileSource:url,gravureEditorialSources:[...new Set([...(p.gravureEditorialSources||[]),url])]};enriched.push(name);continue}
+const p={category:'gravure',name,alternate:'',source:url,sourceLabel:'Babepedia · pagina 6 trascritta dall’utente',sourceKind:'repertorio editoriale da verificare',officialProfile:null,platform:null,photoFile:null,photoSource:null,ageVerified:false,babepediaSixthListPosition:i+1,babepediaSixthProfileSource:url,gravureIndexVerification:'identità, foto e account ufficiali da verificare'};
+people.push(p);addKey(name,people.length-1);added.push(name)}
+window.YumeIdolsDiscovery=Object.freeze({...prev,people,updated:'2026-11-10',stats:{...prev.stats,entries:people.length}});
+window.YumeBabepediaSixth100=Object.freeze({reviewed:names.length,added,enriched,source:'user-supplied page 6',updated:'2026-11-10'});
+})();
