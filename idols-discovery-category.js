@@ -252,6 +252,8 @@ function item(p){
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
  else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
+ for(const [social,url] of p.verifiedSocials||[])if(!(officialSocial[p.name]||[]).some(x=>x[1]===url))actions.append(link(social+' · verificato ↗',url));
+ if(p.verifiedBiographySource&&p.verifiedBiographySource!==profile)actions.append(link('Biografia verificata ↗',p.verifiedBiographySource));
  if(p.cosplayGuideSource&&(active==='cosplay'||active==='all'||active==='creators')){
   if(p.cosplayGuideSource!==profile)actions.append(link('Guida Cosplay 2026 ↗',p.cosplayGuideSource));
   for(const [social,url] of (p.cosplaySocials||[]))if(![...(officialSocial[p.name]||[])].some(x=>x[1]===url))actions.append(link(social+' · guida 2026 ↗',url));
