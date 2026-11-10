@@ -77,7 +77,7 @@ for(const p of data.people){
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
  if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
  // Preserve provenance and verified enrichment when the same artist appears in multiple catalogs.
- for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','listalRating','listalVotes','listalPosition','listalSnapshotSource','verifiedBirthDate','verifiedBiographySource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
+ for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','listalRating','listalVotes','listalPosition','listalSnapshotSource','boobpediaCrossReference','verifiedBirthDate','verifiedBiographySource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
   if((prev[field]===undefined||prev[field]===null||prev[field]==='')&&p[field]!==undefined&&p[field]!==null)prev[field]=p[field];
  }
  if(p.verifiedSocials?.length)prev.verifiedSocials=[...new Map([...(prev.verifiedSocials||[]),...p.verifiedSocials].map(([platform,url])=>[platform+'|'+url,[platform,url]])).values()];
@@ -234,6 +234,7 @@ function item(p){
  const actions=make('div','discovery-card-links');
  const profile=p.officialProfile||p.sources[0].url;
  actions.append(link(p.officialProfile?'Profilo ufficiale ↗':'Apri fonte ↗',profile));
+ if(active==='gravure'&&p.boobpediaCrossReference&&p.boobpediaCrossReference!==profile)actions.append(link('Boobpedia · repertorio secondario ↗',p.boobpediaCrossReference));
  if(active==='gravure'&&p.gravureIndexSource&&p.gravureIndexSource!==profile)
   actions.append(link('GravureIndex · indice A–Z ↗',p.gravureIndexSource));
  if(active==='gravure'&&p.gravureOriginSource)
