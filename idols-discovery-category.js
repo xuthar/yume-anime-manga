@@ -231,6 +231,7 @@ function item(p){
  }
  if(p.qid)actions.append(link('Wikidata ↗','https://www.wikidata.org/wiki/'+p.qid));
  const portrait=photoRecord(p);
+ if(p.photoFile&&p.photoSource&&!portrait?.verified)actions.append(link('Foto · fonte e licenza ↗',p.photoSource));
  if(portrait?.verified&&portrait.source){
   actions.append(link('Foto e licenza ↗',portrait.source));
   if(adultCats.has(active)&&portrait.file){
