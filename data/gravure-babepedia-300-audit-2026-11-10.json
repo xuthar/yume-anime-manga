@@ -5,11 +5,11 @@
     "inputOccurrences": 300,
     "uniqueNames": 300,
     "repeatedNamesAcrossThreeLists": 0,
-    "individuallySourceAttributed": 20,
-    "pendingIndependentCheck": 280,
+    "individuallySourceAttributed": 23,
+    "pendingIndependentCheck": 277,
     "fullyVerifiedPortraits": 0
   },
-  "methodology": "Source-attributed is not a guarantee that account is still current. Babepedia names alone are not used to confirm personal identity, age, current profession or image permissions. Photo coverage requires image-by-image verification.",
+  "methodology": "Source-attributed is not a guarantee that account is still current. Babepedia names alone are not used to confirm personal identity, age, current profession or image permissions. Photo coverage requires image-by-image verification. Agency-linked socials are attributed to the agency rather than independently checked against platform account status; identity-safe image licences and live display are separate checks.",
   "people": [
     {
       "name": "Shion Utsunomiya",
@@ -3630,11 +3630,24 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Ami_Minami",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://ppe.jp/talent/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/amichan_0907"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/amichan0907/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@amichan_0907"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
+      "socialStatus": "source-attributed",
       "birthDate": null
     },
     {
@@ -4430,12 +4443,21 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Miku_Tanaka",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20260118-129840/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/miku_monmon3939"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/mikumonmon_48/"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
-      "birthDate": null
+      "socialStatus": "source-attributed",
+      "birthDate": "2001-09-12"
     },
     {
       "name": "Fumie Hosokawa",
@@ -4622,11 +4644,28 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Minami_Shinohara",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://ppe.jp/talent/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/snhr_minami"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/snhr_minami/"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/c/%E7%AF%A0%E5%8E%9F%E3%81%BF%E3%81%AA%E3%81%BF"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@snhr_minami"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
+      "socialStatus": "source-attributed",
       "birthDate": null
     },
     {
