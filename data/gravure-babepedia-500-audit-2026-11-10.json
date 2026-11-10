@@ -6,8 +6,8 @@
     "uniqueNames": 500,
     "repeatedNamesAcrossLists": 0,
     "newEntriesFromFifthPage": 100,
-    "individuallySourceAttributed": 31,
-    "pendingIndependentCheck": 469,
+    "individuallySourceAttributed": 37,
+    "pendingIndependentCheck": 463,
     "fullyVerifiedPortraits": 0
   },
   "methodology": "Babepedia links are source leads, not verified credentials. Independent agency/editorial source attribution and social IDs require exact matching. Portraits still require individual rights, identity and live-render confirmation. No automatic claim of completed photo/social verification.",
@@ -3498,12 +3498,21 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Ririsa_Tsuji",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20240804-124041/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/t_ririsa"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/t_ririsa/"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
-      "birthDate": null
+      "socialStatus": "source-attributed",
+      "birthDate": "1997-11-19"
     },
     {
       "name": "Elaiza Ikeda",
@@ -5043,12 +5052,21 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Rio_Teramoto",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20210314-113236/",
+      "officialSocials": [
+        [
+          "Instagram",
+          "https://www.instagram.com/lespros_rio/"
+        ],
+        [
+          "X",
+          "https://x.com/lespros_t_rio"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
-      "birthDate": null
+      "socialStatus": "source-attributed",
+      "birthDate": "2001-11-05"
     },
     {
       "name": "Sara Oshino",
@@ -7402,12 +7420,21 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Mio_Kudo",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20221113-117741/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/p_miokudo"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/mmio_kudo/"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
-      "birthDate": null
+      "socialStatus": "source-attributed",
+      "birthDate": "1999-10-08"
     },
     {
       "name": "Tomomi Itano",
@@ -7434,12 +7461,25 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Sayaka_Tomaru",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20251207-129393/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/tmr_syk_"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/tmrsyk/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@tmrsyk"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
-      "birthDate": null
+      "socialStatus": "source-attributed",
+      "birthDate": "1996-09-26"
     },
     {
       "name": "Takara Suzuki",
@@ -7658,12 +7698,25 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Yuno_Ohara",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20250105-125597/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/Yuno__official"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/yuno_ohara/"
+        ],
+        [
+          "YouTube",
+          "https://www.youtube.com/@yuno_tube"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
-      "birthDate": null
+      "socialStatus": "source-attributed",
+      "birthDate": "1999-10-08"
     },
     {
       "name": "Tsukasa Aoi",
@@ -8330,12 +8383,38 @@
         }
       ],
       "babepediaPage": "https://www.babepedia.com/babe/Moka_Hashimoto",
-      "identityStatus": "pending-independent-verification",
-      "profileSource": null,
-      "officialSocials": [],
+      "identityStatus": "source-attributed",
+      "profileSource": "https://wpb.shueisha.co.jp/gravure/20260628-131886/",
+      "officialSocials": [
+        [
+          "X",
+          "https://x.com/moka_ttt0728"
+        ],
+        [
+          "Instagram",
+          "https://www.instagram.com/moca.gram/"
+        ],
+        [
+          "TikTok",
+          "https://www.tiktok.com/@coloooon018"
+        ]
+      ],
       "portraitStatus": "not-individually-verified",
-      "socialStatus": "pending",
-      "birthDate": null
+      "socialStatus": "source-attributed",
+      "birthDate": "1998-07-28"
     }
-  ]
+  ],
+  "lastVerificationBatch": {
+    "count": 6,
+    "people": [
+      "Ririsa Tsuji",
+      "Moka Hashimoto",
+      "Rio Teramoto",
+      "Yuno Ohara",
+      "Sayaka Tomaru",
+      "Mio Kudo"
+    ],
+    "source": "Shueisha Weekly Playboy official profiles",
+    "notes": "Source-attributed public socials. Photo rights and actual live image loads not independently confirmed. Some publisher sources are historical."
+  }
 }
