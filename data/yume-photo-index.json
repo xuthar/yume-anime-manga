@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "updated": "2026-11-09T12:52:50.242Z",
+  "updated": "2026-11-10T18:49:23.949Z",
   "coverage": {
     "sport": {
       "photos": 113,
       "total": 299
     },
     "asia": {
-      "photos": 136,
+      "photos": 140,
       "total": 602
     },
     "japan": {
       "photos": 66,
-      "total": 461
+      "total": 470
     },
     "global": {
       "photos": 6,
@@ -1438,26 +1438,28 @@
       "verified": true
     },
     "kr:nayeon": {
+      "qid": "Q22804243",
       "name": "Nayeon",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Twice_in_Seattle_2026_-_TWICE._Nayeon_(55044092307).jpg?width=500",
-      "alternates": [],
-      "file": "Twice in Seattle 2026 - TWICE. Nayeon (55044092307).jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Twice_in_Seattle_2026_-_TWICE._Nayeon_(55044092307).jpg",
-      "license": "Wikimedia Commons · consultare autore e condizioni nella scheda del file",
-      "verified": true,
-      "verifiedBy": "Nome della persona identificato nella categoria Commons del gruppo",
-      "validatedAt": "2026-11-08"
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Nayeon_in_November_2025.png/500px-Nayeon_in_November_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nayeon_in_November_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Nayeon in November 2025.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Nayeon%20in%20November%202025.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:jeongyeon": {
+      "qid": "Q25374501",
       "name": "Jeongyeon",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeongyeon_TWICE_This_Is_For_World_Tour_Bangkok_%EC%A0%95%EC%97%B0_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_(cropped).jpg?width=500",
-      "alternates": [],
-      "file": "Jeongyeon TWICE This Is For World Tour Bangkok 정연 트와이스 (cropped).jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Jeongyeon_TWICE_This_Is_For_World_Tour_Bangkok_%EC%A0%95%EC%97%B0_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_(cropped).jpg",
-      "license": "Wikimedia Commons · consultare autore e condizioni nella scheda del file",
-      "verified": true,
-      "verifiedBy": "Nome della persona identificato nella categoria Commons del gruppo",
-      "validatedAt": "2026-11-08"
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/TWICE_Jeongyeon_VETERAN_2_September_2024.jpg/500px-TWICE_Jeongyeon_VETERAN_2_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/TWICE_Jeongyeon_VETERAN_2_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "TWICE Jeongyeon VETERAN 2 September 2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:TWICE%20Jeongyeon%20VETERAN%202%20September%202024.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:momo": {
       "name": "Momo",
@@ -1504,15 +1506,16 @@
       "validatedAt": "2026-11-08"
     },
     "kr:dahyun": {
+      "qid": "Q22773838",
       "name": "Dahyun",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Twice_in_Seattle_2026_-_TWICE._Dahyun_(55045249264).jpg?width=500",
-      "alternates": [],
-      "file": "Twice in Seattle 2026 - TWICE. Dahyun (55045249264).jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Twice_in_Seattle_2026_-_TWICE._Dahyun_(55045249264).jpg",
-      "license": "Wikimedia Commons · consultare autore e condizioni nella scheda del file",
-      "verified": true,
-      "verifiedBy": "Nome della persona identificato nella categoria Commons del gruppo",
-      "validatedAt": "2026-11-08"
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_%28cropped%29.png/500px-Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Dahyun at press conference for You Are the Apple of My Eye 02 (cropped).png",
+      "source": "https://commons.wikimedia.org/wiki/File:Dahyun%20at%20press%20conference%20for%20You%20Are%20the%20Apple%20of%20My%20Eye%2002%20(cropped).png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:chaeyoung": {
       "name": "Chaeyoung",
@@ -2799,6 +2802,54 @@
       "license": "Wikimedia Commons · autore e condizioni d'uso sulla scheda del file",
       "verified": true,
       "verifiedAt": "2026-11-08"
+    },
+    "vn:bichphuong": {
+      "qid": "Q26921037",
+      "name": "Bích Phương",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/B%C3%ADch_Ph%C6%B0%C6%A1ng.png/500px-B%C3%ADch_Ph%C6%B0%C6%A1ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/B%C3%ADch_Ph%C6%B0%C6%A1ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Bích Phương.png",
+      "source": "https://commons.wikimedia.org/wiki/File:B%C3%ADch%20Ph%C6%B0%C6%A1ng.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:phuongmychi": {
+      "qid": "Q16158535",
+      "name": "Phương Mỹ Chi",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg/500px-PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "PHƯƠNG MỸ CHI 2023.10.18.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:PH%C6%AF%C6%A0NG%20M%E1%BB%B8%20CHI%202023.10.18.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "id:mutiaraazzahra": {
+      "qid": "Q65214082",
+      "name": "Mutiara Azzahra",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/20191221_JKT48_at_JKT48_Joy_Kick_Tears_HSF_-_Mutiara_Azzahra_%28Muthe%29_%283%29.jpg/500px-20191221_JKT48_at_JKT48_Joy_Kick_Tears_HSF_-_Mutiara_Azzahra_%28Muthe%29_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/20191221_JKT48_at_JKT48_Joy_Kick_Tears_HSF_-_Mutiara_Azzahra_%28Muthe%29_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "20191221 JKT48 at JKT48 Joy Kick Tears HSF - Mutiara Azzahra (Muthe) (3).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20191221%20JKT48%20at%20JKT48%20Joy%20Kick%20Tears%20HSF%20-%20Mutiara%20Azzahra%20(Muthe)%20(3).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "id:ninatutachia": {
+      "qid": "Q136648464",
+      "name": "Nina Tutachia",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nachia_of_JKT48_%28cropped%29.png/500px-Nachia_of_JKT48_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/81/Nachia_of_JKT48_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      ],
+      "file": "Nachia of JKT48 (cropped).png",
+      "source": "https://commons.wikimedia.org/wiki/File:Nachia%20of%20JKT48%20(cropped).png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     }
   },
   "japan": {
