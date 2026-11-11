@@ -5,7 +5,7 @@ on:
       categories:
         description: "Comma-separated Yume categories"
         required: false
-        default: "gravure,jav,music,creators,cosplay,fashion,vtuber,adult,onlyfans"
+        default: "vtuber,music,cosplay,fashion,gravure"
       max_cards:
         description: "Maximum cards per category in this batch (up to 5000)"
         required: false
@@ -39,7 +39,7 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Inspect image rendering and capture review screenshots
         env:
-          AUDIT_CATEGORIES: ${{ github.event.inputs.categories || 'gravure,jav,music,creators,cosplay,fashion,vtuber,adult,onlyfans' }}
+          AUDIT_CATEGORIES: ${{ github.event.inputs.categories || 'vtuber,music,cosplay,fashion,gravure' }}
           AUDIT_MAX_CARDS: ${{ github.event.inputs.max_cards || '96' }}
           AUDIT_OFFSET: ${{ github.event.inputs.offset || '0' }}
           AUDIT_SCREENSHOTS: "16"
