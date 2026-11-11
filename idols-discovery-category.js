@@ -172,6 +172,7 @@ function imageCard(p){
   if(adultCats.has(active)&&adultEnabled()&&(p.instagramProfile||p.source))wrap.append(link(p.instagramProfile?'Vedi Instagram ↗':'Vedi fonte ↗',p.instagramProfile||p.source,'discovery-source-portrait'));
   if(['adult','onlyfans'].includes(active))window.YumeAdultPortraits?.reportBroken?.(p.name,active,verified?.file||p.photoFile);
   else if(active==='jav')window.YumeJAVPortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
+  else if(active==='gravure')window.YumeGravurePortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
   updateVisiblePhotoCount();
  };
  img.onload=()=>{
