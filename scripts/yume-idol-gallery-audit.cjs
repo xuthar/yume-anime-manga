@@ -52,9 +52,12 @@ async function reviewCategory(browser, category, report) {
   const end=Math.min(totalCards,target);
   for(let start=OFFSET;start<end;start+=12){
    const last=Math.min(end,start+12)-1;
-   const locator=page.locator('.discovery-card').nth(last);
-   await locator.scrollIntoViewIfNeeded({timeout:8000}).catch(()=>{});
-   await sleep(1300);
+   // Scroll every card: loading="lazy" otherwise leaves offscreen images unfetched.
+   for(let index=start;index<=last;index++){
+    await page.locator('.discovery-card').nth(index).scrollIntoViewIfNeeded({timeout:8000}).catch(()=>{});
+    await sleep(180);
+   }
+   await sleep(900);
    const cards=await page.locator('.discovery-card').evaluateAll((nodes,args)=>
     nodes.slice(args.start,args.end).map((c,k)=>{
      const img=c.querySelector('img');
