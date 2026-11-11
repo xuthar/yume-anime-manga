@@ -5,7 +5,7 @@
     "newKnownCategoryMappings": 122,
     "exactPinnedPhotosIndividuallyVerified": 5,
     "categoryOnlyCandidatesWithLiveLicenseCheck": 117,
-    "officialSocialProfilesAdded": 3,
+    "officialSocialProfilesAdded": 2,
     "siteWideLiveLoadedPortraitsVerified": 0
   },
   "portraitSamples": [
@@ -19,11 +19,11 @@
     },
     {
       "name": "Moe Amatsuka",
-      "file": "Amatsuka Moe, Japanese porn actress 1.jpg",
+      "file": "Amatsuka Moe, Japanese porn actress 2.jpg",
       "license": "CC BY 2.0",
       "author": "Baldwin Saintilus",
       "verifiedFilePage": true,
-      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Amatsuka_Moe%2C_Japanese_porn_actress_1.jpg"
+      "commonsUrl": "https://commons.wikimedia.org/wiki/File:Amatsuka_Moe%2C_Japanese_porn_actress_2.jpg"
     },
     {
       "name": "Jessica Kizaki",
@@ -79,13 +79,7 @@
       "x": "https://x.com/fukada0318",
       "instagram": "https://www.instagram.com/eimi0318/",
       "tiktok": "https://www.tiktok.com/@fukada0318"
-    },
-    {
-      "name": "Mao Hamasaki",
-      "source": "https://byobyosoku.doorblog.jp/archives/15590607.html",
-      "x": "https://x.com/Hamasaki_mao",
-      "instagram": "https://www.instagram.com/maohamasaki_official/"
     }
   ],
-  "limitations": "Curated category mappings require matching existing catalog names; categoryPhoto inspects Commons media metadata at runtime and skips explicit or unlicensed images. 122 mappings are NOT 122 guaranteed new visible portraits. The site's full actual browser rendering has not been tested for every artist. Metadata may change or be deleted."
+  "limitations": "Curated category mappings require matching existing catalog names; categoryPhoto inspects Commons media metadata at runtime and skips explicit or unlicensed images. 122 mappings are NOT 122 guaranteed new visible portraits. The site's full actual browser rendering has not been tested for every artist. Metadata may change or be deleted. Mao Hamasaki omitted from verified socials due to weak secondary account attribution."
 }
