@@ -1,0 +1,281 @@
+{
+  "source": "hololive official images indexed in an older public directory",
+  "sourceUrl": "https://codepen.io/kosuke0321/pen/jOdowyW",
+  "generated": "2026-11-11",
+  "license": "© COVER Corp. · externally linked official promotional art, rights reserved",
+  "method": "Historical direct official URLs. Identity source references official talent pages; individual URL rendering must still be rechecked.",
+  "profiles": {
+    "Tokino Sora": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2021/04/unnamed-file-6-855x1536.png",
+      "source": "https://hololive.hololivepro.com/en/talents/tokino-sora/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Robocosan": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/roboco-san_pr-img_06.png",
+      "source": "https://hololive.hololivepro.com/en/talents/robocosan/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "AZKi": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_pr-img_04-724x1440.png",
+      "source": "https://hololive.hololivepro.com/en/talents/azki/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Sakura Miko": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/02/Sakura-Miko_pr-img_01-1008x1440.png",
+      "source": "https://hololive.hololivepro.com/en/talents/sakura-miko/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Hoshimachi Suisei": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/bg_Hoshimachi-Suisei_01-1-925x1440.png",
+      "source": "https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Aki Rosenthal": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Aki-Rosenthall_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/aki-rosenthal/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Akai Haato": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Akai-Haato_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/akai-haato/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Shirakami Fubuki": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/shirakami-fubuki/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Natsuiro Matsuri": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/matsuri_pr-img_2.png",
+      "source": "https://hololive.hololivepro.com/en/talents/natsuiro-matsuri/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Minato Aqua": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Minato-Aqua_pr-img_01b.png",
+      "source": "https://hololive.hololivepro.com/en/talents/minato-aqua/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Murasaki Shion": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/03/Murasaki-Shion_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/murasaki-shion/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Nakiri Ayame": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Nakiri-Ayame_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/nakiri-ayame/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Yuzuki Choco": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Yuzuki-Choco_pr-img_01-1.png",
+      "source": "https://hololive.hololivepro.com/en/talents/yuzuki-choco/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Oozora Subaru": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Oozora-Subaru_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/oozora-subaru/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Ookami Mio": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Ookami-Mio_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/ookami-mio/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Nekomata Okayu": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Nekomata-Okayu_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/nekomata-okayu/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Inugami Korone": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Inugami-Korone_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/inugami-korone/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Usada Pekora": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Usada-Pekora_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/usada-pekora/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Shiranui Flare": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Shiranui-Flare_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/shiranui-flare/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Shirogane Noel": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/01/Shirogane-Noel_pr-img_02.png",
+      "source": "https://hololive.hololivepro.com/en/talents/shirogane-noel/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Houshou Marine": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/03/Houshou-Marine_pr-img_1.png",
+      "source": "https://hololive.hololivepro.com/en/talents/houshou-marine/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Amane Kanata": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Amane-Kanata_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/amane-kanata/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Tsunomaki Watame": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Tsunomaki-Watame_pr-img_01-1.png",
+      "source": "https://hololive.hololivepro.com/en/talents/tsunomaki-watame/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Tokoyami Towa": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Tokoyami-Towa_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/tokoyami-towa/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Himemori Luna": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Himemori-Luna_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/himemori-luna/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Yukihana Lamy": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Yukihana-Lamy_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/yukihana-lamy/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Momosuzu Nene": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Momosuzu-Nene_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/momosuzu-nene/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Shishiro Botan": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/shishiro-botan/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Omaru Polka": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Omaru-Polka_pr-img_01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/omaru-polka/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "La+ Darknesss": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2022/09/La-Darknesss_pr-img_02.png",
+      "source": "https://hololive.hololivepro.com/en/talents/laplus-darknesss/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Takane Lui": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2022/09/Takane-Lui_pr-img_02.png",
+      "source": "https://hololive.hololivepro.com/en/talents/takane-lui/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Hakui Koyori": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2022/09/Hakui-Koyori_pr-img_02.png",
+      "source": "https://hololive.hololivepro.com/en/talents/hakui-koyori/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Sakamata Chloe": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Sakamata-Chloe_pr-img01.png",
+      "source": "https://hololive.hololivepro.com/en/talents/sakamata-chloe/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    },
+    "Kazama Iroha": {
+      "photo": "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kazama-Iroha_pr-img_01-1.png",
+      "source": "https://hololive.hololivepro.com/en/talents/kazama-iroha/",
+      "license": "© COVER Corp. · official artwork",
+      "verified": true,
+      "characterArtwork": true,
+      "sourceLabel": "hololive · artwork ufficiale (link storico)"
+    }
+  }
+}
