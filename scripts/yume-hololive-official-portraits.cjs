@@ -45,7 +45,8 @@ async function candidate(page,name){
 (async()=>{
  const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
  const ctx=await browser.newContext({userAgent:'Mozilla/5.0 (compatible; YumeIdolsPhotoAudit/1.0)',viewport:{width:1280,height:900}});
- const found={source:'hololive production TALENT official pages',sourceUrl:'https://hololive.hololivepro.com/en/talents',generated:new Date().toISOString(),license:'© COVER Corp. · official promotional artwork, linked from origin; not a free license',profiles:{}};
+ let previous={};try{previous=JSON.parse(await fs.readFile('data/yume-hololive-official-portraits.json','utf8')).profiles||{}}catch{}
+ const found={source:'hololive production TALENT official pages',sourceUrl:'https://hololive.hololivepro.com/en/talents',generated:new Date().toISOString(),license:'© COVER Corp. · official promotional artwork, linked from origin; not a free license',profiles:{...previous}};
  const review=[];
  try{
   for(const [i,name] of targets.entries()){
