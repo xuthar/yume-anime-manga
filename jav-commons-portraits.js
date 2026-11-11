@@ -217,7 +217,7 @@ const clean=n=>String(n||'').normalize('NFKC').normalize('NFKD').toLocaleLowerCa
 const curated=new Map(FIXED.map(([name,category,file])=>[clean(name),{name,category,file}]));
 const lookup=new Map(),attempted=new Set(),queued=[],active=new Set(),badFiles=new Set();
 const consent=()=>{try{return sessionStorage.getItem('yume-idols-adult-18')==='yes'}catch{return false}};
-const cacheKey=name=>'yume:jav:commons:portrait:v2:'+clean(name);
+const cacheKey=name=>'yume:jav:commons:portrait:v3:'+clean(name);
 function commonsSource(file){return 'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replaceAll(' ','_'))}
 function toPhoto(name,file,category,license='Wikimedia Commons'){
  const value={name,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replaceAll(' ','_'))+'?width=920',
@@ -254,7 +254,8 @@ function api(host,params){
  return fetch(url,{mode:'cors',credentials:'omit',headers:{Accept:'application/json'}})
  .then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()});
 }
-const forbid=/(nude|naked|strip|genital|uncensored|explicit|sexual|intercourse|penetration|masturbat|sex scene|作品パッケージ|ヌード|全裸|裸身|性交|乳首|cover art|swimsuit festival|bikini)/i;
+// Public, non-explicit licensed swimwear photos can serve as professional portraits.
+const forbid=/(nude|naked|strip|genital|uncensored|explicit|sexual|intercourse|penetration|masturbat|sex scene|作品パッケージ|ヌード|全裸|裸身|性交|乳首|cover art)/i;
 const avoid=/(signature|autograph|sign\.|banner|poster|promotion|videoframe|full of stars|performers| and |group photo|集合|★|ロゴ)/i;
 function suitable(p){
  const file=(p.title||'').replace(/^File:/,'');
