@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T14:44:09.170341+01:00",
+  "updatedAt": "2026-11-11T13:56:11.051564+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-10T14:44:09.170341+01:00",
+      "checkedAt": "2026-11-11T13:56:11.051564+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-10T14:44:09.170341+01:00",
+      "checkedAt": "2026-11-11T13:56:11.051564+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-10T14:44:09.170341+01:00",
+      "checkedAt": "2026-11-11T13:56:11.051564+01:00",
       "status": "ok"
     }
   ],
@@ -6521,6 +6521,17 @@
     },
     {
       "date": "2026-12-01",
+      "title": "Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World Volume 14",
+      "series": "Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, But Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out For Revenge on My Former Party Members and the World",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/backstabbed-in-a-backwater-dungeon#volume-14",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-01",
       "title": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Light Novel) Vol. 2",
       "series": "History of the Kingdom of Orcsen: How the Barbarian Orcish Nation Came to Burn Down the Peaceful Elfland (Light Novel) Vol. 2",
       "publisher": "Seven Seas",
@@ -6710,6 +6721,17 @@
       "isbn": "979-8-89765-946-3",
       "url": "https://sevenseasentertainment.com/books/the-skull-dragons-precious-daughter-vol-6/",
       "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "To Another World... with Land Mines! Volume 14",
+      "series": "To Another World... with Land Mines!",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/to-another-world-with-land-mines#volume-14",
+      "sourceId": "j-novel-club"
     },
     {
       "date": "2026-12-01",
@@ -9017,18 +9039,6 @@
     },
     {
       "date": "2027-02-02",
-      "title": "Free Life Fantasy Online: Immortal Princess (Manga) Vol. 15",
-      "series": "Free Life Fantasy Online: Immortal Princess (Manga) Vol. 15",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-909-8",
-      "url": "https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-manga-vol-15/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-02",
       "title": "Girl Meets Rock! Vol. 3",
       "series": "Girl Meets Rock! Vol. 3",
       "publisher": "Seven Seas",
@@ -9085,42 +9095,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-096-0",
       "url": "https://sevenseasentertainment.com/books/look-up-at-me-deng-ni-yang-wang-novel-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-02",
-      "title": "Love is Money Vol. 2",
-      "series": "Love is Money Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-389-9",
-      "url": "https://sevenseasentertainment.com/books/love-is-money-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-02",
-      "title": "My Kitten is a Picky Eater Vol. 11",
-      "series": "My Kitten is a Picky Eater Vol. 11",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-630-1",
-      "url": "https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-11/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-02",
-      "title": "Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger (Manga) Vol. 8",
-      "series": "Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger (Manga) Vol. 8",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-633-2",
-      "url": "https://sevenseasentertainment.com/books/only-i-know-the-world-is-ending-and-getting-killed-by-rampaging-beasts-only-makes-me-stronger-manga-vol-8/",
       "sourceId": "seven-seas"
     },
     {
@@ -9257,30 +9231,6 @@
     },
     {
       "date": "2027-02-09",
-      "title": "Hotel Inhumans Vol. 3",
-      "series": "Hotel Inhumans Vol. 3",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-916-6",
-      "url": "https://sevenseasentertainment.com/books/hotel-inhumans-vol-3/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-09",
-      "title": "How NOT to Summon a Demon Lord (Manga) Vol. 26",
-      "series": "How NOT to Summon a Demon Lord (Manga) Vol. 26",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-209-9",
-      "url": "https://sevenseasentertainment.com/books/how-not-to-summon-a-demon-lord-manga-vol-26/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-09",
       "title": "I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse (Light Novel) Vol. 1",
       "series": "I Became a Necromancer After Beating Up My Angel Guide and Accidentally Triggered the Apocalypse (Light Novel) Vol. 1",
       "publisher": "Seven Seas",
@@ -9305,30 +9255,6 @@
     },
     {
       "date": "2027-02-09",
-      "title": "Ripples in the River Vol. 5",
-      "series": "Ripples in the River Vol. 5",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-638-7",
-      "url": "https://sevenseasentertainment.com/books/ripples-in-the-river-vol-5/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-09",
-      "title": "Succubus and Hitman Vol. 12",
-      "series": "Succubus and Hitman Vol. 12",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-939-5",
-      "url": "https://sevenseasentertainment.com/books/succubus-and-hitman-vol-12/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-09",
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Box Set (Vol. 1-6)",
       "series": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Box Set (Vol. 1-6)",
       "publisher": "Seven Seas",
@@ -9349,18 +9275,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-407-0",
       "url": "https://sevenseasentertainment.com/books/the-babe-at-my-back-has-her-eye-on-me-im-done-for-manga-vol-3/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-09",
-      "title": "The Beast King: Master of Medicines Vol. 4",
-      "series": "The Beast King: Master of Medicines Vol. 4",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-648-6",
-      "url": "https://sevenseasentertainment.com/books/the-beast-king-master-of-medicines-vol-4/",
       "sourceId": "seven-seas"
     },
     {
@@ -9521,30 +9435,6 @@
     },
     {
       "date": "2027-02-16",
-      "title": "Magika Swordsman and Summoner Vol. 20",
-      "series": "Magika Swordsman and Summoner Vol. 20",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-202-1",
-      "url": "https://sevenseasentertainment.com/books/magika-swordsman-and-summoner-vol-20/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-16",
-      "title": "My Darling Devilish Daughter Vol. 4",
-      "series": "My Darling Devilish Daughter Vol. 4",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-513-8",
-      "url": "https://sevenseasentertainment.com/books/my-darling-devilish-daughter-vol-4/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-16",
       "title": "Nono’s Phantom Shop Vol. 1",
       "series": "Nono’s Phantom Shop Vol. 1",
       "publisher": "Seven Seas",
@@ -9553,18 +9443,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-358-9",
       "url": "https://sevenseasentertainment.com/books/nonos-phantom-shop-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-16",
-      "title": "Phenomenon X: Paranormal Crime Files Vol. 2",
-      "series": "Phenomenon X: Paranormal Crime Files Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-507-7",
-      "url": "https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/",
       "sourceId": "seven-seas"
     },
     {
@@ -9625,18 +9503,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-657-8",
       "url": "https://sevenseasentertainment.com/books/this-is-screwed-up-but-i-was-reincarnated-as-a-girl-in-another-world-manga-vol-21/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-16",
-      "title": "Uesugi-kun Wants to Quit Being a Girl Vol. 3",
-      "series": "Uesugi-kun Wants to Quit Being a Girl Vol. 3",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-951-7",
-      "url": "https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-3/",
       "sourceId": "seven-seas"
     },
     {
@@ -9725,18 +9591,6 @@
     },
     {
       "date": "2027-02-23",
-      "title": "Don’t Call it Mystery (Omnibus) Vol. 15-16",
-      "series": "Don’t Call it Mystery (Omnibus) Vol. 15-16",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-330-0",
-      "url": "https://sevenseasentertainment.com/books/dont-call-it-mystery-omnibus-vol-15-16/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-23",
       "title": "Grim Night Tales Vol. 4",
       "series": "Grim Night Tales Vol. 4",
       "publisher": "Seven Seas",
@@ -9745,30 +9599,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-464-2",
       "url": "https://sevenseasentertainment.com/books/grim-night-tales-vol-4/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-23",
-      "title": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 2",
-      "series": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-471-1",
-      "url": "https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-23",
-      "title": "Headhunted to Another World: From Salaryman to Big Four! Vol. 12",
-      "series": "Headhunted to Another World: From Salaryman to Big Four! Vol. 12",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-935-8",
-      "url": "https://sevenseasentertainment.com/books/headhunted-to-another-world-from-salaryman-to-big-four-vol-12/",
       "sourceId": "seven-seas"
     },
     {
@@ -9793,18 +9623,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-371-8",
       "url": "https://sevenseasentertainment.com/books/i-became-a-necromancer-after-beating-up-my-angel-guide-and-accidentally-triggered-the-apocalypse-manga-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-23",
-      "title": "Raul and His Vampire Prince Vol. 3",
-      "series": "Raul and His Vampire Prince Vol. 3",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-90209-010-6",
-      "url": "https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-3/",
       "sourceId": "seven-seas"
     },
     {
@@ -10013,6 +9831,18 @@
     },
     {
       "date": "2027-03-02",
+      "title": "The Beast King: Master of Medicines Vol. 4",
+      "series": "The Beast King: Master of Medicines Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-648-6",
+      "url": "https://sevenseasentertainment.com/books/the-beast-king-master-of-medicines-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-02",
       "title": "The Horizon Will Soon Shine Vol. 1",
       "series": "The Horizon Will Soon Shine Vol. 1",
       "publisher": "Seven Seas",
@@ -10117,6 +9947,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-686-9",
       "url": "https://sevenseasentertainment.com/books/good-morning-good-night-and-see-you-tomorrow-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-09",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 2",
+      "series": "Hanaori-san Still Wants to Fight in the Next Life (Omnibus) Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-471-1",
+      "url": "https://sevenseasentertainment.com/books/hanaori-san-still-wants-to-fight-in-the-next-life-omnibus-vol-2/",
       "sourceId": "seven-seas"
     },
     {
@@ -10325,6 +10167,18 @@
     },
     {
       "date": "2027-03-16",
+      "title": "Free Life Fantasy Online: Immortal Princess (Manga) Vol. 15",
+      "series": "Free Life Fantasy Online: Immortal Princess (Manga) Vol. 15",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-909-8",
+      "url": "https://sevenseasentertainment.com/books/free-life-fantasy-online-immortal-princess-manga-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-16",
       "title": "Hokkaido Gals Are Super Adorable! (Omnibus) Vol. 9-10",
       "series": "Hokkaido Gals Are Super Adorable! (Omnibus) Vol. 9-10",
       "publisher": "Seven Seas",
@@ -10333,6 +10187,30 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-606-6",
       "url": "https://sevenseasentertainment.com/books/hokkaido-gals-are-super-adorable-omnibus-vol-9-10/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-16",
+      "title": "Hotel Inhumans Vol. 3",
+      "series": "Hotel Inhumans Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-916-6",
+      "url": "https://sevenseasentertainment.com/books/hotel-inhumans-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-16",
+      "title": "How NOT to Summon a Demon Lord (Manga) Vol. 26",
+      "series": "How NOT to Summon a Demon Lord (Manga) Vol. 26",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-209-9",
+      "url": "https://sevenseasentertainment.com/books/how-not-to-summon-a-demon-lord-manga-vol-26/",
       "sourceId": "seven-seas"
     },
     {
@@ -10373,6 +10251,18 @@
     },
     {
       "date": "2027-03-16",
+      "title": "My Darling Devilish Daughter Vol. 4",
+      "series": "My Darling Devilish Daughter Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-513-8",
+      "url": "https://sevenseasentertainment.com/books/my-darling-devilish-daughter-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-16",
       "title": "My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won’t Leave Me Alone (Light Novel) Vol. 4",
       "series": "My Girlfriend Cheated on Me, and Now My Flirty Underclassman Won’t Leave Me Alone (Light Novel) Vol. 4",
       "publisher": "Seven Seas",
@@ -10385,6 +10275,18 @@
     },
     {
       "date": "2027-03-16",
+      "title": "My Kitten is a Picky Eater Vol. 11",
+      "series": "My Kitten is a Picky Eater Vol. 11",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-630-1",
+      "url": "https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-11/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-16",
       "title": "Night of the Living Cat Vol. 8",
       "series": "Night of the Living Cat Vol. 8",
       "publisher": "Seven Seas",
@@ -10393,6 +10295,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-996-9",
       "url": "https://sevenseasentertainment.com/books/night-of-the-living-cat-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-16",
+      "title": "Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger (Manga) Vol. 8",
+      "series": "Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger (Manga) Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-633-2",
+      "url": "https://sevenseasentertainment.com/books/only-i-know-the-world-is-ending-and-getting-killed-by-rampaging-beasts-only-makes-me-stronger-manga-vol-8/",
       "sourceId": "seven-seas"
     },
     {
@@ -10453,6 +10367,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89561-418-1",
       "url": "https://sevenseasentertainment.com/books/time-stop-hero-vol-16/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-16",
+      "title": "Uesugi-kun Wants to Quit Being a Girl Vol. 3",
+      "series": "Uesugi-kun Wants to Quit Being a Girl Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-951-7",
+      "url": "https://sevenseasentertainment.com/books/uesugi-kun-wants-to-quit-being-a-girl-vol-3/",
       "sourceId": "seven-seas"
     },
     {
@@ -10781,6 +10707,18 @@
     },
     {
       "date": "2027-03-30",
+      "title": "Don’t Call it Mystery (Omnibus) Vol. 15-16",
+      "series": "Don’t Call it Mystery (Omnibus) Vol. 15-16",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-330-0",
+      "url": "https://sevenseasentertainment.com/books/dont-call-it-mystery-omnibus-vol-15-16/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-30",
       "title": "Fluffy Café in Another World (Manga) Vol. 5",
       "series": "Fluffy Café in Another World (Manga) Vol. 5",
       "publisher": "Seven Seas",
@@ -10889,6 +10827,42 @@
     },
     {
       "date": "2027-03-30",
+      "title": "Phenomenon X: Paranormal Crime Files Vol. 2",
+      "series": "Phenomenon X: Paranormal Crime Files Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-507-7",
+      "url": "https://sevenseasentertainment.com/books/phenomenon-x-paranormal-crime-files-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-30",
+      "title": "Ripples in the River Vol. 5",
+      "series": "Ripples in the River Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-638-7",
+      "url": "https://sevenseasentertainment.com/books/ripples-in-the-river-vol-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-30",
+      "title": "Succubus and Hitman Vol. 12",
+      "series": "Succubus and Hitman Vol. 12",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-939-5",
+      "url": "https://sevenseasentertainment.com/books/succubus-and-hitman-vol-12/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-30",
       "title": "Survival in Another World with My Mistress! (Manga) Vol. 10",
       "series": "Survival in Another World with My Mistress! (Manga) Vol. 10",
       "publisher": "Seven Seas",
@@ -10937,6 +10911,18 @@
     },
     {
       "date": "2027-04-06",
+      "title": "Headhunted to Another World: From Salaryman to Big Four! Vol. 12",
+      "series": "Headhunted to Another World: From Salaryman to Big Four! Vol. 12",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-935-8",
+      "url": "https://sevenseasentertainment.com/books/headhunted-to-another-world-from-salaryman-to-big-four-vol-12/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-06",
       "title": "IDOL x IDOL STORY! Vol. 8",
       "series": "IDOL x IDOL STORY! Vol. 8",
       "publisher": "Seven Seas",
@@ -10981,6 +10967,30 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-617-2",
       "url": "https://sevenseasentertainment.com/books/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-vol-12/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-06",
+      "title": "Love is Money Vol. 2",
+      "series": "Love is Money Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-389-9",
+      "url": "https://sevenseasentertainment.com/books/love-is-money-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-06",
+      "title": "Magika Swordsman and Summoner Vol. 20",
+      "series": "Magika Swordsman and Summoner Vol. 20",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-202-1",
+      "url": "https://sevenseasentertainment.com/books/magika-swordsman-and-summoner-vol-20/",
       "sourceId": "seven-seas"
     },
     {
@@ -11417,6 +11427,18 @@
     },
     {
       "date": "2027-04-20",
+      "title": "Raul and His Vampire Prince Vol. 3",
+      "series": "Raul and His Vampire Prince Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-010-6",
+      "url": "https://sevenseasentertainment.com/books/raul-and-his-vampire-prince-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-20",
       "title": "Silent Reading: Mo Du (Novel) Vol. 6",
       "series": "Silent Reading: Mo Du (Novel) Vol. 6",
       "publisher": "Seven Seas",
@@ -11501,6 +11523,18 @@
     },
     {
       "date": "2027-04-27",
+      "title": "Breakfast with My Two-Tailed Cat Vol. 5",
+      "series": "Breakfast with My Two-Tailed Cat Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-905-1",
+      "url": "https://sevenseasentertainment.com/books/breakfast-with-my-two-tailed-cat-vol-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-27",
       "title": "Diary of a Female Lead: Shujinkou Nikki Vol. 9",
       "series": "Diary of a Female Lead: Shujinkou Nikki Vol. 9",
       "publisher": "Seven Seas",
@@ -11509,6 +11543,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-599-1",
       "url": "https://sevenseasentertainment.com/books/diary-of-a-female-lead-shujinkou-nikki-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-27",
+      "title": "Ero Ninja Scrolls Vol. 11",
+      "series": "Ero Ninja Scrolls Vol. 11",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-921-1",
+      "url": "https://sevenseasentertainment.com/books/ero-ninja-scrolls-vol-11/",
       "sourceId": "seven-seas"
     },
     {
@@ -11561,6 +11607,54 @@
     },
     {
       "date": "2027-04-27",
+      "title": "My Girlfriend is 8 Meters Tall Vol. 6",
+      "series": "My Girlfriend is 8 Meters Tall Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-629-5",
+      "url": "https://sevenseasentertainment.com/books/my-girlfriend-is-8-meters-tall-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-27",
+      "title": "My Next Life as a Villainess: All Routes Lead to Doom! (Manga) Vol. 13",
+      "series": "My Next Life as a Villainess: All Routes Lead to Doom! (Manga) Vol. 13",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-991-4",
+      "url": "https://sevenseasentertainment.com/books/my-next-life-as-a-villainess-all-routes-lead-to-doom-manga-vol-13/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-27",
+      "title": "Painter of the Night Vol. 6",
+      "series": "Painter of the Night Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-579-3",
+      "url": "https://sevenseasentertainment.com/books/painter-of-the-night-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-27",
+      "title": "The Ancient Magus’ Bride Vol. 24",
+      "series": "The Ancient Magus’ Bride Vol. 24",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-093-5",
+      "url": "https://sevenseasentertainment.com/books/the-ancient-magus-bride-vol-24/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-27",
       "title": "The Suspects of Necromancy (Light Novel)",
       "series": "The Suspects of Necromancy (Light Novel)",
       "publisher": "Seven Seas",
@@ -11585,6 +11679,18 @@
     },
     {
       "date": "2027-04-27",
+      "title": "They Are Still Being Shaken This Morning Vol. 4",
+      "series": "They Are Still Being Shaken This Morning Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-070-0",
+      "url": "https://sevenseasentertainment.com/books/they-are-still-being-shaken-this-morning-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-04-27",
       "title": "Toradora! (Manga) Vol. 12",
       "series": "Toradora! (Manga) Vol. 12",
       "publisher": "Seven Seas",
@@ -11593,6 +11699,138 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89160-671-5",
       "url": "https://sevenseasentertainment.com/books/toradora-manga-vol-12/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Draw This, Then Die! Vol. 4",
+      "series": "Draw This, Then Die! Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-906-7",
+      "url": "https://sevenseasentertainment.com/books/draw-this-then-die-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Gilded Seven Vol. 3",
+      "series": "Gilded Seven Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-929-7",
+      "url": "https://sevenseasentertainment.com/books/gilded-seven-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Harem Camp! Vol. 3",
+      "series": "Harem Camp! Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-300-4",
+      "url": "https://sevenseasentertainment.com/books/harem-camp-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Hotel Inhumans Vol. 4",
+      "series": "Hotel Inhumans Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-917-3",
+      "url": "https://sevenseasentertainment.com/books/hotel-inhumans-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Inside the Tentacle Cave (Manga) Vol. 9",
+      "series": "Inside the Tentacle Cave (Manga) Vol. 9",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-959-4",
+      "url": "https://sevenseasentertainment.com/books/inside-the-tentacle-cave-manga-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Kaya-chan Isn’t Scary Vol. 8",
+      "series": "Kaya-chan Isn’t Scary Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-962-4",
+      "url": "https://sevenseasentertainment.com/books/kaya-chan-isnt-scary-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Love is an Illusion! – Superstar (Manhwa) Vol. 1",
+      "series": "Love is an Illusion! – Superstar (Manhwa) Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-849-2",
+      "url": "https://sevenseasentertainment.com/books/love-is-an-illusion-superstar-manhwa-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Low Tide in Twilight Vol. 3",
+      "series": "Low Tide in Twilight Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-200-7",
+      "url": "https://sevenseasentertainment.com/books/low-tide-in-twilight-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Made in Abyss Vol. 15",
+      "series": "Made in Abyss Vol. 15",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-974-7",
+      "url": "https://sevenseasentertainment.com/books/made-in-abyss-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Skeleton Knight in Another World (Manga) Vol. 15",
+      "series": "Skeleton Knight in Another World (Manga) Vol. 15",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-025-0",
+      "url": "https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-manga-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "The Case Files of Jeweler Richard (Manga) Vol. 7",
+      "series": "The Case Files of Jeweler Richard (Manga) Vol. 7",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-719-9",
+      "url": "https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-manga-vol-7/",
       "sourceId": "seven-seas"
     }
   ]
