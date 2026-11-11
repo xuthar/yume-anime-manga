@@ -112,7 +112,18 @@ async function portraitFor(person){
    seen.add(key);entries.push({name:failure.name,category:cat});
   }
  }
- const target=entries.slice(0,MAX);let matched=0;
+ // Fair rotation avoids exhausting the whole batch on music/fashion alone.
+ const byCategory=new Map(CATEGORIES.map(c=>[c,entries.filter(x=>x.category===c)]));
+ const target=[];
+ while(target.length<MAX){
+  let advanced=false;
+  for(const c of CATEGORIES){
+   const item=byCategory.get(c)?.shift();
+   if(item){target.push(item);advanced=true;if(target.length>=MAX)break}
+  }
+  if(!advanced)break;
+ }
+ let matched=0;
  console.log('Recovering',target.length,'of',entries.length,'unpictured artist candidates.');
  for(let i=0;i<target.length;i++){
   const p=target[i];const data=await portraitFor(p);
