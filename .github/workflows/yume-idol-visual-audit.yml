@@ -1,0 +1,54 @@
+name: Yume Idols visual photo audit
+on:
+  workflow_dispatch:
+    inputs:
+      categories:
+        description: "Comma-separated Yume categories"
+        required: false
+        default: "gravure,jav,music,creators,cosplay,fashion,vtuber,adult,onlyfans"
+      max_cards:
+        description: "Maximum cards per category in this batch (up to 5000)"
+        required: false
+        default: "96"
+      offset:
+        description: "Start after this many entries in each category"
+        required: false
+        default: "0"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/yume-idol-gallery-audit.cjs"
+      - ".github/workflows/yume-idol-visual-audit.yml"
+permissions:
+  contents: read
+concurrency:
+  group: yume-visual-photo-audit
+  cancel-in-progress: true
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install isolated browser
+        run: |
+          npm install --no-save --package-lock=false playwright
+          npx playwright install --with-deps chromium
+      - name: Inspect image rendering and capture review screenshots
+        env:
+          AUDIT_CATEGORIES: ${{ github.event.inputs.categories || 'gravure,jav,music,creators,cosplay,fashion,vtuber,adult,onlyfans' }}
+          AUDIT_MAX_CARDS: ${{ github.event.inputs.max_cards || '96' }}
+          AUDIT_OFFSET: ${{ github.event.inputs.offset || '0' }}
+          AUDIT_SCREENSHOTS: "16"
+        run: node scripts/yume-idol-gallery-audit.cjs
+      - name: Save screenshot and error report for human review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: yume-idols-photo-audit-${{ github.run_number }}
+          path: artifacts/yume-idol-photo-audit/
+          if-no-files-found: warn
+          retention-days: 14
