@@ -1,0 +1,50 @@
+name: Restore Yume Hololive portrait references
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/yume-hololive-official-portraits.cjs"
+      - "data/yume-hololive-photo-targets.json"
+      - ".github/workflows/yume-hololive-portraits.yml"
+permissions:
+  contents: write
+concurrency:
+  group: yume-hololive-portrait-restore
+  cancel-in-progress: true
+jobs:
+  portraits:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Prepare Chromium
+        run: |
+          npm install --no-save --package-lock=false playwright
+          npx playwright install --with-deps chromium
+      - name: Check official talent profile and locate artwork
+        run: node scripts/yume-hololive-official-portraits.cjs
+      - name: Save discovered official image URLs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: yume-hololive-official-portraits
+          path: |
+            data/yume-hololive-official-portraits.json
+            data/yume-hololive-portrait-audit.json
+          retention-days: 14
+          if-no-files-found: warn
+      - name: Commit validated URL index
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/yume-hololive-official-portraits.json data/yume-hololive-portrait-audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update sourced official hololive talent artwork links"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
