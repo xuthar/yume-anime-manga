@@ -14,13 +14,6 @@ on:
         description: "Start after this many entries in each category"
         required: false
         default: "0"
-  push:
-    branches: [main]
-    paths:
-      - "scripts/yume-idol-gallery-audit.cjs"
-      - "scripts/yume-recover-missing-portraits.cjs"
-      - "yume-recovered-portraits.js"
-      - ".github/workflows/yume-idol-visual-audit.yml"
 permissions:
   contents: write
 concurrency:
