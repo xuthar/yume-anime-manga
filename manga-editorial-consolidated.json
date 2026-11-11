@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07",
+  "checkedAt": "2026-11-11",
   "description": "Audit IT/EN consolidati dal 24 al 31 ottobre. Le notizie editoriali non modificano gli acquisti, i volumi posseduti, le date e i prezzi storici.",
   "sourceFiles": [
     "manga-editorial-sync-2026-10-24.json",
@@ -491,7 +491,7 @@
         }
       ],
       "language": "IT",
-      "editorialNote": "AnimeClick novembre 2026: nuova edizione J-POP regolare n.1 programmata 25/11 (€6,50); nn.2–3 regolari €6,50 ciascuno e Variant Edition Cut Price nn.2 (€3,90) e 3 (€4,90), senza giorno indicato. Distinte dalle 4 copie Goen regolare/variant già possedute; nessuna J-POP attribuita.",
+      "editorialNote": "AnimeClick novembre 2026: nuova edizione J-POP regolare n.1 programmata 25/11 (€6,50); nn.2–3 regolari €6,50 ciascuno e Variant Edition Cut Price nn.2 (€3,90) e 3 (€4,90), senza giorno indicato. Distinte dalle 4 copie Goen regolare/variant già possedute; nessuna J-POP attribuita.\nVerifica editoriale 11/11/2026 (NON acquisto): AnimeClick novembre indica Grand Blue Variant Edition Cut Price n.2 J-POP per 11/11/2026 a €3,90. Distinta dalle copie Goen già possedute (regolari nn.1–3 e variant n.1); nessuna copia J-POP aggiunta. Prezzi storici invariati. Fonte: https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
       "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
       "owned": 4,
       "numbers": "1, 2, 3",
