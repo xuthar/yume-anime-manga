@@ -13,7 +13,7 @@ const CATEGORIES = (process.env.AUDIT_CATEGORIES || 'gravure,jav,music,creators,
 const MAX = Math.max(1, Math.min(5000, Number(process.env.AUDIT_MAX_CARDS || 96)));
 const OFFSET = Math.max(0, Number(process.env.AUDIT_OFFSET || 0));
 const SHOT_LIMIT = Math.max(0, Math.min(80, Number(process.env.AUDIT_SCREENSHOTS || 24)));
-const OUT = path.join(process.cwd(), 'artifacts', 'yume-idol-photo-audit');
+const OUT = path.resolve(process.cwd(), process.env.AUDIT_OUTPUT || 'artifacts/yume-idol-photo-audit');
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 async function startServer() {
  const p = spawn('python3', ['-m', 'http.server', String(PORT), '--bind', '127.0.0.1'], {stdio:'ignore'});
