@@ -6,8 +6,8 @@
 (()=>{'use strict';
 const data=window.YumeIdolsDiscovery;if(!data)return;
 const norm=s=>String(s||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f\s・･._\-’'()]/g,'');
-const cache=new Map(),attempted=new Set(),pending=[],active=new Set();
-const key=n=>'yume:gravure:commons:v1:'+norm(n);
+const cache=new Map(),attempted=new Set(),pending=[],active=new Set(),badFiles=new Set();
+const key=n=>'yume:gravure:commons:v2:'+norm(n);
 function get(name){
  const k=norm(name);if(cache.has(k))return cache.get(k);
  try{const raw=JSON.parse(localStorage.getItem(key(name))||'null');
@@ -29,7 +29,7 @@ const bad=/(nude|naked|explicit|uncensored|masturba|intercourse|genital|nipples|
 const group=/(poster|group|banner|logo| and | with |集合|まとめ)/i;
 const fileUrl=file=>'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replaceAll(' ','_'));
 async function imageInfo(file){
- if(bad.test(file)||group.test(file)||!/\.(?:jpe?g|png|webp)$/i.test(file))return null;
+ if(badFiles.has(file)||bad.test(file)||group.test(file)||!/\.(?:jpe?g|png|webp)$/i.test(file))return null;
  const r=await api('https://commons.wikimedia.org/w/api.php',{
   action:'query',titles:'File:'+file,prop:'imageinfo',iiprop:'url|size|extmetadata',
   iiurlwidth:'900',formatversion:'2'
@@ -40,7 +40,7 @@ function eligible(p,nameOverride){
  if(!p||p.missing)return null;
  const file=nameOverride||(p.title||'').replace(/^File:/,'');
  const i=p.imageinfo?.[0];
- if(!i||bad.test(file)||group.test(file)||!/\.jpe?g$|\.png$|\.webp$/i.test(file))return null;
+ if(!i||badFiles.has(file)||bad.test(file)||group.test(file)||!/\.jpe?g$|\.png$|\.webp$/i.test(file))return null;
  const license=(i.extmetadata?.LicenseShortName?.value||'').replace(/<[^>]+>/g,'').trim();
  if(!/^(CC BY(?:[- ]SA)?(?:[- ]\d+(?:\.\d+)?)?|CC0(?:\s\d+(?:\.\d+)?)?|Public domain|PD(?:[- ].*)?|FAL)$/i.test(license))return null;
  if((i.width||0)<300||(i.height||0)<350||(i.height||0)<(i.width||0)*1.05)return null;
@@ -129,5 +129,15 @@ function ensure(people){
  }
  run()
 }
-window.YumeGravurePortraits=Object.freeze({get,ensure,source:'Wikidata exact identity + Commons license',version:'2026-11-09'});
+function reportBroken(name,file){
+ const k=norm(name);
+ const prior=cache.get(k);
+ const badFile=file||prior?.file||null;
+ if(badFile)badFiles.add(badFile);
+ cache.delete(k);attempted.delete(k);
+ try{localStorage.removeItem(key(name))}catch{}
+ const person=(window.YumeIdolsDiscovery?.people||[]).find(p=>p.category==='gravure'&&norm(p.name)===k);
+ if(person)ensure([{...person,categories:new Set(['gravure'])}]);
+}
+window.YumeGravurePortraits=Object.freeze({get,ensure,reportBroken,source:'Wikidata exact identity + Commons license',version:'2026-11-11'});
 })();
