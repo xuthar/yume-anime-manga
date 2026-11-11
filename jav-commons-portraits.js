@@ -94,8 +94,8 @@ const FIXED=[
  ["Jessica Kizaki","Jessica Kizaki","CIMG3734kisaki.jpg"],
  ["Shiori Kamisaki","Shiori Kamisaki","Kamisaki Shiori, Japanese porn actress.jpg"],
  ["Ena Satsuki","Ena Satsuki","Enako presents Muse Photoshoot (June 21, 2025)IMG 8319.jpg"],
- ["Moka Haruhi","Moka Haruhi","Trend Girls Photo Session (May 3, 2025)IMG 5274.jpg"],
- ["Ririka Amau","Ririka Amau","Trend Girls Photo Session (May 4, 2025)IMG 2168.jpg"],
+ ["Moka Haruhi","Moka Haruhi",null],
+ ["Ririka Amau","Ririka Amau",null],
  ["Mikako Abe","Mikako Abe",null],
  ["Miku Abeno","Miku Abeno",null],
  ["Yūri Adachi","Yūri Adachi",null],
@@ -217,7 +217,7 @@ const clean=n=>String(n||'').normalize('NFKC').normalize('NFKD').toLocaleLowerCa
 const curated=new Map(FIXED.map(([name,category,file])=>[clean(name),{name,category,file}]));
 const lookup=new Map(),attempted=new Set(),queued=[],active=new Set(),badFiles=new Set();
 const consent=()=>{try{return sessionStorage.getItem('yume-idols-adult-18')==='yes'}catch{return false}};
-const cacheKey=name=>'yume:jav:commons:portrait:v1:'+clean(name);
+const cacheKey=name=>'yume:jav:commons:portrait:v2:'+clean(name);
 function commonsSource(file){return 'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replaceAll(' ','_'))}
 function toPhoto(name,file,category,license='Wikimedia Commons'){
  const value={name,file,photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replaceAll(' ','_'))+'?width=920',
