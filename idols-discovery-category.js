@@ -103,11 +103,12 @@ for(const p of dedup.values()){
 const people=[...dedup.values()];
 const photoRecord=p=>{
  const shared=window.YumePhotoStore?.get('japan',p.name);
- if(active==='gravure'&&p.categories.has('gravure'))return window.YumeGravurePortraits?.get(p.name)||shared;
+ const recovered=window.YumeRecoveredPortraits?.get(p.name,active);
+ if(active==='gravure'&&p.categories.has('gravure'))return window.YumeGravurePortraits?.get(p.name)||recovered||shared;
  if(active==='jav'&&p.categories.has('jav'))return window.YumeJAVPortraits?.get(p.name)||shared;
  if(active==='vtuber'&&p.categories.has('vtuber'))return window.YumeHololivePortraits?.get(p.name)||shared;
  if((active==='adult'||active==='onlyfans')&&p.categories.has(active))return window.YumeAdultPortraits?.get(p.name,active)||shared;
- return shared||window.YumeIdolCommonsPortraits?.get(p.name)||null;
+ return shared||recovered||window.YumeIdolCommonsPortraits?.get(p.name)||null;
 };
 const brokenImages=new Set();
 const photoChecks=new Map();
@@ -175,6 +176,7 @@ function imageCard(p){
   else if(active==='jav')window.YumeJAVPortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
   else if(active==='gravure')window.YumeGravurePortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
   else if(active==='vtuber')window.YumeHololivePortraits?.reportBroken?.(p.name);
+  else if(recovered?.verified)window.YumeRecoveredPortraits?.reportBroken?.(p.name);
   updateVisiblePhotoCount();
  };
  img.onload=()=>{
@@ -390,6 +392,7 @@ window.addEventListener('yume-gravure-social-update',()=>{if(active==='gravure')
 window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
 window.addEventListener('yume-jav-social-update',()=>{if(active==='jav'&&adultEnabled())render()});
 window.addEventListener('yume-vtuber-official-photo-update',()=>{if(active==='vtuber')render()});
+window.addEventListener('yume-recovered-portrait-update',()=>{if(['music','fashion','creators','cosplay','gravure'].includes(active))render()});
 window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled()){brokenImages.clear();render()}});
 
 })();
