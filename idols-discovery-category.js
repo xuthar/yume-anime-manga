@@ -109,6 +109,21 @@ const photoRecord=p=>{
  return shared||window.YumeIdolCommonsPortraits?.get(p.name)||null;
 };
 const brokenImages=new Set();
+const photoChecks=new Map();
+let photoCountTimer=null;
+function updateVisiblePhotoCount(){
+ if(photoCountTimer!==null)clearTimeout(photoCountTimer);
+ photoCountTimer=setTimeout(()=>{
+  photoCountTimer=null;
+  const cards=[...list.querySelectorAll('.discovery-card')];
+  const loaded=cards.filter(c=>c.querySelector('img[data-yume-photo-state="loaded"]')).length;
+  const failed=cards.filter(c=>c.querySelector('.discovery-portrait.is-unavailable')).length;
+  const pending=cards.length-loaded-failed;
+  const label=list.dataset.yumeTotalCount||'0';
+  summary.textContent=label+' nominativi distinti · '+cards.length+' schede visualizzate · '+loaded+' foto caricate · '+failed+' senza foto · '+pending+' in attesa/verifica'+(adultCats.has(active)?' · contenuti 18+ dopo consenso':'');
+ },120);
+}
+
 const countryLabels={JP:'🇯🇵 Giappone',KR:'🇰🇷 Corea del Sud',TH:'🇹🇭 Thailandia',PH:'🇵🇭 Filippine',VN:'🇻🇳 Vietnam',ID:'🇮🇩 Indonesia',MY:'🇲🇾 Malaysia',MM:'🇲🇲 Myanmar',SG:'🇸🇬 Singapore',TW:'🇹🇼 Taiwan',HK:'🇭🇰 Hong Kong',CN:'🇨🇳 Cina',IN:'🇮🇳 India'};
 const region=p=>p.adultCountry||([...p.categories].some(c=>adultCats.has(c))?'JP':null);
 const hasPhoto=p=>{
@@ -149,14 +164,23 @@ function imageCard(p){
  img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
  let i=0;
  const failed=()=>{
-  brokenImages.add(active+'|'+p.name);
+  const photoKey=active+'|'+p.name;
+  photoChecks.set(photoKey,{status:'failed',at:Date.now(),attempts:urls.length});
+  brokenImages.add(photoKey);
   wrap.classList.add('is-unavailable');
   wrap.replaceChildren(make('span','discovery-portrait-glyph','✦'),make('small',null,'Foto non caricata'));
   if(adultCats.has(active)&&adultEnabled()&&(p.instagramProfile||p.source))wrap.append(link(p.instagramProfile?'Vedi Instagram ↗':'Vedi fonte ↗',p.instagramProfile||p.source,'discovery-source-portrait'));
   if(['adult','onlyfans'].includes(active))window.YumeAdultPortraits?.reportBroken?.(p.name,active,verified?.file||p.photoFile);
   else if(active==='jav')window.YumeJAVPortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
+  updateVisiblePhotoCount();
  };
- img.onload=()=>{if(img.naturalWidth<180||img.naturalHeight<240){img.onerror()}};
+ img.onload=()=>{
+  if(img.naturalWidth<180||img.naturalHeight<240){img.onerror();return}
+  const k=active+'|'+p.name;brokenImages.delete(k);
+  photoChecks.set(k,{status:'loaded',width:img.naturalWidth,height:img.naturalHeight,url:img.currentSrc||img.src,at:Date.now()});
+  img.dataset.yumePhotoState='loaded';
+  updateVisiblePhotoCount();
+ };
  img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else failed()};
  img.src=urls[0];wrap.append(img);return wrap
 }
@@ -164,7 +188,7 @@ function item(p){
  const item=make('article','discovery-card'),visual=imageCard(p);if(visual)item.append(visual);
  const contents=make('div','discovery-card-body');
  const eyebrow=make('span','discovery-card-type',categoriesOf(p));contents.append(eyebrow);
- if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition||p.babepediaSixthListPosition||p.babepediaMegaPosition)&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · prima lista #'+p.babepediaGravureRank));
+ if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition||p.babepediaSixthListPosition||p.babepediaMegaPosition)&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type',p.babepediaGravureRank?'Babepedia · prima lista #'+p.babepediaGravureRank:'Babepedia · catalogo esteso'));
  if(p.babepediaSecondListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · seconda lista #'+p.babepediaSecondListPosition));
  if(p.babepediaThirdListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · terza lista #'+p.babepediaThirdListPosition));
  if(p.babepediaFourthListPosition&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type','Babepedia · quarta lista #'+p.babepediaFourthListPosition));
@@ -331,7 +355,8 @@ function render(){
  if(active==='jav'&&adultEnabled())window.YumeJAVSocials?.ensure(display);
  if(['adult','onlyfans'].includes(active)&&adultEnabled())window.YumeAdultPortraits?.ensure(display,active);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
- summary.textContent=shown.length+' nominativi distinti disponibili · '+display.length+' mostrati · '+shown.filter(hasPhoto).length+' con foto associata · '+data.stats.sources+' fonti'+(adultCats.has(active)?' · ritratti Commons e ricerca fotografica dopo consenso 18+':'');
+ list.dataset.yumeTotalCount=String(shown.length);
+ updateVisiblePhotoCount();
  more.hidden=shown.length<=limit;more.textContent='Mostra altri '+Math.min(48,shown.length-limit)+' nomi ↓';
  for(const button of document.querySelectorAll('[data-discovery-category]'))button.setAttribute('aria-pressed',String(button.dataset.discoveryCategory===active));
 }
