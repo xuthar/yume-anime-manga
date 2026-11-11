@@ -18,9 +18,11 @@ on:
     branches: [main]
     paths:
       - "scripts/yume-idol-gallery-audit.cjs"
+      - "scripts/yume-recover-missing-portraits.cjs"
+      - "yume-recovered-portraits.js"
       - ".github/workflows/yume-idol-visual-audit.yml"
 permissions:
-  contents: read
+  contents: write
 concurrency:
   group: yume-visual-photo-audit
   cancel-in-progress: true
@@ -44,6 +46,20 @@ jobs:
           AUDIT_OFFSET: ${{ github.event.inputs.offset || '0' }}
           AUDIT_SCREENSHOTS: "16"
         run: node scripts/yume-idol-gallery-audit.cjs
+      - name: Recover source-verified Commons portraits for missing cards
+        env:
+          RECOVER_LIMIT: "220"
+        run: node scripts/yume-recover-missing-portraits.cjs
+      - name: Publish new image references to Yume
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/yume-recovered-portraits.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Add verified Commons portraits to Yume image index"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
       - name: Save screenshot and error report for human review
         if: always()
         uses: actions/upload-artifact@v4
