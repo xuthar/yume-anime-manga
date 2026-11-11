@@ -44,8 +44,8 @@ async function portraitFor(person){
   for(const item of j?.search||[])if(/^Q\d+$/.test(item.id||''))found.add(item.id);
  }
  if(!found.size)return null;
- const raw=await request('www.wikidata.org',{action:'wbgetentities',ids:[...found].slice(0,8).join('|'),props:'labels|aliases|claims',languages:'en|ja'});
- const matches=Object.values(raw?.entities||{}).filter(e=>female(e)&&exactEntity(e,name)&&claim(e,'P18').length);
+ const raw=await request('www.wikidata.org',{action:'wbgetentities',ids:[...found].slice(0,8).join('|'),props:'labels|aliases|claims|sitelinks',languages:'en|ja'});
+ const matches=Object.values(raw?.entities||{}).filter(e=>female(e)&&exactEntity(e,name));
  if(matches.length!==1)return null;
  const e=matches[0];
  for(const file of claim(e,'P18').filter(f=>typeof f==='string').slice(0,2)){
@@ -58,6 +58,44 @@ async function portraitFor(person){
   const photo=info.thumburl||info.url;const link='https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replaceAll(' ','_'));
   if(!photo?.startsWith('https://'))continue;
   return {name,category:person.category,qid:e.id,file,photo,source:link,license,author,verified:true,verification:'Wikidata exact unique female identity + Commons license and imageinfo',checked:new Date().toISOString()};
+ }
+ // If Wikidata has no valid P18 portrait, try only a Commons category
+ // explicitly linked to that *same* unique entity (not a fuzzy image search).
+ const linked=e.sitelinks?.commonswiki?.title;
+ const category=(typeof linked==='string'&&linked.startsWith('Category:')?linked.slice(9):null)
+  ||claim(e,'P373').find(x=>typeof x==='string');
+ if(category&&category.length<110){
+  const result=await request('commons.wikimedia.org',{
+   action:'query',generator:'categorymembers',gcmtitle:'Category:'+category,
+   gcmtype:'file',gcmlimit:'40',prop:'imageinfo',iiprop:'url|size|extmetadata',
+   iiurlwidth:'640',formatversion:'2'
+  });
+  const pages=(result?.query?.pages||[]).filter(pg=>{
+   const filename=(pg.title||'').replace(/^File:/,'');
+   const info=pg.imageinfo?.[0];
+   if(!info||unsafe.test(filename)||!/\.(jpe?g|png|webp)$/i.test(filename))return false;
+   if(info.width<260||info.height<300)return false;
+   const license=(info.extmetadata?.LicenseShortName?.value||'').replace(/<[^>]*>/g,'').trim();
+   return licenseOK(license);
+  });
+  const eligible=pages.map(pg=>{
+   const info=pg.imageinfo[0],filename=pg.title.replace(/^File:/,'');
+   const isPortrait=info.height>info.width*0.92;
+   const includesName=norm(filename).includes(norm(name))||norm(filename).includes(norm(category));
+   return {pg,info,filename,score:(isPortrait?2:0)+(includesName?2:0)+(/portrait|headshot|cropped/i.test(filename)?2:0)};
+  }).filter(x=>x.score>=2).sort((a,b)=>b.score-a.score);
+  const chosen=eligible[0];
+  if(chosen){
+   const {filename,info}=chosen;
+   const license=(info.extmetadata?.LicenseShortName?.value||'').replace(/<[^>]*>/g,'').trim();
+   const author=(info.extmetadata?.Artist?.value||'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim().slice(0,140);
+   const photo=info.thumburl||info.url;
+   if(photo?.startsWith('https://'))return {name,category:person.category,qid:e.id,file:filename,photo,
+    source:'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(filename.replaceAll(' ','_')),
+    license,author,verified:true,commonsCategory:category,
+    verification:'Unique Wikidata identity + same-entity Commons category + reusable license',
+    checked:new Date().toISOString()};
+  }
  }
  return null;
 }
