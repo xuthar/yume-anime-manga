@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-11",
+  "scope": [
+    "idol-category.html",
+    "idols-discovery-category.js",
+    "gravure-commons-portrait-resolver-2026.js",
+    "jav-commons-portraits.js"
+  ],
+  "checks": {
+    "runtimeImageLoadCounters": "implemented: browser counts loaded, failed, pending for currently rendered cards",
+    "brokenPhotoRetry": "implemented: Gravure rejects previously failed Commons filenames and reattempts alternative",
+    "brokenCache": "Gravure portrait cache version incremented from v1 to v2",
+    "falsePhotoCount": "replaced source-associated estimates with actual image onload counts for displayed cards",
+    "gravureRankingUndefined": "removed undefined 'prima lista' display for artists sourced from another list",
+    "javascriptSyntax": "idols-discovery-category.js and gravure-commons-portrait-resolver-2026.js compiled without syntax errors"
+  },
+  "limitations": {
+    "visuallyInspectedEveryPhoto": false,
+    "liveRemoteGalleryScreenshots": false,
+    "allImageUrlsFetched": false,
+    "identityOfEveryPortraitVerified": false,
+    "why": "Full browser navigation/screenshot capture of the GitHub Pages gallery is not available in this chat; image counts are verified by the visitor's browser as cards load. The existing long-tail catalog includes thousands of profiles and requires ongoing checks."
+  },
+  "howToReview": "Open idol-category.html?section=gravure or ?section=jav, scroll to load cards, read 'foto caricate / senza foto / in attesa'. For JAV confirm 18+. When a photo fails, next Commons candidate is requested if possible.",
+  "source": "Yume repository GitHub code review, not a completed person-by-person visual audit"
+}
