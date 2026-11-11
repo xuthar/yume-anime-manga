@@ -1,12 +1,6 @@
 name: Restore Yume Hololive portrait references
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "scripts/yume-hololive-official-portraits.cjs"
-      - "data/yume-hololive-photo-targets.json"
-      - ".github/workflows/yume-hololive-portraits.yml"
 permissions:
   contents: write
 concurrency:
