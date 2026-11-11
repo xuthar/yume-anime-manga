@@ -270,6 +270,17 @@ function item(p){
  else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
  for(const [social,url] of p.verifiedSocials||[])if(!(officialSocial[p.name]||[]).some(x=>x[1]===url))actions.append(link(social+' · verificato ↗',url));
+ if(active==='jav'&&adultEnabled()){
+  const wikidataJav=window.YumeJAVSocials?.get(p.name);
+  if(wikidataJav?.socials?.length){
+   const existing=[...(p.verifiedSocials||[]),...(officialSocial[p.name]||[])];
+   for(const [platform,url] of wikidataJav.socials){
+    if(existing.some(([kind,knownUrl])=>kind===platform||knownUrl===url))continue;
+    actions.append(link(platform+' · Wikidata ↗',url));
+   }
+   actions.append(link('Social · fonte Wikidata ↗',wikidataJav.source));
+  }
+ }
  const wikidataSocial=window.YumeGravureSocials?.get(p.name);
  if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition||p.babepediaSixthListPosition||p.babepediaMegaPosition)&&wikidataSocial?.socials){
   for(const [platform,url] of wikidataSocial.socials){
@@ -317,6 +328,7 @@ function render(){
  if(active==='gravure')window.YumeGravurePortraits?.ensure(display);
  if(active==='gravure')window.YumeGravureSocials?.ensure(display);
  if(active==='jav'&&adultEnabled())window.YumeJAVPortraits?.ensure(display);
+ if(active==='jav'&&adultEnabled())window.YumeJAVSocials?.ensure(display);
  if(['adult','onlyfans'].includes(active)&&adultEnabled())window.YumeAdultPortraits?.ensure(display,active);
  if(!display.length)list.append(make('p','discovery-empty','Nessun nome corrispondente. Prova un’altra ricerca o un’altra categoria.'));
  summary.textContent=shown.length+' nominativi distinti disponibili · '+display.length+' mostrati · '+shown.filter(hasPhoto).length+' con foto associata · '+data.stats.sources+' fonti'+(adultCats.has(active)?' · ritratti Commons e ricerca fotografica dopo consenso 18+':'');
@@ -348,6 +360,7 @@ window.addEventListener('yume-idol-photo-update',()=>{if(!adultCats.has(active))
 window.addEventListener('yume-gravure-photo-update',()=>{if(active==='gravure')render()});
 window.addEventListener('yume-gravure-social-update',()=>{if(active==='gravure')render()});
 window.addEventListener('yume-jav-photo-update',()=>{if(active==='jav'&&adultEnabled())render()});
+window.addEventListener('yume-jav-social-update',()=>{if(active==='jav'&&adultEnabled())render()});
 window.addEventListener('yume-adult-portraits-updated',()=>{if(['adult','onlyfans'].includes(active)&&adultEnabled()){brokenImages.clear();render()}});
 
 })();
