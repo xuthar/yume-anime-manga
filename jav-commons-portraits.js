@@ -90,7 +90,7 @@ const FIXED=[
  ['Yui Hatano','Yui Hatano',null],
  ['MINAMO','Minamo (porn actress)',null]
  ["Noa Araki","Noa Araki","Tregal Academy Cultural Festival 2026IMG 5485.jpg"],
- ["Moe Amatsuka","Moe Amatsuka","Amatsuka Moe, Japanese porn actress 1.jpg"],
+ ["Moe Amatsuka","Moe Amatsuka","Amatsuka Moe, Japanese porn actress 2.jpg"],
  ["Jessica Kizaki","Jessica Kizaki","CIMG3734kisaki.jpg"],
  ["Shiori Kamisaki","Shiori Kamisaki","Kamisaki Shiori, Japanese porn actress.jpg"],
  ["Ena Satsuki","Ena Satsuki","Enako presents Muse Photoshoot (June 21, 2025)IMG 8319.jpg"],
