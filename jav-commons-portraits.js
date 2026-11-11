@@ -275,7 +275,7 @@ async function categoryPhoto(name,category){
  if(!category)return null;
  const j=await api('https://commons.wikimedia.org/w/api.php',{
   action:'query',generator:'categorymembers',gcmtitle:'Category:'+category,
-  gcmtype:'file',gcmlimit:'45',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'920',formatversion:'2'});
+  gcmtype:'file',gcmlimit:'100',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'920',formatversion:'2'});
  const ranked=(j.query?.pages||[]).map(suitable).filter(Boolean)
   .filter(x=>!badFiles.has(clean(name)+'|'+x.file)).sort((a,b)=>b.score-a.score);
  if(!ranked.length)return null;
