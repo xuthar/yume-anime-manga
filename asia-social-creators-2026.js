@@ -51,7 +51,8 @@
    people[pos]={...original,verifiedLinks:merged,sourceIds:[...new Set([...(original.sourceIds||[]),sourceId])],groups:[...new Set([...(original.groups||[]),'Social & Creators · '+country.toUpperCase()])]};
    enhanced.push(name);continue;
   }
-  const person={id:'social-creator-'+country+'-'+norm(name),country,nationality:country,name,alternate:'',category:'creators',groups:['Social & Creators · '+country.toUpperCase()],sourceIds:[sourceId],sourceYear:'2026',editorialBio:focus+'; profilo pubblico di creator. Età non verificata.',verifiedLinks:links,birth:null,photoFile:null,photoSource:null,status:'catalog',sourceKind:'roster pubblico / profilo ufficiale',digitalScene:'social creator',socialScene:true,ageVerified:false};
+  const nationality=name==='Angelgrace America'?'ph':null;
+  const person={id:'social-creator-'+country+'-'+norm(name),country,nationality,name,alternate:'',category:'creators',groups:['Social & Creators · '+country.toUpperCase()],sourceIds:[sourceId],sourceYear:'2026',editorialBio:focus+'; profilo pubblico di creator. Età non verificata.',verifiedLinks:links,birth:null,photoFile:null,photoSource:null,status:'catalog',sourceKind:'roster pubblico / profilo ufficiale',digitalScene:'social creator',socialScene:true,ageVerified:false};
   people.push(person);added.push(name);index.set(key,people.length-1);
  }
  const countryCounts={...base.countryCounts};
