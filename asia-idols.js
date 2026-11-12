@@ -43,17 +43,17 @@ function saved(p){
  try{
  const raw=localStorage.getItem('yume-asia-idol-v3:'+p.id);if(!raw)return;
  const v=JSON.parse(raw);if(Date.now()-v.checked>86400000*14)return;
- p.entityId=v.entityId||null;p.photoUrls=Array.isArray(v.photos)?v.photos.slice(0,6).filter(x=>typeof x==='string'&&x.startsWith('https://')):[];
- p.photo=p.photoUrls[0]||null;p.photoValid=v.photoValid===true&&!!p.photo;p.broken=v.broken===true;
+ p.entityId=v.entityId||null;const cachedPhotos=Array.isArray(v.photos)?v.photos.slice(0,6).filter(x=>typeof x==='string'&&x.startsWith('https://')):[];
+ if(cachedPhotos.length)p.photoUrls=cachedPhotos;p.photo=p.photoUrls[0]||null;p.photoValid=v.photoValid===true&&!!p.photo;p.broken=v.broken===true&&cachedPhotos.length>0;
  p.birth=p.birth||v.birth||null;p.verifiedLinks=Array.isArray(v.links)&&v.links.length?v.links:(p.verifiedLinks||[]);
- p.photoFile=v.photoFile||null;p.photoSource=v.photoSource||null;p.photoAttribution=v.photoAttribution||null;
+ p.photoFile=v.photoFile||p.photoFile||null;p.photoSource=v.photoSource||p.photoSource||null;p.photoAttribution=v.photoAttribution||p.photoAttribution||null;
   p.status=v.entityId?'verified':v.status==='catalog-photo'?'catalog-photo':v.status==='none'?'none':'idle';
  }catch{}
 }
 function store(p){
  try{localStorage.setItem('yume-asia-idol-v3:'+p.id,JSON.stringify({checked:Date.now(),entityId:p.entityId||null,photos:p.photoUrls||[],photoValid:!!p.photoValid,broken:!!p.broken,photoFile:p.photoFile||null,photoSource:p.photoSource||null,photoAttribution:p.photoAttribution||null,birth:p.birth,links:p.verifiedLinks,status:p.status}))}catch{}
 }
-for(const p of persons){p.photoUrls=[];p.photo=null;p.photoValid=false;p.broken=false;p.entityId=null;p.status='idle';p.verifiedLinks=p.verifiedLinks||[];saved(p)}
+for(const p of persons){p.photoUrls=Array.isArray(p.photoUrls)?p.photoUrls.slice():[];p.photo=p.photoUrls[0]||null;p.photoValid=false;p.broken=false;p.entityId=null;p.status='idle';p.verifiedLinks=p.verifiedLinks||[];saved(p)}
 
  // Prefer already indexed, accurately identified Wikimedia Commons portraits.
  // Cache is public; onload must still succeed before a picture counts as visible.
