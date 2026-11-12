@@ -73,11 +73,12 @@ for(const [country,name,category,occupation,file,profile,group,birth,birthSource
  const sourceId='asia-commons-'+country;
  if(!sources[sourceId])sources[sourceId]={id:sourceId,country,title:'Wikimedia Commons · artiste e ritratti per paese',url:'https://commons.wikimedia.org/wiki/Category:Women_by_name_by_country',year:'2026'};
  const fileUrl='https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replace(/ /g,'_'));
+ const photoUrl='https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file.replace(/ /g,'_'))+'?width=500';
  const row={
   id:country+'-portrait-'+(added.length+1),
   name,alternate:'',country,nationality:country,category,groups:[group],sourceIds:[sourceId],
   birth:birth||null,verifiedBirthSource:birthSource||null,
-  photoFile:file,verifiedLinks:[['Foto e licenza',fileUrl],['Fonte biografica',profile]],
+  photoFile:file,photoUrls:[photoUrl],photo:photoUrl,photoValid:false,broken:false,verifiedLinks:[['Foto e licenza',fileUrl],['Fonte biografica',profile]],
   status:'catalog',sourceYear:'2026',editorialBio:occupation,
   photoVerifiedFrom:profile,photoSource:fileUrl
  };
