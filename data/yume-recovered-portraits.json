@@ -1,8 +1,106 @@
 {
-  "updated": "2026-11-11",
-  "source": "Wikidata exact subject + Wikimedia Commons licensed photograph",
-  "profiles": {},
+  "updated": "2026-11-12T12:27:01.448Z",
+  "source": "Exact Wikidata person + Wikimedia Commons licensed image",
+  "nonExplicit": true,
+  "profiles": {
+    "kazusaokuyama": {
+      "name": "Kazusa Okuyama",
+      "category": "fashion",
+      "qid": "Q47466348",
+      "file": "奥山かずさ.jpg",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%E5%A5%A5%E5%B1%B1%E3%81%8B%E3%81%9A%E3%81%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%A5%A5%E5%B1%B1%E3%81%8B%E3%81%9A%E3%81%95.jpg",
+      "license": "CC BY 3.0",
+      "author": "バンダイ公式チャンネル",
+      "verified": true,
+      "verification": "Wikidata exact unique female identity + Commons license and imageinfo",
+      "checked": "2026-11-12T12:20:03.071Z"
+    },
+    "mayasano": {
+      "name": "Maya Sano",
+      "category": "fashion",
+      "qid": "Q11385082",
+      "file": "Maya Sano (cropped).jpg",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Maya_Sano_%28cropped%29.jpg/960px-Maya_Sano_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Maya_Sano_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "TAKA@P.P.R.S",
+      "verified": true,
+      "verification": "Wikidata exact unique female identity + Commons license and imageinfo",
+      "checked": "2026-11-12T12:21:02.331Z"
+    },
+    "manatsu": {
+      "name": "Manatsu",
+      "category": "cosplay",
+      "qid": "Q119923098",
+      "file": "AKIBAYABAI 2022 Manatsu (52497395825).jpg",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/AKIBAYABAI_2022_Manatsu_%2852497395825%29.jpg/960px-AKIBAYABAI_2022_Manatsu_%2852497395825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:AKIBAYABAI_2022_Manatsu_(52497395825).jpg",
+      "license": "CC BY 2.0",
+      "author": "Dick Thomas Johnson from Tokyo, Japan",
+      "verified": true,
+      "verification": "Wikidata exact unique female identity + Commons license and imageinfo",
+      "checked": "2026-11-12T12:22:00.743Z"
+    },
+    "nanatanimura": {
+      "name": "Nana Tanimura",
+      "category": "fashion",
+      "qid": "Q455961",
+      "file": "Tanimura Nana (cropped).jpg",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Tanimura_Nana_%28cropped%29.jpg/960px-Tanimura_Nana_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Tanimura_Nana_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "author": "Dick Thomas Johnson from Tokyo, Japan",
+      "verified": true,
+      "verification": "Wikidata exact unique female identity + Commons license and imageinfo",
+      "checked": "2026-11-12T12:22:02.463Z"
+    },
+    "minamishinohara": {
+      "name": "Minami Shinohara",
+      "category": "cosplay",
+      "qid": "Q126005732",
+      "file": "AKIBAYABAI 2022 Shinohara Minami (52497201564).jpg",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/AKIBAYABAI_2022_Shinohara_Minami_%2852497201564%29.jpg/960px-AKIBAYABAI_2022_Shinohara_Minami_%2852497201564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:AKIBAYABAI_2022_Shinohara_Minami_(52497201564).jpg",
+      "license": "CC BY 2.0",
+      "author": "Dick Thomas Johnson from Tokyo, Japan",
+      "verified": true,
+      "verification": "Wikidata exact unique female identity + Commons license and imageinfo",
+      "checked": "2026-11-12T12:23:00.813Z"
+    },
+    "yasuyosaito": {
+      "name": "Yasuyo Saitō",
+      "category": "fashion",
+      "qid": "Q109287897",
+      "file": "Fresh Fes 2024 shooting Yasuyo Saito02.jpg",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fresh_Fes_2024_shooting_Yasuyo_Saito02.jpg/960px-Fresh_Fes_2024_shooting_Yasuyo_Saito02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Fresh_Fes_2024_shooting_Yasuyo_Saito02.jpg",
+      "license": "CC BY 4.0",
+      "author": "Bject",
+      "verified": true,
+      "verification": "Wikidata exact unique female identity + Commons license and imageinfo",
+      "checked": "2026-11-12T12:25:01.088Z"
+    },
+    "sakimiyamoto": {
+      "name": "Saki Miyamoto",
+      "category": "cosplay",
+      "qid": "Q22125296",
+      "file": "Miyamoto Saki 06.png",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Miyamoto_Saki_06.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Miyamoto_Saki_06.png",
+      "license": "CC BY 3.0",
+      "author": "koo koo",
+      "verified": true,
+      "verification": "Wikidata exact unique female identity + Commons license and imageinfo",
+      "checked": "2026-11-12T12:26:01.342Z"
+    }
+  },
   "summary": {
-    "status": "harvest queued; no photos claimed before source verification"
+    "considered": 220,
+    "newLicensedPortraits": 7,
+    "storedPortraits": 7,
+    "failedRequests": 168,
+    "successfulRequests": 95,
+    "unverifiedNamesNotImported": 213
   }
 }
