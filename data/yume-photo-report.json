@@ -16,10 +16,26 @@
       "total": 602
     },
     "japan": {
-      "photos": 66,
+      "photos": 65,
       "total": 470
-    }
+    },
+    "totalPhotos": 324
   },
   "apiRequests": 65,
-  "failedRequests": 202
+  "failedRequests": 202,
+  "rightsAudit": {
+    "date": "2026-11-12",
+    "indexedPortraitRecords": 324,
+    "filesFoundOnCommons": 324,
+    "licenseAndAuthorMetadataPresent": 324,
+    "uniqueImageUrlsResponding": 313,
+    "identityReviewItems": 1
+  },
+  "lastRightsAudit": {
+    "date": "2026-11-12",
+    "photoRecords": 324,
+    "commonsFilesFound": 324,
+    "recordsWithLicenseAndAuthor": 324,
+    "uniqueImageUrlsResponding": 313
+  }
 }

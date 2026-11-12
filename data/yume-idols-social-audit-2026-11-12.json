@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-12",
+  "scope": "57 explicitly curated public social-profile URLs in the Idols discovery dataset, not every catalog name.",
+  "checks": {
+    "previousLinksChecked": 57,
+    "previousLinksReturned2xxOr3xx": 37,
+    "confirmed404": 1,
+    "headNotSupported": 1,
+    "timeOutOrNetworkInconclusive": 18,
+    "newOfficialLinksChecked": 2,
+    "newOfficialLinksHeadAndGetReturned200": 2,
+    "finalCurrentUrls": 57,
+    "finalRespondingUrls": 39,
+    "finalTimeoutOrInconclusive": 17,
+    "finalHeadNotSupported": 1,
+    "confirmedBrokenAfterCorrection": 0
+  },
+  "corrections": [
+    {
+      "profile": "Rio Teramoto",
+      "platform": "X",
+      "removed": "https://x.com/lespros_t_rio",
+      "status": 404,
+      "replacement": "https://x.com/teramoto_rio",
+      "evidence": "https://www.youtube.com/@teramocchannel/about"
+    },
+    {
+      "profile": "Rio Teramoto",
+      "platform": "Instagram",
+      "removed": "https://www.instagram.com/lespros_rio/",
+      "replacement": "https://www.instagram.com/rio_teramoto/",
+      "evidence": "https://www.youtube.com/@teramocchannel/about"
+    }
+  ],
+  "newAccountsAdded": 0,
+  "limitations": [
+    "Social platform HTTP status does not confirm ownership; account identity was retained only where the artist-controlled YouTube channel description identifies the account as official.",
+    "Instagram often timed out; 17 current links remain unconfirmed by direct HTTP response in this environment.",
+    "Twitch returned HTTP 405 to HEAD, which is not treated as a broken link.",
+    "This audit covers 57 curated social links, not every profile in the wider directory."
+  ]
+}

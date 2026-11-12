@@ -89,7 +89,7 @@ async function reviewCategory(browser, category, report) {
  const server=await startServer();
  let browser;
  try {
-  browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+  browser=await chromium.launch({headless:true,args:['--no-sandbox'],executablePath:process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE||undefined});
   const report={generated:new Date().toISOString(),status:'automated image-load and screenshot audit, not identity verification',offset:OFFSET,maxCardsPerCategory:MAX,categories:[]};
   for(const category of CATEGORIES)await reviewCategory(browser,category,report);
   await fs.writeFile(path.join(OUT,'report.json'),JSON.stringify(report,null,2));

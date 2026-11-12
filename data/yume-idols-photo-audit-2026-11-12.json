@@ -1,0 +1,46 @@
+{
+  "generated": "2026-11-12T05:51:49.709Z",
+  "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
+  "summary": {
+    "records": 324,
+    "recordsWithImage": 324,
+    "commonsFilesLive": 324,
+    "commonsFilesMissing": 0,
+    "recordsMissingLicenseMetadata": 0,
+    "recordsMissingAuthorMetadata": 0,
+    "nonReusableOrUnclassifiedLicenses": 0,
+    "wikidataRelationsChecked": 212,
+    "wikidataIdentityReviews": 1,
+    "directP18PhotoMatches": 179,
+    "imageUrlsChecked": 313,
+    "imageUrlsResponding": 313
+  },
+  "limitations": [
+    "Profiles without indexed portraits are not represented in this file-level audit.",
+    "A successful HTTP response does not prove a photograph visually depicts its named subject.",
+    "Identity is supported by Wikidata or a manually recorded Commons category/file source; uncertain matches are not auto-added."
+  ],
+  "issues": [
+    {
+      "section": "japan",
+      "name": "Yokyu-n",
+      "qid": "Q11370644",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    }
+  ],
+  "corrections": {
+    "qidMappingsCorrected": 2,
+    "portraitRemovedForConfirmedPersonMismatch": 1,
+    "commonsFileNamesRecoveredFromImageUrls": 6,
+    "portraitRecordsWithLiveCommonsFileAndVerifiedLicenseAuthor": 324,
+    "unresolvedIdentityReview": 1,
+    "socialLinksCorrected": 2,
+    "newSocialAccountsAdded": 0,
+    "profileIndexTotal": 1371,
+    "profilesWithoutIndexedPortrait": 1047
+  },
+  "socialAuditFile": "data/yume-idols-social-audit-2026-11-12.json"
+}
