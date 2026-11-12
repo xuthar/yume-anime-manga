@@ -1,0 +1,117 @@
+{
+  "artist": "Perfume",
+  "checkedAt": "2026-11-12",
+  "groupImage": "",
+  "members": [
+    {
+      "name": "a-chan",
+      "japanese": "あ〜ちゃん",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://www.perfume-web.jp/profile/"
+    },
+    {
+      "name": "KASHIYUKA",
+      "japanese": "かしゆか",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://www.perfume-web.jp/profile/"
+    },
+    {
+      "name": "NOCCHi",
+      "japanese": "のっち",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://www.perfume-web.jp/profile/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "perfume-nebula-pt1",
+      "title": "ネビュラロマンス 前篇",
+      "date": "2024-10-30",
+      "kind": "studio",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://www.perfume-web.jp/discography/detail.php?id=95",
+      "trackSource": "https://www.perfume-web.jp/discography/detail.php?id=95",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2024-10-30",
+          "cover": "",
+          "source": "https://www.perfume-web.jp/discography/detail.php?id=95",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Scaletta audio non trascritta",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perfume-nebula-pt2",
+      "title": "ネビュラロマンス 後篇",
+      "date": "2025-09-17",
+      "kind": "studio",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://www.perfume-web.jp/discography/detail.php?id=96",
+      "trackSource": "https://www.perfume-web.jp/discography/detail.php?id=96",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2025-09-17",
+          "cover": "",
+          "source": "https://www.perfume-web.jp/discography/detail.php?id=96",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Scaletta audio non trascritta",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perfume-nebula-single",
+      "title": "ネビュラロマンス",
+      "date": "2025-04-02",
+      "kind": "single",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://www.perfume-web.jp/news/detail.php?id=4196",
+      "trackSource": "https://www.perfume-web.jp/news/detail.php?id=4196",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2025-04-02",
+          "cover": "",
+          "source": "https://www.perfume-web.jp/news/detail.php?id=4196",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Scaletta audio non trascritta",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale e formazione",
+      "url": "https://www.perfume-web.jp/profile/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://www.perfume-web.jp/discography/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Selezione iniziale basata sulle fonti ufficiali elencate. Non sono stati assegnati ritratti individuali o copertine senza un collegamento diretto verificato."
+}

@@ -1,0 +1,135 @@
+{
+  "artist": "ME:I",
+  "checkedAt": "2026-11-12",
+  "groupImage": "",
+  "members": [
+    {
+      "name": "MIU",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://me-i.jp/feature/profile"
+    },
+    {
+      "name": "MOMONA",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://me-i.jp/feature/profile"
+    },
+    {
+      "name": "AYANE",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://me-i.jp/feature/profile"
+    },
+    {
+      "name": "KEIKO",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://me-i.jp/feature/profile"
+    },
+    {
+      "name": "RINON",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://me-i.jp/feature/profile"
+    },
+    {
+      "name": "SUZU",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://me-i.jp/feature/profile"
+    },
+    {
+      "name": "TSUZUMI",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://me-i.jp/feature/profile"
+    }
+  ],
+  "albums": [
+    {
+      "id": "mei-hanasaku",
+      "title": "花咲く道",
+      "date": "2026-08-05",
+      "kind": "single",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://me-i.jp/discography/detail/31/?lang=en",
+      "trackSource": "https://me-i.jp/discography/detail/31/?lang=en",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-08-05",
+          "cover": "",
+          "source": "https://me-i.jp/discography/detail/31/?lang=en",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Brani documentati nella fonte ufficiale",
+              "tracks": [
+                {
+                  "title": "花咲く道",
+                  "youtube": "https://www.youtube.com/results?search_query=ME%3AI%20%E8%8A%B1%E5%92%B2%E3%81%8F%E9%81%93%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ME%3AI%20%E8%8A%B1%E5%92%B2%E3%81%8F%E9%81%93"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mei-mirai",
+      "title": "MIRAI",
+      "date": "2024-04-17",
+      "kind": "single",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://cf.me-i.jp/news/detail/59",
+      "trackSource": "https://cf.me-i.jp/news/detail/59",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2024-04-17",
+          "cover": "",
+          "source": "https://cf.me-i.jp/news/detail/59",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Brani documentati nella fonte ufficiale",
+              "tracks": [
+                {
+                  "title": "Click",
+                  "youtube": "https://www.youtube.com/results?search_query=ME%3AI%20Click%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ME%3AI%20Click"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale e formazione",
+      "url": "https://me-i.jp/feature/profile"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://me-i.jp/discography/?wovn=en"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Selezione iniziale basata sulle fonti ufficiali elencate. Non sono stati assegnati ritratti individuali o copertine senza un collegamento diretto verificato."
+}

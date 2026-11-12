@@ -1,0 +1,137 @@
+{
+  "artist": "ATARASHII GAKKO!",
+  "checkedAt": "2026-11-12",
+  "groupImage": "",
+  "members": [
+    {
+      "name": "MIZYU",
+      "japanese": "ミヂュ",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://atarashiigakko.com/profile/"
+    },
+    {
+      "name": "RIN",
+      "japanese": "リン",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://atarashiigakko.com/profile/"
+    },
+    {
+      "name": "SUZUKA",
+      "japanese": "スズカ",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://atarashiigakko.com/profile/"
+    },
+    {
+      "name": "KANON",
+      "japanese": "カノン",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://atarashiigakko.com/profile/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "ag-from-tokyo",
+      "title": "From Tokyo with Love",
+      "date": "2026-07-24",
+      "kind": "studio",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://atarashiigakko.com/disco/detail_en.html?id=1143",
+      "trackSource": "https://atarashiigakko.com/disco/detail_en.html?id=1143",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-07-24",
+          "cover": "",
+          "source": "https://atarashiigakko.com/disco/detail_en.html?id=1143",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Brani documentati nella fonte ufficiale",
+              "tracks": [
+                {
+                  "title": "Oi AG!",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Oi%20AG!%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Oi%20AG!"
+                },
+                {
+                  "title": "TTTTOKYO",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20TTTTOKYO%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20TTTTOKYO"
+                },
+                {
+                  "title": "Take Me with You",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Take%20Me%20with%20You%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Take%20Me%20with%20You"
+                },
+                {
+                  "title": "Catch That Train",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Catch%20That%20Train%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Catch%20That%20Train"
+                },
+                {
+                  "title": "Kore de E",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Kore%20de%20E%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Kore%20de%20E"
+                },
+                {
+                  "title": "Waiting for Good Time",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Waiting%20for%20Good%20Time%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Waiting%20for%20Good%20Time"
+                },
+                {
+                  "title": "Dance Dance",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Dance%20Dance%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Dance%20Dance"
+                },
+                {
+                  "title": "Chanka Chanka",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Chanka%20Chanka%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Chanka%20Chanka"
+                },
+                {
+                  "title": "Leave It All Behind",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20Leave%20It%20All%20Behind%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20Leave%20It%20All%20Behind"
+                },
+                {
+                  "title": "UTAGE HIKARU",
+                  "youtube": "https://www.youtube.com/results?search_query=ATARASHII%20GAKKO!%20UTAGE%20HIKARU%20official",
+                  "youtubeType": "search",
+                  "spotify": "https://open.spotify.com/search/ATARASHII%20GAKKO!%20UTAGE%20HIKARU"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale e formazione",
+      "url": "https://atarashiigakko.com/profile/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://atarashiigakko.com/disco/index_en.html?category=all"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Selezione iniziale basata sulle fonti ufficiali elencate. Non sono stati assegnati ritratti individuali o copertine senza un collegamento diretto verificato."
+}

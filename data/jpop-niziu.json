@@ -1,0 +1,159 @@
+{
+  "artist": "NiziU",
+  "checkedAt": "2026-11-12",
+  "groupImage": "",
+  "members": [
+    {
+      "name": "MAKO",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "RIO",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "MAYA",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "RIKU",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "AYAKA",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "MAYUKA",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "RIMA",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "MIIHI",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    },
+    {
+      "name": "NINA",
+      "japanese": "",
+      "bio": "Componente elencata nel profilo ufficiale del gruppo.",
+      "image": "",
+      "link": "https://niziu.jype.com/profile"
+    }
+  ],
+  "albums": [
+    {
+      "id": "niziu-sour-grapes",
+      "title": "Sour Grapes",
+      "date": "2026-09-28",
+      "kind": "ep",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://niziu.com/s/n123/artist/00/discography",
+      "trackSource": "https://niziu.com/s/n123/artist/00/discography",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-09-28",
+          "cover": "",
+          "source": "https://niziu.com/s/n123/artist/00/discography",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Scaletta audio non trascritta",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niziu-portfolio",
+      "title": "Portfolio",
+      "date": "2026-07-01",
+      "kind": "compilation",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://niziu.com/s/n123/artist/00/discography",
+      "trackSource": "https://niziu.com/s/n123/artist/00/discography",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-07-01",
+          "cover": "",
+          "source": "https://niziu.com/s/n123/artist/00/discography",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Scaletta audio non trascritta",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niziu-good-girl",
+      "title": "GOOD GIRL BUT NOT FOR YOU",
+      "date": "2026-04-01",
+      "kind": "ep",
+      "note": "Selezione di uscite documentate; questa non è una discografia completa. Le scalette sono riportate solo quando la fonte ufficiale le rende disponibili. I pulsanti YouTube e Spotify aprono ricerche per titolo.",
+      "source": "https://niziu.com/s/n123/discography/ESCL-6235",
+      "trackSource": "https://niziu.com/s/n123/discography/ESCL-6235",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Edizione principale · 2026-04-01",
+          "cover": "",
+          "source": "https://niziu.com/s/n123/discography/ESCL-6235",
+          "sourceLabel": "Fonte ufficiale della pubblicazione",
+          "discs": [
+            {
+              "label": "Scaletta audio non trascritta",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale e formazione",
+      "url": "https://niziu.jype.com/profile"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://niziu.com/s/n123/artist/00/discography"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Selezione iniziale basata sulle fonti ufficiali elencate. Non sono stati assegnati ritratti individuali o copertine senza un collegamento diretto verificato."
+}
