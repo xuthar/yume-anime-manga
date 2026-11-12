@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T13:56:11.051564+01:00",
+  "updatedAt": "2026-11-12T14:57:29.559860+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,23 +7,23 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
-      "status": "error"
+      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
+      "status": "ok"
     },
     {
       "id": "animeclick-novel",
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-04T00:19:19.690285+01:00",
-      "status": "error"
+      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
+      "status": "ok"
     },
     {
       "id": "seven-seas",
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-11T13:56:11.051564+01:00",
+      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-11T13:56:11.051564+01:00",
+      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-11T13:56:11.051564+01:00",
+      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
       "status": "ok"
     }
   ],
@@ -4323,17 +4323,6 @@
     },
     {
       "date": "2026-11-12",
-      "title": "Lavanderia Minato - Wash my Heart! 6",
-      "series": "Lavanderia Minato - Wash my Heart!",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112360/lavanderia-minato-wash-my-heart",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-12",
       "title": "Love You",
       "series": "Love You",
       "publisher": "Magic Press",
@@ -4839,6 +4828,17 @@
     },
     {
       "date": "2026-11-17",
+      "title": "Red Cat Ramen 12",
+      "series": "Red Cat Ramen",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111656/red-cat-ramen",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-17",
       "title": "Splatoon 1",
       "series": "Splatoon",
       "publisher": "Star Comics",
@@ -4883,6 +4883,39 @@
     },
     {
       "date": "2026-11-18",
+      "title": "Adolescenza esplosiva 2",
+      "series": "Adolescenza esplosiva",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112641/adolescenza-esplosiva",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Black Letter 6",
+      "series": "Black Letter",
+      "publisher": "Edizioni BD",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112687/black-letter",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "From Star Strings",
+      "series": "From Star Strings",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112751/from-star-strings",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
       "title": "Gokusen 4",
       "series": "Gokusen",
       "publisher": "Dynit",
@@ -4902,6 +4935,28 @@
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3110650/il-monologo-della-speziale",
       "sourceId": "animeclick-novel"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Il primo amore di Nezumi 9",
+      "series": "Il primo amore di Nezumi",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112697/il-primo-amore-di-nezumi",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "La voce della strada 7",
+      "series": "La voce della strada",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112706/la-voce-della-strada",
+      "sourceId": "animeclick-manga"
     },
     {
       "date": "2026-11-18",
@@ -4934,39 +4989,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112659/link-click-artbook",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Love in the Palm of His Hand 3",
-      "series": "Love in the Palm of His Hand",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112418/love-in-the-palm-of-his-hand",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Love in the Palm of His Hand Deluxe 3",
-      "series": "Love in the Palm of His Hand",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112910/love-in-the-palm-of-his-hand-deluxe",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Mazinger Z di Go Nagai Omnibus",
-      "series": "Mazinger Z (Go Nagai)",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112919/mazinger-z-di-go-nagai-omnibus",
       "sourceId": "animeclick-manga"
     },
     {
@@ -5015,6 +5037,28 @@
     },
     {
       "date": "2026-11-18",
+      "title": "Pole Star 2",
+      "series": "Pole Star",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111889/pole-star",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Shiboyugi – Playing Death Games to Put Food on the Table 2",
+      "series": "Shiboyugi – Playing Death Games to Put Food on the Table",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112717/shiboyugi-playing-death-games-to-put-food-on-the-table",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
       "title": "The Pawn's Revenge 7",
       "series": "The Pawn's Revenge",
       "publisher": "Jundo",
@@ -5022,6 +5066,28 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112600/the-pawns-revenge",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "The Shiunji Family Children 9",
+      "series": "The Shiunji Family Children",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112741/the-shiunji-family-children",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Tokyo Ghoul:re Deluxe 3",
+      "series": "Tokyo Ghoul:re",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3101627/tokyo-ghoul-re-deluxe",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6135,17 +6201,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "City Hunter Double Edged – Short Stories",
-      "series": "City Hunter Double Edge – Il tempo dei ciliegi",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112912/city-hunter-double-edged-short-stories",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Detective Conan New Edition 75",
       "series": "Detective Conan",
       "publisher": "Star Comics",
@@ -6208,6 +6263,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112760/kakuriyo-nel-mondo-degli-spiriti",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Kirby Mangamania 8",
+      "series": "Kirby Mangamania",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112784/kirby-mangamania",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6289,13 +6355,35 @@
     },
     {
       "date": "2026-11-25",
-      "title": "Eternità e castigo - Fushi to Batsu 5",
-      "series": "Eternità e castigo - Fushi to Batsu",
+      "title": "City Hunter Double Edged – Short Stories",
+      "series": "City Hunter Double Edged – Il tempo dei ciliegi",
       "publisher": "JPOP",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111875/eternit%C3%A0-e-castigo-fushi-to-batsu",
+      "url": "https://www.animeclick.it/edizione/3112912/city-hunter-double-edged-short-stories",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Danmachi - Sword Oratoria 33",
+      "series": "DanMachi Sword Oratoria",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112645/danmachi-sword-oratoria",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Dark Souls - Redemption 3",
+      "series": "Dark Souls - Redemption",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111905/dark-souls-redemption",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6333,28 +6421,6 @@
     },
     {
       "date": "2026-11-25",
-      "title": "Firefly Wedding 12",
-      "series": "Firefly Wedding",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112646/firefly-wedding",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Firefly Wedding Deluxe 12",
-      "series": "Firefly Wedding",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112647/firefly-wedding-deluxe",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
       "title": "Get Schooled 4",
       "series": "Get Schooled",
       "publisher": "ReNoir Comics",
@@ -6366,13 +6432,24 @@
     },
     {
       "date": "2026-11-25",
-      "title": "Grand Blue 1",
+      "title": "Gon - Nuova edizione 1",
+      "series": "Gon",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112446/gon-nuova-edizione",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Grand Blue Variant Edition Cut Price 3",
       "series": "Grand Blue",
       "publisher": "JPOP",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112406/grand-blue",
+      "url": "https://www.animeclick.it/edizione/3112405/grand-blue-variant-edition-cut-price",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6388,13 +6465,68 @@
     },
     {
       "date": "2026-11-25",
-      "title": "Nina the Starry Bride 5",
-      "series": "Nina the Starry Bride",
+      "title": "Il tempo dei ciliegi – Short Stories",
+      "series": "City Hunter Double Edged – Il tempo dei ciliegi",
       "publisher": "JPOP",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112710/nina-the-starry-bride",
+      "url": "https://www.animeclick.it/edizione/3112913/il-tempo-dei-ciliegi-short-stories",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Initial D 23",
+      "series": "Initial D",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111616/initial-d",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Jaadugar - A Witch in Mongolia 6",
+      "series": "Jaadugar - A Witch in Mongolia",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111885/jaadugar-a-witch-in-mongolia",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Kowloon Generic Romance 12",
+      "series": "Kowloon Generic Romance",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111619/kowloon-generic-romance",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Kowloon Generic Romance Variant 12",
+      "series": "Kowloon Generic Romance",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112503/kowloon-generic-romance-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Miss Kobayashi's Dragon Maid 18",
+      "series": "Miss Kobayashi's Dragon Maid",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111887/miss-kobayashis-dragon-maid",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6410,6 +6542,17 @@
     },
     {
       "date": "2026-11-25",
+      "title": "Pokémon: Mewtwo colpisce ancora – L'evoluzione",
+      "series": "Pokémon: Mewtwo colpisce ancora – L'evoluzione",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112750/pok%C3%A9mon-mewtwo-colpisce-ancora-levoluzione",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
       "title": "Rent a Girlfriend 35",
       "series": "Rent a Girlfriend",
       "publisher": "JPOP",
@@ -6417,17 +6560,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112426/rent-a-girlfriend",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Squalificati - Ranger Reject 19",
-      "series": "Squalificati - Ranger Reject",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112722/squalificati-ranger-reject",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6443,13 +6575,13 @@
     },
     {
       "date": "2026-11-25",
-      "title": "Ultimate Exorcist Kiyoshi 4",
-      "series": "Ultimate Exorcist Kiyoshi",
+      "title": "The War of Greedy Witches 16",
+      "series": "The War of Greedy Witches",
       "publisher": "JPOP",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112744/ultimate-exorcist-kiyoshi",
+      "url": "https://www.animeclick.it/edizione/3112743/the-war-of-greedy-witches",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6477,6 +6609,17 @@
     },
     {
       "date": "2026-11-26",
+      "title": "Lavanderia Minato - Wash my Heart! 6",
+      "series": "Lavanderia Minato - Wash my Heart!",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112360/lavanderia-minato-wash-my-heart",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
       "title": "Naruto Color New Edition 22",
       "series": "Naruto",
       "publisher": "Panini Comics",
@@ -6484,6 +6627,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112312/naruto-color-new-edition",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Our Sunny Days Deluxe 3",
+      "series": "Our Sunny Days",
+      "publisher": "Magic Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112945/our-sunny-days-deluxe",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6782,6 +6936,61 @@
       "sourceId": "seven-seas"
     },
     {
+      "date": "2026-12-02",
+      "title": "I’ll Become an Elegant Villainess! Time to Enjoy My Second Life to the Fullest Volume 2",
+      "series": "I’ll Become an Elegant Villainess! Time to Enjoy My Second Life to the Fullest",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/i-ll-become-an-elegant-villainess-time-to-enjoy-my-second-life-to-the-fullest#volume-2",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King Volume 4",
+      "series": "Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/lacey-longs-for-freedom-the-dawn-witch-s-low-key-life-after-defeating-the-demon-king#volume-4",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Looks like a Job for a Maid! The Tales of a Dismissed Supermaid (Manga) Volume 6",
+      "series": "Looks like a Job for a Maid! The Tales of a Dismissed Supermaid (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid-manga#volume-6",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Notorious No More: The Villainess Enjoys Feigning Incompetence Volume 4",
+      "series": "Notorious No More: The Villainess Enjoys Feigning Incompetence",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-4",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Tearmoon Empire (Manga) Volume 11",
+      "series": "Tearmoon Empire (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/tearmoon-empire-manga#volume-11",
+      "sourceId": "j-novel-club"
+    },
+    {
       "date": "2026-12-03",
       "title": "Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines (Light Novel) Vol. 1 [Ebook]",
       "series": "Legend of the Accidental Sword Saint: Playing the Mentor from the Sidelines (Light Novel) Vol. 1 [Ebook]",
@@ -6995,6 +7204,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-872-0",
       "url": "https://sevenseasentertainment.com/books/skip-and-loafer-box-set-vol-1-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Slime Saint Vol. 1",
+      "series": "Slime Saint Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-499-5",
+      "url": "https://sevenseasentertainment.com/books/slime-saint-vol-1/",
       "sourceId": "seven-seas"
     },
     {
@@ -7415,18 +7636,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-228-1",
       "url": "https://sevenseasentertainment.com/books/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-manga-vol-11/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-12-15",
-      "title": "Slime Saint Vol. 1",
-      "series": "Slime Saint Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-499-5",
-      "url": "https://sevenseasentertainment.com/books/slime-saint-vol-1/",
       "sourceId": "seven-seas"
     },
     {
