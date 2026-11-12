@@ -28,6 +28,12 @@ function dob(value){
  const today=new Date(),age=today.getFullYear()-y-((today.getMonth()+1<m||(today.getMonth()+1===m&&today.getDate()<day))?1:0);
  return {text:day.toString().padStart(2,'0')+'/'+m.toString().padStart(2,'0')+'/'+y,age:age>=0&&age<=120?age:null}
 }
+function ageLabel(p,date){
+ if(p.category==='vtuber')return 'Non attribuita al personaggio';
+ if(date?.age!=null)return date.age+' anni';
+ if(Number.isInteger(p.verifiedAge))return p.verifiedAge+' anni · riportata dalla fonte'+(p.verifiedAgeAsOf?' ('+p.verifiedAgeAsOf+')':'');
+ return 'N/D';
+}
 function valueDate(value){
  if(!value?.time||value.precision<11)return null;
  const m=value.time.match(/^\+?(\d{4})-(\d{2})-(\d{2})/);return m?dob(m[1]+'-'+m[2]+'-'+m[3]):null
@@ -214,7 +220,7 @@ function card(p){
  text.append($make('p','asia-alt',p.alternate||'—'));
  text.append($make('p','asia-role',(p.category==='actors'?'Attrice / talent':p.category==='fashion'?'Modella / fashion':p.category==='creators'?'Creator / influencer':p.category==='vtuber'?'VTuber · personaggio virtuale':'Idol musicale')+' · '+p.groups[0]));
  const date=p.category==='vtuber'?null:dob(p.birth),born=$make('p','asia-meta',p.category==='vtuber'?'Data di nascita reale: non pertinente':'Nascita: '+(date?.text||'Non documentata'));
- const age=$make('p','asia-meta','Età: '+(date?.age!=null?date.age+' anni':'N/D'));text.append(born,age);
+ const age=$make('p','asia-meta','Età: '+ageLabel(p,date));text.append(born,age);
   if(p.editorialBio)text.append($make('p','asia-meta',p.editorialBio));
   if(p.audience?.count){
    const metric=(p.audience.count>=1000000?(p.audience.count/1000000).toLocaleString('it-IT',{maximumFractionDigits:1})+' M':(p.audience.count/1000).toLocaleString('it-IT',{maximumFractionDigits:0})+' mila');
@@ -238,7 +244,7 @@ function detail(p){
  field('Scena / paese di attività',c?.name);field('Gruppo o attività',p.groups.join(' · '));
  field('Professione',p.category==='actors'?'Attrice, talent':p.category==='fashion'?'Modella, fashion e campagne':p.category==='creators'?'Creator, influencer':p.category==='vtuber'?'Avatar / identità artistica virtuale':'Idol, cantante o performer');
  field(p.category==='vtuber'?'Nascita della persona dietro la voce':'Data di nascita',p.category==='vtuber'?'Non pubblicata / non dedotta':date?.text||'Non documentata');
- field('Età',p.category==='vtuber'?'Non attribuita al personaggio':date?.age!=null?date.age+' anni':'Non documentata');
+ field('Età',p.category==='vtuber'?'Non attribuita al personaggio':ageLabel(p,date)==='N/D'?'Non documentata':ageLabel(p,date));
  field('Nazionalità',p.nationality&&countries[p.nationality]?countries[p.nationality].name+' · diversa dalla scena':'Non specificata separatamente');
  field('Identità su Wikidata',p.entityId||'Non ancora verificata');
  field('Documentazione',pageSources(p).map(s=>s.year).join(', '));modalBody.append(facts);
