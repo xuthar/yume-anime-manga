@@ -58,7 +58,11 @@ const records=[
  ['af','Aryana Sayeed','music','Cantante e cantautrice pop','October 2019 Afghan singer.jpg','https://aryanasayeed.com/','Pop afghano'],
  ['am','Sirusho','music','Cantautrice · pop e folk armeno','Sirusho Harutyunyan in London 1.jpg','https://eurovision.com/eurovision-song-contest/belgrade-2008/participants/sirusho/','Pop armeno'],
  ['ge','Nino Katamadze','music','Cantante · jazz e world music georgiana','Nino Katamadze cropped.jpeg','https://ninokatamadze.com/','Jazz georgiano'],
- ['az','Aygün Kazımova','music','Cantante pop azera','Aygün Kazımova (2025).jpg','https://iticket.az/artists/aygun-kazimova','Pop azerbaigiano']
+ ['az','Aygün Kazımova','music','Cantante pop azera','Aygün Kazımova (2025).jpg','https://iticket.az/artists/aygun-kazimova','Pop azerbaigiano'],
+ ['af','Mozhdah Jamalzadah','music','Cantautrice e presentatrice afghano-canadese','Mozhdah Jamalzadah from "Sima\'s Song" at Red Carpet of the Tokyo International Film Festival 2024 (54578167598).jpg','https://www.dw.com/en/the-oprah-of-afghanistan-mozhdah-jamalzadah/a-59050273','Musica afghana'],
+ ['am','Iveta Mukuchyan','music','Cantautrice pop armena','ESC2016 - Armenia 03 (cropped).jpg','https://www.ivetamukuchyan.com/','Pop armeno'],
+ ['ge','Tamta','music','Cantante georgiano-greca','ESC2019 - Cyprus 01.jpg','https://tamta.gr/pages/about','Pop georgiano e greco'],
+ ['az','Röya Ayxan','music','Cantante pop azera','Roya Ayxan.jpg','https://artist.az/katalog/roya/','Pop azerbaigiano']
 ];
 const norm=n=>String(n||'').normalize('NFKC').toLocaleLowerCase('en').trim();
 const countriesAdded=countries.filter(([id])=>!old.countries.some(c=>c.id===id));
