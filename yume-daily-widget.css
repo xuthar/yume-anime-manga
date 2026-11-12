@@ -1,1 +1,38 @@
 .yume-daily-widget{box-sizing:border-box;width:min(1100px,calc(100% - 36px));margin:24px auto;padding:20px 24px;border:1px solid rgba(156,204,209,.28);border-radius:18px;background:linear-gradient(115deg,rgba(37,44,70,.97),rgba(25,39,53,.96));color:#f2f1fa;box-shadow:0 8px 28px #0002}.yume-daily-head{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.yume-daily-head span{color:#91ddd0;font-size:11px;letter-spacing:.14em}.yume-daily-head h2{font-size:clamp(20px,3vw,27px);margin:4px 0}.yume-daily-head p,.yume-daily-foot{font-size:12px;color:#b9c0d2;margin:5px 0}.yume-daily-head a,.yume-daily-widget li a{color:#9ce4d6;text-decoration:none;font-size:12px}.yume-daily-widget ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 22px;list-style:none;padding:0;margin:16px 0}.yume-daily-widget li{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #ffffff19;min-width:0}.yume-daily-widget li strong{display:block;font-size:13px;line-height:1.45}.yume-daily-widget li small{display:block;color:#b8c4d2;font-size:11px;margin-top:3px}.yume-daily-widget li a{white-space:nowrap}.yume-daily-empty{color:#c8cfdf;font-size:13px}@media(max-width:650px){.yume-daily-widget{padding:16px}.yume-daily-widget ul{grid-template-columns:1fr}}
+/* Homepage streaming ticker: one compact line like the featured banner. */
+.yume-daily-home{
+ width:min(1200px,calc(100% - 36px));margin:8px auto 12px;padding:7px 14px;
+ min-height:54px;display:grid;grid-template-columns:minmax(150px,auto) minmax(0,1fr) auto;
+ align-items:center;gap:14px;border-radius:14px;
+}
+.yume-daily-home .yume-daily-head{display:contents}
+.yume-daily-home .yume-daily-head>div{grid-column:1;grid-row:1;min-width:0}
+.yume-daily-home .yume-daily-head span{display:none}
+.yume-daily-home .yume-daily-head h2{font-size:15px;line-height:1.2;margin:0;white-space:nowrap}
+.yume-daily-home .yume-daily-head p{display:none}
+.yume-daily-home .yume-daily-head>a{grid-column:3;grid-row:1;white-space:nowrap;font-size:11px}
+.yume-daily-home .yume-daily-scroll{grid-column:2;grid-row:1;min-width:0;overflow:hidden;mask-image:linear-gradient(90deg,transparent,#000 3%,#000 97%,transparent);touch-action:pan-x}
+.yume-daily-home .yume-daily-track{display:flex;width:max-content;animation:yume-daily-marquee var(--yume-duration,24s) linear infinite}
+.yume-daily-home .yume-daily-track>ul{display:flex;flex:0 0 auto;gap:8px;list-style:none;padding:0;margin:0}
+.yume-daily-home .yume-daily-track li{box-sizing:border-box;flex:0 0 clamp(220px,25vw,290px);min-width:0;justify-content:flex-start;gap:9px;padding:4px 10px;border:0;border-left:1px solid #ffffff25}
+.yume-daily-home .yume-daily-track li>div{flex:1;min-width:0}
+.yume-daily-home .yume-daily-track li strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:12px;line-height:1.25}
+.yume-daily-home .yume-daily-track li small{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:10px;margin-top:2px}
+.yume-daily-home .yume-daily-track li a{font-size:10px}
+.yume-daily-home .yume-daily-scroll:hover .yume-daily-track,
+.yume-daily-home .yume-daily-scroll:focus-within .yume-daily-track{animation-play-state:paused}
+.yume-daily-home .yume-daily-foot{display:none}
+.yume-daily-home .yume-daily-empty{grid-column:2;margin:0;font-size:11px}
+@keyframes yume-daily-marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media(max-width:700px){
+ .yume-daily-home{grid-template-columns:minmax(0,1fr) auto;gap:6px 10px;padding:9px 12px}
+ .yume-daily-home .yume-daily-head>div{grid-column:1;grid-row:1}
+ .yume-daily-home .yume-daily-head>a{grid-column:2;grid-row:1}
+ .yume-daily-home .yume-daily-scroll{grid-column:1/-1;grid-row:2;overflow-x:auto;scrollbar-width:thin}
+ .yume-daily-home .yume-daily-track li{flex-basis:min(76vw,290px)}
+ .yume-daily-home .yume-daily-empty{grid-column:1/-1;grid-row:2}
+}
+@media(prefers-reduced-motion:reduce){
+ .yume-daily-home .yume-daily-track{animation:none}
+ .yume-daily-home .yume-daily-scroll{overflow-x:auto;scrollbar-width:thin}
+}
