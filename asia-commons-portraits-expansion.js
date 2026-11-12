@@ -1,10 +1,10 @@
-/* Yume Asia · documented-photo expansion for 8 previously absent Asian scenes.
- * 29 distinct publicly known female artists/athletes/creators, each with
+/* Yume Asia · documented-photo expansion for 12 previously absent Asian scenes.
+ * 33 distinct publicly known female artists/athletes/creators, each with
  * exact, individual Wikimedia Commons file and a link to source/credit.
  * Nonsexual performer data. One teen singer and one teen athlete with
  * publicly sourced birth dates; all other ages remain unspecified.
  * File existence does not guarantee every user/browser can reach Commons.
- * Snapshot 2026-11-08.
+ * Snapshot 2026-11-12.
  */
 (()=>{'use strict';
 const old=window.YumeAsiaIdols;
@@ -17,7 +17,11 @@ const countries=[
  ['mm','Myanmar','🇲🇲','မြန်မာ','Cantanti, influencer e cinema','Yangon'],
  ['mn','Mongolia','🇲🇳','Монгол','Musica alternativa e nuove voci','Ulaanbaatar'],
  ['kz','Kazakistan','🇰🇿','Қазақстан','Cantanti, pop e sport femminile','Almaty'],
- ['uz','Uzbekistan','🇺🇿','Oʻzbekiston','Pop femminile, cantanti e attrici','Tashkent']
+ ['uz','Uzbekistan','🇺🇿','Oʻzbekiston','Pop femminile, cantanti e attrici','Tashkent'],
+ ['af','Afghanistan','🇦🇫','افغانستان','Pop e artiste afghane','Kabul'],
+ ['am','Armenia','🇦🇲','Հայաստան','Pop, folk e nuove voci','Yerevan'],
+ ['ge','Georgia','🇬🇪','საქართველო','Jazz, folk e artiste contemporanee','Tbilisi'],
+ ['az','Azerbaigian','🇦🇿','Azərbaycan','Pop, mugham e artiste','Baku']
 ];
 // Each record: scene, public professional name, category, artistic area,
 // exact Commons image filename, biographical/profile source, group, validated birth, birth source.
@@ -50,7 +54,11 @@ const records=[
  ['kz','Sofia Samodelkina','sport','Pattinaggio artistico / Young Stars','Sofia Samodelkina 2025 Worlds Free Skate 01.jpg','https://isu-skating.com/en/figure-skating/skaters/sofia-samodelkina/','Pattinaggio femminile','2007-02-18','https://www.isuresults.com/bios/isufs00111213.htm'],
  ['uz','Shahzoda','music','Cantante / attrice','Shahzoda in 2012.jpg','https://commons.wikimedia.org/wiki/Category:Shahzoda','Uzbek pop'],
  ['uz','Sevara Nazarkhan','music','Cantautrice / musica world','Sevara Nazarkhan Realworld Party 2006 (cropped).jpg','https://commons.wikimedia.org/wiki/Category:Sevara_Nazarkhan','Musica uzbeka'],
- ['uz',"Sevinch Mo'minova",'music','Cantante / attrice',"Sevinch Mo'minova (Aug 2021).png","https://commons.wikimedia.org/wiki/Category:Sevinch_Mo%27minova",'Uzbek pop']
+ ['uz',"Sevinch Mo'minova",'music','Cantante / attrice',"Sevinch Mo'minova (Aug 2021).png","https://commons.wikimedia.org/wiki/Category:Sevinch_Mo%27minova",'Uzbek pop'],
+ ['af','Aryana Sayeed','music','Cantante e cantautrice pop','October 2019 Afghan singer.jpg','https://aryanasayeed.com/','Pop afghano'],
+ ['am','Sirusho','music','Cantautrice · pop e folk armeno','Sirusho Harutyunyan in London 1.jpg','https://eurovision.com/eurovision-song-contest/belgrade-2008/participants/sirusho/','Pop armeno'],
+ ['ge','Nino Katamadze','music','Cantante · jazz e world music georgiana','Nino Katamadze cropped.jpeg','https://ninokatamadze.com/','Jazz georgiano'],
+ ['az','Aygün Kazımova','music','Cantante pop azera','Aygün Kazımova (2025).jpg','https://iticket.az/artists/aygun-kazimova','Pop azerbaigiano']
 ];
 const norm=n=>String(n||'').normalize('NFKC').toLocaleLowerCase('en').trim();
 const countriesAdded=countries.filter(([id])=>!old.countries.some(c=>c.id===id));
@@ -78,8 +86,8 @@ for(const [country,name,category,occupation,file,profile,group,birth,birthSource
 const groupCount=new Set(people.flatMap(p=>(p.groups||[]).map(g=>p.country+':'+g))).size;
 const countryCounts=Object.fromEntries(allCountries.map(c=>[c.id,people.filter(p=>p.country===c.id).length]));
 window.YumeAsiaIdols=Object.freeze({...old,countries:allCountries,sources,people,
- total:people.length,countryCounts,groupCount,sourceCount:Object.keys(sources).length,updated:'2026-11-08'});
-window.YumeAsiaPortraitExpansion=Object.freeze({updated:'2026-11-08',records,added:added.length,countries: countriesAdded.length,
+ total:people.length,countryCounts,groupCount,sourceCount:Object.keys(sources).length,updated:'2026-11-12'});
+window.YumeAsiaPortraitExpansion=Object.freeze({updated:'2026-11-12',records,added:added.length,countries: countriesAdded.length,
  countriesAdded:countriesAdded.map(x=>x[0]),documentedBirths:added.filter(p=>p.verifiedBirthSource).length,
  photoCoverage:'Each added person has an exact Commons File URL; display/reachability may vary by browser.'});
 })();
