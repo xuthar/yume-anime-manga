@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11",
+  "checkedAt": "2026-11-12",
   "description": "Audit IT/EN consolidati dal 24 al 31 ottobre. Le notizie editoriali non modificano gli acquisti, i volumi posseduti, le date e i prezzi storici.",
   "sourceFiles": [
     "manga-editorial-sync-2026-10-24.json",
@@ -1508,19 +1508,19 @@
     {
       "title": "Chainsaw Man",
       "language": "IT",
-      "editorialNote": "AnimeClick novembre 2026: Chainsaw Man Christmas Variant n.1, Panini Comics, €10,00, giorno non comunicato. Edizione variant natalizia distinta dal regolare n.1 e dalle variant già registrate; nessuna copia natalizia attribuita.",
+      "editorialNote": "Verifica editoriale 12/11/2026 (NON acquisto): AnimeClick indica Chainsaw Man Christmas Variant n.1, Panini Comics, programmata per il 12/11/2026, listino €10,00. Variant natalizia distinta dall'edizione regolare n.1 e dalle altre copie già registrate; NON posseduta secondo l'inventario. Data programmata, disponibilità effettiva non confermata. Fonte: https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
       "editorialSource": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
       "announcements": [
         {
           "edition": "Panini Comics Christmas Variant",
           "number": "1",
-          "date": null,
+          "date": "2026-11-12",
           "priceEur": 10
         }
       ],
       "ownedChange": false,
       "editorialOnly": true,
-      "lastCheckedAt": "2026-10-31"
+      "lastCheckedAt": "2026-11-12"
     },
     {
       "title": "Hokkaido Gals Are Super Adorable!",
