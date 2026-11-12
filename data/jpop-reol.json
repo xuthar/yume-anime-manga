@@ -1,0 +1,79 @@
+{
+  "artist": "Reol",
+  "checkedAt": "2026-11-12",
+  "groupImage": "",
+  "members": [
+    {
+      "name": "Reol",
+      "japanese": "れをる",
+      "bio": "Artista solista giapponese; profilo e pubblicazioni consultabili sul sito ufficiale.",
+      "image": "",
+      "link": "https://reol.jp/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "reol-cocoon",
+      "title": "COCOON",
+      "date": "2026-07-11",
+      "kind": "single",
+      "note": "Singolo digitale elencato nella discografia ufficiale.",
+      "source": "https://reol.jp/discography/",
+      "trackSource": "https://reol.jp/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2026-07-11",
+          "cover": "",
+          "source": "https://reol.jp/discography/",
+          "sourceLabel": "Discografia ufficiale",
+          "discs": [
+            {
+              "label": "Scaletta non riportata",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reol-rhetorica",
+      "title": "美辞学 (Rhetorica)",
+      "date": "2026-01-21",
+      "kind": "studio",
+      "note": "Quarto album full-length indicato nella discografia ufficiale.",
+      "source": "https://reol.jp/discography/",
+      "trackSource": "https://reol.jp/discography/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Album · 2026-01-21",
+          "cover": "",
+          "source": "https://reol.jp/discography/",
+          "sourceLabel": "Discografia ufficiale",
+          "discs": [
+            {
+              "label": "Scaletta non riportata",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Sito ufficiale",
+      "url": "https://reol.jp/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://reol.jp/discography/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Selezione iniziale basata sulla discografia ufficiale. Le scalette non documentate restano vuote."
+}

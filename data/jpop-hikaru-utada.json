@@ -1,0 +1,79 @@
+{
+  "artist": "Hikaru Utada",
+  "checkedAt": "2026-11-12",
+  "groupImage": "",
+  "members": [
+    {
+      "name": "Hikaru Utada",
+      "japanese": "宇多田ヒカル",
+      "bio": "Cantautrice e produttrice giapponese; profilo e discografia consultabili sul sito ufficiale.",
+      "image": "",
+      "link": "https://www.utadahikaru.jp/profile/"
+    }
+  ],
+  "albums": [
+    {
+      "id": "utada-pappara-paradise",
+      "title": "パッパパラダイス",
+      "date": "2026-05-06",
+      "kind": "single",
+      "note": "Singolo digitale annunciato e pubblicato secondo la discografia ufficiale. La versione 7-inch è datata 24 giugno 2026.",
+      "source": "https://www.utadahikaru.jp/music/",
+      "trackSource": "https://www.utadahikaru.jp/music/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Singolo digitale · 2026-05-06",
+          "cover": "",
+          "source": "https://www.utadahikaru.jp/music/",
+          "sourceLabel": "Discografia ufficiale",
+          "discs": [
+            {
+              "label": "Scaletta non riportata",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "utada-science-fiction",
+      "title": "SCIENCE FICTION",
+      "date": "2024-04-10",
+      "kind": "compilation",
+      "note": "Prima raccolta best ufficiale di Hikaru Utada. La data e la scheda sono verificate sul sito dell’artista.",
+      "source": "https://www.utadahikaru.jp/music/1hdev-tvva7s/",
+      "trackSource": "https://www.utadahikaru.jp/music/1hdev-tvva7s/",
+      "defaultEdition": 0,
+      "editions": [
+        {
+          "label": "Album · 2024-04-10",
+          "cover": "",
+          "source": "https://www.utadahikaru.jp/music/1hdev-tvva7s/",
+          "sourceLabel": "Scheda ufficiale",
+          "discs": [
+            {
+              "label": "Scaletta non riportata",
+              "tracks": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spotlight": [],
+  "officialVideos": [],
+  "videoEditions": [],
+  "sources": [
+    {
+      "label": "Profilo ufficiale",
+      "url": "https://www.utadahikaru.jp/profile/"
+    },
+    {
+      "label": "Discografia ufficiale",
+      "url": "https://www.utadahikaru.jp/music/"
+    }
+  ],
+  "excluded": [],
+  "catalogNote": "Selezione iniziale di uscite verificata sul sito ufficiale. Le scalette non sono state ricostruite quando non disponibili nella scheda consultata."
+}
