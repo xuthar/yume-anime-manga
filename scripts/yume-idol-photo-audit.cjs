@@ -119,6 +119,11 @@ async function main() {
   }
   const summary={records:rows.length,recordsWithImage:rows.filter(r=>r.record.photo).length,commonsFilesLive:commonsLive,commonsFilesMissing:issues.filter(x=>x.kind==='commons-file-missing').length,recordsMissingLicenseMetadata:licenseMissing,recordsMissingAuthorMetadata:authorMissing,nonReusableOrUnclassifiedLicenses:disallowed,wikidataRelationsChecked:qidsChecked,wikidataIdentityReviews:identityMismatch,directP18PhotoMatches:portraitClaimMatches,imageUrlsChecked,imageUrlsResponding:imageUrlsLive};
   const report={generated:new Date().toISOString(),scope:'Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.',summary,limitations:['Profiles without indexed portraits are not represented in this file-level audit.','A successful HTTP response does not prove a photograph visually depicts its named subject.','Identity is supported by Wikidata or a manually recorded Commons category/file source; uncertain matches are not auto-added.'],issues};
+  const normalizePhotoUrl=value=>typeof value==='string'?value.replace(/^https:\/\/thumb\.wikimedia\.org\//i,'https://upload.wikimedia.org/'):value;
+  for (const section of ['sport','asia','japan','global']) for (const record of Object.values(data[section] || {})) {
+    if (record.photo) record.photo=normalizePhotoUrl(record.photo);
+    if (Array.isArray(record.alternates)) record.alternates=record.alternates.map(normalizePhotoUrl);
+  }
   if (WRITE) {
     data.updated=new Date().toISOString();
     await fs.writeFile(INDEX,JSON.stringify(data,null,2)+'\n');
