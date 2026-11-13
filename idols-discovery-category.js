@@ -67,6 +67,22 @@ const officialSocial={
  'Miku Tanaka':[['X','https://x.com/miku_monmon3939']],
  'Nashiko Momotsuki':[['Instagram','https://www.instagram.com/nashiko_cos/']]
 };
+Object.assign(officialSocial,{
+ '月足 天音':[['X · ufficiale','https://x.com/amane_fz1026'],['Instagram · ufficiale','https://www.instagram.com/am1026_official/'],['TikTok · ufficiale','https://www.tiktok.com/@am1026_official'],['YouTube · ufficiale','https://www.youtube.com/channel/UCYH_GZdDHYrrh_8iQOi4P0g']],
+ '鎮西 寿々歌':[['X · ufficiale','https://x.com/suzuka_fz1124'],['Instagram · ufficiale','https://www.instagram.com/tarasuzuka24/'],['TikTok · ufficiale','https://www.tiktok.com/@oooooossssss24'],['YouTube · ufficiale','https://www.youtube.com/@おすずのあいまいにぃ/videos']],
+ '櫻井 優衣':[['X · ufficiale','https://x.com/yui_fz0221'],['Instagram · ufficiale','https://www.instagram.com/yui.sakurai_7/'],['TikTok · ufficiale','https://www.tiktok.com/@sakuraiyui2']],
+ '仲川 瑠夏':[['X · ufficiale','https://x.com/luna_fz0703'],['Instagram · ufficiale','https://www.instagram.com/luna_7373/'],['TikTok · ufficiale','https://www.tiktok.com/@luna_luna073']],
+ '真中 まな':[['X · ufficiale','https://x.com/manafy_fz0422'],['Instagram · ufficiale','https://www.instagram.com/manafy_baby/'],['TikTok · ufficiale','https://www.tiktok.com/@manafy_fz0422']],
+ '松本 かれん':[['X · ufficiale','https://x.com/karen_fz0328'],['Instagram · ufficiale','https://www.instagram.com/__matsumotokaren/'],['TikTok · ufficiale','https://www.tiktok.com/@__matsumotokaren']],
+ '早瀬 ノエル':[['X · ufficiale','https://x.com/noel_fz1229'],['Instagram · ufficiale','https://www.instagram.com/noel_hayase/'],['TikTok · ufficiale','https://www.tiktok.com/@hysnl1229'],['YouTube · ufficiale','https://www.youtube.com/channel/UCRMZBDvn6YRX12YQb7NR59A']],
+ '福山梨乃':[['X · ufficiale','https://x.com/rino_ct1224'],['Instagram · ufficiale','https://www.instagram.com/rinomaru_/'],['TikTok · ufficiale','https://www.tiktok.com/@rinomaru_']],
+ '桐原美月':[['X · ufficiale','https://x.com/mizuki_ct0221'],['Instagram · ufficiale','https://www.instagram.com/kirihara_mizuki/'],['TikTok · ufficiale','https://www.tiktok.com/@kirihara_mizuki']],
+ '南なつ':[['X · ufficiale','https://x.com/natsu_ct0317'],['Instagram · ufficiale','https://www.instagram.com/nattanntan/'],['TikTok · ufficiale','https://www.tiktok.com/@nattanntan']],
+ '小川奈々子':[['X · ufficiale','https://x.com/nachico_ct1001'],['Instagram · ufficiale','https://www.instagram.com/__nchisan__/'],['TikTok · ufficiale','https://www.tiktok.com/@__nachisan__']],
+ '立花琴未':[['X · ufficiale','https://x.com/kotomi_ct0525'],['Instagram · ufficiale','https://www.instagram.com/kotomi_5chan/'],['TikTok · ufficiale','https://www.tiktok.com/@kotomi_5chan']],
+ '宮野静':[['X · ufficiale','https://x.com/shizuka_ct0530'],['Instagram · ufficiale','https://www.instagram.com/miyano_shizuka'],['TikTok · ufficiale','https://www.tiktok.com/@miyano_shicha']],
+ '村川緋杏':[['X · ufficiale','https://x.com/bibian_ct1203'],['Instagram · ufficiale','https://www.instagram.com/murakawabibiann/'],['TikTok · ufficiale','https://www.tiktok.com/@murakawabibiann'],['YouTube · ufficiale','https://www.youtube.com/@murakawabibiann']]
+});
 const normalize=x=>String(x||'').normalize('NFKC').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
 const make=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};
 const link=(title,url,cls='')=>{const a=make('a',cls,title);a.href=url;a.rel='noopener noreferrer';a.target='_blank';return a};
