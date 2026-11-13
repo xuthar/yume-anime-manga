@@ -1,6 +1,15 @@
 name: Yume · deploy static website
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "idols-discovery-data.js"
+      - "idols-discovery-category.js"
+      - "scripts/yume-photo-harvest.cjs"
+      - "data/yume-photo-index.json"
+      - "data/yume-photo-report.json"
+      - ".github/workflows/yume-pages-manual-deploy.yml"
 permissions:
   contents: read
   pages: write
