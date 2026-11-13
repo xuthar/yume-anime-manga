@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "updated": "2026-11-13T07:09:02.405Z",
+  "updated": "2026-11-13T07:24:03.485Z",
   "coverage": {
     "sport": {
-      "photos": 113,
+      "photos": 115,
       "total": 299
     },
     "asia": {
-      "photos": 140,
+      "photos": 188,
       "total": 602
     },
     "japan": {
@@ -1696,6 +1696,26 @@
         "portraitClaimMatches": true,
         "checkedAt": "2026-11-12T05:51:01.071Z"
       }
+    },
+    "三浦璃来": {
+      "qid": "Q55456022",
+      "name": "三浦 璃来",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Riku_Miura_and_Ryuichi_Kihara_of_Japan_at_the_2026_Winter_Olympics_by_YantsImages_01_%28cropped2%29.jpg/500px-Riku_Miura_and_Ryuichi_Kihara_of_Japan_at_the_2026_Winter_Olympics_by_YantsImages_01_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Riku Miura and Ryuichi Kihara (JAP) 2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Riku%20Miura%20and%20Ryuichi%20Kihara%20(JAP)%202022.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "千葉百音": {
+      "qid": "Q60614872",
+      "name": "千葉 百音",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mone_Chiba_performing_her_free_skate_at_the_2024-25_Grand_Prix_Final.jpg/500px-Mone_Chiba_performing_her_free_skate_at_the_2024-25_Grand_Prix_Final.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Mone Chiba 2024 Grand Prix Final.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mone%20Chiba%202024%20Grand%20Prix%20Final.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     }
   },
   "asia": {
@@ -1822,8 +1842,10 @@
     "tw:tzuyu": {
       "qid": "Q20688219",
       "name": "Tzuyu",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_03.jpg/500px-20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_03.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Twice_in_Seattle_2026_-_TWICE._Tzuyu_%2855045325500%29_%28cropped%29.jpg/500px-Twice_in_Seattle_2026_-_TWICE._Tzuyu_%2855045325500%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_03.jpg/500px-20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_03.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
       "file": "20240305 Chou Tzuyu 周子瑜 02.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:20240305%20Chou%20Tzuyu%20%E5%91%A8%E5%AD%90%E7%91%9C%2002.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
@@ -1832,7 +1854,7 @@
     "tw:yehshuhua": {
       "qid": "Q55287305",
       "name": "Yeh Shuhua",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Shuhua_Yeh_portrait_at_TIFF_2026.jpg/500px-Shuhua_Yeh_portrait_at_TIFF_2026.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Shuhua_Yeh_portrait_at_TIFF_2026.jpg/500px-Shuhua_Yeh_portrait_at_TIFF_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
       "file": "Shuhua Yeh portrait at TIFF 2026.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Shuhua%20Yeh%20portrait%20at%20TIFF%202026.jpg",
@@ -1840,12 +1862,12 @@
       "verified": true
     },
     "hk:violetwong": {
-      "qid": "Q111800403",
+      "qid": "Q9088498",
       "name": "Violet Wong",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Violet_Wong_20260815.jpg/500px-Violet_Wong_20260815.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Violet_Wong_%28%E7%B4%AB%E8%98%BF%E8%98%AD%29_1%2C_Liangyou%2C_1927-11-30.jpg/500px-Violet_Wong_%28%E7%B4%AB%E8%98%BF%E8%98%AD%29_1%2C_Liangyou%2C_1927-11-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
-      "file": "Violet Wong 20260815.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Violet%20Wong%2020260815.jpg",
+      "file": "Violet Wong (紫蘿蘭) 1, Liangyou, 1927-11-30.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Violet%20Wong%20(%E7%B4%AB%E8%98%BF%E8%98%AD)%201%2C%20Liangyou%2C%201927-11-30.jpg",
       "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
       "verified": true
     },
@@ -1922,52 +1944,24 @@
     "kr:nayeon": {
       "qid": "Q22804243",
       "name": "Nayeon",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nayeon_in_November_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nayeon_251120_1.jpg/500px-Nayeon_251120_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [
-        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nayeon_in_November_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/220701_Nayeon%28%EB%82%98%EC%97%B0%29_of_Twice_MusicBank_Fancam.jpg/500px-220701_Nayeon%28%EB%82%98%EC%97%B0%29_of_Twice_MusicBank_Fancam.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       ],
       "file": "Nayeon in November 2025.png",
-      "source": "https://commons.wikimedia.org/wiki/File:Nayeon_in_November_2025.png",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "author": "TV10",
-      "credit": "https://youtube.com/watch?v=t1ZoaG9r2Xs",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 771,
-      "height": 1080,
-      "rightsCheckedAt": "2026-11-12T05:50:41.432Z",
-      "identityCheck": {
-        "qid": "Q22804243",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:Nayeon%20in%20November%202025.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:jeongyeon": {
       "qid": "Q25374501",
       "name": "Jeongyeon",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/41/TWICE_Jeongyeon_VETERAN_2_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "alternates": [
-        "https://upload.wikimedia.org/wikipedia/commons/4/41/TWICE_Jeongyeon_VETERAN_2_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-      ],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/260306_Twice_Hamilton_Jeongyeon_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_%EC%A0%95%EC%97%B0_%285%29_%28cropped%29.jpg/500px-260306_Twice_Hamilton_Jeongyeon_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_%EC%A0%95%EC%97%B0_%285%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
       "file": "TWICE Jeongyeon VETERAN 2 September 2024.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:TWICE_Jeongyeon_VETERAN_2_September_2024.jpg",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "author": "티비텐",
-      "credit": "트와이스(TWICE) 정연, 예뻐서 줌인 | 영화 '베테랑2' VIP 시사회",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 810,
-      "height": 1080,
-      "rightsCheckedAt": "2026-11-12T05:50:41.432Z",
-      "identityCheck": {
-        "qid": "Q25374501",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:TWICE%20Jeongyeon%20VETERAN%202%20September%202024.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:momo": {
       "name": "Momo",
@@ -2004,21 +1998,16 @@
       "rightsCheckedAt": "2026-11-12T05:50:41.432Z"
     },
     "kr:jihyo": {
+      "qid": "Q22774055",
       "name": "Jihyo",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Twice_in_Seattle_2026_-_TWICE._Jihyo_%2855044093797%29.jpg/960px-Twice_in_Seattle_2026_-_TWICE._Jihyo_%2855044093797%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "alternates": [],
-      "file": "Twice in Seattle 2026 - TWICE. Jihyo (55044093797).jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Twice_in_Seattle_2026_-_TWICE._Jihyo_(55044093797).jpg",
-      "license": "CC BY 4.0",
-      "verified": true,
-      "verifiedBy": "Nome della persona identificato nella categoria Commons del gruppo",
-      "validatedAt": "2026-11-08",
-      "author": "David Lee from Redmond, WA, USA",
-      "credit": "TWICE. Jihyo",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2925,
-      "height": 3656,
-      "rightsCheckedAt": "2026-11-12T05:50:41.432Z"
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/082726_Jihyo_at_The_Whoo_photocall_05.jpg/500px-082726_Jihyo_at_The_Whoo_photocall_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/082726_Jihyo_at_The_Whoo_photocall_05.jpg/500px-082726_Jihyo_at_The_Whoo_photocall_05.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Jihyo at Gucci Ancora on 05032024 (cropped).png",
+      "source": "https://commons.wikimedia.org/wiki/File:Jihyo%20at%20Gucci%20Ancora%20on%2005032024%20(cropped).png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:mina": {
       "name": "Mina",
@@ -2040,67 +2029,36 @@
     "kr:dahyun": {
       "qid": "Q22773838",
       "name": "Dahyun",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/260618_Kim_Dahyun.png/500px-260618_Kim_Dahyun.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [
-        "https://upload.wikimedia.org/wikipedia/commons/8/85/Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_%28cropped%29.png/500px-Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_%28cropped%29.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       ],
       "file": "Dahyun at press conference for You Are the Apple of My Eye 02 (cropped).png",
-      "source": "https://commons.wikimedia.org/wiki/File:Dahyun_at_press_conference_for_You_Are_the_Apple_of_My_Eye_02_(cropped).png",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "author": "https://www.youtube.com/@_TV10/videos",
-      "credit": "YouTube : https://www.youtube.com/watch?v=uN5W_aFFThE – View/save archived versions on archive.org",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 885,
-      "height": 1131,
-      "rightsCheckedAt": "2026-11-12T05:50:41.432Z",
-      "identityCheck": {
-        "qid": "Q22773838",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:Dahyun%20at%20press%20conference%20for%20You%20Are%20the%20Apple%20of%20My%20Eye%2002%20(cropped).png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:chaeyoung": {
+      "qid": "Q24043625",
       "name": "Chaeyoung",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Twice_in_Seattle_2026_-_TWICE._Chaeyoung_%2855045248379%29.jpg/960px-Twice_in_Seattle_2026_-_TWICE._Chaeyoung_%2855045248379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Twice_in_Seattle_2026_-_TWICE._Chaeyoung_%2855045248379%29.jpg/500px-Twice_in_Seattle_2026_-_TWICE._Chaeyoung_%2855045248379%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
-      "file": "Twice in Seattle 2026 - TWICE. Chaeyoung (55045248379).jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Twice_in_Seattle_2026_-_TWICE._Chaeyoung_(55045248379).jpg",
-      "license": "CC BY 4.0",
-      "verified": true,
-      "verifiedBy": "Nome della persona identificato nella categoria Commons del gruppo",
-      "validatedAt": "2026-11-08",
-      "author": "David Lee from Redmond, WA, USA",
-      "credit": "TWICE. Chaeyoung",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2611,
-      "height": 3264,
-      "rightsCheckedAt": "2026-11-12T05:50:41.432Z"
+      "file": "Chaeyoung at Gaon Awards red carpet on January 23, 2019.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chaeyoung%20at%20Gaon%20Awards%20red%20carpet%20on%20January%2023%2C%202019.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:tzuyu": {
       "qid": "Q20688219",
       "name": "Tzuyu",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/58/20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Twice_in_Seattle_2026_-_TWICE._Tzuyu_%2855045325500%29_%28cropped%29.jpg/500px-Twice_in_Seattle_2026_-_TWICE._Tzuyu_%2855045325500%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_03.jpg/500px-20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_03.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
       "file": "20240305 Chou Tzuyu 周子瑜 02.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:20240305_Chou_Tzuyu_%E5%91%A8%E5%AD%90%E7%91%9C_02.jpg",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "author": "티비텐",
-      "credit": "트와이스(TWICE) 쯔위, 치명적인 매력 | 「Gucci Ancora」 팝업 스토어 오픈 (4K)",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 483,
-      "height": 703,
-      "rightsCheckedAt": "2026-11-12T05:50:41.432Z",
-      "identityCheck": {
-        "qid": "Q20688219",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:20240305%20Chou%20Tzuyu%20%E5%91%A8%E5%AD%90%E7%91%9C%2002.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:yunah": {
       "name": "Yunah",
@@ -2154,21 +2112,14 @@
       "rightsCheckedAt": "2026-11-12T05:50:41.432Z"
     },
     "kr:wonhee": {
+      "qid": "Q126923760",
       "name": "Wonhee",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/251106_Lee_Wonhee_from_ILLIT.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/ILLIT_WONHEE_CHANEL_Photo_Call_%28cropped%29.png/500px-ILLIT_WONHEE_CHANEL_Photo_Call_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
-      "file": "251106 Lee Wonhee from ILLIT.png",
-      "source": "https://commons.wikimedia.org/wiki/File:251106_Lee_Wonhee_from_ILLIT.png",
-      "license": "CC BY 4.0",
-      "verified": true,
-      "verifiedBy": "Nome della persona identificato nella categoria Commons del gruppo",
-      "validatedAt": "2026-11-08",
-      "author": "theMEGASTUDY",
-      "credit": "YouTube : 아일릿과 메가패스의 만남이 왜이리 귀여워ㅣ2027 메가패스 광고 촬영 현장스케치 (Time: 64) – View/save archived versions on archive.org",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "width": 672,
-      "height": 840,
-      "rightsCheckedAt": "2026-11-12T05:50:41.432Z"
+      "file": "ILLIT WONHEE CHANEL Photo Call (cropped).png",
+      "source": "https://commons.wikimedia.org/wiki/File:ILLIT%20WONHEE%20CHANEL%20Photo%20Call%20(cropped).png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:iroha": {
       "name": "Iroha",
@@ -2564,25 +2515,14 @@
     "kr:ningning": {
       "qid": "Q101161499",
       "name": "Ningning",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ningning_at_Seoul_Discovery_Expedition_event_on_March_11%2C_2026_02.jpg/960px-Ningning_at_Seoul_Discovery_Expedition_event_on_March_11%2C_2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "alternates": [],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/03112026_Aespa_NingNing_Airport_Departure_16.png/500px-03112026_Aespa_NingNing_Airport_Departure_16.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ningning_at_Seoul_Discovery_Expedition_event_on_March_11%2C_2026.jpg/500px-Ningning_at_Seoul_Discovery_Expedition_event_on_March_11%2C_2026.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
       "file": "Ningning at Seoul Discovery Expedition event on March 11, 2026 02.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Ningning_at_Seoul_Discovery_Expedition_event_on_March_11,_2026_02.jpg",
-      "license": "CC BY 4.0",
-      "verified": true,
-      "author": "티비텐 TV10",
-      "credit": "YouTube – View/save archived versions on archive.org",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "width": 1434,
-      "height": 2157,
-      "rightsCheckedAt": "2026-11-12T05:50:41.870Z",
-      "identityCheck": {
-        "qid": "Q101161499",
-        "female": true,
-        "nameMatch": false,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:Ningning%20at%20Seoul%20Discovery%20Expedition%20event%20on%20March%2011%2C%202026%2002.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:yeji": {
       "name": "Yeji",
@@ -2636,21 +2576,14 @@
       "rightsCheckedAt": "2026-11-12T05:50:41.870Z"
     },
     "kr:chaeryeong": {
+      "qid": "Q60829936",
       "name": "Chaeryeong",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/241023_ITZY_Chaeryeong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/251110_Lee_Chaeryeong_from_ITZY.png/500px-251110_Lee_Chaeryeong_from_ITZY.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
       "file": "241023 ITZY Chaeryeong.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:241023_ITZY_Chaeryeong.jpg",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "verifiedBy": "Ritratto identificato su Wikimedia Commons",
-      "validatedAt": "2026-11-08",
-      "author": "K-POPIT 케이팝잇",
-      "credit": "https://m.youtube.com/watch?v=xRIHgC2ZVoM",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 836,
-      "height": 1170,
-      "rightsCheckedAt": "2026-11-12T05:50:41.870Z"
+      "source": "https://commons.wikimedia.org/wiki/File:241023%20ITZY%20Chaeryeong.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:yuna": {
       "name": "Yuna",
@@ -2704,21 +2637,14 @@
       "rightsCheckedAt": "2026-11-12T05:50:41.870Z"
     },
     "kr:sullyoon": {
+      "qid": "Q109307956",
       "name": "Sullyoon",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/05092026_NMIXX_SULLYOON_Seoul_Fashion_Week_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Sullyoon_in_September_2026.png/500px-Sullyoon_in_September_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
-      "file": "05092026 NMIXX SULLYOON Seoul Fashion Week 2.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:05092026_NMIXX_SULLYOON_Seoul_Fashion_Week_2.jpg",
-      "license": "CC BY 4.0",
-      "verified": true,
-      "verifiedBy": "Ritratto identificato su Wikimedia Commons",
-      "validatedAt": "2026-11-08",
-      "author": "K-POPIT 케이팝잇",
-      "credit": "https://www.youtube.com/watch?v=-PkbSmNJsKs",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "width": 709,
-      "height": 1079,
-      "rightsCheckedAt": "2026-11-12T05:50:41.870Z"
+      "file": "Sullyoon (설윤) 2024 06.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sullyoon%20(%EC%84%A4%EC%9C%A4)%202024%2006.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "kr:bae": {
       "name": "Bae",
@@ -3829,94 +3755,42 @@
     "sg:stefaniesun": {
       "qid": "Q51157",
       "name": "Stefanie Sun",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/2014_%E5%AD%AB%E7%87%95%E5%A7%BF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%E5%AD%99%E7%87%95%E5%A7%BF_echo%E5%9B%9E%E5%A3%B0%E5%98%89%E5%B9%B4%E5%8D%8E_%283%29.jpg/500px-%E5%AD%99%E7%87%95%E5%A7%BF_echo%E5%9B%9E%E5%A3%B0%E5%98%89%E5%B9%B4%E5%8D%8E_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
       "file": "2014 孫燕姿.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:2014_%E5%AD%AB%E7%87%95%E5%A7%BF.jpg",
-      "license": "CC BY-SA 3.0",
-      "verified": true,
-      "author": "User:Thejymw",
-      "credit": "Own work",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "width": 682,
-      "height": 922,
-      "rightsCheckedAt": "2026-11-12T05:50:42.751Z",
-      "identityCheck": {
-        "qid": "Q51157",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:2014%20%E5%AD%AB%E7%87%95%E5%A7%BF.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "sg:oliviaong": {
       "qid": "Q707223",
       "name": "Olivia Ong",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Olivia_Ong_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Olivia_Ong_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "alternates": [],
       "file": "Olivia Ong retouched.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Olivia_Ong_retouched.jpg",
-      "license": "CC BY-SA 2.0",
-      "verified": true,
-      "author": "胡志強 世界的大台中",
-      "credit": "This image has been extracted from another file",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "width": 216,
-      "height": 329,
-      "rightsCheckedAt": "2026-11-12T05:50:42.752Z",
-      "identityCheck": {
-        "qid": "Q707223",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:Olivia%20Ong%20retouched.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "sg:tanyachua": {
       "qid": "Q699063",
       "name": "Tanya Chua",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanya_Chua%27s_portrait.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Tanya_Chua_2022.jpg/500px-Tanya_Chua_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
       "file": "Tanya Chua's portrait.png",
-      "source": "https://commons.wikimedia.org/wiki/File:Tanya_Chua%27s_portrait.png",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "author": "CatchPlayMovies",
-      "credit": "YouTube : https://www.youtube.com/watch?v=lOrnAXIxQ0w – View/save archived versions on archive.org 【沉默的雙眼】Secret in Their Eyes 名人推薦蔡健雅篇 ~ 2015/11/20 真相大白",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 542,
-      "height": 613,
-      "rightsCheckedAt": "2026-11-12T05:50:42.752Z",
-      "identityCheck": {
-        "qid": "Q699063",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:Tanya%20Chua's%20portrait.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "ph:andreabrillantes": {
       "qid": "Q15148101",
       "name": "Andrea Brillantes",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Andrea_Brillantes_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Andrea_Brillantes_2022.jpg/500px-Andrea_Brillantes_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "alternates": [],
       "file": "Andrea Brillantes 2022.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Andrea_Brillantes_2022.jpg",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "author": "O/C Records",
-      "credit": "YouTube – View/save archived versions on archive.org",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 507,
-      "height": 679,
-      "rightsCheckedAt": "2026-11-12T05:50:42.752Z",
-      "identityCheck": {
-        "qid": "Q15148101",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea%20Brillantes%202022.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "cn:左婧媛": {
       "qid": "Q56411599",
@@ -4084,52 +3958,22 @@
     "vn:bichphuong": {
       "qid": "Q26921037",
       "name": "Bích Phương",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/B%C3%ADch_Ph%C6%B0%C6%A1ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "alternates": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/71/B%C3%ADch_Ph%C6%B0%C6%A1ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-      ],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/B%C3%ADch_Ph%C6%B0%C6%A1ng.png/500px-B%C3%ADch_Ph%C6%B0%C6%A1ng.png?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
       "file": "Bích Phương.png",
-      "source": "https://commons.wikimedia.org/wiki/File:B%C3%ADch_Ph%C6%B0%C6%A1ng.png",
-      "license": "CC BY 3.0",
-      "verified": true,
-      "author": "Galaxy Studio",
-      "credit": "YouTube : SHOWBIZ VIỆT TRẦM TRỒ TRƯỚC TRAILER PHIM ĐẤT RỪNG PHƯƠNG NAM - DỰ KIẾN KHỞI CHIẾU 20.10.2023 – View/save archived versions on archive.org",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "width": 918,
-      "height": 1129,
-      "rightsCheckedAt": "2026-11-12T05:50:43.193Z",
-      "identityCheck": {
-        "qid": "Q26921037",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:B%C3%ADch%20Ph%C6%B0%C6%A1ng.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "vn:phuongmychi": {
       "qid": "Q16158535",
       "name": "Phương Mỹ Chi",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg/960px-PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "alternates": [
-        "https://upload.wikimedia.org/wikipedia/commons/5/5d/PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-      ],
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg/500px-PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
       "file": "PHƯƠNG MỸ CHI 2023.10.18.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:PH%C6%AF%C6%A0NG_M%E1%BB%B8_CHI_2023.10.18.jpg",
-      "license": "CC BY-SA 4.0",
-      "verified": true,
-      "author": "Mickey Đại Phát",
-      "credit": "Own work",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "width": 1890,
-      "height": 2548,
-      "rightsCheckedAt": "2026-11-12T05:50:43.193Z",
-      "identityCheck": {
-        "qid": "Q16158535",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-12T05:51:01.071Z"
-      }
+      "source": "https://commons.wikimedia.org/wiki/File:PH%C6%AF%C6%A0NG%20M%E1%BB%B8%20CHI%202023.10.18.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     },
     "id:mutiaraazzahra": {
       "qid": "Q65214082",
@@ -4180,6 +4024,504 @@
         "portraitClaimMatches": true,
         "checkedAt": "2026-11-12T05:51:01.071Z"
       }
+    },
+    "kr:jennie": {
+      "qid": "Q26262599",
+      "name": "Jennie",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20260526_Jennie_Kim_04.jpg/500px-20260526_Jennie_Kim_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Jennie 2026 GDA 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jennie%202026%20GDA%201.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:rose": {
+      "qid": "Q27655344",
+      "name": "Rosé",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Blackpink_Ros%C3%A9_Rimowa_1.jpg/500px-Blackpink_Ros%C3%A9_Rimowa_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Blackpink Rosé Rimowa 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Blackpink%20Ros%C3%A9%20Rimowa%201.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:jisoo": {
+      "qid": "Q27655361",
+      "name": "Jisoo",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Jisoo_at_Boyfriend_on_Demand_press_conference_on_26022026_%2812%29.png/500px-Jisoo_at_Boyfriend_on_Demand_press_conference_on_26022026_%2812%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Jisoo at Boyfriend on Demand press conference on 26022026 (12).png",
+      "source": "https://commons.wikimedia.org/wiki/File:Jisoo%20at%20Boyfriend%20on%20Demand%20press%20conference%20on%2026022026%20(12).png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:seulgi": {
+      "qid": "Q15934116",
+      "name": "Seulgi",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kang_Seulgi_LONGCHAMP_2024.jpg/500px-Kang_Seulgi_LONGCHAMP_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kang_Seulgi_LONGCHAMP_2024.jpg/500px-Kang_Seulgi_LONGCHAMP_2024.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Kang Seul-gi at Coca-Cola Event on January 18, 2020 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kang%20Seul-gi%20at%20Coca-Cola%20Event%20on%20January%2018%2C%202020%2003.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:soyeon": {
+      "qid": "Q26707915",
+      "name": "Soyeon",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%284K%29_%28%EC%97%AC%EC%9E%90%29%EC%95%84%EC%9D%B4%EB%93%A4_%EC%86%8C%EC%97%B0%EC%9D%98_%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94_%EC%88%9C%EA%B0%84...%EC%A3%BC%EC%96%BC%EB%A6%AC_%EC%97%AC%EC%8B%A0_%EA%B0%95%EB%A6%BC_I_SOYEON_PhotoCall_03_%28cropped%29.png/500px-%284K%29_%28%EC%97%AC%EC%9E%90%29%EC%95%84%EC%9D%B4%EB%93%A4_%EC%86%8C%EC%97%B0%EC%9D%98_%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94_%EC%88%9C%EA%B0%84...%EC%A3%BC%EC%96%BC%EB%A6%AC_%EC%97%AC%EC%8B%A0_%EA%B0%95%EB%A6%BC_I_SOYEON_PhotoCall_03_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "0226 (여자)아이들 소연 포커스&세로캠, 2nd 미니앨범 'I made' 쇼케이스 포토타임 (derived).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:0226%20(%EC%97%AC%EC%9E%90)%EC%95%84%EC%9D%B4%EB%93%A4%20%EC%86%8C%EC%97%B0%20%ED%8F%AC%EC%BB%A4%EC%8A%A4%26%EC%84%B8%EB%A1%9C%EC%BA%A0%2C%202nd%20%EB%AF%B8%EB%8B%88%EC%95%A8%EB%B2%94%20'I%20made'%20%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4%20%ED%8F%AC%ED%86%A0%ED%83%80%EC%9E%84%20(derived).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:yuqi": {
+      "qid": "Q55287306",
+      "name": "Yuqi",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/20230630_Song_Yu-qi.jpg/500px-20230630_Song_Yu-qi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "20230630 Song Yu-qi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20230630%20Song%20Yu-qi.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:miyeon": {
+      "qid": "Q56259927",
+      "name": "Miyeon",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/082726_Miyeon_at_The_Whoo_photocall_03.jpg/500px-082726_Miyeon_at_The_Whoo_photocall_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Miyeon_at_Incheon_Airport_on_25022026_%288%29.png/500px-Miyeon_at_Incheon_Airport_on_25022026_%288%29.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "(G)I-DLE Airport Departure 2024 Miyeon waving hands.png",
+      "source": "https://commons.wikimedia.org/wiki/File:(G)I-DLE%20Airport%20Departure%202024%20Miyeon%20waving%20hands.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:minnie": {
+      "qid": "Q56761923",
+      "name": "Minnie",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Minnie_at_Owndays_popup_in_Plaza_Singapura_01_-_RSKY_-_20260611.jpg/500px-Minnie_at_Owndays_popup_in_Plaza_Singapura_01_-_RSKY_-_20260611.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "30072026 I-DLE MINNIE Airport Departure 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:30072026%20I-DLE%20MINNIE%20Airport%20Departure%201.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:shuhua": {
+      "qid": "Q55287305",
+      "name": "Shuhua",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Shuhua_Yeh_portrait_at_TIFF_2026.jpg/500px-Shuhua_Yeh_portrait_at_TIFF_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Shuhua Yeh portrait at TIFF 2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shuhua%20Yeh%20portrait%20at%20TIFF%202026.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:alishachinai": {
+      "qid": "Q2722967",
+      "name": "Alisha Chinai",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Alisha_Chinai_2009_-_still_64293_crop.jpg/500px-Alisha_Chinai_2009_-_still_64293_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Alisha Chinai 2009 - still 64293 crop.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Alisha%20Chinai%202009%20-%20still%2064293%20crop.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:shreyaghoshal": {
+      "qid": "Q2050788",
+      "name": "Shreya Ghoshal",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Shreya_Ghoshal_Behindwoods_Gold_Icons_Awards_2023_%28cropped%29.jpg/500px-Shreya_Ghoshal_Behindwoods_Gold_Icons_Awards_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Shreya Ghoshal Behindwoods Gold Icons Awards 2023 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shreya%20Ghoshal%20Behindwoods%20Gold%20Icons%20Awards%202023%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:nehakakkar": {
+      "qid": "Q14917099",
+      "name": "Neha Kakkar",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Neha_Kakkar_in_January_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "Neha Kakkar in January 2020.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Neha%20Kakkar%20in%20January%202020.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:sunidhichauhan": {
+      "qid": "Q2722933",
+      "name": "Sunidhi Chauhan",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sunidhi_Chauhan_performing_in_Delhi.jpg/500px-Sunidhi_Chauhan_performing_in_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Sunidhi Chauhan performing in Delhi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunidhi%20Chauhan%20performing%20in%20Delhi.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:tulsikumar": {
+      "qid": "Q7852394",
+      "name": "Tulsi Kumar",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tulsi_Kumar_in_Screen_Awards_2019_%285%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "Tulsi Kumar in Screen Awards 2019 (5) (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tulsi%20Kumar%20in%20Screen%20Awards%202019%20(5)%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:palakmuchhal": {
+      "qid": "Q7126627",
+      "name": "Palak Muchhal",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Palak_Muchhal_filmfare.jpg/500px-Palak_Muchhal_filmfare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Palak Muchhal filmfare.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Palak%20Muchhal%20filmfare.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:neetimohan": {
+      "qid": "Q6986984",
+      "name": "Neeti Mohan",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Neeti_Mohan_attends_Shakti_Mohan%E2%80%99s_Nritya_Shakti_celebrations_for_World_Dance_Day_%2804%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "Neeti Mohan attends Shakti Mohan’s Nritya Shakti celebrations for World Dance Day (04) (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Neeti%20Mohan%20attends%20Shakti%20Mohan%E2%80%99s%20Nritya%20Shakti%20celebrations%20for%20World%20Dance%20Day%20(04)%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:jasleenroyal": {
+      "qid": "Q18359064",
+      "name": "Jasleen Royal",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jasleen_Royal_performing_in_Rajasthan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "Jasleen Royal performing in Rajasthan.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jasleen%20Royal%20performing%20in%20Rajasthan.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:aasthagill": {
+      "qid": "Q21064202",
+      "name": "Aastha Gill",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Aastha_Gill_Live_Show.jpg/500px-Aastha_Gill_Live_Show.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Aastha Gill Live Show.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aastha%20Gill%20Live%20Show.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:rajakumari": {
+      "qid": "Q26251259",
+      "name": "Raja Kumari",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Raja_Kumari_2019_by_Glenn_Francis.jpg/500px-Raja_Kumari_2019_by_Glenn_Francis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Raja Kumari 2019 by Glenn Francis.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Raja%20Kumari%202019%20by%20Glenn%20Francis.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:ananyabirla": {
+      "qid": "Q28529974",
+      "name": "Ananya Birla",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/AB-0408_copy.jpg/500px-AB-0408_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Ananya Birla (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ananya%20Birla%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:dhvanibhanushali": {
+      "qid": "Q61896827",
+      "name": "Dhvani Bhanushali",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Dhvani_Bhanushali_snapped_in_Khar_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "Dhvani Bhanushali snapped in Khar (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dhvani%20Bhanushali%20snapped%20in%20Khar%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:aisharetno": {
+      "qid": "Q106554714",
+      "name": "Aisha Retno",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Aisha_Retno_at_Siti_Nurhaliza%27s_30th_Anniversary_Event_03.jpg/500px-Aisha_Retno_at_Siti_Nurhaliza%27s_30th_Anniversary_Event_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Aisha_Retno_at_Siti_Nurhaliza%27s_30th_Anniversary_Event_03_%28cropped%29.jpg/500px-Aisha_Retno_at_Siti_Nurhaliza%27s_30th_Anniversary_Event_03_%28cropped%29.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Aisha Retno at Siti Nurhaliza's 30th Anniversary Event 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aisha%20Retno%20at%20Siti%20Nurhaliza's%2030th%20Anniversary%20Event%2003.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "hk:marifeyau": {
+      "qid": "Q110191507",
+      "name": "Marife Yau",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Marf_Yau_20251007.jpg/500px-Marf_Yau_20251007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Marf@全民造星IV總決賽 am730.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marf%40%E5%85%A8%E6%B0%91%E9%80%A0%E6%98%9FIV%E7%B8%BD%E6%B1%BA%E8%B3%BD%20am730.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:fishleong": {
+      "qid": "Q707199",
+      "name": "Fish Leong",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fish_Leong_20220215.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/Fish_Leong_%40Chengdu-3.JPG?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+      ],
+      "file": "Fish Leong 20220215.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fish%20Leong%2020220215.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:zianazain": {
+      "qid": "Q6830249",
+      "name": "Ziana Zain",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ziana_Zain_on_MeleTOP.jpg/500px-Ziana_Zain_on_MeleTOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ziana_Zain_on_MeleTOP.jpg/500px-Ziana_Zain_on_MeleTOP.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Ziana Zain (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ziana%20Zain%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:dayangnurfaizah": {
+      "qid": "Q5243062",
+      "name": "Dayang Nurfaizah",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Dayang_Nurfaizah_performs_on_MeleTOP.jpg/500px-Dayang_Nurfaizah_performs_on_MeleTOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Dayang_Nurfaizah_performs_on_MeleTOP.jpg/500px-Dayang_Nurfaizah_performs_on_MeleTOP.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Dayang Nurfaizah.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dayang%20Nurfaizah.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "np:anjupanta": {
+      "qid": "Q4765873",
+      "name": "Anju Panta",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Anju_Panta_in_Sydney_2014.jpg/500px-Anju_Panta_in_Sydney_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Anju Panta in Sydney 2014.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Anju%20Panta%20in%20Sydney%202014.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:najwalatif": {
+      "qid": "Q12698693",
+      "name": "Najwa Latif",
+      "photo": "https://upload.wikimedia.org/wikipedia/ms/8/8e/NajwaLatif%28SemiMM26%29.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": null,
+      "source": "https://en.wikipedia.org/wiki/Najwa_Latif",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "np:bartikaeamrai": {
+      "qid": "Q60256891",
+      "name": "Bartika Eam Rai",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bartika_Eam_Rai.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "Bartika Eam Rai.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Bartika%20Eam%20Rai.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "np:melinarai": {
+      "qid": "Q31765055",
+      "name": "Melina Rai",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Melina_Rai_%28Singer%29_%28cropped%29.jpg/500px-Melina_Rai_%28Singer%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Melina Rai (Singer).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Melina%20Rai%20(Singer).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:erniezakri": {
+      "qid": "Q31186910",
+      "name": "Ernie Zakri",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ernie_Zakri_%285%29.jpg/500px-Ernie_Zakri_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ernie_Zakri_%284%29.jpg/500px-Ernie_Zakri_%284%29.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Ernie Zakri (5).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ernie%20Zakri%20(5).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:ainaabdul": {
+      "qid": "Q21282897",
+      "name": "Aina Abdul",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aina_Abdul_-_ANWAA_3.0_2023.jpg/500px-Aina_Abdul_-_ANWAA_3.0_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aina_Abdul_-_ANWAA_3.0_2023.jpg/500px-Aina_Abdul_-_ANWAA_3.0_2023.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Aina Abdul PTTI.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Aina%20Abdul%20PTTI.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "my:amiraothman": {
+      "qid": "Q25484769",
+      "name": "Amira Othman",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Amira_Othman_on_MeleTOP.jpg/500px-Amira_Othman_on_MeleTOP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Amira_Othman_on_MeleTOP.jpg/500px-Amira_Othman_on_MeleTOP.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      ],
+      "file": "Amira Othman on MeleTOP.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amira%20Othman%20on%20MeleTOP.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "in:spandanchaturvedi": {
+      "qid": "Q18097843",
+      "name": "Spandan Chaturvedi",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Spandan_Chaturvedi_as_Chakor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "Spandan Chaturvedi as Chakor.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Spandan%20Chaturvedi%20as%20Chakor.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:eunchae": {
+      "qid": "Q111544444",
+      "name": "Eunchae",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hong_Eunchae_of_Le_Sserafim%2C_January_10%2C_2025.png/500px-Hong_Eunchae_of_Le_Sserafim%2C_January_10%2C_2025.png?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "221013 Hong Eun Chae (LE SSERAFIM) Airport Departure.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:221013%20Hong%20Eun%20Chae%20(LE%20SSERAFIM)%20Airport%20Departure.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "kr:haeun": {
+      "qid": "Q20944949",
+      "name": "Haeun",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Na_Haeun%2C_2026.jpg/500px-Na_Haeun%2C_2026.jpg?utm_source=ko.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Na Haeun, 2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Na%20Haeun%2C%202026.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "th:lovepattranite": {
+      "qid": "Q110525808",
+      "name": "Love Pattranite",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pattranite_2024-11-27.png/500px-Pattranite_2024-11-27.png?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Pattranite 2024-11-27.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Pattranite%202024-11-27.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "th:filmrachanun": {
+      "qid": "Q106478544",
+      "name": "Film Rachanun",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Rachanun_Mahawan_at_Seoul_International_Drama_Awards%2C_2_October_2025_04.png/500px-Rachanun_Mahawan_at_Seoul_International_Drama_Awards%2C_2_October_2025_04.png?utm_source=th.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": null,
+      "source": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:hoangduyen": {
+      "qid": "Q111511464",
+      "name": "Hoàng Duyên",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HO%C3%80NG_DUY%C3%8AN_-_THE_OPEN_DAY_2024_-_P9_%28cropped%29.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "alternates": [],
+      "file": "HOÀNG DUYÊN - THE OPEN DAY 2024 - P9 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:HO%C3%80NG%20DUY%C3%8AN%20-%20THE%20OPEN%20DAY%202024%20-%20P9%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:lambaongoc": {
+      "qid": "Q127642750",
+      "name": "Lâm Bảo Ngọc",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/L%C3%82M_B%E1%BA%A2O_NG%E1%BB%8CC_P1.png/500px-L%C3%82M_B%E1%BA%A2O_NG%E1%BB%8CC_P1.png?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "LÂM BẢO NGỌC P1.png",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%82M%20B%E1%BA%A2O%20NG%E1%BB%8CC%20P1.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:quynhanhshyn": {
+      "qid": "Q134874920",
+      "name": "Quỳnh Anh Shyn",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/QU%E1%BB%B2NH_ANH_SHYN_P2.jpg/500px-QU%E1%BB%B2NH_ANH_SHYN_P2.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "QUỲNH ANH SHYN P2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:QU%E1%BB%B2NH%20ANH%20SHYN%20P2.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:anhsangaza": {
+      "qid": "Q138007344",
+      "name": "Ánh Sáng AZA",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%C3%81nh_S%C3%A1ng_AZA.png/500px-%C3%81nh_S%C3%A1ng_AZA.png?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Ánh Sáng AZA.png",
+      "source": "https://commons.wikimedia.org/wiki/File:%C3%81nh%20S%C3%A1ng%20AZA.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:khanhlinh": {
+      "qid": "Q10779609",
+      "name": "Khánh Linh",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/KH%C3%81NH_LINH_2020.jpg/500px-KH%C3%81NH_LINH_2020.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "KHÁNH LINH 2020.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:KH%C3%81NH%20LINH%202020.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:khongtuquynh": {
+      "qid": "Q4353037",
+      "name": "Khổng Tú Quỳnh",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Kh%E1%BB%95ng_T%C3%BA_Qu%E1%BB%B3nh_LUNAS.png/500px-Kh%E1%BB%95ng_T%C3%BA_Qu%E1%BB%B3nh_LUNAS.png?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Khong Tu Quynh 2023.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Khong%20Tu%20Quynh%202023.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:ninhduonglanngoc": {
+      "qid": "Q29575165",
+      "name": "Ninh Dương Lan Ngọc",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Ninh_D%C6%B0%C6%A1ng_Lan_Ng%E1%BB%8Dc_2024.jpg/500px-Ninh_D%C6%B0%C6%A1ng_Lan_Ng%E1%BB%8Dc_2024.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Ninh Dương Lan Ngọc 2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc%202024.jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:thaonhile": {
+      "qid": "Q61132594",
+      "name": "Thảo Nhi Lê",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Thao_Nhi_le.jpg/500px-Thao_Nhi_le.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "Thảo Nhi Lê.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Th%E1%BA%A3o%20Nhi%20L%C3%AA.png",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:trangphap": {
+      "qid": "Q119665155",
+      "name": "Trang Pháp",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhuangfa2026.jpg/500px-Zhuangfa2026.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "TRANG PHÁP P3 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:TRANG%20PH%C3%81P%20P3%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
+    },
+    "vn:dieplamanh": {
+      "qid": "Q130687017",
+      "name": "Diệp Lâm Anh",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/DI%E1%BB%86P_L%C3%82M_ANH_-_FAN_BOOTH_1_%28cropped%29.jpg/500px-DI%E1%BB%86P_L%C3%82M_ANH_-_FAN_BOOTH_1_%28cropped%29.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "alternates": [],
+      "file": "DIỆP LÂM ANH - FAN BOOTH 2 (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:DI%E1%BB%86P%20L%C3%82M%20ANH%20-%20FAN%20BOOTH%202%20(cropped).jpg",
+      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "verified": true
     }
   },
   "japan": {
