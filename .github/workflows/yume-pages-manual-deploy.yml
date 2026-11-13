@@ -1,6 +1,9 @@
 name: Yume · deploy static website
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Yume verified portrait index"]
+    types: [completed]
   push:
     branches: [main]
     paths:
@@ -19,6 +22,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     name: Publish latest Yume website
     environment:
       name: github-pages
