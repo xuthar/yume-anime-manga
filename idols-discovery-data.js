@@ -38,6 +38,10 @@ const sources={
  av2026:{label:'AV New Faces 2026 · nomi d’arte per debutto',url:'https://av.zetsubou.org/newface/list-2026/',kind:'repertorio editoriale debutti da confermare'},
   adult:{label:'Oshidols · directory JAV',url:'https://oshidols.com/',kind:'catalogo editoriale'}
 };
+Object.assign(sources,{
+ fruitzipper:{label:'FRUITS ZIPPER · profili e social membri',url:'https://kawaiilab.asobisystem.com/news/2/',kind:'agenzia ufficiale'},
+ candytune:{label:'CANDY TUNE · profili e social membri',url:'https://kawaiilab.asobisystem.com/news/2/',kind:'agenzia ufficiale'}
+});
 const groups=[
  ['gravure','shueisha',`吉井明子;小野真弓;上田操;水原ゆき;井口裕香;長谷川朋加;出口亜梨沙;宮前真樹;小貫莉奈;宮部のぞみ;坂巻有紗;松本麗世;小池里奈;安藤奈々子;長谷川かすみ;小寺結花;アンジェラ芽衣;宮澤雪;野崎萌香;松川星;加藤玲菜;新堂円子;すずら;冴島なな;宮越虹海;清埜きり;菊地姫奈;眞木花;月山鈴音;星名美津紀;入間ゆい;豊島心桜;藤嶌果歩;七瀬なな;溝端葵;西澤由夏;天羽希純;渡邊渚;山岡雅弥;石田千穂;佐藤綺星;小柳歩`],
  ['gravure','youngjump',`東雲うみ;みゃこ;山本栞;髙野真央;桃田うた;月城莉奈;谷口彩菜;山田あい;蓬莱舞;櫻井おとの;旭萌花;鶴田りお;望月風花;駒井優空;黒江こはる;みことね;小柴あいり;水野Reta;稲光亜依;宮藤あどね;Märmi;姫野ひなの;沖玲萌;宮﨑想乃;和内璃乃;美登りみ;由良朱合;仙北谷ハンナ;清埜きり;璃音;十味;緑川希星;片田陽依;豊島心桜;野村るな;ブラダ;森脇梨々夏;大原円香;織莉叶;林美希;宮川みやび;榎本彩乃;佐々木ちょこ;音琴なるみ;東条澪;倉田アンナ`],
@@ -47,6 +51,8 @@ const groups=[
  ['jav','linx',`谷田かりな;長谷川つきの;星乃莉子;槻本あすか;城山若菜;風谷みれい;月元史奈;湊本そら;東條なつ;柏木雫;沙月恵奈;柴崎はる;一乃あおい;架乃ゆら;結城花乃羽;水川スミレ;泉りおん;藍瀬ミナ;市来まひろ;真木今日子;逢見リカ;葵百合香;三池小春;宇流木さらら;妃ひかり;広瀬なるみ;小鳥遊まりん;高藤なほの;平良あゆな;高梨有紗;藤咲紗英;小林恵里;原嶋かなえ`],
  ['jav','tpowers',`AIKA;蒼乃美月;晶エリー;朝比奈紗良;あさみん;明日葉みつは;足立める;天海つばさ;天宮花南;雨宮ひびき;有岡みう;安藤もあ;泉ももか;市川まさみ;今井栞菜;羽咲みはる;羽佐美めい;碓井せりな;大浦真奈美;大槻ひびき;小笠原菜乃;推川ゆうり;織田真子;小野坂ゆいか;かすみりさ;佳苗るか;神菜美まい;金森聖良;鹿野あも;河合あすな;河北彩花;菊乃らん;希月あまね;君島みお;九野ひなの;倉木華;胡桃さくら;黒咲華;五条恋;小鈴みかん;小春;小日向みゆう;小湊よつ葉;古村えりか;桜空もも;里美ゆりあ;佐山愛;白石るな;鈴の家りん;涼森れむ;鷲見すみれ;皇ゆず;瀧本雫葉;谷あづさ;月瀬りりあ;月野江すい;辻井ほのか;椿りょう;紬りお;都﨑あやめ;長浜みつり;仲村みう;渚あいか;夏目彩春;七嶋舞;七ツ森りり;成瀬心美;成実まあり;虹村ゆみ;乃木絢愛;野々浦暖;波多野結衣;初川みなみ;花咲ゆら;花柳杏奈;早瀬ありす;早田菜々子;羽月乃蒼;ひなたなつ;姫森あむ;星あんず;星宮菜奈;穂村あいね;水谷心音;皆野あい;MINAMO;宮澤めぐ;宮下華奈;宮島めい;宮野ゆかな;めぐり;杜乃いつは;森沢かな;八掛うみ;雪美えみる;楪カレン;結月りあ;吉高寧々;依本しおり;ローレン花恋`],
  ['jav','av2026',`希望みう;枢木シエル;八神七々実;秋瀬りり;神田真弥;桜羽潤;宝生みさと;伊奈美いずな;里美百音;黒木りあ;白石こはる;上原あゆな;栞名結;秋菜;宇野こはる;江南美沙子;波坂しのぶ;月城ゆら;宮上唯依花;新堂かなえ;鷹宮麗華;鈴北梨乃;矢野あいみ;白川美玲;大野瑞季;山田さち;涼乃愛;美琴千緒;西田瑞希;柏木雫;羽田カイラ;秋月夕;山田ゆり;永崎麗香;朝比奈紗良;二階堂美雨;大門レヤ;朝羽穂乃;青峰こころ;白間兎花;桧山しずく;望月円;井上もも;国仲ありな;七瀬栞;月城るな;与田ひかげ;小泉玖美;高星なぎさ;結川ひより;林芽依;紫月みやび;生田さな;四季島澪;四季島渚;豊田怜花;七瀬川遥;湊音かれん;天音るな;佐野秋帆;東雲つばき;小泉楓;重盛れいか;香川あんず;溝端恋;青坂あおい;白鳥怜;水川菜月;凪咲あおい`],
+ ['music','fruitzipper',`月足 天音;鎮西 寿々歌;櫻井 優衣;仲川 瑠夏;真中 まな;松本 かれん;早瀬 ノエル`],
+ ['music','candytune',`福山梨乃;桐原美月;南なつ;小川奈々子;立花琴未;宮野静;村川緋杏`],
  ['music','me_i',`MIU;MOMONA;AYANE;KEIKO;RINON;SUZU;TSUZUMI`],
  ['music','akb',`Saho Iwatate / 岩立沙穂;Seina Fukuoka / 福岡聖菜;Yui Oguri / 小栗有以;Yurina Gyoten / 行天優莉奈;Narumi Kuranoo / 倉野尾成美;Hiyuka Sakagawa / 坂川陽香;Miu Shitao / 下尾みう;Ayane Takahashi / 髙橋彩音;Remi Tokunaga / 徳永羚海;Serika Nagano / 永野芹佳;Haruna Hashimoto / 橋本陽菜;Erii Chiba / 千葉恵里;Haruka Kurosu / 黒須遥香;Ayami Nagatomo / 長友彩海;Orin Muto / 武藤小麟;Mizuki Yamauchi / 山内瑞葵;Suzuha Yamane / 山根涼羽;Yuki Ota / 太田有紀;Airi Sato / 佐藤綺星;Eriko Hashimoto / 橋本恵理子;Nozomi Hatakeyama / 畠山希美;Yuki Hirata / 平田侑希;Moka Hotei / 布袋百椛;Mayuu Masai / 正鋳真優;Miyuu Mizushima / 水島美結;Sora Yamazaki / 山﨑空;Yuna Akiyama / 秋山由奈;Sae Arai / 新井彩永;Kasumi Kudo / 工藤華純;Hinano Kubo / 久保姫菜乃;Yumemi Sako / 迫由芽実;Kohina Narita / 成田香姫奈;Azuki Yagi / 八木愛月;Yui Yamaguchi / 山口結愛;Momoka Ito / 伊藤百花;Kairi Okumoto / 奥本カイリ;Yui Kawamura / 川村結衣;Saki Oga / 大賀彩姫;Saki Kondo / 近藤沙樹;Hinata Maruyama / 丸山ひなた;Mao Takahashi / 髙橋舞桜;Sayuri Tanaka / 田中沙友利;Ema Makito / 牧戸愛茉;Yu Morikawa / 森川優;Kiko Watanabe / 渡邉葵心;Yuna Oonishi / 大西ゆな;Momoka Hasegawa / 長谷川百々花;Izumi Maeda / 前田衣澄;Rinoa Yamauchi / 山内利乃明`],
  ['music','ilife',`あいす;心花りり;若葉のあ;虹羽みに;福丸うさ;小熊まむ;空詩かれん;純嶺みき;真守みゅう`],
