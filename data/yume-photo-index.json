@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-13T08:08:28.217Z",
+  "updated": "2026-11-13T08:55:29.370Z",
   "coverage": {
     "sport": {
       "photos": 129,
@@ -11,8 +11,8 @@
       "total": 602
     },
     "japan": {
-      "photos": 82,
-      "total": 477
+      "photos": 89,
+      "total": 491
     },
     "global": {
       "photos": 6,
@@ -9156,6 +9156,167 @@
         "nameMatch": true,
         "portraitClaimMatches": true,
         "checkedAt": "2026-11-13T08:08:25.176Z"
+      }
+    },
+    "月足 天音": {
+      "qid": "Q60806814",
+      "name": "月足 天音",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/FRUITS%20ZIPPER%20%E6%9C%88%E8%B6%B3%20%E5%A4%A9%E9%9F%B3.png",
+      "alternates": [],
+      "file": "FRUITS ZIPPER 月足 天音.png",
+      "source": "https://commons.wikimedia.org/wiki/File:FRUITS%20ZIPPER%20%E6%9C%88%E8%B6%B3%20%E5%A4%A9%E9%9F%B3.png",
+      "license": "CC BY 3.0",
+      "verified": true,
+      "author": "X-Bomber Thailand",
+      "credit": "Still from FRUITS ZIPPER interview at JAPAN EXPO THAILAND 2024; individual crop by Angryjoe1111.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 330,
+      "height": 507,
+      "rightsCheckedAt": "2026-11-13T08:55:29.370Z",
+      "identityCheck": {
+        "qid": "Q60806814",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:55:29.370Z"
+      }
+    },
+    "鎮西 寿々歌": {
+      "qid": "Q24873911",
+      "name": "鎮西 寿々歌",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/FRUITS%20ZIPPER%20%E9%8E%AE%E8%A5%BF%20%E5%AF%BF%E3%80%85%E6%AD%8C.png",
+      "alternates": [],
+      "file": "FRUITS ZIPPER 鎮西 寿々歌.png",
+      "source": "https://commons.wikimedia.org/wiki/File:FRUITS%20ZIPPER%20%E9%8E%AE%E8%A5%BF%20%E5%AF%BF%E3%80%85%E6%AD%8C.png",
+      "license": "CC BY 3.0",
+      "verified": true,
+      "author": "X-Bomber Thailand",
+      "credit": "Still from FRUITS ZIPPER interview at JAPAN EXPO THAILAND 2024; individual crop by Angryjoe1111.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 418,
+      "height": 628,
+      "rightsCheckedAt": "2026-11-13T08:55:29.370Z",
+      "identityCheck": {
+        "qid": "Q24873911",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:55:29.370Z"
+      }
+    },
+    "櫻井 優衣": {
+      "qid": "Q112239160",
+      "name": "櫻井 優衣",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/65/FRUITS%20ZIPPER%20%E6%AB%BB%E4%BA%95%20%E5%84%AA%E8%A1%A3.png",
+      "alternates": [],
+      "file": "FRUITS ZIPPER 櫻井 優衣.png",
+      "source": "https://commons.wikimedia.org/wiki/File:FRUITS%20ZIPPER%20%E6%AB%BB%E4%BA%95%20%E5%84%AA%E8%A1%A3.png",
+      "license": "CC BY 3.0",
+      "verified": true,
+      "author": "X-Bomber Thailand",
+      "credit": "Still from FRUITS ZIPPER interview at JAPAN EXPO THAILAND 2024; individual crop by Angryjoe1111.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 343,
+      "height": 558,
+      "rightsCheckedAt": "2026-11-13T08:55:29.370Z",
+      "identityCheck": {
+        "qid": "Q112239160",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:55:29.370Z"
+      }
+    },
+    "仲川 瑠夏": {
+      "qid": "Q118696640",
+      "name": "仲川 瑠夏",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/FRUITS%20ZIPPER%20%E4%BB%B2%E5%B7%9D%20%E7%91%A0%E5%A4%8F.png",
+      "alternates": [],
+      "file": "FRUITS ZIPPER 仲川 瑠夏.png",
+      "source": "https://commons.wikimedia.org/wiki/File:FRUITS%20ZIPPER%20%E4%BB%B2%E5%B7%9D%20%E7%91%A0%E5%A4%8F.png",
+      "license": "CC BY 3.0",
+      "verified": true,
+      "author": "X-Bomber Thailand",
+      "credit": "Still from FRUITS ZIPPER interview at JAPAN EXPO THAILAND 2024; individual crop by Angryjoe1111.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 338,
+      "height": 531,
+      "rightsCheckedAt": "2026-11-13T08:55:29.370Z",
+      "identityCheck": {
+        "qid": "Q118696640",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:55:29.370Z"
+      }
+    },
+    "真中 まな": {
+      "qid": "Q123405597",
+      "name": "真中 まな",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/FRUITS%20ZIPPER%20%E7%9C%9F%E4%B8%AD%20%E3%81%BE%E3%81%AA.png",
+      "alternates": [],
+      "file": "FRUITS ZIPPER 真中 まな.png",
+      "source": "https://commons.wikimedia.org/wiki/File:FRUITS%20ZIPPER%20%E7%9C%9F%E4%B8%AD%20%E3%81%BE%E3%81%AA.png",
+      "license": "CC BY 3.0",
+      "verified": true,
+      "author": "X-Bomber Thailand",
+      "credit": "Still from FRUITS ZIPPER interview at JAPAN EXPO THAILAND 2024; individual crop by Angryjoe1111.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 408,
+      "height": 642,
+      "rightsCheckedAt": "2026-11-13T08:55:29.370Z",
+      "identityCheck": {
+        "qid": "Q123405597",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:55:29.370Z"
+      }
+    },
+    "松本 かれん": {
+      "qid": "Q124285239",
+      "name": "松本 かれん",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/FRUITS%20ZIPPER%20%E6%9D%BE%E6%9C%AC%20%E3%81%8B%E3%82%8C%E3%82%93.png",
+      "alternates": [],
+      "file": "FRUITS ZIPPER 松本 かれん.png",
+      "source": "https://commons.wikimedia.org/wiki/File:FRUITS%20ZIPPER%20%E6%9D%BE%E6%9C%AC%20%E3%81%8B%E3%82%8C%E3%82%93.png",
+      "license": "CC BY 3.0",
+      "verified": true,
+      "author": "X-Bomber Thailand",
+      "credit": "Still from FRUITS ZIPPER interview at JAPAN EXPO THAILAND 2024; individual crop by Angryjoe1111.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 387,
+      "height": 518,
+      "rightsCheckedAt": "2026-11-13T08:55:29.370Z",
+      "identityCheck": {
+        "qid": "Q124285239",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:55:29.370Z"
+      }
+    },
+    "早瀬 ノエル": {
+      "qid": "Q124479796",
+      "name": "早瀬 ノエル",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/FRUITS%20ZIPPER%20%E6%97%A9%E7%80%AC%20%E3%83%8E%E3%82%A8%E3%83%AB.png",
+      "alternates": [],
+      "file": "FRUITS ZIPPER 早瀬 ノエル.png",
+      "source": "https://commons.wikimedia.org/wiki/File:FRUITS%20ZIPPER%20%E6%97%A9%E7%80%AC%20%E3%83%8E%E3%82%A8%E3%83%AB.png",
+      "license": "CC BY 3.0",
+      "verified": true,
+      "author": "X-Bomber Thailand",
+      "credit": "Still from FRUITS ZIPPER interview at JAPAN EXPO THAILAND 2024; individual crop by Angryjoe1111.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "width": 358,
+      "height": 525,
+      "rightsCheckedAt": "2026-11-13T08:55:29.370Z",
+      "identityCheck": {
+        "qid": "Q124479796",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:55:29.370Z"
       }
     }
   },
