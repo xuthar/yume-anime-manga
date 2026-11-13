@@ -239,6 +239,12 @@ async function main(){
  await collectSearch();
  console.log('All candidate Wikidata identities: '+candidates.size);
  await resolveEntities();
+ // Normalize Commons thumbnail hosts to the broadly compatible upload.wikimedia.org CDN.
+ const normalizePhotoUrl=value=>typeof value==='string'?value.replace(/^https:\/\/thumb\.wikimedia\.org\//i,'https://upload.wikimedia.org/'):value;
+ for(const section of ['sport','asia','japan','global'])for(const record of Object.values(out[section]||{})){
+  if(record.photo)record.photo=normalizePhotoUrl(record.photo);
+  if(Array.isArray(record.alternates))record.alternates=record.alternates.map(normalizePhotoUrl)
+ }
  const coverage={};
  for(const kind of ['sport','asia','japan'])coverage[kind]={photos:Object.keys(out[kind]).length,total:stats[kind]};
  out.coverage={...(old.coverage||{}),...coverage,global:{photos:Object.keys(out.global||{}).length,total:Object.keys(out.global||{}).length,notes:'International Young Stars photographs retained from the curated photo index.'}};
