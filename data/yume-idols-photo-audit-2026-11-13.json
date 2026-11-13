@@ -1,0 +1,48 @@
+{
+  "generated": "2026-11-13T07:44:20.975Z",
+  "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
+  "summary": {
+    "records": 376,
+    "recordsWithImage": 376,
+    "commonsFilesLive": 375,
+    "commonsFilesMissing": 0,
+    "recordsMissingLicenseMetadata": 0,
+    "recordsMissingAuthorMetadata": 0,
+    "nonReusableOrUnclassifiedLicenses": 0,
+    "wikidataRelationsChecked": 269,
+    "wikidataIdentityReviews": 2,
+    "directP18PhotoMatches": 239,
+    "imageUrlsChecked": 364,
+    "imageUrlsResponding": 148
+  },
+  "limitations": [
+    "Profiles without indexed portraits are not represented in this file-level audit.",
+    "A successful HTTP response does not prove a photograph visually depicts its named subject.",
+    "Identity is supported by Wikidata or a manually recorded Commons category/file source; uncertain matches are not auto-added."
+  ],
+  "issues": [
+    {
+      "section": "asia",
+      "name": "Najwa Latif",
+      "kind": "portrait-file-unknown"
+    },
+    {
+      "section": "asia",
+      "name": "Film Rachanun",
+      "qid": "Q106478544",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    },
+    {
+      "section": "japan",
+      "name": "Yokyu-n",
+      "qid": "Q11370644",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    }
+  ]
+}
