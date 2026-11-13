@@ -71,8 +71,10 @@ function titlesFor(p){
 async function collectWiki(){
  const langs=new Map();
  for(const p of entries){
-  const lang=p.kind==='sport'||p.kind==='japan'?'ja':alphabet[p.country]||'en';
-  for(const title of titlesFor(p)){
+  const primary=p.kind==='sport'||p.kind==='japan'?'ja':alphabet[p.country]||'en';
+  // Search both the person's regional Wikipedia and English Wikipedia. The
+  // resulting page must still resolve to a matching, verified Wikidata item.
+  for(const lang of new Set([primary,'en']))for(const title of titlesFor(p)){
    if(!langs.has(lang))langs.set(lang,new Map());
    const key=norm(title);
    if(!langs.get(lang).has(key))langs.get(lang).set(key,{title,profiles:new Set()});
