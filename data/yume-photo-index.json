@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-11-13T08:55:29.370Z",
+  "updated": "2026-11-13T09:04:00.000Z",
   "coverage": {
     "sport": {
       "photos": 129,
@@ -11,7 +11,7 @@
       "total": 602
     },
     "japan": {
-      "photos": 89,
+      "photos": 96,
       "total": 491
     },
     "global": {
@@ -9318,6 +9318,167 @@
         "portraitClaimMatches": true,
         "checkedAt": "2026-11-13T08:55:29.370Z"
       }
+    },
+    "福山梨乃": {
+      "qid": "Q130726709",
+      "name": "福山梨乃",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fukuyama-rino-20250619.png",
+      "alternates": [],
+      "file": "Fukuyama-rino-20250619.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Fukuyama-rino-20250619.png",
+      "license": "CC BY-SA 4.0",
+      "verified": true,
+      "author": "So-i12",
+      "credit": "Own work",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 973,
+      "height": 1075,
+      "rightsCheckedAt": "2026-11-13T09:04:00.000Z",
+      "identityCheck": {
+        "qid": "Q130726709",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T09:04:00.000Z"
+      }
+    },
+    "桐原美月": {
+      "qid": "Q116936016",
+      "name": "桐原美月",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/CANDY_TUNE%E6%A1%90%E5%8E%9F%E7%BE%8E%E6%9C%88_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_LIVE_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_SERIES_2025_%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_2025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C_202506192144_DSCN3896.jpg",
+      "alternates": [],
+      "file": "CANDY TUNE桐原美月 推せ推せ！YOKOHAMA☆IDOL LIVE 推せ推せ！YOKOHAMA☆IDOL SERIES 2025 横浜スタジアム 2025年6月19日の横浜 202506192144 DSCN3896.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:CANDY%20TUNE%E6%A1%90%E5%8E%9F%E7%BE%8E%E6%9C%88%20%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL%20LIVE%20%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL%20SERIES%202025%20%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%202025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C%20202506192144%20DSCN3896.jpg",
+      "license": "CC BY-SA 4.0",
+      "verified": true,
+      "author": "ウィ貴公子",
+      "credit": "Own work; individual crop from an event photograph.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1788,
+      "height": 2366,
+      "rightsCheckedAt": "2026-11-13T09:04:00.000Z",
+      "identityCheck": {
+        "qid": "Q116936016",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T09:04:00.000Z"
+      }
+    },
+    "南なつ": {
+      "qid": "Q125556427",
+      "name": "南なつ",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%E5%8D%97%E3%81%AA%E3%81%A4_%E5%8F%AB%E3%81%B9%EF%BC%81%E5%A4%A7%E6%98%9F%E6%8F%B4SHOWTIME_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_SERIES_2025_%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_2025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C_202506191731_DSCN1980.jpg",
+      "alternates": [],
+      "file": "南なつ 叫べ！大星援SHOWTIME 推せ推せ！YOKOHAMA☆IDOL SERIES 2025 横浜スタジアム 2025年6月19日の横浜 202506191731 DSCN1980.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E3%81%AA%E3%81%A4%20%E5%8F%AB%E3%81%B9%EF%BC%81%E5%A4%A7%E6%98%9F%E6%8F%B4SHOWTIME%20%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL%20SERIES%202025%20%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%202025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C%20202506191731%20DSCN1980.jpg",
+      "license": "CC BY-SA 4.0",
+      "verified": true,
+      "author": "ウィ貴公子",
+      "credit": "Own work; individual crop of the CANDY TUNE performance.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1648,
+      "height": 1621,
+      "rightsCheckedAt": "2026-11-13T09:04:00.000Z",
+      "identityCheck": {
+        "qid": "Q125556427",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T09:04:00.000Z"
+      }
+    },
+    "小川奈々子": {
+      "qid": "Q130489011",
+      "name": "小川奈々子",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ogawa-nanako-20250619.png",
+      "alternates": [],
+      "file": "Ogawa-nanako-20250619.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Ogawa-nanako-20250619.png",
+      "license": "CC BY-SA 4.0",
+      "verified": true,
+      "author": "So-i12",
+      "credit": "Own work",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 710,
+      "height": 659,
+      "rightsCheckedAt": "2026-11-13T09:04:00.000Z",
+      "identityCheck": {
+        "qid": "Q130489011",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T09:04:00.000Z"
+      }
+    },
+    "立花琴未": {
+      "qid": "Q130384632",
+      "name": "立花琴未",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/CANDY_TUNE%E7%AB%8B%E8%8A%B1%E7%90%B4%E6%9C%AA_%E5%B1%8A%E3%81%91%E5%A4%A7%E6%98%9F%E6%8F%B4%EF%BC%81MAKE_SOME_NOISE%E3%80%90%E6%97%A5%E6%9C%AC%E7%94%9F%E5%91%BD%E3%82%BB%E3%83%BB%E3%83%91%E4%BA%A4%E6%B5%81%E6%88%A6%E3%80%91%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_vs_%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA_3%E5%9B%9E%E6%88%A6_%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_2025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C_202506191938_DSCN3018.jpg",
+      "alternates": [],
+      "file": "CANDY TUNE立花琴未 届け大星援！MAKE SOME NOISE〖日本生命セ・パ交流戦〗横浜DeNAベイスターズ vs 埼玉西武ライオンズ 3回戦 横浜スタジアム 2025年6月19日の横浜 202506191938 DSCN3018.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:CANDY%20TUNE%E7%AB%8B%E8%8A%B1%E7%90%B4%E6%9C%AA%20%E5%B1%8A%E3%81%91%E5%A4%A7%E6%98%9F%E6%8F%B4%EF%BC%81MAKE%20SOME%20NOISE%E3%80%96%E6%97%A5%E6%9C%AC%E7%94%9F%E5%91%BD%E3%82%BB%E3%83%BB%E3%83%91%E4%BA%A4%E6%B5%81%E6%88%A6%E3%80%97%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20vs%20%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%203%E5%9B%9E%E6%88%A6%20%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%202025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C%20202506191938%20DSCN3018.jpg",
+      "license": "CC BY-SA 4.0",
+      "verified": true,
+      "author": "ウィ貴公子",
+      "credit": "Own work; individual crop from an event photograph.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 2806,
+      "height": 3886,
+      "rightsCheckedAt": "2026-11-13T09:04:00.000Z",
+      "identityCheck": {
+        "qid": "Q130384632",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T09:04:00.000Z"
+      }
+    },
+    "宮野静": {
+      "qid": "Q130725790",
+      "name": "宮野静",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Miyano-shizuka-20250619.png",
+      "alternates": [],
+      "file": "Miyano-shizuka-20250619.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Miyano-shizuka-20250619.png",
+      "license": "CC BY-SA 4.0",
+      "verified": true,
+      "author": "So-i12",
+      "credit": "Own work",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 871,
+      "height": 933,
+      "rightsCheckedAt": "2026-11-13T09:04:00.000Z",
+      "identityCheck": {
+        "qid": "Q130725790",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T09:04:00.000Z"
+      }
+    },
+    "村川緋杏": {
+      "qid": "Q28699594",
+      "name": "村川緋杏",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/CANDY_TUNE%E6%9D%91%E5%B7%9D%E7%B7%8B%E6%9D%8F%E3%81%AE%E5%A7%8B%E7%90%83%E5%BC%8F%E3%80%90%E6%97%A5%E6%9C%AC%E7%94%9F%E5%91%BD%E3%82%BB%E3%83%BB%E3%83%91%E4%BA%A4%E6%B5%81%E6%88%A6%E3%80%91%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_vs_%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA_3%E5%9B%9E%E6%88%A6_%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_2025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C_202506191738_DSCN2159.jpg",
+      "alternates": [],
+      "file": "CANDY TUNE村川緋杏の始球式〖日本生命セ・パ交流戦〗横浜DeNAベイスターズ vs 埼玉西武ライオンズ 3回戦 横浜スタジアム 2025年6月19日の横浜 202506191738 DSCN2159.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:CANDY%20TUNE%E6%9D%91%E5%B7%9D%E7%B7%8B%E6%9D%8F%E3%81%AE%E5%A7%8B%E7%90%83%E5%BC%8F%E3%80%96%E6%97%A5%E6%9C%AC%E7%94%9F%E5%91%BD%E3%82%BB%E3%83%BB%E3%83%91%E4%BA%A4%E6%B5%81%E6%88%A6%E3%80%97%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20vs%20%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%203%E5%9B%9E%E6%88%A6%20%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%202025%E5%B9%B46%E6%9C%8819%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C%20202506191738%20DSCN2159.jpg",
+      "license": "CC BY-SA 4.0",
+      "verified": true,
+      "author": "ウィ貴公子",
+      "credit": "Own work",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5184,
+      "height": 3888,
+      "rightsCheckedAt": "2026-11-13T09:04:00.000Z",
+      "identityCheck": {
+        "qid": "Q28699594",
+        "female": true,
+        "nameMatch": true,
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T09:04:00.000Z"
+      }
     }
   },
   "global": {
@@ -9439,5 +9600,5 @@
       "rightsCheckedAt": "2026-11-13T08:08:15.001Z"
     }
   },
-  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza. · 2026-11-08: 13 attrici adulte con ritratti individuali Commons e alias giapponesi. · 2026-11-08: 5 fotografie verificate di creator filippine, separate dai profili senza licenza fotografica. · Creator Filippine: immagini individuali di Anne Yatco (CC BY-SA 4.0, John Manard) e Dexie Diaz (verifica licenza tramite Commons)."
+  "notes": "Solo foto con corrispondenza biografica Wikidata e licenza compatibile da Commons/Wikipedia; nessuna foto di repertorio copiata. · 2026-11-08: 29 ritratti esatti Wikimedia Commons per le nuove artiste di 8 paesi; attribuzioni nei link individuali. · 2026-11-08: verifica Young Stars 91 schede e 21 nuove corrispondenze Commons individuali con fonte e licenza. · 2026-11-08: 13 attrici adulte con ritratti individuali Commons e alias giapponesi. · 2026-11-08: 5 fotografie verificate di creator filippine, separate dai profili senza licenza fotografica. · Creator Filippine: immagini individuali di Anne Yatco (CC BY-SA 4.0, John Manard) e Dexie Diaz (verifica licenza tramite Commons). · 2026-11-13: aggiunti 7 ritratti singoli licenziati CC BY-SA 4.0 per CANDY TUNE (Rino Fukuyama, Mizuki Kirihara, Natsu Minami, Nanako Ogawa, Kotomi Tachibana, Shizuka Miyano, Bibian Murakawa), con attribuzione e corrispondenza Wikidata."
 }
