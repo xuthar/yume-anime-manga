@@ -33,11 +33,13 @@ jobs:
           git reset --hard origin/main
       - name: Recover verified Wikimedia portraits
         run: node scripts/yume-photo-harvest.cjs
+      - name: Audit photo licenses, authors and live image URLs
+        run: node scripts/yume-idol-photo-audit.cjs --write --check-images
       - name: Publish updated photo index
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/yume-photo-index.json data/yume-photo-report.json
+          git add data/yume-photo-index.json data/yume-photo-report.json data/yume-idols-photo-audit-*.json
           if git diff --cached --quiet; then
             echo "Photo index already current"
           else
