@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T08:03:00+01:00",
+  "updatedAt": "2026-11-13T13:12:44.074386+01:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
   "coverageStart": "2026-10-20",
@@ -2001,7 +2001,7 @@
       "start": "2026-11-13T18:00:00+01:00",
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "episode": "07",
-      "platform": "Crunchyroll, Anime Generation, Netflix",
+      "platform": "Crunchyroll, Anime Generation, Netfilx",
       "sourceUrl": "https://www.animeclick.it/episodio/430025/coraggio",
       "itemId": "anime-63181"
     },
@@ -2527,8 +2527,8 @@
     },
     {
       "date": "2026-11-19",
-      "time": "14:30",
-      "start": "2026-11-19T14:30:00+01:00",
+      "time": "13:30",
+      "start": "2026-11-19T13:30:00+01:00",
       "title": "FX Fighter Kurumi-chan",
       "episode": "08",
       "platform": "Crunchyroll",
@@ -2542,7 +2542,17 @@
       "title": "Tenken - Reincarnato in una spada II",
       "episode": "08",
       "platform": "Anime Generation",
-      "sourceUrl": "https://www.animeclick.it/episodio/428463",
+      "sourceUrl": "https://www.animeclick.it/episodio/428463/la-politica-del-regno-marittimo-%C3%A8-decisamente-complicata",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-19",
+      "time": "17:00",
+      "start": "2026-11-19T17:00:00+01:00",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "episode": "21",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427014",
       "itemId": null
     },
     {
@@ -2559,16 +2569,6 @@
       "date": "2026-11-19",
       "time": "18:00",
       "start": "2026-11-19T18:00:00+01:00",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "episode": "21",
-      "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/427014",
-      "itemId": null
-    },
-    {
-      "date": "2026-11-19",
-      "time": "19:00",
-      "start": "2026-11-19T19:00:00+01:00",
       "title": "The Iceblade Sorcerer Shall Rule the World 2",
       "episode": "07",
       "platform": "Crunchyroll",
@@ -3137,8 +3137,8 @@
     },
     {
       "date": "2026-11-26",
-      "time": "14:30",
-      "start": "2026-11-26T14:30:00+01:00",
+      "time": "13:30",
+      "start": "2026-11-26T13:30:00+01:00",
       "title": "FX Fighter Kurumi-chan",
       "episode": "09",
       "platform": "Crunchyroll",
@@ -3157,6 +3157,16 @@
     },
     {
       "date": "2026-11-26",
+      "time": "17:00",
+      "start": "2026-11-26T17:00:00+01:00",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "episode": "22",
+      "platform": "Crunchyroll",
+      "sourceUrl": "https://www.animeclick.it/episodio/427015",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-26",
       "time": "17:30",
       "start": "2026-11-26T17:30:00+01:00",
       "title": "The Ramparts of Ice",
@@ -3169,16 +3179,6 @@
       "date": "2026-11-26",
       "time": "18:00",
       "start": "2026-11-26T18:00:00+01:00",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "episode": "22",
-      "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/427015",
-      "itemId": null
-    },
-    {
-      "date": "2026-11-26",
-      "time": "19:00",
-      "start": "2026-11-26T19:00:00+01:00",
       "title": "The Iceblade Sorcerer Shall Rule the World 2",
       "episode": "08",
       "platform": "Crunchyroll",
