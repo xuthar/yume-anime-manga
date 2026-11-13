@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - "scripts/yume-photo-harvest.cjs"
+      - "scripts/yume-idol-photo-audit.cjs"
       - "sport-idols-data.js"
       - "asia-idols-data.js"
       - "idols-discovery-data.js"
