@@ -6560,18 +6560,22 @@
     "my:najwalatif": {
       "qid": "Q12698693",
       "name": "Najwa Latif",
-      "photo": "https://upload.wikimedia.org/wikipedia/ms/8/8e/NajwaLatif%28SemiMM26%29.jpg?utm_source=ms.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Najwa_Latif_UM_2023.jpg/960px-Najwa_Latif_UM_2023.jpg",
       "alternates": [],
-      "file": null,
-      "source": "https://en.wikipedia.org/wiki/Najwa_Latif",
-      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "file": "Najwa Latif UM 2023.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Najwa_Latif_UM_2023.jpg",
+      "license": "CC BY-SA 4.0",
       "verified": true,
+      "author": "PeaceSeekers",
+      "credit": "Own work",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rightsCheckedAt": "2026-11-13T08:13:38.113Z",
       "identityCheck": {
         "qid": "Q12698693",
         "female": true,
         "nameMatch": true,
-        "portraitClaimMatches": false,
-        "checkedAt": "2026-11-13T08:08:25.175Z"
+        "portraitClaimMatches": true,
+        "checkedAt": "2026-11-13T08:13:38.113Z"
       }
     },
     "np:bartikaeamrai": {
@@ -8867,19 +8871,16 @@
     "藤嶌果歩": {
       "qid": "Q114345805",
       "name": "藤嶌果歩",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%E8%97%A4%E5%B6%8C%E6%9E%9C%E6%AD%A9_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_SERIES_2026.jpg/500px-%E8%97%A4%E5%B6%8C%E6%9E%9C%E6%AD%A9_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_SERIES_2026.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%E8%97%A4%E5%B6%8B%E6%9E%9C%E6%AD%A9_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_SERIES_2026.jpg/960px-%E8%97%A4%E5%B6%8B%E6%9E%9C%E6%AD%A9_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_SERIES_2026.jpg",
       "alternates": [],
       "file": "藤嶌果歩 推せ推せ！YOKOHAMA☆IDOL SERIES 2026.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:%E8%97%A4%E5%B6%8C%E6%9E%9C%E6%AD%A9%20%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL%20SERIES%202026.jpg",
-      "license": "Wikimedia Commons / Wikipedia file: consultare la pagina del file per autore e condizioni",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%97%A4%E5%B6%8B%E6%9E%9C%E6%AD%A9_%E6%8E%A8%E3%81%9B%E6%8E%A8%E3%81%9B%EF%BC%81YOKOHAMA%E2%98%86IDOL_SERIES_2026.jpg",
+      "license": "CC BY-SA 4.0",
       "verified": true,
-      "identityCheck": {
-        "qid": "Q114345805",
-        "female": true,
-        "nameMatch": true,
-        "portraitClaimMatches": true,
-        "checkedAt": "2026-11-13T08:08:25.176Z"
-      }
+      "author": "ウィ貴公子",
+      "credit": "推せ推せ！YOKOHAMA☆IDOL SERIES 2026, 横浜スタジアム, 28 May 2026",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "rightsCheckedAt": "2026-11-13T08:13:38.113Z"
     },
     "坂巻有紗": {
       "qid": "Q123405456",
