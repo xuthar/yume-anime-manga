@@ -50,6 +50,13 @@ const editorialBirth={
  '吉井明子':'15/10/1980','小野真弓':'12/03/1981','水原ゆき':'14/12/1987'
 };
 const officialSocial={
+ 'MIU':[['Instagram · ME:I official','https://www.instagram.com/official_me_i_/'],['X · ME:I official','https://x.com/official__ME_I_'],['TikTok · ME:I official','https://www.tiktok.com/@official_me_i_'],['YouTube · ME:I official','https://www.youtube.com/@official_me_i_']],
+ 'MOMONA':[['Instagram · ME:I official','https://www.instagram.com/official_me_i_/'],['X · ME:I official','https://x.com/official__ME_I_'],['TikTok · ME:I official','https://www.tiktok.com/@official_me_i_'],['YouTube · ME:I official','https://www.youtube.com/@official_me_i_']],
+ 'AYANE':[['Instagram · ME:I official','https://www.instagram.com/official_me_i_/'],['X · ME:I official','https://x.com/official__ME_I_'],['TikTok · ME:I official','https://www.tiktok.com/@official_me_i_'],['YouTube · ME:I official','https://www.youtube.com/@official_me_i_']],
+ 'KEIKO':[['Instagram · ME:I official','https://www.instagram.com/official_me_i_/'],['X · ME:I official','https://x.com/official__ME_I_'],['TikTok · ME:I official','https://www.tiktok.com/@official_me_i_'],['YouTube · ME:I official','https://www.youtube.com/@official_me_i_']],
+ 'RINON':[['Instagram · ME:I official','https://www.instagram.com/official_me_i_/'],['X · ME:I official','https://x.com/official__ME_I_'],['TikTok · ME:I official','https://www.tiktok.com/@official_me_i_'],['YouTube · ME:I official','https://www.youtube.com/@official_me_i_']],
+ 'SUZU':[['Instagram · ME:I official','https://www.instagram.com/official_me_i_/'],['X · ME:I official','https://x.com/official__ME_I_'],['TikTok · ME:I official','https://www.tiktok.com/@official_me_i_'],['YouTube · ME:I official','https://www.youtube.com/@official_me_i_']],
+ 'TSUZUMI':[['Instagram · ME:I official','https://www.instagram.com/official_me_i_/'],['X · ME:I official','https://x.com/official__ME_I_'],['TikTok · ME:I official','https://www.tiktok.com/@official_me_i_'],['YouTube · ME:I official','https://www.youtube.com/@official_me_i_']],
  'Asuka Kishi':[['Instagram','https://www.instagram.com/aspoo02/'],['X','https://x.com/asupons02']],
  'Sayaka Isoyama':[['Instagram','https://www.instagram.com/sayakaisoyama/'],['X','https://x.com/sayaka23isoyama']],
  'Enako':[['Instagram','https://www.instagram.com/enakorin/']],
@@ -99,6 +106,7 @@ for(const p of data.people){
 for(const p of dedup.values()){
  p.qid=p.qid||verifiedIds[p.name]||null;p.photoFile=photoFiles[p.name]||p.photoFile||null;
  if(data.officialVT[p.name])p.officialProfile=data.officialVT[p.name];
+ if(data.officialMemberProfiles?.[p.name])p.officialProfile=data.officialMemberProfiles[p.name];
 }
 const people=[...dedup.values()];
 const photoRecord=p=>{
