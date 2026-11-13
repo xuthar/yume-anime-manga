@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T08:03:00+01:00",
+  "updatedAt": "2026-11-13T14:23:59.716351+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
+      "checkedAt": "2026-11-13T14:23:59.716351+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
+      "checkedAt": "2026-11-13T14:23:59.716351+01:00",
       "status": "ok"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
+      "checkedAt": "2026-11-13T14:23:59.716351+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
+      "checkedAt": "2026-11-13T14:23:59.716351+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-12T14:57:29.559860+01:00",
+      "checkedAt": "2026-11-13T14:23:59.716351+01:00",
       "status": "ok"
     }
   ],
@@ -4405,7 +4405,7 @@
       "publisher": "Canicola Edizioni",
       "language": "IT",
       "kind": "manga",
-      "edition": "Edizione italiana regolare · distinta dalla variant n. 1",
+      "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3109357/akuma-kun",
       "sourceId": "animeclick-manga"
     },
@@ -4416,7 +4416,7 @@
       "publisher": "Canicola Edizioni",
       "language": "IT",
       "kind": "manga",
-      "edition": "Variant italiana · distinta dal volume regolare n. 1",
+      "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112626/akuma-kun-variant",
       "sourceId": "animeclick-manga"
     },
@@ -6988,6 +6988,28 @@
       "kind": "manga",
       "edition": "Ebook completo · non prepubblicazione",
       "url": "https://j-novel.club/series/tearmoon-empire-manga#volume-11",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "After-School Dungeon Diver: Level Grinding in Another World Volume 6",
+      "series": "After-School Dungeon Diver: Level Grinding in Another World",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-6",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Imperial Reincarnation: I Came, I Saw, I Survived Volume 8",
+      "series": "Imperial Reincarnation: I Came, I Saw, I Survived",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-8",
       "sourceId": "j-novel-club"
     },
     {
@@ -11924,6 +11946,18 @@
     },
     {
       "date": "2027-05-04",
+      "title": "Exotic Animal Doctor Vol. 4",
+      "series": "Exotic Animal Doctor Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-908-1",
+      "url": "https://sevenseasentertainment.com/books/exotic-animal-doctor-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
       "title": "Gilded Seven Vol. 3",
       "series": "Gilded Seven Vol. 3",
       "publisher": "Seven Seas",
@@ -12016,6 +12050,30 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-974-7",
       "url": "https://sevenseasentertainment.com/books/made-in-abyss-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "My Kitten is a Picky Eater Vol. 12",
+      "series": "My Kitten is a Picky Eater Vol. 12",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-631-8",
+      "url": "https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-12/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Printernia Nippon: My Squishy Bio-Printed Pet Vol. 3",
+      "series": "Printernia Nippon: My Squishy Bio-Printed Pet Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-089-8",
+      "url": "https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-3/",
       "sourceId": "seven-seas"
     },
     {
