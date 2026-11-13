@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:57:29.559860+01:00",
+  "updatedAt": "2026-11-13T08:03:00+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -4405,7 +4405,7 @@
       "publisher": "Canicola Edizioni",
       "language": "IT",
       "kind": "manga",
-      "edition": "Edizione italiana",
+      "edition": "Edizione italiana regolare · distinta dalla variant n. 1",
       "url": "https://www.animeclick.it/edizione/3109357/akuma-kun",
       "sourceId": "animeclick-manga"
     },
@@ -4416,7 +4416,7 @@
       "publisher": "Canicola Edizioni",
       "language": "IT",
       "kind": "manga",
-      "edition": "Edizione italiana",
+      "edition": "Variant italiana · distinta dal volume regolare n. 1",
       "url": "https://www.animeclick.it/edizione/3112626/akuma-kun-variant",
       "sourceId": "animeclick-manga"
     },
