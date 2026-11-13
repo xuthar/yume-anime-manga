@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-10T18:49:23.949Z",
+  "generated": "2026-11-13T07:09:02.405Z",
   "stats": {
-    "total": 1371,
+    "total": 1378,
     "sport": 299,
     "asia": 602,
-    "japan": 470
+    "japan": 477
   },
   "coverage": {
     "sport": {
@@ -16,26 +16,10 @@
       "total": 602
     },
     "japan": {
-      "photos": 65,
-      "total": 470
-    },
-    "totalPhotos": 324
+      "photos": 66,
+      "total": 477
+    }
   },
-  "apiRequests": 65,
-  "failedRequests": 202,
-  "rightsAudit": {
-    "date": "2026-11-12",
-    "indexedPortraitRecords": 324,
-    "filesFoundOnCommons": 324,
-    "licenseAndAuthorMetadataPresent": 324,
-    "uniqueImageUrlsResponding": 313,
-    "identityReviewItems": 1
-  },
-  "lastRightsAudit": {
-    "date": "2026-11-12",
-    "photoRecords": 324,
-    "commonsFilesFound": 324,
-    "recordsWithLicenseAndAuthor": 324,
-    "uniqueImageUrlsResponding": 313
-  }
+  "apiRequests": 60,
+  "failedRequests": 186
 }
