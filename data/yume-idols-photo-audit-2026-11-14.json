@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T12:18:00.888Z",
+  "generated": "2026-11-14T12:36:26.230Z",
   "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
   "summary": {
     "records": 460,
@@ -13,7 +13,7 @@
     "wikidataIdentityReviews": 3,
     "directP18PhotoMatches": 315,
     "imageUrlsChecked": 436,
-    "imageUrlsResponding": 147
+    "imageUrlsResponding": 152
   },
   "limitations": [
     "Profiles without indexed portraits are not represented in this file-level audit.",
