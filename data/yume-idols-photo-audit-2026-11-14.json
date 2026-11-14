@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-14T10:17:28.973Z",
+  "generated": "2026-11-14T10:57:59.470Z",
   "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
   "summary": {
-    "records": 433,
-    "recordsWithImage": 433,
-    "commonsFilesLive": 430,
-    "commonsFilesMissing": 2,
+    "records": 457,
+    "recordsWithImage": 457,
+    "commonsFilesLive": 455,
+    "commonsFilesMissing": 0,
     "recordsMissingLicenseMetadata": 0,
     "recordsMissingAuthorMetadata": 1,
     "nonReusableOrUnclassifiedLicenses": 0,
-    "wikidataRelationsChecked": 329,
-    "wikidataIdentityReviews": 2,
-    "directP18PhotoMatches": 292,
-    "imageUrlsChecked": 417,
-    "imageUrlsResponding": 173
+    "wikidataRelationsChecked": 353,
+    "wikidataIdentityReviews": 3,
+    "directP18PhotoMatches": 312,
+    "imageUrlsChecked": 433,
+    "imageUrlsResponding": 277
   },
   "limitations": [
     "Profiles without indexed portraits are not represented in this file-level audit.",
@@ -22,20 +22,13 @@
   ],
   "issues": [
     {
-      "section": "japan",
-      "name": "立花琴未",
-      "file": "CANDY TUNE立花琴未 届け大星援！MAKE SOME NOISE〖日本生命セ・パ交流戦〗横浜DeNAベイスターズ vs 埼玉西武ライオンズ 3回戦 横浜スタジアム 2025年6月19日の横浜 202506191938 DSCN3018.jpg",
-      "kind": "commons-file-missing"
-    },
-    {
-      "section": "japan",
-      "name": "村川緋杏",
-      "file": "CANDY TUNE村川緋杏の始球式〖日本生命セ・パ交流戦〗横浜DeNAベイスターズ vs 埼玉西武ライオンズ 3回戦 横浜スタジアム 2025年6月19日の横浜 202506191738 DSCN2159.jpg",
-      "kind": "commons-file-missing"
-    },
-    {
       "section": "asia",
       "name": "Najwa Latif",
+      "kind": "portrait-file-unknown"
+    },
+    {
+      "section": "japan",
+      "name": "Miku Ito",
       "kind": "portrait-file-unknown"
     },
     {
@@ -51,6 +44,15 @@
       "section": "japan",
       "name": "Yokyu-n",
       "qid": "Q11370644",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    },
+    {
+      "section": "japan",
+      "name": "Risa Yukihira",
+      "qid": "Q105259180",
       "kind": "wikidata-identity-review",
       "female": true,
       "nameMatch": false,
