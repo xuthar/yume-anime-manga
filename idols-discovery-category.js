@@ -455,7 +455,7 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
  const controls=make('div','instagram-accounts-controls');
  const searchLabel=make('label',null,'Cerca account Instagram');const search=document.createElement('input');search.type='search';search.id='instagram-account-search';search.placeholder='@username…';search.autocomplete='off';searchLabel.htmlFor=search.id;searchLabel.append(search);controls.append(searchLabel);
  const documentedLabel=make('label','instagram-accounts-check');const documented=document.createElement('input');documented.type='checkbox';documented.id='instagram-documented-only';documentedLabel.append(documented,document.createTextNode(' Solo account con scheda Yume'));controls.append(documentedLabel);
- const photoLabel=make('label','instagram-accounts-check');const photosOnly=document.createElement('input');photosOnly.type='checkbox';photosOnly.id='instagram-photos-only';photoLabel.append(photosOnly,document.createTextNode(' Solo account con foto pubblica ('+photoAccounts.length+')'));controls.append(photoLabel);
+ const photoLabel=make('label','instagram-accounts-check');const photosOnly=document.createElement('input');photosOnly.type='checkbox';photosOnly.id='instagram-photos-only';photoLabel.append(photosOnly,document.createTextNode(' Con post fotografico disponibile ('+photoAccounts.length+')'));controls.append(photoLabel);
  section.append(controls);
  const status=make('p','instagram-accounts-status');status.id='instagram-accounts-status';status.setAttribute('role','status');status.setAttribute('aria-live','polite');section.append(status);
  const grid=make('div','instagram-accounts-grid');grid.id='instagram-accounts-grid';section.append(grid);
@@ -470,10 +470,12 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
    const card=make('article','instagram-account');const account=known.get(handle);
    const heading=make('h3');heading.append(link('@'+handle,'https://www.instagram.com/'+handle+'/'));card.append(heading);
    card.append(make('p',null,account?account.name:'Account Instagram'));
-   if(photoAccounts.includes(handle)){const media=imageCard({name:account.name,instagramPost:account.post,instagramHandle:handle});card.append(media);card.classList.add('has-instagram-photo')}
+   // Instagram embeds cannot be resized into reliable thumbnails: keep this grid compact.
+
 
    const actions=make('div','instagram-account-actions');actions.append(link('Apri Instagram ↗','https://www.instagram.com/'+handle+'/'));
    if(account&&['music','creators','cosplay','gravure','fashion','jav','adult','onlyfans','vtuber'].includes(account.category))actions.append(link('Scheda Yume ↗','idol-category.html?section='+encodeURIComponent(account.category)+'&profile='+encodeURIComponent(account.name)));
+   if(photoAccounts.includes(handle))actions.append(link('Vedi foto ↗',account.post));
    card.append(actions);fragment.append(card);
   }
   if(!shown.length)fragment.append(make('p',null,'Nessun account corrispondente. Prova un altro username.'));
@@ -488,7 +490,7 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
  #instagram-account-search{display:block;width:100%;box-sizing:border-box;margin-top:7px;padding:12px 14px;border:1px solid #d8b1dc7a;border-radius:10px;background:#171b30;color:#fff;font:inherit}.instagram-accounts-check{display:flex;align-items:center;gap:8px;min-height:44px;font-size:13px}
  .instagram-accounts-status,.instagram-accounts-footnote{font-size:12px;line-height:1.6;color:#d9cce5}.instagram-accounts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px;margin:15px 0}
  .instagram-account{min-width:0;padding:15px;border:1px solid #c69bbd45;border-radius:12px;background:#181c30cc}.instagram-account h3{font:700 15px/1.4 Outfit,system-ui,sans-serif;overflow-wrap:anywhere;margin:0 0 8px}.instagram-account h3 a{color:#ffcee9;text-decoration:none}.instagram-account p{color:#dbd3e8;font-size:12px;margin:0 0 13px;overflow-wrap:anywhere}
- .instagram-account.has-instagram-photo{grid-column:span 2}.instagram-account .discovery-instagram-portrait{margin:12px 0;overflow:hidden;border-radius:12px}.instagram-accounts-grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr))}@media(max-width:600px){.instagram-account.has-instagram-photo{grid-column:span 1}}
+ .instagram-account{box-sizing:border-box;overflow:hidden}.instagram-account-actions{margin-top:auto}.instagram-account{display:flex;flex-direction:column}
  .instagram-account-actions{display:flex;flex-wrap:wrap;gap:8px}.instagram-account-actions a{padding:7px 9px;border:1px solid #d2a5ce61;border-radius:7px;font-size:11px;color:#fff0fb;text-decoration:none;background:#d48db415}.instagram-account a:hover{color:#fff;background:#d48db42b}.instagram-accounts button{margin-top:8px}
  `;document.head.append(style);
  const anchor=$('catalog-selected-message');if(anchor)anchor.after(section);else root.before(section);renderAccounts();
