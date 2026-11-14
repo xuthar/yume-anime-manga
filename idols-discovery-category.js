@@ -89,7 +89,17 @@ const link=(title,url,cls='')=>{const a=make('a',cls,title);a.href=url;a.rel='no
 const adultEnabled=()=>{try{return sessionStorage.getItem('yume-idols-adult-18')==='yes'}catch{return false}};
 let active='all',limit=48,pending=null;
 const dedup=new Map();
-for(const p of data.people){
+// Apply the newest first-party social observation after older catalogue supplements.
+const publicSocialRows=window.YumePublicSocialRows||[];
+const socialKey=s=>normalize(s).replace(/[\s・･._\-'’]/g,'');
+const catalogPeople=data.people.map(p=>{
+ const row=publicSocialRows.find(r=>[r.name,r.alternate,...r.aliases].filter(Boolean).some(n=>socialKey(n)===socialKey(p.name)||socialKey(n)===socialKey(p.alternate)));
+ if(!row)return p;
+ const instagram=row.instagram?'https://www.instagram.com/'+row.instagram+'/':null;
+ const verifiedSocials=[...new Map([...(p.verifiedSocials||[]),...(instagram?[['Instagram',instagram]]:[]),...row.links].map(pair=>[pair[1],pair])).values()];
+ return {...p,editorialBio:row.editorialBio,verifiedSocials,socialCheckedAt:'2026-11-14',socialProfileSource:instagram||row.links[0]?.[1],instagramProfile:instagram||p.instagramProfile,instagramHandle:row.instagram||p.instagramHandle,instagramPost:row.post?'https://www.instagram.com/p/'+row.post+'/':p.instagramPost};
+});
+for(const p of catalogPeople){
  const key=normalize(p.name);
  if(dedup.has(key)){const prev=dedup.get(key);
  prev.categories.add(p.category);
@@ -100,7 +110,7 @@ for(const p of data.people){
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
  if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
  // Preserve provenance and verified enrichment when the same artist appears in multiple catalogs.
- for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','listalRating','listalVotes','listalPosition','listalSnapshotSource','boobpediaCrossReference','verifiedBirthDate','verifiedBiographySource','professionalSocialSource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
+ for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','listalRating','listalVotes','listalPosition','listalSnapshotSource','boobpediaCrossReference','verifiedBirthDate','verifiedBiographySource','socialCheckedAt','socialProfileSource','instagramPost','instagramPostSource','instagramProfile','instagramHandle','socialPhotoPolicy','professionalSocialSource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
   if((prev[field]===undefined||prev[field]===null||prev[field]==='')&&p[field]!==undefined&&p[field]!==null)prev[field]=p[field];
  }
  if(p.verifiedSocials?.length)prev.verifiedSocials=[...new Map([...(prev.verifiedSocials||[]),...p.verifiedSocials].map(([platform,url])=>[platform+'|'+url,[platform,url]])).values()];
@@ -142,23 +152,32 @@ function updateVisiblePhotoCount(){
  photoCountTimer=setTimeout(()=>{
   photoCountTimer=null;
   const cards=[...list.querySelectorAll('.discovery-card')];
+  const embedded=cards.filter(c=>c.querySelector('.discovery-instagram-frame')).length;
   const loaded=cards.filter(c=>c.querySelector('img[data-yume-photo-state="loaded"]')).length;
   const failed=cards.filter(c=>c.querySelector('.discovery-portrait.is-unavailable')).length;
-  const pending=cards.length-loaded-failed;
+  const pending=cards.length-loaded-failed-embedded;
   const label=list.dataset.yumeTotalCount||'0';
-  summary.textContent=label+' nominativi distinti · '+cards.length+' schede visualizzate · '+loaded+' foto caricate · '+failed+' senza foto · '+pending+' in attesa/verifica'+(adultCats.has(active)?' · contenuti 18+ dopo consenso':'');
+  summary.textContent=label+' nominativi distinti · '+cards.length+' schede visualizzate · '+loaded+' foto caricate · '+embedded+' post Instagram · '+failed+' senza foto · '+pending+' in attesa/verifica'+(adultCats.has(active)?' · contenuti 18+ dopo consenso':'');
  },120);
 }
 
 const countryLabels={JP:'🇯🇵 Giappone',KR:'🇰🇷 Corea del Sud',TH:'🇹🇭 Thailandia',PH:'🇵🇭 Filippine',VN:'🇻🇳 Vietnam',ID:'🇮🇩 Indonesia',MY:'🇲🇾 Malaysia',MM:'🇲🇲 Myanmar',SG:'🇸🇬 Singapore',TW:'🇹🇼 Taiwan',HK:'🇭🇰 Hong Kong',CN:'🇨🇳 Cina',IN:'🇮🇳 India'};
 const region=p=>p.adultCountry||([...p.categories].some(c=>adultCats.has(c))?'JP':null);
+const instagramPost=p=>/^https:\/\/www\.instagram\.com\/p\/[A-Za-z0-9_-]+\/$/.test(p.instagramPost||'')?p.instagramPost:null;
 const hasPhoto=p=>{
+ if(instagramPost(p))return true;
  if(brokenImages.has(active+'|'+p.name))return false;
  const item=photoRecord(p);
  return !!(item?.verified&&item.photo)||!!(p.photoFile&&p.photoSource);
 };
 function setupAdultFilters(){
  for(const select of [countrySelect,platformSelect])if(select){select.hidden=!adultCats.has(active);select.parentElement.hidden=!adultCats.has(active)}
+ if(!adultCats.has(active)&&['creators','music','cosplay'].includes(active)&&platformSelect){
+  platformSelect.hidden=false;platformSelect.parentElement.hidden=false;
+  const old=platformSelect.value;platformSelect.replaceChildren();
+  for(const name of ['all','Instagram','Threads','X','TikTok','YouTube']){const o=make('option',null,name==='all'?'Tutte le piattaforme':name);o.value=name;platformSelect.append(o)}
+  platformSelect.value=['all','Instagram','Threads','X','TikTok','YouTube'].includes(old)?old:'all';
+ }
  if(!adultCats.has(active))return;
  const eligible=people.filter(p=>p.categories.has(active));
  const countries=[...new Set(eligible.map(region).filter(Boolean))].sort((a,b)=>(countryLabels[a]||a).localeCompare(countryLabels[b]||b,'it'));
@@ -175,6 +194,19 @@ function setupAdultFilters(){
 }
 function categoriesOf(p){return [...p.categories].map(x=>labels[x]||x).join(' · ')}
 function imageCard(p){
+ const post=instagramPost(p);
+ if(post&&(!adultCats.has(active)||adultEnabled())){
+  const wrap=make('div','discovery-instagram-portrait');
+  const frame=document.createElement('iframe');frame.className='discovery-instagram-frame';
+  frame.src=post+'embed/';frame.title='Foto pubblica Instagram · '+p.name;
+  frame.loading='lazy';frame.referrerPolicy='strict-origin-when-cross-origin';
+  frame.style.cssText='display:block;width:100%;height:535px;border:0;background:#fff;border-radius:12px';
+  frame.setAttribute('allowfullscreen','');
+  const caption=make('p','discovery-card-detail');caption.append(link('Apri foto e post originali su Instagram ↗',post));
+  caption.append(document.createTextNode(' · @'+(p.instagramHandle||'')+' · Se l’anteprima non è disponibile, apri il post.'));
+  caption.style.cssText='margin:0;padding:10px 14px;font-size:12px';wrap.append(frame,caption);return wrap;
+ }
+
  const verified=photoRecord(p);
  const candidates=[];
  if(verified?.verified&&verified.photo)candidates.push(verified.photo,...(verified.alternates||[]));
@@ -230,8 +262,9 @@ function item(p){
  if(p.alternate)contents.append(make('p','discovery-japanese',p.alternate));
  if((p.groups?.length||0)||p.group)contents.append(make('p','discovery-japanese','Gruppo: '+[...new Set([...(p.groups||[]),...(p.group?[p.group]:[])])].join(' · ')));
  if(p.wikiYear&&p.categories.has('groups'))contents.append(make('p','discovery-japanese','Formazione: '+p.wikiYear+' · '+(p.wikiRoster?.length||0)+' membri nella fonte'));
- const summary=make('p','discovery-card-detail',p.editorialBio&&adultCats.has(active)?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
+ const summary=make('p','discovery-card-detail',p.editorialBio?p.editorialBio:p.categories.has('vtuber')?(p.platform||'VTuber')+' · identità artistica digitale':p.categories.has('groups')?'Gruppo musicale · verifica attività sul sito della fonte':p.categories.has('jav')||p.categories.has('adult')||p.categories.has('onlyfans')?'Nome artistico · catalogo professionale':p.sourceKind==='agenzia ufficiale'?'Fonte: agenzia ufficiale':'Fonte: repertorio pubblico');
  contents.append(summary);
+ if(p.socialCheckedAt)contents.append(make('p','discovery-card-detail','Profili social controllati il 14 novembre 2026 · bio e attività dichiarate nelle fonti pubbliche.'));
  if(p.cosplayFocus&&(active==='cosplay'||active==='all'||active==='creators'))contents.append(make('p','discovery-card-detail',p.cosplayFocus+' · Guida CoDigital, ottobre 2026'));
  if(active==='gravure'&&p.gravureIndexBirthYear){
   contents.append(make('p','discovery-japanese',
@@ -322,7 +355,7 @@ function item(p){
  if(p.categories.has('vtuber'))actions.append(link('Cerca YouTube ↗','https://www.youtube.com/results?search_query='+encodeURIComponent(p.name+' VTuber')));
  else if(!adultCats.has(active)&&![...p.categories].some(c=>adultCats.has(c)))actions.append(link('Cerca X ↗','https://x.com/search?q='+encodeURIComponent(p.name)));
  for(const [social,url] of officialSocial[p.name]||[])actions.append(link(social+' ↗',url));
- for(const [social,url] of p.verifiedSocials||[])if(!(officialSocial[p.name]||[]).some(x=>x[1]===url))actions.append(link(social+' · verificato ↗',url));
+ for(const [social,url] of p.verifiedSocials||[])if(!(officialSocial[p.name]||[]).some(x=>x[1]===url))actions.append(link(social+(p.socialCheckedAt?' · dal profilo ↗':' · verificato ↗'),url));
  if(active==='jav'&&adultEnabled()){
   const wikidataJav=window.YumeJAVSocials?.get(p.name);
   if(wikidataJav?.socials?.length){
@@ -372,9 +405,10 @@ function render(){
  const q=normalize(input.value),shown=people.filter(p=>isAllowed(p)
  &&(!adultCats.has(active)||!countrySelect||countrySelect.value==='all'||region(p)===countrySelect.value)
  &&(!adultCats.has(active)||!platformSelect||platformSelect.value==='all'||(p.adultPlatforms||[]).includes(platformSelect.value))
+ &&(!['creators','music','cosplay'].includes(active)||!platformSelect||platformSelect.value==='all'||[...(p.verifiedSocials||[]),...(officialSocial[p.name]||[])].some(([platform])=>platform===platformSelect.value||platform.startsWith(platformSelect.value+' ·')))
  &&(!photoOnly?.checked||hasPhoto(p))
  &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.gravureIndexJapanese||'')+' '+(p.otherStageNames||[]).join(' ')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
- shown.sort((a,b)=>['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it'));
+ shown.sort((a,b)=>Number(b.socialCheckedAt==='2026-11-14')-Number(a.socialCheckedAt==='2026-11-14')||(['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it')));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  if(!adultCats.has(active))window.YumeIdolCommonsPortraits?.ensure(display);
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
@@ -402,6 +436,13 @@ gate.addEventListener('click',()=>{try{sessionStorage.setItem('yume-idols-adult-
 cancel.addEventListener('click',()=>{pending=null;ageDialog.close()});
 ageDialog.addEventListener('close',()=>{pending=null});
 
+const update=window.YumeSocialProfileUpdate;
+if(update&&['creators','music','cosplay','gravure'].includes(catalogSelection)){
+ const note=make('aside','gravure-research');
+ note.append(make('strong',null,'Social e foto · aggiornamento 14 novembre 2026'));
+ note.append(make('p',null,update.profiles+' profili controllati e '+update.instagramPosts+' post fotografici pubblici collegati. Le anteprime arrivano direttamente da Instagram, con autore e link al post originale. Disponibilità e visibilità dipendono dalla piattaforma. Usa il filtro Piattaforma per i social verificati nelle bio.'));
+ root.prepend(note);
+}
 const validSelection=['music','groups','gravure','fashion','creators','cosplay','vtuber','jav','adult','onlyfans'];
 const selected=validSelection.includes(catalogSelection)?catalogSelection:'all';
 if(adultCats.has(selected))list.classList.add('is-age-pending');
