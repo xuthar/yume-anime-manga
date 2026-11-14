@@ -441,11 +441,13 @@ ageDialog.addEventListener('close',()=>{pending=null});
 if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length){
  const accounts=[...new Set(window.YumeInstagramAccounts.handles.map(s=>String(s).toLowerCase()))].filter(s=>/^[a-z0-9_.]{1,30}$/.test(s)).sort((a,b)=>a.localeCompare(b,'en'));
  const known=new Map();
- for(const row of publicSocialRows)if(row.instagram)known.set(row.instagram.toLowerCase(),{name:row.name,category:row.category});
+ for(const row of publicSocialRows)if(row.instagram)known.set(row.instagram.toLowerCase(),{name:row.name,category:row.category,post:row.post?'https://www.instagram.com/p/'+row.post+'/':null});
  for(const p of catalogPeople){
   const urls=[p.instagramProfile,...(p.verifiedSocials||[]).map(pair=>pair[1])].filter(Boolean);
-  for(const url of urls){try{const u=new URL(url);if(!/^(www\.)?instagram\.com$/.test(u.hostname))continue;const handle=u.pathname.split('/').filter(Boolean)[0]?.toLowerCase();if(handle&&accounts.includes(handle)&&!known.has(handle))known.set(handle,{name:p.name,category:p.category})}catch{}}
+  for(const url of urls){try{const u=new URL(url);if(!/^(www\.)?instagram\.com$/.test(u.hostname))continue;const handle=u.pathname.split('/').filter(Boolean)[0]?.toLowerCase();if(handle&&accounts.includes(handle)&&!known.has(handle))known.set(handle,{name:p.name,category:p.category,post:instagramPost(p)})}catch{}}
  }
+ const photoAccounts=accounts.filter(h=>known.get(h)?.post&&!adultCats.has(known.get(h).category));
+ accounts.sort((a,b)=>Number(photoAccounts.includes(b))-Number(photoAccounts.includes(a))||a.localeCompare(b,'en'));
  const section=make('section','instagram-accounts');section.id='instagram-accounts';section.setAttribute('aria-labelledby','instagram-accounts-title');
  section.append(make('span','catalog-eyebrow','◎ INSTAGRAM · ACCOUNT DA ESPLORARE'));
  const title=make('h2',null,'Scopri gli account Instagram');title.id='instagram-accounts-title';section.append(title);
@@ -453,6 +455,7 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
  const controls=make('div','instagram-accounts-controls');
  const searchLabel=make('label',null,'Cerca account Instagram');const search=document.createElement('input');search.type='search';search.id='instagram-account-search';search.placeholder='@username…';search.autocomplete='off';searchLabel.htmlFor=search.id;searchLabel.append(search);controls.append(searchLabel);
  const documentedLabel=make('label','instagram-accounts-check');const documented=document.createElement('input');documented.type='checkbox';documented.id='instagram-documented-only';documentedLabel.append(documented,document.createTextNode(' Solo account con scheda Yume'));controls.append(documentedLabel);
+ const photoLabel=make('label','instagram-accounts-check');const photosOnly=document.createElement('input');photosOnly.type='checkbox';photosOnly.id='instagram-photos-only';photoLabel.append(photosOnly,document.createTextNode(' Solo account con foto pubblica ('+photoAccounts.length+')'));controls.append(photoLabel);
  section.append(controls);
  const status=make('p','instagram-accounts-status');status.id='instagram-accounts-status';status.setAttribute('role','status');status.setAttribute('aria-live','polite');section.append(status);
  const grid=make('div','instagram-accounts-grid');grid.id='instagram-accounts-grid';section.append(grid);
@@ -461,12 +464,14 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
  let accountLimit=48;
  const renderAccounts=()=>{
   const query=search.value.trim().replace(/^@/,'').toLowerCase();
-  const matches=accounts.filter(handle=>(!documented.checked||known.has(handle))&&(!query||handle.includes(query)||(known.get(handle)?.name||'').toLowerCase().includes(query)));
+  const matches=accounts.filter(handle=>(!documented.checked||known.has(handle))&&(!photosOnly.checked||photoAccounts.includes(handle))&&(!query||handle.includes(query)||(known.get(handle)?.name||'').toLowerCase().includes(query)));
   const shown=matches.slice(0,accountLimit);const fragment=document.createDocumentFragment();
   for(const handle of shown){
    const card=make('article','instagram-account');const account=known.get(handle);
    const heading=make('h3');heading.append(link('@'+handle,'https://www.instagram.com/'+handle+'/'));card.append(heading);
    card.append(make('p',null,account?account.name:'Account Instagram'));
+   if(photoAccounts.includes(handle)){const media=imageCard({name:account.name,instagramPost:account.post,instagramHandle:handle});card.append(media);card.classList.add('has-instagram-photo')}
+
    const actions=make('div','instagram-account-actions');actions.append(link('Apri Instagram ↗','https://www.instagram.com/'+handle+'/'));
    if(account&&['music','creators','cosplay','gravure','fashion','jav','adult','onlyfans','vtuber'].includes(account.category))actions.append(link('Scheda Yume ↗','idol-category.html?section='+encodeURIComponent(account.category)+'&profile='+encodeURIComponent(account.name)));
    card.append(actions);fragment.append(card);
@@ -475,7 +480,7 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
   grid.replaceChildren(fragment);status.textContent=accounts.length+' account indicizzati · '+matches.length+' corrispondenti · '+shown.length+' visualizzati';
   moreAccounts.hidden=shown.length===matches.length;moreAccounts.textContent='Mostra altri '+Math.min(48,matches.length-shown.length)+' account ↓';
  };
- search.addEventListener('input',()=>{accountLimit=48;renderAccounts()});documented.addEventListener('change',()=>{accountLimit=48;renderAccounts()});moreAccounts.addEventListener('click',()=>{accountLimit+=48;renderAccounts()});
+ search.addEventListener('input',()=>{accountLimit=48;renderAccounts()});documented.addEventListener('change',()=>{accountLimit=48;renderAccounts()});photosOnly.addEventListener('change',()=>{accountLimit=48;renderAccounts()});moreAccounts.addEventListener('click',()=>{accountLimit+=48;renderAccounts()});
  const style=document.createElement('style');style.textContent=`
  .instagram-accounts{margin:22px 0 38px;padding:clamp(18px,3vw,32px);border:1px solid #eeaad64d;border-radius:20px;background:linear-gradient(125deg,#442442de,#242d4ff2);color:#fff0fa}
  .instagram-accounts h2{font-size:clamp(24px,3vw,34px);margin:10px 0}.instagram-accounts-intro{max-width:850px;line-height:1.6;color:#e4d8ee}
@@ -483,10 +488,11 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
  #instagram-account-search{display:block;width:100%;box-sizing:border-box;margin-top:7px;padding:12px 14px;border:1px solid #d8b1dc7a;border-radius:10px;background:#171b30;color:#fff;font:inherit}.instagram-accounts-check{display:flex;align-items:center;gap:8px;min-height:44px;font-size:13px}
  .instagram-accounts-status,.instagram-accounts-footnote{font-size:12px;line-height:1.6;color:#d9cce5}.instagram-accounts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px;margin:15px 0}
  .instagram-account{min-width:0;padding:15px;border:1px solid #c69bbd45;border-radius:12px;background:#181c30cc}.instagram-account h3{font:700 15px/1.4 Outfit,system-ui,sans-serif;overflow-wrap:anywhere;margin:0 0 8px}.instagram-account h3 a{color:#ffcee9;text-decoration:none}.instagram-account p{color:#dbd3e8;font-size:12px;margin:0 0 13px;overflow-wrap:anywhere}
+ .instagram-account.has-instagram-photo{grid-column:span 2}.instagram-account .discovery-instagram-portrait{margin:12px 0;overflow:hidden;border-radius:12px}.instagram-accounts-grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr))}@media(max-width:600px){.instagram-account.has-instagram-photo{grid-column:span 1}}
  .instagram-account-actions{display:flex;flex-wrap:wrap;gap:8px}.instagram-account-actions a{padding:7px 9px;border:1px solid #d2a5ce61;border-radius:7px;font-size:11px;color:#fff0fb;text-decoration:none;background:#d48db415}.instagram-account a:hover{color:#fff;background:#d48db42b}.instagram-accounts button{margin-top:8px}
  `;document.head.append(style);
  const anchor=$('catalog-selected-message');if(anchor)anchor.after(section);else root.before(section);renderAccounts();
- window.YumeInstagramDirectoryState=Object.freeze({accounts:accounts.length,documented:accounts.filter(h=>known.has(h)).length});
+ window.YumeInstagramDirectoryState=Object.freeze({accounts:accounts.length,documented:accounts.filter(h=>known.has(h)).length,photos:photoAccounts.length});
 }
 
 const update=window.YumeSocialProfileUpdate;
