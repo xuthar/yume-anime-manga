@@ -244,7 +244,7 @@ function imageCard(p){
   updateVisiblePhotoCount();
  };
  img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else failed()};
- if(p.editorialPhoto){wrap.style.cssText='width:112px;min-width:112px;height:150px;overflow:hidden;background:#0c1225';img.style.cssText='display:block;width:100%;height:100%;object-fit:contain;object-position:center';}
+ if(p.editorialPhoto&&p.categories?.has('groups'))img.style.objectFit='contain';
  img.src=urls[0];wrap.append(img);return wrap
 }
 function item(p){
