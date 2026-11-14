@@ -110,7 +110,7 @@ for(const p of catalogPeople){
  if(!prev.photoFile&&p.photoFile)prev.photoFile=p.photoFile;
  if(!prev.editorialBio&&p.editorialBio)prev.editorialBio=p.editorialBio;
  // Preserve provenance and verified enrichment when the same artist appears in multiple catalogs.
- for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','listalRating','listalVotes','listalPosition','listalSnapshotSource','boobpediaCrossReference','verifiedBirthDate','verifiedBiographySource','socialCheckedAt','socialProfileSource','instagramPost','instagramPostSource','instagramProfile','instagramHandle','socialPhotoPolicy','professionalSocialSource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials']){
+ for(const field of ['babepediaGravureRank','babepediaGravureSource','babepediaSecondListPosition','babepediaProfileSource','babepediaThirdListPosition','babepediaThirdProfileSource','babepediaFourthListPosition','babepediaFourthProfileSource','babepediaFifthListPosition','babepediaFifthProfileSource','babepediaSixthListPosition','babepediaSixthProfileSource','babepediaMegaPosition','babepediaMegaProfileSource','listalRating','listalVotes','listalPosition','listalSnapshotSource','boobpediaCrossReference','verifiedBirthDate','verifiedBiographySource','socialCheckedAt','socialProfileSource','instagramPost','instagramPostSource','instagramProfile','instagramHandle','socialPhotoPolicy','professionalSocialSource','gravureIdentityVerified','gravureIndexVerification','photoSource','photoLicense','verifiedSocials','editorialPhoto','editorialPhotoSource']){
   if((prev[field]===undefined||prev[field]===null||prev[field]==='')&&p[field]!==undefined&&p[field]!==null)prev[field]=p[field];
  }
  if(p.verifiedSocials?.length)prev.verifiedSocials=[...new Map([...(prev.verifiedSocials||[]),...p.verifiedSocials].map(([platform,url])=>[platform+'|'+url,[platform,url]])).values()];
@@ -136,6 +136,7 @@ for(const p of dedup.values()){
 }
 const people=[...dedup.values()];
 const photoRecord=p=>{
+ if(p.editorialPhoto&&p.editorialPhotoSource)return {verified:true,photo:p.editorialPhoto,source:p.editorialPhotoSource};
  const shared=window.YumePhotoStore?.get('japan',p.name);
  const recovered=window.YumeRecoveredPortraits?.get(p.name,active);
  if(active==='gravure'&&p.categories.has('gravure'))return window.YumeGravurePortraits?.get(p.name)||recovered||shared;
@@ -217,7 +218,7 @@ function imageCard(p){
   if(adultCats.has(active)&&adultEnabled()&&(p.instagramProfile||p.source)){const a=link(p.instagramProfile?'Foto su Instagram ↗':'Foto nel profilo ↗',p.instagramProfile||p.source,'discovery-source-portrait');wrap.append(a)}
   return wrap;
  }
- const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&x.startsWith('https://')))];
+ const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&(x.startsWith('https://')||x.startsWith('data:image/jpeg;base64,'))))];
  const wrap=make('div','discovery-portrait'),img=document.createElement('img');
  img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
  let i=0;
@@ -236,13 +237,14 @@ function imageCard(p){
   updateVisiblePhotoCount();
  };
  img.onload=()=>{
-  if(img.naturalWidth<180||img.naturalHeight<240){img.onerror();return}
+  if(img.naturalWidth<(p.editorialPhoto?100:180)||img.naturalHeight<(p.editorialPhoto?100:240)){img.onerror();return}
   const k=active+'|'+p.name;brokenImages.delete(k);
   photoChecks.set(k,{status:'loaded',width:img.naturalWidth,height:img.naturalHeight,url:img.currentSrc||img.src,at:Date.now()});
   img.dataset.yumePhotoState='loaded';
   updateVisiblePhotoCount();
  };
  img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else failed()};
+ if(p.editorialPhoto){wrap.style.cssText='width:112px;min-width:112px;height:150px;overflow:hidden;background:#0c1225';img.style.cssText='display:block;width:100%;height:100%;object-fit:contain;object-position:center';}
  img.src=urls[0];wrap.append(img);return wrap
 }
 function item(p){
@@ -336,7 +338,7 @@ function item(p){
  const portrait=photoRecord(p);
  if(p.photoFile&&p.photoSource&&!portrait?.verified)actions.append(link('Foto · fonte e licenza ↗',p.photoSource));
  if(portrait?.verified&&portrait.source){
-  actions.append(link('Foto e licenza ↗',portrait.source));
+  actions.append(link(p.editorialPhoto?'Foto · fonte originale ↗':'Foto e licenza ↗',portrait.source));
   if(adultCats.has(active)&&portrait.file){
    const original='https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(portrait.file.replace(/ /g,'_'));
    actions.append(link('Ritratto HD ↗',original));
