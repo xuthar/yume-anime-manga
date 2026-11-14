@@ -247,6 +247,7 @@ function imageCard(p){
 }
 function item(p){
  const item=make('article','discovery-card'),visual=imageCard(p);if(visual)item.append(visual);
+ if(instagramPost(p)){item.style.flexDirection='column';if(visual)visual.style.cssText='width:100%;min-width:0'}
  const contents=make('div','discovery-card-body');
  const eyebrow=make('span','discovery-card-type',categoriesOf(p));contents.append(eyebrow);
  if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition||p.babepediaSixthListPosition||p.babepediaMegaPosition)&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type',p.babepediaGravureRank?'Babepedia · prima lista #'+p.babepediaGravureRank:'Babepedia · catalogo esteso'));
