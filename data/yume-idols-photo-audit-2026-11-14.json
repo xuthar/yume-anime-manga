@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-14T09:51:21.503Z",
+  "generated": "2026-11-14T10:17:28.973Z",
   "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
   "summary": {
-    "records": 432,
-    "recordsWithImage": 432,
+    "records": 433,
+    "recordsWithImage": 433,
     "commonsFilesLive": 430,
     "commonsFilesMissing": 2,
     "recordsMissingLicenseMetadata": 0,
     "recordsMissingAuthorMetadata": 1,
     "nonReusableOrUnclassifiedLicenses": 0,
-    "wikidataRelationsChecked": 328,
+    "wikidataRelationsChecked": 329,
     "wikidataIdentityReviews": 2,
-    "directP18PhotoMatches": 291,
-    "imageUrlsChecked": 416,
-    "imageUrlsResponding": 150
+    "directP18PhotoMatches": 292,
+    "imageUrlsChecked": 417,
+    "imageUrlsResponding": 173
   },
   "limitations": [
     "Profiles without indexed portraits are not represented in this file-level audit.",
@@ -32,6 +32,11 @@
       "name": "村川緋杏",
       "file": "CANDY TUNE村川緋杏の始球式〖日本生命セ・パ交流戦〗横浜DeNAベイスターズ vs 埼玉西武ライオンズ 3回戦 横浜スタジアム 2025年6月19日の横浜 202506191738 DSCN2159.jpg",
       "kind": "commons-file-missing"
+    },
+    {
+      "section": "asia",
+      "name": "Najwa Latif",
+      "kind": "portrait-file-unknown"
     },
     {
       "section": "asia",
