@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-14T10:57:59.470Z",
+  "generated": "2026-11-14T12:18:00.888Z",
   "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
   "summary": {
-    "records": 457,
-    "recordsWithImage": 457,
-    "commonsFilesLive": 455,
+    "records": 460,
+    "recordsWithImage": 460,
+    "commonsFilesLive": 458,
     "commonsFilesMissing": 0,
     "recordsMissingLicenseMetadata": 0,
     "recordsMissingAuthorMetadata": 1,
     "nonReusableOrUnclassifiedLicenses": 0,
-    "wikidataRelationsChecked": 353,
+    "wikidataRelationsChecked": 356,
     "wikidataIdentityReviews": 3,
-    "directP18PhotoMatches": 312,
-    "imageUrlsChecked": 433,
-    "imageUrlsResponding": 277
+    "directP18PhotoMatches": 315,
+    "imageUrlsChecked": 436,
+    "imageUrlsResponding": 147
   },
   "limitations": [
     "Profiles without indexed portraits are not represented in this file-level audit.",
