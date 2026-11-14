@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:12:44.074386+01:00",
+  "updatedAt": "2026-11-14T12:27:56.290545+01:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
   "coverageStart": "2026-10-20",
@@ -2032,7 +2032,7 @@
       "title": "Keroro☆",
       "episode": "07",
       "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/428450",
+      "sourceUrl": "https://www.animeclick.it/episodio/428450/la-pericolosa-coppia-stasera-ascoltiamo-la-radio",
       "itemId": null
     },
     {
@@ -2042,7 +2042,7 @@
       "title": "The Vermilion Mask",
       "episode": "06",
       "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/430410",
+      "sourceUrl": "https://www.animeclick.it/episodio/430410/lombra-di-un-bucaneve",
       "itemId": null
     },
     {
@@ -2577,8 +2577,8 @@
     },
     {
       "date": "2026-11-20",
-      "time": "17:00",
-      "start": "2026-11-20T17:00:00+01:00",
+      "time": "16:00",
+      "start": "2026-11-20T16:00:00+01:00",
       "title": "Il monologo della Speziale",
       "episode": "3x56",
       "platform": "Crunchyroll",
@@ -2587,8 +2587,8 @@
     },
     {
       "date": "2026-11-20",
-      "time": "17:30",
-      "start": "2026-11-20T17:30:00+01:00",
+      "time": "16:30",
+      "start": "2026-11-20T16:30:00+01:00",
       "title": "A Certain Dark Item",
       "episode": "07",
       "platform": "Crunchyroll",
@@ -2597,8 +2597,8 @@
     },
     {
       "date": "2026-11-20",
-      "time": "18:00",
-      "start": "2026-11-20T18:00:00+01:00",
+      "time": "17:00",
+      "start": "2026-11-20T17:00:00+01:00",
       "title": "Firefly Wedding",
       "episode": "07",
       "platform": "Crunchyroll",
@@ -2607,13 +2607,33 @@
     },
     {
       "date": "2026-11-20",
-      "time": "18:00",
-      "start": "2026-11-20T18:00:00+01:00",
+      "time": "17:00",
+      "start": "2026-11-20T17:00:00+01:00",
+      "title": "Il monologo della Speziale",
+      "episode": "3x53",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/430034/limmortale-serpe-bianca",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-20",
+      "time": "17:00",
+      "start": "2026-11-20T17:00:00+01:00",
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "episode": "08",
       "platform": "Crunchyroll, Anime Generation, Netfilx",
-      "sourceUrl": "https://www.animeclick.it/episodio/430026",
+      "sourceUrl": "https://www.animeclick.it/episodio/430026/le-rispettive-strade",
       "itemId": "anime-63181"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "18:00",
+      "start": "2026-11-20T18:00:00+01:00",
+      "title": "Firefly Wedding",
+      "episode": "04",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/428250/io-ti-dar%C3%B2-la-libert%C3%A0",
+      "itemId": null
     },
     {
       "date": "2026-11-20",
@@ -3187,8 +3207,8 @@
     },
     {
       "date": "2026-11-27",
-      "time": "17:00",
-      "start": "2026-11-27T17:00:00+01:00",
+      "time": "16:00",
+      "start": "2026-11-27T16:00:00+01:00",
       "title": "Il monologo della Speziale",
       "episode": "3x57",
       "platform": "Crunchyroll",
@@ -3197,8 +3217,8 @@
     },
     {
       "date": "2026-11-27",
-      "time": "17:30",
-      "start": "2026-11-27T17:30:00+01:00",
+      "time": "16:30",
+      "start": "2026-11-27T16:30:00+01:00",
       "title": "A Certain Dark Item",
       "episode": "08",
       "platform": "Crunchyroll",
@@ -3207,8 +3227,8 @@
     },
     {
       "date": "2026-11-27",
-      "time": "18:00",
-      "start": "2026-11-27T18:00:00+01:00",
+      "time": "17:00",
+      "start": "2026-11-27T17:00:00+01:00",
       "title": "Firefly Wedding",
       "episode": "08",
       "platform": "Crunchyroll",
@@ -3217,13 +3237,33 @@
     },
     {
       "date": "2026-11-27",
-      "time": "18:00",
-      "start": "2026-11-27T18:00:00+01:00",
+      "time": "17:00",
+      "start": "2026-11-27T17:00:00+01:00",
+      "title": "Il monologo della Speziale",
+      "episode": "3x54",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/430035/il-villaggio-della-carta",
+      "itemId": null
+    },
+    {
+      "date": "2026-11-27",
+      "time": "17:00",
+      "start": "2026-11-27T17:00:00+01:00",
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "episode": "09",
       "platform": "Crunchyroll, Anime Generation, Netfilx",
       "sourceUrl": "https://www.animeclick.it/episodio/430027",
       "itemId": "anime-63181"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "18:00",
+      "start": "2026-11-27T18:00:00+01:00",
+      "title": "Firefly Wedding",
+      "episode": "05",
+      "platform": "Crunchyroll [DUB ITA]",
+      "sourceUrl": "https://www.animeclick.it/episodio/428251/sofferenza",
+      "itemId": null
     },
     {
       "date": "2026-11-27",
