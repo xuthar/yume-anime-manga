@@ -1,0 +1,55 @@
+{
+  "generated": "2026-11-14T09:39:30.936Z",
+  "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
+  "summary": {
+    "records": 430,
+    "recordsWithImage": 430,
+    "commonsFilesLive": 428,
+    "commonsFilesMissing": 2,
+    "recordsMissingLicenseMetadata": 0,
+    "recordsMissingAuthorMetadata": 1,
+    "nonReusableOrUnclassifiedLicenses": 0,
+    "wikidataRelationsChecked": 323,
+    "wikidataIdentityReviews": 2,
+    "directP18PhotoMatches": 286,
+    "imageUrlsChecked": 415,
+    "imageUrlsResponding": 147
+  },
+  "limitations": [
+    "Profiles without indexed portraits are not represented in this file-level audit.",
+    "A successful HTTP response does not prove a photograph visually depicts its named subject.",
+    "Identity is supported by Wikidata or a manually recorded Commons category/file source; uncertain matches are not auto-added."
+  ],
+  "issues": [
+    {
+      "section": "japan",
+      "name": "立花琴未",
+      "file": "CANDY TUNE立花琴未 届け大星援！MAKE SOME NOISE〖日本生命セ・パ交流戦〗横浜DeNAベイスターズ vs 埼玉西武ライオンズ 3回戦 横浜スタジアム 2025年6月19日の横浜 202506191938 DSCN3018.jpg",
+      "kind": "commons-file-missing"
+    },
+    {
+      "section": "japan",
+      "name": "村川緋杏",
+      "file": "CANDY TUNE村川緋杏の始球式〖日本生命セ・パ交流戦〗横浜DeNAベイスターズ vs 埼玉西武ライオンズ 3回戦 横浜スタジアム 2025年6月19日の横浜 202506191738 DSCN2159.jpg",
+      "kind": "commons-file-missing"
+    },
+    {
+      "section": "asia",
+      "name": "Film Rachanun",
+      "qid": "Q106478544",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    },
+    {
+      "section": "japan",
+      "name": "Yokyu-n",
+      "qid": "Q11370644",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    }
+  ]
+}
