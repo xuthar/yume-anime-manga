@@ -18,7 +18,7 @@
  const css=E('style');css.textContent=`
  .jwiki-grid{align-items:start}.jwiki-card-head{display:flex!important;flex-direction:column!important;align-items:stretch!important;gap:10px!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;min-height:0!important;margin:0!important;padding:12px!important;filter:none!important;position:static!important;transform:none!important}
  .jwiki-group-photo{display:block;width:100%;height:148px;overflow:hidden;border-radius:10px;background:#0c1225}.jwiki-group-photo img{display:block!important;width:100%!important;max-width:100%!important;height:148px!important;object-fit:contain!important;object-position:center!important}
- .jwiki-roster ul{padding:8px 12px!important;list-style:none!important}.jwiki-roster li{display:flex;align-items:center;gap:10px;min-width:0;padding:7px 0!important;border-top:1px solid #b1b8d622}.jwiki-member-photo{display:block;flex:0 0 48px;width:48px;height:64px;border-radius:7px;overflow:hidden;background:#0c1225}.jwiki-member-photo img{display:block!important;width:48px!important;max-width:48px!important;height:64px!important;object-fit:contain!important}.jwiki-member-copy{min-width:0;overflow-wrap:anywhere}.jwiki-member-copy span{display:block}.jwiki-photo-credit{font-size:10px;line-height:1.5;color:#c3c7da;margin:0}.jwiki-photo-credit a{color:#d1edf0}.jwiki-card h3{font-size:18px!important}.jwiki-card-head .jwiki-card-titles{filter:none}
+ .jwiki-roster ul{padding:8px 12px!important;list-style:none!important}.jwiki-roster li{display:flex;align-items:center;gap:10px;min-width:0;padding:7px 0!important;border-top:1px solid #b1b8d622}.jwiki-member-photo{display:block;flex:0 0 58px;width:58px;height:78px;border-radius:7px;overflow:hidden;background:#0c1225}.jwiki-member-photo img{display:block!important;width:58px!important;max-width:58px!important;height:78px!important;object-fit:cover!important;object-position:center top!important}.jwiki-member-copy{min-width:0;overflow-wrap:anywhere}.jwiki-member-copy span{display:block}.jwiki-photo-credit{font-size:10px;line-height:1.5;color:#c3c7da;margin:0}.jwiki-photo-credit a{color:#d1edf0}.jwiki-card h3{font-size:18px!important}.jwiki-card-head .jwiki-card-titles{filter:none}
  `;document.head.append(css);
  const fold=s=>String(s||'').normalize('NFKC').toLocaleLowerCase('en');
  const parts=catalog.groups.reduce((n,g)=>n+g.roster.length,0);
@@ -41,11 +41,11 @@
    if(g.photo){const credit=E('p','jwiki-photo-credit');credit.append(ext('Foto · fonte originale ↗',g.photo.source),document.createTextNode(' · La formazione può differire dal roster.'));body.append(credit);}
    body.append(E('p','jwiki-group-count',g.roster.length+' componenti documentate'));
    const details=E('details','jwiki-roster');
-   details.append(E('summary',null,'Leggi i nomi dei membri'));
+   details.append(E('summary',null,'Membri e fotografie'));
    const list=E('ul');
    for(const m of g.roster){
     const li=E('li'),copy=E('div','jwiki-member-copy');if(m.photo)li.append(photo(m.photo,'Foto di '+m.name,'jwiki-member-photo'));copy.append(E('strong',null,m.name));
-    if(m.japanese)copy.append(E('span',null,m.japanese));li.append(copy);
+    if(m.japanese)copy.append(E('span',null,m.japanese));if(!m.photo)copy.append(E('small','jwiki-photo-credit','Ritratto non disponibile nella fonte'));li.append(copy);
     list.append(li)
    }
    details.append(list);body.append(details);
