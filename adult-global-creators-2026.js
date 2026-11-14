@@ -1,4 +1,4 @@
-/* Yume · global adult performers and OnlyFans public creators (9 Nov 2026)
+/* Yume · global adult performers and OnlyFans public creators (14 Nov 2026)
  * Biographical/public professional index, NOT an explicit-image gallery.
  * Women only. Distinguish film careers from OnlyFans creator activity.
  * Years are minimum-adult editorial checks; do not show unverified ages.
@@ -839,6 +839,254 @@ const records=[
   "Provenienza e data di nascita non verificabili indipendentemente"
  ]
 ];
+// Public adult identities and OnlyFans identifiers documented in Wikidata P569/P8604.
+// A published identifier is not a claim that the account is currently active.
+records.push(...[
+ [
+  "onlyfans",
+  "Hitomi Tanaka",
+  1986,
+  null,
+  null,
+  "Creator e interprete giapponese · anno di nascita 1986 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare.",
+  "JP",
+  "https://linktr.ee/Hitomi_official",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q270138"
+ ],
+ [
+  "onlyfans",
+  "Tuna Mayo",
+  1988,
+  null,
+  null,
+  "Creator e interprete giapponese · anno di nascita 1988 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare. Conosciuta anche come Yua Sakuya.",
+  "JP",
+  "https://www.wikidata.org/wiki/Q116393640",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q116393640"
+ ],
+ [
+  "onlyfans",
+  "Yuki Yoshizawa",
+  1992,
+  null,
+  null,
+  "Creator e interprete giapponese · anno di nascita 1992 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare.",
+  "JP",
+  "https://www.wikidata.org/wiki/Q23948490",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q23948490"
+ ],
+ [
+  "onlyfans",
+  "Sora Shiina",
+  1994,
+  null,
+  null,
+  "Creator e interprete giapponese · anno di nascita 1994 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare.",
+  "JP",
+  "https://www.wikidata.org/wiki/Q23948889",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q23948889"
+ ],
+ [
+  "onlyfans",
+  "Alice Otsu",
+  1993,
+  null,
+  null,
+  "Creator e interprete giapponese · anno di nascita 1993 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare.",
+  "JP",
+  "https://www.wikidata.org/wiki/Q23949003",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q23949003"
+ ],
+ [
+  "onlyfans",
+  "Kelly Shibari",
+  1972,
+  null,
+  null,
+  "Creator e interprete giapponese · anno di nascita 1972 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare. Conosciuta anche come Kelly Nakatomi; la fonte riporta più identificativi, da verificare sul canale personale.",
+  "JP",
+  "https://www.wikidata.org/wiki/Q19592394",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q19592394"
+ ],
+ [
+  "onlyfans",
+  "Poonam Pandey",
+  1991,
+  null,
+  null,
+  "Modella e interprete indiana · anno di nascita 1991 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare.",
+  "IN",
+  "https://www.wikidata.org/wiki/Q4703519",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q4703519"
+ ],
+ [
+  "onlyfans",
+  "Mimi Miyagi",
+  1973,
+  null,
+  null,
+  "Interprete e creator filippina · anno di nascita 1973 documentato. Presenza OnlyFans riportata dalla fonte; attività attuale da verificare.",
+  "PH",
+  "https://www.wikidata.org/wiki/Q2725911",
+  [
+   "OnlyFans"
+  ],
+  "Anno di nascita e identificativo OnlyFans documentati: https://www.wikidata.org/wiki/Q2725911"
+ ]
+]);
+const onlyfansProfileUpdates={
+ "Hitomi Tanaka": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q270138",
+  "professionYearCheck": 1986,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://linktr.ee/Hitomi_official",
+  "onlyfansHandle": "hitomi_official",
+  "onlyfansProfile": "https://onlyfans.com/hitomi_official",
+  "officialProfile": "https://linktr.ee/Hitomi_official"
+ },
+ "Tuna Mayo": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q116393640",
+  "professionYearCheck": 1988,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://www.wikidata.org/wiki/Q116393640#P8604",
+  "onlyfansHandle": "tunamayo",
+  "onlyfansProfile": "https://onlyfans.com/tunamayo"
+ },
+ "Yuki Yoshizawa": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q23948490",
+  "professionYearCheck": 1992,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://www.wikidata.org/wiki/Q23948490#P8604",
+  "onlyfansHandle": "yuki_yoshizawa",
+  "onlyfansProfile": "https://onlyfans.com/yuki_yoshizawa"
+ },
+ "Sora Shiina": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q23948889",
+  "professionYearCheck": 1994,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://www.wikidata.org/wiki/Q23948889#P8604",
+  "onlyfansHandle": "shiina_sora712",
+  "onlyfansProfile": "https://onlyfans.com/shiina_sora712"
+ },
+ "Alice Otsu": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q23949003",
+  "professionYearCheck": 1993,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://www.wikidata.org/wiki/Q23949003#P8604",
+  "onlyfansHandle": "alice1219",
+  "onlyfansProfile": "https://onlyfans.com/alice1219"
+ },
+ "Kelly Shibari": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q19592394",
+  "professionYearCheck": 1972,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://www.wikidata.org/wiki/Q19592394#P8604"
+ },
+ "Poonam Pandey": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q4703519",
+  "professionYearCheck": 1991,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://www.wikidata.org/wiki/Q4703519#P8604",
+  "onlyfansHandle": "poonampandeyvipclub",
+  "onlyfansProfile": "https://onlyfans.com/poonampandeyvipclub"
+ },
+ "Mimi Miyagi": {
+  "verifiedBiographySource": "https://www.wikidata.org/wiki/Q2725911",
+  "professionYearCheck": 1973,
+  "platformsVerifiedAsOf": "2026-11-14",
+  "onlyfansSource": "https://www.wikidata.org/wiki/Q2725911#P8604",
+  "onlyfansHandle": "mimimiyagi",
+  "onlyfansProfile": "https://onlyfans.com/mimimiyagi"
+ }
+};
+// Non-explicit Commons portraits visually reviewed on 14 November 2026.
+// Keep the original file page beside each photo for author and license attribution.
+const onlyfansPortraitUpdates={
+ "Unpai": {
+  "editorialPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Sayaka_It%C5%8D%2C_2023_%28cropped%29.jpg/500px-Sayaka_It%C5%8D%2C_2023_%28cropped%29.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:Sayaka_It%C5%8D,_2023_(cropped).jpg",
+  "photoFile": "Sayaka Itō, 2023 (cropped).jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Sayaka_It%C5%8D,_2023_(cropped).jpg",
+  "photoLicense": "CC BY-SA 4.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Hitomi Tanaka": {
+  "editorialPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:Hitomi_Tanaka_2017.jpg",
+  "photoFile": "Hitomi Tanaka 2017.jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Hitomi_Tanaka_2017.jpg",
+  "photoLicense": "CC BY-SA 4.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Tuna Mayo": {
+  "editorialPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%EC%82%AC%EC%BF%A0%EC%95%BC_%EC%9C%A0%EC%95%84%28%EC%B8%A0%EB%82%98%EB%A7%88%EC%9A%94%29_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_%2815%29_%28cropped%29.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:%EC%82%AC%EC%BF%A0%EC%95%BC_%EC%9C%A0%EC%95%84(%EC%B8%A0%EB%82%98%EB%A7%88%EC%9A%94)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_(15)_(cropped).jpg",
+  "photoFile": "사쿠야 유아(츠나마요) 국내 팬미팅 (15) (cropped).jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:%EC%82%AC%EC%BF%A0%EC%95%BC_%EC%9C%A0%EC%95%84(%EC%B8%A0%EB%82%98%EB%A7%88%EC%9A%94)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_(15)_(cropped).jpg",
+  "photoLicense": "CC BY 4.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Sora Shiina": {
+  "editorialPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Shiina_Sora_CIMG5165.jpg/500px-Shiina_Sora_CIMG5165.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:Shiina_Sora_CIMG5165.jpg",
+  "photoFile": "Shiina Sora CIMG5165.jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Shiina_Sora_CIMG5165.jpg",
+  "photoLicense": "CC BY-SA 4.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Kelly Shibari": {
+  "editorialPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kelly_Shibari_-_2013_AVN_Expo_Photos_Las_Vegas_%288413507436%29.jpg/500px-Kelly_Shibari_-_2013_AVN_Expo_Photos_Las_Vegas_%288413507436%29.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:Kelly_Shibari_-_2013_AVN_Expo_Photos_Las_Vegas_(8413507436).jpg",
+  "photoFile": "Kelly Shibari - 2013 AVN Expo Photos Las Vegas (8413507436).jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Kelly_Shibari_-_2013_AVN_Expo_Photos_Las_Vegas_(8413507436).jpg",
+  "photoLicense": "CC BY-SA 2.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Poonam Pandey": {
+  "editorialPhoto": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Poonam-Pandey-spotted-at-Starbucks-in-Andheri-5_%28cropped%29.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:Poonam-Pandey-spotted-at-Starbucks-in-Andheri-5_(cropped).jpg",
+  "photoFile": "Poonam-Pandey-spotted-at-Starbucks-in-Andheri-5 (cropped).jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Poonam-Pandey-spotted-at-Starbucks-in-Andheri-5_(cropped).jpg",
+  "photoLicense": "CC BY 3.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Yuria Satomi": {
+  "editorialPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Sattomiyuria2.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:Sattomiyuria2.jpg",
+  "photoFile": "Sattomiyuria2.jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:Sattomiyuria2.jpg",
+  "photoLicense": "CC BY-SA 4.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Meguri": {
+  "editorialPhoto": "https://upload.wikimedia.org/wikipedia/commons/e/ed/20230804_TRE_%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%88%90%E4%BA%BA%E5%B1%9502-1.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:20230804_TRE_%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%88%90%E4%BA%BA%E5%B1%9502-1.jpg",
+  "photoFile": "20230804 TRE 台北國際成人展02-1.jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:20230804_TRE_%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%88%90%E4%BA%BA%E5%B1%9502-1.jpg",
+  "photoLicense": "CC BY 3.0 · autore e attribuzione nella pagina della fonte"
+ },
+ "Riona Minami": {
+  "editorialPhoto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%E5%8D%97%E6%A2%A8%E6%9D%8F%E5%A4%AE_%2852218963732%29.jpg/500px-%E5%8D%97%E6%A2%A8%E6%9D%8F%E5%A4%AE_%2852218963732%29.jpg",
+  "editorialPhotoSource": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%A2%A8%E6%9D%8F%E5%A4%AE_(52218963732).jpg",
+  "photoFile": "南梨杏央 (52218963732).jpg",
+  "photoSource": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%A2%A8%E6%9D%8F%E5%A4%AE_(52218963732).jpg",
+  "photoLicense": "CC BY-SA 2.0 · autore e attribuzione nella pagina della fonte"
+ }
+};
 const norm=t=>String(t||'').normalize('NFKC').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f\s・･._\-’'()]/g,'');
 const koreanRanking={
  "Kang Inkyung": {
@@ -940,6 +1188,9 @@ for(const [category,name,birthYear,commonsCategory,file,focus,country,publicSour
   p.asianOriginNote=ranking.asianOrigin;
   if(name==='Chuu (@dear.chuu)')p.identityDisambiguation='Cosplayer @dear.chuu · non è la cantante Chuu (LOONA)';
  }
+ if(category==='onlyfans'){
+  Object.assign(p,onlyfansProfileUpdates[name]||{},onlyfansPortraitUpdates[name]||{});
+ }
  const idx=existing.get(key);
  if(idx!==undefined){people[idx]={...people[idx],...p,source:people[idx].source||source};}
  else {people.push(p);existing.set(key,people.length-1);}
@@ -964,9 +1215,9 @@ for(const p of people){
  p.adultCountry='JP';
  enhancedJav++;
 }
-window.YumeIdolsDiscovery=Object.freeze({...old,people,updated:'2026-11-09',
+window.YumeIdolsDiscovery=Object.freeze({...old,people,updated:'2026-11-14',
  stats:{...old.stats,entries:people.length},regionPolicy:'solo Asia, provenienza documentata'});
-window.YumeAdultGlobal2026=Object.freeze({updated:'2026-11-09',records:curated,
+window.YumeAdultGlobal2026=Object.freeze({updated:'2026-11-14',records:curated,
  byCategory:{adult:curated.filter(x=>x.category==='adult').length,onlyfans:curated.filter(x=>x.category==='onlyfans').length},enhancedJav,
  policy:'Solo artiste con provenienza documentata da paesi asiatici; 18+; immagini Commons non esplicite; Young Stars separate'});
 })();
