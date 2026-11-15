@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T13:27:44.704864+01:00",
+  "updatedAt": "2026-11-15T13:56:30.024551+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-14T13:27:44.704864+01:00",
+      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-14T13:27:44.704864+01:00",
+      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
       "status": "ok"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-14T13:27:44.704864+01:00",
+      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-14T13:27:44.704864+01:00",
+      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-14T13:27:44.704864+01:00",
+      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
       "status": "ok"
     }
   ],
@@ -4993,6 +4993,17 @@
     },
     {
       "date": "2026-11-18",
+      "title": "Manshu Opium Squad 18",
+      "series": "Manshu Opium Squad",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111654/manshu-opium-squad",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-18",
       "title": "Nine Stones 3",
       "series": "Nine Stones",
       "publisher": "Jundo",
@@ -5193,6 +5204,17 @@
     },
     {
       "date": "2026-11-19",
+      "title": "Insieme per sempre 13",
+      "series": "Insieme per sempre",
+      "publisher": "Magic Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112794/insieme-per-sempre",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-19",
       "title": "Jumbo Max 15",
       "series": "Jumbo Max",
       "publisher": "Panini Comics",
@@ -5347,17 +5369,6 @@
     },
     {
       "date": "2026-11-19",
-      "title": "Otherside Picnic 16",
-      "series": "Otherside Picnic",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112335/otherside-picnic",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-19",
       "title": "Shigurui New Edition 8",
       "series": "Shigurui - Le spade della vendetta",
       "publisher": "Panini Comics",
@@ -5365,28 +5376,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112330/shigurui-new-edition",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Shinobi Undercover 1",
-      "series": "Shinobi Undercover",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112300/shinobi-undercover",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Shinobi Undercover Variant 1",
-      "series": "Shinobi Undercover",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112301/shinobi-undercover-variant",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6223,6 +6212,17 @@
     },
     {
       "date": "2026-11-24",
+      "title": "Handsome Girl and Sheltered Girl 2",
+      "series": "Handsome Girl and Sheltered Girl",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112468/handsome-girl-and-sheltered-girl",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
       "title": "I Cavalieri dello Zodiaco - Saint Seiya: Time Odyssey - Collector Edition 4",
       "series": "Saint Seiya - Time Odyssey",
       "publisher": "Star Comics",
@@ -6340,6 +6340,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3111924/a-heartfelt-andante",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "After God 10",
+      "series": "After God",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112785/after-god",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6575,6 +6586,17 @@
     },
     {
       "date": "2026-11-25",
+      "title": "The Isekai Doctor 11",
+      "series": "The Isekai Doctor",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111658/the-isekai-doctor",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
       "title": "The War of Greedy Witches 16",
       "series": "The War of Greedy Witches",
       "publisher": "JPOP",
@@ -6631,6 +6653,17 @@
     },
     {
       "date": "2026-11-26",
+      "title": "Otherside Picnic 16",
+      "series": "Otherside Picnic",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112335/otherside-picnic",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
       "title": "Our Sunny Days Deluxe 3",
       "series": "Our Sunny Days",
       "publisher": "Magic Press",
@@ -6638,6 +6671,28 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112945/our-sunny-days-deluxe",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Shinobi Undercover 1",
+      "series": "Shinobi Undercover",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112300/shinobi-undercover",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Shinobi Undercover Variant 1",
+      "series": "Shinobi Undercover",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112301/shinobi-undercover-variant",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6934,6 +6989,83 @@
       "isbn": "979-8-89863-484-1",
       "url": "https://sevenseasentertainment.com/books/yoichi-and-tsugumo-book-1/",
       "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "I’ll Become an Elegant Villainess! Time to Enjoy My Second Life to the Fullest Volume 2",
+      "series": "I’ll Become an Elegant Villainess! Time to Enjoy My Second Life to the Fullest",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/i-ll-become-an-elegant-villainess-time-to-enjoy-my-second-life-to-the-fullest#volume-2",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King Volume 4",
+      "series": "Lacey Longs for Freedom: The Dawn Witch's Low-Key Life after Defeating the Demon King",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/lacey-longs-for-freedom-the-dawn-witch-s-low-key-life-after-defeating-the-demon-king#volume-4",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Looks like a Job for a Maid! The Tales of a Dismissed Supermaid (Manga) Volume 6",
+      "series": "Looks like a Job for a Maid! The Tales of a Dismissed Supermaid (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid-manga#volume-6",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Notorious No More: The Villainess Enjoys Feigning Incompetence Volume 4",
+      "series": "Notorious No More: The Villainess Enjoys Feigning Incompetence",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/notorious-no-more-the-villainess-enjoys-feigning-incompetence#volume-4",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Tearmoon Empire (Manga) Volume 11",
+      "series": "Tearmoon Empire (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/tearmoon-empire-manga#volume-11",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "After-School Dungeon Diver: Level Grinding in Another World Volume 6",
+      "series": "After-School Dungeon Diver: Level Grinding in Another World",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/after-school-dungeon-diver-level-grinding-in-another-world#volume-6",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Imperial Reincarnation: I Came, I Saw, I Survived Volume 8",
+      "series": "Imperial Reincarnation: I Came, I Saw, I Survived",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/imperial-reincarnation-i-came-i-saw-i-survived#volume-8",
+      "sourceId": "j-novel-club"
     },
     {
       "date": "2026-12-03",
