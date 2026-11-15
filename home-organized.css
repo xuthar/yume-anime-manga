@@ -75,3 +75,11 @@
 .organized-home{--home-rail:min(1380px,calc(100% - 40px))}
 .organized-home>header:not(.y3-header),.organized-home>.hero,.organized-home .home-news-rail,.organized-home .hub-main{width:var(--home-rail);max-width:1380px!important;margin-left:auto;margin-right:auto}
 @media(max-width:650px){.organized-home{--home-rail:min(1380px,calc(100% - 20px))}}
+
+/* Remove the three enclosing panels: same illustrated destination grid as above. */
+.organized-home .hub-world-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.organized-home .hub-world{display:contents}
+.organized-home .hub-world>h3{grid-column:1/-1;margin:14px 0 2px;font-size:14px;color:#c8b6cf}
+.organized-home .hub-world-link{min-height:225px;margin:0;padding:135px 22px 22px;border-radius:12px;border:1px solid #dbb4cf38;background:#1a1d2f}
+.organized-home .hub-world-link strong{font-size:21px}.organized-home .hub-world-link small{font-size:12px;line-height:1.65}
+@media(max-width:650px){.organized-home .hub-world-grid{grid-template-columns:1fr}.organized-home .hub-world-link{min-height:220px}}
