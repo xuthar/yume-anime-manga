@@ -138,7 +138,7 @@ const people=[...dedup.values()];
 const photoRecord=p=>{
  const reviewed=adultCats.has(active)&&window.YumeReviewedAdultPortraits?.get(p.name);
  if(reviewed)return reviewed;
- if(p.editorialPhoto&&p.editorialPhotoSource)return {verified:true,photo:p.editorialPhoto,source:p.editorialPhotoSource};
+ if(p.editorialPhoto&&p.editorialPhotoSource)return {verified:true,photo:p.editorialPhoto,source:p.editorialPhotoSource,alternates:p.editorialPhotoAlternates||[]};
  const shared=window.YumePhotoStore?.get('japan',p.name);
  const recovered=window.YumeRecoveredPortraits?.get(p.name,active);
  if(active==='gravure'&&p.categories.has('gravure'))return window.YumeGravurePortraits?.get(p.name)||recovered||shared;
