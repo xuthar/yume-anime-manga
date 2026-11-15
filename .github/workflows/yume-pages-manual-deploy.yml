@@ -13,6 +13,7 @@ on:
       - "idols-discovery-data.js"
       - "idols-discovery-category.js"
       - "scripts/yume-photo-harvest.cjs"
+      - "data/newsletters.json"
       - "data/yume-photo-index.json"
       - "data/yume-photo-report.json"
       - ".github/workflows/yume-pages-manual-deploy.yml"

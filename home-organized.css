@@ -83,3 +83,4 @@
 .organized-home .hub-world-link{min-height:225px;margin:0;padding:135px 22px 22px;border-radius:12px;border:1px solid #dbb4cf38;background:#1a1d2f}
 .organized-home .hub-world-link strong{font-size:21px}.organized-home .hub-world-link small{font-size:12px;line-height:1.65}
 @media(max-width:650px){.organized-home .hub-world-grid{grid-template-columns:1fr}.organized-home .hub-world-link{min-height:220px}}
+.home-newsletter-link{display:flex;align-items:center;gap:18px;margin-top:22px;padding:20px 23px;border:1px solid #e0b5cf35;border-radius:12px;background:linear-gradient(100deg,#39243b,#1e2c39);color:#eddae9;text-decoration:none}.home-newsletter-link>span:first-child{font:30px serif;color:#e5b4cf}.home-newsletter-link strong{display:block;font-size:15px;font-weight:600}.home-newsletter-link small{display:block;font-size:11px;color:#bfb1ca;margin-top:7px;line-height:1.7}.home-newsletter-link>span:last-child{margin-left:auto;color:#b9ded5}
