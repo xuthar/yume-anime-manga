@@ -166,7 +166,6 @@ const countryLabels={JP:'🇯🇵 Giappone',KR:'🇰🇷 Corea del Sud',TH:'🇹
 const region=p=>p.adultCountry||([...p.categories].some(c=>adultCats.has(c))?'JP':null);
 const instagramPost=p=>/^https:\/\/www\.instagram\.com\/p\/[A-Za-z0-9_-]+\/$/.test(p.instagramPost||'')?p.instagramPost:null;
 const hasPhoto=p=>{
- if(instagramPost(p))return true;
  if(brokenImages.has(active+'|'+p.name))return false;
  const item=photoRecord(p);
  return !!(item?.verified&&item.photo)||!!(p.photoFile&&p.photoSource);
@@ -195,22 +194,13 @@ function setupAdultFilters(){
 }
 function categoriesOf(p){return [...p.categories].map(x=>labels[x]||x).join(' · ')}
 function imageCard(p){
- const post=instagramPost(p);
- if(post&&(!adultCats.has(active)||adultEnabled())){
-  const wrap=make('div','discovery-instagram-portrait');
-  const frame=document.createElement('iframe');frame.className='discovery-instagram-frame';
-  frame.src=post+'embed/';frame.title='Foto pubblica Instagram · '+p.name;
-  frame.loading='lazy';frame.referrerPolicy='strict-origin-when-cross-origin';
-  frame.style.cssText='display:block;width:100%;height:535px;border:0;background:#fff;border-radius:12px';
-  frame.setAttribute('allowfullscreen','');
-  const caption=make('p','discovery-card-detail');caption.append(link('Apri foto e post originali su Instagram ↗',post));
-  caption.append(document.createTextNode(' · @'+(p.instagramHandle||'')+' · Se l’anteprima non è disponibile, apri il post.'));
-  caption.style.cssText='margin:0;padding:10px 14px;font-size:12px';wrap.append(frame,caption);return wrap;
- }
-
  const verified=photoRecord(p);
  const candidates=[];
  if(verified?.verified&&verified.photo)candidates.push(verified.photo,...(verified.alternates||[]));
+ // Recover existing documented portraits when the preferred source is unavailable.
+ for(const alternative of [window.YumePhotoStore?.get('japan',p.name),window.YumeRecoveredPortraits?.get(p.name,active),!adultCats.has(active)&&window.YumeIdolCommonsPortraits?.get(p.name)]){
+  if(alternative?.verified&&alternative.photo)candidates.push(alternative.photo,...(alternative.alternates||[]));
+ }
  if(p.photoFile&&(!adultCats.has(active)||adultEnabled()))candidates.push('https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.photoFile.replace(/ /g,'_'))+'?width=920');
  if(!candidates.length){
   const wrap=make('div','discovery-portrait is-unavailable'),monogram=make('span','discovery-portrait-glyph','✦');
@@ -218,7 +208,12 @@ function imageCard(p){
   if(adultCats.has(active)&&adultEnabled()&&(p.instagramProfile||p.source)){const a=link(p.instagramProfile?'Foto su Instagram ↗':'Foto nel profilo ↗',p.instagramProfile||p.source,'discovery-source-portrait');wrap.append(a)}
   return wrap;
  }
- const urls=[...new Set(candidates.filter(x=>typeof x==='string'&&(x.startsWith('https://')||x.startsWith('data:image/jpeg;base64,'))))];
+ const urls=[...new Set(candidates.filter(x=>{
+  if(typeof x!=='string')return false;
+  if(x.startsWith('data:image/jpeg;base64,'))return true;
+  try{const u=new URL(x);return u.protocol==='https:'&&!/(^|\.)(instagram\.com|cdninstagram\.com|fbcdn\.net)$/.test(u.hostname)}catch{return false}
+ }))];
+ if(!urls.length){const wrap=make('div','discovery-portrait is-unavailable');wrap.append(make('small',null,'Ritratto non disponibile'));return wrap}
  const wrap=make('div','discovery-portrait'),img=document.createElement('img');
  img.alt='Ritratto di '+p.name;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
  let i=0;
@@ -233,7 +228,7 @@ function imageCard(p){
   else if(active==='jav')window.YumeJAVPortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
   else if(active==='gravure')window.YumeGravurePortraits?.reportBroken?.(p.name,verified?.file||p.photoFile);
   else if(active==='vtuber')window.YumeHololivePortraits?.reportBroken?.(p.name);
-  else if(recovered?.verified)window.YumeRecoveredPortraits?.reportBroken?.(p.name);
+  else if(window.YumeRecoveredPortraits?.get(p.name,active)?.verified)window.YumeRecoveredPortraits?.reportBroken?.(p.name);
   updateVisiblePhotoCount();
  };
  img.onload=()=>{
@@ -249,7 +244,6 @@ function imageCard(p){
 }
 function item(p){
  const item=make('article','discovery-card'),visual=imageCard(p);if(visual)item.append(visual);
- if(instagramPost(p)){item.style.flexDirection='column';if(visual)visual.style.cssText='width:100%;min-width:0'}
  const contents=make('div','discovery-card-body');
  const eyebrow=make('span','discovery-card-type',categoriesOf(p));contents.append(eyebrow);
  if((p.babepediaGravureRank||p.babepediaSecondListPosition||p.babepediaThirdListPosition||p.babepediaFourthListPosition||p.babepediaFifthListPosition||p.babepediaSixthListPosition||p.babepediaMegaPosition)&&p.categories.has('gravure'))contents.append(make('span','discovery-card-type',p.babepediaGravureRank?'Babepedia · prima lista #'+p.babepediaGravureRank:'Babepedia · catalogo esteso'));
@@ -457,7 +451,7 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
  const controls=make('div','instagram-accounts-controls');
  const searchLabel=make('label',null,'Cerca account Instagram');const search=document.createElement('input');search.type='search';search.id='instagram-account-search';search.placeholder='@username…';search.autocomplete='off';searchLabel.htmlFor=search.id;searchLabel.append(search);controls.append(searchLabel);
  const documentedLabel=make('label','instagram-accounts-check');const documented=document.createElement('input');documented.type='checkbox';documented.id='instagram-documented-only';documentedLabel.append(documented,document.createTextNode(' Solo account con scheda Yume'));controls.append(documentedLabel);
- const photoLabel=make('label','instagram-accounts-check');const photosOnly=document.createElement('input');photosOnly.type='checkbox';photosOnly.id='instagram-photos-only';photoLabel.append(photosOnly,document.createTextNode(' Con post fotografico disponibile ('+photoAccounts.length+')'));controls.append(photoLabel);
+ const photoLabel=make('label','instagram-accounts-check');const photosOnly=document.createElement('input');photosOnly.type='checkbox';photosOnly.id='instagram-photos-only';photoLabel.append(photosOnly,document.createTextNode(' Con post fotografico disponibile ('+photoAccounts.length+')'));
  section.append(controls);
  const status=make('p','instagram-accounts-status');status.id='instagram-accounts-status';status.setAttribute('role','status');status.setAttribute('aria-live','polite');section.append(status);
  const grid=make('div','instagram-accounts-grid');grid.id='instagram-accounts-grid';section.append(grid);
@@ -477,7 +471,7 @@ if(catalogSelection==='creators'&&window.YumeInstagramAccounts?.handles?.length)
 
    const actions=make('div','instagram-account-actions');actions.append(link('Apri Instagram ↗','https://www.instagram.com/'+handle+'/'));
    if(account&&['music','creators','cosplay','gravure','fashion','jav','adult','onlyfans','vtuber'].includes(account.category))actions.append(link('Scheda Yume ↗','idol-category.html?section='+encodeURIComponent(account.category)+'&profile='+encodeURIComponent(account.name)));
-   if(photoAccounts.includes(handle))actions.append(link('Vedi foto ↗',account.post));
+
    card.append(actions);fragment.append(card);
   }
   if(!shown.length)fragment.append(make('p',null,'Nessun account corrispondente. Prova un altro username.'));
@@ -503,7 +497,7 @@ const update=window.YumeSocialProfileUpdate;
 if(update&&['creators','music','cosplay','gravure'].includes(catalogSelection)){
  const note=make('aside','gravure-research');
  note.append(make('strong',null,'Social e foto · aggiornamento 14 novembre 2026'));
- note.append(make('p',null,update.profiles+' profili controllati e '+update.instagramPosts+' post fotografici pubblici collegati. Le anteprime arrivano direttamente da Instagram, con autore e link al post originale. Disponibilità e visibilità dipendono dalla piattaforma. Usa il filtro Piattaforma per i social verificati nelle bio.'));
+ note.append(make('p',null,update.profiles+' profili controllati. Instagram è disponibile tramite i link ai profili. I ritratti vengono cercati nelle fonti fotografiche esterne documentate; quando non disponibili, la scheda resta compatta. Usa il filtro Piattaforma per i social verificati nelle bio.'));
  root.prepend(note);
 }
 const validSelection=['music','groups','gravure','fashion','creators','cosplay','vtuber','jav','adult','onlyfans'];
