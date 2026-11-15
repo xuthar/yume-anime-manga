@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-15T11:16:16+01:00",
+  "version": 2,
+  "updatedAt": "2026-11-15T10:31:59.977523+00:00",
   "entries": [
     {
       "publisher": "MangaComicsMarket",
@@ -19,7 +19,28 @@
       "receivedAt": "2026-11-14T21:49:07+01:00",
       "sourceUrl": "https://www.mangacomicsmarket.it/",
       "sourceType": "publisher-site",
-      "id": "3cae07aece3e3df162d4fbe7"
+      "id": "3cae07aece3e3df162d4fbe7",
+      "sections": [
+        {
+          "title": "Manga e titoli pertinenti · settimana 9–15 novembre 2026",
+          "items": [
+            "Appleseed 1 — Sprea; €14,90.",
+            "Space Adventure Cobra 1 — Sprea; €14,90.",
+            "Akuma-kun, il bambino che parlava ai demoni — Canicola; €22,00.",
+            "Akuma-kun, il bambino che parlava ai demoni, variant — Canicola; €22,00.",
+            "La canzone d’amore del traditore 3 — Magic Press; €7,90.",
+            "Guardienne 2 — Toshokan; €14,90.",
+            "Cronache della deriva 1 — Leiji Matsumoto; €18,00. Editore non specificato nel testo della mail."
+          ]
+        },
+        {
+          "title": "Contesto della selezione",
+          "items": [
+            "La newsletter complessiva presenta 18 novità di editori diversi. Qui sono dettagliati i titoli pertinenti a manga e cultura giapponese; la comunicazione comprende anche altri fumetti e giochi di ruolo."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "MangaComicsMarket",
@@ -38,7 +59,27 @@
       "receivedAt": "2026-11-14T19:31:07+01:00",
       "sourceUrl": "https://www.mangacomicsmarket.it/",
       "sourceType": "publisher-site",
-      "id": "d67d54835d2cc929e7373290"
+      "id": "d67d54835d2cc929e7373290",
+      "sections": [
+        {
+          "title": "Jundo · settimana 9–15 novembre 2026",
+          "items": [
+            "Fortune Kitten School Life 1 — €9,99.",
+            "Fortune Kitten School Life 1, Special Edition — €39,99.",
+            "Kiss Me If You Can 1 — €12,99.",
+            "Kiss Me If You Can 1, Special Edition — €39,99."
+          ]
+        },
+        {
+          "title": "Merchandising Jundo Minis",
+          "items": [
+            "Roses and Champagne: Lee Won — €19,99.",
+            "Roses and Champagne: Caesar — €19,99.",
+            "Fluffy Hamster Drip 8 — €7,99."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "Star Comics",
@@ -57,7 +98,24 @@
       "receivedAt": "2026-11-14T18:07:15+01:00",
       "sourceUrl": "https://www.starcomics.com/",
       "sourceType": "publisher-site",
-      "id": "9db0d8304b9d212a8ea4f17e"
+      "id": "9db0d8304b9d212a8ea4f17e",
+      "sections": [
+        {
+          "title": "Contenuti identificabili nella comunicazione",
+          "items": [
+            "Splatoon! — contenuto promozionale dedicato alla serie.",
+            "Heaven Official’s Blessing — segnalazione del box.",
+            "Uscite del 10 novembre 2026 — richiamo al calendario novità Star Comics."
+          ]
+        },
+        {
+          "title": "Dati da verificare",
+          "items": [
+            "La mail utilizza immagini promozionali: il testo disponibile non specifica numeri dei volumi, prezzi o contenuto del box. Questi dettagli non sono ricostruiti per supposizione."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "J-Novel Club",
@@ -76,7 +134,40 @@
       "receivedAt": "2026-11-14T00:07:01+00:00",
       "sourceUrl": "https://mailchi.mp/j-novel/november-2026-announcements",
       "sourceType": "public-newsletter",
-      "id": "d7f4f59fd6744dfd51c3b9f6"
+      "id": "d7f4f59fd6744dfd51c3b9f6",
+      "sections": [
+        {
+          "title": "7 nuove light novel digitali · prima parte del volume 1 disponibile",
+          "items": [
+            "Little Miss Slime Master — Azarea; illustrazioni di kinshi.",
+            "Soldier Maids: Otherworld Cleanup Crew — kawanabekasima; illustrazioni di AYAKA CHIHIRO.",
+            "My Leisure Logbook: A Taste of Isekai with the Goddess — Daikichi Izumo; illustrazioni di ox.",
+            "It’s a Grown Man’s Job to be a Magical Girl — tabecannon; illustrazioni di Mamyoda.",
+            "Specter / Spectator: From Supernatural Slump to Viral VTuber! — torigara016; illustrazioni di Yuko.",
+            "Putting a Price on World Peace — Daken; illustrazioni di Kanase Bench. Il collegamento nella mail rimanda a un titolo diverso: da verificare.",
+            "Nowhere Isekai: Peace over Power for This Nothin’ Bumpkin — Jaga Butter; illustrazioni di Minako Iwasaki."
+          ]
+        },
+        {
+          "title": "6 nuovi manga digitali · primo capitolo del volume 1 disponibile",
+          "items": [
+            "Clouds Drift, Love Follows — Oniku e A.M. Cola; etichetta J-Novel Heart.",
+            "The Eyes of God Paint the Ashen World with Color: Arise with the Power of Stats-Sight — KAZU e Shibakame.",
+            "Shut-in Savior: Sent to Another World with My House! — Yusuke Shirato e Shinkosei.",
+            "Lacey Longs for Freedom: The Dawn Witch’s Low-Key Life after Defeating the Demon King — Hyogo Amagasa e kazura chidori; J-Novel Heart.",
+            "Merrily, We Tumble Along — Tsubumi Mori e Sylvia Gallagher.",
+            "I’m Dating a Dark Summoner — Shaoh."
+          ]
+        },
+        {
+          "title": "2 annunci per le edizioni cartacee",
+          "items": [
+            "Rebuild World, novel volume 1 — 27 aprile 2027. Autore Nahuse, illustrazioni Gin, design yish e Cell.",
+            "A Royal Rebound: Forget My Ex-Fiancé, I’m Being Pampered by the Prince!, manga volume 1 — 8 giugno 2027. Micoto Sakurai e Levin Aoi."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "Seven Seas",
@@ -95,7 +186,45 @@
       "receivedAt": "2026-11-13T23:02:34+00:00",
       "sourceUrl": "https://mailchi.mp/gomanga/get-cozy-with-our-new-releases-a-cover-reveal",
       "sourceType": "public-newsletter",
-      "id": "af6283ca46630187831d0348"
+      "id": "af6283ca46630187831d0348",
+      "sections": [
+        {
+          "title": "Nuovi libri",
+          "items": [
+            "Good Morning, Good Night, and See You Tomorrow. 1 — manga ispirato all’esperienza dell’autrice con il cancro.",
+            "Wolfhound — manga BL.",
+            "Me and the Prez, Drinking Under the Stars 1 — commedia romantica ambientata in ufficio.",
+            "When It Rains, It Pours — light novel BL.",
+            "After the Disabled God of War Became My Concubine 4 — volume conclusivo della novel danmei."
+          ]
+        },
+        {
+          "title": "Uscite anticipate in digitale",
+          "items": [
+            "Too Many Losing Heroines! — Short Stories (light novel).",
+            "A Tale of the Secret Saint ZERO 6 — light novel prequel.",
+            "The Condemned Villainess Goes Back in Time and Aims to Become the Ultimate Villain 9 — light novel.",
+            "The Weakest Tamer Began a Journey to Pick Up Trash 14 — light novel."
+          ]
+        },
+        {
+          "title": "Audiolibri",
+          "items": [
+            "The Misdeeds of an Extremely Arrogant Villain Aristocrat 1 — voce di Erras Croft.",
+            "Riverbay Road Men’s Dormitory 2 — conclusivo; voce di Pun Bandhu.",
+            "I’m the Evil Lord of an Intergalactic Empire! 11 — voce di Cliff Kirk."
+          ]
+        },
+        {
+          "title": "Annunci e prenotazioni",
+          "items": [
+            "Beacon of Light in the Dark Sea, novel 4 — rivelata la copertina di JiyuB; edizione inglese prevista a maggio 2027.",
+            "Mii-chan and Miss Yamada 1 — titolo in evidenza per le prenotazioni; dramma su due giovani donne che lavorano in un host club.",
+            "Sondaggio lettori novembre 2026 — suggerimenti per nuove licenze, estrazione di un paperback e coupon BookWalker indicato con scadenza 31 dicembre nella mail."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "Yen Press / Ize Press",
@@ -114,7 +243,28 @@
       "receivedAt": "2026-11-13T13:31:49+00:00",
       "sourceUrl": "https://yenpress.com/",
       "sourceType": "publisher-site",
-      "id": "9ad6e417f97a505fd3409870"
+      "id": "9ad6e417f97a505fd3409870",
+      "sections": [
+        {
+          "title": "Manhwa in arrivo in edizione cartacea",
+          "items": [
+            "On the Way to Meet Mom, volume 1 — 8 dicembre 2026.",
+            "Merry Marbling, volume 1 — 8 dicembre 2026.",
+            "Love So Pure, volume 1 — 8 dicembre 2026.",
+            "Not Your Typical Reincarnation Story, volume 1 — 15 dicembre 2026.",
+            "Legroom — prenotazioni aperte per l’edizione cartacea di aprile 2027; manhwa horror BL su prigionia e manipolazione."
+          ]
+        },
+        {
+          "title": "Promozioni e contenuti aggiuntivi",
+          "items": [
+            "My Gently Raised Beast — la mail propone il 40% di sconto sul webstore per novembre; serie completa in 9 volumi.",
+            "Special Civil Servant — sfondi calendario di novembre scaricabili per dispositivi.",
+            "The Remarried Empress — volumi cartacei 1–11 segnalati come disponibili. La newsletter menziona l’adattamento live action su Hulu/Disney+; disponibilità italiana non verificata."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "Seven Seas",
@@ -133,7 +283,62 @@
       "receivedAt": "2026-10-09T21:12:02+00:00",
       "sourceUrl": "https://mailchi.mp/gomanga/wonderful-wednesdays-are-back-see-whats-coming-soon",
       "sourceType": "public-newsletter",
-      "id": "768d480a8486a493dc7ef42d"
+      "id": "768d480a8486a493dc7ef42d",
+      "sections": [
+        {
+          "title": "Nuove licenze",
+          "items": [
+            "The One-Eyed, One-Armed, One-Legged Sorcerer — light novel di Suzusuke e Sumihei.",
+            "Record of a Reincarnated Chancellor: I Was Summoned by a Hopeless Demon Lord to Rebuild Her Army — light novel di Panda Pudding e Hiyaori.",
+            "Living With My New Cat — Fujihito; seguito di Living With My Old Cat.",
+            "Twinkling Secrets Told Us Tonight Is the Night — manga BL fantasy di NOJIRO GURI.",
+            "Zukyun x Bakyun — Teito Yuzuriha."
+          ]
+        },
+        {
+          "title": "Nuovi libri",
+          "items": [
+            "Even the Student Council Has Its Holes! 1.",
+            "The Neverending Winter, the Land of Broken Dreams — light novel.",
+            "Unexpectedly Naughty Fukami 1.",
+            "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits! 1 — manga.",
+            "Harem Camp! 1."
+          ]
+        },
+        {
+          "title": "Digitale anticipato",
+          "items": [
+            "Witch and Mercenary 7 — light novel.",
+            "The Too-Perfect Saint: Tossed Aside By My Fiancé and Sold to Another Kingdom 7 — light novel.",
+            "Free Life Fantasy Online: Immortal Princess 11 — light novel."
+          ]
+        },
+        {
+          "title": "Audiolibri annunciati",
+          "items": [
+            "When It Rains, It Pours — voce di Derek Prince.",
+            "Reluctant Space Commander: From Death Wish to Galactic Hero! — voce di Maxwell Glick.",
+            "Al the Adventurer: That Magic Shouldn’t Work! — voce di Micky Shiloah."
+          ]
+        },
+        {
+          "title": "Audiolibri in uscita",
+          "items": [
+            "Betrothed to My Sister’s Ex 2 — Jennifer Sun Bell.",
+            "Reincarnated as a Dragon Hatchling 5 — Knox Riley.",
+            "The Too-Perfect Saint 6 — Mirai.",
+            "I’m the Evil Lord of an Intergalactic Empire! 10 — Cliff Kirk."
+          ]
+        },
+        {
+          "title": "Copertine e prenotazioni",
+          "items": [
+            "Beacon of Light in the Dark Sea 3 — copertina di JiyuB; inglese cartaceo e digitale a gennaio 2027.",
+            "Slime Saint 1 — manga fantasy in evidenza per le prenotazioni."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "Seven Seas",
@@ -152,7 +357,45 @@
       "receivedAt": "2026-05-29T22:03:44+00:00",
       "sourceUrl": "https://mailchi.mp/gomanga/kickstart-your-summer-with-these-hot-new-titles",
       "sourceType": "public-newsletter",
-      "id": "155574673814babe43657007"
+      "id": "155574673814babe43657007",
+      "sections": [
+        {
+          "title": "Nuovi libri",
+          "items": [
+            "Beacon of Light in the Dark Sea 1 — novel coreana in edizione inglese cartacea.",
+            "My Cat’s Aura is Strong Today 1 — manga a colori.",
+            "The Scum Laugh 1 — manga a colori.",
+            "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi, Deluxe Hardcover Novel 5 — conclusivo.",
+            "Kitayama and Minamiya 2 — manga BL."
+          ]
+        },
+        {
+          "title": "Digitale anticipato",
+          "items": [
+            "The Misdeeds of an Extremely Arrogant Villain Aristocrat 3 — light novel.",
+            "ROLL OVER AND DIE 6 — light novel."
+          ]
+        },
+        {
+          "title": "Audiolibri",
+          "items": [
+            "Magic Maker: How to Create Magic in Another World 1 — Mark Sanderlin.",
+            "Reincarnated Into a Game as the Hero’s Friend: Running the Kingdom Behind the Scenes 2 — Eric O’Keeffe.",
+            "Modern Dungeon Capture Starting with Broken Skills 3 — Milo Mansfield.",
+            "Didn’t I Say to Make My Abilities Average in the Next Life?! 3 — Kara Oates.",
+            "Loner Life in Another World 8 — Maxwell Glick."
+          ]
+        },
+        {
+          "title": "Copertine, omaggi e prenotazioni",
+          "items": [
+            "The Sword Named No Way Out 1 — copertina di Bakuten, romanzo di Huai Shang; inglese cartaceo e digitale annunciato per novembre 2026.",
+            "The Delinquent and the Transfer Student 1 — shikishi esclusivo Kinokuniya con l’acquisto, fino a esaurimento scorte.",
+            "I’m Fine With Being the Second Girlfriend 1 — titolo in evidenza per le prenotazioni."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "Seven Seas",
@@ -171,7 +414,52 @@
       "receivedAt": "2026-03-06T22:37:39+00:00",
       "sourceUrl": "https://mailchi.mp/gomanga/spring-into-our-newest-releases-and-more",
       "sourceType": "public-newsletter",
-      "id": "7e0f1995040be72ecacbabe3"
+      "id": "7e0f1995040be72ecacbabe3",
+      "sections": [
+        {
+          "title": "Nuovi libri",
+          "items": [
+            "The Tale of a Little Alchemist Blessed by the Spirits 1 — manga.",
+            "We Are Not Beasts — manga BL.",
+            "They Are Still Being Shaken This Morning 1 — commedia romantica.",
+            "Virgin Ventures: Hilarious Hijinks of Erotic Amateurs 2.",
+            "Tales of the Hundred Monsters Next Door 2."
+          ]
+        },
+        {
+          "title": "Digitale anticipato",
+          "items": [
+            "The Tale of a Little Alchemist Blessed by the Spirits 2 — light novel.",
+            "The Strange Adventure of a Broke Mercenary 14 — light novel."
+          ]
+        },
+        {
+          "title": "Nuove licenze audio",
+          "items": [
+            "Virgin Knight: I Became the Frontier Lord in a World Ruled by Women — voce di John Patneaude.",
+            "I Like Villains, so I Reincarnated as One — voce di Neo Cihi.",
+            "The Tale of a Little Alchemist Blessed by the Spirits — voce di Phoebe Strole."
+          ]
+        },
+        {
+          "title": "Audiolibri disponibili",
+          "items": [
+            "I Like Villains, so I Reincarnated as One 1 — Neo Cihi.",
+            "I Swear I Won’t Bother You Again! 2 — Phoebe Strole.",
+            "Kuma Kuma Kuma Bear 9 — Marissa Lenti.",
+            "Adachi and Shimamura 10 — Analise Scarpaci."
+          ]
+        },
+        {
+          "title": "Altre segnalazioni",
+          "items": [
+            "Legend of Exorcism: Tianbao Fuyao Lu 6 — rivelata la copertina di Ruthie; uscita inglese annunciata per agosto 2026.",
+            "I Ship My Rival x Me — manhua di PEPA e Qualia in evidenza tra i consigli della redazione.",
+            "Dungeon Elf: What’s a Dungeon without Treasure Chests? — manga in evidenza per le prenotazioni."
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "J-Novel Club",
@@ -189,7 +477,83 @@
       "receivedAt": "2025-12-18T02:00:09+00:00",
       "sourceUrl": "https://mailchi.mp/j-novel/nov2025lnrecap",
       "sourceType": "public-newsletter",
-      "id": "0e0838ebbd805f48670f2bb2"
+      "id": "0e0838ebbd805f48670f2bb2",
+      "sections": [
+        {
+          "title": "Titoli approfonditi nella newsletter",
+          "items": [
+            "Tearmoon Empire Volume 14",
+            "Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole Volume 2",
+            "Ascendance of a Bookworm: Fanbook Volume 5",
+            "Isekai Tensei: Recruited to Another World Omnibus 2",
+            "My Next Life as a Villainess: All Routes Lead to Doom! Volume 13",
+            "The Brilliant Healer's New Life in the Shadows Volume 3",
+            "By the Grace of the Gods Volume 15",
+            "Campfire Cooking in Another World With My Absurd Skill: Omnibus 3 (Volumes 5 & 6)",
+            "Ascendance of a Bookworm: Short Story Collection Volume 2",
+            "Invaders of the Rokujouma!? Collector's Edition 13 (Light Novel)"
+          ]
+        },
+        {
+          "title": "Ebook usciti a novembre 2025",
+          "items": [
+            "Ascendance of a Bookworm Fanbook Volume 7",
+            "My Magical Career at Court: Living the Dream After My Nightmare Boss Fired Me from the Mages' Guild! Volume 6 (",
+            "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic Volume 7 (",
+            "Duchess in the Attic Volume 4 (",
+            "Chivalry of a Failed Knight Volume 0 (",
+            "Heir to a Monstermancer Volume 1 ( - NEW SERIES!",
+            "The Amazing Village Creator: Slow Living with the Village Building Cheat Skill Volume 1 (",
+            "Chillin’ in Another World with Level 2 Super Cheat Powers Volume 19 (",
+            "Worthless at Home, Whiz to the World Volume 2 (",
+            "Record of Wortenia War Volume 30 (",
+            "The Unwanted Undead Adventurer Volume 14 (",
+            "Sword Saint Adel's Second Chance Volume 4 (",
+            "Goodbye, Overtime! This Reincarnated Villainess Is Living for Her New Big Brother Volume 6 (",
+            "Private Tutor to the Duke’s Daughter Volume 18 (",
+            "Blade Skill Online: Crushing the Competition with My Abysmal Stats, Useless Class, and Garbage Weapon! Volume 2 (",
+            "In Another World With My Smartphone Volume 31 (",
+            "DUNGEON DIVE: Aim for the Deepest Level Volume 11 (",
+            "Engaging with the Plot: A Former Cat’s Attempt to Save Her Now Temporary Fiancé Volume 2 (",
+            "Promised to a Dragon Volume 1 ( - NEW SERIES!",
+            "Notorious No More: The Villainess Enjoys Feigning Incompetence Volume 2 (",
+            "The Frontier Lord Begins with Zero Subjects Volume 11 (",
+            "Looks like a Job for a Maid! The Tales of a Dismissed Supermaid Volume 1 (",
+            "The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World Volume 1 ( - NEW SERIES!",
+            "This Gyaru’s Got a Thing for...Vampire Hunters?! Volume 2 (",
+            "The Fearsome Witch Teaches in Another World Volume 1 ( - NEW SERIES!",
+            "Holmes of Kyoto Volume 20 ("
+          ]
+        },
+        {
+          "title": "Nuovi volumi Pre-Pub avviati a novembre 2025",
+          "items": [
+            "The Reincarnation of the Strongest Exorcist in Another World Volume 7 (",
+            "It's Tough Being a Necromancer Volume 1 ( - NEW SERIES!",
+            "Notorious No More: The Villainess Enjoys Feigning Incompetence Volume 3 (",
+            "The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World Volume 2 (",
+            "Disowned but Not Disheartened! Life Is Good with Overpowered Magic Volume 3 (",
+            "Royal Spirits Are a Royal Pain! Give Me a Regular Romance Volume 2 (",
+            "Chivalry of a Failed Knight Volume 8 (",
+            "Private Tutor to the Duke’s Daughter Volume 19 (",
+            "The Fearsome Witch Teaches in Another World Volume 2 (",
+            "Zilbagias the Demon Prince: How the Seventh Prince Brought Down the Kingdom Volume 6 (",
+            "Black Summoner Volume 22 (",
+            "Looks like a Job for a Maid! The Tales of a Dismissed Supermaid Volume 2 (",
+            "Late-Start Tamer’s Laid-Back Life Volume 14 (",
+            "An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me! Volume 12 (",
+            "Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat Volume 4 (",
+            "In Another World with Household Spells Volume 4 (",
+            "The Diary of a Middle-Aged Sage's Carefree Life in Another World Volume 9 (",
+            "Guild Handyman? More like Mastermind! Using My Hidden Skills in the Shadows Volume 2 (",
+            "Holmes of Kyoto Volume 21 (http://",
+            "DUNGEON DIVE: Aim for the Deepest Level Volume 12 (",
+            "Pens Down, Swords Up: Throw Your Studies to the Wind Volume 5 (",
+            "Lady Bumpkin and Her Lord Villain Volume 6 ("
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     },
     {
       "publisher": "J-Novel Club",
@@ -207,7 +571,54 @@
       "receivedAt": "2025-12-09T02:00:00+00:00",
       "sourceUrl": "https://mailchi.mp/j-novel/november2025mangarecap",
       "sourceType": "public-newsletter",
-      "id": "5c8f985126011d6b1849bc64"
+      "id": "5c8f985126011d6b1849bc64",
+      "sections": [
+        {
+          "title": "Titoli approfonditi nella newsletter",
+          "items": [
+            "Gushing over Magical Girls 5 — 11 novembre 2025.",
+            "Campfire Cooking in Another World with My Absurd Skill, manga 5 — 11 novembre 2025.",
+            "Isekai Tensei: Recruited to Another World, manga 3 — 9 dicembre 2025.",
+            "Gushing over Magical Girls 6 — 9 dicembre 2025.",
+            "The Unwanted Undead Adventurer, manga 12 — 9 dicembre 2025.",
+            "Ascendance of a Bookworm, manga Part 4 volume 1 — 11 novembre 2025."
+          ]
+        },
+        {
+          "title": "Ebook usciti a novembre 2025",
+          "items": [
+            "Karate Master Isekai (Manga) Volume 5 (",
+            "Zero Damage Sword Saint (Manga) Volume 2 (",
+            "Black Summoner (Manga) Volume 21 (",
+            "An Archdemon’s Dilemma: How to Love Your Elf Bride (Manga) Volume 13 (",
+            "Imperial Reincarnation: I Came, I Saw, I Survived (Manga) Volume 2 (",
+            "Only I Know That This World Is a Game (Manga) Volume 10 (",
+            "Sometimes Even Reality is a Lie (Manga) Volume 6 (",
+            "Make It Stop! I’m Not Strong… It’s Just My Sword! (Manga) Volume 2 (",
+            "Fired? But I Maintain All the Software! (Manga) Volume 1 ( - NEW SERIES!"
+          ]
+        },
+        {
+          "title": "Nuovi volumi Pre-Pub avviati a novembre 2025",
+          "items": [
+            "How a Realist Hero Rebuilt the Kingdom (Manga) Volume 13 (",
+            "The Invincible Little Lady Volume 11 (",
+            "Fired? But I Maintain All the Software! (Manga) Volume 2 (",
+            "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet! (Manga) Volume 4 (",
+            "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me! AΩ (Manga) Volume 12 (",
+            "The 100th Time’s the Charm: She Was Executed 99 Times, So How Did She Unlock “Super Love” Mode?!\" (Manga) Volume 5 (",
+            "Bibliophile Princess (Manga) Volume 10 (",
+            "The Fearsome Witch Teaches in Another World (Manga) Volume 2 (",
+            "Worthless at Home, Whiz to the World Volume 3 (",
+            "One Last Hurrah! The Grayed Heroes Explore a Vivid Future Volume 2 (",
+            "My Death-Defying Dog: Man’s Best Friend, World’s Best Savior (Manga) Volume 2 (",
+            "The Otome Heroine's Fight for Survival (Manga) Volume 6 (",
+            "Ascendance of a Bookworm (Manga) Part 3 Volume 5 (",
+            "Even Exiled, She's Still the Beloved Saint! St. Evelyn's Weird and Wonderful Friends (Manga) Volume 2 ("
+          ]
+        }
+      ],
+      "detailNote": "Date, prezzi, promozioni e disponibilità sono quelli comunicati nella newsletter, non una verifica dello stato attuale."
     }
   ]
 }

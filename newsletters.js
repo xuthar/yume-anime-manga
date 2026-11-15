@@ -16,12 +16,12 @@ function card(e){
  const title=make('h3',null,e.subject),summary=make('p','nl-summary',e.summary);article.append(meta,title,summary);
  const tags=make('div','nl-tags');for(const tag of e.tags||[])tags.append(make('span',null,tag));article.append(tags);
  const bottom=make('div','nl-card-bottom');
- if(e.highlights?.length){const details=make('details'),toggle=make('summary',null,'Leggi il riepilogo');details.append(toggle);const ul=make('ul');for(const item of e.highlights)ul.append(make('li',null,item));details.append(ul);bottom.append(details)}
+ if(e.highlights?.length||e.sections?.length){const details=make('details'),toggle=make('summary',null,'Leggi tutti i dettagli');details.append(toggle);const ul=make('ul');for(const item of e.highlights)ul.append(make('li',null,item));details.append(ul);for(const section of e.sections||[]){const block=make('section','nl-detail-section');block.append(make('h4',null,section.title));const rows=make('ul');for(const item of section.items||[])rows.append(make('li',null,item));block.append(rows);details.append(block)}if(e.detailNote)details.append(make('p','nl-detail-note',e.detailNote));bottom.append(details)}
  const url=source(e.sourceUrl);if(url){const a=make('a','nl-source',e.sourceType==='public-newsletter'?'Newsletter originale ↗':'Sito della fonte ↗');a.href=url;a.target='_blank';a.rel='noopener noreferrer';bottom.append(a)}
  article.append(bottom);return article;
 }
 function render(){
- const q=norm(search.value),items=entries.filter(e=>(publisher.value==='all'||publisher.value===e.publisher)&&(month.value==='all'||monthKey(e.receivedAt)===month.value)&&(!q||norm([e.publisher,e.subject,e.summary,...e.tags,...e.highlights].join(' ')).includes(q)));
+ const q=norm(search.value),items=entries.filter(e=>(publisher.value==='all'||publisher.value===e.publisher)&&(month.value==='all'||monthKey(e.receivedAt)===month.value)&&(!q||norm([e.publisher,e.subject,e.summary,...e.tags,...e.highlights,...(e.sections||[]).flatMap(s=>[s.title,...(s.items||[])])].join(' ')).includes(q)));
  items.sort((a,b)=>(order.value==='oldest'?1:-1)*(Date.parse(a.receivedAt)-Date.parse(b.receivedAt))||a.id.localeCompare(b.id));
  const shown=items.slice(0,limit),fragment=document.createDocumentFragment();let current='';
  for(const e of shown){const key=monthKey(e.receivedAt);if(key!==current){fragment.append(make('h2','nl-month-heading',monthLabel(key)));current=key}fragment.append(card(e))}
