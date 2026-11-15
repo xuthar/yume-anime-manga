@@ -71,3 +71,7 @@
 .organized-home>header:not(.y3-header){box-sizing:border-box;width:var(--home-rail);max-width:none;padding:18px 0;margin:0 auto}
 .organized-home>header:not(.y3-header)>nav{width:100%;max-width:none;padding-left:0;padding-right:0}
 .home-watching-title{font-family:inherit;font-weight:600;font-size:11px;line-height:1.5}
+/* The hero artwork is capped at 1380px: every outer rail shares that cap. */
+.organized-home{--home-rail:min(1380px,calc(100% - 40px))}
+.organized-home>header:not(.y3-header),.organized-home>.hero,.organized-home .home-news-rail,.organized-home .hub-main{width:var(--home-rail);max-width:1380px!important;margin-left:auto;margin-right:auto}
+@media(max-width:650px){.organized-home{--home-rail:min(1380px,calc(100% - 20px))}}
