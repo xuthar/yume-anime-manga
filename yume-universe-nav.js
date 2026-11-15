@@ -1,7 +1,7 @@
 /* Shared six-world navigator. Keeps a clear route home on every Yume page. */
 (function(){
 'use strict';
-if(document.querySelector('.yn-dock'))return;
+if(document.querySelector('.yn-dock')||document.querySelector('body > header nav[aria-label*="Menu principale"]')||document.querySelector('body > header nav[aria-label*="Navigazione principale"]'))return;
 const style=document.createElement('style');
 style.textContent=`
 body.has-yume-dock{padding-bottom:55px!important}

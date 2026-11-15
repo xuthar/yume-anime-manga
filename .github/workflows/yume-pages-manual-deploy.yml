@@ -7,6 +7,9 @@ on:
   push:
     branches: [main]
     paths:
+      - "*.html"
+      - "*.css"
+      - "*.js"
       - "idols-discovery-data.js"
       - "idols-discovery-category.js"
       - "scripts/yume-photo-harvest.cjs"
