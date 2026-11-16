@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T13:56:30.024551+01:00",
+  "updatedAt": "2026-11-16T14:56:48.940348+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
+      "checkedAt": "2026-11-16T14:56:48.940348+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
+      "checkedAt": "2026-11-16T14:56:48.940348+01:00",
       "status": "ok"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
+      "checkedAt": "2026-11-16T14:56:48.940348+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
+      "checkedAt": "2026-11-16T14:56:48.940348+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-15T13:56:30.024551+01:00",
+      "checkedAt": "2026-11-16T14:56:48.940348+01:00",
       "status": "ok"
     }
   ],
@@ -4883,17 +4883,6 @@
     },
     {
       "date": "2026-11-18",
-      "title": "Adolescenza esplosiva 2",
-      "series": "Adolescenza esplosiva",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112641/adolescenza-esplosiva",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
       "title": "Black Letter 6",
       "series": "Black Letter",
       "publisher": "Edizioni BD",
@@ -4945,17 +4934,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112697/il-primo-amore-di-nezumi",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "La voce della strada 7",
-      "series": "La voce della strada",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112706/la-voce-della-strada",
       "sourceId": "animeclick-manga"
     },
     {
@@ -5022,28 +5000,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112667/nine-stones-pack",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "On & Off - Tra vita e ufficio 3",
-      "series": "On & Off - Tra vita e ufficio",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111629/on-off-tra-vita-e-ufficio",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "On & Off - Tra vita e ufficio Deluxe 3",
-      "series": "On & Off - Tra vita e ufficio",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112911/on-off-tra-vita-e-ufficio-deluxe",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6344,6 +6300,17 @@
     },
     {
       "date": "2026-11-25",
+      "title": "Adolescenza esplosiva 2",
+      "series": "Adolescenza esplosiva",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112641/adolescenza-esplosiva",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
       "title": "After God 10",
       "series": "After God",
       "publisher": "Dynit",
@@ -6531,6 +6498,17 @@
     },
     {
       "date": "2026-11-25",
+      "title": "La voce della strada 7",
+      "series": "La voce della strada",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112706/la-voce-della-strada",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
       "title": "Miss Kobayashi's Dragon Maid 18",
       "series": "Miss Kobayashi's Dragon Maid",
       "publisher": "JPOP",
@@ -6538,6 +6516,28 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3111887/miss-kobayashis-dragon-maid",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "On & Off - Tra vita e ufficio 3",
+      "series": "On & Off - Tra vita e ufficio",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111629/on-off-tra-vita-e-ufficio",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "On & Off - Tra vita e ufficio Deluxe 3",
+      "series": "On & Off - Tra vita e ufficio",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112911/on-off-tra-vita-e-ufficio-deluxe",
       "sourceId": "animeclick-manga"
     },
     {
