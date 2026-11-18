@@ -72,9 +72,18 @@
     photo:'https://commons.wikimedia.org/wiki/Special:FilePath/'+uri+'?width=480',
     source:'https://commons.wikimedia.org/wiki/File:'+uri,alternates:[]};
  }
+ // A saved thumbnail is not necessarily still accessible. Preserve the
+ // separately documented Commons fallback even when an index match exists.
+ // This repair serves Japanese idols, Asia Idols, Sport Idols and Young Stars.
  const read=(kind,name,country)=>{
   const k=kind==='asia'?country+':'+key(name):key(name);
-  return data[kind]?.[k]||fallback[kind]?.[k]||null
+  const primary=data[kind]?.[k]||null,rescue=fallback[kind]?.[k]||null;
+  if(!primary)return rescue;
+  if(!rescue?.verified||!rescue.photo)return primary;
+  if(!primary.verified||!primary.photo)return rescue;
+  const alternates=[...(primary.alternates||[]),rescue.photo,...(rescue.alternates||[])]
+   .filter(u=>typeof u==='string'&&u.startsWith('https://')&&u!==primary.photo);
+  return {...primary,alternates:[...new Set(alternates)]};
  };
  const load=fetch('data/yume-photo-index.json?v=20261112-commons-rights1',{cache:'no-store'})
  .then(r=>{if(!r.ok)throw Error('Photo index not generated yet');return r.json()})
