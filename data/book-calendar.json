@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:51:02.942462+01:00",
+  "updatedAt": "2026-11-18T15:29:47.016703+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-17T15:51:02.942462+01:00",
+      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-17T15:51:02.942462+01:00",
+      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
       "status": "ok"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-17T15:51:02.942462+01:00",
+      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-17T15:51:02.942462+01:00",
+      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-17T15:51:02.942462+01:00",
+      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
       "status": "ok"
     }
   ],
@@ -11989,6 +11989,174 @@
     },
     {
       "date": "2027-05-04",
+      "title": "Draw This, Then Die! Vol. 4",
+      "series": "Draw This, Then Die! Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-906-7",
+      "url": "https://sevenseasentertainment.com/books/draw-this-then-die-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Exotic Animal Doctor Vol. 4",
+      "series": "Exotic Animal Doctor Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-908-1",
+      "url": "https://sevenseasentertainment.com/books/exotic-animal-doctor-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Gilded Seven Vol. 3",
+      "series": "Gilded Seven Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-929-7",
+      "url": "https://sevenseasentertainment.com/books/gilded-seven-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Harem Camp! Vol. 3",
+      "series": "Harem Camp! Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-300-4",
+      "url": "https://sevenseasentertainment.com/books/harem-camp-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Hotel Inhumans Vol. 4",
+      "series": "Hotel Inhumans Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-917-3",
+      "url": "https://sevenseasentertainment.com/books/hotel-inhumans-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Inside the Tentacle Cave (Manga) Vol. 9",
+      "series": "Inside the Tentacle Cave (Manga) Vol. 9",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-959-4",
+      "url": "https://sevenseasentertainment.com/books/inside-the-tentacle-cave-manga-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Manga) Vol. 6",
+      "series": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Manga) Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-342-9",
+      "url": "https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Kaya-chan Isn’t Scary Vol. 8",
+      "series": "Kaya-chan Isn’t Scary Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-962-4",
+      "url": "https://sevenseasentertainment.com/books/kaya-chan-isnt-scary-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Love is an Illusion! – Superstar (Manhwa) Vol. 1",
+      "series": "Love is an Illusion! – Superstar (Manhwa) Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-849-2",
+      "url": "https://sevenseasentertainment.com/books/love-is-an-illusion-superstar-manhwa-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Low Tide in Twilight Vol. 3",
+      "series": "Low Tide in Twilight Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-200-7",
+      "url": "https://sevenseasentertainment.com/books/low-tide-in-twilight-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Made in Abyss Vol. 15",
+      "series": "Made in Abyss Vol. 15",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-974-7",
+      "url": "https://sevenseasentertainment.com/books/made-in-abyss-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "My Kitten is a Picky Eater Vol. 12",
+      "series": "My Kitten is a Picky Eater Vol. 12",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-631-8",
+      "url": "https://sevenseasentertainment.com/books/my-kitten-is-a-picky-eater-vol-12/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Printernia Nippon: My Squishy Bio-Printed Pet Vol. 3",
+      "series": "Printernia Nippon: My Squishy Bio-Printed Pet Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-089-8",
+      "url": "https://sevenseasentertainment.com/books/printernia-nippon-my-squishy-bio-printed-pet-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Skeleton Knight in Another World (Manga) Vol. 15",
+      "series": "Skeleton Knight in Another World (Manga) Vol. 15",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-025-0",
+      "url": "https://sevenseasentertainment.com/books/skeleton-knight-in-another-world-manga-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
       "title": "The Case Files of Jeweler Richard (Manga) Vol. 7",
       "series": "The Case Files of Jeweler Richard (Manga) Vol. 7",
       "publisher": "Seven Seas",
@@ -11997,6 +12165,90 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89561-719-9",
       "url": "https://sevenseasentertainment.com/books/the-case-files-of-jeweler-richard-manga-vol-7/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice (Manga) Vol. 3",
+      "series": "The Obsessed Mage and His Beloved Statue Bride: She Cannot Resist His Seductive Voice (Manga) Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-099-7",
+      "url": "https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "The Tomorrow I Want to See with Kako: A Time-Loop Romantic Comedy Vol. 2",
+      "series": "The Tomorrow I Want to See with Kako: A Time-Loop Romantic Comedy Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-108-0",
+      "url": "https://sevenseasentertainment.com/books/the-tomorrow-i-want-to-see-with-kako-a-time-loop-romantic-comedy-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "The Twelve Kingdoms Book 9 – The Dream of Prosperity (Novel)",
+      "series": "The Twelve Kingdoms Book 9 – The Dream of Prosperity (Novel)",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-030-9",
+      "url": "https://sevenseasentertainment.com/books/the-twelve-kingdoms-book-9-the-dream-of-prosperity-novel/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "Yakuza Reincarnation Vol. 17",
+      "series": "Yakuza Reincarnation Vol. 17",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-664-6",
+      "url": "https://sevenseasentertainment.com/books/yakuza-reincarnation-vol-17/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "My New Life as a Cat Vol. 15",
+      "series": "My New Life as a Cat Vol. 15",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-214-4",
+      "url": "https://sevenseasentertainment.com/books/my-new-life-as-a-cat-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Our Sunny Days Vol. 3",
+      "series": "Our Sunny Days Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-222-9",
+      "url": "https://sevenseasentertainment.com/books/our-sunny-days-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "The Feisty Omega and His Twin Mates Vol. 6",
+      "series": "The Feisty Omega and His Twin Mates Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-046-5",
+      "url": "https://sevenseasentertainment.com/books/the-feisty-omega-and-his-twin-mates-vol-6/",
       "sourceId": "seven-seas"
     }
   ]
