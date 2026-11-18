@@ -407,7 +407,7 @@ function render(){
  &&(!['creators','music','cosplay'].includes(active)||!platformSelect||platformSelect.value==='all'||[...(p.verifiedSocials||[]),...(officialSocial[p.name]||[])].some(([platform])=>platform===platformSelect.value||platform.startsWith(platformSelect.value+' ·')))
  &&(!photoOnly?.checked||hasPhoto(p))
  &&(!q||normalize(p.name+' '+(p.alternate||'')+' '+(p.gravureIndexJapanese||'')+' '+(p.otherStageNames||[]).join(' ')+' '+(p.group||'')+' '+(p.wikiGroup||'')+' '+(p.groups||[]).join(' ')+' '+(p.editorialBio||'')+' '+(p.adultPlatforms||[]).join(' ')+' '+categoriesOf(p)).includes(q)));
- shown.sort((a,b)=>Number(b.portraitReviewedAt==='2026-11-15')-Number(a.portraitReviewedAt==='2026-11-15')||Number(b.socialCheckedAt==='2026-11-14')-Number(a.socialCheckedAt==='2026-11-14')||(['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it')));
+ shown.sort((a,b)=>Number(b.portraitReviewedAt==='2026-11-18')-Number(a.portraitReviewedAt==='2026-11-18')||Number(b.portraitReviewedAt==='2026-11-15')-Number(a.portraitReviewedAt==='2026-11-15')||Number(b.socialCheckedAt==='2026-11-14')-Number(a.socialCheckedAt==='2026-11-14')||(['creators','adult','jav','onlyfans','gravure'].includes(active)?Number(hasPhoto(b))-Number(hasPhoto(a))||a.name.localeCompare(b.name,'it'):a.name.localeCompare(b.name,'it')));
  const display=shown.slice(0,limit),fragment=document.createDocumentFragment();
  if(!adultCats.has(active))window.YumeIdolCommonsPortraits?.ensure(display);
  for(const p of display)fragment.append(item(p));list.replaceChildren(fragment);
