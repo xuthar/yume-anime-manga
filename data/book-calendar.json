@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:29:47.016703+01:00",
+  "updatedAt": "2026-11-19T15:40:10.339634+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
+      "checkedAt": "2026-11-19T15:40:10.339634+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
+      "checkedAt": "2026-11-19T15:40:10.339634+01:00",
       "status": "ok"
     },
     {
@@ -24,14 +24,14 @@
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
       "checkedAt": "2026-11-18T15:29:47.016703+01:00",
-      "status": "ok"
+      "status": "error"
     },
     {
       "id": "yen-press",
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
+      "checkedAt": "2026-11-19T15:40:10.339634+01:00",
       "status": "ok"
     },
     {
@@ -40,7 +40,7 @@
       "url": "https://j-novel.club/calendar",
       "language": "EN",
       "checkedAt": "2026-11-18T15:29:47.016703+01:00",
-      "status": "ok"
+      "status": "error"
     }
   ],
   "releases": [
@@ -5442,6 +5442,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112230/tokyo-tarareba-girls",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "La maschera di Innsmouth Deluxe Variant",
+      "series": "La maschera di Innsmouth",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112974/la-maschera-di-innsmouth-deluxe-variant",
       "sourceId": "animeclick-manga"
     },
     {
