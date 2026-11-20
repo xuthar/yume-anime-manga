@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:40:10.339634+01:00",
+  "updatedAt": "2026-11-20T15:19:11.334826+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-19T15:40:10.339634+01:00",
+      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-19T15:40:10.339634+01:00",
+      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
       "status": "ok"
     },
     {
@@ -23,15 +23,15 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-18T15:29:47.016703+01:00",
-      "status": "error"
+      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
+      "status": "ok"
     },
     {
       "id": "yen-press",
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-19T15:40:10.339634+01:00",
+      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
       "status": "ok"
     },
     {
@@ -12228,6 +12228,30 @@
     },
     {
       "date": "2027-05-11",
+      "title": "DEAR. DOOR (Comic) Vol. 6",
+      "series": "DEAR. DOOR (Comic) Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-598-4",
+      "url": "https://sevenseasentertainment.com/books/dear-door-comic-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Magical Buffs: The Support Caster is Stronger Than He Realized! (Manga) Vol. 9",
+      "series": "Magical Buffs: The Support Caster is Stronger Than He Realized! (Manga) Vol. 9",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-928-9",
+      "url": "https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-manga-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
       "title": "My New Life as a Cat Vol. 15",
       "series": "My New Life as a Cat Vol. 15",
       "publisher": "Seven Seas",
@@ -12236,6 +12260,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-214-4",
       "url": "https://sevenseasentertainment.com/books/my-new-life-as-a-cat-vol-15/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "My Useless “Cuddle” Skill Awakened, and Now I’m Building the Ultimate Harem! Vol. 3",
+      "series": "My Useless “Cuddle” Skill Awakened, and Now I’m Building the Ultimate Harem! Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-084-3",
+      "url": "https://sevenseasentertainment.com/books/my-useless-cuddle-skill-awakened-and-now-im-building-the-ultimate-harem-vol-3/",
       "sourceId": "seven-seas"
     },
     {
@@ -12252,6 +12288,18 @@
     },
     {
       "date": "2027-05-11",
+      "title": "She Professed Herself Pupil of the Wise Man (Light Novel) Vol. 19",
+      "series": "She Professed Herself Pupil of the Wise Man (Light Novel) Vol. 19",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-640-0",
+      "url": "https://sevenseasentertainment.com/books/she-professed-herself-pupil-of-the-wise-man-light-novel-vol-19/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
       "title": "The Feisty Omega and His Twin Mates Vol. 6",
       "series": "The Feisty Omega and His Twin Mates Vol. 6",
       "publisher": "Seven Seas",
@@ -12260,6 +12308,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-046-5",
       "url": "https://sevenseasentertainment.com/books/the-feisty-omega-and-his-twin-mates-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Trapped in a Dating Sim: Otome Games Are Tough For Us, Too! (Light Novel) Vol. 6",
+      "series": "Trapped in a Dating Sim: Otome Games Are Tough For Us, Too! (Light Novel) Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-075-5",
+      "url": "https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-6/",
       "sourceId": "seven-seas"
     }
   ]
