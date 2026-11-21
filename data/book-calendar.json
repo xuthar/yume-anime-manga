@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:19:11.334826+01:00",
+  "updatedAt": "2026-11-21T14:40:38.900447+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
+      "checkedAt": "2026-11-21T14:40:38.900447+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
+      "checkedAt": "2026-11-21T14:40:38.900447+01:00",
       "status": "ok"
     },
     {
@@ -24,14 +24,14 @@
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
       "checkedAt": "2026-11-20T15:19:11.334826+01:00",
-      "status": "ok"
+      "status": "error"
     },
     {
       "id": "yen-press",
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
+      "checkedAt": "2026-11-21T14:40:38.900447+01:00",
       "status": "ok"
     },
     {
@@ -6157,6 +6157,17 @@
     },
     {
       "date": "2026-11-24",
+      "title": "Dealing with Mikadono Sisters Is a Breeze 2",
+      "series": "Dealing with Mikadono Sisters Is a Breeze",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112463/dealing-with-mikadono-sisters-is-a-breeze",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
       "title": "Detective Conan New Edition 75",
       "series": "Detective Conan",
       "publisher": "Star Comics",
@@ -6164,6 +6175,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112153/detective-conan-new-edition",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Gokusen 4",
+      "series": "Gokusen",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3110923/gokusen",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6186,6 +6208,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112468/handsome-girl-and-sheltered-girl",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Honey Lemon Soda - Sparkling Love Story 8",
+      "series": "Honey Lemon Soda - Sparkling Love Story",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111916/honey-lemon-soda-sparkling-love-story",
       "sourceId": "animeclick-manga"
     },
     {
