@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:53:25.943478+01:00",
+  "updatedAt": "2026-11-21T13:39:05.962546+01:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
   "coverageStart": "2026-10-20",
@@ -2672,7 +2672,7 @@
       "title": "The Vermilion Mask",
       "episode": "07",
       "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/430411",
+      "sourceUrl": "https://www.animeclick.it/episodio/430411/la-maschera-degli-spiriti",
       "itemId": null
     },
     {
@@ -3262,7 +3262,7 @@
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "episode": "09",
       "platform": "Crunchyroll, Anime Generation, Netfilx",
-      "sourceUrl": "https://www.animeclick.it/episodio/430027",
+      "sourceUrl": "https://www.animeclick.it/episodio/430027/mix-live",
       "itemId": "anime-63181"
     },
     {
