@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:40:38.900447+01:00",
+  "updatedAt": "2026-11-22T14:33:58.775763+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-21T14:40:38.900447+01:00",
+      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-21T14:40:38.900447+01:00",
+      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
       "status": "ok"
     },
     {
@@ -23,15 +23,15 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-20T15:19:11.334826+01:00",
-      "status": "error"
+      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
+      "status": "ok"
     },
     {
       "id": "yen-press",
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-21T14:40:38.900447+01:00",
+      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
       "status": "ok"
     },
     {
@@ -6135,6 +6135,17 @@
     },
     {
       "date": "2026-11-24",
+      "title": "Antengai - Archivi di illusioni 0",
+      "series": "Antengai - Archivi di illusioni",
+      "publisher": "Xpublishing",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111799/antengai-archivi-di-illusioni",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
       "title": "BABY 3",
       "series": "BABY",
       "publisher": "Toshokan",
@@ -6274,6 +6285,39 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112784/kirby-mangamania",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Love Me Knight - Kiss Me Licia Full Color 7",
+      "series": "Love Me Knight - Kiss me Licia",
+      "publisher": "Xpublishing",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112681/love-me-knight-kiss-me-licia-full-color",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Love Me Knight - Kiss Me Licia Full Color Variant 7",
+      "series": "Love Me Knight - Kiss me Licia",
+      "publisher": "Xpublishing",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112680/love-me-knight-kiss-me-licia-full-color-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Love Me Knight - Kiss me Licia Cofanetto vuoto",
+      "series": "Love Me Knight - Kiss me Licia",
+      "publisher": "Xpublishing",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112682/love-me-knight-kiss-me-licia-cofanetto-vuoto",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6651,6 +6695,17 @@
       "sourceId": "animeclick-manga"
     },
     {
+      "date": "2026-11-25",
+      "title": "Zatch Bell! 7",
+      "series": "Zatch Bell!",
+      "publisher": "JPOP",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112746/zatch-bell",
+      "sourceId": "animeclick-manga"
+    },
+    {
       "date": "2026-11-26",
       "title": "The One-Eyed, One-Armed, One-Legged Sorcerer (Light Novel) Vol. 1 [Ebook]",
       "series": "The One-Eyed, One-Armed, One-Legged Sorcerer (Light Novel) Vol. 1 [Ebook]",
@@ -6661,6 +6716,94 @@
       "isbn": "",
       "url": "https://sevenseasentertainment.com/books/the-one-eyed-one-armed-one-legged-sorcerer-light-novel-vol-1-ebook/",
       "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "After Midnight Skin 7",
+      "series": "After Midnight Skin",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112361/after-midnight-skin",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Agents of the Four Seasons - Dance of Spring 7",
+      "series": "Agents of the Four Seasons - Dance of Spring",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112364/agents-of-the-four-seasons-dance-of-spring",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Angel Heart Season One 3",
+      "series": "Angel Heart",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112320/angel-heart-season-one",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Bless 7",
+      "series": "Bless",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112328/bless",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu 5",
+      "series": "City Hunter spin-off: la vita non troppo tranquilla di Umibozu",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112321/city-hunter-spin-off-la-vita-non-troppo-tranquilla-di-umibozu",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Cold Lonely Death 12",
+      "series": "Cold Lonely Death",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112332/cold-lonely-death",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Ender Geister - The Last Exorcist 23",
+      "series": "Ender Geister - The Last Exorcist",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112339/ender-geister-the-last-exorcist",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Gigant Omnibus 2",
+      "series": "Gigant",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112342/gigant-omnibus",
+      "sourceId": "animeclick-manga"
     },
     {
       "date": "2026-11-26",
@@ -6675,13 +6818,68 @@
     },
     {
       "date": "2026-11-26",
-      "title": "Lavanderia Minato - Wash my Heart! 6",
-      "series": "Lavanderia Minato - Wash my Heart!",
+      "title": "Insieme per sempre 13",
+      "series": "Insieme per sempre",
+      "publisher": "Magic Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112794/insieme-per-sempre",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Ken il guerriero: La leggenda del telefilm di fine secolo 2",
+      "series": "Ken il guerriero: La leggenda del telefilm di fine secolo",
       "publisher": "Panini Comics",
       "language": "IT",
       "kind": "manga",
       "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112360/lavanderia-minato-wash-my-heart",
+      "url": "https://www.animeclick.it/edizione/3112322/ken-il-guerriero-la-leggenda-del-telefilm-di-fine-secolo",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Ken il guerriero: Le origini del mito Extreme Edition 14",
+      "series": "Ken il guerriero - Le origini del mito",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112323/ken-il-guerriero-le-origini-del-mito-extreme-edition",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Love Hina New Edition 1",
+      "series": "Love Hina",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112299/love-hina-new-edition",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Mi togli il respiro 7",
+      "series": "Mi togli il respiro",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112362/mi-togli-il-respiro",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Mieruko-chan 14",
+      "series": "Mieruko-chan",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112348/mieruko-chan",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6697,17 +6895,6 @@
     },
     {
       "date": "2026-11-26",
-      "title": "Otherside Picnic 16",
-      "series": "Otherside Picnic",
-      "publisher": "Panini Comics",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112335/otherside-picnic",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-26",
       "title": "Our Sunny Days Deluxe 3",
       "series": "Our Sunny Days",
       "publisher": "Magic Press",
@@ -6715,6 +6902,105 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112945/our-sunny-days-deluxe",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Ragna Crimson 17",
+      "series": "Ragna Crimson",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112337/ragna-crimson",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Reborn Rich 6",
+      "series": "Reborn Rich",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112351/reborn-rich",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Rooster Fighter 11",
+      "series": "Rooster Fighter",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112347/rooster-fighter",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Saint Seiya - I Cavalieri dello Zodiaco - The Lost Canvas: Il Mito di Hades Cofanetto 20th Anniversa 1",
+      "series": "I Cavalieri dello Zodiaco - The Lost Canvas - Il mito di Hades",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112294/saint-seiya-i-cavalieri-dello-zodiaco-the-lost-canvas-il-mito-di-hades-cofanetto-20th-anniversa",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Semi di ansia* 4",
+      "series": "Semi di ansia*",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112326/semi-di-ansia",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Seton 1",
+      "series": "Seton",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112302/seton",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Seton 2",
+      "series": "Seton",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112303/seton",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Seton 3",
+      "series": "Seton",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112304/seton",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Seton 4",
+      "series": "Seton",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112305/seton",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6737,6 +7023,94 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112301/shinobi-undercover-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Shy 31",
+      "series": "SHY",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112341/shy",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Silent Möbius Complete Edition – Tales 13",
+      "series": "Silent Möbius Tales",
+      "publisher": "Magic Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112791/silent-m%C3%B6bius-complete-edition-tales",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Sono Solo Fantasie 8",
+      "series": "Sono Solo Fantasie",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112363/sono-solo-fantasie",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Togen Anki - Sangue maledetto 26",
+      "series": "Togen Anki - Sangue Maledetto",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112340/togen-anki-sangue-maledetto",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Two Bunny Exorcists 3",
+      "series": "Two Bunny Exorcists",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112343/two-bunny-exorcists",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Wind Breaker 21",
+      "series": "Wind Breaker",
+      "publisher": "Panini Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112338/wind-breaker",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Quiztopia 1",
+      "series": "Quiztopia",
+      "publisher": "Coconino Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112691/quiztopia",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Quiztopia 2",
+      "series": "Quiztopia",
+      "publisher": "Coconino Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112692/quiztopia",
       "sourceId": "animeclick-manga"
     },
     {
