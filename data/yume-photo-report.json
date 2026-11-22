@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-16T12:45:47.010Z",
+  "generated": "2026-11-22T20:29:05.891Z",
   "stats": {
-    "total": 1442,
+    "total": 1449,
     "sport": 299,
     "asia": 602,
-    "japan": 541
+    "japan": 548
   },
   "coverage": {
     "sport": {
@@ -17,9 +17,9 @@
     },
     "japan": {
       "photos": 121,
-      "total": 541
+      "total": 548
     }
   },
-  "apiRequests": 100,
-  "failedRequests": 241
+  "apiRequests": 90,
+  "failedRequests": 216
 }
