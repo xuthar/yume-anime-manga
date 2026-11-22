@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T20:31:47.834Z",
+  "updatedAt": "2026-11-22T21:32:03.309464+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "AnimeClick · manga IT",
       "url": "https://www.animeclick.it/calendario-manga",
       "language": "IT",
-      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
+      "checkedAt": "2026-11-22T21:32:03.309464+01:00",
       "status": "ok"
     },
     {
@@ -15,7 +15,7 @@
       "name": "AnimeClick · novel IT",
       "url": "https://www.animeclick.it/calendario-novel",
       "language": "IT",
-      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
+      "checkedAt": "2026-11-22T21:32:03.309464+01:00",
       "status": "ok"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
+      "checkedAt": "2026-11-22T21:32:03.309464+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-22T14:33:58.775763+01:00",
+      "checkedAt": "2026-11-22T21:32:03.309464+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-22T20:31:47.834Z",
+      "checkedAt": "2026-11-22T21:32:03.309464+01:00",
       "status": "ok"
     }
   ],
@@ -1214,17 +1214,6 @@
     },
     {
       "date": "2026-10-27",
-      "title": "mono, Vol. 5",
-      "series": "mono, Vol. 5",
-      "publisher": "Yen Press / distribuzione Yen Press",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Edizione EN · formato nella scheda editore",
-      "url": "https://yenpress.com/titles/9798855435719-mono-vol-5",
-      "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-10-27",
       "title": "My Girlfriend’s Not Here Today Vol. 7",
       "series": "My Girlfriend’s Not Here Today Vol. 7",
       "publisher": "Seven Seas",
@@ -1532,6 +1521,17 @@
       "kind": "manga",
       "edition": "Edizione EN · formato nella scheda editore",
       "url": "https://yenpress.com/titles/9798855417531-you-can-t-escape-from-mizudako-chan-vol-2",
+      "sourceId": "yen-press"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "mono, Vol. 5",
+      "series": "mono, Vol. 5",
+      "publisher": "Yen Press / distribuzione Yen Press",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Edizione EN · formato nella scheda editore",
+      "url": "https://yenpress.com/titles/9798855435719-mono-vol-5",
       "sourceId": "yen-press"
     },
     {
@@ -3326,17 +3326,6 @@
     },
     {
       "date": "2026-11-05",
-      "title": "Redo of Healer 18",
-      "series": "Redo of Healer",
-      "publisher": "Magic Press",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112790/redo-of-healer",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-05",
       "title": "ReLIFE 8",
       "series": "ReLIFE",
       "publisher": "Ishi Publishing",
@@ -3344,6 +3333,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3109466/relife",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Redo of Healer 18",
+      "series": "Redo of Healer",
+      "publisher": "Magic Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112790/redo-of-healer",
       "sourceId": "animeclick-manga"
     },
     {
@@ -3538,29 +3538,6 @@
     },
     {
       "date": "2026-11-10",
-      "title": "I’ll Become a Villainess Who Goes Down in History, Vol. 5 (novel)",
-      "series": "I’ll Become a Villainess Who Goes Down in History, Vol. 5 (novel)",
-      "publisher": "Yen Press / distribuzione Yen Press",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Edizione EN · formato nella scheda editore",
-      "url": "https://yenpress.com/titles/9798855407198-i-ll-become-a-villainess-who-goes-down-in-history-vol-5-novel",
-      "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "I’m Fine With Being the Second Girlfriend Vol. 2",
-      "series": "I’m Fine With Being the Second Girlfriend Vol. 2",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-760-5",
-      "url": "https://sevenseasentertainment.com/books/im-fine-with-being-the-second-girlfriend-vol-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-10",
       "title": "Imaizumi Brings All the Gals to His House Vol. 7",
       "series": "Imaizumi Brings All the Gals to His House Vol. 7",
       "publisher": "Seven Seas",
@@ -3592,6 +3569,29 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89561-365-8",
       "url": "https://sevenseasentertainment.com/books/its-just-a-dream-right-comic-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "I’ll Become a Villainess Who Goes Down in History, Vol. 5 (novel)",
+      "series": "I’ll Become a Villainess Who Goes Down in History, Vol. 5 (novel)",
+      "publisher": "Yen Press / distribuzione Yen Press",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Edizione EN · formato nella scheda editore",
+      "url": "https://yenpress.com/titles/9798855407198-i-ll-become-a-villainess-who-goes-down-in-history-vol-5-novel",
+      "sourceId": "yen-press"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "I’m Fine With Being the Second Girlfriend Vol. 2",
+      "series": "I’m Fine With Being the Second Girlfriend Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-760-5",
+      "url": "https://sevenseasentertainment.com/books/im-fine-with-being-the-second-girlfriend-vol-2/",
       "sourceId": "seven-seas"
     },
     {
@@ -4070,17 +4070,6 @@
     },
     {
       "date": "2026-11-11",
-      "title": "I’ll Never Set Foot in That House Again! (Manga) Volume 9",
-      "series": "I’ll Never Set Foot in That House Again! (Manga)",
-      "publisher": "J-Novel Club",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Ebook completo · non prepubblicazione",
-      "url": "https://j-novel.club/series/i-ll-never-set-foot-in-that-house-again-manga#volume-9",
-      "sourceId": "j-novel-club"
-    },
-    {
-      "date": "2026-11-11",
       "title": "Infinite Dendrogram Manga Volume 15",
       "series": "Infinite Dendrogram (Manga)",
       "publisher": "J-Novel Club",
@@ -4088,6 +4077,17 @@
       "kind": "manga",
       "edition": "Ebook completo · non prepubblicazione",
       "url": "https://j-novel.club/series/infinite-dendrogram-manga#volume-15",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "I’ll Never Set Foot in That House Again! (Manga) Volume 9",
+      "series": "I’ll Never Set Foot in That House Again! (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/i-ll-never-set-foot-in-that-house-again-manga#volume-9",
       "sourceId": "j-novel-club"
     },
     {
@@ -4517,18 +4517,6 @@
     },
     {
       "date": "2026-11-17",
-      "title": "I’m the Heroic Knight of an Intergalactic Empire! (Manga) Vol. 4",
-      "series": "I’m the Heroic Knight of an Intergalactic Empire! (Manga) Vol. 4",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-919-7",
-      "url": "https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-manga-vol-4/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-17",
       "title": "Ichi the Killer (Omnibus) Vol. 5",
       "series": "Ichi the Killer (Omnibus) Vol. 5",
       "publisher": "Seven Seas",
@@ -4549,6 +4537,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-920-3",
       "url": "https://sevenseasentertainment.com/books/inside-the-tentacle-cave-manga-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "I’m the Heroic Knight of an Intergalactic Empire! (Manga) Vol. 4",
+      "series": "I’m the Heroic Knight of an Intergalactic Empire! (Manga) Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-919-7",
+      "url": "https://sevenseasentertainment.com/books/im-the-heroic-knight-of-an-intergalactic-empire-manga-vol-4/",
       "sourceId": "seven-seas"
     },
     {
@@ -4773,17 +4773,6 @@
     },
     {
       "date": "2026-11-17",
-      "title": "Love Me Knight - Kiss me Licia Cofanetto vuoto",
-      "series": "Love Me Knight - Kiss me Licia",
-      "publisher": "Xpublishing",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112682/love-me-knight-kiss-me-licia-cofanetto-vuoto",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-17",
       "title": "Love Me Knight - Kiss Me Licia Full Color 7",
       "series": "Love Me Knight - Kiss me Licia",
       "publisher": "Xpublishing",
@@ -4802,6 +4791,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112680/love-me-knight-kiss-me-licia-full-color-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Love Me Knight - Kiss me Licia Cofanetto vuoto",
+      "series": "Love Me Knight - Kiss me Licia",
+      "publisher": "Xpublishing",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112682/love-me-knight-kiss-me-licia-cofanetto-vuoto",
       "sourceId": "animeclick-manga"
     },
     {
@@ -5523,17 +5523,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "[Oshi No Ko], Vol. 14",
-      "series": "[Oshi No Ko], Vol. 14",
-      "publisher": "Yen Press / distribuzione Yen Press",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Edizione EN · formato nella scheda editore",
-      "url": "https://yenpress.com/titles/9798855439687-oshi-no-ko-vol-14",
-      "sourceId": "yen-press"
-    },
-    {
-      "date": "2026-11-24",
       "title": "2.5 Dimensional Seduction Vol. 20",
       "series": "2.5 Dimensional Seduction Vol. 20",
       "publisher": "Seven Seas",
@@ -5634,17 +5623,6 @@
       "isbn": "979-8-89765-395-9",
       "url": "https://sevenseasentertainment.com/books/didnt-i-say-to-make-my-abilities-average-in-the-next-life-light-novel-vol-21/",
       "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "egg: I’m Your Child, Vol. 1",
-      "series": "egg: I’m Your Child, Vol. 1",
-      "publisher": "Yen Press / distribuzione Yen Press",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Edizione EN · formato nella scheda editore",
-      "url": "https://yenpress.com/titles/9798855431223-egg-i-m-your-child-vol-1",
-      "sourceId": "yen-press"
     },
     {
       "date": "2026-11-24",
@@ -6124,6 +6102,28 @@
     },
     {
       "date": "2026-11-24",
+      "title": "[Oshi No Ko], Vol. 14",
+      "series": "[Oshi No Ko], Vol. 14",
+      "publisher": "Yen Press / distribuzione Yen Press",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Edizione EN · formato nella scheda editore",
+      "url": "https://yenpress.com/titles/9798855439687-oshi-no-ko-vol-14",
+      "sourceId": "yen-press"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "egg: I’m Your Child, Vol. 1",
+      "series": "egg: I’m Your Child, Vol. 1",
+      "publisher": "Yen Press / distribuzione Yen Press",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Edizione EN · formato nella scheda editore",
+      "url": "https://yenpress.com/titles/9798855431223-egg-i-m-your-child-vol-1",
+      "sourceId": "yen-press"
+    },
+    {
+      "date": "2026-11-24",
       "title": "Android Type One 3",
       "series": "Android Type One",
       "publisher": "Toshokan",
@@ -6289,17 +6289,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Love Me Knight - Kiss me Licia Cofanetto vuoto",
-      "series": "Love Me Knight - Kiss me Licia",
-      "publisher": "Xpublishing",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112682/love-me-knight-kiss-me-licia-cofanetto-vuoto",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Love Me Knight - Kiss Me Licia Full Color 7",
       "series": "Love Me Knight - Kiss me Licia",
       "publisher": "Xpublishing",
@@ -6318,6 +6307,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112680/love-me-knight-kiss-me-licia-full-color-variant",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Love Me Knight - Kiss me Licia Cofanetto vuoto",
+      "series": "Love Me Knight - Kiss me Licia",
+      "publisher": "Xpublishing",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112682/love-me-knight-kiss-me-licia-cofanetto-vuoto",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6421,28 +6421,6 @@
     },
     {
       "date": "2026-11-25",
-      "title": "City Hunter Double Edged – Short Stories",
-      "series": "City Hunter Double Edged – Il tempo dei ciliegi",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112912/city-hunter-double-edged-short-stories",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Danmachi - Sword Oratoria 33",
-      "series": "DanMachi Sword Oratoria",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112645/danmachi-sword-oratoria",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
       "title": "Dark Souls - Redemption 3",
       "series": "Dark Souls - Redemption",
       "publisher": "JPOP",
@@ -6461,28 +6439,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3110988/existence",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "F. Compo 1",
-      "series": "F. Compo",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112906/f.-compo",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "F. Compo Variant 1",
-      "series": "F. Compo",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112909/f.-compo-variant",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6531,83 +6487,6 @@
     },
     {
       "date": "2026-11-25",
-      "title": "Il tempo dei ciliegi – Short Stories",
-      "series": "City Hunter Double Edged – Il tempo dei ciliegi",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112913/il-tempo-dei-ciliegi-short-stories",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Initial D 23",
-      "series": "Initial D",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111616/initial-d",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Jaadugar - A Witch in Mongolia 6",
-      "series": "Jaadugar - A Witch in Mongolia",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111885/jaadugar-a-witch-in-mongolia",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Kowloon Generic Romance 12",
-      "series": "Kowloon Generic Romance",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111619/kowloon-generic-romance",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Kowloon Generic Romance Variant 12",
-      "series": "Kowloon Generic Romance",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112503/kowloon-generic-romance-variant",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "La voce della strada 7",
-      "series": "La voce della strada",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112706/la-voce-della-strada",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Miss Kobayashi's Dragon Maid 18",
-      "series": "Miss Kobayashi's Dragon Maid",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111887/miss-kobayashis-dragon-maid",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
       "title": "On & Off - Tra vita e ufficio 3",
       "series": "On & Off - Tra vita e ufficio",
       "publisher": "JPOP",
@@ -6637,28 +6516,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112771/outlanders",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Pokémon: Mewtwo colpisce ancora – L'evoluzione",
-      "series": "Pokémon: Mewtwo colpisce ancora – L'evoluzione",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112750/pok%C3%A9mon-mewtwo-colpisce-ancora-levoluzione",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Rent a Girlfriend 35",
-      "series": "Rent a Girlfriend",
-      "publisher": "JPOP",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112426/rent-a-girlfriend",
       "sourceId": "animeclick-manga"
     },
     {
@@ -7523,18 +7380,6 @@
     },
     {
       "date": "2026-12-08",
-      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge (Manga) Vol. 13",
-      "series": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge (Manga) Vol. 13",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-351-1",
-      "url": "https://sevenseasentertainment.com/books/backstabbed-in-a-backwater-dungeon-my-party-tried-to-kill-me-but-thanks-to-an-infinite-gacha-i-got-lvl-9999-friends-and-am-out-for-revenge-manga-vol-13/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-12-08",
       "title": "BOSS, BXTCH, BABY Vol. 4",
       "series": "BOSS, BXTCH, BABY Vol. 4",
       "publisher": "Seven Seas",
@@ -7547,14 +7392,14 @@
     },
     {
       "date": "2026-12-08",
-      "title": "Diary of a Female Lead: Shujinkou Nikki Vol. 8",
-      "series": "Diary of a Female Lead: Shujinkou Nikki Vol. 8",
+      "title": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge (Manga) Vol. 13",
+      "series": "Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge (Manga) Vol. 13",
       "publisher": "Seven Seas",
       "language": "EN",
       "kind": "manga",
       "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-354-2",
-      "url": "https://sevenseasentertainment.com/books/diary-of-a-female-lead-shujinkou-nikki-vol-8/",
+      "isbn": "979-8-89561-351-1",
+      "url": "https://sevenseasentertainment.com/books/backstabbed-in-a-backwater-dungeon-my-party-tried-to-kill-me-but-thanks-to-an-infinite-gacha-i-got-lvl-9999-friends-and-am-out-for-revenge-manga-vol-13/",
       "sourceId": "seven-seas"
     },
     {
@@ -7567,6 +7412,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-545-8",
       "url": "https://sevenseasentertainment.com/books/doggo-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Diary of a Female Lead: Shujinkou Nikki Vol. 8",
+      "series": "Diary of a Female Lead: Shujinkou Nikki Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-354-2",
+      "url": "https://sevenseasentertainment.com/books/diary-of-a-female-lead-shujinkou-nikki-vol-8/",
       "sourceId": "seven-seas"
     },
     {
@@ -8972,18 +8829,6 @@
     },
     {
       "date": "2027-01-12",
-      "title": "I’m in Love with the Villainess: Come on and Notice Me Already (Light Novel) Vol. 1",
-      "series": "I’m in Love with the Villainess: Come on and Notice Me Already (Light Novel) Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-90209-357-2",
-      "url": "https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-01-12",
       "title": "Into The Night – YOASOBI Story Collection (Light Novel)",
       "series": "Into The Night – YOASOBI Story Collection (Light Novel)",
       "publisher": "Seven Seas",
@@ -8992,6 +8837,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-188-2",
       "url": "https://sevenseasentertainment.com/books/into-the-night-yoasobi-story-collection-light-novel/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-12",
+      "title": "I’m in Love with the Villainess: Come on and Notice Me Already (Light Novel) Vol. 1",
+      "series": "I’m in Love with the Villainess: Come on and Notice Me Already (Light Novel) Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-357-2",
+      "url": "https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-come-on-and-notice-me-already-light-novel-vol-1/",
       "sourceId": "seven-seas"
     },
     {
@@ -9272,6 +9129,18 @@
     },
     {
       "date": "2027-01-19",
+      "title": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! (Manga) Vol. 8",
+      "series": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! (Manga) Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-233-5",
+      "url": "https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-manga-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-19",
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Light Novel) Vol. 17",
       "series": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Light Novel) Vol. 17",
       "publisher": "Seven Seas",
@@ -9316,18 +9185,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-230-4",
       "url": "https://sevenseasentertainment.com/books/reincarnated-into-a-game-as-the-heros-friend-running-the-kingdom-behind-the-scenes-light-novel-vol-7-part-2/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-01-19",
-      "title": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! (Manga) Vol. 8",
-      "series": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! (Manga) Vol. 8",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-233-5",
-      "url": "https://sevenseasentertainment.com/books/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword-manga-vol-8/",
       "sourceId": "seven-seas"
     },
     {
@@ -9452,18 +9309,6 @@
     },
     {
       "date": "2027-01-26",
-      "title": "Dance in the Vampire Bund: Age of Scarlet Order Vol. 19",
-      "series": "Dance in the Vampire Bund: Age of Scarlet Order Vol. 19",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89765-901-2",
-      "url": "https://sevenseasentertainment.com/books/dance-in-the-vampire-bund-age-of-scarlet-order-vol-19/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-01-26",
       "title": "DEAR. DOOR (Comic) Vol. 5",
       "series": "DEAR. DOOR (Comic) Vol. 5",
       "publisher": "Seven Seas",
@@ -9472,6 +9317,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-597-7",
       "url": "https://sevenseasentertainment.com/books/dear-door-comic-vol-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-26",
+      "title": "Dance in the Vampire Bund: Age of Scarlet Order Vol. 19",
+      "series": "Dance in the Vampire Bund: Age of Scarlet Order Vol. 19",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-901-2",
+      "url": "https://sevenseasentertainment.com/books/dance-in-the-vampire-bund-age-of-scarlet-order-vol-19/",
       "sourceId": "seven-seas"
     },
     {
@@ -9788,18 +9645,6 @@
     },
     {
       "date": "2027-02-02",
-      "title": "Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero Vol. 1",
-      "series": "Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-90209-190-5",
-      "url": "https://sevenseasentertainment.com/books/kidnapped-by-elves-i-went-from-potion-factory-alchemist-to-accidental-hero-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-02-02",
       "title": "KILLING ME / KILLING YOU Vol. 4",
       "series": "KILLING ME / KILLING YOU Vol. 4",
       "publisher": "Seven Seas",
@@ -9808,6 +9653,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-573-1",
       "url": "https://sevenseasentertainment.com/books/killing-me-killing-you-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-02-02",
+      "title": "Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero Vol. 1",
+      "series": "Kidnapped by Elves, I Went from Potion Factory Alchemist to Accidental Hero Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-190-5",
+      "url": "https://sevenseasentertainment.com/books/kidnapped-by-elves-i-went-from-potion-factory-alchemist-to-accidental-hero-vol-1/",
       "sourceId": "seven-seas"
     },
     {
@@ -10724,18 +10581,6 @@
     },
     {
       "date": "2027-03-09",
-      "title": "I’m in Love with the Villainess (Manga) Vol. 12",
-      "series": "I’m in Love with the Villainess (Manga) Vol. 12",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-952-5",
-      "url": "https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-manga-vol-12/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-03-09",
       "title": "Imaizumi Brings All the Gals to His House Vol. 8",
       "series": "Imaizumi Brings All the Gals to His House Vol. 8",
       "publisher": "Seven Seas",
@@ -10756,6 +10601,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-612-7",
       "url": "https://sevenseasentertainment.com/books/it-takes-more-than-a-pretty-face-to-fall-in-love-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-03-09",
+      "title": "I’m in Love with the Villainess (Manga) Vol. 12",
+      "series": "I’m in Love with the Villainess (Manga) Vol. 12",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-952-5",
+      "url": "https://sevenseasentertainment.com/books/im-in-love-with-the-villainess-manga-vol-12/",
       "sourceId": "seven-seas"
     },
     {
@@ -12500,18 +12357,6 @@
     },
     {
       "date": "2027-05-04",
-      "title": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Manga) Vol. 6",
-      "series": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Manga) Vol. 6",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-342-9",
-      "url": "https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-vol-6/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2027-05-04",
       "title": "Inside the Tentacle Cave (Manga) Vol. 9",
       "series": "Inside the Tentacle Cave (Manga) Vol. 9",
       "publisher": "Seven Seas",
@@ -12520,6 +12365,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-959-4",
       "url": "https://sevenseasentertainment.com/books/inside-the-tentacle-cave-manga-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-04",
+      "title": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Manga) Vol. 6",
+      "series": "I’m Running for Crown Princess, but All I Want is a Steady Paycheck! (Manga) Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-342-9",
+      "url": "https://sevenseasentertainment.com/books/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-vol-6/",
       "sourceId": "seven-seas"
     },
     {
