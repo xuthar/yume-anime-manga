@@ -23537,9 +23537,16 @@
       "image": "https://cdn.myanimelist.net/images/anime/1371/160291.jpg",
       "adult": false,
       "synopsisIt": "Hiroto conduce una vita tranquilla ad Asagaya e stringe amicizia con un’anziana vicina; alla morte della donna, eredita inaspettatamente la sua casa.",
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.viz.com/press-releases/v/1006777",
+          "country": "IT",
+          "access": "Subscription"
+        }
+      ],
       "streamingSource": "",
-      "checkedAt": "2026-11-03T23:21:11.944519+00:00",
+      "checkedAt": "2026-11-22",
       "scheduleCheckedAt": "2026-11-03T23:21:11.944519+00:00",
       "scheduleSource": "https://myanimelist.net/anime/season/2027/winter",
       "detailsChecked": true,
@@ -23547,10 +23554,11 @@
       "synopsisSource": "https://myanimelist.net/anime/62100/Hirayasumi",
       "releaseStatus": "Annunciato",
       "officialSources": [
-        "https://hirayasumi-anime.jp/"
+        "https://hirayasumi-anime.jp/",
+        "https://www.viz.com/press-releases/v/1006777"
       ],
       "releaseWindow": "Gennaio – Marzo 2027",
-      "scheduleNote": "Presente nel palinsesto MAL Winter 2027, soggetto a variazioni. La collocazione stagionale non conferma un giorno di debutto o uno streaming italiano."
+      "scheduleNote": "VIZ ha annunciato l’uscita internazionale su Netflix a gennaio 2027, in contemporanea con il debutto giapponese su NHK. Il giorno esatto è ancora da annunciare."
     },
     "anime-62808": {
       "id": "anime-62808",
@@ -24423,7 +24431,7 @@
       "source": "Manga",
       "episodes": null,
       "duration": "0 min",
-      "releaseDate": "2027-01",
+      "releaseDate": "2027-01-10",
       "score": "0",
       "image": "https://cdn.myanimelist.net/images/anime/1434/159671.jpg",
       "adult": false,
@@ -24431,17 +24439,18 @@
       "streaming": [],
       "streamingSource": "",
       "checkedAt": "2026-11-03T23:21:11.944519+00:00",
-      "scheduleCheckedAt": "2026-11-03T23:21:11.944519+00:00",
-      "scheduleSource": "https://myanimelist.net/anime/season/2027/winter",
+      "scheduleCheckedAt": "2026-11-22",
+      "scheduleSource": "https://pentowappa-anime.com/news/",
       "detailsChecked": true,
       "synopsisNote": "Sintesi editoriale della premessa riportata nella scheda MAL; non anticipa contenuti o date non annunciati.",
       "synopsisSource": "https://myanimelist.net/anime/63970/Pen_to_Wappa_to_Jijitsukon",
       "releaseStatus": "Annunciato",
       "officialSources": [
-        "https://pentowappa-anime.com/"
+        "https://pentowappa-anime.com/",
+        "https://pentowappa-anime.com/news/"
       ],
       "releaseWindow": "Gennaio – Marzo 2027",
-      "scheduleNote": "Presente nel palinsesto MAL Winter 2027, soggetto a variazioni. La collocazione stagionale non conferma un giorno di debutto o uno streaming italiano."
+      "scheduleNote": "In Giappone TOKYO MX e BS11 indicano sabato 9 gennaio alle 25:00, cioè domenica 10 gennaio all’01:00 locale."
     },
     "anime-63350": {
       "id": "anime-63350",
@@ -25422,5 +25431,5 @@
     }
   },
   "refreshNote": "Palinsesti MAL rilevati il 4 novembre 2026. Verifiche editoriali puntuali su date e streaming italiano del 7 novembre 2026: le date future e le altre piattaforme rimangono da confermare caso per caso.",
-  "editorialCheckedAt": "2026-11-07"
+  "editorialCheckedAt": "2026-11-22"
 }

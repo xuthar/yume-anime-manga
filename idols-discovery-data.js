@@ -5,6 +5,7 @@
 (()=>{
 'use strict';
 const sources={
+ mooove:{label:'#Mooove! · formazione ufficiale',url:'https://mooove.world/profile/',kind:'sito ufficiale'},
  me_i:{label:'ME:I · profili ufficiali membri',url:'https://me-i.jp/feature/profile?lang=en',kind:'agenzia ufficiale'},
  akb:{label:'AKB48 · elenco ufficiale dei membri',url:'https://www.akb48.co.jp/about/members',kind:'agenzia ufficiale'},
  holo:{label:'hololive · elenco ufficiale',url:'https://hololive.hololivepro.com/en/talents',kind:'agenzia ufficiale'},
@@ -60,6 +61,8 @@ const groups=[
  ['music','sweet',`白石まゆみ;塩川莉世;音井結衣;奥田彩友;栗田なつか;庄司なぎさ;山内咲奈`],
  ['music','ill',`白雪姫乃;蒼井叶;紫ノ色;森 緑藻`],
  ['music','exwhyz',`MiKiNA;MAYU;MAHO;YU-Ki`],
+ ['groups','mooove',`#Mooove!`],
+ ['music','mooove',`Akama Shiki / 赤間四季;Himeno Hinano / 姫野ひなの;Kuki Naho / 久喜なほ;Orito / 織莉叶;Hoshino Sara / 星乃紗良;Himeno Yumeno / 姫野ゆめの;Nanami Rio / 七海りお`],
  ['groups','livegroups',`iLiFE!;FRUITS ZIPPER;CUTIE STREET;CANDY TUNE;きゅるりんってしてみて;ZOCX;豆柴の大群;メノニューイヤー;のんふぃく！;SWEET STEADY;iON!;夜光性アミューズ;スリジエ;Ill〖イル〗;ExWHYZ;TENRIN;GILTY×GILTY;ZUTTOMOTTO;アキシブproject;AdamLilith;RAY;JamsCollection;FES☆TIVE;MyDearDarlin';I MY ME MINE;Bunny La Crew;NORMiL;しろもん;Blossom Garden;ICECREAM SCREAM;SEKAIE☆;PassCode;yosugala;Kolokol;Axelight;BANZAI JAPAN;アンスリューム;キングサリ;ラナキュラ;プランクスターズ;まねきケチャ;CROSSNOESIS;METAMUSE;RINGO MUSIC;Devil ANTHEM.;AVAM;Phantom Siita;INUWASI;fav me;log you;myojou;Takane no Nadeshiko;MORE STAR;team shachi;STU48;NGT48;=LOVE;わーすた`],
  ['groups','redditgroups',`WeBana;Lion net girl;XOXO EXTREME;POPPiNG EMO;SUPER REPLiCA;SOMOSOMO;Merkmal Mermal;Heroic New Cinema;GANGEMIC;AdFicTioN;NiL;NANONI;9DayzGlitchClubTokyo;ΩMG;AKIARIM;TOROi;Kaishin no Ichigeki;AIBECK;LEIWAN;O-VER-KiLL;Konton Shojo;Fukansho Hebi Ichigo;MAGMAZ;AZ-ON;Chicken Blow The Idol;NEO JAPONISM;Tenohirael;BLUEGOATS;BELLRING Shojo Heart;Finger Runs;mistress;FaM;Zsasz;SPARK SPEAKER;Wagamama Rakia;YOLOZ;uijin;PIGGS;GANG PARADE;Planck Stars;MIGMA SHELTER;CHEMICAL X;Shihatsumachi Underground;Malcolm Mask McLaren;The Grateful a MogAAAz`],
  ['groups','redditgroup2',`UNBS;GANGDEMIC;EMPATHY;mercuro;Maze;Zenbu Kimi No Sei Da;Kamen Joshi;Zessei no Imperial Doll;Clara Magura;Hissatsu Emomo 7;odoro;You'll Melt More!;Payrin's;Melon Batake a gogo;Owaranaide Yoru;Shin Geki;Fudanjuku;PIPPING HOT;Maison book girl;There There Theres;BILLIE IDLE;Great Monkeys;The Patti;Bury;Leo Wonder;amiina;Hauptharmonie;QUEENS;KAQRIYOTERROR`],
