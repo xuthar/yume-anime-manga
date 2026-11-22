@@ -74,15 +74,21 @@ def parse_jnc(doc):
     for child in value.values():yield from walk(child)
   elif isinstance(value,list):
    for child in value:yield from walk(child)
- result=[];found=False
+ chunks=[]
  for script in doc.xpath('//script[not(@src)]'):
   raw=script.text or ''
   if not raw.startswith('self.__next_f.push('):continue
   try:
    flight=json.loads(raw[raw.find('(')+1:raw.rfind(')')])
-   if len(flight)<2 or not isinstance(flight[1],str) or ':[' not in flight[1]:continue
-   obj=json.JSONDecoder().raw_decode(flight[1].split(':',1)[1])[0]
-  except (ValueError,TypeError):continue
+  except ValueError:continue
+  if isinstance(flight,list) and len(flight)>1 and flight[0]==1 and isinstance(flight[1],str):
+   chunks.append(flight[1])
+ result=[];found=False
+ for record in ''.join(chunks).splitlines():
+  _,_,payload=record.partition(':')
+  if not payload.startswith(('[','{')):continue
+  try:obj=json.loads(payload)
+  except ValueError:continue
   for event in walk(obj):
    found=True
    if event.get('details')!='Ebook Publishing':continue
