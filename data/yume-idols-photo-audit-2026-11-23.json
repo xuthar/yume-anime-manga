@@ -1,0 +1,62 @@
+{
+  "generated": "2026-11-23T14:47:13.011Z",
+  "scope": "Curated data/yume-photo-index.json (sport, Asia, Japan and global public portrait records). This is a source and URL audit, not visual facial identity verification.",
+  "summary": {
+    "records": 460,
+    "recordsWithImage": 460,
+    "commonsFilesLive": 458,
+    "commonsFilesMissing": 0,
+    "recordsMissingLicenseMetadata": 0,
+    "recordsMissingAuthorMetadata": 1,
+    "nonReusableOrUnclassifiedLicenses": 0,
+    "wikidataRelationsChecked": 356,
+    "wikidataIdentityReviews": 3,
+    "directP18PhotoMatches": 315,
+    "imageUrlsChecked": 436,
+    "imageUrlsResponding": 155
+  },
+  "limitations": [
+    "Profiles without indexed portraits are not represented in this file-level audit.",
+    "A successful HTTP response does not prove a photograph visually depicts its named subject.",
+    "Identity is supported by Wikidata or a manually recorded Commons category/file source; uncertain matches are not auto-added."
+  ],
+  "issues": [
+    {
+      "section": "asia",
+      "name": "Najwa Latif",
+      "kind": "portrait-file-unknown"
+    },
+    {
+      "section": "japan",
+      "name": "Miku Ito",
+      "kind": "portrait-file-unknown"
+    },
+    {
+      "section": "asia",
+      "name": "Film Rachanun",
+      "qid": "Q106478544",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    },
+    {
+      "section": "japan",
+      "name": "Yokyu-n",
+      "qid": "Q11370644",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    },
+    {
+      "section": "japan",
+      "name": "Risa Yukihira",
+      "qid": "Q105259180",
+      "kind": "wikidata-identity-review",
+      "female": true,
+      "nameMatch": false,
+      "claimMatch": false
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T20:29:05.891Z",
+  "generated": "2026-11-23T14:39:18.854Z",
   "stats": {
     "total": 1449,
     "sport": 299,
@@ -20,6 +20,6 @@
       "total": 548
     }
   },
-  "apiRequests": 90,
-  "failedRequests": 216
+  "apiRequests": 80,
+  "failedRequests": 189
 }
