@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:16:42.661119+01:00",
+  "updatedAt": "2026-11-25T18:23:09+00:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -2984,17 +2984,6 @@
     },
     {
       "date": "2026-11-03",
-      "title": "Kirby Mangamania 8",
-      "series": "Kirby Mangamania",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112784/kirby-mangamania",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-03",
       "title": "L'arte di Il ragazzo e l'airone",
       "series": "",
       "publisher": "Rizzoli",
@@ -4729,28 +4718,6 @@
     },
     {
       "date": "2026-11-17",
-      "title": "Dealing with Mikadono Sisters Is a Breeze 2",
-      "series": "Dealing with Mikadono Sisters Is a Breeze",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112463/dealing-with-mikadono-sisters-is-a-breeze",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "Honey Lemon Soda - Sparkling Love Story 8",
-      "series": "Honey Lemon Soda - Sparkling Love Story",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111916/honey-lemon-soda-sparkling-love-story",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-17",
       "title": "In the Clear Moonlit Dusk 10",
       "series": "In the Clear Moonlit Dusk",
       "publisher": "Star Comics",
@@ -4901,17 +4868,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112751/from-star-strings",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Gokusen 4",
-      "series": "Gokusen",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3110923/gokusen",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6168,17 +6124,6 @@
     },
     {
       "date": "2026-11-24",
-      "title": "Dealing with Mikadono Sisters Is a Breeze 2",
-      "series": "Dealing with Mikadono Sisters Is a Breeze",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112463/dealing-with-mikadono-sisters-is-a-breeze",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-24",
       "title": "Detective Conan New Edition 75",
       "series": "Detective Conan",
       "publisher": "Star Comics",
@@ -6186,17 +6131,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112153/detective-conan-new-edition",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Gokusen 4",
-      "series": "Gokusen",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3110923/gokusen",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6219,17 +6153,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112468/handsome-girl-and-sheltered-girl",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Honey Lemon Soda - Sparkling Love Story 8",
-      "series": "Honey Lemon Soda - Sparkling Love Story",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3111916/honey-lemon-soda-sparkling-love-story",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6274,17 +6197,6 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112760/kakuriyo-nel-mondo-degli-spiriti",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "Kirby Mangamania 8",
-      "series": "Kirby Mangamania",
-      "publisher": "Dynit",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112784/kirby-mangamania",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6432,6 +6344,17 @@
     },
     {
       "date": "2026-11-25",
+      "title": "Dealing with Mikadono Sisters Is a Breeze 2",
+      "series": "Dealing with Mikadono Sisters Is a Breeze",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112463/dealing-with-mikadono-sisters-is-a-breeze",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
       "title": "Existence 4",
       "series": "Existence (Gwang Jin)",
       "publisher": "ReNoir Comics",
@@ -6450,6 +6373,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3107208/get-schooled",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Gokusen 4",
+      "series": "Gokusen",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3110923/gokusen",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6476,6 +6410,28 @@
     },
     {
       "date": "2026-11-25",
+      "title": "Ho qualcosa da dirti Box",
+      "series": "Ho qualcosa da dirti",
+      "publisher": "ReNoir Comics",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Cofanetto italiano",
+      "url": "https://www.animeclick.it/edizione/3112451/ho-qualcosa-da-dirti-box",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Honey Lemon Soda - Sparkling Love Story 8",
+      "series": "Honey Lemon Soda - Sparkling Love Story",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3111916/honey-lemon-soda-sparkling-love-story",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
       "title": "Il druido di Seoul Station 7",
       "series": "Il druido di Seoul Station",
       "publisher": "ReNoir Comics",
@@ -6484,6 +6440,28 @@
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3111637/il-druido-di-seoul-station",
       "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Kirby Mangamania 8",
+      "series": "Kirby Mangamania",
+      "publisher": "Dynit",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112784/kirby-mangamania",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Mushoku Tensei - Nel nuovo mondo darò il massimo (Light Novel) 5",
+      "series": "Mushoku Tensei - Nel nuovo mondo darò il massimo",
+      "publisher": "Dokusho Edizioni",
+      "language": "IT",
+      "kind": "novel",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/news/112133-manga-tutte-le-uscite-italiane-di-novembre-2026",
+      "sourceId": "animeclick-novel"
     },
     {
       "date": "2026-11-25",
@@ -6560,6 +6538,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112746/zatch-bell",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Zingnize 11",
+      "series": "ZINGNIZE",
+      "publisher": "Mangasenpai",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3109974/zingnize",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6653,6 +6642,17 @@
     },
     {
       "date": "2026-11-26",
+      "title": "Gannibal Complete Edition 1",
+      "series": "Gannibal",
+      "publisher": "001 Edizioni",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112774/gannibal-complete-edition",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
       "title": "Gigant Omnibus 2",
       "series": "Gigant",
       "publisher": "Panini Comics",
@@ -6682,6 +6682,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112794/insieme-per-sempre",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Jinmen 12",
+      "series": "Jinmen",
+      "publisher": "001 Edizioni",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112775/jinmen",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6752,6 +6763,17 @@
     },
     {
       "date": "2026-11-26",
+      "title": "Onigoroshi 11",
+      "series": "Onigoroshi",
+      "publisher": "001 Edizioni",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3110904/onigoroshi",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
       "title": "Our Sunny Days Deluxe 3",
       "series": "Our Sunny Days",
       "publisher": "Magic Press",
@@ -6774,6 +6796,17 @@
     },
     {
       "date": "2026-11-26",
+      "title": "Rain Man 3",
+      "series": "Rain Man",
+      "publisher": "001 Edizioni",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3110905/rain-man",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
       "title": "Reborn Rich 6",
       "series": "Reborn Rich",
       "publisher": "Panini Comics",
@@ -6792,6 +6825,17 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112347/rooster-fighter",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Sabu & Ichi 3",
+      "series": "Sabu & Ichi",
+      "publisher": "001 Edizioni",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3092408/sabu-ichi",
       "sourceId": "animeclick-manga"
     },
     {
@@ -6946,6 +6990,28 @@
       "kind": "manga",
       "edition": "Edizione italiana",
       "url": "https://www.animeclick.it/edizione/3112338/wind-breaker",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "I Cannot Reach You 2",
+      "series": "I Cannot Reach You",
+      "publisher": "Flashbook Edizioni",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112652/i-cannot-reach-you",
+      "sourceId": "animeclick-manga"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Life in Smokey Blue 9",
+      "series": "Life in Smokey Blue",
+      "publisher": "Flashbook Edizioni",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112653/life-in-smokey-blue",
       "sourceId": "animeclick-manga"
     },
     {

@@ -1,7 +1,85 @@
 {
   "version": 3,
-  "updatedAt": "2026-11-22T08:02:26+01:00",
+  "updatedAt": "2026-11-25T18:18:13+00:00",
   "entries": [
+    {
+      "id": "d71a4abc71fe53304d1bbfe1",
+      "publisher": "MangaComicsMarket",
+      "language": "IT",
+      "tags": [
+        "Manga",
+        "Uscite"
+      ],
+      "subject": "⭐ Saint Seiya Time Odyssey 4 Collector e le novità Star Comics",
+      "receivedAt": "2026-11-25T14:34:27+01:00",
+      "summary": "Otto uscite Star Comics della settimana dal 23 al 29 novembre, fra cui Saint Seiya Time Odyssey 4 in due edizioni.",
+      "highlights": [
+        "Detective Conan New Edition arriva al volume 75.",
+        "Fra le altre uscite figurano Blue Box 17, Mix 23 e Manga Issho 8."
+      ],
+      "sourceUrl": "https://www.mangacomicsmarket.it/",
+      "sourceType": "publisher-site",
+      "fullText": "8 novità Star Comics questa settimana! ⭐\nSTAR COMICS · 23-29 NOVEMBRE\n8 novità Star Comics questa settimana! ⭐\nSaint Seiya Time Odyssey 4 anche in Collector Edition, Detective Conan New Edition 75, Ranking of Kings 18, Blue Box 17 e Haikyu Club 14.\nTUTTE LE USCITE STAR COMICS\nCOLLECTOR\nSaint Seiya Time Odyssey 4 · € 34,90\nACQUISTA\nSaint Seiya Time Odyssey 4 · € 14,90\nACQUISTA\nDetective Conan New Edition 75 · € 6,90\nACQUISTA\nRanking Of Kings 18 · € 6,90\nACQUISTA\nBlue Box 17 · € 6,90\nACQUISTA\nHaikyu Club 14 · € 5,90\nACQUISTA\nMix 23 · € 5,50\nACQUISTA\nManga Issho 8 · € 6,90\nVEDI LA SCHEDA\n\nTUTTE LE USCITE STAR COMICS\n",
+      "fullTextNote": "Testo editoriale originale. Rimossi tracciamento, collegamenti personali e footer amministrativo.",
+      "fullLinks": [
+        {
+          "label": "MangaComicsMarket",
+          "url": "https://www.mangacomicsmarket.it/"
+        }
+      ]
+    },
+    {
+      "id": "5736e78876c180b81d602369",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "tags": [
+        "Light novel",
+        "Promozioni"
+      ],
+      "subject": "NEW SALE: Our staff recommends their favorites, all at BIG discounts!",
+      "receivedAt": "2026-11-23T18:30:50+00:00",
+      "summary": "La selezione dello staff propone oltre cento volumi di quindici serie in promozione fino al 30 novembre.",
+      "highlights": [
+        "La comunicazione indica sconti fino al 63%.",
+        "Fra le serie presentate figurano The Water Magician e Campfire Cooking in Another World with My Absurd Skill."
+      ],
+      "sourceUrl": "https://j-novel.club/",
+      "sourceType": "publisher-site",
+      "fullText": "It’s our BIGGEST sale of the year: 100+ volumes across 15 series!\n\nIt’s that time again!\n\n🎅 J-Novel Claus is here to drop a big bag of discounts right into your inbox! 🎁\n\nToday through Nov. 30, take up to 63% OFF more than 100 volumes across 15 popular series — all personal favorites nominated by members of the JNC team.\n\nSee what we picked and why, then stock up while the sale lasts!\nShop the Sale! (\n\nFeatured Series\n\nThe Water Magician\n\n$7.99 EACH $2.99 EACH\n\nVolume 1 63% OFF!\n\n$7.99 EACH $4.99 EACH\n\nVolumes 2-7 38% OFF!\n\n“I love that The Water Magician speaks to readers on a personal—is ‘molecular’ too close to a dad joke?—level. Who doesn't love an isekai protag who has his priorities in order: coffee = life.”\n\n~ Mads, Publisher\nJ-Novel Club (\nAmazon (\n\nCampfire Cooking in Another World with My Absurd Skill\n\n$7.99 EACH $3.99 EACH\n\nVolume 1 50% OFF!\n\n$7.99 EACH $4.99 EACH\n\nVolumes 2-17 38% OFF!\n\n“It’s a cozy isekai foodie fantasy where the hero’s greatest weapon is basically Uber Eats and a frying pan.”\n\n~ Steph, Marketing/PR\nJ-Novel Club (\nAmazon (\n\nThe Frontier Lord Begins with Zero Subjects\n\n$7.99 EACH $2.99 EACH\n\nVolume 1 63% OFF!\n\n$7.99 EACH $4.99 EACH\n\nVolumes 2-14 38% OFF!\n\n“I really love how this series starts with absolutely nothing and slowly builds into something much bigger, with a growing cast, developing characters, and a domain that actually learns to function without its lord having to do everything himself.”\n\n~ Rahul, Accounting\nJ-Novel Club (\nAmazon (\n\nA Late-Start Tamer’s\nLaid-Back Life\n\n$8.99 EACH $2.99 EACH\n\nVolume 1 63% OFF!\n\n$8.99 EACH $4.99 EACH\n\nVolumes 2-3 44% OFF!\n\n“If you crave reading about and seeing illustrations of THE MOST ADORABLE animal companions, look no further.”\n\n~ Annie, Projects\nJ-Novel Club (\nAmazon (\n\nSee all 15 series now on sale!\n\nBrowse All Sale Titles (\n\nUnlock a new light novel library!\n\nLooking to expand your reading list?\n\nGet unlimited access to more than 80 complete series, plus the first three volumes of another 60+ series - all for just $3.50/month (or $40/year) with a JNC Library Pass subscription!\n\nIt’s one of several subscriptions we offer for casual fans and hardcore bookworms alike. Check them out today!\nLearn More (",
+      "fullTextNote": "Testo editoriale originale. Rimossi tracciamento, collegamenti personali e footer amministrativo.",
+      "fullLinks": [
+        {
+          "label": "J-Novel Club",
+          "url": "https://j-novel.club/"
+        }
+      ]
+    },
+    {
+      "id": "8196f44aaca48216b847b937",
+      "publisher": "Panini",
+      "language": "IT",
+      "tags": [
+        "Fumetti",
+        "Promozioni"
+      ],
+      "subject": "🔓 Black Friday: scopri le offerte esclusive",
+      "receivedAt": "2026-11-23T17:08:28+00:00",
+      "summary": "Panini presenta la selezione Black Friday per fumetti, figurine, trading card e magazine.",
+      "highlights": [
+        "Promozione annunciata dal 27 al 30 novembre.",
+        "La newsletter indica uno sconto del 20% sulla selezione."
+      ],
+      "sourceUrl": "https://www.panini.it/",
+      "sourceType": "publisher-site",
+      "fullText": "Scopri in anticipo i prodotti coinvolti nel Black Friday, aggiungili alla Wishlist e preparati agli sconti!\n\n\nIl momento che tutti i collezionisti aspettavano sta arrivando!\n\nIl Black Friday inizia la prossima settimana.\n\nScopri in anticipo i prodotti coinvolti nel Black Friday, aggiungili alla Wishlist e preparati agli sconti!\n\n🎉 Dal 27 al 30 novembre approfitta del Black Friday Panini con lo sconto del 20% su una selezione di figurine, trading card, fumetti, magazine e tanti altri prodotti da collezione.\n\n🎁 Stai già pensando ai regali di Natale?\nApprofitta delle nostre offerte Black Friday e anticipa la corsa ai regali delle feste!\n\nSCOPRI LE NOSTRE OFFERTE\n\nSCOPRI LE NOSTRE\nOFFERTE\n\nTutte le promozioni \nPanini\n\nScopri le offerte \ne risparmia!\n\nScopri come\n\nGuadagna Coin per \nogni acquisto\n\nIl programma fedeltà Panini Club è gratuito, semplice e ricco di vantaggi!\n\nRegistrati\n\nGift Card\nPanini\n\nL’idea regalo ideale per chi ama fumetti, figurine, manga e collezionismo.\n\nAcquista ora\n\nTutte le promozioni \nPanini\n\nScopri le offerte \ne risparmia!\n\nScopri come\n\nGuadagna Coin per \nogni acquisto\n\nIl programma fedeltà Panini Club è gratuito, semplice e ricco di vantaggi!\n\nRegistrati\n\nGift Card\nPanini\n\nL’idea regalo ideale per chi ama fumetti, figurine, manga e collezionismo.\n\nAcquista ora",
+      "fullTextNote": "Testo editoriale originale. Rimossi tracciamento, collegamenti personali e footer amministrativo.",
+      "fullLinks": [
+        {
+          "label": "Panini",
+          "url": "https://www.panini.it/"
+        }
+      ]
+    },
     {
       "id": "6226cdc0c1226170faa460bf",
       "publisher": "Seven Seas Entertainment",

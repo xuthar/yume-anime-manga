@@ -22941,7 +22941,7 @@
       "source": "Manga",
       "episodes": null,
       "duration": "0 min",
-      "releaseDate": "2027-01",
+      "releaseDate": "2027-01-09",
       "score": "0",
       "image": "https://cdn.myanimelist.net/images/anime/1085/154496.jpg",
       "adult": false,
@@ -22949,17 +22949,18 @@
       "streaming": [],
       "streamingSource": "",
       "checkedAt": "2026-11-03T23:21:11.944519+00:00",
-      "scheduleCheckedAt": "2026-11-03T23:21:11.944519+00:00",
-      "scheduleSource": "https://myanimelist.net/anime/season/2027/winter",
+      "scheduleCheckedAt": "2026-11-25",
+      "scheduleSource": "https://www.aniplex.co.jp/lineup/mashle-3rd/news/detail/?id=71682",
       "detailsChecked": true,
       "synopsisNote": "Sintesi editoriale della premessa riportata nella scheda MAL; non anticipa contenuti o date non annunciati.",
       "synopsisSource": "https://myanimelist.net/anime/58934/Mashle__Sanma_Taisou_Shinkakusha_Saishuu_Shiken-hen",
       "releaseStatus": "Annunciato",
       "officialSources": [
-        "https://mashle.pw/"
+        "https://mashle.pw/",
+        "https://www.aniplex.co.jp/lineup/mashle-3rd/news/detail/?id=71682"
       ],
       "releaseWindow": "Gennaio – Marzo 2027",
-      "scheduleNote": "Presente nel palinsesto MAL Winter 2027, soggetto a variazioni. La collocazione stagionale non conferma un giorno di debutto o uno streaming italiano."
+      "scheduleNote": "Aniplex ha confermato il debutto televisivo giapponese della terza stagione per il 9 gennaio 2027."
     },
     "anime-61338": {
       "id": "anime-61338",
@@ -25431,5 +25432,5 @@
     }
   },
   "refreshNote": "Palinsesti MAL rilevati il 4 novembre 2026. Verifiche editoriali puntuali su date e streaming italiano del 7 novembre 2026: le date future e le altre piattaforme rimangono da confermare caso per caso.",
-  "editorialCheckedAt": "2026-11-22"
+  "editorialCheckedAt": "2026-11-25"
 }
