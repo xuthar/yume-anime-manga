@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:18:42.068807+01:00",
+  "updatedAt": "2026-11-25T19:16:42.661119+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-24T17:18:42.068807+01:00",
+      "checkedAt": "2026-11-25T19:16:42.661119+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-24T17:18:42.068807+01:00",
+      "checkedAt": "2026-11-25T19:16:42.661119+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-24T17:18:42.068807+01:00",
+      "checkedAt": "2026-11-25T19:16:42.661119+01:00",
       "status": "ok"
     }
   ],
@@ -7868,6 +7868,28 @@
       "sourceId": "j-novel-club"
     },
     {
+      "date": "2026-12-11",
+      "title": "Reborn to Reign: Imposing My Rules with My Mastery of Magic Volume 2",
+      "series": "Reborn to Reign: Imposing My Rules with My Mastery of Magic",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/reborn-to-reign-imposing-my-rules-with-my-mastery-of-magic#volume-2",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "The Trials and Tribulations of My Next Life as a Noblewoman: Volume 5 Part 2",
+      "series": "The Trials and Tribulations of My Next Life as a Noblewoman",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/the-trials-and-tribulations-of-my-next-life-as-a-noblewoman#volume-9",
+      "sourceId": "j-novel-club"
+    },
+    {
       "date": "2026-12-15",
       "title": "A Ninja and an Assassin Under One Roof Vol. 5",
       "series": "A Ninja and an Assassin Under One Roof Vol. 5",
@@ -8289,18 +8311,6 @@
     },
     {
       "date": "2026-12-29",
-      "title": "A Quirky Girl Is Inviting Me to Bed Vol. 1",
-      "series": "A Quirky Girl Is Inviting Me to Bed Vol. 1",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-90209-092-2",
-      "url": "https://sevenseasentertainment.com/books/a-quirky-girl-is-inviting-me-to-bed-vol-1/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-12-29",
       "title": "A Tale of the Secret Saint ZERO (Light Novel) Vol. 6",
       "series": "A Tale of the Secret Saint ZERO (Light Novel) Vol. 6",
       "publisher": "Seven Seas",
@@ -8349,18 +8359,6 @@
     },
     {
       "date": "2026-12-29",
-      "title": "Dinghai Fusheng Records (Novel) Vol. 6",
-      "series": "Dinghai Fusheng Records (Novel) Vol. 6",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89561-356-6",
-      "url": "https://sevenseasentertainment.com/books/dinghai-fusheng-records-novel-vol-6/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-12-29",
       "title": "Ichi the Killer (Omnibus) Vol. 0",
       "series": "Ichi the Killer (Omnibus) Vol. 0",
       "publisher": "Seven Seas",
@@ -8381,30 +8379,6 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89561-371-9",
       "url": "https://sevenseasentertainment.com/books/legend-of-exorcism-tianbao-fuyao-lu-novel-vol-7/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-12-29",
-      "title": "Love Tattoo",
-      "series": "Love Tattoo",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-532-9",
-      "url": "https://sevenseasentertainment.com/books/love-tattoo/",
-      "sourceId": "seven-seas"
-    },
-    {
-      "date": "2026-12-29",
-      "title": "No God in Eden Vol. 5",
-      "series": "No God in Eden Vol. 5",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "manga",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-218-2",
-      "url": "https://sevenseasentertainment.com/books/no-god-in-eden-vol-5/",
       "sourceId": "seven-seas"
     },
     {
@@ -8456,18 +8430,6 @@
       "sourceId": "seven-seas"
     },
     {
-      "date": "2026-12-29",
-      "title": "The Weakest Tamer Began a Journey to Pick Up Trash (Light Novel) Vol. 14",
-      "series": "The Weakest Tamer Began a Journey to Pick Up Trash (Light Novel) Vol. 14",
-      "publisher": "Seven Seas",
-      "language": "EN",
-      "kind": "novel",
-      "edition": "Cartaceo · mercato anglofono",
-      "isbn": "979-8-89863-262-5",
-      "url": "https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/",
-      "sourceId": "seven-seas"
-    },
-    {
       "date": "2026-12-31",
       "title": "The Berserker NPC Unknowingly Destroys the World (Light Novel) Vol. 1 [Ebook]",
       "series": "The Berserker NPC Unknowingly Destroys the World (Light Novel) Vol. 1 [Ebook]",
@@ -8477,6 +8439,30 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "",
       "url": "https://sevenseasentertainment.com/books/the-berserker-npc-unknowingly-destroys-the-world-light-novel-vol-1-ebook/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-05",
+      "title": "A Quirky Girl Is Inviting Me to Bed Vol. 1",
+      "series": "A Quirky Girl Is Inviting Me to Bed Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-092-2",
+      "url": "https://sevenseasentertainment.com/books/a-quirky-girl-is-inviting-me-to-bed-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-05",
+      "title": "Dinghai Fusheng Records (Novel) Vol. 6",
+      "series": "Dinghai Fusheng Records (Novel) Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-356-6",
+      "url": "https://sevenseasentertainment.com/books/dinghai-fusheng-records-novel-vol-6/",
       "sourceId": "seven-seas"
     },
     {
@@ -8601,6 +8587,18 @@
     },
     {
       "date": "2027-01-05",
+      "title": "Love Tattoo",
+      "series": "Love Tattoo",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-532-9",
+      "url": "https://sevenseasentertainment.com/books/love-tattoo/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-05",
       "title": "Miss Kobayashi’s Dragon Maid: Fafnir the Recluse Vol. 6",
       "series": "Miss Kobayashi’s Dragon Maid: Fafnir the Recluse Vol. 6",
       "publisher": "Seven Seas",
@@ -8621,6 +8619,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-215-1",
       "url": "https://sevenseasentertainment.com/books/my-stepmother-and-stepsisters-arent-wicked-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-05",
+      "title": "No God in Eden Vol. 5",
+      "series": "No God in Eden Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-218-2",
+      "url": "https://sevenseasentertainment.com/books/no-god-in-eden-vol-5/",
       "sourceId": "seven-seas"
     },
     {
@@ -8693,6 +8703,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-098-0",
       "url": "https://sevenseasentertainment.com/books/the-obsessed-mage-and-his-beloved-statue-bride-she-cannot-resist-his-seductive-voice-manga-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-01-05",
+      "title": "The Weakest Tamer Began a Journey to Pick Up Trash (Light Novel) Vol. 14",
+      "series": "The Weakest Tamer Began a Journey to Pick Up Trash (Light Novel) Vol. 14",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-262-5",
+      "url": "https://sevenseasentertainment.com/books/the-weakest-tamer-began-a-journey-to-pick-up-trash-light-novel-vol-14/",
       "sourceId": "seven-seas"
     },
     {
@@ -12525,6 +12547,30 @@
     },
     {
       "date": "2027-05-11",
+      "title": "Beacon of Light in the Dark Sea (Novel) Vol. 4",
+      "series": "Beacon of Light in the Dark Sea (Novel) Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89561-518-8",
+      "url": "https://sevenseasentertainment.com/books/beacon-of-light-in-the-dark-sea-novel-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Betrothed to My Sister’s Ex (Light Novel) Vol. 5",
+      "series": "Betrothed to My Sister’s Ex (Light Novel) Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-590-8",
+      "url": "https://sevenseasentertainment.com/books/betrothed-to-my-sisters-ex-light-novel-vol-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
       "title": "DEAR. DOOR (Comic) Vol. 6",
       "series": "DEAR. DOOR (Comic) Vol. 6",
       "publisher": "Seven Seas",
@@ -12537,6 +12583,66 @@
     },
     {
       "date": "2027-05-11",
+      "title": "Dance in the Vampire Bund: Age of Scarlet Order Vol. 20",
+      "series": "Dance in the Vampire Bund: Age of Scarlet Order Vol. 20",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-592-3",
+      "url": "https://sevenseasentertainment.com/books/dance-in-the-vampire-bund-age-of-scarlet-order-vol-20/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Don’t Let the Vampires Know! Vol. 1",
+      "series": "Don’t Let the Vampires Know! Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-850-8",
+      "url": "https://sevenseasentertainment.com/books/dont-let-the-vampires-know-vol-1/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Girl Meets Rock! Vol. 4",
+      "series": "Girl Meets Rock! Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-759-9",
+      "url": "https://sevenseasentertainment.com/books/girl-meets-rock-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Hope You’re Happy, Lemon Vol. 6",
+      "series": "Hope You’re Happy, Lemon Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-609-7",
+      "url": "https://sevenseasentertainment.com/books/hope-youre-happy-lemon-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Hunting in Another World With My Elf Wife (Manga) Vol. 8",
+      "series": "Hunting in Another World With My Elf Wife (Manga) Vol. 8",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-941-9",
+      "url": "https://sevenseasentertainment.com/books/hunting-in-another-world-with-my-elf-wife-manga-vol-8/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
       "title": "Magical Buffs: The Support Caster is Stronger Than He Realized! (Manga) Vol. 9",
       "series": "Magical Buffs: The Support Caster is Stronger Than He Realized! (Manga) Vol. 9",
       "publisher": "Seven Seas",
@@ -12545,6 +12651,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89765-928-9",
       "url": "https://sevenseasentertainment.com/books/magical-buffs-the-support-caster-is-stronger-than-he-realized-manga-vol-9/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "My Cute Cousin Always Gets Her Way Vol. 5",
+      "series": "My Cute Cousin Always Gets Her Way Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-988-4",
+      "url": "https://sevenseasentertainment.com/books/my-cute-cousin-always-gets-her-way-vol-5/",
       "sourceId": "seven-seas"
     },
     {
@@ -12569,6 +12687,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-89863-084-3",
       "url": "https://sevenseasentertainment.com/books/my-useless-cuddle-skill-awakened-and-now-im-building-the-ultimate-harem-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger (Manga) Vol. 9",
+      "series": "Only I Know the World Is Ending and Getting Killed by Rampaging Beasts Only Makes Me Stronger (Manga) Vol. 9",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-634-9",
+      "url": "https://sevenseasentertainment.com/books/only-i-know-the-world-is-ending-and-getting-killed-by-rampaging-beasts-only-makes-me-stronger-manga-vol-9/",
       "sourceId": "seven-seas"
     },
     {
@@ -12609,6 +12739,30 @@
     },
     {
       "date": "2027-05-11",
+      "title": "The One-Eyed, One-Armed, One-Legged Sorcerer (Manga) Vol. 2",
+      "series": "The One-Eyed, One-Armed, One-Legged Sorcerer (Manga) Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-548-0",
+      "url": "https://sevenseasentertainment.com/books/the-one-eyed-one-armed-one-legged-sorcerer-manga-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
+      "title": "Transform Me, Mark Me: Gaizao Wo, Biaoji Wo (Novel) Vol. 2",
+      "series": "Transform Me, Mark Me: Gaizao Wo, Biaoji Wo (Novel) Vol. 2",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-110-3",
+      "url": "https://sevenseasentertainment.com/books/transform-me-mark-me-gaizao-wo-biaoji-wo-novel-vol-2/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-11",
       "title": "Trapped in a Dating Sim: Otome Games Are Tough For Us, Too! (Light Novel) Vol. 6",
       "series": "Trapped in a Dating Sim: Otome Games Are Tough For Us, Too! (Light Novel) Vol. 6",
       "publisher": "Seven Seas",
@@ -12617,6 +12771,90 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-075-5",
       "url": "https://sevenseasentertainment.com/books/trapped-in-a-dating-sim-otome-games-are-tough-for-us-too-light-novel-vol-6/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-13",
+      "title": "Predator Witches (Light Novel) Vol. 3 [Ebook]",
+      "series": "Predator Witches (Light Novel) Vol. 3 [Ebook]",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "",
+      "url": "https://sevenseasentertainment.com/books/predator-witches-light-novel-vol-3-ebook/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "A Yuri Love Story That Begins with Getting Dumped in a Dream Vol. 4",
+      "series": "A Yuri Love Story That Begins with Getting Dumped in a Dream Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-164-2",
+      "url": "https://sevenseasentertainment.com/books/a-yuri-love-story-that-begins-with-getting-dumped-in-a-dream-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "Dogs of Tosca",
+      "series": "Dogs of Tosca",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-897-3",
+      "url": "https://sevenseasentertainment.com/books/dogs-of-tosca/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince (Manga) Vol. 5",
+      "series": "I Abandoned My Engagement Because My Sister is a Tragic Heroine, but Somehow I Became Entangled with a Righteous Prince (Manga) Vol. 5",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-339-3",
+      "url": "https://sevenseasentertainment.com/books/i-abandoned-my-engagement-because-my-sister-is-a-tragic-heroine-but-somehow-i-became-entangled-with-a-righteous-prince-manga-vol-5/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "Loner Life in Another World (Light Novel) Vol. 16",
+      "series": "Loner Life in Another World (Light Novel) Vol. 16",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89765-620-2",
+      "url": "https://sevenseasentertainment.com/books/loner-life-in-another-world-light-novel-vol-16/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "That Girl I’m Interested In is a Maid from the Abyss",
+      "series": "That Girl I’m Interested In is a Maid from the Abyss",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-675-7",
+      "url": "https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "The Kaiju Autopsy Vol. 1",
+      "series": "The Kaiju Autopsy Vol. 1",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-851-5",
+      "url": "https://sevenseasentertainment.com/books/the-kaiju-autopsy-vol-1/",
       "sourceId": "seven-seas"
     }
   ]
