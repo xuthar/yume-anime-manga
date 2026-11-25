@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "issues": [
+    {
+      "id": "01-2026-11",
+      "number": "01",
+      "title": "La bellezza dei dettagli",
+      "date": "2026-11-30",
+      "theme": "Segni, colori, carta e cultura: sei modi di osservare il Giappone.",
+      "featuredSlug": "kaguya-il-segno-in-movimento",
+      "articleSlugs": [
+        "kaguya-il-segno-in-movimento",
+        "look-back-il-lavoro-invisibile",
+        "kawaii-lab-il-costume-come-linguaggio",
+        "biblioteca-manga-conservare-la-carta",
+        "momijigari-i-colori-del-novembre",
+        "byobu-lo-spazio-che-si-piega"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "kaguya-il-segno-in-movimento",
+      "category": "Anime",
+      "featured": true,
+      "title": "Kaguya: quando il disegno respira",
+      "subtitle": "Il film di Isao Takahata e la forza espressiva di un segno che non vuole sembrare perfetto.",
+      "reading": 3,
+      "tags": [
+        "animazione",
+        "Ghibli",
+        "Takahata"
+      ],
+      "sections": [
+        [
+          "Un film che lascia spazio alla carta",
+          "La storia della principessa splendente, uscita in Giappone il 23 novembre 2013, è diretta da Isao Takahata, con musica di Joe Hisaishi. La sua superficie grafica invita a guardare anche ciò che non viene riempito: il bianco attorno a una figura, la linea che si interrompe, il colore che sembra appena posato. Non è necessario confondere la semplicità apparente con una produzione semplice. L'impressione di immediatezza è precisamente ciò che rende interessante la costruzione dell'immagine."
+        ],
+        [
+          "La linea come emozione",
+          "Una linea regolare può suggerire calma; un tratto irregolare può comunicare tensione. In Kaguya il disegno non è soltanto il contorno di un corpo: diventa parte della sua espressione. Questa è una lettura critica, non una dichiarazione attribuita al regista. Vale la pena osservare come la densità del segno cambi la percezione dello spazio, senza cercare per forza un significato simbolico in ogni dettaglio."
+        ],
+        [
+          "Guardare senza cercare la perfezione",
+          "Una seconda visione può concentrarsi sulle transizioni tra paesaggio e personaggio. Quando lo sfondo si alleggerisce, chiediamoci dove va lo sguardo. Quando il movimento accelera, osserviamo quanto il tratto contribuisca alla sensazione di velocità. Il film offre un esercizio prezioso: distinguere la ricchezza visiva dalla quantità di dettagli. Una figura appena accennata può essere più eloquente di una superficie minuziosamente rifinita."
+        ]
+      ],
+      "sources": [
+        [
+          "Studio Ghibli — scheda ufficiale del film",
+          "https://www.ghibli.jp/works/kaguyahime/"
+        ]
+      ],
+      "related": [
+        [
+          "Yume Universe",
+          "universe.html"
+        ]
+      ],
+      "issueId": "01-2026-11",
+      "publishedAt": "2026-11-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0,
+      "illustrationBrief": "Bambù, luna, linee a inchiostro e carta avorio; composizione originale senza personaggi del film."
+    },
+    {
+      "slug": "look-back-il-lavoro-invisibile",
+      "category": "Manga",
+      "featured": false,
+      "title": "Look Back: il lavoro invisibile del disegno",
+      "subtitle": "Tatsuki Fujimoto e la distanza fra desiderare di creare e scegliere di farlo ogni giorno.",
+      "reading": 3,
+      "tags": [
+        "manga",
+        "Fujimoto",
+        "creatività"
+      ],
+      "sections": [
+        [
+          "Due matite, due solitudini",
+          "Pubblicato nel 2021, Look Back è un racconto autoconclusivo di Tatsuki Fujimoto. La presentazione ufficiale di VIZ introduce Fujino e Kyomoto, due ragazze molto diverse unite dalla passione per il manga. La premessa permette di leggere l'opera come una riflessione sul lavoro creativo, prima ancora che come una storia di talento. Disegnare significa ripetere un gesto anche quando nessuno lo vede, accettare il confronto e riconoscere quanto rimane da imparare."
+        ],
+        [
+          "La disciplina oltre l'ispirazione",
+          "Il mito dell'artista ispirato rischia di rendere invisibili le ore di esercizio. Una pagina finita non racconta automaticamente le bozze scartate, le esitazioni o la fatica di ricominciare. Fujimoto offre un punto di partenza per riflettere sulla distanza fra il risultato pubblico e il percorso privato. La rivalità può diventare una misura dei propri limiti, ma il valore della collaborazione non si esaurisce nella competizione."
+        ],
+        [
+          "Un esercizio per il lettore",
+          "Provate a leggere osservando le posture di chi disegna, la disposizione delle scrivanie e la ripetizione delle attività. Sono elementi quotidiani che possono trasformare il lavoro in racconto senza bisogno di lunghe spiegazioni. Non serve anticipare gli eventi più delicati dell'opera per cogliere questa idea: creare qualcosa significa anche imparare a convivere con ciò che non possiamo controllare."
+        ]
+      ],
+      "sources": [
+        [
+          "VIZ — Look Back, scheda ufficiale",
+          "https://www.viz.com/look-back"
+        ],
+        [
+          "VIZ — pubblicazione del racconto",
+          "https://www.viz.com/shonenjump/chapters/look-back"
+        ]
+      ],
+      "related": [
+        [
+          "Yume 3.0",
+          "yume-3.html"
+        ]
+      ],
+      "issueId": "01-2026-11",
+      "publishedAt": "2026-11-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0,
+      "illustrationBrief": "Due scrivanie, matite, fogli e luce di finestra; nessuna vignetta riprodotta."
+    },
+    {
+      "slug": "kawaii-lab-il-costume-come-linguaggio",
+      "category": "J-Pop",
+      "featured": false,
+      "title": "KAWAII LAB.: il costume come linguaggio",
+      "subtitle": "Dal palco alla mostra, l'identità visiva delle idol diventa un progetto culturale.",
+      "reading": 3,
+      "tags": [
+        "J-Pop",
+        "idol",
+        "moda"
+      ],
+      "sections": [
+        [
+          "Il guardaroba racconta",
+          "KAWAII LAB. nasce nel 2022 come progetto di ASOBISYSTEM per promuovere la cultura idol giapponese. Il costume è una chiave interessante per comprenderne l'identità: colori, silhouette e accessori rendono riconoscibile una performance anche in una fotografia immobile. Non sono una semplice decorazione aggiunta alla musica. Costruiscono un sistema visivo attraverso cui il pubblico può orientarsi fra gruppi e differenti progetti artistici."
+        ],
+        [
+          "Dal concerto alla mostra",
+          "L'esposizione KAWAII CLOSET ha portato gli abiti di scena fuori dal contesto del concerto. L'edizione di Tokyo, annunciata il 3 aprile 2026 e tenuta dal 24 aprile all'11 maggio, comprendeva 154 costumi secondo il comunicato ufficiale. Guardare un abito da vicino significa poter distinguere materiali, dettagli e scelte progettuali che sul palco diventano soprattutto movimento e colore."
+        ],
+        [
+          "Un'identità che cambia supporto",
+          "Il 20 novembre 2026 il sito ufficiale di CANDY TUNE ha annunciato adesivi LINE illustrati in pigiama per cinque gruppi del progetto. È un esempio recente di come l'immagine idol possa passare dalla performance a un oggetto digitale quotidiano. La sfida editoriale è distinguere il lavoro di progettazione visiva dalla vita privata delle artiste: apprezzare un personaggio pubblico non significa conoscere la persona che lo interpreta."
+        ]
+      ],
+      "sources": [
+        [
+          "ASOBISYSTEM — nascita di KAWAII LAB.",
+          "https://asobisystem.com/en/news/25158/"
+        ],
+        [
+          "FRUITS ZIPPER — mostra KAWAII CLOSET 2026",
+          "https://fruitszipper.asobisystem.com/news/detail/75701"
+        ],
+        [
+          "CANDY TUNE — annuncio del 20 novembre 2026",
+          "https://candytune.asobisystem.com/news/detail/97066"
+        ]
+      ],
+      "related": [
+        [
+          "Yume 3.0",
+          "yume-3.html"
+        ]
+      ],
+      "issueId": "01-2026-11",
+      "publishedAt": "2026-11-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0,
+      "illustrationBrief": "Manichini astratti, tessuti colorati e luci da palco; nessun volto o costume ufficiale copiato."
+    },
+    {
+      "slug": "biblioteca-manga-conservare-la-carta",
+      "category": "Collezionismo",
+      "featured": false,
+      "title": "Una biblioteca che resiste al tempo",
+      "subtitle": "Conservare i manga senza trasformare la propria casa in un museo inaccessibile.",
+      "reading": 3,
+      "tags": [
+        "manga",
+        "conservazione",
+        "biblioteca"
+      ],
+      "sections": [
+        [
+          "Il nemico non è la lettura",
+          "Una collezione nasce per essere sfogliata. La Library of Congress dedica indicazioni specifiche alla conservazione dei fumetti: mani pulite, superfici adatte e attenzione alla piega del volume. Sono principi utili anche per i tankōbon, pur tenendo conto delle differenze di carta e rilegatura. La cura quotidiana vale più di una protezione costosa applicata senza criterio."
+        ],
+        [
+          "Lo scaffale come ambiente",
+          "La luce intensa, il calore e le variazioni ambientali possono accelerare il deterioramento. Conviene scegliere scaffali lontani da finestre soleggiate e radiatori, controllare periodicamente eventuali infiltrazioni e lasciare spazio sufficiente per estrarre i libri senza tirare il dorso. La stabilità dell'ambiente è una priorità più ragionevole che inseguire condizioni da archivio professionale in ogni stanza."
+        ],
+        [
+          "Una manutenzione sostenibile",
+          "Organizzare una piccola ispezione stagionale permette di individuare presto polvere, deformazioni o segni di umidità. Evitiamo riparazioni improvvisate con nastro adesivo e colle domestiche. Per esemplari preziosi o già deteriorati è meglio chiedere a un conservatore. La regola più utile rimane semplice: una biblioteca ben tenuta deve essere facile da usare, non soltanto bella da fotografare."
+        ]
+      ],
+      "sources": [
+        [
+          "Library of Congress — conservazione dei fumetti",
+          "https://loc.gov/preservation/care/comics.html"
+        ]
+      ],
+      "related": [
+        [
+          "Yume 3.0",
+          "yume-3.html"
+        ]
+      ],
+      "issueId": "01-2026-11",
+      "publishedAt": "2026-11-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0,
+      "illustrationBrief": "Scaffale ordinato, luce indiretta, volumi senza marchi e simboli di protezione."
+    },
+    {
+      "slug": "momijigari-i-colori-del-novembre",
+      "category": "Cultura giapponese",
+      "featured": false,
+      "title": "Momijigari: inseguire l'autunno",
+      "subtitle": "Il paesaggio giapponese come esperienza stagionale, fra poesia, giardini e passeggiate.",
+      "reading": 3,
+      "tags": [
+        "Giappone",
+        "autunno",
+        "viaggi"
+      ],
+      "sections": [
+        [
+          "La stagione come appuntamento",
+          "Il momijigari è la consuetudine di andare ad ammirare le foglie autunnali. L'ente turistico giapponese ne ricostruisce le radici nella cultura di corte del periodo Heian e la successiva diffusione. È un modo di osservare il paesaggio attraverso la sua trasformazione, anziché trattarlo come uno sfondo immutabile. Il rosso degli aceri e il giallo dei ginkgo diventano occasioni per uscire, camminare e ritrovare attenzione."
+        ],
+        [
+          "Non esiste un solo autunno",
+          "Latitudine, altitudine e condizioni meteorologiche modificano il calendario dei colori. Le previsioni JNTO per il 2026 indicano periodi diversi fra Sapporo, Tokyo e Osaka. Sono stime, non garanzie per una singola giornata. Chi prepara un viaggio dovrebbe consultare gli aggiornamenti locali e prevedere alternative, invece di affidare tutto a una fotografia vista sui social."
+        ],
+        [
+          "Una passeggiata da ricordare",
+          "Il consiglio della redazione è scegliere un percorso breve, lasciare tempo per sostare e osservare anche le foglie cadute. Un giardino può essere interessante prima o dopo il massimo splendore. La fotografia non deve necessariamente essere il risultato principale della visita: il cambiamento della luce e il silenzio fra gli alberi possono diventare il ricordo più duraturo."
+        ]
+      ],
+      "sources": [
+        [
+          "JNTO — storia e cultura del koyo",
+          "https://www.japan.travel/en/au/experience/autumn-leaves/history-culture-koyo/"
+        ],
+        [
+          "JNTO — previsioni autunnali 2026",
+          "https://www.japan.travel/en/see-and-do/autumn-leaves-forecast/"
+        ]
+      ],
+      "related": [
+        [
+          "Viaggio in Giappone",
+          "giappone-da-visitare.html"
+        ],
+        [
+          "Yume Japan",
+          "yume-japan.html"
+        ]
+      ],
+      "issueId": "01-2026-11",
+      "publishedAt": "2026-11-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0,
+      "illustrationBrief": "Acero rosso, ginkgo dorato, sentiero e stagno; illustrazione stagionale originale."
+    },
+    {
+      "slug": "byobu-lo-spazio-che-si-piega",
+      "category": "Arte e storia",
+      "featured": false,
+      "title": "Byobu: il paesaggio che si piega",
+      "subtitle": "Un paravento del periodo Heian ci insegna a leggere lo spazio oltre la cornice.",
+      "reading": 3,
+      "tags": [
+        "arte",
+        "storia",
+        "Heian"
+      ],
+      "sections": [
+        [
+          "Una superficie che abita la stanza",
+          "Il Kyoto National Museum conserva un paravento a sei pannelli dell'XI secolo, noto come Landscape with Figures. Realizzato con inchiostro e colori su seta, è classificato come tesoro nazionale. Il museo ne documenta l'impiego rituale nella tradizione buddhista Shingon e la provenienza dal tempio To-ji. La sua struttura permette di riflettere su un'immagine che non nasce necessariamente per essere osservata come un quadro piatto."
+        ],
+        [
+          "La piega modifica lo sguardo",
+          "Un paravento organizza lo spazio fisico e, allo stesso tempo, quello rappresentato. La continuità del paesaggio attraversa superfici separate: il ritmo dei pannelli può rallentare l'osservazione o suggerire una successione di scene. È un'affinità formale interessante per chi legge manga, non una prova di derivazione storica diretta. Due mezzi molto lontani possono invitare lo spettatore a ricomporre mentalmente una totalità."
+        ],
+        [
+          "Dalla scheda al dettaglio",
+          "La scheda museale descrive un paesaggio con figure in abiti di tradizione Tang e identifica probabilmente un personaggio con il poeta Bai Juyi. Questo contesto aiuta a non ridurre l'arte giapponese a un repertorio isolato di simboli. Osservare l'opera significa anche riconoscere scambi culturali, funzioni rituali e trasformazioni nel tempo. Il museo è il punto di partenza per approfondire, non un semplice deposito di immagini decorative."
+        ]
+      ],
+      "sources": [
+        [
+          "Kyoto National Museum — Landscape with Figures",
+          "https://www.kyohaku.go.jp/eng//collection/meihin/butsuga/item02/"
+        ]
+      ],
+      "related": [
+        [
+          "Storia del Giappone",
+          "storia-giappone-anime.html"
+        ],
+        [
+          "Yume Japan",
+          "yume-japan.html"
+        ]
+      ],
+      "issueId": "01-2026-11",
+      "publishedAt": "2026-11-30",
+      "byline": "Redazione Yume · Analisi originale",
+      "spoilerLevel": 0,
+      "illustrationBrief": "Sei pannelli astratti con montagne, nebbia e acqua; non riprodurre il tesoro museale."
+    }
+  ]
+}
