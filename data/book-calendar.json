@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:42:07.186701+01:00",
+  "updatedAt": "2026-11-27T16:30:25.228428+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-26T16:42:07.186701+01:00",
+      "checkedAt": "2026-11-27T16:30:25.228428+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-26T16:42:07.186701+01:00",
+      "checkedAt": "2026-11-27T16:30:25.228428+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-26T16:42:07.186701+01:00",
+      "checkedAt": "2026-11-27T16:30:25.228428+01:00",
       "status": "ok"
     }
   ],
@@ -8017,6 +8017,17 @@
     },
     {
       "date": "2026-12-15",
+      "title": "Chivalry of a Failed Knight: Volume 12",
+      "series": "Chivalry of a Failed Knight",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/chivalry-of-a-failed-knight#volume-13",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-15",
       "title": "Hidden Love (Novel) Vol. 2",
       "series": "Hidden Love (Novel) Vol. 2",
       "publisher": "Seven Seas",
@@ -8050,6 +8061,17 @@
       "isbn": "979-8-89765-739-1",
       "url": "https://sevenseasentertainment.com/books/i-wont-let-mistress-suck-my-blood-vol-4/",
       "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Isekai Tensei: Recruited to Another World Volume 15",
+      "series": "Isekai Tensei: Recruited to Another World",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/isekai-tensei-recruited-to-another-world#volume-15",
+      "sourceId": "j-novel-club"
     },
     {
       "date": "2026-12-15",
@@ -8206,6 +8228,28 @@
       "isbn": "979-8-89765-995-1",
       "url": "https://sevenseasentertainment.com/books/they-are-still-being-shaken-this-morning-vol-3/",
       "sourceId": "seven-seas"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Ascendance of a Bookworm (Manga) Part 3 Volume 7",
+      "series": "Ascendance of a Bookworm (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/ascendance-of-a-bookworm-manga#volume-26",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Proud to Be the Villainess: Volume 3",
+      "series": "Proud to Be the Villainess",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/proud-to-be-the-villainess#volume-3",
+      "sourceId": "j-novel-club"
     },
     {
       "date": "2026-12-22",
@@ -12889,6 +12933,18 @@
     },
     {
       "date": "2027-05-18",
+      "title": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel) Vol. 12",
+      "series": "I’m the Evil Lord of an Intergalactic Empire! (Light Novel) Vol. 12",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-89863-954-9",
+      "url": "https://sevenseasentertainment.com/books/im-the-evil-lord-of-an-intergalactic-empire-light-novel-vol-12/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
       "title": "Loner Life in Another World (Light Novel) Vol. 16",
       "series": "Loner Life in Another World (Light Novel) Vol. 16",
       "publisher": "Seven Seas",
@@ -12901,6 +12957,42 @@
     },
     {
       "date": "2027-05-18",
+      "title": "Perfect Addiction Vol. 4",
+      "series": "Perfect Addiction Vol. 4",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-004-5",
+      "url": "https://sevenseasentertainment.com/books/perfect-addiction-vol-4/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "Reborn as a Barrier Master (Manga) Vol. 10",
+      "series": "Reborn as a Barrier Master (Manga) Vol. 10",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-012-0",
+      "url": "https://sevenseasentertainment.com/books/reborn-as-a-barrier-master-manga-vol-10/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits! (Manga) Vol. 3",
+      "series": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits! (Manga) Vol. 3",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-013-7",
+      "url": "https://sevenseasentertainment.com/books/reborn-as-an-aristocratic-scoundrel-i-broke-the-game-and-mastered-magic-beyond-limits-manga-vol-3/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
       "title": "That Girl I’m Interested In is a Maid from the Abyss",
       "series": "That Girl I’m Interested In is a Maid from the Abyss",
       "publisher": "Seven Seas",
@@ -12909,6 +13001,18 @@
       "edition": "Cartaceo · mercato anglofono",
       "isbn": "979-8-90209-675-7",
       "url": "https://sevenseasentertainment.com/books/that-girl-im-interested-in-is-a-maid-from-the-abyss/",
+      "sourceId": "seven-seas"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "The Fed-Up Office Lady Wants to Serve the Villainess Vol. 6",
+      "series": "The Fed-Up Office Lady Wants to Serve the Villainess Vol. 6",
+      "publisher": "Seven Seas",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Cartaceo · mercato anglofono",
+      "isbn": "979-8-90209-045-8",
+      "url": "https://sevenseasentertainment.com/books/the-fed-up-office-lady-wants-to-serve-the-villainess-vol-6/",
       "sourceId": "seven-seas"
     },
     {
