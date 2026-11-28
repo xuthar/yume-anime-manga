@@ -111,7 +111,7 @@ def fetch(key):
 def main():
  now=datetime.now(ZoneInfo('Europe/Rome'));today=now.date()
  path=ROOT/'data/book-calendar.json';old=json.loads(path.read_text()) if path.exists() else {'sources':[],'releases':[]}
- old_sources={s['id']:s for s in old.get('sources',[])};sources=[];releases=[];success=0
+ old_sources={s['id']:s for s in old.get('sources',[])};sources=[];releases=[];observed=[];success=0
  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
   pending={k:pool.submit(fetch,k) for k in SOURCES}
   for key,(label,url,lang) in SOURCES.items():
@@ -119,8 +119,9 @@ def main():
    try:
     events=pending[key].result();success+=1
     # All current/future listings for this source are replaced, including cancellations.
-    events=[x for x in prior if x['date']<today.isoformat()]+events
     for e in events:e['sourceId']=key
+    observed.extend(events)
+    events=[x for x in prior if x['date']<today.isoformat()]+events
     sources.append({'id':key,'name':label,'url':url,'language':lang,'checkedAt':now.isoformat(),'status':'ok'})
    except Exception as exc:
     print(key,'FAILED:',exc);events=prior
@@ -130,8 +131,8 @@ def main():
  # ISBN is edition-specific. Without ISBN, only identical source URLs identify a release.
  unique={book_identity(e):e for e in releases}
  payload={'updatedAt':now.isoformat(),'timezone':'Europe/Rome','sources':sources,'releases':sorted(unique.values(),key=lambda e:(e['date'],e['language'],e['title']))}
- capture(ROOT/'data/book-calendar-history.json',old,'releases')
- capture(ROOT/'data/book-calendar-history.json',payload,'releases')
+ capture(ROOT/'data/book-calendar-history.json',old,'releases',only_missing=True)
+ capture(ROOT/'data/book-calendar-history.json',{'updatedAt':payload['updatedAt'],'releases':observed},'releases')
  temp=path.with_suffix('.tmp');temp.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n');temp.replace(path)
  print(f"Book calendar: {len(unique)} releases; {success}/{len(SOURCES)} sources refreshed")
 if __name__=='__main__':main()

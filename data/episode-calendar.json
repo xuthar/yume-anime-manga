@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:35:27.595074+01:00",
+  "updatedAt": "2026-11-28T15:32:17+01:00",
   "timezone": "Europe/Rome",
   "source": "https://www.animeclick.it/calendario-anime",
   "coverageStart": "2026-10-20",
@@ -3369,16 +3369,6 @@
       "date": "2026-11-28",
       "time": "17:00",
       "start": "2026-11-28T17:00:00+01:00",
-      "title": "Black Clover",
-      "episode": "2x176",
-      "platform": "Crunchyroll [DUB ITA]",
-      "sourceUrl": "https://www.animeclick.it/episodio/430072/la-valchiria-sacra",
-      "itemId": "anime-61967"
-    },
-    {
-      "date": "2026-11-28",
-      "time": "17:00",
-      "start": "2026-11-28T17:00:00+01:00",
       "title": "Vertex Force",
       "episode": "09",
       "platform": "Crunchyroll",
@@ -3620,9 +3610,9 @@
       "time": "16:30",
       "start": "2026-11-30T16:30:00+01:00",
       "title": "PSYЯEN",
-      "episode": "08",
+      "episode": "07",
       "platform": "Crunchyroll",
-      "sourceUrl": "https://www.animeclick.it/episodio/430195",
+      "sourceUrl": "https://www.animeclick.it/episodio/430194",
       "itemId": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T15:28:34.329959+01:00",
+  "updatedAt": "2026-11-28T15:32:17+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -6774,17 +6774,6 @@
     },
     {
       "date": "2026-11-26",
-      "title": "Our Sunny Days Deluxe 3",
-      "series": "Our Sunny Days",
-      "publisher": "Magic Press",
-      "language": "IT",
-      "kind": "manga",
-      "edition": "Edizione italiana",
-      "url": "https://www.animeclick.it/edizione/3112945/our-sunny-days-deluxe",
-      "sourceId": "animeclick-manga"
-    },
-    {
-      "date": "2026-11-26",
       "title": "Ragna Crimson 17",
       "series": "Ragna Crimson",
       "publisher": "Panini Comics",
@@ -7068,6 +7057,17 @@
       "edition": "Ebook completo · non prepubblicazione",
       "url": "https://j-novel.club/series/private-tutor-to-the-duke-s-daughter#volume-22",
       "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Our Sunny Days Deluxe 3",
+      "series": "Our Sunny Days",
+      "publisher": "Magic Press",
+      "language": "IT",
+      "kind": "manga",
+      "edition": "Edizione italiana",
+      "url": "https://www.animeclick.it/edizione/3112945/our-sunny-days-deluxe",
+      "sourceId": "animeclick-manga"
     },
     {
       "date": "2026-12-01",

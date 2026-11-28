@@ -2,7 +2,7 @@
 import hashlib,json
 from pathlib import Path
 
-def capture(path,payload,field):
+def capture(path,payload,field,*,only_missing=False):
     path=Path(path)
     archive=json.loads(path.read_text()) if path.exists() else {'schemaVersion':1,'observations':[]}
     records={r['id']:r for r in archive['observations']}
@@ -11,7 +11,7 @@ def capture(path,payload,field):
         encoded=json.dumps(item,ensure_ascii=False,sort_keys=True,separators=(',',':'))
         key=hashlib.sha256(encoded.encode()).hexdigest()
         if key not in records:records[key]={'id':key,'firstObservedAt':observed,'lastObservedAt':observed,'entry':item}
-        elif observed:
+        elif observed and not only_missing:
             records[key]['firstObservedAt']=min(filter(None,[observed,records[key].get('firstObservedAt')]))
             records[key]['lastObservedAt']=max(filter(None,[observed,records[key].get('lastObservedAt')]))
     archive['observations']=sorted(records.values(),key=lambda r:(r['entry'].get('date',''),r['id']))

@@ -257,6 +257,195 @@
     "group": "NGT48",
     "source": "https://ngt48.jp/profile",
     "image": "assets/jpop/ngt48/group.webp"
+  },
+  {
+    "name": "Yuho Aoki",
+    "alternate": "青木 宙帆",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_aoki_yuho",
+    "source": "https://bokuao.com/feature/profile_aoki_yuho",
+    "image": "assets/jpop/bokuao/aoki-yuho.jpg"
+  },
+  {
+    "name": "Rian Akita",
+    "alternate": "秋田 莉杏",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_akita_rian",
+    "source": "https://bokuao.com/feature/profile_akita_rian",
+    "image": "assets/jpop/bokuao/akita-rian.jpg"
+  },
+  {
+    "name": "Aoi Anno",
+    "alternate": "安納 蒼衣",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_anno_aoi",
+    "source": "https://bokuao.com/feature/profile_anno_aoi",
+    "image": "assets/jpop/bokuao/anno-aoi.jpg"
+  },
+  {
+    "name": "Yuzu Ito",
+    "alternate": "伊藤 ゆず",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_ito_yuzu",
+    "source": "https://bokuao.com/feature/profile_ito_yuzu",
+    "image": "assets/jpop/bokuao/ito-yuzu.jpg"
+  },
+  {
+    "name": "Yuki Imai",
+    "alternate": "今井 優希",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_imai_yuki",
+    "source": "https://bokuao.com/feature/profile_imai_yuki",
+    "image": "assets/jpop/bokuao/imai-yuki.jpg"
+  },
+  {
+    "name": "Riko Iwamoto",
+    "alternate": "岩本 理瑚",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_iwamoto_riko",
+    "source": "https://bokuao.com/feature/profile_iwamoto_riko",
+    "image": "assets/jpop/bokuao/iwamoto-riko.jpg"
+  },
+  {
+    "name": "Ami Kanazawa",
+    "alternate": "金澤 亜美",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_kanazawa_ami",
+    "source": "https://bokuao.com/feature/profile_kanazawa_ami",
+    "image": "assets/jpop/bokuao/kanazawa-ami.jpg"
+  },
+  {
+    "name": "Ai Kinoshita",
+    "alternate": "木下 藍",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_kinoshita_ai",
+    "source": "https://bokuao.com/feature/profile_kinoshita_ai",
+    "image": "assets/jpop/bokuao/kinoshita-ai.jpg"
+  },
+  {
+    "name": "Yua Kudo",
+    "alternate": "工藤 唯愛",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_kudo_yua",
+    "source": "https://bokuao.com/feature/profile_kudo_yua",
+    "image": "assets/jpop/bokuao/kudo-yua.jpg"
+  },
+  {
+    "name": "Nana Shiogama",
+    "alternate": "塩釜 菜那",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_shiogama_nana",
+    "source": "https://bokuao.com/feature/profile_shiogama_nana",
+    "image": "assets/jpop/bokuao/shiogama-nana.jpg"
+  },
+  {
+    "name": "Eren Sugiura",
+    "alternate": "杉浦 英恋",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_sugiura_eren",
+    "source": "https://bokuao.com/feature/profile_sugiura_eren",
+    "image": "assets/jpop/bokuao/sugiura-eren.jpg"
+  },
+  {
+    "name": "Miuna Sunaga",
+    "alternate": "須永 心海",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_sunaga_miuna",
+    "source": "https://bokuao.com/feature/profile_sunaga_miuna",
+    "image": "assets/jpop/bokuao/sunaga-miuna.jpg"
+  },
+  {
+    "name": "Aya Nishimori",
+    "alternate": "西森 杏弥",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_nishimori_aya",
+    "source": "https://bokuao.com/feature/profile_nishimori_aya",
+    "image": "assets/jpop/bokuao/nishimori-aya.jpg"
+  },
+  {
+    "name": "Kokoka Hagiwara",
+    "alternate": "萩原 心花",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_hagiwara_kokoka",
+    "source": "https://bokuao.com/feature/profile_hagiwara_kokoka",
+    "image": "assets/jpop/bokuao/hagiwara-kokoka.jpg"
+  },
+  {
+    "name": "Hitomi Hasegawa",
+    "alternate": "長谷川 稀未",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_hasegawa_hitomi",
+    "source": "https://bokuao.com/feature/profile_hasegawa_hitomi",
+    "image": "assets/jpop/bokuao/hasegawa-hitomi.jpg"
+  },
+  {
+    "name": "Suzuki Hayasaki",
+    "alternate": "早﨑 すずき",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_hayasaki_suzuki",
+    "source": "https://bokuao.com/feature/profile_hayasaki_suzuki",
+    "image": "assets/jpop/bokuao/hayasaki-suzuki.jpg"
+  },
+  {
+    "name": "Yuria Miyakoshi",
+    "alternate": "宮腰 友里亜",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_miyakoshi_yuria",
+    "source": "https://bokuao.com/feature/profile_miyakoshi_yuria",
+    "image": "assets/jpop/bokuao/miyakoshi-yuria.jpg"
+  },
+  {
+    "name": "Miisa Yaegashi",
+    "alternate": "八重樫 美伊咲",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_yaegashi_miisa",
+    "source": "https://bokuao.com/feature/profile_yaegashi_miisa",
+    "image": "assets/jpop/bokuao/yaegashi-miisa.jpg"
+  },
+  {
+    "name": "Toa Yagi",
+    "alternate": "八木 仁愛",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_yagi_toa",
+    "source": "https://bokuao.com/feature/profile_yagi_toa",
+    "image": "assets/jpop/bokuao/yagi-toa.jpg"
+  },
+  {
+    "name": "Karen Yanagihori",
+    "alternate": "柳堀 花怜",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_yanagihori_karen",
+    "source": "https://bokuao.com/feature/profile_yanagihori_karen",
+    "image": "assets/jpop/bokuao/yanagihori-karen.jpg"
+  },
+  {
+    "name": "Cocona Yoshimoto",
+    "alternate": "吉本 此那",
+    "category": "music",
+    "group": "BokuAo",
+    "profile": "https://bokuao.com/feature/profile_yoshimoto_cocona",
+    "source": "https://bokuao.com/feature/profile_yoshimoto_cocona",
+    "image": "assets/jpop/bokuao/yoshimoto-cocona.jpg"
   }
 ];
   const normalize = value => (value || '').normalize('NFKC').replace(/\s/g, '').toLowerCase();
