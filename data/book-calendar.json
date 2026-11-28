@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:30:25.228428+01:00",
+  "updatedAt": "2026-11-28T15:28:34.329959+01:00",
   "timezone": "Europe/Rome",
   "sources": [
     {
@@ -23,7 +23,7 @@
       "name": "Seven Seas · EN",
       "url": "https://sevenseasentertainment.com/release-dates/",
       "language": "EN",
-      "checkedAt": "2026-11-27T16:30:25.228428+01:00",
+      "checkedAt": "2026-11-28T15:28:34.329959+01:00",
       "status": "ok"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Yen Press · EN",
       "url": "https://yenpress.com/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-27T16:30:25.228428+01:00",
+      "checkedAt": "2026-11-28T15:28:34.329959+01:00",
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "name": "J-Novel Club · ebook EN",
       "url": "https://j-novel.club/calendar",
       "language": "EN",
-      "checkedAt": "2026-11-27T16:30:25.228428+01:00",
+      "checkedAt": "2026-11-28T15:28:34.329959+01:00",
       "status": "ok"
     }
   ],
@@ -8242,6 +8242,17 @@
     },
     {
       "date": "2026-12-16",
+      "title": "Forget Being the Villainess, I Want to Be an Adventurer! (Manga): Volume 6",
+      "series": "Forget Being the Villainess, I Want to Be an Adventurer! (Manga)",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "manga",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/forget-being-the-villainess-i-want-to-be-an-adventurer-manga#volume-6",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-16",
       "title": "Proud to Be the Villainess: Volume 3",
       "series": "Proud to Be the Villainess",
       "publisher": "J-Novel Club",
@@ -8249,6 +8260,28 @@
       "kind": "novel",
       "edition": "Ebook completo · non prepubblicazione",
       "url": "https://j-novel.club/series/proud-to-be-the-villainess#volume-3",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father Volume 7",
+      "series": "Revenge of the Soul Eater: Cast Out as a Weakling by My Sword Saint Father",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/revenge-of-the-soul-eater-cast-out-as-a-weakling-by-my-sword-saint-father#volume-7",
+      "sourceId": "j-novel-club"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "The Greatest Magicmaster's Retirement Plan: Volume 20",
+      "series": "The Greatest Magicmaster's Retirement Plan",
+      "publisher": "J-Novel Club",
+      "language": "EN",
+      "kind": "novel",
+      "edition": "Ebook completo · non prepubblicazione",
+      "url": "https://j-novel.club/series/the-greatest-magicmaster-s-retirement-plan#volume-20",
       "sourceId": "j-novel-club"
     },
     {
